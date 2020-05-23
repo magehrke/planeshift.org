@@ -1,0 +1,83 @@
+[Questname] Boralis Needs Neyehbes
+[NPC Name] Boralis Voladrand
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Emporium raid; [Money] 60
+
+[To] Boralis Voladrand
+
+[NPC Internal] Is there something I can do for you?
+[NPC] Boralis: Why yes, good Sir, there is something you could do for me.
+[NPC Narrate] -Boralis leans toward you and lowers his voice, speaking in a confidential tone.-
+[NPC] Boralis: You know, with all of what we've been through because of the bandits, Rinna has been so strong.
+[NPC] Boralis: I'd really like to get her something special to help cheer her up.
+[NPC] Boralis: There is a pastry called neyehbe that she has always been especially fond of, but I don't know where to find it these days and I am still too busy to really make a good search.
+[NPC] Boralis: Maybe you could find some for me, Sir.
+[NPC Internal] I will try my best.
+[NPC] Boralis: Ah, thank you.
+[NPC] Boralis: I'll be here waiting, best of luck to you!
+
+[To] Reffitia Thamal
+
+[NPC Internal] I am looking for neyehbe, know where I can get some?
+[NPC] Reffitia: You are looking for neyehbes, are you?
+[NPC] Reffitia: I should be able to cook you up a batch if you have time to wait.
+[NPC] Reffitia: The best part of neyehbes is the wait.
+[NPC Narrate] -Refittia chuckles and rubs a graying ear with her paw.-
+[NPC] Reffitia: If you would be so kind as to go over to Orchbaly's bakery and borrow a little sack of powdered strimptor for me, I can decorate the neyehbes afterward and make them properly fancy.
+[NPC Narrate] -Reffitia begins cleaning the grill.-
+[NPC] Reffitia: Tell him I need powdered strimptor.
+[NPC] Reffitia: I am sure the kind gentleman will lend me some.
+
+[To] Orchibaly Gurpleferd
+
+[NPC Internal] Reffitia needs some powdered strimptor if you have any.
+[NPC] Orchibaly: Oh, sweet powdered strimptor, I have some I can share, yes, yes.
+[NPC Narrate] -Orchibaly opens a barrel and peeks inside.-
+[NPC] Orchibaly: Oop, not that one, no, no.
+[NPC Narrate] -Orchibaly looks around the bakery, rubbing his head with a floury paw. He looks in a few other barrels before finding the right one.-
+[NPC] Orchibaly: Aha!
+[NPC] Orchibaly: I have you at my mercy now, my sweet little strimptor.
+[NPC Narrate] -Orchibaly smiles and looks at you.-
+[NPC] Orchibaly: How much does she need?
+[NPC Internal] A little sack will do.
+[NPC] Orchibaly: That can and will be done!
+[NPC] Orchibaly: A bit of strimptor for a lady with none!
+[NPC Narrate] -Orchibaly uses a wooden scoop to take the dusty yellow powder from the barrel and put it into a small sack. He puts a lid back on the barrel and ties the sack closed before giving it to you, blinking.-
+[NPC] Orchibaly: Ohhh, that stuff always gives me the sneezes.
+[NPC Narrate] -Orchibaly turns away and sneezes four times.-
+[NPC] Orchibaly: Phew! Cake tare,
+[NPC] Orchibaly: Cake tare, Sir - uh, I mean take care!
+[NPC Narrate] -Orchibaly waves goodbye.-
+
+[To] Reffitia Thamal
+
+[NPC Internal] Orcibaly was more than happy to lend you this powdered strimptor.
+[NPC] Reffitia: Thank you, Sir.
+[NPC] Reffitia: I will finish these off right away.
+[NPC Narrate] -Reffitia opens the sack and scoops out some of the powder with a wooden shaker. She carefully sifts the powder over some cooling pastries, humming a quiet tune under her breath.-
+[NPC] Reffitia: There, there, all prettied up!
+[NPC Narrate] -Refittia carefully bundles the neyehbes together in a cloth and ties off the corners.-
+[NPC] Reffitia: There we are, Sir.
+[NPC] Reffitia: It will be sixty tria for these.
+[NPC Internal] Here is your payment.
+[NPC] Reffitia: Thank you.
+[NPC Narrate] -Reffitia passes the bundled pastries to you.-
+[NPC] Reffitia: May your path be lit, Sir.
+
+[To] Boralis Voladrand
+
+[NPC Internal] Look what I found!
+[NPC] Boralis: Oh, is this…?
+[NPC Narrate] -Boralis glances at Rinna and looks inside the bundle. He grins and speaks quietly.-
+[NPC] Boralis: Ah, excellent.
+[NPC] Boralis: I knew I could count on you.
+[NPC] Boralis: She'll really enjoy these, I am certain of it.
+[NPC] Boralis: Thank you for helping us again, I would like you to have this.
+[NPC Narrate] -Boralis turns so that Rinna cannot see and gives you a goblet.-
+[NPC] Boralis: This is one of our last ones, but I wanted someone helpful to have it, rather than just selling it to the first person to come along with a fat purse.
+[NPC] Boralis: Take care, kind Enkidukai.
+
+[Reward] [XP] 10800; [Item] 1, Goblet; [Faction] 15, Crafting Association
+

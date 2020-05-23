@@ -1,0 +1,40 @@
+[Questname] In Aid of the Kran
+[NPC Name] Petrified Kran
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Petrified Kran
+
+[NPC Internal] Can I help?
+[NPC] Petrified: …
+[NPC Narrate] -Suddenly a water current rushes past you. A few seconds later another current rushes past you, then another and another. The currents seem to become more rapid, with distinct slushing sounds being heard as the current hits the rock close to the Kran. The slushing sounds are becoming louder and louder.-
+[NPC] Petrified: sluuusssh…
+[NPC] Petrified: Kranssssh…
+[NPC] Petrified: sluuusssh…
+[NPC] Petrified: troubssssh…
+[NPC] Petrified: contacsssh…
+[NPC] Petrified: siblinssssh…
+[NPC] Petrified: yosssh…
+[NPC] Petrified: helpssssh…..
+[NPC Internal] Kran siblings? Yes I can go find out about that.
+[NPC] Petrified: …
+[NPC Narrate] -The water current seems to continue with the same intensity.-
+[NPC] Petrified: Sluuusssh…Percivsssh…knosssh…asksssh…himssshh…
+[NPC Narrate] -The water current dies down just as quickly as it started.-
+
+[To] Percival Hawthorne
+
+[NPC Internal] Can you tell me about the petrified kran's siblings?
+[NPC Narrate] -Percival salutes you.-
+[NPC] Percival: Greetings Sir.
+[NPC Narrate] -Percival listens as you tell him the story of the Petrified Kran. When you finish he shakes his head.-
+[NPC] Percival: Amazing, truly amazing.
+[NPC] Percival: I am one of few who knows that kra is one of the rare kran who has a sibling.
+[NPC] Percival: I will send word to kra today.
+[NPC Narrate] -Percival salutes you again and hands you a potion.-
+[NPC] Percival: Thank you for bringing this to my attention.
+
+[Reward] [Money] 5130; [XP] 13600; [Item] 1, Potion of Healing
+

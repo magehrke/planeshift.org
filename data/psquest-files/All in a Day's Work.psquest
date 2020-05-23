@@ -1,0 +1,125 @@
+[Questname] All in a Day's Work
+[NPC Name] Jarda Ynarow
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests
+
+[To] Jarda Ynarow
+
+[NPC Internal] Do you have any work I can help you with? For pay, I mean?
+[NPC Narrate] -The bartender at looks guardedly at you.-
+[NPC Narrate] -He opens a much-used notebook and flips pages until he stops on one and shows it to you.-
+[NPC Narrate] -The page says - Job available. Pays well. Must have references.-
+[NPC Narrate] -The bartender looks at you, awaiting your response.-
+[NPC Internal] References? Well, umm… from who?
+[NPC Narrate] -Jarda sizes you up warily.-
+[NPC Narrate] -He touches his pendant of Talad and indicates the street outside.-
+[NPC Internal] Why should I get a reference?
+[NPC Narrate] -The Bartender stares at you for a second or five.-
+[NPC Narrate] -Then he produces a bulging pouch of coins from under his vest.-
+[NPC Narrate] -He drops them on the counter with a metallic thud, then quickly hides them in his clothes again.-
+[NPC Narrate] -He nods “yes,” then shakes his head “no.”-
+[NPC Narrate] -He stands looking at you waiting for you to make a choice.-
+[NPC Internal] Yes or No? Yes, I guess.
+[NPC Narrate] -Jarda nods to you, touches his pendant of Talad again, and points up the street.-
+
+[To] Boroz Tolka
+
+[NPC Internal] Are you a priest of Talad? The Bartender says you will give me a reference for a job?
+[NPC] Boroz: Child, I am Boroz, a servant of Talad and honoured so to be.
+[NPC] Boroz: You said the Bartender told you to ask me for a reference?
+[NPC] Boroz: Are you sure of that, Child?
+[NPC Narrate] -Boroz smiles gently at you.-
+[NPC Internal] Well, he didn't actually say anything, but he pointed me up this street and I found this temple and you.
+[NPC] Boroz: Ah!
+[NPC] Boroz: That was accurately and carefully spoken.
+[NPC] Boroz: Yes, I can help you get a job reference.
+[NPC] Boroz: Yet it is my duty to make sure you prove trustworthy.
+[NPC] Boroz: Take this treasure box of offerings to the Temple near the Mound of Talad, please.
+[NPC] Boroz: I have counted the coin.
+[NPC] Boroz: Kra will give you a receipt.
+[NPC] Boroz: Bring the receipt back to me, Child, and I will give you your reference.
+[NPC] Boroz: By the way, what was that bartender's name?
+[NPC Internal] Jarda
+[NPC] Boroz: Yes, the good Ynwnn's name is Jarda, much to be pitied be he.
+[NPC] Boroz: That shows your attention to details.
+[NPC] Boroz: Yes, I can help you get a job reference.
+[NPC] Boroz: You must prove trustworthy.
+[NPC] Boroz: Take this treasure box of offerings to the Temple near the Mound of Talad, please.
+[NPC] Boroz: I have counted the coin.
+[NPC] Boroz: Kra will give you a receipt.
+[NPC] Boroz: Bring the receipt back to me, Child, and I will give your reference.
+[NPC Internal] Off I go then…
+[NPC] Boroz: Wait!
+[NPC Narrate] -Boroz continues, stopping you.-
+[NPC] Boroz: One of our worshippers left this ancient statue.
+[NPC] Boroz: She found it while digging above the Mound of Talad.
+[NPC Narrate] -Boroz admires the statue, handling it with great care.-
+[NPC] Boroz: It's a masterpiece.
+[NPC] Boroz: Would probably fetch a grand price on the black market, be certain that you keep it hidden from any criminals.
+[NPC] Boroz: Would be best to not even go near any while you have this.
+[NPC] Boroz: Give this to Gemma as well, will you?
+[NPC Internal] Again, off I go!
+[NPC] Boroz: Thank you Enkidukai.
+[NPC] Boroz: Do be careful with all the items.
+
+[To] Quasus Adyum
+
+[NPC Internal] Here are the offerings from the Temple in Amdeneir.
+[NPC Narrate] -Kra smiles a similar smile to Boroz.-
+[NPC Narrate] -Kra opens kra's arms and seems to say a silent prayer.-
+[NPC Narrate] -As the Priest counts the coins, kra intones.-
+[NPC] Quasus: Good, my Child, the coin is all here…
+[NPC] Quasus: But what is this?
+[NPC] Quasus: An extra circle?
+[NPC Narrate] -Kra checks the receipt and the coins again.-
+[NPC] Quasus: No, no, one too many!
+[NPC Narrate] -Quasus looks at you questioningly.-
+[NPC Internal] Here, you keep it. Maybe the other Priest wrote the amount down wrong. Oh, and Boroz sent this statue, too.
+[NPC Narrate] -Gemma changes the receipt and adds one more circle to the total.-
+[NPC Narrate] -Kra hands you the corrected receipt.-
+[NPC Narrate] -Quasus also chants as he writes a note.-
+[NPC] Quasus: Plus one magnificent statue as tribute to Talad.
+[NPC] Quasus: Thank you, and Brother Boroz.
+[NPC Narrate] -Kra hands you the note and closes his eyes, his arms outstretched.-
+[NPC Internal] Is that all? Can I go now?
+[NPC Narrate] -Kra opens kras eyes again and nods slightly.-
+[NPC] Quasus: Thank you, Child, for taking time out of your day to help the Temple.
+[NPC] Quasus: I am sure you have earned your just reward for such a long and challenging trip here.
+[NPC] Quasus: Please give the receipt to Priest Boroz, and tell my Brother in Talad we bid him peace.
+
+[To] Boroz Tolka
+
+[NPC Internal] Phew! I'm back. Here is your receipt… Peace. Kra said to tell you that.
+[NPC] Boroz: Ah good!
+[NPC] Boroz: Thank you for your quick delivery.
+[NPC] Boroz: But I realize now I made a mistake.
+[NPC] Boroz: There should have been one more circle, my own pledge that I put in the box.
+[NPC] Boroz: Did you find an extra coin?
+[NPC Internal] Yes, I gave it to Quasus, along with that little carved statue.
+[NPC] Boroz: Congratulations, Child.
+[NPC] Boroz: That was the test of your honour and reliability.
+[NPC] Boroz: Here is your reference.
+[NPC Narrate] -Boroz hands you a ring.-
+[NPC] Boroz: And this is a Ring of Honour, from the God's own Priests.
+[NPC] Boroz: Wear it proudly.
+[NPC] Boroz: Many of our merchants will recognize it knowing you wear it for proving yourself to a priest of Talad.
+[NPC] Boroz: They may be more generous with their thanks if they see it.
+[NPC] Boroz: Good luck to you, Child.
+[NPC Narrate] -Boroz smiles gently and bows to you.-
+
+[To] Jarda Ynarow
+
+[NPC Internal] Here is my letter of reference.
+[NPC Narrate] -Jarda reads Boroz' Glowing Letter of Reference slowly as he flips a circle casually in the air.-
+[NPC Narrate] -The Bartender touches his amulet of Talad and looks at you.-
+[NPC Internal] Oh, and he gave me this ring too, to show you I guess? And I am ready for my job!
+[NPC Narrate] -Jarda nods and almost smiles.-
+[NPC Narrate] -He counts out some circles from his pouch and slides them to you.-
+[NPC Narrate] -Then he counts out the same amount again and adds them to your pile.-
+[NPC Narrate] -He then points to a word carved into his bar – Later.-
+[NPC Narrate] -The nods his head towards the door for you to leave.-
+
+[Reward] [Money] 5000; [XP] 12200; [Item] 1, Ring of Talad; [Faction] 20, Conclave of the Glyphs
+

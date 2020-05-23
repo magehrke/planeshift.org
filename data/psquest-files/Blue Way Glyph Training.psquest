@@ -1,0 +1,30 @@
+[Questname] Blue Way Glyph Training
+[NPC Name] Sharven Xant-Areth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Blue Way Apprentice; [Item] 1, Apprentice's Blue Way Wand; [Skill] 20, Blue Way
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Please accept my Way Wand as proof of being a student.
+[NPC] Sharven: Good.
+[NPC] Sharven: We may have to rush this test, as I am expecting another student.
+[NPC] Sharven: What glyph freezes the air around your enemy?
+[NPC Internal] cold
+[NPC Narrate] -Sharven nods.-
+[NPC] Sharven: Well done.
+[NPC] Sharven: Blue Way can be used for assault and defense, not simply healing as many think.
+[NPC] Sharven: Many unwary foes have made that mistaken assumption.
+[NPC Narrate] -Sharven returns your glyph.-
+[NPC] Sharven: Now hand me the glyph used to identify weaker magic items.
+[NPC Narrate] -Sharven once again awaits your glyph.-
+[NPC Internal] Could it be Divination?
+[NPC] Sharven: Congratulations YOU, you have passed this first part of my testing.
+[NPC Narrate] -Sharven takes out a set of bracers that seem to radiate a small feeling of Blue Way power.-
+[NPC] Sharven: These are your bracers to prove you have passed this section of the training.
+[NPC] Sharven: Those will increase your ability in Blue Way by a small amount, just as your wand has.
+[NPC] Sharven: Hand me your wand again next time when you are ready for your next training.
+
+[Reward] [Money] 2107; [XP] 10800; [Item] 1, Apprentice's Blue Way Bracers; [Faction] 15, Blue Order
+

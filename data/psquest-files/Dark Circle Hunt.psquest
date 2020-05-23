@@ -1,0 +1,48 @@
+[Questname] Dark Circle Hunt
+[NPC Name] Raithen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Interview Sunshine Squadron Applicants; [Item] 1, Dark Circle Ring
+
+[To] Raithen
+
+[NPC Internal] reporting for duty, sir.
+[NPC] Raithen: You want something to do?
+[NPC Internal] Yes, sir!
+[NPC] Raithen: Go and tell Polyuntri Stevald I sent you.
+[NPC] Raithen: He's in charge of the little whelps like you.
+
+[To] Polyuntri Stevald
+
+[NPC Internal] Raithen sent me for a task.
+[NPC] Polyuntri: So Raithen sent you.
+[NPC] Polyuntri: I see.
+[NPC] Polyuntri: Our intelligence officers have been investigating a group of people for some time now.
+[NPC] Polyuntri: They are called 'The Dark Circle'.
+[NPC] Polyuntri: One can easily recognize them as most of them have azure countenances and blank eyes, possibly using some sort of magic to mask their eye colors.
+[NPC] Polyuntri: One could think of them as undead at first sight.
+[NPC] Polyuntri: Last time they have been seen in the vicinity of the cavern walls.
+[NPC] Polyuntri: As our intelligence indicates, notables of them carry rings to identify themselves.
+[NPC] Polyuntri: If you want to help us, try to find where they hide and get back to me.
+[NPC] Polyuntri: When you return, the next words out of your mouth better be ‘I found the Dark Circle’.
+[NPC Internal] I found the Dark Circle.
+[NPC] Polyuntri: Ah, great.
+[NPC] Polyuntri: Are they still hiding in the small tunnels to the west of here?
+[NPC Internal] Yes sir! I found them in the tunnels.
+[NPC] Polyuntri: Ah, right.
+[NPC] Polyuntri: They move from one place to another, but those tunnels are often used.
+[NPC] Polyuntri: Now I know you have the courage to go there, and I can assign you a real task.
+[NPC] Polyuntri: Go back to the tunnels and try to weaken their presence in this area.
+[NPC] Polyuntri: Killing a notable person, one with the Dark Circle ring, is critical to have them thinking twice about operating so close to here.
+[NPC] Polyuntri: Bring back the ring to me as proof.
+[NPC] Polyuntri: Go, and don't come back before you have a ring to present.
+[NPC Internal] holds out the ring for Polyuntri to take.
+[NPC] Polyuntri: Well done.
+[NPC] Polyuntri: But don't be too proud of it; it's a very small task compared to what we have to face here on a daily basis.
+[NPC] Polyuntri: As a reward, I can give you a small piece of armor.
+[NPC] Polyuntri: Take this helm.
+[NPC] Polyuntri: You should return to Raithen again later as he will be pleased with you as soon as I give him my report.
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Mercenary Helm; [Faction] 65, Guard
+

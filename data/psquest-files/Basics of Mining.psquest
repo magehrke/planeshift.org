@@ -1,0 +1,45 @@
+[Questname] Basics of Mining
+[NPC Name] Fholen Medraa
+[Checkup] 2017-04-11
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Harnquist's Raw Materials
+
+[To] Fholen Medraa
+
+[NPC Internal] I'm searching for some hints on mining, can you help me?
+[NPC] Fholen: Ah, so you want to have me speak of my past?
+[NPC] Fholen: Eh, I was a miner in the Jade caves to the north of Ojaveda for many years.
+[NPC] Fholen: I've specialized in refining and cutting gems in recent years.
+[NPC Internal] Well, I'm searching for information on basic ore, like iron, tin, not specifically gems.
+[NPC] Fholen: Well, the extraction is about the same, and I have been with miners all my life.
+[NPC Internal] Where can I get iron ore?.
+[NPC] Fholen: Oh well, you can easily buy it from a miner.
+[NPC] Fholen: But it seems you are interested in how the whole process works, so you may try to extract it yourself!
+[NPC] Fholen: It's not that hard, there are some rich veins just near Hydlaa.
+[NPC Internal] Ok, can you let me know where are the mines located?
+[NPC] Fholen: The mines are not too hard to find.
+[NPC] Fholen: You should exit from Hydlaa going north which is the gate past Kada-El's tavern next to the windowless tower.
+[NPC] Fholen: Then travel into the forest, turning left at the first 'T' intersection you should continue until you arrive in an open outdoor area.
+[NPC] Fholen: In that outdoor area there is an iron mine just up and over the hill to your right.
+[NPC] Fholen: The mine is in the hillside which surrounds a flat area.
+[NPC Internal] How do I recognize a good place to mine?
+[NPC] Fholen: You should closely analyze the terrain and search for the good rocks!
+[NPC] Fholen: Well, at least you should not search through the grass 
+[NPC ME] Fholen Medraa laughs.
+[NPC Internal] I am interested in understanding which equipment is needed.
+[NPC] Fholen: There is one very important thing you need: a rock pick.
+[NPC] Fholen: You can obtain the rock pick from any blacksmith.
+[NPC] Fholen: To get better at mining all you need to do is mine, anything, you will get more skilled and experienced with every attempt!
+[NPC Internal] So just a rock pick, sounds good.
+[NPC] Fholen: Yes, remember to equip your rock pick in your right hand, and then to search the ground.
+[NPC] Fholen: You will need also some good muscles 
+[NPC ME] Fholen Medraa smiles.
+[NPC] Fholen: There is an Enkidukai over in Ojaveda who will tell you more about mining if you're ever interested.
+[NPC] Fholen: Ah, and I know folks like to know where else to get little jobs or tasks from folks.
+[NPC] Fholen: The Hydlaa Vigesimi, herself, Amidison Stronghand, was asking something about Stonehammers and mining, which I found odd.
+[NPC] Fholen: Maybe if you see her you can ask about it.
+[NPC] Fholen: And speaking of dwarves, Lorytia Starhammer is always worth a visit if you're out by the Eagle fortress sometime.
+[NPC] Fholen: Goodbye for now.
+
+[Reward] [XP] 9400; [Faction] 10, Crafting Association

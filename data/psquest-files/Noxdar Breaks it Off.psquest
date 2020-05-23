@@ -1,0 +1,89 @@
+[Questname] Noxdar Breaks it Off
+[NPC Name] Noxdar Darmeth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes
+
+[To] Noxdar Darmeth
+
+[NPC Internal] You look like you could use some help.
+[NPC] Noxdar: Oh, hello.
+[NPC] Noxdar: You wanted to do something for me?
+[NPC] Noxdar: Yes, I suppose you could.
+[NPC] Noxdar: I'm having a little difficulty with the affairs of the heart.
+[NPC] Noxdar: Still want to get involved?
+[NPC Internal] I'd not like it to be said that I'm all fight and no heart. I'll help.
+[NPC] Noxdar: Thanks.
+[NPC] Noxdar: I've been seeing Frilaa Bhundri, an enkidukai in the Plaza area, for a little while now.
+[NPC] Noxdar: However, I discovered something shocking: she is married and did not tell me!
+[NPC] Noxdar: Please, if you could, tell her that I must stop courtship.
+[NPC] Noxdar: She will no doubt ask why I do so, and why I do not go myself.
+[NPC Narrate] -Noxdar coughs nervously.-
+[NPC] Noxdar: Just tell her I'm busy with work.
+[NPC] Noxdar: Whatever you do, do not let on that I know she's married!
+[NPC] Noxdar: There are things at stake which you do not know about!
+[NPC Narrate] -Noxdar begins sweating.-
+[NPC] Noxdar: I wish you well, and I hope you do the right thing.
+
+[To] Frilaa Bhundri
+
+[NPC Internal] Noxdar is saddened to inform you that he must cease his courtship of you.
+[NPC] Frilaa: You did not just tell me that Noxdar sent someone in his place to break it off with me!
+[NPC Narrate] -Frilaa makes a snapping noise with her paw.-
+[NPC] Frilaa: I don't suppose he gave you a reason?
+[NPC Internal] Work steals his every waking moment.
+[NPC] Frilaa: I…I see.
+[NPC] Frilaa: That is unfortunate.
+[NPC] Frilaa: I know he's been trying to be an engineer; I didn't realize how time-consuming it could be.
+[NPC Narrate] -Frilaa ponders the situation.-
+[NPC] Frilaa: Wait, does he know about my husband?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] Husband? I don't know what you're talking about.
+[NPC] Frilaa: He doesn't?
+[NPC] Frilaa: That's good.
+[NPC] Frilaa: If he did, he'd have to duel with my husband sooner or later.
+[NPC] Frilaa: But this break-up is for the best.
+[NPC] Frilaa: Here, give him this letter.
+[NPC Narrate] -Frilaa pulls out a paper and pen, and hastily writes a sweet letter. She then hands it to you.-
+[NPC] Frilaa: Please give that to Noxdar Darmeth.
+
+[To] Noxdar Darmeth
+
+[NPC Internal] Here, she wrote you a letter.
+[NPC] Noxdar: A letter from Frilaa, for me?
+[NPC Narrate] -Noxdar opens the letter and reads it. He smiles and breathes a heavy sigh of relief.-
+[NPC] Noxdar: Oh, thank you, Tabei.
+[NPC] Noxdar: You may not know it, but you have saved a life this day.
+[NPC] Noxdar: I can't give you much, though.
+[NPC] Noxdar: Perhaps this heart that I kept from my adventuring days?
+[NPC] Noxdar: This armour?
+[NPC] Noxdar: You decide.
+
+[Way] 2
+
+[NPC Internal] It's true; he did find out about your marriage.
+[NPC] Noxdar: That cowardly rat!
+[NPC] Noxdar: Trying to escape a duel of honour!
+[NPC] Noxdar: Well, you just give him this from me.
+[NPC] Noxdar: He's going to have to accept his fate no matter what.
+[NPC Narrate] -Frilaa pulls out a paper and pen, and hastily writes an angry letter. She then hands it to you.-
+[NPC] Noxdar: You give that to Noxdar Darmeth, you hear me?
+
+[To] Noxdar Darmeth
+
+[NPC Internal] Here, she wrote you a letter.
+[NPC Internal] A letter from Frilaa, for me?
+[NPC Narrate] -Noxdar opens the letter and reads it. He pales and his hands begin trembling.-
+[NPC Internal] No…you told her…there will be a duel…you don't know what you've done.
+[NPC Internal] You may have thought telling the truth was the right thing to do but I assure you no good will come of this.
+[NPC Narrate] -Noxdar sighs wearily.-
+[NPC Internal] What is done, is done.
+
+[Reward] [Way 1] [Money] 2107; [XP] 10800; [Item] 1, Meteor Glyph; [Faction] 20, Enkidukai
+[Reward] [Way 2] [XP] 1600
+

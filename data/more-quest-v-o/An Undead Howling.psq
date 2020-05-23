@@ -1,0 +1,164 @@
+[Questname] An Undead Howling
+[NPC Name] Rulayne Ogrin
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] No
+
+[To] Rulayne Ogrin
+
+[NPC Internal] Oh guardian of the dead, how may I please our goddess of endless night?
+[NPC] Rulayne Ogrin: A foul smell is drifting from the mouth of the well.
+[NPC] Rulayne Ogrin: It is not the sweet nectar of decay, but the very stench of corruption and heresy!
+[NPC] Rulayne Ogrin: You shall please Dakkru by assisting me!
+[NPC Internal] Let it be known to the goddess that I, YOU, am her servant!
+[NPC Narrate] Rulayne Ogrin raises his arms above his head.
+[NPC] Rulayne Ogrin: Your servant has answered, oh goddess of death!
+[NPC Internal] Tell me what troubles you.
+[NPC] Rulayne Ogrin: I shall.
+[NPC] Rulayne Ogrin: While standing guard, a cloaked figure slipped past me and entered the well.
+[NPC] Rulayne Ogrin: She was short and of fair, elven skin.
+[NPC] Rulayne Ogrin: I caught a glimpse of her hand.
+[NPC] Rulayne Ogrin: It was milky white and adorned with a golden ring with an emerald stone.
+[NPC] Rulayne Ogrin: She had no business in the well so I shouted and threatened to strike her down if she did not retreat, but she disappeared inside before I could raise my staff.
+[NPC] Rulayne Ogrin: I considered going in after her, but chose to favour my health over her well being and refrained.
+[NPC] Rulayne Ogrin: Within moments, I heard a loud snap.
+[NPC] Rulayne Ogrin: I was overwhelmed with curiosity, so dashed inside for a peek.
+[NPC] Rulayne Ogrin: Apparently, she had triggered a trap and was dangling by one leg from the ceiling.
+[NPC] Rulayne Ogrin: Below, a variety of her coins and crystal way glyphs rested upon the soil undisturbed.
+[NPC] Rulayne Ogrin: She was too high to cut down, so I left her suffer her consequences instead.
+[NPC Internal] And then?
+[NPC] Rulayne Ogrin: I walked out and resumed watching over the well.
+[NPC] Rulayne Ogrin: She screamed, somewhat infrequently.
+[NPC] Rulayne Ogrin: But after a while I found it too distracting.
+[NPC] Rulayne Ogrin: I entertained the thought of going back in and clubbing her over the head to shut her up, but by that point she had stopped.
+[NPC] Rulayne Ogrin: The next day I walked inside to see if I could guess at what had gotten her.
+[NPC] Rulayne Ogrin: I figured a grendol must have ripped her down, but the rope was cleanly severed and only the glyphs and a few foot prints remained.
+[NPC] Rulayne Ogrin: The foot prints were much smaller than those of a grendol.
+[NPC Internal] So you suspect that she was saved?
+[NPC] Rulayne Ogrin: Would I have asked you for your help if that were the case?
+[NPC] Rulayne Ogrin: Please, use your head!
+[NPC] Rulayne Ogrin: A young Dermorian man had delivered the corpse of his father for proper disposal.
+[NPC] Rulayne Ogrin: I called for the corpse puller, but he did not answer.
+[NPC] Rulayne Ogrin: I looked inside the mouth of the well to see if he was alright and noticed a grendol standing there glaring at me.
+[NPC] Rulayne Ogrin: I raised my staff to destroy the beast when I noticed something strange about it.
+[NPC] Rulayne Ogrin: The right arm was fresh, new, and that of a Dermorian - and on its hand was a shiny, golden ring with a emerald stone set inside.
+[NPC] Rulayne Ogrin: I took aim and released a death inducing spell, but it survived and managed to get away.
+[NPC Internal] That was the intruder's arm?
+[NPC] Rulayne Ogrin: Yes, exactly.
+[NPC] Rulayne Ogrin: Do you realize how grave of an abomination this is?
+[NPC] Rulayne Ogrin: Somebody hacked her arm off and attached it to that grendol.
+[NPC] Rulayne Ogrin: Not only is profanation of the dead a horrible disgrace to the living, but it also exposes you to terrible illnesses like the Green Plague that put our entire civilization at risk of death.
+[NPC] Rulayne Ogrin: I will NOT stand for it!
+[NPC] Rulayne Ogrin: I need you to assist me with an investigation.
+[NPC] Rulayne Ogrin: I want you to go into the well and find the grendol with the elven woman's arm and cut it off.
+[NPC] Rulayne Ogrin: Make sure that when you chop it off, the arm has some of the grendol's flesh on it.
+[NPC] Rulayne Ogrin: Bring that arm to me and I'll tell you what to do next.
+[NPC] Rulayne Ogrin: Before you go, take and wear this amulet.
+[NPC] Rulayne Ogrin: It is charged with a blue way spell that will keep your body pure and free of disease for a short period of time.
+[NPC] Rulayne Ogrin: Hurry along, and stay away from the corpses.
+[NPC] Rulayne Ogrin: Disease runs rampant in the howling well!
+
+[INFO] go into the howling well, find the journal of the renegade Ash Brother, kill the strange Grendol and kill Nefas Dur. Then return to Rulayne.
+
+[NPC Internal] I found an old journal next to the ancient remains of a renegade Ash Brother. [You tell Rulayne what it said.]
+[NPC Narrate] -He listens to you, intently.-
+[NPC] Rulayne Ogrin: Interesting.
+[NPC] Rulayne Ogrin: If the journal tells the truth, a group of renegade members of Nefas Dur's brotherhood confronted him and sealed him inside his lair.
+[NPC] Rulayne Ogrin: Looks like to get inside the portal you need to neutralise the Darkness Glyphs then you should be able to remove the seal on the door.
+[NPC] Rulayne Ogrin: Be extremely careful, I suspect Nefas to be on the other side of that door.
+[NPC Internal] How can I neutralize two Darkness Glyphs?
+[NPC] Rulayne Ogrin: Are you a fool?
+[NPC] Rulayne Ogrin: Haven't you studied magic?
+[NPC] Rulayne Ogrin: You should have heard light counter darkness.
+[NPC Internal] I have found the arm. Take it.
+[NPC] Rulayne Ogrin: This is...
+[NPC Narrate] Rulayne Ogrin holds a burlap sack open and makes a disgusted grimace.
+[NPC] Rulayne Ogrin: This is disturbing, to say the least.
+[NPC] Rulayne Ogrin: What sort of person would do such a thing, and how?
+[NPC] Rulayne Ogrin: Take this to Sharven and ask him what he makes of it.
+[NPC] Rulayne Ogrin: Do NOT tell him I sent you.
+[NPC] Rulayne Ogrin: Tell him that you are training to be a Laanx priest and found this arm on a stray grendol that wandered from the well and towards the road.
+[NPC] Rulayne Ogrin: Report back to me when you are done.
+[NPC] Rulayne Ogrin: Sharven can be found in the Iron Temple in Hydlaa.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] I stumbled upon a stray grendol which had a fresh elven arm attached, take this and see.
+[NPC] Sharven Xant-Areth: A what?!?..
+[NPC Narrate] Sharven Xant-Areth takes the bag with the arm in it, takes a hesitant peek, then recoils.
+[NPC] Sharven Xant-Areth: Urgh!
+[NPC] Sharven Xant-Areth: This is disgusting!
+[NPC] Sharven Xant-Areth: This was attached to a grendol, you say?
+[NPC Narrate] Sharven Xant-Areth shakes his head with disbelief.
+[NPC] Sharven Xant-Areth: Let me take this into my study for further examination.
+[NPC] Sharven Xant-Areth: Come back tomorrow.
+[NPC] Sharven Xant-Areth: Oh...oh, the smell of it!
+[NPC] Sharven Xant-Areth: I hope it doesn't drip on my robes.
+
+[Info] You have to wait for 5 minutes before you can continue this quest.
+
+[NPC Internal] What have you learned?
+[NPC] Sharven Xant-Areth: This is quite a disturbing find.
+[NPC] Sharven Xant-Areth: I took a good look at the arm that you gave me.
+[NPC] Sharven Xant-Areth: The discoloured flesh at the edge of the arm was unlike the rest of it and yet somehow, the two kinds of flesh were fused together.
+[NPC] Sharven Xant-Areth: I consulted with Diat Noctar, the leader of the education branch of the Iron Temple, and I learned the following.
+[NPC] Sharven Xant-Areth: Long ago, there was a powerful Laanx priest named Nefas Dur who thought he could snatch the souls of the dead from Dakkru and bring their bodies back to life.
+[NPC] Sharven Xant-Areth: He convinced a number of our priests to follow him along his horribly misguided path.
+[NPC] Sharven Xant-Areth: Partly out of fear that a cult was starting to form based on his teaching he was ordered to drop this pursuit and return to a more traditional line of study.
+[NPC] Sharven Xant-Areth: He vehemently refused and his numbers continued to grow.
+[NPC] Sharven Xant-Areth: For the sake of the rest of the priesthood, he was banished.
+[NPC] Sharven Xant-Areth: You should talk to Rulayne Ogrin about this intrusion immediately, I have a niggling fear that this old cult of the late Nefas Dur may have resurfaced.
+[NPC] Sharven Xant-Areth: Good day, Klyros and may Laanx frighten the shadows from thy path.
+
+[To] Rulayne Ogrin
+
+[NPC Internal] Sharven suspects Nefas Dur's cult is back.
+[NPC Narrate] Rulayne Ogrin furrows his brows.
+[NPC] Rulayne Ogrin: Nefas Dur!!
+[NPC] Rulayne Ogrin: Yes, I remember that heretic.
+[NPC] Rulayne Ogrin: If this is true, it is terrible, terrible news!
+[NPC Narrate] Rulayne Ogrin looks worried.
+[NPC] Rulayne Ogrin: I would alert the guards, but I really don't need them to accuse me of failing to do my job.
+[NPC] Rulayne Ogrin: I need you to do something, and quickly.
+[NPC] Rulayne Ogrin: You are going to go back into the well, and find out who is behind this.
+[NPC] Rulayne Ogrin: Sounds like you already found the way.
+[NPC] Rulayne Ogrin: I fear it might even be Nefas Dur, himself.
+[NPC] Rulayne Ogrin: I wouldn't put it past him to cheat death.
+[NPC] Rulayne Ogrin: Go gather as many folks as you can to help you.
+[NPC] Rulayne Ogrin: If it is him, he's probably quite powerful, so bring a healer, mages, and warriors of whatever type you choose.
+[NPC] Rulayne Ogrin: You -must- destroy him.
+[NPC] Rulayne Ogrin: And should you conquer him, bring me proof of your accomplishment.
+[NPC Internal] Who is Nefas Dur?
+[NPC] Rulayne Ogrin: Nefas Dur was a Laanx priest living in the Iron Temple who was the founder of the ashen brotherhood around the time of Magic Heresy in 550 AY.
+[NPC] Rulayne Ogrin: The High Priest of the Iron Temple excommunicated and cast him out of the city for his heretic teachings and forbidden experiments.
+[NPC Internal] What was Nefas Dur experimenting on?
+[NPC] Rulayne Ogrin: He was obsessed with bringing the dead back to life so they would never experience our Goddess' embrace.
+[NPC] Rulayne Ogrin: As far as we know he never succeeded, but he did manage to create some undead a mockery of life and dead, an abomination in the eye of our Goddess.
+[NPC Internal] Who are the Ash Brothers?
+[NPC] Rulayne Ogrin: They are the members of a brotherhood forgotten long ago when Nefas was outcast from Hydlaa after which no one ever heard about them.
+[NPC] Rulayne Ogrin: At the time he was outcast from Hydlaa they were all Laanx acolytes of the Iron Temple.
+[NPC] Rulayne Ogrin: I don't know if they are aware of Nefas return but I bet he's trying to manipulate them to suit his purpose...whatever it is.
+[NPC Internal] Why are they hiding in the howling well?
+[NPC] Rulayne Ogrin: I don't know for sure, maybe because it suits their needs and it's a good place to hide.
+[NPC] Rulayne Ogrin: May be because they find enough dead bodies for their experiments.
+[NPC] Rulayne Ogrin: If that's the case the situation is even worse.
+[NPC Internal] You can trust me, I will fight the heretic Nefas.
+[NPC] Rulayne Ogrin: That's what I want to hear!
+[NPC] Rulayne Ogrin: I will pray to the Goddess so she blesses you.
+[NPC] Rulayne Ogrin: I am believing more and more this must be Nefas, himself.
+[NPC] Rulayne Ogrin: No other reason for followers to do this on their own.
+[NPC] Rulayne Ogrin: Remember, should you conquer him, bring me the proof of your accomplishment.
+[NPC Internal] May I ask you why Nefas Dur is so hated by Dakkru's followers?
+[NPC] Rulayne Ogrin: Nefas Dur tried to prevent the souls of the deceased from entering Dakkru's realm.
+[NPC] Rulayne Ogrin: He created countless undead abominations and if he's still alive he has defied the judgement of our Goddess for too long.
+
+[NPC Internal] I have confronted Nefas Dur and I've defeated him! [You hand Rulayne the Crystal Shard.]
+[NPC Narrate] Rulayne Ogrin takes the shard and his eyes widen.
+[NPC] Rulayne Ogrin: I can't believe it!
+[NPC] Rulayne Ogrin: The goddess of death is pleased with your achievement!
+[NPC] Rulayne Ogrin: By eliminating the dangerous heretic Nefas Dur you served Her well.
+[NPC] Rulayne Ogrin: Let me reward you with one of the precious glyphs I've found on in the howling well and belonged to the cloaked Dermorian whose arm was strapped to the grendol, may it serve you better than its previous owner.
+[NPC] Rulayne Ogrin: Now begone YOU and may Dakkru claim the lives of your enemies.
+
+
+[Reward] [Item] 1, Illness Glyph; [Item] 1, Amulet of Prevent Disease; [Money] 5130; [XP] 13600; [Faction] 1, with Keepers of the Veil;

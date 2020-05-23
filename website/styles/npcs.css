@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* For npc section */
+
+.npcs_main_table {
+	width: 100%;
+	height: auto;
+	
+	margin-bottom: 15px;
+	
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+	.npcs_main_table h3 {
+		margin: 0;
+	}
+
+	.npcs_main_table td {
+		vertical-align: top;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #696969;
+
+		padding: 5px;
+	}
+
+	.npcs_main_table nav {
+		padding: 0;
+		margin: 0; 
+	}
+
+	.npcs_main_table ul {
+		padding: 20px;
+		margin: 0px;
+	}
+	
+	.npcs_main_table a {
+		color: #99CCFF;
+	}
+
+	.npcs_main_table a:hover {
+		/*color: #99CCFF;
+		text-decoration: underline;*/
+	}
+
+	.npc_name { /* .npc_main_table ul li span */
+		color: #99CCFF;
+	}

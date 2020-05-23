@@ -1,0 +1,109 @@
+[Questname] The Carkarass Shield
+[NPC Name] Veja Pontor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning Shield Working
+
+[To] Veja Pontor
+
+[NPC Internal] Hello Veja, got a job for me?
+[NPC] Veja: Wait.
+[NPC Narrate] -Veja keeps reading a big book, the frown on her forehead growing bigger over time.-
+[NPC] Veja: This makes no sense…I've never heard of anyone getting such a thing.
+[NPC Narrate] -Veja looks up.-
+[NPC] Veja: Oh, you're still there.
+[NPC] Veja: Sorry, you would like to help me, you say?
+[NPC Internal] Of course, that's why I asked.
+[NPC] Veja: Good, good…
+[NPC Narrate] -Veja keeps a hand on the book and studies YOU.-
+[NPC] Veja: I've got an important job.
+[NPC] Veja: Would you like, thousands of Tria, rivers of Tria?
+[NPC Narrate] -Veja seems thrilled and nervous, all at the same time.-
+[NPC] Veja: But I have a big problem, a very big one, yes.
+[NPC] Veja: I need to get a carkarass stinger, or poisonous barb.
+[NPC] Veja: Of course you can only get them from the poisonous variety.
+[NPC] Veja: But don't go killing one, now.
+[NPC] Veja: You'd probably ruin it.
+[NPC Narrate] -Veja thinks a bit.-
+[NPC] Veja: Yes!
+[NPC] Veja: Yes…
+[NPC] Veja: Ask Liera, right?
+[NPC] Veja: She will know about them for sure.
+
+[To] Liera Zireti
+
+[NPC Internal] Tell me about Carkarass stingers.
+[NPC] Liera: Well, the carkarass stinger ain't something easy to come by.
+[NPC] Liera: It's also…controlled.
+[NPC] Liera: And I mean, if they catch you without a permit, you can be sent to jail.
+[NPC] Liera: I know poison carkarass stingers are used in potent venoms.
+[NPC] Liera: I don't think any of them are used to kill, but you know, even an overdose of water could, eh?
+[NPC Narrate] -Liera gives YOU a playful wink.-
+[NPC] Liera: Anyways, who needs it?
+[NPC Internal] Veja Pontor asked me to get one.
+[NPC] Liera: Now I really wonder why would she use such a thing in her trade.
+[NPC] Liera: But, it's her job, and who am I to inquire?
+[NPC] Liera: Sadly, I don't have one here, I'm out of stock.
+[NPC] Liera: But I know for sure Vladovic in Ojaveda will have some.
+[NPC] Liera: You will need a permit from the guard lieutenant to carry such a thing, so you'd better go see Jefecra first.
+
+[To] Jefecra Harcrit
+
+[NPC Internal] I need a special permit.
+[NPC] Jefecra: What for?
+[NPC] Jefecra: And who told you to get one?
+[NPC Internal] Liera Zireti needs me to get a Carkarass stinger from Vladovic in Ojaveda.
+[NPC] Jefecra: I'll send a guard to ask her just to make sure you're not lying.
+[NPC] Jefecra: I'll give you the permit now, but if we find out you weren't honest, you'll be severely punished.
+[NPC] Jefecra: Animal venom is strictly regulated, just so you know.
+[NPC Narrate] -Jefecra finds a parchment, takes a quick look at it and signs it. Then he hands it to you.-
+[NPC] Jefecra: Show this permit to Pinayet Ullavin once you have what you're looking for.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] I'm looking for a Carkarass stinger.
+[NPC] Vladovic: Why on Yliakum would you need such a thing?
+[NPC] Vladovic: Well, never mind, I hope you really know what you're doing.
+[NPC Narrate] -Vladovic puts on a pair of thick gloves and starts rummaging through a sack, taking a small stinger and slipping it into a small leather pouch.-
+[NPC] Vladovic: Here you go.
+[NPC] Vladovic: Careful, it's still poisonous.
+[NPC] Vladovic: I have a lot more, so this one will be for free.
+
+[To] Pinayet Ullavin
+
+[NPC Internal] Please, read this.
+[NPC] Pinayet: What is this?
+[NPC Narrate] -Pinayet starts reading and nods.-
+[NPC] Pinayet: Alright, I see.
+[NPC] Pinayet: Seems to be in order.
+[NPC] Pinayet: Dangerous stuff, I do hope you are careful with this.
+[NPC Narrate] -Pinayet signs the permit.-
+[NPC] Pinayet: Present it to Jefecra promptly.
+
+[To] Jefecra Harcrit
+
+[NPC Internal] The permit, signed by Pinayet.
+[NPC] Jefecra: Very good.
+[NPC] Jefecra: You may now go to Liera and give her what she needs.
+
+[To] Liera Zireti
+
+[NPC Internal] I have the stinger here.
+[NPC] Liera: Well, that's good, but it was Veja who wanted it.
+[NPC] Liera: Oh, now that you're here, please tell her to be careful with it.
+[NPC] Liera: I'm not sure I have an antidote for it.
+
+[To] Veja Pontor
+
+[NPC Internal] The Carkarass stinger, as you asked.
+[NPC Narrate] -Veja snatches the pouch quickly and starts working on a shield spike carefully, her expert hands attaching the poisonous barb to it.-
+[NPC] Veja: Yes, excellent…
+[NPC] Veja: You've done very well!
+[NPC] Veja: Look, I wrote a copy of this book for myself, but since you've helped me so much, you can have it.
+[NPC] Veja: Of course it doesn't ask you to use Carkarass parts.
+[NPC Narrate] -Veja winks at you and snickers, passing you a book.-
+[NPC] Veja: Enjoy it!
+
+[Reward] [Money] 7310; [XP] 12200; [Item] 1, Stinger Shield Diagram; [Faction] 20, Crafting Association
+

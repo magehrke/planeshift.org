@@ -1,0 +1,67 @@
+[Questname] Natural Kran Hair
+[NPC Name] Raul Ursino
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] bend_the_octarch's_ear; [Winch] Yes
+
+[To] Raul Ursino
+
+[NPC Internal] Hi ,I a looking for a job, do you have any open vacancies?
+[NPC] Raul: You're just what I'm looking for, good Sir.
+[NPC] Raul: As a barber, I've been looking to enter a new market in hairstyling: wigs.
+[NPC] Raul: Can you help me in this regard?
+[NPC Internal] I can.
+[NPC] Raul: Splendid!
+[NPC] Raul: I'm thinking about wigs for kran.
+[NPC] Raul: If you'd be so kind as to ask some kran in and around town about natural kran hair, or to give you kran hair, I'd be most appreciative.
+[NPC] Raul: Very well, then.
+[NPC] Raul: Off you go!
+[NPC Narrate] -Raul shoos you away.-
+
+[To] Grok Idon
+
+[NPC Internal] I am looking for some kran hair.
+[NPC] Grok: Kran hair?
+[NPC] Grok: This makes no sense.
+[NPC] Grok: However, if this person is requesting it, he likely won't be able to identify something fake.
+[NPC] Grok: Have a handful of goujah fur, free of charge.
+[NPC] Grok: I recently sheared a goujah for alchemical testing: my results were poor, so by all means just take some.
+[NPC Narrate] -Grok shrugs.-
+[NPC] Grok: Anyway, you may want to consider getting it dyed.
+[NPC] Grok: There is a carpet-seller who dyes as a secondary profession within the city of Ojaveda.
+[NPC] Grok: I would seek him out and ask about purple dye - after all, if a kran was to have hair, purple seems like the most likely colour.
+[NPC] Grok: Good luck!
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] I was told you might have purple dye.
+[NPC] Brintec: Purple dye?
+[NPC] Brintec: Yes, I have purple dye.
+[NPC] Brintec: Way too much purple dye.
+[NPC] Brintec: I accidentally dropped a bag of roots that I use for red dye into a vat of blue dye.
+[NPC] Brintec: And nobody wants purple dye: it's not in fashion right now.
+[NPC] Brintec: So please, just give me what you need dyed, and I will gladly do it for nothing.
+[NPC Internal] hands over the fur.
+[NPC Narrate] -Brintec sniffs the fur and recoils.-
+[NPC] Brintec: This might be the one item that gets an improved smell from dyeing!
+[NPC] Brintec: Into the pot it goes.
+[NPC Narrate] -Brintec puts on some long gloves and dips the fur in a pot of purple dye, expertly turning it over in his hands for even coating. He then pulls it out and wraps it in an old carpet to dry it before handing it to you.-
+[NPC] Brintec: One pile of purple fur, on the house.
+[NPC] Brintec: I don't suppose you need anything else dyed purple?
+[NPC] Brintec: No?
+[NPC] Brintec: No, I thought not.
+[NPC Narrate] -Brintec sighs deeply.-
+[NPC] Brintec: Very well, Talad's blessing to you.
+
+[To] Raul Ursino
+
+[NPC Internal] Try this for the wig (Purple Goujah Fur).
+[NPC] Raul: What's this?
+[NPC Narrate] -Raul turns the fur over in his hands, examining and smelling it.-
+[NPC] Raul: Quite so!
+[NPC] Raul: There now, that wasn't so difficult, was it?
+[NPC] Raul: Here, take, with the gratitude of Hydlaa's finest barber and surgeon.
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Crystal Glyph
+

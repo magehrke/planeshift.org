@@ -1,0 +1,110 @@
+[Questname] Where the Courrier Went
+[NPC Name] Londris Kolaim
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Special] Access to Death Realm (about 15 hours of game time)
+
+[To] Londris Kolaim
+
+[NPC Internal] Do you need help with something?
+[NPC] Londris: Dying to help me are you, Stonehammer?
+[NPC Narrate] -Londris sneers at you.-
+[NPC] Londris: Maybe I should keep you here.
+[NPC Narrate] -Londris thinks a bit.-
+[NPC] Londris: Then again perhaps I should send you to aid my enemies.
+[NPC] Londris: But even I am not that cruel.
+[NPC Narrate] -Londris laugh echoes through the room.-
+[NPC] Londris: But if you are going to loiter around here I may as well give you something to do.
+[NPC] Londris: Interested, little mortal?
+[NPC Internal] Yes I am.
+[NPC] Londris: It said yes.
+[NPC] Londris: Now listen closely.
+[NPC] Londris: I dispatched a small package topside some time ago.
+[NPC] Londris: Apparently it has not yet arrived.
+[NPC Narrate] -Londris frowns.-
+[NPC] Londris: Inefficiency annoys me.
+[NPC] Londris: Now if you are not completely incompetent, you will find out what happened to it.
+[NPC] Londris: I left it with the Guardian to give to the courier.
+[NPC] Londris: Don't bother returning without results.
+[NPC] Londris: Now be gone!
+
+[To] Death Guardian
+
+[NPC Internal] Londris sent me to find out about the package.
+[NPC] Death: Mortal.
+[NPC Narrate] -Death Guardian stares vacantly into space.-
+[NPC] Death: Do I appear to you to be a clerk?
+[NPC Internal] Yes..now that you mention it.
+[NPC] Death: I see.
+[NPC] Death: Be that as it may.
+[NPC] Death: I recall the package.
+[NPC] Death: As to whom-
+[NPC Narrate] -The Guardian extends its arm and a rather large tome appears in its hand.-
+[NPC] Death: This tome chronicles the arrival and departure of all mortals who pass through this realm.
+[NPC Narrate] -The tome flips open and hovers in front of the Guardian.-
+[NPC] Death: This is the entry.
+[NPC] Death: One came here from the region you may know as the Eagle Bronze Doors.
+[NPC] Death: The same one left via the Dsar Akkaio portal carrying the package.
+[NPC Narrate] -The Guardian twitches with a sort of surprise.-
+[NPC] Death: Strange?
+[NPC] Death: The name has been blotted out.
+[NPC] Death: But I can tell you in appearance it was a female Dermorian wearing an embroidered black cloak.
+[NPC] Death: It identified itself by showing a ceremonial dagger consisting of a black chalcedony quartz of some sort.
+[NPC] Death: And now, mortal, we are done speaking.
+[NPC Narrate] -The Guardian abruptly turns away from you.-
+
+[To] Kisatol Gathoji
+
+[NPC Internal] I am looking for a female Dermorian that carried a package.
+[NPC] Kisatol: I do not see how it is any of your business.
+[NPC Narrate] -Kisatol takes half a step closer.-
+[NPC] Kisatol: Tell me who sent you and answer quickly.
+[NPC Internal] Londris sent me.
+[NPC] Kisatol: Tell your employer there have been…
+[NPC] Kisatol: complications.
+[NPC] Kisatol: Shian Sulkin, the courier, has disappeared in Hydlaa.
+[NPC] Kisatol: No.
+[NPC] Kisatol: Wait.
+[NPC Narrate] -Kisatol mutters to himself.-
+[NPC] Kisatol: If she is alive we will find her.
+[NPC] Kisatol: If she is dead we will find her.
+[NPC] Kisatol: The package can rot, I need my dag…
+[NPC Narrate] -Kisatol stops and focuses his gaze on you.-
+[NPC] Kisatol: Hurry back to your master, Stonehammer.
+[NPC Narrate] -Kisatol thinks a moment.-
+[NPC] Kisatol: Inform him of the minor delay.
+
+[To] Londris Kolaim
+
+[NPC Internal] There is a delay.
+[NPC] Londris: This is preposterous!
+[NPC Narrate] -Londris seethes.-
+[NPC] Londris: The Onyx Dagger are supposed to be reliable.
+[NPC] Londris: We have proceeded too far for…
+[NPC] Londris: The Wanderer will not be pl…
+[NPC Narrate] -Londris stops abruptly.-
+[NPC] Londris: What was the name of the courier again, mortal?
+[NPC Internal] shian sulkin
+[NPC] Londris: I wonder…
+[NPC Narrate] -Londris snaps a finger and a tome appears in his hand. He flips through it hastily.-
+[NPC] Londris: A Shian Sulkin died in Hydlaa a few days ago.
+[NPC] Londris: But she did not pass through here.
+[NPC Narrate] -For an instant fear flickers across his face. He hastily scribbles a note and places a seal on it.-
+[NPC] Londris: Deliver this to the Dark Wanderer as quickly as possible and you will have your reward.
+[NPC] Londris: Now go!
+
+[To] Dark Wanderer
+
+[NPC Internal] gives the Dark Wanderer the note.
+[NPC] Dark: What is this?
+[NPC Narrate] -The Wanderer waves his hand over the seal and it crumbles to dust. He peruses the note.-
+[NPC] Dark: I see.
+[NPC] Dark: Unfortunate.
+[NPC] Dark: There will be retribution.
+[NPC Narrate] -The Wanderer glares at you.-
+[NPC] Dark: You will speak of this to no one.
+[NPC] Dark: And take this for your service.
+
+[Reward] [Money] 1000; [XP] 8000
+

@@ -1,0 +1,187 @@
+[Questname] Deceit and Honour
+[NPC Name] Krri Koreni
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[To] Krri Koreni
+
+[NPC Internal] You look sad, anything I can do to help?
+[NPC] Krri Koreni: Yes, I am sad, and some help would be greatly appreciated.
+[NPC] Krri Koreni: I have gotten myself into some serious trouble.
+[NPC] Krri Koreni: I am known for my honour and now that is at stake.
+[NPC] Krri Koreni: Please, help me!
+[NPC Internal] Don't worry, Krri, I'll help you. Tell me more.
+[NPC] Krri Koreni: Thank you so much, Klyros.
+[NPC] Krri Koreni: You see, I usually don't get mixed up in such things, but a few weeks ago I took a job I shouldn't have taken.
+[NPC] Krri Koreni: If I had known what sort of people had hired me, I would not have agreed to it.
+[NPC] Krri Koreni: They tricked me into believing it was a rescue operation, but it turned out to be something entirely different.
+[NPC] Krri Koreni: Though to my defence I backed out as soon I understood what it was about.
+[NPC] Krri Koreni: And now someone has sent a report to the Octarchy, stating that I was the brain behind it all.
+[NPC] Krri Koreni: I have tried to find the Dermorian who hired me, but he has disappeared and no one has ever heard of him.
+[NPC] Krri Koreni: He said his name was Fraludir.
+[NPC] Krri Koreni: Please talk to someone in the Octarchy and try to find out as much as possible.
+[NPC] Krri Koreni: Vigesimi Amidison Stronghand would be a good start.
+
+[To] Amidison Stronghand
+
+[NPC Internal] What can you tell me about Krri's problem?
+[NPC] Amidison Stronghand: Krri Koreni?
+[NPC] Amidison Stronghand: Why would that be any of your concern, citizen?
+[NPC Internal] Sorry, ma'am, but I am trying to help her restore her honour.
+[NPC] Amidison Stronghand nods slowly and looks you over.
+[NPC] Amidison Stronghand: Very well, Klyros.
+[NPC] Amidison Stronghand: We recently received reports from a few eye witnesses that Krri Koreni assassinated a wealthy lady in the Winch, a Klyros named Vermatago.
+[NPC] Amidison Stronghand: Now, I would never doubt Krri if she said she were innocent, but the testimonials we have from the witnesses are very damming, or that's how they look to me.
+[NPC] Amidison Stronghand: One of them said he witnessed Krri kill Vermatago, near one of the sewer entrance.
+[NPC] Amidison Stronghand: The next mentions how he heard Krri explain her plans, and a third said that Krri bribed him to let her in the Winch, and enter the Klyros' home.
+[NPC Internal] And who may those witness be?
+[NPC] Amidison Stronghand: The witnesses?
+[NPC] Amidison Stronghand: I'm afraid I can't give you that bit of information, but...
+[NPC Narrate] -She pulls a token from one of her pockets, and leans in to hand it to you.-
+[NPC] Amidison Stronghand: Present this to the guards in Hydlaa, and they will collaborate with you.
+[NPC] Amidison Stronghand: Be sure you have it with you or you will get nothing from them.
+[NPC] Amidison Stronghand: If I recall correctly, Jefecra Harcrit, the Lieutenant of the Upper District garrison, was the one in charge of the investigation.
+[NPC] Amidison Stronghand: I advise you go see him.
+
+[To] Jefecra Harcrit
+
+[NPC Internal] Good day, Jefecra. What can you tell me about Krri?
+[NPC] Jefecra Harcrit: Krri?
+[NPC Narrate] -The armoured Enkidukai raises his helmet a little, observing your badge.-
+[NPC] Jefecra Harcrit: I see Vigesimi Stronghand trusts you in this.
+[NPC] Jefecra Harcrit: What would you like to know about Krri?
+[NPC Internal] I would like to know the witnesses that testified against Krri.
+[NPC] Jefecra Harcrit: Ah, yes, the witnesses.
+[NPC] Jefecra Harcrit: I have their names on me, somewhere.
+[NPC] Jefecra Harcrit fishes a folded note from a pouch hanging from his waist, and reads it.
+[NPC] Jefecra Harcrit: Here, now they are Ervin, Pauril, and Darven.
+[NPC] Jefecra Harcrit: And please, don't be aggressive with them: I wouldn't want to arrest you, now that you're helping Krri.
+[NPC] Jefecra Harcrit: Go ask them, and then report back to me if you find anything new.
+
+[To] Pauril Rentaurin
+
+[NPC Internal] Good day, Pauril, can you tell me anything about Krri's case?
+[NPC] Pauril Rentaurin: What would you like to know?
+[NPC] Pauril Rentaurin: I've already told the guards everything!
+[NPC Narrate] -He looks suspiciously at your token of authority.-
+[NPC] Pauril Rentaurin: Fine, ask away.
+[NPC Internal] What was it that you heard?
+[NPC] Pauril Rentaurin: Hmmm, well, let me recall.
+[NPC] Pauril Rentaurin's tone sounds like that of a storyteller's.
+[NPC] Pauril Rentaurin: I do remember Krri talking to a cloaked figure, I think she called him Fraludir.
+[NPC] Pauril Rentaurin: She said she was going to kill someone that same night, and the other nodded, at least from what I could see.
+[NPC] Pauril Rentaurin: Then they left in different directions: one towards the sewers, and the other towards the Winch.
+[NPC] Pauril Rentaurin: And I can't tell you more.
+[NPC Internal] Are you sure it was Krri that you saw?
+[NPC] Pauril Rentaurin: Hm?
+[NPC] Pauril Rentaurin: Why, yes.
+[NPC] Pauril Rentaurin: It was Krri, of course.
+[NPC] Pauril Rentaurin: What a strange question.
+[NPC Internal] It's strange, Pauril, I had you for someone respectable!
+[NPC] Pauril Rentaurin: I am respectable!
+[NPC] Pauril Rentaurin: Well, I guess.
+[NPC Narrate] -He sighs a little.-
+[NPC] Pauril Rentaurin: Promise me you won't tell anyone, alright?
+[NPC] Pauril Rentaurin: I didn't see Krri...
+[NPC] Pauril Rentaurin: I don't know who did I see, but it certainly wasn't Krri.
+[NPC] Pauril Rentaurin: It was much taller than an Enkidukai.
+[NPC] Pauril Rentaurin: That's all I can tell you.
+
+[To] Darven
+
+[NPC Internal] Good day, Darven. I'm here to talk about Krri.
+[NPC] Darven Bounash: Krri?
+[NPC] Darven Bounash: Who, that mercenary?
+[NPC] Darven Bounash starts shuffling a deck of cards, staring at you meanwhile.
+[NPC] Darven Bounash: She can say all she wants, I know what I saw, and I know she's guilty.
+[NPC Internal] May I know what you have to say about it?
+[NPC] Darven Bounash: Well, hum!
+[NPC] Darven Bounash: I know what I saw, I told you.
+[NPC] Darven Bounash: I was walking back from Kada's and down an alleyway nearby I heard Krri and someone else threatening the Klyros woman.
+[NPC] Darven Bounash: She said something like "I haven't done anything to you!" or some such.
+[NPC] Darven Bounash: I think she even said a name, or something.
+[NPC] Darven Bounash: And then, that girl stabbed her through the chest, just like that!
+[NPC] Darven Bounash: I ran away!
+[NPC Narrate] -He closes his eyes and shivers a bit.-
+[NPC Internal] Did you hear anything else?
+[NPC] Darven Bounash: Yes!
+[NPC] Darven Bounash: Yes, that's the one I heard!
+[NPC] Darven Bounash: He mentioned something about B- Krri's plan being brilliant!
+[NPC Narrate] -He sounds a little nervous now.-
+[NPC] Darven Bounash: Then Krri said "Yes, yes, I am brilliant!"
+[NPC Internal] What did you just say? Are you sure it was Krri?
+[NPC] Darven Bounash: E-eh?
+[NPC] Darven Bounash: S-sure, it was Krri!
+[NPC] Darven Bounash: I mean, I would recognize that deep gro-- that sweet voice!
+[NPC] Darven Bounash seems to realize that he has blown his cover.
+[NPC] Darven Bounash: By the Gods, I can't tell you!
+[NPC] Darven Bounash: He'll crush my skull!
+[NPC] Darven Bounash: He'll tear my limbs apart!
+[NPC] Darven Bounash: I need protection!
+[NPC Internal] Alright, alright, calm down. I'll tell Jefecra you need protection.
+[NPC] Darven Bounash: F-fine...
+[NPC] Darven Bounash: It was B- the gladiator.
+[NPC] Darven Bounash: The big one.
+[NPC] Darven Bounash looks around nervously, hoping no one is listening.
+[NPC] Darven Bounash: Now go!
+[NPC] Darven Bounash: I've told you all you need to know!
+[NPC] Darven Bounash: And remember what you promised!
+
+[To] Ervin
+
+[NPC Internal] Good day, Ervin. May I ask you something about Krri?
+[NPC] Ervin Fromaad: Krri Koreni?
+[NPC] Ervin Fromaad: I don't see why not.
+[NPC] Ervin Fromaad: Go ahead.
+[NPC Internal] Did you let Krri into the Winch recently?
+[NPC] Ervin Fromaad: Ah, yes, I remember that.
+[NPC] Ervin Fromaad: She said she needed to go talk to Axomir about a package she was waiting for from the Barn.
+[NPC Internal] Are you sure her intentions were that innocent?
+[NPC] Ervin Fromaad: Maybe if you'd let me finish, I'd tell you the whole story.
+[NPC] Ervin Fromaad: Anyway, she was cloaked, but I could recognize that low growling voice anywhere.
+[NPC] Ervin Fromaad: Later on I heard that she had assassinated a wealthy merchant.
+[NPC Internal] True, true, hard to identify... Only that you don't seem to know Krri that well: her voice is, by no means, as you suggest.
+[NPC] Ervin Fromaad: Er, well, hum, you know, she wanted to disguise herself, right?
+[NPC] Ervin Fromaad: So yes, of course she would speak different.
+[NPC] Ervin Fromaad: Pfft, like...
+[NPC] Ervin Fromaad: I recognized her, alright!?
+[NPC Internal] Ervin, you can't fool me! You are lying! I'm going to tell the guards unless you tell me the truth.
+[NPC] Ervin Fromaad: N-no!
+[NPC] Ervin Fromaad: I-I'm not lying!
+[NPC] Ervin Fromaad: Really, hey, look...
+[NPC] Ervin Fromaad: I'm going to give you these circles, right?
+[NPC] Ervin Fromaad: You don't need to tell the guards.
+[NPC Internal] A bribe? Are you trying to bribe me?
+[NPC] Ervin Fromaad: Bribe?
+[NPC] Ervin Fromaad: Gods, no!
+[NPC] Ervin Fromaad: Take it as a, well, compensation.
+[NPC] Ervin Fromaad: For your hard work, yes.
+[NPC] Ervin Fromaad: Look, look at how shiny they are.
+[NPC] Ervin Fromaad: Come on, who would say no to this?
+[NPC Internal] Well, they sure are shiny, thanks...
+[NPC] Ervin Fromaad: See, good Madam?
+[NPC] Ervin Fromaad: We don't need to be foes.
+[NPC] Ervin Fromaad: Now we're friends, right?
+[NPC] Ervin Fromaad: You don't tell the guards, and my head stays on my shoulders.
+[NPC] Ervin Fromaad: We all win.
+
+[To] Jefecra Harcrit
+
+[NPC Internal] I'm back from talking with the witnesses.
+[NPC] Jefecra Harcrit: Ah, excellent.
+[NPC] Jefecra Harcrit: Any new pieces of information you have for me?
+[NPC Internal] Actually, I do. [You tell Jefecra the whole story, to which he listens intently, nodding from time to time.]
+[NPC] Jefecra Harcrit: I see how it goes...
+[NPC] Jefecra Harcrit: Do you think you can investigate further?
+[NPC] Jefecra Harcrit: I don't think I can make sense of all this, and you seem to know more than we do already.
+[NPC] Jefecra Harcrit: Usually we wouldn't ask you to do such a thing, but Krri needs your help.
+[NPC] Jefecra Harcrit: Please, go and see if you can find out anything else
+[Info] Now I took accidently the wrong path...
+[NPC Internal] I don't want to go off and talk to anyone else, as you asked. Here is your token back.
+[NPC] Jefecra Harcrit frowns heavily.
+[NPC] Jefecra Harcrit: Well...
+[NPC] Jefecra Harcrit: Very well.
+[NPC] Jefecra Harcrit: Thank you for your help so far, we will continue with what you have reported.
+
+[Reward] [Money] 5000;

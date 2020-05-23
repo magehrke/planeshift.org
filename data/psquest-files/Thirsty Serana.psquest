@@ -1,0 +1,64 @@
+[Questname] Thirsty Serana
+[NPC Name] Serana Tuvi
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Jolik's Letter; [Item] 1, Water Pouch
+
+[To] Serana Tuvi
+
+[NPC Internal] What should I do?
+[NPC] Serana: Hmm?
+[NPC Narrate] -Serana looks at you somewhat surprised.-
+[NPC] Serana: Perhaps you are not here for the ritual.
+[NPC] Serana: Just wandered down, did you?
+[NPC] Serana: Alright.
+[NPC] Serana: I'm quite thirsty so if you could go get me a water pouch from Kada-El's I'll pay you.
+[NPC] Serana: Are you interested?
+[NPC Internal] Sure, I can get it for you.
+[NPC] Serana: Ah, good good.
+[NPC] Serana: They aren't that expensive.
+[NPC] Serana: I'm sure you can afford it.
+[NPC] Serana: I'll be waiting.
+[NPC Narrate] -Serana looks away as if no longer interested.-
+[NPC Internal] gives Serana a water pouch.
+[NPC] Serana: Ah yes, excellent.
+[NPC] Serana: To be honest, I didn't think you'd do it.
+[NPC Narrate] -Serana smiles lightly.-
+[NPC] Serana: I could use you for something more important, if you are interested.
+[NPC] Serana: I'll pay you more, are you in?
+[NPC Internal] Yes, what do you need?
+[NPC] Serana: Good.
+[NPC] Serana: Sharven keeps quite a few books on hand for those that are interested in learning more about Laanx.
+[NPC] Serana: I've sent word to him to send me one of those books, but I haven't heard back yet.
+[NPC] Serana: He should have it ready by now.
+[NPC] Serana: Just ask him for the book for Serana.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Serana is asking for the book.
+[NPC] Sharven: Serana?
+[NPC] Sharven: Hmm…
+[NPC Narrate] -Sharven takes a small book out of his pocket.-
+[NPC] Sharven: Ah yes, Serana.
+[NPC] Sharven: Here you go: an interesting book about Laanx.
+[NPC] Sharven: She must be an educated girl.
+[NPC Narrate] -Sharven hands you a well-used book.-
+[NPC] Sharven: I hope she enjoys it, and finds it enlightening.
+[NPC] Sharven: She should have it back to me by the end of next week.
+
+[To] Serana Tuvi
+
+[NPC Internal] gives Serana the book, New Perspectives on Laanx.
+[NPC] Serana: Excellent.
+[NPC Narrate] -Serana's eyes flicker with a cold intensity.-
+[NPC] Serana: I'm almost happy that you are not…
+[NPC] Serana: part of the ritual.
+[NPC Narrate] -Serana gives you a cold smile.-
+[NPC] Serana: Thank you for the book.
+[NPC] Serana: Here is your reward, Kran; I hope to see you around.
+[NPC] Serana: I can always use some help.
+[NPC Narrate] -Serana hands you a couple of coins-
+
+[Reward] [Money] 1297; [XP] 9400
+

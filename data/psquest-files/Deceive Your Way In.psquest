@@ -1,0 +1,125 @@
+[Questname] Deceive Your Way In
+[NPC Name] Zak
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Party of Rogues; [Money] 4400
+
+[To] Zak
+
+[NPC Internal] I'm here to see…if you have some more 'work' for me…
+[NPC] Zak: Well, well, well.
+[NPC] Zak: Back for more, are you?
+[NPC] Zak: My eyes-and-ears around have told me your name is YOU and you might just be the sort I need for a special assignment.
+[NPC] Zak: I've seen you around enough to maybe trust that you won't stab me in the back.
+[NPC] Zak: Do this job for me, and the Winch area will be your oyster, ripe for taking pearls.
+[NPC] Zak: Have I interested you?
+[NPC Internal] Yes.
+[NPC] Zak: That's what I wanted to hear.
+[NPC] Zak: I've got an operative in the Winch area.
+[NPC] Zak: Goes by the name of Acigra.
+[NPC] Zak: He has acquired the winch's engineering designs, and I need them.
+[NPC] Zak: You don't need to know why.
+[NPC] Zak: But first things first.
+[NPC] Zak: I'll need some items to forge official documents requesting you access to the Winch.
+[NPC] Zak: Will you still do it?
+[NPC Internal] Yes.
+[NPC] Zak: I knew I could count on you.
+[NPC] Zak: We'll do this one step at a time.
+[NPC] Zak: First, I need ink and paper from Jayose the librarian.
+[NPC] Zak: He's not going to question it, as this is a perfectly legal transaction.
+
+[To] Jayose
+
+[NPC Internal] I need some ink and paper.
+[NPC] Jayose: Let me check.
+[NPC Narrate] -Jayose opens a drawer and takes some ink and paper.-
+[NPC] Jayose: I can give you this for fifty Trias.
+[NPC Internal] Here are the Trias.
+[NPC] Jayose: And here are the Ink and Paper.
+[NPC Narrate] -Jayose handles you the item.-
+
+[To] Zak
+
+[NPC Internal] Here is your ink and paper.
+[NPC] Zak: Easy enough.
+[NPC] Zak: Now, I'll need some wax.
+[NPC] Zak: You might know that wax comes from a substance in wool, so you'll need to find someone who works with rivnaks.
+[NPC] Zak: Terea Lohdren is an animal trainer, so she'll likely have some, but we can't let her know that it's for a seal.
+[NPC] Zak: It's suspicious, plus she knows who I am, if you recall.
+[NPC] Zak: Just ask her to give you wax, and tell her it's for candles if she asks.
+[NPC] Zak: You'll be paying for the wax yourself.
+
+[To] Terea Lohdren
+
+[NPC Internal] I would like to buy some wax please.
+[NPC] Terea: Pressing wax out of rivnak wool is a hard process and not cheap.
+[NPC] Terea: I don't sell it to just anyone.
+[NPC] Terea: What are you planning to make with it, anyway?
+[NPC Internal] Candles.
+[NPC] Terea: Oh, candles?
+[NPC] Terea: Yes, of course.
+[NPC] Terea: A packet of wax is one hundred and fifty tria.
+[NPC Internal] One hundred and fifty tria, here you go!
+[NPC] Terea: Thank you.
+[NPC] Terea: Here is your wax.
+
+[To] Zak
+
+[NPC Internal] I got your wax.
+[NPC] Zak: Ah, well done.
+[NPC] Zak: While you were gone, I completed the written portion of the documents.
+[NPC] Zak: There's only one thing left: an official seal from the Eagle Bronze Doors.
+[NPC] Zak: Roobelh works for them and us, so he'll be able to procure a duplicate of the seal, but he'll probably want a hefty sum to keep his lips firmly closed.
+[NPC] Zak: That falls to you as well.
+[NPC] Zak: Just ask him for a duplicate seal.
+[NPC] Zak: There's only one reason you'd want one so there's no sense in making up a story for him.
+[NPC] Zak: Now get out of here before you're seen, and don't return without the seal.
+
+[To] Roobelh
+
+[NPC Internal] I need a duplicate of the official Eagle Bronze Doors seal.
+[NPC] Roobelh: Quite an odd thing to ask a guard about, would you not say?
+[NPC] Roobelh: I do happen to have such an item.
+[NPC] Roobelh: If I am caught by Aerayau Strongwill, however, it will cost me my job and I will need some compensation: four thousand two hundred tria.
+[NPC] Roobelh: You can give that to me at any time in exchange for the seal.
+[NPC] Roobelh: If you are unwilling to pay that, I could just give it to you, but I would be forced to tell Aerayau, and every guard from here to Hydlaa and beyond would know you to be a thief.
+[NPC] Roobelh: Are you willing to pay?
+[NPC Internal] Yes.
+[NPC] Roobelh: I thought you'd see it my way.
+[NPC] Roobelh: Hand over the tria when you have it.
+[NPC Internal] Here are your tria.
+[NPC] Roobelh: And here is the seal.
+[NPC] Roobelh: I sure hope Aerayau doesn't hear of this.
+
+[To] Zak
+
+[NPC Internal] I got your seal.
+[NPC] Zak: I hope you didn't find any trouble getting this.
+[NPC Narrate] -Zak impresses the seal onto the wax on the document.-
+[NPC] Zak: And that should do it.
+[NPC] Zak: Now listen closely: I'm only going to say this once.
+[NPC Narrate] -Zak holds up a finger.-
+[NPC] Zak: Give the winch access request to the treasurer, Willam Chorind, and he should give you winch access papers.
+[NPC] Zak: He's the least suspecting government official who can grant winch access.
+[NPC] Zak: If he asks who sent you, say Aerayau; obviously don't tell him the truth.
+[NPC] Zak: From there, you are to tell Acigra the code phrase: 'delicious shadow moths.' If Jefecra Harcrit gets a hold of the engineering designs, it's all over, so stay alert.
+[NPC] Zak: Take the documents, and get ready to Deceive Your Way in.
+
+[To] Willam Chorind
+
+[NPC Internal] Here is my access request.
+[NPC] Willam: Now let's see here.
+[NPC Narrate] -Willam inspects the documents quickly.-
+[NPC] Willam: This form appears to be missing a sentence.
+[NPC] Willam: Who gave you these papers?
+[NPC Internal] Aerayau Strongwill.
+[NPC] Willam: Oh.
+[NPC] Willam: It's an honest mistake, but I hear that he has a meticulous administrator.
+[NPC] Willam: I wouldn't think this would slip by her.
+[NPC] Willam: Anyway, this seems to be in order.
+[NPC] Willam: Here are your access papers.
+[NPC] Willam: Present those to Percival Hawthorne and he should let you in and recognize you from now on.
+
+[Reward] [XP] 16400; [Faction] 20, Thieves Organization
+

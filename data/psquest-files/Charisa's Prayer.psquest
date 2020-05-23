@@ -1,0 +1,60 @@
+[Questname] Charisa's Prayer
+[NPC Name] Menlil Toresun
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Introduction to Laanx; [Item] 1, Night Mushroom
+
+[To] Menlil Toresun
+
+[NPC Internal] Hi, Sharven asked me to speak with you.
+[NPC] Menlil: Ah, good, there is something I need you to check for me.
+[NPC Internal] Please let me know what you need.
+[NPC] Menlil: Yesterday I saw Charisa looking out of her window with a very troubled face.
+[NPC] Menlil: Please go to speak with her.
+
+[To] Charisa Malod
+
+[NPC Internal] You look troubled. Maybe I can help?
+[NPC] Charisa: Every since my husband signed up for another term with the guards I have been constantly worried about his safety.
+[NPC] Charisa: I know that he will be all right and come back before too long…
+[NPC] Charisa: but it doesn't stop me from worrying about him.
+[NPC] Charisa: Could you take this to the Iron Temple?
+[NPC] Charisa: It is a prayer for my husband's safe return.
+[NPC Internal] It would be my pleasure to assist you.
+[NPC] Charisa: Thank you.
+[NPC] Charisa: I haven't been able to work, because I worry about him so much.
+[NPC] Charisa: Hopefully this will provide a small measure of comfort for me, and aid for him.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] I was asked to deliver this.
+[NPC] Sharven: A prayer?
+[NPC] Sharven: Who is it from?
+[NPC Narrate] -Sharven scans the text.-
+[NPC Internal] Charisa asked me to bring it.
+[NPC] Sharven: Yes, poor child, always so distraught over his departure.
+[NPC] Sharven: Laanx smiles on those who put their trust in him.
+[NPC] Sharven: A simple blessing of safety and well return will do nicely.
+[NPC Narrate] -Sharven rummages around a bit in a nearby cabinet.-
+[NPC] Sharven: It seems I require a night mushroom for this.
+[NPC] Sharven: I thought I had a few more.
+[NPC] Sharven: I'll have to send out a couple of adepts to gather some.
+[NPC] Sharven: But, if you could find me one it would speed things up for her.
+[NPC Internal] I would like to bring comfort to Charisa, I brought the mushroom myself.
+[NPC] Sharven: Thank you.
+[NPC Narrate] -Sharven mutters a few words over the paper. He burns the paper to a fine ash.-
+[NPC] Sharven: Have her sprinkle these ashes in the wind, holding his face and name in her heart and mind.
+[NPC] Sharven: With that he will return home safe.
+
+[To] Charisa Malod
+
+[NPC Internal] Sharven has prepared a prayer for you.
+[NPC] Charisa: Thank you.
+[NPC] Charisa: Hopefully it will allow me to work with an easier mind.
+[NPC] Charisa: If I recall the rite correctly, I just sprinkle the ashes to the wind and think of him.
+[NPC] Charisa: Yes?
+[NPC Internal] Yes, that is exactly what you need to do.
+[NPC] Charisa: With Laanx, one should always be certain.
+[NPC] Charisa: Here, take these in payment.
+[NPC Narrate] -Charisa gives you two potions.-

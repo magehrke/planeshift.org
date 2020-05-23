@@ -1,0 +1,152 @@
+[Questname] A Most Enchanting Order
+[NPC Name] Gardr Keck
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Making Leather Armor; [Item] 1, Leather Gloves Kit; [Item] 1, Steel Ingot; [Item] 1, Hammer; [Item] 1, Enchanted Ruby Crystal
+
+[To] Gardr Keck
+
+[NPC Internal] Hi Gardr, anything you need help with?
+[NPC Narrate] -Gardr is washing grime from kras hands as kra looks over to you.-
+[NPC] Gardr: I'm busy making some enchanted armor and need someone to collect some of the crystals for the work.
+[NPC] Gardr: Think you can fetch them for me?
+[NPC Internal] Yeah, I have some time.
+[NPC] Gardr: Great…
+[NPC Narrate] -Gardr turns and walks over to his tools flicking kras hands dry as kra does.-
+[NPC Narrate] -Kra picks up a few tools and puts them away before continuing.-
+[NPC] Gardr: So, it shouldn't be too many pickups.
+[NPC] Gardr: Let me just find the list of orders I've yet to make…
+[NPC Narrate] -Gardr starts digging about looking for the order list.-
+[NPC Internal] So who do you need me to go and see?
+[NPC] Gardr: Ah, here it is.
+[NPC Narrate] -Gardr flicks through a few pieces of paper.-
+[NPC] Gardr: So…
+[NPC] Gardr: I need you to head out to Evelyn.
+[NPC] Gardr: She has asked me to make her another pair of decorative gloves and wants some gems inlaid into them.
+[NPC] Gardr: She will be furthest away.
+[NPC] Gardr: Then there is…
+[NPC] Gardr: Oh, Gurgus, I'd forgotten about this order.
+[NPC] Gardr: I should have had it done at the beginning of the week.
+[NPC] Gardr: Kra wants some ceremonial armor making and the design has a number of crystals in it.
+[NPC] Gardr: Then..
+[NPC] Gardr: we..
+[NPC] Gardr: have…
+[NPC] Gardr: Aerayau…
+[NPC] Gardr: Huh.
+[NPC Narrate] -Kra scratches kras chest.-
+[NPC] Gardr: You'd think he would be able to get someone up at the fortress to do this for him.
+[NPC] Gardr: But then I am the best.
+[NPC Narrate] -Gardr tries to hide a small smile.-
+[NPC] Gardr: I guess he will be furthest away.
+[NPC] Gardr: You'll be alright running off and about getting these orders for me won't you?
+[NPC Internal] Sure, I'll collect the orders for you.
+[NPC] Gardr: Good, I knew you would.
+[NPC] Gardr: As soon as you are back I'll give you some instructions on how to inlay the gems into some armor, which gives them the same properties as the gem you used.
+[NPC] Gardr: And of course a practical demonstration.
+[NPC] Gardr: Do be back soon.
+
+[To] Gurgus Dahnik
+
+[NPC Internal] I'm here to collect your gems for Gardr.
+[NPC Narrate] -Gurgus is resting kras hands on the hilts of kras swords as you approached.-
+[NPC] Gurgus: You know, when you get back to Gardr you should just tell him to come and collect these things kras self.
+[NPC] Gurgus: It's not like kra is more than a few minutes from here.
+[NPC Narrate] -Gurgus hands you a small box.-
+[NPC] Gurgus: Do be quick with getting these to kra, I would like my order filled soon.
+
+[To] Aerayau Strongwill
+
+[NPC Internal] I'm here to collect your gems for Gardr.
+[NPC Narrate] -Aerayau is standing, leaning forwards with his hands on the table.-
+[NPC Narrate] -His long gilded sword and shield are laid out on the table in front of him.-
+[NPC Narrate] -He has been watching you since you came into sight walking towards him and is making direct eye contact as you speak.-
+[NPC] Aerayau: Welcome Citizen.
+[NPC] Aerayau: I am very happy to hear that you have arrived from Gardr.
+[NPC] Aerayau: I have a number of very specific requests for kra.
+[NPC Narrate] -Areayau picks up a decorative box and slides it across the table to you.-
+[NPC] Aerayau: In there you will find the gems and the instructions for their use.
+[NPC] Aerayau: Now I know I can trust you to take these to kra…
+[NPC] Aerayau: Because if you don't I'll have you hunted down and thrown in jail.
+[NPC Narrate] -Areayau stands up straight and bids you to leave.-
+[NPC] Aerayau: Good day.
+
+[To] Evelyn
+
+[NPC Internal] I'm here to collect your gems for Gardr.
+[NPC Narrate] -Evelyn places the end of her staff on the ground and holds it with one hand as her eye lashes flutter briefly.-
+[NPC Narrate] -A smile crosses her lips for a moment before she speaks.-
+[NPC] Evelyn: Just make sure these get to kra safely, I do hate to be disappointed.
+[NPC Narrate] -She lets go of her staff which remains standing up right as she walks over to the counter and picks up a small box.-
+[NPC Narrate] -As she steps back to her staff she sweeps the hair out of her face and looks at you, handing you the box.-
+[NPC] Evelyn: Good bye.
+
+[To] Gardr Keck
+
+[NPC Internal] I have the orders you asked me to collect.
+[NPC Narrate] -Gardr shoves a few steel ingots into a furnace to let them heat up and become molten.-
+[NPC Narrate] -Kra walks back over to you dusting kras hands off.-
+[NPC] Gardr: Great, saved me a lot of time by getting them.
+[NPC Narrate] -Gardr takes the boxes and sacks and looks though all the contents.-
+[NPC] Gardr: What's this?
+[NPC Narrate] -Gardr pulls out a wad of papers covered in notes from Areayau's Crystal box.-
+[NPC Narrate] -Kra flicks though them waiting for you to reply.-
+[NPC Internal] They are instructions from Areayau with what he wants done with the crystals.
+[NPC Narrate] -Gardr smiles.-
+[NPC] Gardr: So I can see.
+[NPC] Gardr: He has already sent along one lot of designs…
+[NPC] Gardr: And now he totally changes them.
+[NPC Narrate] -Gardr shrugs and places the items on a table.-
+[NPC] Gardr: Well I can deal with that later.
+[NPC] Gardr: Now, about showing you how to affix one of these gems onto a piece of armor.
+[NPC] Gardr: I think I'll teach you how to make an enchanted pair of gloves, the technique is essentially the same for every piece of armor.
+[NPC] Gardr: So to start with you will need a leather gloves kit, some steel ingots, a hammer and an enchanted ruby.
+[NPC Narrate] -Gardr goes over and moves about the steel ingots in the furnace.-
+[NPC] Gardr: Those items will allow you to test the techniques I'm about to show you once we are finished.
+[NPC Narrate] -Gardr glances over kras shoulder saying.-
+[NPC] Gardr: If you arn't a mage you might find it hard making enchanted gems, so you should either ask a mage to make you some or join one of the Magic ways and work your way up the ranks until you enchant them yourself.
+[NPC Internal] I have all the things you mentioned and I'm ready.
+[NPC Narrate] -Gardr waves you over to the furnace where kra is pulling some molten steel out from the coals.-
+[NPC] Gardr: Good, so with all the things you need ready, the process is quite simple.
+[NPC] Gardr: The first thing you needed to make was a kit for the piece of armor you want to add the enchanted crystal into, for this I got you to make the gloves, but you can use any kit you can make.
+[NPC Narrate] -Kra walks over and places the molten steel on his anvil and picks up a hammer.-
+[NPC] Gardr: Now, the next thing you need to make is a gem socket.
+[NPC Narrate] -Kra smiles as he starts to bring the hammer down on the molten steel.-
+[NPC Narrate] -The heavy chimes echo under the small roof as the sparks burst off the steel and bounce about before coming to rest.-
+[NPC Narrate] -Kra picks up the partly shaped socket and shows it to you.-
+[NPC] Gardr: It should look something like this, and be able to hold any of the crystals you choose to place in it.
+[NPC Narrate] -Kra goes back to shaping it and between hammer strikes continues to talk.-
+[NPC] Gardr: For rubies you only need to use one piece of steel as they are the smallest and hold the least magic so are easily contained.
+[NPC Narrate] -Kra begins tapping the gem socket to finish it off.-
+[NPC] Gardr: If you want to use emeralds or sapphires you will need to make a stronger socket with two molten steel, and for a diamond you will need to use three.
+[NPC Narrate] -Kra holds up the gem socket and shows it to you.-
+[NPC] Gardr: There we go.
+[NPC Internal] That looks easy enough to make, what comes next?
+[NPC Narrate] -Gardr looks the gem socket over to make sure that it is good enough for kra and gives a nod of approval.-
+[NPC] Gardr: Well, the next step is for me to combine the gem socket with an armor kit I made yesterday.
+[NPC] Gardr: In this case I will be combining a standard gem socket, which is for rubies, with a leather gloves kit.
+[NPC Narrate] -Kra nods for you you to follow kra as kra walks over to the smith table.-
+[NPC Narrate] -Placing both the gem socket and the leather gloves kit on the table kra works for a few minutes to correctly combine the two items together.-
+[NPC] Gardr: And this now this step is done.
+[NPC] Gardr: Again a pretty simple step, which leaves just one more.
+[NPC Internal] So what's the last step?
+[NPC Narrate] -Gardr tidies up the smiths table and lays out the leather gloves kit and the enchanted ruby crystal.-
+[NPC] Gardr: The last step once you have combined the gloves kit and the gem socket together, is to add in the enchanted crystal and make the final piece of armor.
+[NPC] Gardr: Now remember, at every step in this process the better quality materials you use, the better the final product will be, crystals included.
+[NPC Narrate] -Gardr bends over slightly and delicately attaches the ruby crystal and then pieces the kit together to make the final complete enchanted pair of gloves.-
+[NPC Narrate] -As kra completes the gloves a shimmer of light glistens over the ruby and socket which now contains it.-
+[NPC] Gardr: And there we are, a pair of magically enchanted gloves.
+[NPC] Gardr: Now, the magical effect contained within the crystal you used will have been transferred to the piece of armor you attached it to.
+[NPC] Gardr: And if you didn't know before what the crystal's magic was…
+[NPC] Gardr: Well, you'll just have to put your gloves on and go find someone to fire magic at you.
+[NPC Narrate] -Gardr chuckles a little.-
+[NPC] Gardr: But I hold no responsibility for what may happen as you test your new items out.
+[NPC Internal] Thanks a lot for showing me Gardr, do you have some notes I can look over?
+[NPC Narrate] -Gardr nods as he flattens out the pair of gloves on the table.-
+[NPC] Gardr: Sure, I've got some spares somewhere…
+[NPC] Gardr: Here we are, Enchanting Armor.
+[NPC] Gardr: Just what you need.
+[NPC] Gardr: I hope it comes in useful.
+
+[Reward] [XP] 12200; [Item] 1, Enchanting Armor; [Faction] 20, Crafting Association
+

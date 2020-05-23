@@ -1,0 +1,44 @@
+[Questname] Xenak's First Exit
+[NPC Name] Xenak
+[Checkup] 2017-04-17
+[Authors] Huarwar Eruera
+
+[Need] Nothing
+
+[To] Xenak
+
+[NPC Internal] Can you let me into the main city? I'd like to go and explorer and maybe come back here later.
+[NPC ME] Xenak frowns a little at you, but quickly smiles.
+[NPC] Xenak: Really, you have only just arrived here haven't you?
+[NPC] Xenak: The people in this outpost are very helpful are you sure you'd like to pass into the main city of Hydlaa?
+[NPC Internal] Yes I am.
+[NPC] Xenak: Very well, and good luck.
+[NPC] Xenak: Remember that you can come back at any point you'd like too, to look round, help out new arrivals yourself, re-read the books on the notice board, and also to talk to anyone you have not spoken to yet.
+[NPC] Xenak: You should be aware that the city is full of different characters.
+[NPC] Xenak: You should think about what part of society you are going to try to fit into when you get in there.
+[NPC] Xenak: Try to stick as closely as possible to that as people here are very welcoming to those who stick to their character.
+[NPC Narrate] ----
+[NPC Narrate] -INFORMATION: Be aware that this is a ROLEPLAY game and current players will interact with you as if they, and you, are 'playing a role', be it warrior, thug, cook, musician, smith...-
+[NPC Narrate] -The jobs just mentioned are some examples of what you could do. But BE ADVENTUROUS in the stories you try to tell and the people you work with. People in PlaneShift love to be part of stories others make.-
+[NPC Narrate] -To this end try to stay In Character, 'IC'. The character you play will only know about the world it is in, PlaneShift. And so you should try and talk and act like a character in this world, not one who knows and talks about the real world.-
+[NPC Narrate] -If you need help with this please ask other players. Those you find in places like the tavern or at Harnquist's smithy are generally more than happy to help get you started with 'Playing a Role' in PlaneShift.-
+[NPC Internal] Thank you, I will.
+[NPC] Xenak: Good, I'm glad.
+[NPC] Xenak: Let me be the first to welcome you to Hydlaa, we all hope you have fun and enjoy your stay here.
+[NPC] Xenak: Once you have passed into the main city you will appear next to the Windowless Tower, the tallest building in Hydlaa.
+[NPC] Xenak: The tower is next to the North Gate one of two major ways into and out of the city.
+[NPC] Xenak: I suggest you head away from that gate down into the main plaza.
+[NPC] Xenak: When next to the fountain, you should be able to see the giant Iron Laanx temple, the large smithy for the famous blacksmith Harnquist, the pathway into the Arena, and the pathway into East Hydlaa where the library is located.
+[NPC ME] Xenak has a letter in his hand.
+[NPC Internal] Is that for me?
+[NPC] Xenak: Yes, this letter should serve as a reference about different places and people should you need a reminder...
+[NPC] Xenak: And here are some maps which you can use to help get around in Hydlaa.
+[NPC ME] Xenak hands you the items.
+[NPC Narrate] ----
+[NPC Narrate] -INFORMATION: If you want to return to the tutorial at any time in the future to re-read information about PlaneShift which is posted on the notice board or for any other reason, just return to the gate where you appear in the main game and right click on it and choose 'enter' this will bring you back into the tutorial.-
+[NPC Narrate] -To return back to the main game just right click on the gate in the tutorial map and it will move you back in to Hydlaa.-
+[NPC Narrate] ----
+[NPC Narrate] -Finally, this game is made by a group of dedicated volunteers during their free time. We all hope that you enjoy the game and spend many hours exploring the world we have created.-
+[NPC Narrate] -If you have any problems ask in the HELP chat tab or file a 'petition' in the petition window of the main tool bar. If you find any bugs you want to tell the developers about you can go to http://www.hydlaaplaza.com/flyspray and make an account to report it. Most importantly, have fun, and good luck!-
+
+[Reward] [Item] 1, Welcome Letter; [Item] 1, Hydlaa East Map; [Item] 1, Hydlaa Main Map

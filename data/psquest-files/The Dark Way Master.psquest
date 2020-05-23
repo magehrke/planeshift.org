@@ -1,0 +1,100 @@
+[Questname] The Dark Way Master
+[NPC Name] Evelyn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge and Practical of the Dark Way Master; [Item] 1, Master's Dark Way Wand; [Item] 1, Master's Red Way Bracers; [Item] 1, Master's Brown Way Bracers; [Skill] 150, Dark Way; [Item] 1, Adept's Dark Way Robe
+
+[To] Evelyn
+
+[NPC Internal] I have the proof of being a worthy student, Archmistress.
+[NPC] Evelyn: You obeyed me, and your devotion lead you here.
+[NPC] Evelyn: You reached a point where I can give you no more…
+[NPC] Evelyn: in the Dark Way.
+[NPC] Evelyn: You are a full Master of the Dark Way.
+[NPC Narrate] -Evelyn takes the bracers and examines them carefully. She takes a long breath.-
+[NPC] Evelyn: Dark Way and its allies, Red and Brown…
+[NPC] Evelyn: All this power in my hands, within my spirit.
+[NPC] Evelyn: I would sacrifice all of it to feel the Blue in my body, again.
+[NPC Narrate] -Evelyn thrusts back the items and turns her back on you.-
+[NPC] Evelyn: Return them to their owners.
+[NPC] Evelyn: Please.
+[NPC] Evelyn: They will need them, very soon.
+[NPC] Evelyn: I…
+[NPC] Evelyn: you do not…
+[NPC Narrate] -Evelyn sighs, a long and deep sigh. Then her face turns back to you, her usual sideways glance shows no emotion.-
+[NPC] Evelyn: Give me your last Adept item, please.
+[NPC Internal] Yes, here you are Archmistress.
+[NPC Narrate] -Evelyn starts folding the cloak, touching it gently.-
+[NPC] Evelyn: As a Master of the Dark Circle you are allowed to learn about our history and our secrets.
+[NPC] Evelyn: Are you interested to hear them?
+[NPC Internal] Yes, I very much want to hear.
+[NPC] Evelyn: Very well.
+[NPC] Evelyn: I was sure of your interest.
+[NPC] Evelyn: Would you like to talk about our history?
+[NPC Narrate] -Evelyn half closes her eyes-
+[NPC] Evelyn: …
+[NPC] Evelyn: or about our secrets?
+[NPC Internal] Tell me about secrets, please.
+[NPC] Evelyn: The secrets I want to tell are for your ears and for very few others.
+[NPC] Evelyn: Only people who proved themselves can manage to keep a secret like the one I'm going to tell you.
+[NPC] Evelyn: The danger in it can harm many lives, not only your own, so you are allowed to discuss them only with the highest levels of the Circles.
+[NPC] Evelyn: Full masters of every Way.
+[NPC Narrate] -Evelyn makes a pause, leaning forward.-
+[NPC] Evelyn: The texts in the Sanctuary hold knowledge about all the Ways and artifacts of power.
+[NPC] Evelyn: It contains the complete version of this secret too.
+[NPC] Evelyn: The position, even the existence of the sanctuary, is closed to the citizen.
+[NPC] Evelyn: Secrets hidden in other secrets.
+[NPC] Evelyn: I need your word.
+[NPC] Evelyn: Promise me you will never share this knowledge outside the Masters of the Circles.
+[NPC Internal] Yes Archmistress.
+[NPC] Evelyn: The first secret is the Seventh Way.
+[NPC] Evelyn: Until now, I assume you know only six Ways, but there is a Seventh.
+[NPC] Evelyn: The Seventh is the essence of all the other Ways, but is also none of them.
+[NPC] Evelyn: It is magic without the glyphs created by Talad.
+[NPC] Evelyn: This is 'Wild' magic…something outside the rules of the Gods.
+[NPC] Evelyn: Diaboli used it, since they are the only race who cast magic before arriving in Yliakum.
+[NPC Narrate] -The tone of Evelyn grows stern.-
+[NPC] Evelyn: Be careful, and pay special attention to my next words.
+[NPC] Evelyn: Your level of power will give you sense of the existence of the Seventh Way.
+[NPC] Evelyn: Temptation will strike you.
+[NPC] Evelyn: And you have to resist it.
+[NPC] Evelyn: Otherwise 'Wild' magic will wipe out your very soul.
+[NPC] Evelyn: You will be put to True Death if the Seventh Way does not destroy you first.
+[NPC] Evelyn: Is this understood?
+[NPC Internal] Yes Archmistress.
+[NPC] Evelyn: The dangers of the Seventh Way go beyond your imagination.
+[NPC] Evelyn: Two mages have attempted to master it up to today, and they suffered a fate I would wish on no one.
+[NPC Narrate] -Evelyn pauses, her gaze is firm.-
+[NPC] Evelyn: Now, I have to tell you about another hidden knowledge.
+[NPC] Evelyn: Something not even I wish to know, a threat to existence itself.
+[NPC] Evelyn: The Circles, especially the Masters, are fighting a war against this Dark entity.
+[NPC] Evelyn: These battles are hidden to the eye of the people of Yliakum, but you have to know.
+[NPC] Evelyn: Our enemy is called the BlackFlame.
+[NPC] Evelyn: Have you ever heard about it?
+[NPC Internal] Yes, I have Archmistress.
+[NPC] Evelyn: I wish to fill the pool of your knowledge.
+[NPC] Evelyn: None know for sure what is the BlackFlame.
+[NPC] Evelyn: Some suppose it is a God.
+[NPC] Evelyn: While others assume it is a force of destruction.
+[NPC] Evelyn: I have not the answer to what is the BlackFlame, but I can say that its touch infects and deprives the creations of the other Ways.
+[NPC] Evelyn: Your path will surely teach you more about this, maybe it will grant you access to the Vault of Ages in Arden.
+[NPC] Evelyn: My travels brought me there, many times, with…
+[NPC] Evelyn: someone.
+[NPC Narrate] -Evelyn smiles, while her eyes look in the past.-
+[NPC] Evelyn: I still have many question with no answers about that place.
+[NPC] Evelyn: Many shadows hide the past; the only thing I discovered…
+[NPC Narrate] -Evelyn closes her eyes for some second.-
+[NPC] Evelyn: No, you have to learn for yourself.
+[NPC] Evelyn: My word can't explain to you what I saw.
+[NPC Narrate] -Evelyn takes a long breath.-
+[NPC] Evelyn: Well then, one last formality.
+[NPC Narrate] -Evelyn puts away the old cloak and opens a sack, taking out a new cloak. She offers it to you.-
+[NPC] Evelyn: This will prove the mastery you gained in the Dark Way.
+[NPC] Evelyn: Make a good use of it, YOU.
+[NPC] Evelyn: And take this.
+[NPC Narrate] -Evelyn hands you an amulet.-
+[NPC] Evelyn: Bring it to Levrus, one final lesson awaits you there.
+
+[Reward] [XP] 20600; [Item] 1, Master's Dark Way Robe; [Item] 1, Master of Ways Amulet; [Faction] 50, Dark Order
+

@@ -1,0 +1,59 @@
+[Questname] Adorning the Dome
+[NPC Name] Beniua Busuka
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] Yes
+
+[Needed] [Skill] 10, Jewelry Making
+[Info] Level 10 in jewelry is uncertain
+
+[INFO]: you are required to craft different jewelry for different receipients
+
+[To] Lyrus Lospur
+
+[NPC Internal] Is there any work I can do for you?
+[NPC Narrate] Lyrus Lospur looks up at you and flashes you a quick smile.
+[NPC] Lyrus Lospur: Need work, do you?
+[NPC] Lyrus Lospur: Well, I suppose I could find some work for you as long as you know at least a little about jewelry making.
+[NPC] Lyrus Lospur: I'm trying to expand my business by convincing more merchants to carry jewelry but I'm falling behind on orders, so I need jewelry made and delivered to various people in the area.
+[NPC] Lyrus Lospur: Are you interested?
+[NPC Internal] Yes, I can make and deliver some jewelry for you.
+[NPC] Lyrus Lospur: Wonderful!
+[NPC Narrate] Lyrus Lospur claps her hands, her eyes sparkling.
+[NPC] Lyrus Lospur: I've got new orders coming in every day, so I can certainly use the help.
+[NPC] Lyrus Lospur: As you're doing the work, you can keep the payment you receive.
+[NPC Internal] So what order do you need help fulfilling?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC] Lyrus Lospur: Another day, another ore shortage.
+[NPC] Lyrus Lospur: Could you get me forty silver ore? *
+[NPC] Lyrus Lospur: I swear, Gardr hardly goes out to the mines anymore.
+[NPC Internal] Here are the forty silver ore that you asked for.
+[NPC Narrate] Lyrus Lospur jumps slightly at the sound of your voice.
+[NPC] Lyrus Lospur: Oh!
+[NPC] Lyrus Lospur: I didn't see you walk up.
+[NPC Narrate] -She fans herself with her hands briefly.-
+[NPC] Lyrus Lospur: Sorry, was a little focuses on what I was doing.
+[NPC] Lyrus Lospur: Here, I'll take the ore, and you take these coins, and we're both happy!
+[NPC] Lyrus Lospur: Come back soon!
+[NPC Narrate] Lyrus Lospur gives you a friendly wave as she turns back to her work.
+
+[Way] 2
+
+[NPC] Lyrus Lospur: I have an order from the Mikana Trading Company in Ojaveda. **
+[NPC] Lyrus Lospur: Their guy there needs two silver sapphire bracer sets and four silver sapphire rings.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Lyrus Lospur sent me to deliver these: Two silver sapphire bracer sets and four silver sapphire rings.
+[NPC Narrate] Jirosh Mikana looks up as you enter his shop.
+[NPC] Jirosh Mikana: Good.
+[NPC] Jirosh Mikana: I've got to get those out on today's shipment, so I've got no time for pleasantries.
+[NPC Narrate] Jirosh Mikana takes the jewelry and slides a coin purse across the counter to you.
+[NPC] Jirosh Mikana: Thank you.
+[NPC] Jirosh Mikana: Please pass my compliments on to Miss Lospur.
+
+[Reward] [Skill] 1, Jewelry Making;

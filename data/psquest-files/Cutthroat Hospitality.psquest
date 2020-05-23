@@ -1,0 +1,53 @@
+[Questname] Cutthroat Hospitality
+[NPC Name] Ukabnu
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Zak and a Box
+
+[To] Ukabnu
+
+[NPC Internal] I'm looking to earn a few tria on the side. Can you help me out?
+[NPC Narrate] -Ukabnu looks you up and down and laughs at you.-
+[NPC] Ukabnu: You're either very bold, or very stupid.
+[NPC] Ukabnu: Or maybe both!
+[NPC] Ukabnu: What in the world does a stinking pile of trepor dung like you have to offer me, aside from perhaps a moment's bloody entertainment?
+[NPC Narrate] -Ukabnu turns her head and shouts loudly to one of her gang.-
+[NPC] Ukabnu: LAURE!
+[NPC] Ukabnu: Get your louse-ridden hide in motion and sharpen those cursed blades!
+[NPC] Ukabnu: I want you ready to move within the hour!
+[NPC Narrate] -Laure nods and replies 'Yea boss, on it!' as Ukabnu turns back to you with a derisive smile.-
+[NPC] Ukabnu: Do we look like we're hiring loutish foot-lickers?
+[NPC Narrate] -Ukabnu waves the back of her gauntleted hand at you in dismissal.-
+[NPC] Ukabnu: Get us a beer keg if you want to do something oh-so-sweet for us, rat-breath.
+[NPC] Ukabnu: Think you can handle that?
+[NPC Internal] Of course I can handle that!
+[NPC] Ukabnu: Then get moving, honorable lout, and don't take all day about it!
+
+[To] Allelia Symiestra
+
+[NPC Internal] I need to buy a keg of beer.
+[NPC] Allelia: A whole keg?
+[NPC] Allelia: Must be some party you're planning!
+[NPC] Allelia: I do have one I could sell you, though it'll be two hundred tria.
+[NPC] Allelia: They are pretty heavy too!
+[NPC] Allelia: You'd best take any heavy rocks out of your pockets before trying to cart it away.
+[NPC Narrate] -Allelia winks at you.-
+[NPC Internal] pays Allelia for the keg.
+[NPC Narrate] -Allelia counts the coins and smiles.-
+[NPC] Allelia: Thank you very much.
+[NPC Narrate] -Allelia reaches under the bar and carefully lifts a full keg and staggers a bit as she levers it over the bar to you.-
+[NPC] Allelia: There you go, Madam!
+[NPC] Allelia: Enjoy!
+
+[To] Ukabnu
+
+[NPC Internal] Here is your keg. It's quite heavy
+[NPC] Ukabnu: Ah, it's our little Stonehammer returning with a treat for us!
+[NPC ME] Ukabnu steps over to Laure and gives her the keg to hold and fills a mug from it.–
+[NPC Narrate] -She returns and passes the mug to you, sketching a courtly bow with a sneer on her face.-
+[NPC] Ukabnu: There is your thanks- now go kiss an ulbernaut.
+[NPC Narrate] -Ukabnu waves cheerily and turns away to shout orders to a nearby cutthroat.-
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Thieves Organization
+

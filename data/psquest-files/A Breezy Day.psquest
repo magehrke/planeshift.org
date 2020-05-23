@@ -1,0 +1,207 @@
+[Questname] A Breezy Day
+[NPC Name] Jayose
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[Info] Maybe you need to be an azure apprentice.
+
+[To] Jayose
+
+[NPC Internal] Do you have anything that needs doing?
+[NPC] Jayose: Actually...yes.
+[NPC] Jayose: Yes.
+[NPC] Jayose: There is something that I could use some help with.
+[NPC Narrate] -The librarian raises a hand and motions towards the tops of the bookshelves.-
+[NPC] Jayose: Some of my most avid users have been complaining about the dust motes floating about in the torchlight.
+[NPC] Jayose: They are quite correct of course, but well, I don't really have the time for cleaning up shop constantly.
+[NPC Narrate] -He reaches down behind his desk, fumbling about for a few moments before coming up with something and holding it out in his hand. The small etched stone seems cool to the touch, and swirls with an almost soothing blue light.-
+[NPC] Jayose: Here.
+[NPC] Jayose: Use this, and blow the dust off of the shelves for me.
+[NPC] Jayose: Do it right, and I'll compensate you.
+[NPC Internal] I'll get right on that!
+[NPC Narrate] -Giving you a single nod that seems to at least imply some approval, the librarian turns back to his reading, without giving you a second thought.-
+[NPC] Jayose: There is one very dirty shelf upstairs, you need to at least do that one.
+[NPC] Jayose: Come back down when you've cleaned them all off, and we'll arrange for that reward.
+[NPC Narrate] -TIP: You need to hold the glyph in your left or right hand, then head upstairs to find the right book case. You need to right click then to "clean" it. You will be told when you find the right one, after which you can continue the quest.-
+[Info] Go upstairs and find the shelf. It's in the center of the sheflves "behind" the stairs. Right-click on the side of the shelf.
+[NPC Narrate] -You used the Wind Glyph to clean Jayose's book shelves!-
+[NPC Internal] I'm all finished cleaning those shelves! They're good as new!
+[NPC Narrate] -Rolling his eyes expressively, Jayose bats at the dust in the air, pointing aggressively towards the door and holding a cloth over his mouth and nose.-
+[NPC Narrate] -He waits until the debris is blown out of the room as well, before dropping the cloth away amidst a series of exaggerated coughs.-
+[NPC] Jayose: I can see that cleaning up is not high on your repertoire.
+[NPC] Jayose: You did the deed, however.
+[NPC] Jayose: For that I guess I'll give you some small reward.
+[NPC Narrate] -With some measure of annoyance, the librarian tosses a jingling pouch of tria towards  you, before leaning forward and giving you a thoughtful look.-
+[NPC] Jayose: You know, I'd be willing to bet that you could do a lot more with that thing, help a few more studious fellows.
+[NPC] Jayose: I'll tell you what.
+[NPC] Jayose: You agree to do some more favours for some associates of mine, and maybe I'll let you keep that glyph you've got.
+[NPC Internal] Who did you have in mind that I should help?
+[NPC Narrate] -Instead of supplying a verbal answer, the librarian scribbles something down on a piece of paper.-
+[NPC Narrate] -Holding it out to you, a quick scan reveals it to be a list of names.-
+[NPC] Jayose: There you go.
+[NPC] Jayose: Just seek these people out.
+[NPC] Jayose: Make sure you get to all of them before coming back to me!
+[NPC] Jayose: I won't give you such a sizeable reward for skimped work.
+[NPC] Jayose: Run along now, you've got your work cut out for you.
+
+[To] Harnquist
+
+[NPC Internal] It looks like the forges out back could use a bit of tender loving care.
+[NPC Narrate] -Looking up from an ingot he'd been inspecting, the blacksmith gives you a quizzical glance.-
+[NPC] Harnquist: Many people tend to use my forges.
+[NPC] Harnquist: Unfortunately, no matter how much fodder for the fires I possess, the intensity of the flames on my personal forge is a near-constant problem.
+[NPC] Harnquist: I've yet to find a good way to keep the fire angrily roaring once it reaches a certain point.
+[NPC] Harnquist: And I'd kill to find a way to stoke the embers back to liveliness, rather than having to resort to flint and steel or the good grace of a passing red way practitioner.
+[NPC Internal] I bet a little wind could stoke those fires. Have to be just the right amount though, or you'd just blow it out.
+[NPC Narrate] -Running his calloused fingers through his scraggly yellow beard, the man seems to contemplate the offer for a few moments, before giving a nod.-
+[NPC] Harnquist: And I suppose you think you'd be able to do that then?
+[NPC] Harnquist: You have the ability?
+[NPC] Harnquist: I doubt you're just going to stand there blowing on them and hoping for the best.  [NPC] I'd probably have to have someone take you to the sanatorium after you fainted.
+[NPC Internal] Jayose gave me a wind glyph. I wager with just the right casting, one could get the desired effect.
+[NPC Narrate] -Giving you the selfsame contemplative, beard-stroking look, Harnquist briefly squints one eye shut, before shrugging his relatively broad shoulders.-
+[NPC] Harnquist: One cast on my personal furnace inside should do it.
+[NPC] Harnquist: Too much and you'll just completely put the fires out, and then we'd have to have...words.
+[NPC] Harnquist: Get to it, and tell me what the results are.
+[NPC] Harnquist: Might be I'll have a little compensation for your efforts.  Harnquist unlocks the door next to you and pushes it open.
+[NPC Narrate] -He then nods his head for you to enter.-
+[NPC] Harnquist: Hurry up.
+[NPC Internal] Which forge did you want stoking?
+[NPC] Harnquist: The ones inside, through the door behind me.
+[NPC] Harnquist: Hurry up with it.
+[Info] Enter Harnquists house and cast the spell on the forge. Then return to Harnquist
+[NPC Internal] The forge seems to be roaring a lot louder now! I think it worked pretty well.
+[NPC] Harnquist: I can almost feel the heat from here.
+[NPC Narrate] -He quirks a brow and turns his head back towards the door.-
+[NPC] Harnquist: I'm going to have to remember that little trick for future reference.
+[NPC] Harnquist: I'm guessing that will last us for a while.
+[NPC] Harnquist: Not a bad effort, I gotta say.
+[NPC Narrate] -He rifles around on his belt, and tosses a jingling pouch in your direction.-
+[NPC] Harnquist: There you are.
+[NPC] Harnquist: Now I've got some metal to melt, so if you don't mind...
+
+[To] Burdess Quirain
+
+[NPC Internal] Jayose sent me to see if you needed help with anything.
+[NPC Narrate] -The Ynnwn looks you over, her nose wrinkling at the stench wafting over from the barrels situated nearby.-
+[NPC Narrate] -She waves her hand in front of her face with watering eyes, speaking in a choked voice that verges on a gag.-
+[NPC] Burdess Quirain: I'm surprised you can even keep a straight face with that reek so close by.
+[NPC] Burdess Quirain: Can you not smell that?
+[NPC] Burdess Quirain: The spell that was guaranteed on those containers to keep my merchandise cool and fresh was less than what I paid for.
+[NPC] Burdess Quirain: Bloody cheap blue way enchantments.
+[NPC Internal] So now you have a bunch of rotting fish on your hands. Lovely.
+[NPC Narrate] -A frustrated look flashes over the woman's features.-
+[NPC Narrate] -She flails her arms out, gesturing to the empty space around her.-
+[NPC] Burdess Quirain: Who's going to get close enough to buy anything?
+[NPC] Burdess Quirain: And they certainly aren't going to buy this disgusting merchandise.
+[NPC] Burdess Quirain: I can't even get the smell out of my clothing, else I'd just move somewhere else.
+[NPC Narrate] -With a sigh, she flippantly waves her hands at you.-
+[NPC] Burdess Quirain: But go on.
+[NPC] Burdess Quirain: You said you were from Jayose to help me.
+[NPC] Burdess Quirain: So, I don't know, think of something.
+[NPC Internal] I could try using this wind glyph to blow the smell out of your clothes.
+[NPC Narrate] -Giving the barrels a wistful look, no doubt thinking of all of the time it took to catch all of the fish, she sighs and nods her head.-
+[NPC] Burdess Quirain: I suppose it can't be helped.
+[NPC] Burdess Quirain: Give it a go, then.
+[NPC] Burdess Quirain: Least I can do, so that when I find a REPUTABLE enchanter I can actually manage to get customers close enough to make a sale.  Burdess Quirain raises her arms up on either side of herself, comically scrunching her face and moving up to her tip-toes.
+[NPC Narrate] -She wrinkles her nose and, half-holding her breath, drawls out.-
+[NPC] Burdess Quirain: Okay.
+[NPC] Burdess Quirain: Hit me with it.
+[NPC Internal] [You cast a spell to conjure a strong wind around Burdess.]
+[NPC Narrate] -Magic begins to form around Burdess.-
+[NPC Narrate] -As the winds pick up Burdess pulls her clothes close.-
+[NPC Narrate] -The wind blows powerfully though her clothes.-
+[NPC Narrate] -As they get rustles and bustled by the wind the smell is caught up and is leached from her clothes.-
+[NPC Narrate] -The wind eventually begins to flow down some of the nearby alleys taking the smells with it.-
+[NPC Internal] There you go! Hopefully you'll smell like charmflowers and baked goods or...whatever.
+[NPC Narrate] -Rolling her eyes at you expressively, Burdess buries her nose into her sleeve, inhaling deeply.-
+[NPC Narrate] -She shrugs and drops her arm back to her side.-
+[NPC] Burdess Quirain: I no longer smell like doomsday on the reef.
+[NPC] Burdess Quirain: It's an improvement at least.
+[NPC] Burdess Quirain: Now hopefully I can get people to stop trying to stay upwind of me.
+[NPC Narrate] -Backing further from the barrels to avoid getting hit again full force by an errant breeze, she quickly tosses a tria pouch at you, before turning on her heel.-
+[NPC] Burdess Quirain: Thanks for the help.
+[NPC] Burdess Quirain: I'm off to the Pool of Stealth to try to make something of this waste of a day.
+[NPC] Burdess Quirain: Good luck with your little errands.
+
+[To] Darven Bounash
+
+[NPC Internal] I'm not sure why you're on Jayose's list. You look a bit shifty, but I guess...
+[NPC Narrate] -Grinning, the Ylian unfurls his cards like a fan, gracefully moving his wrist in a circle to show them to you, but before your eye can latch onto any of them, he folds them in again and lets them cascade into his other palm.-
+[NPC] Darven Bounash: No idea why that old bookworm would send you to assist me.
+[NPC] Darven Bounash: But I suppose if you want a job, you could help me, ya know, 'prepare' for some of my games.
+[NPC Narrate] -He winks and gives you a look that can only be taken as preparation for deception.-
+[NPC] Darven Bounash: Can always use an extra mind to help me out with my...budding business.
+[NPC Internal] I take it you've had a lot of luck running dodgy deals on little uninformed passers-by?
+[NPC Narrate] -He chuckles at your statement, flashing the cards again, flicking them into the air and catching them with nimble fingers.-
+[NPC] Darven Bounash: Plenty of full pockets attached to empty heads.
+[NPC] Darven Bounash: It's not my fault if people are gullible, is it?
+[NPC Internal] I think I know just what Jayose wanted me to do to "help" you.
+[NPC Narrate] Darven Bounash wrinkles his nose distastefully at you, still letting the cards fly between his fingers, light and feathery, fluttering a little in the draft his rapid motions create.
+[NPC] Darven Bounash: I don't think I like your snarky little tone.
+[NPC] Darven Bounash: Why don't you turn around and wander on off now...
+[NPC Internal] [You cast a spell on Darven.]
+[NPC Narrate] -Frantically chasing after his cards as they billow around erratically in the wind, the Ylian sends a few dozen choice words in your direction, trying to pluck them from the air before they're lofted away and irrevocably lost.-
+[NPC] Darven Bounash: Stop that!
+[NPC] Darven Bounash: You stop that right now!
+[NPC] Darven Bounash: Why I oughta...Why I oughta!
+[NPC Narrate] -The threat stops as he darts off in a new direction, now ignoring you entirely in favour of trying to collect all of his possessions.-
+[NPC Narrate] -He says no more to you, giving you a beady glare before turning his back entirely.-
+
+[To] Fholen Medraa
+
+[NPC Internal] Do you need some assistance? You're on this list Jayose gave me.
+[NPC Narrate] -Looking up from where he's kicking some leaves on the ground, Fholen shrugs his muscled shoulders, shaking his head and making the green gemstone hung around his neck sway.-
+[NPC] Fholen Medraa: I'm trying to make this place more presentable.
+[NPC] Fholen Medraa: It's right in front of the museum after all, it should be clean and inviting.
+[NPC] Fholen Medraa: But the bushes keep shedding and people keep dropping their garbage all over the place.
+[NPC] Fholen Medraa: I just can't keep up with it!
+[NPC Internal] I could try to blow the leaves and the garbage away, if you wanted.
+[NPC Narrate] -He seems to think this over for a few moments, squinting.-
+[NPC] Fholen Medraa: Well.
+[NPC] Fholen Medraa: I guess that's an option.
+[NPC] Fholen Medraa: You could just send a gust and push it off towards the little courtyard behind the building.
+[NPC] Fholen Medraa: We'll have to clean up some more afterwards, but at least that way it won't be such a pressing matter.
+[NPC] Fholen Medraa: Give it a whirl.
+[NPC Internal] [You cast a spell to clean up the path.]
+[NPC Narrate] Fholen Medraa's eyes pinch shut as the wind blows around the streets blowing all the debris into the distance.
+[NPC Narrate] -A bright grin shows on the Ynnwn's face once the winds die down.-
+[NPC Narrate] -He runs the sole of his shoe over the now cleared path before the museum, reaching out to clap you firmly on the shoulder.-
+[NPC] Fholen Medraa: Not bad, not bad, not bad at all I gotta say!
+[NPC] Fholen Medraa: Would have taken me hours to clear all that out of here.
+[NPC] Fholen Medraa: Why don't you take half of what I was going to get paid for the job, only fair.
+[NPC] Fholen Medraa: And hey, good luck with you and whatever you're doing.
+[NPC] Fholen Medraa: Nice to get a helping hand now and again!
+
+[To] Dhalia Colat
+
+[NPC Internal] Hello there! Jayose sent me to ask if you needed help with anything.
+[NPC Narrate] -The Ynnwn's brows rise slightly, but she does not look up as she gently moves the tip of a paint-laden brush over a section of bare flesh on the back of her hand.-
+[NPC Narrate] -Her eyes only raise when she seems finished, and the corners of her mouth tug into a smile.-
+[NPC] Dhalia Colat: I suppose that was kind of him.
+[NPC] Dhalia Colat: Maybe he's trying to repay me for all of the illuminated book covers.
+[NPC Narrate] -Looking contemplative, her head swivels towards Serevim, who looks like he's holding still as a statue save for the occasional twitch of a muscle here and there.-
+[NPC Narrate] -Wet paint glistens on his skin, and he looks, well, less than comfortable.-
+[NPC] Dhalia Colat: I don't suppose you could find a way to speed up this drying process?
+[NPC] Dhalia Colat: I feel rather poorly for what I've done to my dear friend over here.
+[NPC Internal] I can do that! It's the perfect job for me, actually! Tell him to close his eyes though, it's about to get windy.
+[NPC Narrate] Dhalia Colat raises a brow slowly at your statement, but merely gestures at her companion to do as warned.
+[NPC Narrate] -The looming fellow clenches his eyes comically shut, and as the wind buffets around him his arms flail slightly in surprise, before he gets hold of himself and settles down again.-
+[NPC Narrate] -When the spell ends, he rumbles a thanks, looking a little more red faced than usual and embarrassed.-
+[NPC Internal] All finished! He should be able to stop posing as a marble carving now.
+[NPC Narrate] -It's clear by the continued twitching of her lips and her watering eyes that the Ynnwn woman is trying desperately hard not to laugh at her friend's now horribly dishevelled hair.-
+[NPC Narrate] -She waves you off, covering her mouth with her other hand, only replying with a muted acknowledgement and the sound of muted snickering.-
+
+[To] Jayose
+
+[NPC Internal] All the tasks you gave me to do are all finished! I helped everybody on your list.
+[NPC Narrate] -The librarian raises his hand and lowers it slowly, subtly telling you to temper your enthusiasm and your loud words in his sacred halls.-
+[NPC Narrate] -He snaps his thick book shut and sets it down, motioning at you with a flick of his wrist.-
+[NPC] Jayose: Fine, fine.
+[NPC] Jayose: Keep the glyph, I suppose.
+[NPC] Jayose: See if you can't continue keeping yourself busy and staying out of trouble with it.
+[NPC] Jayose: Just don't cause any havoc, alright?
+[NPC] Jayose: If I hear you blew over any vendor's kiosks or anything, I'll drag you back here by the ear and yank that thing from your hands.
+[NPC] Jayose: Now off with you, I have work to do!
+
+[Reward] [Money] 2000; [XP] 13600; [Item] 1, Wind Glyph; [Special] Access to Harnquist's house

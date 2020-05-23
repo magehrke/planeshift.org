@@ -1,0 +1,57 @@
+[Questname] Kilas wants his Abacus Back
+[NPC Name] Kilas Tungse
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Introduction to Science
+
+[To] Kilas Tungse
+
+[NPC Internal] Is there anything I can help you with?
+[NPC] Kilas: You look like a Stonehammer interested in the ways of education.
+[NPC] Kilas: Do you think you can help me with a quick errand?
+[NPC Internal] I love to learn!
+[NPC] Kilas: Thanks.
+[NPC] Kilas: I lent my abacus to Crosh Dunehammer, the guardian of the dungeons.
+[NPC] Kilas: However, I require it once again.
+[NPC] Kilas: Just tell him about the abacus or tell him I sent you.
+[NPC] Kilas: Return it to me and I'll reward you.
+[NPC] Kilas: If you don't know what an abacus is or how it works, just ask me.
+[NPC] Kilas: I'm not just an engineer, I'm an educator!
+[NPC Internal] about abacus
+[NPC] Kilas: An abacus is a counting device made up of beads on wires.
+[NPC] Kilas: You count by moving beads from left to right.
+[NPC] Kilas: You count the first line by ones, then when you run out, you move them all back and move one bead on the second line.
+[NPC] Kilas: So if you had four beads, to count five, you'd move the first four beads in the first line - 1,2,3,4 - then move them back to the left as zero and move one bead in the second line for five.
+[NPC] Kilas: Number six would be moving another one in the first line because five plus one is six.
+[NPC] Kilas: I hope that clears things up.
+
+[To] Crosh Dunehammer
+
+[NPC Internal] Kilas sent me, you need to return his abacus.
+[NPC] Crosh: Return the abacus, you say?
+[NPC] Crosh: Well, alright, but I need to keep count.
+[NPC] Crosh: Now listen up: Each line in the abacus has seven beads.
+[NPC] Crosh: Every day I move a bead in the top line to the right.
+[NPC] Crosh: When they're all to the right, I move them all back and move a bead in the second line, which also has seven beads.
+[NPC] Crosh: Today, I moved back the second line and moved the first bead in the third line to the right.
+[NPC] Crosh: I really can't count that myself!
+[NPC] Crosh: Can you help me?
+[NPC] Crosh: How many days have I been counting?
+[NPC Internal] 64
+[NPC] Crosh: Sixty-four?
+[NPC] Crosh: Why, yes, that sounds right.
+[NPC] Crosh: Thanks!
+[NPC] Crosh: I count better putting notches on my axe, anyway.
+[NPC] Crosh: You can take this abacus back now.
+
+[To] Kilas Tungse
+
+[NPC Internal] Here is your abacus.
+[NPC] Kilas: Excellent work.
+[NPC] Kilas: Hopefully you didn't have too much trouble down there.
+[NPC] Kilas: The dungeons seem to test more than just the mind, and for that I apologize.
+[NPC] Kilas: Have something for your efforts.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Science Association
+

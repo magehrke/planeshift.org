@@ -1,0 +1,80 @@
+[Questname] The Blue Way Adept
+[NPC Name] Tarmeen Alecheech
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Becoming a Blue Way Adept; [Item] 2, Apprentice's Blue Way Wands; [Skill] 60, Blue Way; [Item] 10, Greater Potion of Healing
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Please accept my Way Wand plus another as requested.
+[NPC] Tarmeen: Perfect!
+[NPC] Tarmeen: Congratulations are in order.
+[NPC] Tarmeen: You will soon no longer be an initiate in the Blue Way.
+[NPC] Tarmeen: In no way this mean you know it all either, you still have a long journey ahead of you.
+[NPC Narrate] -Tarmeen hands back one wand.-
+[NPC] Tarmeen: Return this to your fellow student while I prepare your new wand.
+[NPC Narrate] -Tarmeen shakes his head.-
+[NPC] Tarmeen: Now where was I?
+[NPC] Tarmeen: Oh yes, in your time with me I would require you to prove your commitment to the Blue Way and myself as your trainer by doing small tasks every now and then.
+[NPC] Tarmeen: I expect you to do as I say without questioning.
+[NPC] Tarmeen: We will begin right now.
+[NPC] Tarmeen: Deliver this progress report to our Archmage.
+[NPC] Tarmeen: In addition on your way back get for me ten greater healing potions.
+[NPC] Tarmeen: I will explain more later.
+
+[To] Barrin Dhorod
+
+[NPC Internal] Your report, sir.
+[NPC] Barrin: Congratulations on your achievement YOU.
+[NPC Narrate] -Barrin sets the report aside.-
+[NPC] Barrin: These reports tell me how your Blue Way studies are progressing.
+[NPC] Barrin: So far, so good.
+[NPC] Barrin: Perhaps one day you will be proficient enough to aid me in my studies to discover spells that utilize four glyphs.
+[NPC Narrate] -Barrin grins.-
+[NPC] Barrin: For now, you may return to Tarmeen to continue your training.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Here are the ten Greater Potion of healing you wanted.
+[NPC] Tarmeen: Thank you.
+[NPC] Tarmeen: Pawprech is having some trouble with his herd that appears to be Crystal Way related; nothing to do with you.
+[NPC] Tarmeen: I will get this over to him soon.
+[NPC Narrate] -Tarmeen removes a scroll and starts reading it.-
+[NPC] Tarmeen: There are two glyphs you will need to know about for the next section of your testing.
+[NPC] Tarmeen: This riddle is a test of intelligence to determine what you shall need.
+[NPC Narrate] -Tarmeen moves his finger down a list before clearing his throat.-
+[NPC] Tarmeen: A perfect Sphere, the perfect Object will Poison the mind, that there is no end.
+[NPC Narrate] -Tarmeen puts away the list.-
+[NPC] Tarmeen: Now, for your last task as an apprentice, I want you to return your Apprentice's Blue Way Wand to Levrus.
+[NPC] Tarmeen: Return to me after you have done so and I will have your first Adept item ready.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Can I exchange this wand?
+[NPC] Levrus: A wand?
+[NPC] Levrus: Now, what would I do with such a thing?
+[NPC] Levrus: I am in spectacular shape and my trousers fit quite nicely.
+[NPC] Levrus: Made by the finest tailors, you see.
+[NPC] Levrus: But, since you are offering it too me, I can not refuse.
+[NPC Narrate] -Levrus takes a familiar box from under his counter and drops your wand in, then shakes it from side to side.-
+[NPC] Levrus: What is this?
+[NPC] Levrus: I seem to have a few items in here already.
+[NPC] Levrus: And one is another wand.
+[NPC] Levrus: Imagine that.
+[NPC] Levrus: I do wonder where they keep coming from.
+[NPC] Levrus: Well, I suppose I can offer them to you.
+[NPC] Levrus: If you don't want either of them, take this pie.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] I have returned.
+[NPC Narrate] -Tarmeen removes a wand from a bag and gives it to you.-
+[NPC] Tarmeen: Here is your new wand, stronger and more powerful than your previous one.
+[NPC] Tarmeen: Be sure you have returned the other lower wand to the person who gave it to you.
+[NPC] Tarmeen: Do not forget to train, because you will need a sufficient level of Blue Way skill before returning and handing me your wand as a sign that you are ready to continue you’re testing.
+[NPC] Tarmeen: Also, I highly recommend obtaining and researching the two glyphs in my riddle.
+[NPC] Tarmeen: Farewell, Adept.
+
+[Reward] [XP] 13600; [Item] 1, Adept's Blue Way Staff; [OR Begin] [Item] 1, Apprentice's Brown Way Staff [OR] [Item] 1, Apprentice's Crystal Way Staff [OR] [Item] 1, Pie [OR End]; [Faction] 25, Blue Order
+

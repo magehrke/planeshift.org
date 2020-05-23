@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* CSS Script for the legal notice section */
+{
+	text-align: center;
+}
+
+#index_main_table {
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+
+	height: auto;
+	
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-right: 30px;
+	padding-bottom: 20px;
+
+}
+
+	#index_main_table td {
+		text-align: center;
+	}
+
+	.index_fieldset_for_pic {
+		width: 600px;
+	}
+
+	.index_welcome_pic {
+		width:1000px; 
+		padding-top: 15px;
+	}
+
+	.index_welcome_logo {
+		width:500px; 
+	}

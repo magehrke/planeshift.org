@@ -1,0 +1,63 @@
+[Questname] Pinayet Has a Dented Shield
+[NPC Name] Pinayet Ullavin
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Blunted Swords and Hurt Feelings; [Money] 50
+
+[To] Pinayet Ullavin
+
+[NPC Internal] I am looking for work.
+[NPC] Pinayet: Just what I needed, a traveller eager for work!
+[NPC] Pinayet: Do you have time to run a quick little errand for me?
+[NPC Internal] Yes, what can I do for you?
+[NPC Narrate] -Pinayet looks embarrassed.-
+[NPC] Pinayet: Well, you see, I managed to dent my spare shield this morning while I was training.
+[NPC] Pinayet: My commander wants all our gear to be in top shape at all times, so I need to get this fixed quick-like.
+[NPC] Pinayet: Just go to Trasok across the way and tell him I sent you; he does work for me all the time.
+[NPC Narrate] -Pinayet hands you his dented shield.-
+
+[To] Trasok Starhammer
+
+[NPC Internal] Pinayet Ullavin sent me to get some work done.
+[NPC] Trasok: Pinayet needs some work done, eh?
+[NPC] Trasok: Well give me the item and let me take a look.
+[NPC Narrate] -Trasok wipes a hand on his apron and holds it out to you.-
+[NPC Internal] This is the shield.
+[NPC Narrate] -Trasok examines the dent carefully.-
+[NPC] Trasok: Well, some of these rivets will need to be replaced after I hammer out the dent.
+[NPC] Trasok: It shouldn't take me long, I…
+[NPC] Trasok: oh, ulber-breath, I'm out of rivets!
+[NPC] Trasok: I need you to go to Jirosh and ask him about my shipment of rivets; just tell him I sent you.
+[NPC] Trasok: They're already paid for, so you should be able to pick them up with no problems.
+[NPC] Trasok: Just hand them to me when you've got them.
+[NPC] Trasok: Here, keep the shield in the meantime.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Trasok Starhammer sent me about his rivets.
+[NPC] Jirosh: Ah, yes, that came in a short while ago.
+[NPC] Jirosh: It is already paid for, so you may take it straight to him.
+[NPC Narrate] -Jirosh hands you a small wooden box that is quite heavy for its size.-
+
+[To] Trasok Starhammer
+
+[NPC Internal] I got the rivets.
+[NPC] Trasok: Good, this is just what I asked for.
+[NPC] Trasok: Now that I have everything that I need, please let me have that shield back.
+[NPC Internal] Here's the shield.
+[NPC Narrate] -Trasok hammers out the dent carefully, and replaces the damaged rivets.-
+[NPC] Trasok: Looks good! That will be five tria for the work.
+[NPC Narrate] -Trasok looks at you expectantly.-
+[NPC Internal] Your payment.
+[NPC] Trasok: Much appreciated.
+[NPC] Trasok: Give this back to Pinayet as soon as you can; he's a good lad, and I like to make sure he's taken care of.
+[NPC Narrate] -Trasok hands you the repaired shield.-
+[NPC Internal] Your shield, good as new.
+[NPC Narrate] -Pinayet looks the shield over and smiles.-
+[NPC] Trasok: Well now, that's a nice piece of work, and quickly done, too.
+[NPC] Trasok: My thanks, Maddam, and here's something for you.
+[NPC Narrate] -Pinayet hands you a few coins.-
+
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Guard
+

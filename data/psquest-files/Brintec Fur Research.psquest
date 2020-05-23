@@ -1,0 +1,121 @@
+[Questname] Brintec Fur Research
+[NPC Name] Brintec Dev-Onni
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Wife's Dilemma
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] I was wondering if you had any more work I could do?
+[NPC] Brintec: Now that you've helped me, I'm a bit more confident in your abilities.
+[NPC] Brintec: I am doing some research on the fur used for my carpets and it seems to me that Bjorid Haakthir is not giving me the same quality materials as in the past.
+[NPC] Brintec: Can you help me?
+[NPC Internal] Oh, this sounds interesting, count me in.
+[NPC] Brintec: Great, at least I can count on you.
+[NPC] Brintec: Here is my plan: go to Bjorid and try to investigate which materials he uses for his latest carpets.
+[NPC] Brintec: Then ask him some prices, and come back to me.
+[NPC] Brintec: I will then compare those materials and prices to the ones he gives me.
+[NPC] Brintec: See you later.
+
+[To] Bjorid Haakthir
+
+[NPC Internal] Hello. I am interested in learning more about your carpets.
+[NPC] Bjorid: Oh, you are very welcome in my shop and laboratory!
+[NPC] Bjorid: So you want to know more about my carpets…
+[NPC] Bjorid: it's a broad field, what you would like to know in particular?
+[NPC Internal] What kind of materials do you use?
+[NPC] Bjorid: The materials vary a lot from customer to customer, but in general I use fur from animals that have been hunted in the last three months.
+[NPC] Bjorid: That assures the best quality.
+[NPC] Bjorid: For low volumes I usually hunt those myself; in times of higher demand, I just buy the hides in the same place when new caravans arrive in town.
+[NPC Internal] Where is this place?
+[NPC] Bjorid: Eh, telling you my tricks is not something I would like to do.
+[NPC] Bjorid: I can just tell you that the workers here in Dsar Akkaio know me very well, so they select the best hides for me.
+[NPC] Bjorid: Merrinez is particularly helpful; he has a good eye for fur.
+[NPC] Bjorid: Feel free to ask him about me.
+[NPC] Bjorid: What else you would like to know?
+[NPC Internal] What are the prices?
+[NPC] Bjorid: Well, I can show you what I have, maybe the most expensive and least expensive, so you have a rough idea.
+[NPC] Bjorid: This fine one hundred square meter carpet made of Ulbernaut fur costs about five thousand trias.
+[NPC] Bjorid: This one, twenty five square meters, is made of mixed bear and fox is about forty trias.
+[NPC] Bjorid: I'm sorry, but now I have to return to my work.
+[NPC] Bjorid: If you need something else just ask.
+
+[To] Merrinez Dholant
+
+[NPC Internal] Hello. Do you know Bjorid Haakthir'd?
+[NPC] Merrinez: Oh yes, I know him pretty well.
+[NPC] Merrinez: He makes and repairs carpets.
+[NPC] Merrinez: I sell him materials from the caravans pretty often.
+[NPC] Merrinez: He's a good customer…
+[NPC Internal] What can you tell me about the material he uses for his carpets?
+[NPC] Merrinez: Well, the fur is usually retrieved by caravans, where big merchants collect the goods from local hunters.
+[NPC] Merrinez: So I have different sources each time.
+[NPC Internal] Who are these merchants?
+[NPC] Merrinez: I can name you a few if you want, they're not a big secret.
+[NPC] Merrinez: Mainly they're the same people, like Ervin, Edrich, Hygrnn…
+[NPC] Merrinez: reputable names.
+[NPC] Merrinez: Mind you, recently there has been a new guy selling furs who has very low prices.
+[NPC] Merrinez: His name is Thorian.
+[NPC Internal] What can you tell me about Thorian?
+[NPC] Merrinez: Now that you ask me, I remember his name because it wasn't on the order list.
+[NPC] Merrinez: I was surprised to see that some of his boxes had no official source.
+[NPC] Merrinez: I asked the caravan driver where he got the goods because the source is usually present on orders.
+[NPC] Merrinez: He minimized the issue, saying he just forgot to write it.
+[NPC] Merrinez: He told me the name 'Thorian' or something similar.
+[NPC] Merrinez: That's all I can really say about it.
+
+[To] Thorian Gronk
+
+[NPC Internal] I am interested in some furs.
+[NPC] Thorian: Hey, why are you interested in furs?
+[NPC Narrate] -Thorian Gronk looks at you suspiciously.-
+[NPC] Thorian: I'm not a fur seller or buyer.
+[NPC] Thorian: I never sold furs…
+[NPC] Thorian: and if someone told you something different, than he is wrong!
+[NPC] Thorian: Do you think I could sell furs without a shop?
+[NPC Narrate] -Thorian Gronk becomes red in the face.-
+[NPC] Thorian: The major fur shops are in Ojaveda, how do you think I can bring those there?
+[NPC] Thorian: It's very far!
+[NPC Narrate] -Thorian Gronk puts on a haughty expression, daring you to answer him.-
+[NPC Internal] You sell the fur to the caravan.
+[NPC] Thorian: Well …
+[NPC] Thorian: I could probably, but I didn't!
+[NPC Narrate] -Thorian gets more nervous.-
+[NPC] Thorian: You have no proof of that!
+[NPC] Thorian: There are many caravans, and many fur sellers!
+[NPC] Thorian: Also, I didn't write my name on the boxes!
+[NPC Narrate] -Thorian claps a hand over his mouth.-
+[NPC] Thorian: Ouch…
+[NPC] Thorian: erm…
+[NPC] Thorian: I mean…
+[NPC] Thorian: we should stop this discussion now.
+[NPC] Thorian: Go away!
+[NPC Narrate] -It doesn't look like Thorian will talk to you about the subject any more.-
+
+[To] Bjorid Haakthir
+
+[NPC Internal] tells Bjorid the story.
+[NPC] Bjorid: Ah, that's terrible!
+[NPC] Bjorid: Are you saying that some boxes were delivered to Ojaveda by this Thorian guy and there is something not quite right about them?
+[NPC] Bjorid: Well, I can check the latest ones I received right now.
+[NPC Narrate] -Bjorid opens a large crate… and starts to observe closely some furs with a lens… a few minutes pass.-
+[NPC] Bjorid: Oh my, this is sheared goujah fur, cut and painted to resemble a higher quality one!
+[NPC] Bjorid: Luckily I've only used a few of them for now.
+[NPC] Bjorid: Let me check…
+[NPC] Bjorid: ah, I gave some to Brintec, one of my best customers!
+[NPC] Bjorid: Please apologise on my behalf to him, and tell him I will send a replacement for the bad carpets.
+
+[To] Brintec Dev-Onni
+
+[NPC] Brintec: Ah, that's why.
+[NPC] Brintec: I decided to stop buying furs from him given the poor quality of the latest ones, but your story explains much.
+[NPC] Brintec: It's not his fault.
+[NPC] Brintec: I will inform the guards about that guy even if there's no proof that he's done anything wrong.
+[NPC] Brintec: They should keep an eye on him.
+[NPC] Brintec: You have been very useful to me!
+[NPC] Brintec: You deserve this reward from me.
+[NPC] Brintec: Thanks.
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Lightning glyph; [Faction] 35, Crafting Association
+

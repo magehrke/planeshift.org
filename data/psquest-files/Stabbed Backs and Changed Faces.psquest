@@ -1,0 +1,318 @@
+[Questname] Stabbed Backs and Changed Faces
+[NPC Name] Lori Tryllyn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests
+
+[To] Lori Tryllyn
+
+[NPC Internal] Have any work you need help with?
+[NPC] Lori: Well.
+[NPC] Lori: No.
+[NPC Narrate] -Lori seems slightly preoccupied, more interested in watching her surroundings than in conversation, but spares you a quick glance. You notice she's chewing something.-
+[NPC] Lori: Or actually, if you really want a job to do…
+[NPC Narrate] -She glances around again as though wary.-
+[NPC Internal] That's why I asked.
+[NPC] Lori: Fine then, if you are absolutely certain.
+[NPC Narrate] -She studies you closely and frowns.-
+[NPC Internal] Like I said, it's why I asked.
+[NPC] Lori: Okay, I'll tell you about this little problem, but it makes me uncomfortable to talk about it much.
+[NPC] Lori: It's a little…
+[NPC] Lori: Well…
+[NPC Narrate] -She gives you a slightly hopeless look and reaches out her hand to offer something to you.-
+[NPC] Lori: Take a bite of this.
+[NPC Narrate] -She speaks quickly.-
+[NPC] Lori: We'll just pretend we're taking a break together, enjoying ourselves.
+[NPC Internal] [Accept the food.]
+[NPC] Lori: Just some biscuits I picked up in the last market.
+[NPC] Lori: The cook was such a good salesman that I took more than I could eat alone anyway.
+[NPC] Lori: Go on, they're really tasty.
+[NPC] Lori: Try it.
+[NPC Internal] [Eat.]
+[NPC Narrate] -You are morphed into a Dermorian!-
+[NPC] Lori: There, that's better.
+[NPC] Lori: We can talk much more easily now.
+[NPC Narrate] -You suddenly feel something, like your insides are twisting and your face feels hot. It's like your skin is melting and you want to scream, but then the feeling passes and Lori is smiling down at you.-
+[NPC Narrate] -You realise you are on your knees as she bends down and whispers into your ear.-
+[NPC] Lori: You can't back out of this now.
+[NPC] Lori: I'm sorry, but you have no choice other than to help me.
+[NPC Internal] What have you done to me?
+[NPC] Lori: A simple curse.
+[NPC Narrate] -She keeps her voice quiet.-
+[NPC] Lori: You see, you look just like me now.
+[NPC] Lori: It's entirely possible that you'll be mistaken for me wherever you go and this means my problem is now your problem as well.
+[NPC] Lori: So you have no choice other than to solve it for me.
+[NPC] Lori: Do you understand?
+[NPC Internal] What do you mean?
+[NPC] Lori: Well if the guards see you now, they'll think you are me and they might be quite quick to hurl you out of the gates before you get a chance to talk.
+[NPC] Lori: They are not too happy with me at the moment, even though I have done nothing wrong.
+[NPC Narrate] -She smiles at you; it's a sad and frustrated sort of smile.-
+[NPC] Lori: So you are going to have to do what I say and figure this out for me.
+[NPC Internal] What do you want me to do?
+[NPC] Lori: Oh, don't look so worried now.
+[NPC] Lori: There'll be a reward when you are done.
+[NPC Narrate] -She relaxes slightly.-
+[NPC] Lori: There was a vase that went missing, quite a precious thing from what I heard, and the guards have this idea that I was involved in the theft.
+[NPC] Lori: Someone apparently told them they saw me taking it, but I didn't of course.
+[NPC] Lori: It's not really the sort of thing I get involved with.
+[NPC Internal] And what do you expect from me?
+[NPC] Lori: You need to fix this.
+[NPC] Lori: Find out the truth so we can prove to the guards that I am innocent.
+[NPC] Lori: I want my name cleared so that they stop looking for me.
+[NPC Internal] How would I do this?
+[NPC] Lori: I don't think the guards will listen to a word either of us has to say, not unless the vase happens to show up again.
+[NPC Narrate] -She leans toward you slightly.-
+[NPC] Lori: I heard that Laure Eves knows something about it.
+[NPC] Lori: So you should go and look for her out on the roads.
+[NPC] Lori: Bribe her, threaten her, do whatever it takes.
+[NPC] Lori: Just make her talk and then see where things lead from there.
+
+[To] Laure Eves
+
+[NPC Internal] Hello Laure…
+[NPC] Laure: Lori?
+[NPC] Laure: Can't say I was expecting you to be out here at the moment.
+[NPC Narrate] -Laure chuckles while inspecting the blade of a knife.-
+[NPC] Laure: Thought you'd be scurrying off into some hole like a clacker or…
+[NPC Narrate] -She looks up sharply.-
+[NPC] Laure: Hah!
+[NPC] Laure: You ain't her!
+[NPC Narrate] -Laure almost doubles up laughing.-
+[NPC Internal] That's right, I'm not Lori.
+[NPC] Laure: Well, obviously.
+[NPC Narrate] -She struggles to straighten up and you notice the knife is pointing ever so not subtly toward you.-
+[NPC] Laure: Talking like that an' all.
+[NPC] Laure: No way you're her.
+[NPC] Laure: Some trick she must have pulled on you, stupid tefu-brain Dermorian, or wait?
+[NPC] Laure: Whatever you are.
+[NPC Narrate] -She flicks the knife dismissively.-
+[NPC] Laure: Go on, away with you.
+[NPC Internal] I need to know who set Lori up.
+[NPC] Laure: Don't now.
+[NPC] Laure: You'll make me cry.
+[NPC] Laure: With amusement.
+[NPC Narrate] -She wipes her eyes with her empty hand.-
+[NPC] Laure: What in the whole clacker infested Dome would make me want to help you?
+[NPC Internal] Tell me!
+[NPC] Laure: Tell you?
+[NPC] Laure: Well I…
+[NPC Narrate] -She slides the knife away somewhere and grins.-
+[NPC] Laure: So, willing to take orders are you?
+[NPC] Laure: That could work; maybe we can be reaching an agreement then, what with the way you look just like Lori and all.
+[NPC Internal] What would this agreement be?
+[NPC] Laure: Simple.
+[NPC] Laure: You listen close now, because what you do is this.
+[NPC] Laure: Go and find Nyshyn.
+[NPC Narrate] -Laure waves her arm behind herself.-
+[NPC] Laure: Over that way somewhere I think.
+[NPC] Laure: Then you say to her, and you say it just like me now.
+[NPC Narrate] -Laure' voice shifts slightly, sounding more like Lori's voice.-
+[NPC] Laure: You say “The job is done and you need to send the payment right away.”
+[NPC Narrate] -Her voice returns to normal.-
+[NPC] Laure: Nothing else.
+[NPC] Laure: Think you can handle that, Lori-face?
+[NPC Internal] Fine, I'll do it.
+[NPC] Laure: Ah, the clacker has a brain after all!
+[NPC Narrate] -She folds her arms.-
+[NPC] Laure: What are you waiting here for then?
+[NPC] Laure: Get on with it!
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] Hello, Nyshyn.
+[NPC] Nyshyn: Lori?
+[NPC Narrate] -Nyshyn gives you a careful look.-
+[NPC] Nyshyn: Something wrong?
+[NPC] Nyshyn: What are you doing all the way out here right now?
+[NPC Internal] I came to tell you that the job is done. You need to send the payment right away.
+[NPC] Nyshyn: So soon?
+[NPC Narrate] -Nyshyn folds her arms, looking thoughtful.-
+[NPC] Nyshyn: I didn't expect things to move so quickly, but this is good.
+[NPC] Nyshyn: I'll see to it that it's sent right away, but Lori..?
+[NPC Internal] Yes?
+[NPC] Nyshyn: You don't look right somehow and you sound a little rough.
+[NPC] Nyshyn: Send someone else next time with an octa or so to buy their silence and stop fussing over these details in person.
+[NPC Narrate] -She smiles and turns back to whatever had her attention before you arrived.-
+
+[To] Laure Eves
+
+[NPC Internal] I spoke to Nyshyn.
+[NPC] Laure: Did you now?
+[NPC Narrate] -Laure looks you over then chuckles.-
+[NPC] Laure: And did she suspect you at all?
+[NPC Internal] She didn't suspect me; she just seemed to think I was ill.
+[NPC] Laure: She thought you were..?!
+[NPC Narrate] -Laure' words trail off into laughter, but it cuts short and she becomes brisk and businesslike again.-
+[NPC] Laure: That's good.
+[NPC] Laure: Really good.
+[NPC] Laure: I can make use of that I think.
+[NPC Internal] I did what you wanted. Will you help me now?
+[NPC] Laure: Oh, calm yourself down and sure I'll help.
+[NPC] Laure: Laure doesn't go breaking her word on a business agreement, even to Lori-faced clackers like you my little friend.
+[NPC] Laure: So I'll give you the facts nice and straight.
+[NPC] Laure: The person responsible for our dear Lori's troubles is a man named Kisatol, but you better get one thing straight in your mind right now.
+[NPC] Laure: If you want that vase back from him, you will need a clever trick or two, or he will catch you in your game.
+[NPC Internal] And let me guess, you have a trick in mind?
+[NPC] Laure: I might begin to think you're starting to know me.
+[NPC Narrate] -She drops her voice suddenly as she pulls a rolled up letter from her belt and swats you with it.-
+[NPC] Laure: You don't show this to anyone you hear, or Ukabnu will have my hide and then, just as soon as I drag myself out of the Death Realm afterwards, I'll be having yours.
+[NPC] Laure: And that's only if I don't manage to plant all the blame onto you before she guts me.
+[NPC Narrate] -She leans back and, despite her words, laughs pleasantly.-
+[NPC] Laure: Now you have to take this to Kisatol, but you have to play this even more carefully than you did when speaking to Nyshyn.
+[NPC] Laure: Are you listening?
+[NPC Internal] I'm listening.
+[NPC] Laure: You better be.
+[NPC] Laure: Now, when you go to Kisatol, you keep your face covered or stay in the shadows so he can't get a good look at you.
+[NPC] Laure: No point risking that he'll recognise your precious Lori-face.
+[NPC] Laure: Then what you'll do is tell him that you are a member of our little group here, say Ukabnu sent you, and then you hand over the letter and wait until he reads it.
+[NPC] Laure: Then he'll pass you a nice locked box with the vase inside and you have to head right back here and pass it to me.
+[NPC] Laure: Without Ukabnu catching on!
+[NPC] Laure: Do you understand?
+[NPC Internal] Make sure he doesn't see my face, give him the letter and don't leave before he reads it. Got it.
+[NPC] Laure: And don't you forget it then.
+[NPC] Laure: It's your skin that's on the line here.
+[NPC Narrate] -She thrusts the letter into your hand then raises her own and waves you back toward the road.-
+[NPC] Laure: You'll find him in Ojaveda.
+[NPC] Laure: How you get there's your problem.
+[NPC] Laure: Maybe head to Gugrontid and fly if you want to save yourself some bother with the guards.
+
+[To] Kisatol Gathoji
+
+[NPC Internal] Kisatol, I have something for you.
+[NPC Narrate] -Kisatol gestures toward the shadows in the corner of the tent as though you are not alone and are being paid attention to.-
+[NPC] Kisatol: Trepor-kisser.
+[NPC] Kisatol: What do you want?
+[NPC] Kisatol: Quickly now!
+[NPC Internal] Ukabnu sent me. I have a letter for you.
+[NPC] Kisatol: Well, will you let me get a look at you then?
+[NPC Narrate] -He takes a step toward you, but then laughs.-
+[NPC] Kisatol: Not that it matters who you are.
+[NPC] Kisatol: I'll know the writing if Ukabnu sent you, so show me this letter.
+[NPC Internal] [Give Kisatol the letter.]
+[NPC] Kisatol: Let me see that.
+[NPC Narrate] -Kisatol unfolds the letter and stares at it for a long moment before speaking quietly.-
+[NPC] Kisatol: Didn't think she'd be wanting this so soon.
+[NPC] Kisatol: Tell you what, I'll hand this over if you can answer a simple little question for me.
+[NPC Internal] And what would that be?
+[NPC] Kisatol: I want you to tell me, why are all the crawling little clackers Ukabnu sends out for fetch and carry work such nervous little cowards?
+[NPC Narrate] -He laughs and steps toward you again.-
+[NPC Internal] [Say nothing.]
+[NPC Narrate] -Kisatol waits for a long moment, just staring at you, before he finally speaks.-
+[NPC] Kisatol: No opinion then?
+[NPC] Kisatol: Or too scared to give one?
+[NPC Narrate] -He laughs.-
+[NPC] Kisatol: That's good.
+[NPC] Kisatol: I like that.
+[NPC] Kisatol: Though you'll have to speak up at least a little if you want anything from me now.
+[NPC Internal] So will you give me the vase?
+[NPC Narrate] -Kisatol studies you as though thinking and then nods.-
+[NPC] Kisatol: It's locked up all nice and tight, and since they won't have given you the key, you'd be wasting your time to try and get the thing out without breaking it, so sure, I'll give you it.
+[NPC Narrate] -He moves to the side of the tent and carefully lifts a very secure looking box from the shadows there, before walking back and offering it to you.-
+[NPC] Kisatol: Just you see it reaches Ukabnu safely.
+[NPC] Kisatol: I'll be wanting my cut or I'll see there's trouble.
+
+[To] Laure Eves
+
+[NPC Internal] I have the box.
+[NPC] Laure: So you do.
+[NPC Narrate] -Laure stares at you for a moment and then nods.-
+[NPC] Laure: You didn't do bad with this Lori-face.
+[NPC] Laure: Not too slow about it either.
+[NPC] Laure: So, let's see what's in that box shall we now?
+[NPC Internal] Will you open it?
+[NPC Narrate] -Laure slides a small and rusted looking key from an equally rusted chain and cracks a grin at you before she inserts it into the lock.-
+[NPC] Laure: What?
+[NPC] Laure: Did you expect something more sophisticated?
+[NPC Narrate] -She laughs and struggles to turn the thing. There is a loud, unhappy sounding click.-
+[NPC] Laure: Heh, for a moment there I thought the key would snap.
+[NPC Narrate] -Laure flips back the lid after checking that Ukabnu is still not paying any attention.-
+[NPC Internal] Well?
+[NPC Narrate] -Laure turns the box, it's lid now up, to show you the delicate vase that is carefully stored within.-
+[NPC] Laure: Oh don't worry, you can have it little Lori-face.
+[NPC] Laure: Hand this over to the one you've stolen a face from and she can make things all better I'm sure.
+[NPC] Laure: Of course, you need to get back to her, and I dare say the guards will be watching…
+[NPC] Laure: Want some advice?
+[NPC Internal] What can you tell me?
+[NPC] Laure: The guards won't be letting you through the gate, not looking as you are.
+[NPC] Laure: But well.
+[NPC Narrate] -Laure grins.-
+[NPC] Laure: Peterosaur handlers ain't so discriminating, if you catch my meaning or…
+[NPC] Laure: There might just be another way, if you don't feel like paying for their help.
+[NPC Narrate] -Her grin widens.-
+[NPC] Laure: Come on, learn in a little closer; it's a secret.
+[NPC] Laure: I'll whisper it in your ear.
+[NPC Internal] [Move forward.] Tell me.
+[NPC Narrate] -Laure reaches up with one arm, gripping your shoulder, drawing you closer to her.-
+[NPC] Laure: There is a way my sweet, precious little Lori-face, that the guards will never see you.
+[NPC Narrate] -She tightens her hold on your shoulder.-
+[NPC] Laure: You have to be careful of course…
+[NPC Narrate] -As close to her as you are, you don't see her knife until you feel the tip of it brush against you.-
+[NPC] Laure: It's just a bit of a gamble in the end my silly, sweet clacker, but if you move just right and act just right, then just like you didn't see my knife until it tickled your skin, they won't see you either.
+[NPC Narrate] -She waits for a very long moment before withdrawing the blade and then pushes the box toward you, an amused smirk on her face.-
+[NPC] Laure: Just wait until its dark enough, cover your face as well if you can and they won't see it's you.
+[NPC] Laure: You should have learned this already.
+[NPC Narrate] -She flicks her knife toward the road as though to point you there.-
+[NPC] Laure: So get moving and wait around the gate until it's dark.
+
+[To] Lori Tryllyn
+
+[NPC Internal] I have the vase.
+[NPC Narrate] -Lori stares at you for a moment.-
+[NPC] Lori: Like looking at a mirror…
+[NPC Narrate] -She shakes her head as though to clear it.-
+[NPC] Lori: Show me?
+[NPC Internal] [Hand Lori the box.]
+[NPC Narrate] -Lori takes the box and flips back the lid before smiling.-
+[NPC] Lori: Well that looks about right.
+[NPC] Lori: Not that I ever saw the thing before myself, of course!
+[NPC] Lori: But it seems you saved me quite some troubles here.
+[NPC] Lori: I just need to plant it somewhere for the guards to find, make it look like the stupid merchant just misplaced it maybe, and then everything should sort itself.
+[NPC Narrate] -She looks up.-
+[NPC] Lori: But now what to do about you…
+[NPC Internal] You need to lift this curse.
+[NPC] Lori: Do I now?
+[NPC Narrate] -She grins.-
+[NPC] Lori: What if I like the idea of another me running around to take the blame anytime I run into problems?
+[NPC Internal] You'll regret it if you don't.
+[NPC Narrate] -Lori takes a step back from you.-
+[NPC] Lori: Oh don't make a scene.
+[NPC] Lori: What would you even do?
+[NPC Internal] What could anyone who looks just like you do?
+[NPC Narrate] -Lori pales suddenly.-
+[NPC] Lori: You could do anything and people would think…
+[NPC Narrate] -She drops her voice.-
+[NPC] Lori: No, you mustn't.
+[NPC] Lori: You do realise I was only joking around with you, don't you?
+[NPC] Lori: I wouldn't be stupid enough to leave you like this.
+[NPC] Lori: I even planned to give you a gift for your trouble.
+[NPC Internal] Then lift the curse, please.
+[NPC Narrate] -You change back to your normal form!-
+[NPC Narrate] -Lori nods her head vigorously and pulls a strange Blue Way glyph from a small pouch on her belt.-
+[NPC Narrate] -She presses it between her palms and closes her eyes for a moment, then whispers a quick string of words so quickly that you can't catch any of them.-
+[NPC] Lori: There…
+[NPC Narrate] -She watches you anxiously, then a strange feeling flows through you, like your skin is twisting. It's not painful, but leaves you feeling dizzy.-
+[NPC Internal] Is the curse gone?
+[NPC] Lori: It's gone.
+[NPC] Lori: Of course it's gone!
+[NPC] Lori: I hope you didn't think I wouldn't be able to fix this.
+[NPC Narrate] -Lori starts to slide the glyph away again and turns her back as though she is done with you.-
+[NPC Internal] Hold on, you mentioned a gift for my troubles.
+[NPC Narrate] -Lori freezes in place for a moment and then looks at you.-
+[NPC] Lori: I suppose I did, didn't I?
+[NPC Narrate] -She pulls the glyph out from the pouch again and runs her fingers over it.-
+[NPC] Lori: I suppose if I lose this thing, there'll be no evidence on me that I used you this way.
+[NPC] Lori: And well, maybe it will buy your silence.
+[NPC Narrate] -Lori extends her hand and offers the glyph to you.-
+[NPC] Lori: What do you say?
+[NPC Internal] [Accept the glyph.]
+[NPC Narrate] -Lori smiles.-
+[NPC] Lori: So we understand each other then.
+[NPC] Lori: Since you were so professional about it all as well…
+[NPC Narrate] -She tosses a small pouch to you and you hear something clinking within.-
+[NPC] Lori: That'll cover any expenses this little venture brought you.
+[NPC] Lori: Now just remember, none of this ever happened.
+[NPC Narrate] -She turns again, holding the box and moves away.-
+
+[Reward] [Money] 5130; [XP] 13600; [Item] 1, Polymorph glyph; [Faction] 25, Thieves Organization
+

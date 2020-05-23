@@ -1,0 +1,331 @@
+[Questname] A Dermorian Affair
+[NPC Name] Uri Djho-Maat
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] No
+
+[Need] [Quest] Advanced Bow Making; [Skill] ?, Bow Making;
+
+[To] Uri Djho-Maat
+
+[NPC Internal] Good day Sir, may I be of help?
+[NPC Narrate]Uri Djho-Maat shrugs elegantly and waves a dismissive hand.
+[NPC] Uri Djho-Maat: I have work todo overseeing and managing all my servants.
+[NPC] Uri Djho-Maat: No time for idle chat...
+[NPC] Uri Djho-Maat: Unless.
+[NPC Narrate]Uri Djho-Maat looks you up and down.
+[NPC] Uri Djho-Maat: Are you requesting a job?
+[NPC Internal] Not exactly. Simply proposing my help as of now.
+[NPC] Uri Djho-Maat: Uhm, yes, maybe.
+[NPC] Uri Djho-Maat: Of course, I don't run anywhere myself to settle my businesses.
+[NPC] Uri Djho-Maat: So you could do that for me, an assistant maybe.
+[NPC Internal] Uhm. What is it about?
+[NPC] Uri Djho-Maat: Tevnaa, of course!
+[NPC] Uri Djho-Maat: The greatest and famous Dermorian festival.
+[NPC] Uri Djho-Maat: It is very old and highly traditional.
+[NPC] Uri Djho-Maat: Even if some newer generation frown on such "old" things from a before our arrival in Yliakum, Tevnaa still stays exceedingly popular.
+[NPC] Uri Djho-Maat: And of course I will be represented.
+[NPC Internal] I didn't know such a festival existed. You will participate yourself?
+[NPC] Uri Djho-Maat: You are flattering me, how I understand you!
+[NPC] Uri Djho-Maat: No, of course I am not participating myself, I pay talented warriors for this.
+[NPC] Uri Djho-Maat: They will represent my name in the three competitions of the festival: tracking, a rivnak race and an archery tournament.
+[NPC] Uri Djho-Maat: The winners are highly regarded.
+[NPC] Uri Djho-Maat: But not just those taking part, also their sponsors as they were wise enough to support them and I'd like to increase my already very imposing reputation.
+[NPC Internal] Interesting. Good luck. But how can I be of help?
+[NPC] Uri Djho-Maat: I've chosen two new warriors this year, a master and his apprentice.
+[NPC] Uri Djho-Maat: All seems well settled: registration for Tevnaa done, supplies ordered and soon to arrive.
+[NPC] Uri Djho-Maat: Unfortunately, it's been now a week that I have no news of my champions.
+[NPC] Uri Djho-Maat: They were supposed to send a message concerning their rivnak training progress...
+[NPC] Uri Djho-Maat: How dare they make me wait, it's insufferable!
+[NPC] Uri Djho-Maat: My private messengers are all busy at the moment, and I refuse to retain another one for this ridiculous setback.
+[NPC] Uri Djho-Maat: Please go and talk to Oropher Telemmaite.
+[NPC] Uri Djho-Maat: He is an Octarchal guard so you will probably find him in Octarch Salikarios' residence.
+[NPC] Uri Djho-Maat: Ask him to give you the information I request and an explanation for his silence!
+[NPC] Uri Djho-Maat: I will pay you well, I always do.
+[NPC Narrate]Uri Djho-Maat turns around, not giving you time to answer.
+
+[To] Oropher Telemmaite
+
+[NPC Internal] Good day Sir Telemmaite, sorry to disturb you while on duty. I am sent by Uri Djho-Maat to talk about Tevnaa.
+[NPC Narrate]Oropher Telemmaite frowns.
+[NPC] Oropher Telemmaite: Shh, lower your voice, citizen!
+[NPC] Oropher Telemmaite: You work for Sir Djho-Maat then.
+[NPC] Oropher Telemmaite: By Xiosia.
+[NPC Narrate]Oropher Telemmaite's head drops.
+[NPC Internal] Indeed and he wonders why he has no news from you and the second champion for over a week now?
+[NPC] Oropher Telemmaite: My apprentice.
+[NPC] Oropher Telemmaite: The other champion, Tebengrin Nilaiun, is...
+[NPC] Oropher Telemmaite: WAS...
+[NPC] Oropher Telemmaite: My apprentice.
+[NPC] Oropher Telemmaite: It's common for Dermorians when one reaches a certain age, to teach the younger ones.
+[NPC Narrate]Oropher Telemmaite complains about his situation.
+[NPC] Oropher Telemmaite: Xiosia cursed me.
+[NPC] Oropher Telemmaite: Tebengrin is the worst thing that has ever happened to me.
+[NPC] Oropher Telemmaite: He never listens, cannot focus his attention more than five minutes, always complains.
+[NPC] Oropher Telemmaite: A real plague.
+[NPC] Oropher Telemmaite: And not only that!
+[NPC] Oropher Telemmaite: He stole my bow!
+[NPC] Oropher Telemmaite: My wonderful and favourite composite bow!
+[NPC] Oropher Telemmaite: One I crafted myself, hours of work!
+[NPC Narrate]Oropher Telemmaite seems very angry and tries to control himself so not to be inappropriate in the middle of the Octarchal residence.
+[NPC] Oropher Telemmaite: I am not competing in Tevnaa.
+[NPC] Oropher Telemmaite: I withdraw, I quit.
+[NPC] Oropher Telemmaite: I cannot suffer Tebengrin anymore and cannot do anything without my special bow, anyway.
+[NPC] Oropher Telemmaite: Please, tell Uri Djho-Maat it's over.
+[NPC Internal] Ah... I see. And um what is a composite bow?
+[NPC] Oropher Telemmaite has a kind of tender smile.
+[NPC] Oropher Telemmaite: A marvel, a specialist bow.
+[NPC] Oropher Telemmaite: Nothing better to hunt or practice mounted archery.
+[NPC Narrate]Oropher Telemmaite winks.
+[NPC] Oropher Telemmaite: I am not taking apprentices any more, not after that.
+[NPC] Oropher Telemmaite: I am sorry.
+[NPC Internal] Oh, I was just curious. And why are you so sure that Tebengrin stole your bow? Why would he do that?
+[NPC] Oropher Telemmaite: Because he's a plague to everyone, and above all to himself!
+[NPC] Oropher Telemmaite: He's jealous and vindictive.
+[NPC] Oropher Telemmaite: Instead of taking our duo for what it is, an exchange of knowledge, he is tortured by his need to do everything better immediately, instead of being patient.
+[NPC Narrate]Oropher Telemmaite sighs and shakes his head.
+[NPC] Oropher Telemmaite: I can't take it anymore.
+[NPC] Oropher Telemmaite: And I can't participate in the competition without my bow.
+[NPC] Oropher Telemmaite: I've used it so much that the wood adapted specifically to MY hand.
+[NPC] Oropher Telemmaite: Tevnaa is too near now, I won't be able to have another bow as perfect made before it starts.
+
+[To] Uri Djho-Maat
+
+[NPC Internal] I am back with disappointing news. Oropher has quarrelled with his apprentice and won't train with him anymore.
+[NPC] Uri Djho-Maat: I beg your pardon?
+[NPC] Uri Djho-Maat: Impossible!
+[NPC] Uri Djho-Maat: It is out of the question and far too late to change champions now.
+[NPC] Uri Djho-Maat: My illustrious name and theirs are already linked on the competitions lists.
+[NPC] Uri Djho-Maat: All is ready, I can't retire from the festival, it would be a terrible loss of face, a disaster!
+[NPC] Uri Djho-Maat: No.
+[NPC] Uri Djho-Maat: They have been training tremendously hard on my very own circles for Tevnaa for a year, working on their muscles, perfecting their accuracy and reinforcing their link with their rivnak, again, no...
+[NPC] Uri Djho-Maat: Now about you.
+[NPC] Uri Djho-Maat: Here is your first reward for treating this affair quickly.
+[NPC Narrate]Uri Djho-Maat gives you a coin pouch.
+[NPC Internal] Thanks! That's very nice of you.
+[NPC] Uri Djho-Maat: Please, it's nothing really.
+[NPC] Uri Djho-Maat: YOU, you are engaged!
+[NPC] Uri Djho-Maat: The champions I've chosen will participate in Tevnaa.
+[NPC] Uri Djho-Maat: Settle this for me.
+[NPC] Uri Djho-Maat: Do all you must, anything you can, anything...
+[NPC] Uri Djho-Maat: You hear me!?
+[NPC] Uri Djho-Maat: By all means possible they will participate!
+[NPC] Uri Djho-Maat: Tebengrin lives in Ojaveda, I don't know where exactly, that's your job to find.
+[NPC] Uri Djho-Maat: Ask whoever you find, a Dermorian guard maybe.
+[NPC] Uri Djho-Maat: Now go!
+
+[To] Tebengrin Nilaiun
+
+[NPC Internal] You are a hunter then?
+[NPC] Tebengrin Nilaiun: Yes.
+[NPC] Tebengrin Nilaiun: Not really original for a Dermorian, eh?
+[NPC Narrate]Tebengrin Nilaiun smiles.
+[NPC] Tebengrin Nilaiun: After all, Dermorians often have a natural talent for it, and if it can help people, it's good for me.
+[NPC] Tebengrin Nilaiun: I craft bows as well, it's my trade.
+[NPC Narrate]Tebengrin Nilaiun steps into the nearby tent and grabs two mugs from a shelf.
+[NPC Narrate]-Walking back he offers one to you.-
+[NPC] Tebengrin Nilaiun: Would you like a mug of tinga tea?
+[NPC Internal] Ah yes, why not! Thanks Tebengrin, let us talk around a mug.
+[NPC Narrate]Tebengrin Nilaiun smiles and hands you a mug of tinga tea. He serves one to himself and sits down.
+[NPC] Tebengrin Nilaiun: If I can help you with something, I am at your service.
+[NPC Internal] I come on behalf of Uri Djho-Maat, Tebengrin. He is concerned about you and your master Oropher. You two are supposed to represent him in Tevnaa, are you not?
+[NPC] Tebengrin Nilaiun: Oh...
+[NPC Narrate]Tebengrin Nilaiun blinks and blushes, he seems uneasy suddenly and has an awkward look on his face.
+[NPC] Tebengrin Nilaiun: I am so very sorry.
+[NPC] Tebengrin Nilaiun: I should have sent him a message.
+[NPC Narrate]Tebengrin Nilaiun scratches his head.
+[NPC Internal] Indeed... It's a nice bow you have there.
+[NPC Narrate]Tebengrin Nilaiun unconsciously puts a hand on the tip of his bows grip and smiles.
+[NPC] Tebengrin Nilaiun: Thanks.
+[NPC] Tebengrin Nilaiun: I crafted it.
+[NPC] Tebengrin Nilaiun: It's a composite bow!
+[NPC] Tebengrin Nilaiun: I used a special Dermorian technique.
+[NPC] Tebengrin Nilaiun: Other races have their own, but I prefer this.
+[NPC] Tebengrin Nilaiun: It makes the bow very sturdy and supple, but of course it takes a lot of skill and perfect technique to keep the balance.
+[NPC Internal] I see. Is it the same as Oropher's bow then?
+[NPC] Tebengrin Nilaiun: No!
+[NPC Narrate]Tebengrin Nilaiun grabs the bow and keeps it close by him, wrapping his arms around.
+[NPC] Tebengrin Nilaiun: This is my bow!
+[NPC] Tebengrin Nilaiun: I crafted it myself, it took me hours!
+[NPC] Tebengrin Nilaiun: Oropher...
+[NPC Narrate]Tebengrin Nilaiun shakes his head.
+[NPC] Tebengrin Nilaiun: He is a wonderful warrior.
+[NPC] Tebengrin Nilaiun: I first met him in the Hydlaa Arena, some time ago.
+[NPC] Tebengrin Nilaiun: We became friends and, a sort of bond formed naturally.
+[NPC] Tebengrin Nilaiun: So he decided to offer to teach me, especially fighting in close combat.
+[NPC] Tebengrin Nilaiun: We even hunted together and I showed him my trade.
+[NPC] Tebengrin Nilaiun: But after that, it became a nightmare.
+[NPC] Tebengrin Nilaiun: He was no longer there for me and stopped teaching me.
+[NPC] Tebengrin Nilaiun: He treated me as if I was worse than a simple object in his eyes, telling me horrors all day long, used me as a mule.
+[NPC] Tebengrin Nilaiun: I never understood why he became like this.
+[NPC] Tebengrin Nilaiun: I cannot...
+[NPC] Tebengrin Nilaiun: I could not take it anymore.
+[NPC Narrate]Tebengrin Nilaiun shakes his head, he seems to hold himself not to cry in front of you.
+[NPC Internal] Ah. You affirm that this bow is yours?
+[NPC] Tebengrin Nilaiun: Yes!
+[NPC] Tebengrin Nilaiun: I crafted it myself I told you, with white oak and alder wood.
+[NPC] Tebengrin Nilaiun: You have to believe me!
+[NPC] Tebengrin Nilaiun: I am sorry for Mr Djho-Maat but I won't compete in Tevnaa, and I can't see Oropher again!
+[NPC Internal] Please, calm down Tebengrin. I understand your concern but you have to realise that Mr Djho-Maat invested a lot for the festival, you can't just drop out of it for personal matters. You could craft another composite bow and propose it to Oropher.
+[NPC] Tebengrin Nilaiun: But...
+[NPC Narrate]Tebengrin Nilaiun shakes his head.
+[NPC] Tebengrin Nilaiun: Why would I do that for him, after how badly he treated me...
+[NPC] Tebengrin Nilaiun: I am sorry, I really am.
+[NPC] Tebengrin Nilaiun: I...
+[NPC] Tebengrin Nilaiun: I will participate in Tevnaa if Uri chooses another warrior to replace Oropher.
+[NPC Internal] It's impossible, it's too late. We need to find a compromise so you and Oropher can tolerate each other, at least for the festival.
+[NPC Narrate]Tebengrin Nilaiun shakes his head again, not quite convinced.
+[NPC] Tebengrin Nilaiun: I don't want to see him anymore.
+[NPC] Tebengrin Nilaiun: I am sorry.
+[NPC Internal] Ah. Well, I will see you later, Tebengrin. [This will take you down an honest path to hopefully solve the problems, you will have to find someone to help you, start here in Ojaveda.]
+[NPC Narrate]Tebengrin Nilaiun smiles and waves you off.
+[NPC] Tebengrin Nilaiun: Bye.
+
+[To] Pinayet Ullavin
+
+[NPC Internal] Pinayet, do you have five minutes?
+[NPC] Pinayet Ullavin: Of course!
+[NPC] Pinayet Ullavin: Any time my friend!
+[NPC] Pinayet Ullavin: Did you find Tebengrin?
+[NPC Internal] Yes, I found him and we spoke for a while. About this, I wanted to ask you, what do you know about the composite bow?
+[NPC] Pinayet Ullavin: The Dermorian model you mean?
+[NPC] Pinayet Ullavin: Because there are several models.
+[NPC] Pinayet Ullavin: The particularity of the Dermorian Composite Bow is the use of two wood essences, which explain its name.
+[NPC] Pinayet Ullavin: It requires a lot of skill.
+[NPC Internal] Do you know who could teach me such a thing?
+[NPC] Pinayet Ullavin: Well, Tebengrin said he could craft them.
+[NPC] Pinayet Ullavin: He always talks about being able to.
+[NPC Narrate]Pinayet Ullavin smiles.
+[NPC] Pinayet Ullavin: Here in Ojaveda, I know Benack Yasoj who crafts Enkidukai composite bows.
+[NPC] Pinayet Ullavin: The StoneHammers as well created a kind of engineering masterpiece, I think they call it a "compound bow", a sight to see.
+[NPC] Pinayet Ullavin: At last, there is the Ynnwn model for taller races.
+[NPC Internal] I need to find a Dermorian Composite Bow to settle a quarrel. It's for Tevnaa, it's important.
+[NPC] Pinayet Ullavin: Oh, I see.
+[NPC] Pinayet Ullavin: Ah, I wish I could help you myself but my knowledge of the bow making art is extremely limited, I am afraid.
+[NPC Narrate]Pinayet Ullavin ponders a moment then smiles.
+[NPC] Pinayet Ullavin: I know who you could ask.
+[NPC] Pinayet Ullavin: Jjousk Carryt.
+[NPC] Pinayet Ullavin: He's a fine archer and bowyer, so either he can show you how to do it or direct you to the right person.
+[NPC] Pinayet Ullavin: He works in the Hydlaa Arena, I believe.
+
+[To] Jjousk Carryt
+
+[NPC Internal] Hello again, Jjousk. Could you help me with a bow problem?
+[NPC] Jjousk Carryt: A bow problem?
+[NPC Internal] Yes. [You explain to Jjousk the situation and your urgent need to craft a new composite bow.] Could you help me?
+[NPC] Jjousk Carryt: I don't usually teach people how to make bows this complex, it takes up too much of my time.
+[NPC] Jjousk Carryt: But I understand your concern and you asked nicely enough...
+[NPC] Jjousk Carryt: So I will draw up some diagrams for you to follow yourself.
+[NPC Internal] Ah, thank you. Maybe I can help you in the meanwhile?
+[NPC] Jjousk Carryt: How nice of you.
+[NPC] Jjousk Carryt: Yes I.
+[NPC] Jjousk Carryt: Uh.
+[NPC] Jjousk Carryt: Actually, I could make use of more Small Oak Wood Carved Boards.
+[NPC] Jjousk Carryt: Let's say five of them?
+
+[To] Jjousk Carryt
+
+[NPC Internal] Here are your boards. [You hand Jjousk the boards.]
+[NPC Narrate]Jjousk Carryt smiles and puts the boards away on his working table.
+[NPC] Jjousk Carryt: Better than a diagram, I managed to get my hands on a spare Expert Bow Making book.
+[NPC Narrate]-He hands you the book.-
+[NPC] Jjousk Carryt: Here, this contains a Dermorian composite bow diagram.
+[NPC] Jjousk Carryt: You can keep it, it's all yours.
+[NPC] Jjousk Carryt: Be aware the Dermorian composite bow uses exclusively white oak and threestem wood, all right?
+[NPC] Jjousk Carryt: These notes will help make other race versions as well.
+[NPC Internal] Threestem? Not alder wood?
+[NPC] Jjousk Carryt: Alder?
+[NPC] Jjousk Carryt: What a strange idea, never!
+[NPC] Jjousk Carryt: A composite bow of this kind is made exclusively with white oak and threestem wood.
+[NPC] Jjousk Carryt: This wood association is primordial even, because the property of each material combines perfectly.
+[NPC Internal] Ah? Couldn't a Dermorian use another essence for some reason?
+[NPC] Jjousk Carryt: Unless he's a complete novice, absolutely not.
+[NPC] Jjousk Carryt: It's their technique; they perfectly know which essences are necessary.
+[NPC] Jjousk Carryt: No, it's definitely white oak and threestem, my friend.
+[NPC] Jjousk Carryt: I must be back to my work now.
+[NPC Internal] All right. Thank you very much! [You decide it is time to have a proper explanation with Tebengrin again, once you've crafted the bow.] May I stay a while to try crafting a bow?
+[NPC Narrate]Jjousk Carryt smiles and nods.
+[NPC] Jjousk Carryt: Certainly, YOU, go ahead.
+
+[To] Tebengrin Nilaiun
+
+[NPC Internal] It's me again, Tebengrin. Please have a seat, we have to talk.
+[NPC Narrate]Tebengrin Nilaiun jumps surprised, visibly nervous.
+[NPC Narrate]-He obeys nevertheless and sits down in front of you, giving you a forced smile.-
+[NPC] Tebengrin Nilaiun: Hello, YOU.
+[NPC Internal] One thing, though. Can you tell me again the wood essences used to craft Dermorian Composite Bows?
+[NPC Narrate]Tebengrin Nilaiun trembles and presses his hands one against the other.
+[NPC] Tebengrin Nilaiun: Ye-esss.
+[NPC] Tebengrin Nilaiun: It's white oak and alder, like I told you before...
+[NPC Internal] [You nod and add softly.] I knew it! You didn't craft that bow did you? It's Oropher's bow.
+[NPC Narrate]Tebengrin Nilaiun hesitates between anger and panic, you can visibly see it on his face. He finally frowns and explodes.
+[NPC] Tebengrin Nilaiun: Very well!
+[NPC] Tebengrin Nilaiun: You are right, I didn't craft the bow, and I stole it!
+[NPC] Tebengrin Nilaiun: I couldn't take his arrogance anymore!
+[NPC] Tebengrin Nilaiun: He told me I was a plague!
+[NPC] Tebengrin Nilaiun: That I would never succeed in life because I was too stupid!
+[NPC] Tebengrin Nilaiun: You understand?
+[NPC] Tebengrin Nilaiun: How can one tolerate this every day!
+[NPC] Tebengrin Nilaiun: Yes, I stole his wonderful and extraordinary bow!
+[NPC] Tebengrin Nilaiun: I wanted him to feel weak for once, I wanted him to be the one empty and powerless!
+[NPC Narrate]Tebengrin Nilaiun opens violently a chest he keeps in a corner of his tent and hands you "Oropher's Composite Bow".
+[NPC] Tebengrin Nilaiun: Here, take it!
+[NPC] Tebengrin Nilaiun: Give it back to him, I don't care anymore, I've had it!
+[NPC Narrate]Tebengrin Nilaiun trembles, hardly holding back tears.
+[NPC Internal] Please Tebengrin, sit down and calm yourself. I am a friend, I am here to help, you remember? You are an excellent hunter I heard, and I bet you can craft good bows as well. You have the time to learn and make better bows, you are still young. I have something for you.
+[NPC Narrate]Tebengrin Nilaiun relaxes slightly and sits down once more.
+[NPC] Tebengrin Nilaiun: Oh?
+[NPC Internal] [You give Tebengrin the Dermorian Composite Bow you crafted.] This can be your bow. I did my best to craft a good one. It's maybe not as good as Oropher's but it's yours, no one has used it yet.
+[NPC Narrate]Tebengrin Nilaiun shows two large round eyes, just as a child in front of a marvel. He gives you a large smile.
+[NPC] Tebengrin Nilaiun: Thank you YOU.
+[NPC] Tebengrin Nilaiun: This is wonderful, please take this for your help.
+[NPC Internal] Now, you will show your people of what "wood" you are made of! And you will shine brightly in Tevnaa! Onward! Time to "wear" this bow to mould it to your hand.
+[NPC] Tebengrin Nilaiun laughs, venting a bit of his tenseness and nods eagerly.
+[NPC] Tebengrin Nilaiun: You are right, YOU.
+[NPC] Tebengrin Nilaiun: I can do it.
+[NPC] Tebengrin Nilaiun: I will do it, I promise.
+[NPC] Tebengrin Nilaiun: I will uh maybe just uh, avoid Oropher and train by myself as of now.
+[NPC Internal] It may be a good option, yes. If you are willing to learn more on the bowyer craftsmanship and play it fairly, you can still ask me. As for me, I will go and talk to Oropher and Sir Djho-Maat. Good luck Tebengrin.
+[NPC] Tebengrin Nilaiun: Again, thank you.
+
+[To] Oropher Telemmaite
+
+[NPC Internal] Hey Oropher, I am back with your bow. [You give Oropher his bow.]
+[NPC Narrate]Oropher Telemmaite takes the bow and his face lights up.
+[NPC] Oropher Telemmaite: Fantastic!
+[NPC] Oropher Telemmaite: Well done, YOU!
+[NPC] Oropher Telemmaite: My bow, my dear bow!
+[NPC] Oropher Telemmaite: Ah you have made my day!
+[NPC Internal] Oropher, we need to talk about Tebengrin. I understood your concern but I heard his story, as well.
+[NPC] Oropher Telemmaite: How did you obtain this bow?
+[NPC] Oropher Telemmaite: From him?
+[NPC Internal] I've crafted him another bow and he returned yours, why?
+[NPC] Oropher Telemmaite: Oh.
+[NPC] Oropher Telemmaite: So he -did- steal it.
+[NPC Narrate]Oropher Telemmaite takes a deep breath and looks down.
+[NPC] Oropher Telemmaite: Then you are a better teacher then I am.
+[NPC] Oropher Telemmaite: I admit my stubbornness and...
+[NPC] Oropher Telemmaite: Maybe I've been jealous of his youth as well.
+[NPC] Oropher Telemmaite: I went too far, expected too much, too fast from him.
+[NPC Internal] Whatever now, this should be placed behind us. Maybe you can try and talk to him again, try and settle this peacefully. But for now, let's have you both participating in Tevnaa. It's a great occasion to meet again.
+[NPC Narrate]Oropher Telemmaite nods and smiles, humbly.
+[NPC] Oropher Telemmaite: You are a great person.
+[NPC] Oropher Telemmaite: I will send a groffel to Sir Djho-Maat concerning my rivnak and...
+[NPC] Oropher Telemmaite: I promise to participate to Tevnaa.
+[NPC] Oropher Telemmaite: Thanks YOU.
+[NPC] Oropher Telemmaite: I would like to give you something, for all you did to help.
+[NPC Narrate]Oropher Telemmaite hands you some plant strings.
+
+[To] Uri Djho-Maat
+
+[NPC Internal] Sir Djho-Maat, the affair you sent me on is settled. Both your champions are ready for Tevnaa.
+[NPC Narrate]Uri Djho-Maat gives you a bright smile.
+[NPC] Uri Djho-Maat: Indeed, indeed YOU!
+[NPC] Uri Djho-Maat: My saviour, come here so I can embrace you!
+[NPC Narrate]Uri Djho-Maat grabs your shoulders warmly and awkwardly hugs you.
+[NPC] Uri Djho-Maat: I've received two messages, not five minutes ago.
+[NPC] Uri Djho-Maat: I am extremely pleased with the way you dealt with this affair.
+[NPC] Uri Djho-Maat: Please accept this.
+[NPC Narrate]Uri Djho-Maat hands you a large pouch of tria.
+
+[Reward] [XP] ?; [Money] ?;

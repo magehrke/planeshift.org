@@ -1,0 +1,85 @@
+[Questname] Rats and Recipes
+[NPC Name] Reffitia Thamal
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 10, Rat Hides; [Item] 10, Carrots; [Item] 5, Clacker Meats; [Item] 1, Tefusang Tooth
+
+[To] Reffitia Thamal
+
+[NPC Internal] You look troubled, is there anything I can do to help?
+[NPC] Reffitia: Oh I could not bother you.
+[NPC] Reffitia: It's my problem.
+[NPC] Reffitia: None of your concern.
+[NPC] Reffitia: Unless you really want to help?
+[NPC Internal] No no, I really would like to help.
+[NPC] Reffitia: Bless you.
+[NPC Narrate] -Reffitia lowers her greying ears slightly and looks at you with pleading eyes.-
+[NPC] Reffitia: If you really do want to help me…
+[NPC] Reffitia: no, no. It is too much of an imposition.
+[NPC Narrate] -Reffitia mumbles to herself.-
+[NPC] Reffitia: I am in so much trouble…
+[NPC] Reffitia: Oh, I must.
+[NPC] Reffitia: I am desperate; these rats have broken into the tavern's food storage cellar, and Brado told me to handle it.
+[NPC] Reffitia: But- well, there are reasons I was not able to get it taken care of right away.
+[NPC] Reffitia: But he'll soon find that I have not handled it properly and there will be a new cook here.
+[NPC] Reffitia: Please, can you try to find ten rat hides?
+[NPC] Reffitia: If you give them to Brado and tell him that I caught the rats, that will give me time to get things done properly.
+[NPC] Reffitia: I just need a little time yes, some more time.
+[NPC Narrate] -Reffitia quickly turns to a simmering pot of stew and stirs it quickly, leaning over to sniff at the steaming scents before looking back at you and continuing.-
+[NPC] Reffitia: If you can find the ones near the cellar door, all the better.
+[NPC] Reffitia: Will you do it, oh kind Madam?
+[NPC] Reffitia: Will you help me?
+[NPC Internal] Consider your woes solved!
+[NPC] Reffitia: Thank you so much.
+[NPC] Reffitia: It warms my heart to see someone so helpful to a kind old woman with too much work on her paws.
+[NPC] Reffitia: May Talad light your path and hasten your feet!
+
+[To] Brado
+
+[NPC Internal] Here. These are for you.
+[NPC] Brado: Er, hello.
+[NPC] Brado: What are these for?
+[NPC Internal] Reffitia sent me to bring them to you.
+[NPC] Brado: Ah, good.
+[NPC] Brado: I was starting to wonder how much of our stores were going to be eaten by those vermin.
+[NPC Narrate] -Brado starts cleaning a mug with a cloth as he continues.-
+[NPC] Brado: Please thank her for me.
+
+[To] Reffitia Thamal
+
+[NPC Internal] Brado sends his thanks.
+[NPC] Reffitia: Oh, thank you, my kind Stonehammer, but I am still in deep trouble…
+[NPC Narrate] -Reffitia sighs as she flips slices of meat on the grill.-
+[NPC] Reffitia: I need to make three different stews here for a special dinner and the rats have eaten or spoiled some of the things I need for one of them.
+[NPC] Reffitia: If I do not get the ingredients back soon, then Brado will know I messed up again.
+[NPC] Reffitia: I have already used up his patience, I am certain.
+[NPC Narrate] -Reffitia looks over a recipe she has tacked to the wall.-
+[NPC] Reffitia: Please, if I can ask one more thing of you, I need ten carrots, five pieces of clacker meat and a tefusang tooth.
+[NPC] Reffitia: Can you get those items for me?
+[NPC Internal] Yes, I don't have anything else to do for a bit.
+[NPC] Reffitia: Thank you so much.
+[NPC] Reffitia: It warms my heart to see someone so helpful to a kind old woman with too much work on her paws.
+[NPC] Reffitia: May Talad light your path and hasten your feet!
+[NPC Internal] Here are your carrots.
+[NPC] Reffitia: Goodness, you have not forgotten me!
+[NPC] Reffitia: Thank you!
+[NPC Narrate] -Reffitia quickly slices the carrots into small discs with practiced movements and adds them to a steaming pot of broth.-
+[NPC] Reffitia: Could you now pass me the five pieces of clacker meat?
+[NPC Internal] Here is the clacker meat, nice and lean
+[NPC] Reffitia: Good, good.
+[NPC Narrate] -Reffitia inspects the meat, sniffing at it and taking it to a cutting board for cleaning and dicing. She adds it to the same pot.-
+[NPC Internal] The tooth of one tefusang, as ordered.
+[NPC] Reffitia: Thank you.
+[NPC Narrate] -Reffitia sets the tooth into a large stone mortar and pounds it determinedly with the pestle until the tooth is crumbled to a fine powder.-
+[NPC] Reffitia: There, the stew is coming to a nice boil.
+[NPC Narrate] -Reffitia sniffs around the edges of the pot and then stirs in the tooth powder. She takes a small sample with a spoon and tastes it before smiling broadly.-
+[NPC] Reffitia: Ah, it's delicious!
+[NPC Narrate] -Refittia's tail swings happily.-
+[NPC] Reffitia: You have been so kind to help save me today.
+[NPC] Reffitia: Please, let me give you these coins, and a gourd of this stew, I know we can spare one.
+[NPC Narrate] -Reffitia seals up some of the stew in a gourd and seals it with a wooden stopper. She gives it to you along with some coins.-
+[NPC] Reffitia: Thank you again, and may your path be lit!
+
+[Reward] [Money] 2107; [XP] 10800; [Item] 1, Reffitia's Savory Stew; [Faction] 15, Enkidukai
+

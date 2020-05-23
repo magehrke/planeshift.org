@@ -1,0 +1,403 @@
+[Questname] The Course of True Love
+[NPC Name] Henas Kenar
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[Need] [Item] 4, blue shan flowers; [Item] 4, nightlanterns; [Item] 2, eyebright; [Item] 12, charmflowers; [Item] 4, snowbuds; [Item] 1, scoop of flour; [Item] 2, scoop of strimptor; [Item] 10, apples;
+
+[To] Henas Kenar
+
+[NPC Internal] You look like you're not having any fun. What's wrong, soldier?
+[NPC Narrate] Henas Kenar is startled out of his reverie.
+[NPC] Henas Kenar: Oh, sorry.
+[NPC] Henas Kenar: Excuse me.
+[NPC] Henas Kenar: Henas Kenar, Private, at your service.
+[NPC] Henas Kenar: On duty.
+[NPC] Henas Kenar: Alert.
+[NPC] Henas Kenar: I am fine!
+[NPC] Henas Kenar: I am a trained Guard of the Dsar.
+[NPC] Henas Kenar: Nothing bothers me.
+[NPC] Henas Kenar: I am professional and...
+[NPC] Henas Kenar: Unemotional.
+[NPC Narrate] -The guard looks off in the distance and sighs wistfully.-
+[NPC Internal] You're about as unemotional as Levrus when he sees purple. What's wrong? Can I help you with something?
+[NPC] Henas Kenar: Well.
+[NPC] Henas Kenar: Since it has nothing to do with my official duties as a guard.
+[NPC] Henas Kenar: Perhaps you can.
+[NPC] Henas Kenar: Are you willing to help me get a message to someone?
+[NPC Internal] Brado is out of beer mugs, so I can't get a drink. All right, I will help you. What do you need?
+[NPC Narrate] -The young guard lowers his voice and turns slightly away from the Guard across from him.-
+[NPC] Henas Kenar: I want to send a message, the right kind of message!
+[NPC] Henas Kenar: To a local merchant.
+[NPC] Henas Kenar: Someone special.
+[NPC] Henas Kenar: Someone elegant, discerning...
+[NPC Narrate] Henas Kenar sighs again and his whiskers droop.
+[NPC] Henas Kenar: Someone who doesn't even know I exist...
+[NPC Narrate] Henas Kenar sighs again and looks at you for help.
+[NPC Internal] I knew it! It's an Enkidukai, isn't it? I can always tell. Yes, I will help you. I know what love is like... Who's the lucky lady?
+[NPC Narrate] Henas Kenar sighs as if his heart would break.
+[NPC] Henas Kenar: She is as beautiful as her wares- she's a simple merchant but she's so, unique, so fresh, so delicate, with such a beautiful smile!
+[NPC] Henas Kenar: Find out what she likes, will you, and help me pick out the perfect gift to, well..
+[NPC] Henas Kenar: To introduce myself.
+[NPC Internal] What's her name, Henas?
+[NPC Narrate] -The Guard starts to look excited.-
+[NPC Narrate] -His eyes widen and a smile washes over his mouth.-
+[NPC] Henas Kenar: It is amazing!
+[NPC] Henas Kenar: I don't even know her name!
+[NPC] Henas Kenar: I see her everyday as I patrol, but, of course, I am on duty then.
+[NPC] Henas Kenar: She does smile at me, though.
+[NPC] Henas Kenar: Every day.
+[NPC] Henas Kenar: Such a smile!
+[NPC Narrate] Henas Kenar glances at the guard next to him.
+[NPC] Henas Kenar: I have to stop talking now.
+[NPC] Henas Kenar: Good luck and thank you!
+[NPC Internal] But how? Oh, never mind. I can find her I'm sure. I will ask around.
+[NPC Narrate] Henas Kenar nods at you surreptitiously and stands at attention.
+[NPC Narrate] -The Enkidukai glances at his superior who happens to turn away just then.-
+[NPC Narrate] Henas Kenar whispers to you.
+[NPC] Henas Kenar: Try asking Chired Idelall, the alchemist.
+[NPC] Henas Kenar: She knows everyone in Ojaveda.
+
+[To] Chired Idelall
+
+[NPC Internal] Henas told me to find you.
+[NPC Narrate] -The ancient woman looks up from her work and appraises you.-
+[NPC Narrate] -Slowly a smile spreads across her face, an exquisite, knowing smile for one so old.-
+[NPC Narrate] -She tilts her head and speaks in a dulcet tone.-
+[NPC] Chired Idelall: Well, well, well.
+[NPC] Chired Idelall: Has our handsome young Guard finally decided to stop smiling and actually start talking to her?
+[NPC Internal] How did you know that Henas was looking for a special lady? Do you know her name?
+[NPC] Chired Idelall looks at you long enough to make you fidget. She smiles again
+[NPC] Chired Idelall: Alchemists are trained to sense the energy of living things.
+[NPC] Chired Idelall: When the blood is hot in the veins, then emotions run high.
+[NPC] Chired Idelall: Every day I see Henas marching to his post, looking over his shoulder and sighing.
+[NPC] Chired Idelall: It is not hard to tell he is smitten, poor man.
+[NPC Internal] Henas wants to give her a present, something special and unique. Do you know her name?
+[NPC] Chired Idelall: I know many names.
+[NPC] Chired Idelall: But be discerning and discreet, Klyros, the Enkidukai in question is known to be hard to please.
+[NPC] Chired Idelall: Look down toward the Gate to the Dsar area...
+[NPC] Chired Idelall: But my advice to you is to try not to barge into your question.
+[NPC] Chired Idelall: If you wish to succeed on the Guard's behalf, you may wish to say something less...blunt than, "Henas wants to give you a present, pretty lady."
+[NPC Narrate] Chired Idelall winks at you.
+[NPC Internal] Did that sound too blunt? I'm not very good at small talk. Where can I learn to be less blunt so I can succeed and help that young Guard Henas?
+[NPC] Chired Idelall: I think you might start with Madame Toda.
+[NPC] Chired Idelall: She is very charming herself.
+[NPC] Chired Idelall: Perhaps a bit of her great charisma might rub off on you.
+[NPC] Chired Idelall: And...
+[NPC Narrate] Chired Idelall's eyes twinkle in her wrinkled face.
+[NPC] Chired Idelall: If you want to succeed in persuading people, then her lessons might be useful to you in other ways.
+[NPC] Chired Idelall: Good luck helping our young Guard meet the woman of his dreams!
+
+[To] Toda Ombretis
+
+[NPC Internal] Madame Toda, can I ask for your advice? I am trying to help a friend who wishes to meet a certain young lady in a polite manner. I don't know her name, but she's a merchant in the Dsar. Would you please be willing to help me?
+[NPC Narrate] Toda Ombretis looks at you with a growing grin.
+[NPC] Toda Ombretis: Tsk, tsk, tsk!
+[NPC] Toda Ombretis: Why aren't people taught the gentle arts of manners and charm, I wonder?
+[NPC] Toda Ombretis: Yes, Klyros I will try to help you.
+[NPC] Toda Ombretis: First you must find out two things.
+[NPC] Toda Ombretis: This person's name, of course.
+[NPC] Toda Ombretis: It would not do to profess the attraction of a person to another and get it wrong, now would it?!
+[NPC] Toda Ombretis: So, first the name.
+[NPC] Toda Ombretis: Tell me what you know.
+[NPC Internal] The young man in question passes the young Enkidukai everyday on his way to his post..um, his job. She smiles back but they never speak. He says she has a beautiful smile. He wants to find out what she likes and get her a present that will impress her and be a way to introduce himself.
+[NPC Narrate] Toda Ombretis listens carefully.
+[NPC Narrate] -She nods occasionally at your story.-
+[NPC] Toda Ombretis: You are kind to try to help your friend.
+[NPC] Toda Ombretis: Well, I see Henas is finally going to make his move!
+[NPC] Toda Ombretis: It has taken him cycles and cycles, the sweet young Enkidukai, like another I know...
+[NPC] Toda Ombretis smiles again and blushes a bit.
+[NPC] Toda Ombretis: This silent romance is the talk of the Dsar.
+[NPC] Toda Ombretis: The only question is does the young lady actually like Henas?
+[NPC] Toda Ombretis: Now, how shall we discover that, Klyros?
+[NPC Internal] I was hoping you would know how to discover that, Madame Toda. Would you please help me?
+[NPC] Toda Ombretis: Of course, I will help you!
+[NPC] Toda Ombretis: Ah!
+[NPC] Toda Ombretis: Young love!
+[NPC] Toda Ombretis: First, I know a sure way to charm the lady in question, that she might feel comfortable talking with you on behalf of Henas.
+[NPC] Toda Ombretis: Flowers!
+[NPC] Toda Ombretis: Go and gather some lovely flowers for the lady, let me see, a nice bouquet, not too pretentious, but rare enough to imply that you think she herself is a fair and rare flower.
+[NPC] Toda Ombretis: It's subtle and charming!
+[NPC] Toda Ombretis: Get four blue shan flowers, four nightlanterns, my they are pretty, two eyebright, and oh, perhaps a dozen charmflowers.
+[NPC] Toda Ombretis: Come back when you have them all.
+[NPC] Toda Ombretis: Come back quickly!
+[NPC] Toda Ombretis: No one is impressed by wilted flowers.
+[NPC] Toda Ombretis: While you are gone I will ask around, and see if we can discover the Enkidukai's impression of your silent young suitor.
+[NPC Internal] Blue Shan Flowers? Eyebright plants? I've never heard of these. Where are they?
+[NPC Narrate] Toda Ombretis laughs a sparkling trill.
+[NPC] Toda Ombretis: All over!
+[NPC] Toda Ombretis: I tell you what, go ask Selisar.
+[NPC] Toda Ombretis: He's a miner and knows these hills.
+[NPC] Toda Ombretis: He can perhaps tell you where to pluck your pretty persuaders!
+
+[To] Selisar Zeinifa
+
+[NPC Internal] Are you Selisar, the miner? Madame Toda said you might tell me where to find some flowers. I am looking for blue shan flowers, nightlanterns, eyebright, and charmflowers. Would you please help me?
+[NPC Narrate] -The Enkidukai looks at you with amusement, then nods and reels off the information.-
+[NPC] Selisar Zeinifa: Blue Shan, go to Shandrock's Crater and watch out for the beasts.
+[NPC] Selisar Zeinifa: Take a sword or a strong mage with you.
+[NPC] Selisar Zeinifa: No good ores there.
+[NPC] Selisar Zeinifa: Look near the cave, but watch your back.
+[NPC] Selisar Zeinifa: Nightlanterns grow wild on the road between here and Hydlaa, near the Dermorian farmer who has kormi.
+[NPC] Selisar Zeinifa: Eyebrights are rare, but you can often find them near the gold mine, well, over the hills from the gold.
+[NPC] Selisar Zeinifa: Charmflowers are in the Ruins, near Gugrontid.
+[NPC] Selisar Zeinifa: Might as well get a good handful of snowbuds while you're there.
+[NPC] Selisar Zeinifa: Look around the corner from the tin mine.
+[NPC] Selisar Zeinifa: If you get to the copper mines, you've gone too far.
+[NPC] Selisar Zeinifa: That's it.
+[NPC] Selisar Zeinifa: Good hunting, Klyros.
+
+[To] Toda Ombretis
+
+[NPC Internal] I ran as fast as I could, so they wouldn't wilt. Here are your flowers!
+[NPC Narrate] Toda Ombretis holds up her hands
+[NPC] Toda Ombretis: One at a time!
+[NPC] Toda Ombretis: Don't be in such a hurry!
+[NPC] Toda Ombretis: Now, first hand me the blue shan flowers.
+[NPC Internal] Here they are.
+[NPC] Toda Ombretis: These are brilliantly blue!
+[NPC Narrate] Toda Ombretis begins to bundle the flowers into two bouquets.
+[NPC] Toda Ombretis: I'll make two bouquets so your suitor might give one to his darling after you give her one to prepare the way.
+[NPC] Toda Ombretis: Now the nightlanterns.
+[NPC Internal] Here are the nightlanterns.
+[NPC] Toda Ombretis: Yes, yes, see how their deep red compliments the blue shans?
+[NPC] Toda Ombretis: Next the charmflowers, they are so lovely, loaded with charisma!
+[NPC Internal] The twelve charmflowers, here you are.
+[NPC] Toda Ombretis: And now eyebrights.
+[NPC] Toda Ombretis: Just one in each bunch.
+[NPC Internal] And here are the two eyebrights.
+[NPC Narrate] Toda Ombretis admires her work, then frowns.
+[NPC] Toda Ombretis: This doesn't look quite right.
+[NPC] Toda Ombretis: It needs, something, to tie it together...
+[NPC] Toda Ombretis: I know, snowbuds!
+[NPC] Toda Ombretis: Yes, Yes!
+[NPC] Toda Ombretis: Did you happen to gather snowbuds?
+[NPC Internal] Snowbuds? No! You didn't mention snowbuds!
+[NPC Narrate] Toda Ombretis pouts a little.
+[NPC] Toda Ombretis: If you or your suitor friend wants to impress someone, you must think ahead, listen carefully, and use your own judgment.
+[NPC] Toda Ombretis: Be prepared for love's little surprises and love may find you!
+[NPC] Toda Ombretis: Now, get a few snowbuds, four should be plenty.
+[NPC] Toda Ombretis: Scoot!
+[NPC Internal] Here are the Snowbuds, finally.
+[NPC] Toda Ombretis: Excellent!
+[NPC] Toda Ombretis: Yes, picking up on subtle clues is importance in any romance.
+[NPC Narrate] -She adds the Snowbuds carefully and holds up both bouquets, sniffing them and turning them all around.-
+[NPC] Toda Ombretis: Yes, large enough to impress, tasteful enough to be respectful, intimate enough to be modestly suggestive.
+[NPC] Toda Ombretis: And alive with charm!
+[NPC] Toda Ombretis: Just the right thing to persuade the heart!
+[NPC] Toda Ombretis: Now, off you go to the lady love!
+[NPC] Toda Ombretis: Oh, and here is a note of introduction from me, so the lady will know you are not a cad from Hydlaa trying to prey on the affections of young Enkidukai.
+[NPC] Toda Ombretis: Tata and good luck to you both in your quest for true love!
+[NPC Internal] True love...Madame Toda, just exactly who is Henas' true love?
+[NPC Narrate] -Again Toda laughs her sparkling laugh-
+[NPC] Toda Ombretis: That, I did not discover.
+[NPC] Toda Ombretis: But I -did- discover who knows who Henas heart's desire is.
+[NPC] Toda Ombretis: Do you know the alchemist, Chired?
+[NPC] Toda Ombretis: I am sure she knows the identity of this seductive creature!
+[NPC] Toda Ombretis: Now scoot, and good fortune to you!
+
+[To] Chired Idelall
+
+[NPC Internal] I'm back.
+[NPC Narrate] -She smiles her wrinkled, glowing smile-
+[NPC] Chired Idelall: Ah!
+[NPC] Chired Idelall: For me, young Klyros?
+[NPC] Chired Idelall: How wonderful!
+[NPC Narrate] Chired Idelall reaches for the bouquets, then stops, laughing at your surprise.
+[NPC] Chired Idelall: Worry not, worry not.
+[NPC] Chired Idelall: I am old enough to leave the guesswork of courting to those who know less about the ways of love than do I.
+[NPC] Chired Idelall: Now, flowers, Toda's suggestion?
+[NPC] Chired Idelall: She is wise in the ways of persuasion, indeed she is.
+[NPC Narrate] Chired Idelall sniffs the bouquets and nods her head approvingly.
+[NPC] Chired Idelall: How might I help you now?
+[NPC Internal] Who do I take this bouquet to? Do you know?
+[NPC] Chired Idelall: Who indeed!
+[NPC Narrate] -The alchemist pours some liquids back and forth between two vials and watches the resulting mixture sparkle in her hand.-
+[NPC] Chired Idelall: Let's see if Madame Toda's charm rubbed off on you.
+[NPC] Chired Idelall: There are three Enkidukais here in the Dsar, one Gilata Meselir, the potter, she is very talented and extremely careful in her work.
+[NPC] Chired Idelall: Somewhat shy.
+[NPC] Chired Idelall: Quite a professional artist.
+[NPC] Chired Idelall: A perfectionist.
+[NPC] Chired Idelall: The second is Celila Yasoj, the flower seller.
+[NPC] Chired Idelall: She comes from a wealthy, sophisticated family, related to the Octarch I think.
+[NPC] Chired Idelall: She hardly speaks with her brother though, some kind of family rift.
+[NPC] Chired Idelall: She often goes to the Octarch's balls, I see her in new gowns each time one ball draws nigh.
+[NPC] Chired Idelall: I think she sells flowers for something to do with her time.
+[NPC] Chired Idelall: She seems a bit bored.
+[NPC] Chired Idelall: The third is Chilye Esimar.
+[NPC] Chired Idelall: She has a strong and passionate character.
+[NPC] Chired Idelall: I am not quite sure what her job is, but she is prominent.
+[NPC] Chired Idelall: Pick the one you sense is the right one for Henas and give her the bouquet.
+[NPC] Chired Idelall: You will soon find out if you chose correctly.
+[Info] So you have the choice of Gilata Meselir, Celila Yasoj and Chilye Esimar.  Of course, I did'nt find the correct lady and had some additional tasks to do.  I don't know what happens if you give the letter and the bouquet to the correct lady (Gilata Meselir). However, here is the long run...
+
+[To] Chilye Esimar
+
+[NPC Internal] Excuse me Madame Chilye? [You hold out your Letter of Introduction.]
+[NPC Narrate] Chilye Esimar reads it and hands it back to you.
+[NPC Narrate] -She looks at you waiting for you to tell her what you want.-
+[NPC Internal] I know a friend, who would like very much to meet you. He sends you these to show his respect for you. Guard Henas wonders if you would do him the honour of meeting him for perhaps a meal or.
+[NPC] Chilye Esimar: That young Guard?
+[NPC] Chilye Esimar: Meet me for a meal?
+[NPC Narrate] Chilye Esimar laughs heartily.
+[NPC] Chilye Esimar: Meet me for a meal!!
+[NPC] Chilye Esimar: That's rare, that is.
+[NPC] Chilye Esimar: Does he want me to hunt it, skin it, and dress it too, afore we eat?
+[NPC Narrate] -She shakes her head, wiping tears from her eyes.-
+[NPC] Chilye Esimar: No, no, no.
+[NPC] Chilye Esimar: Please, please tell him that I do appreciate his...interest, but no, me date a Guard?
+[NPC] Chilye Esimar: When I dine with Officers every night?
+[NPC] Chilye Esimar: Oh, that's rare!
+[NPC Narrate] -She bursts out laughing again.-
+[NPC] Chilye Esimar: Did Vorigna Tassen put you up to this?
+[NPC Narrate] Chilye Esimar continues laughing.
+[NPC] Chilye Esimar: Tell him I appreciate his interest, and the flowers.
+[NPC] Chilye Esimar: But I fear I have to decline...for...
+[NPC] Chilye Esimar: For conflict of interest!
+[NPC Narrate] Chilye Esimar laughs again, wiping her eyes.
+[NPC Narrate] -She takes the bouquet and goes inside the mess hall, still laughing.-
+
+[To] Celila Yasoj
+
+[NPC Internal] Excuse me Madame Celila. [You hold out your Letter of Introduction.]
+[NPC Narrate] Celila Yasoj reads the letter before handing it back to you.
+[NPC] Celila Yasoj: Nice to meet you, how can I help you?
+[NPC Internal] I know a friend who would like very much to meet you. He sends you these to show his respect for you. Guard Henas wonders if you would do him the honour of meeting him for perhaps a meal or.
+[NPC] Celila Yasoj: So your Guard.
+[NPC Narrate] -She says the lowly title with some contempt.-
+[NPC] Celila Yasoj: Thinks the way to impress a flower seller is by giving her flowers?
+[NPC] Celila Yasoj: And not fresh ones at that?
+[NPC] Celila Yasoj: Tell your little friend that I am not inclined to eat Rats Stew at Brado's with a Junior Guard, not even an Officer I take it.
+[NPC] Celila Yasoj: And not even proud enough to ask me himself!
+[NPC Narrate] Celila Yasoj stamps on the bouquet.
+[NPC] Celila Yasoj: I am sorry, but I am not in the habit of accompanying vagabond labourers to dine amongst riffraff.
+[NPC] Celila Yasoj: Toda should know better than that.
+[NPC] Celila Yasoj: You may leave now and please come back only when your manners improve or when you wish to purchase my fresh flowers.
+[NPC] Celila Yasoj: Good day, Klyros.
+[NPC Narrate] Celila Yasoj turns her back on you and goes into her store tent.
+[Info] So no letters and bouquets left...
+
+[To] Chired Idelall
+
+[NPC Internal] Oh no, Chired! I picked the wrong Enkidukai! Twice! Now I am out of bouquets to give with no date for Henas to show for it. What should I do?
+[NPC] Chired Idelall: No wonder there are so few children under the feet of our citizens.
+[NPC] Chired Idelall: Well, what else beside flowers might woo a female into a date?
+[NPC] Chired Idelall: Think, young Klyros think!!
+[NPC Internal] What else? I don't know! Maybe a yulbar? Or an enchanted sword? Oh! I know!! How about something sweet??
+[NPC Narrate] Chired Idelall gives you a gentle swat up the side of your head.
+[NPC] Chired Idelall: That's using your brains, Klyros.
+[NPC] Chired Idelall: Good for you!
+[NPC] Chired Idelall: Go see if Reffitia Thamal might make something sweet for your Henas' sweetheart!
+
+[To] Reffitia Thamal
+
+[NPC Internal] Can you make a something sweet? A present for an Enkidukai so she will know the someone likes her and will go with them on a date, to dinner maybe?
+[NPC] Reffitia Thamal: My, my, my!
+[NPC Narrate] Reffitia Thamal looks at you with great amusement.
+[NPC] Reffitia Thamal: It sounds serious!
+[NPC] Reffitia Thamal: Almost an emergency.
+[NPC] Reffitia Thamal: All right, I will make you a Cinnamon and Sugar Sweet Apple Brandy Pie.
+[NPC] Reffitia Thamal: Go get me one scoop of flour, two scoops of strimptor, and 10 fresh apples.
+[NPC] Reffitia Thamal: I will get the Brandy from Brado, and I have Cinnamon.
+[NPC] Reffitia Thamal: Oh and get some ribbons from Jirosh, so I can tie the pie up real fancy for when you deliver the delight!
+[NPC] Reffitia Thamal: Off with you!
+[NPC] Reffitia Thamal: Don't let this blooming love grow cold, Klyros!
+
+[To] Jirosh Mikana
+
+[NPC Internal] Jirosh, do you have ribbons? I need some. Quick!
+[NPC Narrate] Jirosh Mikana winks at you.
+[NPC] Jirosh Mikana: Ah!
+[NPC] Jirosh Mikana: To impress your newest love?
+[NPC] Jirosh Mikana: Here, here are two very fine arangma silk silk yellow ribbons.
+[NPC] Jirosh Mikana: They aren't cheap, I warn you.
+[NPC] Jirosh Mikana: One hundred fifty tria each, that is three hundred tria for both ribbons.
+[NPC] Jirosh Mikana: If you want them, hand the three hundred tria over.
+[NPC Internal] Three hundred tria! It's a deal to be done with this errand.
+[NPC] Jirosh Mikana: Thank you.
+[NPC] Jirosh Mikana: May your love become as beautiful as these ribbons, tabei.
+
+[To] Reffitia Thamal
+
+[NPC Internal] All the sweet stuff is here Reffitia.
+[NPC Narrate] Reffitia Thamal has a spoon in one hand, and is tending a small simmering pot of brandy and cinnamon, while keeping an eye on a pot about to boil.
+[NPC Narrate] -Three measures of sweet butter sit on the table by her large mixing bowl-
+[NPC] Reffitia Thamal: Good!
+[NPC] Reffitia Thamal: One by one, tabei!
+[NPC] Reffitia Thamal: First, hand me the apples.
+[NPC Internal] Here you are, Reffitia, ten apples.
+[NPC] Reffitia Thamal: Good, I have some lying about.
+[NPC] Reffitia Thamal smiles.
+[NPC] Reffitia Thamal: But always nice to get others.
+[NPC] Reffitia Thamal: Now, I will peel the skins as soon as they are blanched.
+[NPC] Reffitia Thamal: Now the strimptor...
+[NPC Internal] Here are the two scoops of strimptor.
+[NPC Narrate] Reffitia Thamal measures by eye and carefully pours the sweetener into the mixture.
+[NPC] Reffitia Thamal: Smell that!
+[NPC] Reffitia Thamal: So sweet!
+[NPC] Reffitia Thamal: Now, finally, the flour!
+[NPC Internal] And here is the flour.
+[NPC] Reffitia Thamal: Alright!
+[NPC] Reffitia Thamal: You have the ribbons, I see.
+[NPC] Reffitia Thamal: Thank you.
+[NPC Narrate] Reffitia Thamal waits for you to hand them over.
+[NPC Internal] I got this ribbon.
+[NPC] Reffitia Thamal: Alright, tabei!
+[NPC] Reffitia Thamal: Come back in an hour and your sweet pie will be ready to work its magic on your sweetie pie!
+[Info] You have to wait for 15 minutes.
+[NPC Internal] Is it time for pie, Reffitia?
+[NPC] Reffitia Thamal: Anxious aren't you, Klyros?
+[NPC] Reffitia Thamal: Yes your prize pie's ready, still a bit warm, but so fragrant!
+[NPC] Reffitia Thamal: Smell!
+[NPC] Reffitia Thamal: Don't worry about paying for it, since pie is such a thoughtful gift for your true love's tummy.
+[NPC] Reffitia Thamal: I hope your sweetheart enjoys a stomach full of sweetness!
+[NPC] Reffitia Thamal: Take care while you carry it, tabei!
+
+[To] Gilata Meselir
+
+[NPC Internal] Excuse me Madame Gilata. [You hold out your Letter of Introduction.]
+[NPC Narrate] Gilata Meselir reads it.
+[NPC] Gilata Meselir: Toda's wonderful isn't she, what can I do for you?
+[NPC Internal] I know a friend who would like very much to meet you. He sends you this gift to show his respect for you. [You hand her the Pie.]
+[NPC Narrate] Gilata Meselir smiles a lovely warm smile that lights up the sky around you.
+[NPC] Gilata Meselir: You must be a dear friend to go to such trouble.
+[NPC] Gilata Meselir sticks her pinky into a dripping hunk of pie and licks it, beaming with delight.
+[NPC] Gilata Meselir: This pie is wonderful.
+[NPC] Gilata Meselir: Is it from that handsome Guard, I think Chired told me his name is Henas?
+[NPC] Gilata Meselir: I see him every day, and every day as he walks by, he gives me such a warm smile.
+[NPC] Gilata Meselir: But he never speaks.
+[NPC] Gilata Meselir: Perhaps he is as shy as I am.
+[NPC] Gilata Meselir: I am usually so intent on my work at the wheel, each vase and bowl needs to be perfect you know!
+[NPC] Gilata Meselir: And before I can even rinse my hands of the clay to say hello, he is gone.
+[NPC] Gilata Meselir: I was hoping some day he would speak to me!
+[NPC] Gilata Meselir: Please tell him I would enjoy very much a shared meal.
+[NPC] Gilata Meselir: Well, please tell him Yes!
+[NPC Narrate] Gilata Meselir's fur fairly glows with electric energy.
+[NPC] Gilata Meselir: And perhaps, tabei, you and I might also share a slice of pie.
+[NPC] Gilata Meselir: For now, tell the Guard Henas I look forward to our date!
+[NPC Narrate] Gilata Meselir winks at you and giggles again.
+
+[To] Henas Kenar
+
+[NPC Internal] Henas, she said yes! Her name is Gilata! and I asked if she would have dinner with you, and she said yes! She said she's looking forward to your date! But here, [you hand Henas the two ribbons] Just clean this up a little and tie them around something, and there's your present to her!
+[NPC] Henas Kenar: She, she said yes?
+[NPC] Henas Kenar: She is so talented and her artistry with the pottery is, well, breathtaking.
+[NPC] Henas Kenar: She said yes?
+[NPC] Henas Kenar: Really!
+[NPC] Henas Kenar: Praise the Gods!
+[NPC] Henas Kenar: As soon as I get off my post I will go right down and give her these ...
+[NPC] Henas Kenar: ribbons.
+[NPC] Henas Kenar: Oh I can't thank you enough, Klyros.
+[NPC] Henas Kenar: Here, here, take this as a reward!
+[NPC] Henas Kenar: Oh and this was turned in to our post many months ago.
+[NPC] Henas Kenar: No one has claimed it so you can have it.
+[NPC] Henas Kenar: Thank you again and again!
+[NPC] Henas Kenar: I can't wait to get off work and go see her.
+[NPC] Henas Kenar: Gilata you said?
+[NPC] Henas Kenar: Gilata!
+[NPC] Henas Kenar: Gilata!
+[NPC Narrate] -The other Guard looks sternly toward Henas who immediately stands at attention, hiding the bouquet behind his back. Henas winks at you and silently mouths the words "thank you!"-
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Purify Glyph; [Faction] 10, Guard
+

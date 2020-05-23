@@ -1,0 +1,140 @@
+[Questname] Party of Rogues
+[NPC Name] Filch
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Nyshyn's Silver Signet; [Money] 1000
+
+[To] Filch
+
+[NPC Internal] Can I help you out in any way?
+[NPC Narrate] -Filch snorts and turns to his associates.-
+[NPC] Filch: This kind Sir wants to help us.
+[NPC Narrate] -The group laughs in unison.-
+[NPC] Filch: Well…
+[NPC] Filch: you look like you could be useful for something.
+[NPC Narrate] -Filch pauses for a moment, looking you up and down.-
+[NPC] Filch: I haven't yet figured out what though.
+[NPC Narrate] -Filch chuckles a bit and shakes his head, then his beady eyes lock with yours.-
+[NPC] Filch: Let's see then…
+[NPC] Filch: As you probably know, us 'shady' types tend to enjoy the drinking of beer…
+[NPC] Filch: and such.
+[NPC Narrate] -Filch grins at his own joke.-
+[NPC] Filch: My associates and I were planning a little…
+[NPC Narrate] -Filch appears to struggle for the right words.-
+[NPC] Filch: let's call it a 'get-together', and we're in desperate need of supplies.
+[NPC Narrate] -Filch glares at you frostily.-
+[NPC] Filch: And by supplies, I mean beer!
+[NPC Narrate] -Once again, the group laughs in unison.-
+[NPC] Filch: Go get us four kegs of beer.
+[NPC] Filch: No wait!
+[NPC] Filch: Make it five!
+[NPC] Filch: We want five kegs of beer!
+[NPC Narrate] -The group cheers wildly at Filch's change of mind.-
+[NPC] Filch: We don't care how you acquire them, just make it snappy.
+[NPC] Filch: Go.
+[NPC] Filch: Now.
+
+[To] Allelia Symiestra
+
+[NPC Internal] Will you sell me five beer kegs?
+[NPC] Allelia: Five whole kegs?
+[NPC Narrate] -Allelia grins.-
+[NPC] Allelia: You must you must be throwing a really big party to need all that beer.
+[NPC Narrate] -Allelia laughs lightly then shrugs her shoulders.-
+[NPC] Allelia: Well you're in luck.
+[NPC] Allelia: I just got a new shipment in and I'm a bit over-stocked.
+[NPC] Allelia: It will be awfully expensive though, two-hundred trias per keg.
+[NPC] Allelia: I'm not sure how you will manage to carry them all, either.
+[NPC] Allelia: They are extremely heavy.
+[NPC] Allelia: You may have to make several trips or you could gather some people to help you.
+[NPC] Allelia: Oh…
+[NPC Narrate] -Allelia's cheeks turn bright red.-
+[NPC] Allelia: Please excuse me, Sir.
+[NPC] Allelia: I'm babbling again aren't I?
+[NPC Narrate] -Allelia laughs nervously.-
+[NPC] Allelia: Anyway…
+[NPC] Allelia: just give me the thousand tria for the kegs and I will give them to you one at a time.
+[NPC Internal] Here's the money you asked for.
+[NPC] Allelia: Thank you, Sir.
+[NPC] Allelia: The first keg is over here.
+[NPC Narrate] -Allelia directs you behind the bar where you pick up the keg.-
+[NPC] Allelia: When you want the next keg just ask me for the next one.
+
+[To] Filch
+
+[NPC Internal] Here's your first keg. The rest will follow shortly.
+[NPC] Filch: Well..
+[NPC] Filch: what have we here?
+[NPC] Filch: One keg of beer.
+[NPC Narrate] -Filch nods slowly.-
+[NPC] Filch: It's a fair start.
+[NPC] Filch: Here, have a lovely pie.
+[NPC] Filch: You'll need the sustenance to carry the other four kegs here.
+[NPC] Filch: Go.
+
+[To] Allelia Symiestra
+
+[NPC Internal] I'm ready for the next keg now.
+[NPC] Allelia: Okay then, the second keg is over here.
+[NPC Narrate] -Allelia directs you behind the bar where you pick up the keg.-
+
+[To] Filch
+
+[NPC Internal] Here's another keg.
+[NPC] Filch: That's two kegs…
+[NPC Narrate] -Filch waves you away.-
+[NPC] Filch: Go on, go get the other three.
+
+[To] Allelia Symiestra
+
+[NPC Internal] I'd like to pick up my next keg.
+[NPC] Allelia: Okay then, the third keg is over here.
+[NPC Narrate] -Allelia directs you behind the bar where you pick up the keg.-
+
+[To] Filch
+
+[NPC Internal] This is pretty exhausting work.
+[NPC] Filch: Three kegs, hey?
+[NPC Narrate] -Filch chuckles.-
+[NPC] Filch: That should get us through to supper but we need the other two.
+[NPC] Filch: Go on…
+[NPC] Filch: git.
+[NPC Narrate] -The group laughs at you.-
+
+[To] Allelia Symiestra
+
+[NPC Internal] Have you got the fourth keg ready for me?
+[NPC] Allelia: Okay then, the fourth keg is over here.
+[NPC Narrate] -Allelia directs you behind the bar where you pick up the keg.-
+
+[To] Filch
+
+[NPC Internal] I've brought another keg.
+[NPC] Filch: Four kegs…
+[NPC] Filch: we are one keg away from a party, delivery boy.
+[NPC Narrate] -Filch waves you away.-
+[NPC] Filch: Go on, go get the last one.
+
+[To] Allelia Symiestra
+
+[NPC Internal] I'm here to pick up the last keg.
+[NPC] Allelia: Okay then, the fifth keg is over here.
+[NPC Narrate] -Allelia directs you behind the bar where you pick up the keg.-
+[NPC] Allelia: Thank you for all of your business, Sir.
+[NPC] Allelia: I would be more than happy to help you out with your next party too.
+[NPC Narrate] -Allelia smiles and winks at you.-
+
+[To] Filch
+
+[NPC Internal] Last one!
+[NPC] Filch: There we go!
+[NPC] Filch: Five kegs!
+[NPC] Filch: I guess you're not completely useless after all, Ylian.
+[NPC Narrate] -Filch feigns a thoughtful expression.-
+[NPC] Filch: I guess we don't HAVE to kill you…
+[NPC Narrate] -Filch breaks out into laughter which quickly spreads amongst the other rogues. Filch reaches into a pouch and retrieves some coins.-
+[NPC] Filch: Take this and get out of here before we change our minds.
+
+[Reward] [Money] 7310; [XP] 15000; [Item] 1, Pie; [Faction] 30, Thieves Organization
+

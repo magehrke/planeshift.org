@@ -1,0 +1,30 @@
+[Questname] Levrus Rat Eye
+[NPC Name] Levrus Dahrenn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Item] 16, Rat Eyes
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Are there any jobs you need done?
+[NPC] Levrus: Ah, yes.
+[NPC] Levrus: I often need new ingredients for making potions and experiments.
+[NPC] Levrus: Today I need some rat eyes.
+[NPC] Levrus: Sixteen for the bubbly potion.
+[NPC] Levrus: No more, no less!
+[NPC] Levrus: Can you get them?
+[NPC Internal] Yes, I don't mind getting my hands on some eyes for you.
+[NPC] Levrus: Good.
+[NPC] Levrus: My thanks, and hurry back with the sixteen eyes.
+[NPC] Levrus: Potions await!
+[NPC Internal] Here are your sixteen Rat Eyes.
+[NPC] Levrus: Ahh, the rat eyes!
+[NPC] Levrus: Careful, now.
+[NPC] Levrus: They're delicate things.
+[NPC] Levrus: Choose your reward wisely.
+[NPC] Levrus: You may only have one!
+
+[Reward] [XP] 8000; [OR Begin] [Item] 1, Cold glyph [OR] [Item] 1, Arrow glyph [OR] [Item] 1, Energy glyph [OR End]
+

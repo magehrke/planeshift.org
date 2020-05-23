@@ -1,0 +1,38 @@
+[Questname] Becoming an Azure Way Adept
+[NPC Name] Vorigna Tassen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Azure Way Glyph Training; [Item] 1, Apprentice's Azure Way Wand; [Skill] 40, Azure Way; [Item] 1, Sleep glyph
+
+[Info] You get the glyph back.
+
+[To] Vorigna Tassen
+
+[NPC Internal] Please accept my Way Wand as proof of being a student.
+[NPC] Vorigna: And so the student returns.
+[NPC Narrate] -Vorigna looks out towards the road before handing your wand back.-
+[NPC] Vorigna: Did you manage to get the Sleep Glyph I asked you to study?
+[NPC Internal] I have the glyph!
+[NPC] Vorigna: Great!
+[NPC] Vorigna: The sleep glyph is very powerful, and every Azure Way expert should possess one.
+[NPC] Vorigna: Now, let's test a bit your knowledge.
+[NPC] Vorigna: I need you to tell me what is the name of the spell produced by the Sleep glyph.
+[NPC Internal] relaxing sleep
+[NPC] Vorigna: Correct, It is good for reinvigorating, especially between long shifts or travels.
+[NPC] Vorigna: Congratulations YOU, you have passed the second part of my testing.
+[NPC Narrate] -Vorigna pulls out her list.-
+[NPC] Vorigna: Here the apprentice final item.
+[NPC Narrate] -Vorigna smiles as she hands you a cloak.-
+[NPC] Vorigna: Check.
+[NPC] Vorigna: This cloak completes your set.
+[NPC] Vorigna: Your testing with me is complete.
+[NPC] Vorigna: However, you will have to train with me to the extent of my abilities.
+[NPC] Vorigna: Once I can no longer train you, you will seek out Axomir for your next test.
+[NPC] Vorigna: You will need to hand Axomir two wands, one belonging to you and one from a fellow student.
+[NPC] Vorigna: Each Circle requires this of its students to prove that they not only have the respect of their teachers, but also that of their fellow students.
+[NPC] Vorigna: After you give Axomir the two Azure Way Wands, he will advance you into the next level of testing and give you a new wand.
+[NPC] Vorigna: You will return the other Lower wand to the person who loaned it to you.
+
+[Reward] [XP] 9400; [Item] 1, Apprentice's Azure Way Robe; [Faction] 10, Azure Order
+

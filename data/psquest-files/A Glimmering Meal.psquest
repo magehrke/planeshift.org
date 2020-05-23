@@ -1,0 +1,46 @@
+[Questname] A Glimmering Meal
+[NPC Name] Boilghere
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] And Thus They Learn; [Item] 1, Green Jasper Crystal
+
+[Info] You get the Green Jasper Crystal from the And Thus They Learn quest.
+
+[To] Boilghere
+
+[NPC Internal] Is there something you need help with?
+[NPC Narrate] -Boilghere observes you for a moment. From time to time he clenches his hands, as if trying to grasp something.-
+[NPC] Boilghere: If you come to help, then you come at the right time.
+[NPC Narrate] -Boilghere hand rubs his mouth with a quiet scraping sound.-
+[NPC] Boilghere: I was about to prepare a meal, but it troubles my mind what sort of crystal should I use for that.
+[NPC] Boilghere: Same meal each day does not make a good cook.
+[NPC] Boilghere: I need something new.
+[NPC] Boilghere: I need something refreshing, like a breeze blowing from another place.
+[NPC Narrate] -Boilghere entwines his hands, keeping them together firmly.-
+[NPC] Boilghere: If you bring me a rare gem, surely there will be a reward.
+[NPC] Boilghere: Will you try to find one for me?
+[NPC Internal] Of course I'll help you!
+[NPC] Boilghere: Then go and bring me what you find.
+[NPC Narrate] -Boilghere rubs his mouth.-
+[NPC] Boilghere: Remember that the gem has to be rare.
+
+[Give] Boilghere; 1, Green Jasper Crystal
+
+[NPC Internal] Well, I do have this, will it work?
+[NPC] Boilghere: What is this?
+[NPC Narrate] -Boilghere inspects the crystal.-
+[NPC] Boilghere: A Green Jasper Crystal!
+[NPC] Boilghere: I haven't seen one of those for a very long time.
+[NPC Narrate] -Boilghere rubs his mouth again.-
+[NPC] Boilghere: Yes, yes.
+[NPC] Boilghere: This one will do.
+[NPC] Boilghere: Now I only need to recall how to prepare it…
+[NPC Narrate] -Boilghere turns his head in your direction.-
+[NPC] Boilghere: I promised you a reward, yes, I know.
+[NPC] Boilghere: Here you go.
+[NPC Narrate] -Boilghere hands you a bag of diamonds.-
+[NPC] Boilghere: I hope they will be of use to you.
+
+[Reward] [XP] 16400; [Item] 1, Diamond Crystal; [Faction] 35, Seeds of Wildwood
+

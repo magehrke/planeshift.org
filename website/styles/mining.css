@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* CSS Script for way training section */
+
+.mines_main_table {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 0px;
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-bottom: 10px;
+
+}
+
+	.mines_main_table th {
+		width: 200px;
+	}
+
+	.mines_main_table img {
+		height: 30px;
+	}

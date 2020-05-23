@@ -1,0 +1,97 @@
+[Questname] Ore and ore and ore
+[NPC Name] Fholen Medraa
+[Checkup] 2017-04-01
+[Authors] Huarwar Eruera
+[Repeatable] Yes
+
+[Need] [Quest] Basics of Mining
+[Need] [Way 1] [Item] 30, Ruby Crystal; [Item] 30, Sapphir Crystal
+[Need] [Way 2] [Item] 36, Iron Ore; [Item] 4, Coal Lump
+[Need] [Way 3] [Item] 25, Copper Ore; [Item] 10, Tin Ore; [Item] 15, Coal Lump
+[Need] [Way 4] [Item] 25, Copper Ore; [Item] 25, Tin Ore
+
+[To] Fholen Medraa
+
+[NPC Internal] Hello, anything I can help you with?
+[NPC] Fholen: Yes there is actually.
+[NPC] Fholen: I often have urgent special orders for ores and gems, and I'm sure there are times I'll not be able to fill them in the time I promised.
+[NPC] Fholen: If you help me with some of these you can keep all they pay for yourself.
+[NPC Internal] Yes ok, I like the sound of that.
+
+[Possible Ways] 4
+
+[Way] 1
+
+[NPC] Fholen: I have a rather large order for rubies and sapphires.
+[NPC] Fholen: I would like you to deliver 30 of both to Levrus in the magic shop.
+[NPC] Fholen: I think are technically for Niala but he takes all her order.
+[NPC] Fholen: Seems fine with it as well, if you can believe it...
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I have the ores you requested from Fholen.
+[NPC ME] Levrus Dahrenn sighs.
+[NPC] Levrus: ...
+[NPC] Levrus: More gems being delivered for the so called Niala...
+[NPC] Levrus: If that is her name...
+[NPC] Levrus: I was told to tell you these are for you.
+[NPC ME] Levrus Dahrenn hands you what seem to be tria.
+
+[Way] 2
+
+[NPC] Fholen: Good, right now I need you to gather 36 iron ores and 4 coal lumps.
+[NPC] Fholen: For some reason Trasok over in Ojaveda sent a message requesting them from me.
+[NPC] Fholen: I can't work out why someone closer wasn't asked.
+[NPC] Fholen: But I won't complain, despite the payment being yours this time.
+[NPC] Fholen: The mine I normally go to is just out side the city gates towards Gugrontid.
+[NPC] Fholen: Just over the hills to the right as you pass to of the forest you should be able to find an iron and coal mine.
+
+[To] Trasok Starhammer
+
+[NPC Internal] I have the ores you requested from Fholen.
+[NPC] Trasok: Thank you very much..
+[NPC] Trasok: uh..
+[NPC] Trasok: Klyros.
+[NPC] Trasok: I was hoping that Fholen would be as prompt with the delivery as he has been.
+[NPC] Trasok: These are the tria I promised him payment.
+
+[Way] 3
+
+[NPC ME] Fholen Medraa pulls out a note he was reading before you approached.
+[NPC] Fholen: I have an order from Belcor in Gugrontid.
+[NPC] Fholen: I need you to gather 25 copper ores, 10 tin ores, and 15 coal lumps and deliver them to kra.
+[NPC] Fholen: Apparently kra is trying to prepare a surprise dinner for someone and doesn't have enough supplies.
+
+[Give] Belcor Krakko; 25, Copper Ore; 10, Tin Ore; 15, Coal Lump
+
+[NPC Internal] I have the ores and coal you requested from Fholen.
+[NPC ME] Belcor Krakko seems to have just finished eating some coal.
+[NPC] Belcor: Oh, hello...
+[NPC] Belcor: Oh!
+[NPC] Belcor: Ores and coal.
+[NPC] Belcor: So payment, here you are.
+[NPC ME] Belcor Krakko hand you some tria.
+
+[Way] 4
+
+[NPC] Fholen: So I just received an order from Harnquist who needs some ores to make some bronze stocks.
+[NPC] Fholen: If you could get 25 tin and 25 copper and deliver them to him to fill the order that would be great.
+[NPC] Fholen: Oh, and that will all be a little heavy so be sure you can manage it if you try doing it in one trip.
+
+[Give] Harnquist; 25, Copper Ore; 25, Tin Ore
+
+[NPC Internal] I have the ores you requested from Fholen.
+[NPC] Harnquist: Good, great..
+[NPC] Harnquist: thank you.
+[NPC] Harnquist: Just place them over there.
+[NPC ME] Harnquist points to a spot just in front of him.
+[NPC Narrate] -You proceed to place them where asked.-
+[NPC] Harnquist: Thank you.
+[NPC] Harnquist: These are you in payment for the ores.
+[NPC Narrate] -He then hands you some tria.-
+
+[Reward] [Skill] 1, Mining
+[Reward] [Way 1] [Money] 5130
+[Reward] [Way 2] [Money] 7310
+[Reward] [Way 3] [Money] 9922
+[Reward] [Way 4] [Money] 7310

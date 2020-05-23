@@ -1,0 +1,95 @@
+Need: Quest before, Adepts staff, apprentice robe
+
+Info: You get the Dark Way Adept's staff back.
+
+You say: Please accept my Way Staff as proof of being a worthy student.
+Rulayne Ogrin says: Your dedication astounds me, Huarwar.
+Rulayne Ogrin says: Not to mention the fact that you still live.
+Rulayne Ogrin says: Rather disappointing, but who am I to question the will of Dakkru?
+Rulayne Ogrin hands back the staff, shaking his head.
+Rulayne Ogrin says: It is nearly time for you to begin your Master rank testing.
+Rulayne Ogrin says: First, you will travel to the Eagle Bronze Doors.
+Rulayne Ogrin says: Zhaomal of the Shadowcasters need to be taught a lesson in a Dark Way matter.
+Rulayne Ogrin says: Let him know you are there to...
+Rulayne Ogrin says: help.
+Rulayne Ogrin's mask grins.
+You say: I was told you needed help.
+Zhaomal Shehan says: You are much too good looking to be Rulayne.
+Zhaomal Shehan says: That mask must hide a face only a mother could bare.
+Zhaomal Shehan laughs before looking at you with some curiosity.
+Zhaomal Shehan says: Let's see what you know.
+Zhaomal Shehan says: I have a young Shadowcaster residing in Sarpendil who is a very competent messenger.
+Zhaomal Shehan says: He is the fastest foot to either the Eagle Bronze Door or Hydlaa, and stakes his day's pay on making the trip in a shorter time than anyone else can.
+Zhaomal Shehan says: In saying that, he noticed that every time he makes a delivery to Dark Wanderer, he is exhausted on the way back and needs many rest stops before returning.
+Zhaomal Shehan taps his chin.
+Zhaomal Shehan says: So, he keeps losing out every time he delivers for the Wanderer.
+Zhaomal Shehan says: The Wanderer has admitted to using a Dark Way spell, and that he will repay all lost delivery fees we can tell what spell or glyph combination is used.
+Zhaomal Shehan says: So Sir Dark Way Adept, what do you suggest is the spell or combine that overwhelms the poor messenger so?
+You say: Illness and Weakness Glyphs.
+Zhaomal Shehan nods while thinking.
+Zhaomal Shehan says: That would do it.
+Zhaomal Shehan removes a hand full of glyphs from his glyph sack, then sorts out three of them.
+Zhaomal Shehan says: It seems I have an extra glyph here.
+Zhaomal Shehan says: Even I do not need more than one of each glyph.
+Zhaomal Shehan shakes his head.
+Zhaomal Shehan says: You know what, you may have this glyph for sharing your knowledge.
+Zhaomal Shehan says: Perhaps you will consider joining the Shadowcasters in time.
+Zhaomal Shehan says: You do not need to join now, nor do I think you have enough talent.
+Zhaomal Shehan says: For that, you must achieve Adept status in all Way Circles, and Master in none.
+Zhaomal Shehan says: I only ask you consider it if that time comes.
+Zhaomal Shehan says: One more thing.
+Zhaomal Shehan says: Do say thank you to Rulayne for sending such a talented Klyros.
+You say: Zhaomal sends thanks.
+Rulayne Ogrin says: He does, does he?
+Rulayne Ogrin says: He thanks me for giving him another prospect is all.
+Rulayne Ogrin says: Your 'talents' were likely wasted on a problem he already had the solution to.
+Rulayne Ogrin says: The Shadowcasters are always looking for the most talented practitioners in all six Ways to join them.
+Rulayne Ogrin shrugs.
+Rulayne Ogrin says: That is your choice to make.
+Rulayne Ogrin says: Perhaps his ways will kill you faster than mine.
+Rulayne Ogrin says: One can only hope.
+Rulayne Ogrin says: The robe you carry belongs to an apprentice, which you are clearly no longer.
+Rulayne Ogrin says: Give it to me now.
+You say: My robe as requested, sir.
+Rulayne Ogrin says: Yes, you will no longer use this robe.
+Rulayne Ogrin tosses it to the ground and steps on it.
+Rulayne Ogrin says: I must ask you one last question.
+Rulayne Ogrin says: This one is very important, as it will affect what you choose to do next.
+Rulayne Ogrin says: Tell me what Way directly opposes the Dark Way.
+You say: Crystal Way.
+Rulayne Ogrin says: Correct again.
+Rulayne Ogrin says: You have proven your knowledge of the Dark Way to me.
+Rulayne Ogrin says: I am no longer embarrassed to present you with your new robe, Adept of the Dark Way.
+Rulayne Ogrin hands you a neatly folded robe.
+Rulayne Ogrin says: As I mentioned, I am sure Zhaomal tried to convince you to consider joining the Shadowcasters.
+Rulayne Ogrin says: Your last chance to do so will soon be upon you.
+Rulayne Ogrin says: Take your new robe and show it to Londris.
+Rulayne Ogrin says: He will tell you of the choices you have to make.
+You say: Please except my Way Robe as proof of being a worthy student.
+Londris Kolaim speaks without looking at you, his attention absorbed by one of his books.
+Londris Kolaim says: Rulayne has approved of you?
+Londris Kolaim says: Well then, you think it is time for you to speak to her, don't you?
+Londris Kolaim says: Well, you can't.
+Londris Kolaim says: She has no time for those that are not completely devoted to the Dark Way Circle.
+Londris Kolaim says: A choice is now before you.
+Londris Kolaim says: This is the last test before you will no longer be allowed to change your chosen Way of study.
+Londris Kolaim says: If you continue on the path to Way Master in the Dark Way Circle, you will not be able to advance beyond Adept which is your current rank, in the Crystal Way Circle.
+Londris Kolaim says: Neither will you be able to advance beyond Adept in the Blue and Azure Way Circles.
+Londris Kolaim says: You will be allowed to advance to the first Master's rank in Red and Brown Way Circles, as they complement the power you will use as a Dark Way mage.
+Londris Kolaim says: Do you understand this?
+You say: Yes, be careful of mixing with opposing magic.
+Londris Kolaim says: Very well.
+Londris Kolaim picks up a robe and hands it to you.
+Londris Kolaim says: This is your new Adept's Robe and with it you may use the rank of full Adept of the Dark Way.
+Londris Kolaim says: If your wishes bring you to follow the Dark Way to full mastery, you will need to continue to improve you skill.
+Londris Kolaim says: Then you may come to me and give me your staff together with another Adept's Dark Way Staff and one Apprentice's Dark Way Staff, which also may be borrowed from a fellow student.
+Londris Kolaim says: This is to prove you have gained the respect and trust of your Adept peers, as well as the Apprentices.
+Londris Kolaim says: Remember, once you bring these three staves to me, there will be no turning back.
+Londris Kolaim says: Think long and hard before you make this choice, Huarwar.
+
+(21:15:15) [System] >You have received an Illness Glyph.
+(21:33:34) [System] >You have received an Adept's Dark Way Robe.
+(21:33:34) [System] >You gained 16400 experience points and 82 progression points!
+(21:33:34) [System] >Your faction with Dark Order has improved by 25.
+(21:33:34) [System] >Your Dark Way skill has increased by 2 point!
+(21:33:34) [System] >Quest Completed!

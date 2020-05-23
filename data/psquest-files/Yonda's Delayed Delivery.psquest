@@ -1,0 +1,152 @@
+[Questname] Yonda's Delayed Delivery
+[NPC Name] Yonda Axebow
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Get a Performance
+[Need] [Way 3] [Money] 100
+
+[To] Yonda Axebow
+
+[NPC Internal] I am looking for a job.
+[NPC] Yonda: Well, perhaps you can help me, yes.
+[NPC] Yonda: I am waiting for a special shipment of material to come in.
+[NPC] Yonda: It is cut from the stem of a fungus that grows in the stone labyrinths.
+[NPC] Yonda: It grows…
+[NPC] Yonda: well, I do tend to go on about woods and things if I don't watch myself.
+[NPC] Yonda: Do you really want to know more about it?
+[NPC Internal] Sure.
+[NPC] Yonda: All right then.
+[NPC Narrate] -Yonda smiles.-
+[NPC] Yonda: You see, the normouwerii grows very slowly, so the stem is thicker and stronger than most regular fungi.
+[NPC] Yonda: It is easier to work than many woods and has no real grain to speak of.
+[NPC] Yonda: But once it is completely dry, it takes a polish really well.
+[NPC] Yonda: It looks almost like granite if I get the right stems.
+[NPC] Yonda: I am expecting a delivery of normouwerii stems and the delivery is later than usual.
+[NPC] Yonda: I really need it to start work on a commission.
+[NPC] Yonda: Can you find out what is keeping it?
+[NPC Internal] With whom do I need to speak?
+[NPC] Yonda: Taemian Yangnk at the Eagle Bronze Doors was supposed to bring it in to me.
+[NPC] Yonda: Check with him to see what is keeping the shipment.
+[NPC] Yonda: If you found a way to get it here soon, I'd glady reward you.
+[NPC] Yonda: Ask Taemian about my normouwerii stems.
+[NPC] Yonda: If you don't think you can pronounce that, just ask him about fungus or tell him I sent you.
+
+[To] Taemian Yangnk
+
+[NPC Internal] Yonda wants to know when she can expect her normouwerii stem shipment.
+[NPC] Taemian: I have her load of fungus stems right here and I've been trying to get it to her.
+[NPC] Taemian: But the leads for my goujah team have worn right through.
+[NPC] Taemian: So it looks like there are three options for her.
+[NPC] Taemian: You can carry it to her.
+[NPC] Taemian: You can help me get a working set of leads.
+[NPC] Taemian: Or she can wait.
+[NPC] Taemian: Since you are asking for her, which answer will it be?
+
+[Possible Ways] 3
+
+[Way] 1
+
+[NPC Internal] she can wait
+[NPC] Taemian: Well, all right.
+[NPC] Taemian: Please tell her it will be in when I get my leads fixed.
+
+[To] Yonda Axebow
+
+[NPC Internal] it will be in when he gets his leads fixed
+[NPC] Yonda: Oh dear.
+[NPC Narrate] -Yonda frowns.-
+[NPC] Yonda: That's a shame.
+[NPC] Yonda: I will have to try and make some arrangements with my customer and look for another way.
+[NPC] Yonda: Thank you for looking into that for me.
+[NPC] Yonda: Here are a few coins for your time.
+[NPC Narrate] -Yonda opens her purse and takes out three coins for you.-
+
+
+[Way] 2
+
+[NPC Internal] I think I should be able to carry it.
+[NPC] Yonda: This load of fungus weighs fifty kilograms.
+[NPC] Yonda: Can you carry that?
+[NPC Internal] Yes, I can carry it now.
+[NPC] Yonda: All right.
+[NPC Narrate] -Taemian gathers up the bundle of pale green stems and staggers over to give it to you.-
+[NPC] Yonda: Uff…
+[NPC] Yonda: there you go.
+[NPC] Yonda: I'll collect the payment from Yonda whenever I manage to get into town.
+
+[To] Yonda Axebow
+
+[NPC Internal] gives Yonda the Normouwerii stems bundle.
+[NPC] Yonda: Oh my goodness!
+[NPC] Yonda: That is quite the load to have carried from the Eagle Bronze Doors!
+[NPC] Yonda: I hope Taemian is well: something must have happened to his caravan.
+[NPC] Yonda: Well, thank you so much for getting this normouwerii to me; I can start work today.
+[NPC] Yonda: In return, I'd like to offer you one of my very own carvings.
+[NPC] Yonda: I have this cute little wooden yulbar that I make regularly, or this wooden amulet of a velnishi head.
+[NPC] Yonda: Levrus once stopped by and claimed he enchanted this amulet, but I can't be sure.
+[NPC] Yonda: Please pick which one you would like!
+
+[Info] The Amulet of the Velnishi gives you +3 Agility.
+
+[Way] 3
+
+[NPC Internal] I’ll help you fix your leads.
+[NPC] Yonda: All right.
+[NPC Narrate] -Taemian gives you the broken leads.-
+[NPC] Yonda: Get these fixed and bring them back.
+[NPC] Yonda: Any leatherworker in Hydlaa would be able to do the work.
+[NPC] Yonda: Then she'll have her load of wood in short order.
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] Can you fix these?
+[NPC] Jeyarp: Hmm, these look like they've seen a fair bit of travel.
+[NPC Narrate] -Jeyarp examines the leather of the goujah leads.-
+[NPC] Jeyarp: Simple enough, but there is a lot to do.
+[NPC] Jeyarp: It'll cost about one hundred tria.
+[NPC] Jeyarp: You may as well poke around Jayose's while I work on them.
+[NPC Narrate] -Gayla looks over and says 'I hear he has a new copy of the Octarchal decree on the Laws, well worth checking that if one doesn't want to be doing something illegal without knowing it!'-
+[NPC Narrate] -Jeyarp chuckles and winks at his wife Gayla, who gives him a small smile in return. Jeyarp waves the leads at you.-
+[NPC] Jeyarp: Come back in a bit and check with me about these leads.
+[NPC Internal] Are they ready now?
+[NPC] Jeyarp: Yes, I just finished.
+[NPC] Jeyarp: They should have been fixed up before they got that bad, but they are good to go now.
+[NPC] Jeyarp: It'll be one hundred tria.
+[NPC Internal] Here’s your money.
+[NPC] Jeyarp: Thanks for the work.
+[NPC Narrate] -Jeyarp smiles conspiratorially and lowers his voice.-
+[NPC] Jeyarp: It bought me a bit of time from having to look for boring old books!
+[NPC Narrate] -Jeyarp chuckles and gives you the repaired leads.-
+
+[To] Taemian Yangnk
+
+[NPC Internal] Your leads are all fixed up now.
+[NPC] Taemian: Thank you.
+[NPC] Taemian: Tell Yonda it'll arrive tomorrow.
+[NPC] Taemian: Here is some coin to cover the cost of the repairs.
+[NPC Narrate] -Taemian gives you three Octas.-
+
+[To] Yonda Axebow
+
+[NPC Internal] Taemian will deliver the stems tomorrow.
+[NPC] Yonda: That is wonderful!
+[NPC] Yonda: I was worried that I'd be waiting another week or more.
+[NPC] Yonda: What was keeping Taemian?
+[NPC Internal] His Goujah leads were broken.
+[NPC] Yonda: Oh, I see!
+[NPC] Yonda: Did you help him to get those fixed?
+[NPC Internal] Yes I did.
+[NPC] Yonda: My goodness, how very helpful of you.
+[NPC] Yonda: And helpful to me too - I look forward to starting work on that normouwerii tomorrow!
+[NPC Narrate] -Yonda opens her purse and takes out some coins.-
+[NPC] Yonda: These octa are for you, for helping to get things moving again.
+[NPC] Yonda: Oh, and this too: someone bought it for me but it isn't the right sort.
+[NPC] Yonda: Perhaps you will get more use from it than I would.
+[NPC Narrate] -Yonda gives you a wood chisel.-
+[NPC] Yonda: Thank you so much for your help, Madam!
+
+[Reward] [Way 1] [Money] 20; [XP] 600
+[Reward] [Way 2] [Money] 2107; [XP] 10800; [OR Begin] [Item] 1, Wooden Yulbar [OR] [Item] 1, Amulet of the Velnishi [OR End]; [Faction] 15, Artists Association
+[Reward] [Way 3] [Money] 2107; [XP] 10800; [Item] 1, Wood Chisel; [Faction] 15, Artists Association
+

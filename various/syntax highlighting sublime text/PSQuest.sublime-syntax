@@ -1,0 +1,37 @@
+%YAML 1.2
+---
+name: PS Quest
+file_extensions: [psq, quest]
+scope: source.quest
+
+contexts:
+  main:
+    - match: .*\[NPC Internal\].*
+      scope: string.quoted.single
+
+    - match: .*\[To\].*|.*\[Give\].*|.*\[Time\].*|.*\[Info\].*
+      scope: keyword.control
+
+    - match: .*\[Questname\].*|.*\[Authors\].*|.*\[NPC Name\].*|.*\[Checkup\].*
+      scope: constant.numeric
+
+    - match: (\[Need\]|\[Reward\])
+      scope: constant.numeric
+
+    - match: .*\[Way\].*|.*\[Possible Ways\].*
+      scope: variable.parameter
+
+      # OR in need/reward
+    - match: \[OR\]|\[OR Begin\]|\[OR End\]
+      scope: variable.parameter
+
+      # Way in need/reward
+    - match: \[Way \d+\]
+      scope: variable.parameter
+
+      # Repeatable
+    - match: .*\[Repeatable\].*
+      scope: variable.parameter
+
+    - match: \[Quest\]|\[Faction\]|\[Money\]|\[XP\]|\[Item\]|\[Skill\]|\[Winch\]|\[Combat Move\]|\[Special\]
+      scope: string.quoted.single

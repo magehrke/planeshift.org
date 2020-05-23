@@ -1,0 +1,75 @@
+[Questname] Lori's Little Delivery
+[NPC Name] Lori Tryllyn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Lori Tryllyn
+
+[NPC Internal] Anything I can do for you?
+[NPC] Lori: Yeee-es, I think here is a small thing you could do for me, and it would be quite helpful.
+[NPC Narrate] -Lori smiles at you and turns to pull a fat volume of Lemur poetry from a shelf. She reaches into the gap between books, taking out a small light blue box before putting the poetry back in its place.-
+[NPC] Lori: Would you be willing to run this out to Nyshyn?
+[NPC] Lori: She's out in the ruins outside the city, studying them.
+[NPC] Lori: I'll give you a nice runner's fee when you return with proof that she received it.
+[NPC Internal] I'll do it.
+[NPC] Lori: Fantastic.
+[NPC Narrate] -Lori gives you the box.-
+[NPC] Lori: Try not to bounce it around too much, and don't mess with the lock, hm?
+[NPC Narrate] -Lori winks at you.-
+[NPC Internal] I won't.
+[NPC] Lori: Good, go on then, let's get that box out to Nyshyn.
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] I have a delivery for you.
+[NPC] Nyshyn: What a cute little box.
+[NPC Narrate] -Nyshyn turns it in her paws a few times, ears twitching slightly as she hears the item within sliding around. She lifts the box to her nose to sniff at it.-
+[NPC] Nyshyn: Ah, from Lori.
+[NPC] Nyshyn: Doubtless you are going back to see her to collect your fee.
+[NPC] Nyshyn: Since I have a letter I hope to get to her soon, would you mind delivering it to her?
+[NPC Internal] Sure, I'll do it.
+[NPC] Nyshyn: Most pleasing, and thank you.
+[NPC Narrate] -Nyshyn smiles as she gives you the letter and six Octa.-
+[NPC] Nyshyn: This letter should also serve as proof that you did deliver the box to me; she'll appreciate that.
+[NPC] Nyshyn: The Octas are for you to keep, for ensuring speedy delivery.
+[NPC] Nyshyn: Take care, and may your path be lit, Sir.
+
+[To] Lori Tryllyn
+
+[NPC Internal] I have a letter for you.
+[NPC] Lori: Oh, she had a letter for me, eh?
+[NPC Narrate] -Lori scans the message, frowning.-
+[NPC] Lori: Hmm.
+[NPC] Lori: Could I ask you to do just one more favor for me?
+[NPC] Lori: I just need you to peek at something in the plaza, it wouldn't take long.
+[NPC Internal] Ok, I'll go.
+[NPC] Lori: Fantastic.
+[NPC] Lori: You're so helpful.
+[NPC] Lori: So, you know those big stone blocks around the statue of the Masked God?
+[NPC] Lori: There are numbers on some of them.
+[NPC] Lori: I need to know what the number is on the one closest to Harnquist's smithy.
+[NPC] Lori: I think it's five hundred something, but I don't remember the exact figure.
+[NPC] Lori: Please be sure you get the right one.
+[NPC Internal] 550
+[NPC] Lori: Ah, yes, that was it.
+[NPC] Lori: Thank you.
+[NPC Narrate] -Lori studies the letter again, reading it very slowly, her eyebrows quirking upward now and then.-
+[NPC] Lori: Interesting…
+[NPC] Lori: I wonder…
+[NPC] Lori: no, he wouldn't…
+[NPC Narrate] -Lori re-reads a portion of the letter.-
+[NPC] Lori: Or would he..?
+[NPC] Lori: Hmm!
+[NPC] Lori: We'll have to meet and talk.
+[NPC Narrate] -Lori looks up at you.-
+[NPC] Lori: Oh, your fee, sorry to keep you waiting.
+[NPC] Lori: Thank you for your help today.
+[NPC Narrate] -Lori opens her purse, takes out some coins, considers, takes out a few more, and passes them to you.-
+[NPC] Lori: Come back and see me some time, I may have something else you can help me with, and there's more coin to be had where those came from.
+[NPC Narrate] -Lori winks.-
+[NPC] Lori: Take care, my good Sir.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Thieves Organization
+

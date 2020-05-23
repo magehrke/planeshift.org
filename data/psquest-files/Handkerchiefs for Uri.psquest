@@ -1,0 +1,48 @@
+[Questname] Handkerchiefs for Uri
+[NPC Name] Uri Djho-Maat
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Uri Djho-Maat
+
+[NPC Internal] Greetings, do you know of anyone that needs someone to help with a task?
+[NPC] Uri: Greetings, noble Nolthrir.
+[NPC] Uri: I need a pair of linen handkerchiefs of the finest quality.
+[NPC] Uri: Kaiman promised me to bring a few from his travels, and I need someone to pick them up.
+[NPC] Uri: Normally, my servants would do that, but they are all busy.
+[NPC] Uri: Would you pick them up?
+[NPC Internal] Sure, I'll get them for you.
+[NPC Narrate] -Uri adjusts his shirt cuff and looks at you.-
+[NPC] Uri: Very well.
+[NPC] Uri: This coin should cover the charges and just tell him I sent you.
+[NPC Narrate] -Uri hands you a circle.-
+
+[To] Kaiman Jilatt
+
+[NPC Internal] Uri sent me.
+[NPC] Kaiman: I see.
+[NPC] Kaiman: Is this about the fine linen handkerchiefs?
+[NPC Internal] Yes it is.
+[NPC Narrate] -Kaiman grins.-
+[NPC] Kaiman: They are right here.
+[NPC Narrate] -Kaiman shows you a bundle of handkerchiefs.-
+[NPC] Kaiman: Finest quality, of course.
+[NPC] Kaiman: Soft as a baby dwarf's beard.
+[NPC Narrate] -Kaiman chuckles.-
+[NPC] Kaiman: That'll be one hundred tria.
+[NPC Internal] Gilayall pays Kaiman.
+[NPC Narrate] -Kaiman hands you the bundle.-
+[NPC] Kaiman: Here they are.
+[NPC] Kaiman: My regards to Sir Djho-Maat.
+
+[To] Uri Djho-Maat
+
+[NPC Internal] Here are your handkerchiefs.
+[NPC Narrate] -Uri takes the bundle from you and rubs the handkerchiefs in his hands. He gives you a tiny nod and puts the package in his pocket.-
+[NPC] Uri: Thank you, Nolthrir.
+[NPC] Uri: Keep the change: let it never be said that Uri Djho-Maat is not a generous man.
+
+[Reward] [Money] 1000; [XP] 8000
+

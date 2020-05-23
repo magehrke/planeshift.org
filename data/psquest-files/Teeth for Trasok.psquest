@@ -1,0 +1,35 @@
+[Questname] Teeth for Trasok
+[NPC Name] Trasok Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Harnquist Weapon Commission; [Item] 2, Tefusang Teeth
+
+[To] Trasok Starhammer
+
+[NPC Internal] What are you doing?
+[NPC] Trasok: I think I've figured out a way for me to compete with the quality of Harnquist's weapons!
+[NPC] Trasok: I'm great at making axes, battle axes and the like, but their quality is sometimes lower than the swords made by Harnquist.
+[NPC] Trasok: A wizard friend of mine told me he could help me forge a great weapon with some special ingredients, and I want to try!
+[NPC] Trasok: I just need a few Tefusang teeth to use in my experiment.
+[NPC] Trasok: Can you bring me two?
+[NPC Internal] Yes, I can do that for you.
+[NPC] Trasok: Ah, wonderful!
+[NPC] Trasok: Please hurry back with those teeth.
+[NPC] Trasok: I can't wait to see the results!
+[NPC Internal] The teeth you requested.
+[NPC] Trasok: Oh, wonderful, wonderful!
+[NPC] Trasok: I'll get started right away!
+[NPC] Trasok: Thank you so much!
+[NPC] Trasok: Here, take this for your trouble.
+[NPC] Trasok: I'm going to create this weapon.
+[NPC] Trasok: In the meantime you can study the basics of Axe making.
+[NPC] Trasok: It's not that hard, considering you already know a bit about metallurgy and sword making.
+[NPC] Trasok: The process is somewhat similar, but you need the proper book.
+[NPC] Trasok: I have a copy here somewhere.
+[NPC Narrate] -Trasok digs about beneath his work top.-
+[NPC] Trasok: Ah here it is.
+[NPC] Trasok: Come back to me when you made one Small Battle Axe!
+
+[Reward] [XP] 13600; [Item] 1, Notes of an Axe Maker; [Faction] 25, Smith Association
+

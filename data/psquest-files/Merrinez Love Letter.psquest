@@ -1,0 +1,133 @@
+[Questname] Merrinez Love Letter
+[NPC Name] Merrinez Dholant
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Merrinez Bad Mood; [Item] 50, trip
+
+[To] Merrinez Dholant
+
+[NPC Internal] Hi, Do you require more help?
+[NPC] Merrinez: Well, as you've proven to be a kind person, maybe you can help me with something quite personal?
+[NPC Internal] What seems to be the problem?
+[NPC] Merrinez: Well, ehm…
+[NPC] Merrinez: you see…
+[NPC] Merrinez: I have…
+[NPC] Merrinez: well, you should know that I have some sentiments for a very nice feline in Dsar Akkaio…
+[NPC] Merrinez: but maybe you don't know her…
+[NPC] Merrinez: do you know of my beautiful female Enkidukai?
+[NPC] Merrinez: She lives here in Akkaio.
+[NPC] Merrinez: Her fur is so soft, her eyes so beautiful.
+[NPC] Merrinez: You do know who I speak of do you not?
+[NPC Internal] toda
+[NPC] Merrinez: Oh yes!
+[NPC] Merrinez: Exactly her!
+[NPC] Merrinez: Isn't she splendid?
+[NPC] Merrinez: Anyway, I'm a bit shy and really have no clue on how to meet her.
+[NPC] Merrinez: She is always so busy with her work, and also I cannot leave this dock!
+[NPC] Merrinez: How can I contact her?
+[NPC Internal] letter
+[NPC] Merrinez: A letter?
+[NPC] Merrinez: Sounds good, but it's not that easy.
+[NPC Narrate] -Merrinez looks puzzled.-
+[NPC] Merrinez: Writing is not my best quality…
+[NPC] Merrinez: unless you can help me to write it.
+[NPC] Merrinez: Will you?
+[NPC] Merrinez: I shall give you something valuable.
+[NPC] Merrinez: Please?
+[NPC Internal] I will try my best.
+[NPC] Merrinez: Thank you, Tabei.
+[NPC] Merrinez: First of all, we need ink and paper.
+[NPC] Merrinez: Could you please find some for me.
+[NPC] Merrinez: I believe there is a library somewhere that you can buy ink and paper.
+
+[To] Jayose
+
+[NPC Internal] I need some ink and paper.
+[NPC] Jayose: I suppose I could spare some for you.
+[NPC] Jayose: One lot for fifty Trias, agreed?
+[NPC Internal] Fifty you say? I think it is a fair price.
+[NPC] Jayose: Very well, give me a moment.
+[NPC Narrate] -Jayose takes some sheets of paper from a near pile, then opens a drawer and picks up the ink.-
+[NPC] Jayose: Here is the ink and paper, as requested.
+
+[To] Merrinez Dholant
+
+[NPC Internal] Here is your ink and paper.
+[NPC] Merrinez: Perfect, now we are ready to write the letter.
+[NPC] Merrinez: How should I start?
+[NPC Internal] dear toda
+[NPC] Merrinez: Sounds simple enough.
+[NPC Narrate] -Merrinez Dholant begins to write.-
+[NPC] Merrinez: There, now, I should not start with big words.
+[NPC] Merrinez: What should I tell her first?
+[NPC] Merrinez: She's probably wondering who it is that is sending the letter.
+[NPC] Merrinez: What should I write about?
+[NPC Internal] your mind
+[NPC] Merrinez: Alright, I will write something about my personality.
+[NPC Narrate] -Merrinez starts writing. After a few minutes, he raises his head.-
+[NPC] Merrinez: That part is completed.
+[NPC] Merrinez: She now knows about who I am, but what should I tell her next?
+[NPC Internal] your love
+[NPC] Merrinez: I don't know.
+[NPC] Merrinez: Do you really think I should?
+[NPC] Merrinez: What if she doesn't share my feelings?
+[NPC Narrate] -Merrinez composes himself.-
+[NPC] Merrinez: Yes!
+[NPC] Merrinez: I will go for it!
+[NPC Narrate] -Merrinez starts writing with passion. After a few minutes, he looks at you.-
+[NPC] Merrinez: Looks good.
+[NPC] Merrinez: How should I end the letter?
+[NPC Internal] yours
+[NPC] Merrinez: Yes, that sounds fine.
+[NPC] Merrinez: Now I just need someone to deliver the letter to her.
+[NPC] Merrinez: Will you?
+[NPC Internal] I will do it with pleasure.
+[NPC] Merrinez: Perfect.
+[NPC] Merrinez: I thank you.
+[NPC] Merrinez: You truly have made my day.
+[NPC] Merrinez: Please hurry, and return to let me know what she says.
+[NPC] Merrinez: I shall wait for word from my beautiful Toda.
+
+[To] Toda Ombretis
+
+[NPC Internal] I have a special delivery for you.
+[NPC] Toda: What is this…
+[NPC Narrate] -Toda looks at the letter, and looks at you a bit puzzled.-
+[NPC] Toda: I was not expecting a letter.
+[NPC] Toda: I am very busy today, can this letter wait?
+[NPC Internal] No, you must read the letter now.
+[NPC] Toda: This sounds important.
+[NPC Narrate] -Toda opens the letter without haste and reads the first few lines.-
+[NPC] Toda: Oh..
+[NPC Narrate] -Toda blushes. Toda's ears stand straight up as her eyes grow large and a small shy smile forms on her face.-
+[NPC] Toda: Erhm.
+[NPC] Toda: Could you please give me one moment here.
+[NPC Narrate] -Toda walks away from the counter and continues to read the letter with attention, she smiles a great big smile, then stifles a giggle.-
+[NPC] Toda: Ehm…
+[NPC] Toda: yes well.
+[NPC Narrate] -Toda walks back to the counter, and takes out a piece of paper and some ink.-
+[NPC Narrate] -Toda begins to write a message on the paper.-
+[NPC Narrate] -Toda folds the message and seals it before handing it to you.-
+[NPC] Toda: Please, return this to Merrinez.
+
+[To] Merrinez Dholant
+
+[NPC Internal] I have a reply for you from Toda.
+[NPC Narrate] -Merrinez rips open the seal and begins to read the letter.-
+[NPC] Merrinez: Uh huh…
+[NPC] Merrinez: yup…
+[NPC] Merrinez: uh huh…
+[NPC Narrate] -Merrinez grins from ear to ear.-
+[NPC Narrate] -Merrinez looks at you.-
+[NPC] Merrinez: Thank you YOU.
+[NPC] Merrinez: I can't believe my luck, this is wonderful.
+[NPC] Merrinez: This letter says she would like to get to know me better.
+[NPC] Merrinez: I must go and find something to wear.
+[NPC] Merrinez: Ahh, wait first I must show you my appreciation.
+[NPC] Merrinez: This is something precious that I received from a merchant.
+[NPC Narrate] -Merrinez hands you a rock.-
+[NPC] Merrinez: May Talad bless you, Tabei!
+
+[Reward] [XP] 17800; [Item] 1, Rock glyph; [Faction] 40, Crafting Association
+

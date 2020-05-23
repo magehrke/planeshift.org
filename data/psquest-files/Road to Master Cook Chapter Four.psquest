@@ -1,0 +1,52 @@
+[Questname] Road to Master Cook Chapter Four
+[NPC Name] Mirra Houphen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Road to Master Cook Chapter Three; [Item] 1, Potion of Restoration
+
+[To] Mirra Houphen
+
+[NPC Internal] Is there anything I can do for you?
+[NPC] Mirra: Of course YOU!
+[NPC] Mirra: What we need now is more world famous recipes.
+[NPC] Mirra: My father had a friend who's name was Tzeg.
+[NPC] Mirra: Tzeg was an alchemist, but he made one heck of a dish called Steamed Pepperberries.
+[NPC] Mirra: It was sweet and spicy all at once.
+[NPC] Mirra: Please get me the recipe.
+[NPC] Mirra: I believe he had a shop in Ojaveda…Dsar Akkaio if I recall correctly, so it should still be accessible.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] I am looking for a recipe for steamed pepperberries.
+[NPC] Vladovic: So…
+[NPC] Vladovic: you want the recipe for my mentor's famous Pepperberries?
+[NPC] Vladovic: Well.
+[NPC] Vladovic: I'm not going to give the last thing I have from him apart from this shop.
+[NPC] Vladovic: Unless…
+[NPC] Vladovic: unless you get me a Potion of Restoration.
+[NPC] Vladovic: Then it's yours.
+[NPC] Vladovic: But I worry not…
+[NPC] Vladovic: you will never get your hands on that anyway.
+[NPC Internal] hands over the potion.
+[NPC] Vladovic: Well I'll be a sack of dead yauths…
+[NPC] Vladovic: you found it!
+[NPC] Vladovic: I've spent ages looking for this one potion!
+[NPC] Vladovic: Well, a promise is a promise.
+[NPC] Vladovic: Here you go…
+[NPC] Vladovic: the recipe for Steamed Pepperberries.
+
+[To] Mirra Houphen
+
+[NPC Internal] I got the recipe.
+[NPC] Mirra: That took you longer than expected, YOU.
+[NPC] Mirra: But not to worry!
+[NPC] Mirra: I'm sooo happy that you got it!
+[NPC] Mirra: I can't believe the new recipes I am coming up with, and they are all so tasty.
+[NPC] Mirra: I am so excited.
+[NPC] Mirra: Here, your well earned reward.
+[NPC] Mirra: And take this one, too.
+[NPC] Mirra: I used to use it to make fire, but bought something more effective recently!
+
+[Reward] [Money] 7310; [XP] 15000; [Item] 1, Fire glyph; [Faction] 30, Food Association
+

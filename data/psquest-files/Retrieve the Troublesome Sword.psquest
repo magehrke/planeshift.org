@@ -1,0 +1,133 @@
+[Questname] Retrieve the Troublesome Sword
+[NPC Name] Venec Agenwolfer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes; [Money] 5000
+
+[To] Venec Agenwolfer
+
+[NPC Internal] Hail. I am looking for some adventure.
+[NPC] Venec: Such a bold Hammerwielder to approach me while I am on guard duty.
+[NPC] Venec: Perhaps I am looking at someone who has helped Raithen at what the Hydlaans so charmingly call 'the Eagle?' Then perhaps you can use your skills to help an actively-retired Commander at what you would probably call 'the Serpent.' It's just beyond the mouth of the Radiant River.
+[NPC] Venec: It's quite far from here.
+[NPC] Venec: I require some evil artifacts purified.
+[NPC] Venec: This is not a quest for the light-hearted or the unskilled.
+[NPC] Venec: Do you dare?
+[NPC Internal] Just what I was hoping for, I'll do it.
+[NPC] Venec: Two ancient swords of great evil have been put into the world and threaten Yliakum as we speak.
+[NPC] Venec: Bringing me one of them will be enough, to start.
+[NPC] Venec: One of them was recovered from the Stone Labyrinths and was last known in the possession of Trasok Starhammer.
+[NPC Narrate] -Venec puts a finger to his chin in thought.-
+[NPC] Venec: Make sure you give Trasok any information he requires about it first if you choose to recover that one.
+[NPC] Venec: However, there is a second one that originated from the Jade Caves, but it was taken and kept securely by the squadrons at the Eagle Bronze Doors.
+[NPC] Venec: That is, until its recent theft.
+[NPC] Venec: A good place to start would be asking the soldiers there about the stolen sword.
+[NPC] Venec: By all appearances, they appear to be nearly worthless blunt swords, but it is imperative they not fall into the wrong hands.
+[NPC] Venec: Good luck.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Do you know anything about a stolen sword?
+[NPC] Tarmeen: Oh, the stolen sword?
+[NPC] Tarmeen: That's quite a tale.
+[NPC] Tarmeen: An ynnwn approached me.
+[NPC] Tarmeen: I'm pretty sure he was from Hydlaa.
+[NPC] Tarmeen: He said he was a retired miner from the Jade Caves, and that he could prove the sword belonged to him.
+[NPC] Tarmeen: I went over to the box where it was stored, opened it and asked him for the proof he claimed to have.
+[NPC] Tarmeen: He bopped me in the face with a powerful fist, and when I awoke some time later, the sword was gone.
+[NPC] Tarmeen: That's all I remember.
+[NPC] Tarmeen: I never even got his name.
+[NPC] Tarmeen: I don't think you'll be able to find out more information unless you head to Hydlaa and find out yourself.
+
+[To] Fholen Medraa
+
+[NPC Internal] Do you know anything about a stolen sword?
+[NPC] Fholen: What are you saying?
+[NPC] Fholen: That I took the accursed sword?
+[NPC] Fholen: Why would I do that?
+[NPC] Fholen: I retired from mining as soon as those famous adventurers, Narwin Molstagh and Grimal Bloodaxe, recovered it.
+[NPC] Fholen: I was trying to get away from its…Oh no…
+[NPC Narrate] -Fholen stands rigid, his eyes staring straight ahead.-
+[NPC] Fholen: I remember now.
+[NPC] Fholen: The sword called to me, it did, all the way from the Eagle.
+[NPC] Fholen: It asked me to get it.
+[NPC] Fholen: It told me what to say and do.
+[NPC] Fholen: I …
+[NPC] Fholen: I hit a guard.
+[NPC] Fholen: What have I done?
+[NPC] Fholen: But wait; I remember more.
+[NPC] Fholen: I had the sword in hand, right here.
+[NPC] Fholen: A dwarf-like figure approached me and calmly held out a hand.
+[NPC] Fholen: The sword escaped my grasp of its own will and the dwarf took it.
+[NPC Narrate] -Fholen grabs your shoulders.-
+[NPC] Fholen: Please!
+[NPC] Fholen: You must find out where that sword is, and find a way to remove its horrible power!
+[NPC] Fholen: I imagine it was one of the adventurers who took it in the first place.
+[NPC] Fholen: They're both dwarves so that doesn't narrow it down.
+[NPC] Fholen: I would ask them both about the stolen sword or the Jade Caves.
+[NPC] Fholen: Be careful.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Do you know anything about a stolen sword?
+[NPC] Grimal: I remember that fateful day.
+[NPC] Grimal: Narwin and I went into some of the darker recesses of the Jade Caves.
+[NPC] Grimal: Came across a Kratak encampment.
+[NPC] Grimal: They were surprised and attacked immediately!
+[NPC] Grimal: But they were no match for two of the fightin'est dwarves you could ever imagine, pal!
+[NPC] Grimal: Those Krataks never had a chance.
+[NPC] Grimal: I didn't really want to kill 'em, but I had to defend myself, y'see.
+[NPC] Grimal: Anyway, one of 'em was holding this jade-handled sword.
+[NPC] Grimal: Looked useless even then.
+[NPC] Grimal: Narwin wanted to keep it, and I let him cause I sure didn't want it.
+[NPC] Grimal: Anyway, once we left, some guards told us that all treasure from the Jade Caves was confiscated by order of the Vigesimi Molveni Qued.
+[NPC Narrate] -Grimal rolls his eyes.-
+[NPC] Grimal: She's in charge of the mines and Jade Caves in that sector.
+[NPC] Grimal: They said it was on account of reports of some dark magic activity in there.
+[NPC] Grimal: So Narwin relinquished the sword and off it went.
+[NPC] Grimal: What a waste of time.
+[NPC] Grimal: You say the sword was stolen?
+[NPC] Grimal: Hunh.
+[NPC] Grimal: I wonder by who?
+
+[To] Narwin Molstagh
+
+[NPC Internal] Do you know anything about a stolen sword?
+[NPC] Narwin: You're here for the sword?
+[NPC] Narwin: No!
+[NPC] Narwin: You'll never get it!
+[NPC] Narwin: It's mine, and it always was!
+[NPC Narrate] -Narwin suddenly snaps his head to the side and says, 'I can sell it!'-
+[NPC] Narwin: No, I will keep it!
+[NPC Narrate] -I could use the money!-
+[NPC] Narwin: I need power more!
+[NPC Narrate] -I will sell it for five thousand tria!-
+[NPC] Narwin: No, listen to the sword!
+[NPC Narrate] -Narwin falls to his knees, clutching his head and screaming. You don't think you'll get any more information out of him.-
+[NPC Internal] gives Narwin the money.
+[NPC] Narwin: I'll kill you!
+[NPC Narrate] -Narwin snaps his head to the side and says, 'Bargain struck, take the sword.'-
+[NPC] Narwin: No, attack!
+[NPC Narrate] -But the Hammerwielder paid for it.-
+[NPC] Narwin: Hmm, perhaps this one is even more powerful.
+[NPC] Narwin: I will give the sword.
+[NPC Narrate] -Narwin hands you the sword with a blank expression, as you grasp the sword it is as if a million whispers rush into your mind; you feel a strange, sad hunger.-
+
+[To] Venec Agenwolfer
+
+[NPC Internal] gives Venec the Jade-Handled sword.
+[NPC] Venec: Ahh, you have recovered the sword from the Jade Caves.
+[NPC] Venec: Well done.
+[NPC] Venec: I hope it did not give you too much trouble, as I hear it has been quite a nuisance since its discovery.
+[NPC] Venec: And now to the business of purifying it.
+[NPC Narrate] -Venec mutters an incantation. He and the sword are bathed in a soft white glow. The sword begins flickering as if resisting the ritual. Venec grits his teeth and struggles with the sword. Eventually, the glow fades from both of them, and Venec slumps, breathing heavily.-
+[NPC] Venec: It is complete.
+[NPC] Venec: You have done well, valiant Hammerwielder.
+[NPC] Venec: For this, I will give you my Amulet.
+[NPC] Venec: You will find that people consider it somewhat impressive, and it will improve your standing with them.
+[NPC] Venec: Good luck in your journeys, and thank you once again.
+[NPC] Venec: Now I must rest, for I am weary.
+
+[Reward] [Money] 3391; [XP] 15000; [Item] 1, Amulet of the Commander
+

@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author: Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* jobs/lockpicking CSS Script */
+
+.trainingcalculator_main_container {
+	width: 70%;
+	height: auto;
+
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 20px;
+	padding-left: 15px;
+}

@@ -1,0 +1,88 @@
+[Questname] Inviting Talent
+[NPC Name] Gurgus Dahnik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Lyrus Has An Idea
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Hello, I'm looking for a job.
+[NPC] Gurgus: Hmmm…You seek a job from me?
+[NPC] Gurgus: Fine, fine, but what shall I ask of you?
+[NPC Narrate] -Gurgus seems very thoughtful for some time and then continues.-
+[NPC] Gurgus: Ah-ha!
+[NPC] Gurgus: I might have just the thing.
+[NPC Narrate] -Gurgus reaches into a smallish purse and draws out a small folded parchment.-
+[NPC] Gurgus: Yes, yes, I have been needing to deliver this to someone quite urgently but cannot leave my post.
+[NPC] Gurgus: Will you run this errand for me, in exchange for a little something for your trouble?
+[NPC Internal] Yes I can do the errand for you.
+[NPC] Gurgus: Wonderful and thank you!
+[NPC Narrate] -Gurgus hands you the folded parchment.-
+[NPC] Gurgus: I need you to find Tyrus Beaut, a local bard of some repute…
+[NPC Narrate] -Gurgus seems to give a small, private smile.-
+[NPC] Gurgus: Eh?
+[NPC] Gurgus: Oh, I am sorry.
+[NPC] Gurgus: I seem to have lost myself for a moment.
+[NPC] Gurgus: Anyway, please deliver this to Tyrus.
+[NPC] Gurgus: I am not certain where kra might be, but I would look here in town first.
+
+[To] Tyrus Beaut
+
+[NPC Internal] Hello! I'm here to deliver this invitation to you.
+[NPC] Tyrus: The Light and I are pleased to see you!
+[NPC] Tyrus: Come to see how Tyrus be?
+[NPC Narrate] -Tyrus looks down at the parchment in a large hand.-
+[NPC] Tyrus: Who has need of me?
+[NPC Internal] Gurgus Dahnik.
+[NPC Narrate] -Tyrus opens the letter and reads, frowning a bit.-
+[NPC] Tyrus: Dear me, but what is this?
+[NPC] Tyrus: An invitation to perform?
+[NPC] Tyrus: How wonderful, were it not three days hence.
+[NPC Narrate] -Tyrus looks at you with some concern.-
+[NPC] Tyrus: If our illustrious Vigesimi calls, Tyrus will answer.
+[NPC] Tyrus: But alas and alack, I am fully booked in the tavern all week; and my new harp has not yet arrived.
+[NPC] Tyrus: Will you go to Gulm's shop and retrieve this for me while I go to speak with the inn-keeper?
+[NPC Internal] Yes, I’ll go and get it now.
+[NPC] Tyrus: What a delightful little Kran you are, and generous indeed!
+[NPC] Tyrus: One day I expect to be writing songs of your deeds…
+[NPC] Tyrus: What was I saying?
+[NPC] Tyrus: Ah yes, my new harp!
+[NPC] Tyrus: Yes, please fetch this for me while I cajole a certain inn-keeper.
+[NPC] Tyrus: Hurry along now, I haven't much time at all.
+
+[To] Gulm Ossoe
+
+[NPC Internal] I'm here to collect Tyrus' new harp.
+[NPC] Gulm: Very good; yes I have it right here somewhere.
+[NPC] Gulm: Give me a moment.
+[NPC Narrate] -Gulm scurries about the slightly cluttered shop, shifting and moving things about and muttering to kraself.-
+[NPC] Gulm: Yes, here it is!
+[NPC] Gulm: Fine piece of work it is, too.
+[NPC Narrate] -Gulm hands you the harp very carefully.-
+[NPC] Gulm: Give this to Tyrus with my thanks.
+
+[To] Tyrus Beaut
+
+[NPC Internal] Here is your new harp.
+[NPC] Tyrus: Oh my, my, my!
+[NPC] Tyrus: Is this not a lovely piece of art in itself!?
+[NPC Narrate] -Tyrus strums the harp, adjusts the pitch of a few strings and then plucks out a quick fragment of melody, ever so pleased by the perfect ringing tones of each note and chord.-
+[NPC] Tyrus: Yes, this is simply divine!
+[NPC] Tyrus: Thank you so -very- much.
+[NPC Narrate] -Tyrus runs a large hand along the steel frame, caressing the instrument with an obvious affection.-
+[NPC] Tyrus: Here, take this as a simple token of my infinite gratitude, dear diaboli; return to that lovely Gemma Gurgus and tell kra I would be honoured to play.
+[NPC Narrate] -Tyrus gives you some coins.-
+[NPC] Tyrus: Thank you again and may you enjoy this blessed day.
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Tyrus has agreed to perform.
+[NPC] Gurgus: Wonderful news!
+[NPC] Gurgus: I will tell the Vigesimi at once.
+[NPC] Gurgus: But first there is a matter of paying for your time.
+[NPC] Gurgus: Please accept this on behalf of myself and the Vigesimi.
+
+[Reward] [Money] 8607; [XP] 15000; [Faction] 30, Artists Association; 
+

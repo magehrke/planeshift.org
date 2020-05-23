@@ -1,0 +1,43 @@
+[Questname] Schaeminare Soap for Fruntar
+[NPC Name] Fruntar Durek
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Money] 100
+
+[To] Fruntar Durek
+
+[NPC Internal] Hello, do you have any loose jobs I can do for you?
+[NPC] Fruntar: Well tabei, a brawl always seems to happen here.
+[NPC] Fruntar: As you can imagine, when the drinks go flying I get splashed by them.
+[NPC] Fruntar: They get in my fur and that is not good!
+[NPC] Fruntar: I have found a fine soap, it is called schaeminare, for cleaning my fur.
+[NPC] Fruntar: But I am nearly out of it and haven't had a chance to get more.
+[NPC] Fruntar: Maybe you'd be willing to pick some up for me?
+[NPC Internal] Certainly, where do I get this soap.
+[NPC] Fruntar: Oh, you are so kind!
+[NPC] Fruntar: When the carter comes in from Hydlaa with some of the drinks, he brings it with him.
+[NPC] Fruntar: I believe he gets it from a hairdresser lady there…
+[NPC] Fruntar: good luck, Madam, and thank you!
+
+[To] Kaiman Jilatt
+
+[NPC Internal] I am looking for Schaeminare soap.
+[NPC] Kaiman: Schaeminare soap?
+[NPC] Kaiman: Got a bottle of it here.
+[NPC] Kaiman: It will be one hundred tria.
+[NPC] Kaiman: Not all that much demand for it up here , but there are enough people wanting it that I can keep some in stock and bring in a reasonable profit.
+[NPC Internal] counts off the tria and hands it over.
+[NPC] Kaiman: There we are, enjoy.
+[NPC Narrate] -Kaiman gives you a blue-green glass bottle of soap.-
+[NPC Internal] gives Fruntar the soap.
+[NPC] Kaiman: Ah, tabei, the schaeminare!
+[NPC Narrate] -Fruntar smiles broadly and looks at the bottle.-
+[NPC] Kaiman: Such a fine soap…
+[NPC] Kaiman: thank you for helping me.
+[NPC] Kaiman: Please accept these coins in return.
+[NPC Narrate] -Fruntar gives you fifty-four hexa and thirty-two octa.-
+[NPC] Kaiman: I know it is not much but I cannot spare very many these days.
+
+[Reward] [Money] 1000; [XP] 8000
+

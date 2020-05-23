@@ -1,0 +1,45 @@
+[Questname] The Dark Way Beckons
+[NPC Name] Oriven Thamel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Without a Way; [Item] 1, Way Amulet; [Item] 1, Death glyph
+
+[Info] You DO NOT get the glyph back!
+
+[To] Oriven Thamel
+
+[NPC Internal] I'd like to join the Dark Way Circle, I was given this amulet to give you.
+[NPC] Oriven: A gift from a mortal?
+[NPC] Oriven: I do not…
+[NPC Narrate] -Oriven shuts his mouth, staring at the amulet. Then he points his cold eyes in yours.-
+[NPC] Oriven: This is not a gift, isn't it?
+[NPC] Oriven: You want something from me.
+[NPC] Oriven: But I have no time to waste with one like you, so I will not repeat myself.
+[NPC] Oriven: If I accept the amulet you will be introduced to the Dark Way Circle.
+[NPC] Oriven: Do you really desire it?
+[NPC] Oriven: If you take this path you will find much more difficulties in the other Ways.
+[NPC] Oriven: Decide now.
+[NPC] Oriven: Do you want to commit yourself to the Dark Way magic and join its Circle, or not?
+[NPC] Oriven: Make your choice.
+[NPC Internal] My purpose is to became a Dark Way Master.
+[NPC] Oriven: This is your start point then.
+[NPC] Oriven: I suppose you already own a Dark Way Glyph.
+[NPC] Oriven: The one you can find in that pitiful magic shop, where you got this amulet.
+[NPC] Oriven: Give the glyph to me.
+[NPC Internal] As requested, here is the glyph.
+[NPC Narrate] -Oriven eyes narrow, examining the glyph. Then he grins slightly, looking upon you with a firm expression.-
+[NPC] Oriven: I knew you had something like this.
+[NPC] Oriven: Something so weak.
+[NPC Narrate] -Oriven puts the glyph in a pouch, then he clenches his hands. After a second he opens them, and a wand pops in the mid-air, floating.-
+[NPC] Oriven: Take this wand, it should help you, Mortal.
+[NPC] Oriven: Your first masters will be Londris Kolaim, then the Dark Wanderer.
+[NPC] Oriven: They have tasks for you, and if you succeed you will gain a proper glyph to train with.
+[NPC] Oriven: Or Perhaps you already had it, I do not mind.
+[NPC] Oriven: In the meantime, if you want, I could teach you some lessons.
+[NPC] Oriven: Now leave.
+[NPC] Oriven: I hate wasting time.
+[NPC] Oriven: Remember, the Dark Crystal never waits.
+
+[Reward] [XP] 8000; [Item] 1, Apprentice's Dark Way Staff; [Faction] 5, Dark Order
+

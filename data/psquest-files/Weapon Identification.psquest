@@ -1,0 +1,92 @@
+[Questname] Weapon Identification
+[NPC Name] Gregori Stevald
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Bend the Octarch's Ear; [Money] 50
+
+[To] Gregori Stevald
+
+[NPC Internal] I'm looking for work.
+[NPC] Gregori: I've had this greataxe that someone sold to me ages ago, and I think it may have some history.
+[NPC] Gregori: Will you take it around and see if anyone knows anything about it?
+[NPC Internal] Yes, I can have an ask round for you.
+[NPC] Gregori: Oh, thank you!
+[NPC] Gregori: Take this axe and see if you can find out anything concerning its history or who it belonged to.
+[NPC] Gregori: You might try Harnquist in Hydlaa or Trasok in Ojaveda to start with.
+[NPC Internal] What can you tell me about it?
+[NPC] Gregori: It was sold to me ages ago by an Ylian male whose name I can't recall.
+[NPC] Gregori: He was old then and has likely passed from this realm by now.
+[NPC] Gregori: He was accompanied by a dwarf; a smith, by his looks.
+[NPC] Gregori: They were both kinda quiet-like and the exchange was made without much ado.
+[NPC] Gregori: It's been a mystery ever since.
+[NPC] Gregori: To be honest, I put it away in the rafters and forgot about it for years.
+[NPC] Gregori: Didn't seem right to sell it, seeing how it was pretty old.
+[NPC] Gregori: I found it while cleaning.
+
+[To] Trasok Starhammer
+
+[NPC Internal] shows the greataxe to Trasok.
+[NPC] Trasok: Oh, my.
+[NPC] Trasok: I haven't seen a weapon such as this for a very long time.
+[NPC] Trasok: I don't exactly recognize it, but I can tell you that it's StoneHammer in origin.
+[NPC] Trasok: There is one other person in the area who might be able to tell you more.
+[NPC] Trasok: Her name is Nyshyn Klannarr, and she's usually found in Dsar Sarraghi or out in the wild exploring ruins or similar old places.
+[NPC] Trasok: But seeing as Dsar Sarraghi is closed, I'd try searching the ruins.
+[NPC] Trasok: You should try to find her.
+[NPC] Trasok: A word of advice: she doesn't work for free.
+[NPC Narrate] -Trasok strokes his beard as he thinks for a few moments.-
+[NPC] Trasok: You could also go and see Grimal in Hydlaa, he is an old veteran who might know about this weapon.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Do you recognised this weapon?
+[NPC Narrate] -Grimal seems to perk up as holds the axe in his hands.-
+[NPC] Grimal: It's a wonder old axe.
+[NPC Narrate] -He rubs the blade with his sleeve.-
+[NPC] Grimal: See here.
+[NPC] Grimal: These marks were placed on a series of weapons made during an invasion wave from the Stone Labyrinths, I was allowed to use one for a short while.
+[NPC] Grimal: These are, or were, some of the finest blades made.
+[NPC Narrate] -Grimal squints and looks at the blade some more.-
+[NPC] Grimal: Sorry I can't tell you any more about this one specially, but good luck with your research.
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] Do you think you could find anything out about this axe?
+[NPC] Nyshyn: Hmm, this is an interesting to say the least.
+[NPC] Nyshyn: Do you have any information for me to start with?
+[NPC] Nyshyn: With no idea it could take me a very long time.
+[NPC Internal] Grimal said it was used by some exceptional warriors to fight off Stone Labyrinth invasions.
+[NPC] Nyshyn: Well that's certainly a nice start point.
+[NPC] Nyshyn: I could study this for a while and then I'll have your answer, provided that you can do me a favour.
+[NPC] Nyshyn: What say you?
+[NPC Internal] Yes, what do you need?
+[NPC] Nyshyn: Great!
+[NPC] Nyshyn: I need some ink and paper for use in my explorations.
+[NPC] Nyshyn: I need to make notes and rubbings.
+[NPC] Nyshyn: I think you may find them at the library in Hydlaa.
+[NPC] Nyshyn: Please come back when you have the items.
+[NPC Internal] Here is your ink and paper.
+[NPC] Nyshyn: Ah, that's what I need!
+[NPC] Nyshyn: Thanks so much for bringing it all the way out here.
+[NPC] Nyshyn: But then, I still have your axe, so you kinda had to, eh?
+[NPC] Nyshyn: Anyway, here's what I've learned about this weapon: it is indeed Hammerwielder in origin, as Trasok told you.
+[NPC] Nyshyn: What he didn't know is that it was made for an Ynnwn champion to wield in battle defending against invaders from the Stone Labyrinths beyond one of the Bronze Doors.
+[NPC] Nyshyn: I've detailed all the information on a scroll for you.
+[NPC] Nyshyn: Take it and the axe with my thanks for the opportunity to study it.
+
+[To] Gregori Stevald
+
+[NPC Internal] I've found out a lot. Here's your greataxe and its history.
+[NPC] Gregori: Ah, thanks for that.
+[NPC] Gregori: I'll go put it away.
+[NPC Narrate] -Gregori pauses to read over the scroll.-
+[NPC] Gregori: Oh, my goodness!
+[NPC] Gregori: You actually did find some history on this old thing?
+[NPC] Gregori: Wow, I never thought it was used in battle defending Yliakum from an invading horde!
+[NPC] Gregori: This is quite marvelous!
+[NPC] Gregori: Many thanks, friend.
+[NPC] Gregori: Please accept this for all your hard efforts.
+
+[Reward] [Money] 2107; [XP] 9400
+

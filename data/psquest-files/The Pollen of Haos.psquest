@@ -1,0 +1,209 @@
+[Questname] The Pollen of Haos
+[NPC Name] Vladovic Chel-Astra
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Vladovic Needs Dried Maajo; [Winch] Yes
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Are you in any need of assistance?
+[NPC] Vladovic: Ah, indeed I have a need; you may be able to assist me.
+[NPC] Vladovic: In my younger days, I once heard that some people can see the future in a bowl of soup.
+[NPC] Vladovic: At the time, I imagined one would not be able to see much further then the end of the meal!
+[NPC Narrate] -Vladovic chuckles a bit wheezily.-
+[NPC] Vladovic: I now know better, of course.
+[NPC] Vladovic: The pursuit of things alchemical introduces one's mind to many new things; even the experienced student occasionally hears whispers of things unknown.
+[NPC Narrate] -Vladovic runs his fingers through his wispy hair and looks out the doorway of his shop, his eyes on things unseen.-
+[NPC] Vladovic: Something is coming and I must needs work to make ready.
+[NPC] Vladovic: I am going to explore a path towards brewing up new potions of unusual potence.
+[NPC] Vladovic: If you are willing, I need you to fetch me a copy of a book from Jayose's in Hydlaa.
+[NPC Internal] I was planning on going there soon, so I will pick up the book for you.
+[NPC] Vladovic: Splendid, Sir, I knew I could count on you.
+[NPC] Vladovic: I need you to bring me the 'Herbica Esotica' from him.
+
+[To] Jayose
+
+[NPC Internal] I am looking for a book called Herbica Esotica.
+[NPC] Jayose: Eh?
+[NPC Narrate] -Jayose looks up from an old tome with miniscule print. He blinks owlishly and his eyes refocus on you.-
+[NPC] Jayose: I am busy, Sir.
+[NPC] Jayose: Don't bother me, bother my assistants.
+
+[To] Lori Tryllyn
+
+[NPC Internal] Excuse me miss, I am looking for a book called Herbica Esotica.
+[NPC] Lori: Herbica Esotica?
+[NPC] Lori: Yes, I know where that is.
+[NPC Narrate] -Lori looks at the shelves as she walks along.-
+[NPC] Lori: Herbica Esotica, Herbica Esotica, ah.
+[NPC] Lori: Here we are, the Herbica Esotica.
+[NPC Narrate] -Lori gently eases a somewhat-battered book bound in grayish leather from the shelf.-
+[NPC] Lori: Who is it for?
+[NPC Internal] It's for Vladovic Chel-Astra.
+[NPC] Lori: Vladovic?
+[NPC Narrate] -Lori smiles.-
+[NPC] Lori: I would have thought he'd know all of this by rote already.
+[NPC Narrate] -Lori hands you the book.-
+[NPC] Lori: Curious, I wonder what he is looking up.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Here, I found the book.
+[NPC] Vladovic: Excellent.
+[NPC] Vladovic: Do not go too far; I may need you to gather up a few ingredients for me.
+[NPC Narrate] -Vladovic sets the book on the counter and pages through the Herbica Esotica, pausing now and then to make a few notes.-
+[NPC] Vladovic: Hmm, yes.
+[NPC] Vladovic: Most of these I have, or can send my lad out for.
+[NPC] Vladovic: Two consumer antennae…
+[NPC] Vladovic: no, he can get those; he is looking for some excitement.
+[NPC] Vladovic: Ah, the hard one: I need the pollen of the haos plant.
+[NPC] Vladovic: It grows in the depths of the Lake of Ylia.
+[NPC] Vladovic: Most of the goods from down there come up through the Winch over in Hydlaa.
+[NPC] Vladovic: Do you have access to the Winch quarter?
+[NPC Internal] Let's suppose I have access to the Winch, what have I to do?
+[NPC] Vladovic: You gained access to the Winch?
+[NPC] Vladovic: Splendid.
+[NPC] Vladovic: Hurry off there.
+[NPC] Vladovic: There may be enough time.
+[NPC] Vladovic: I would begin by asking the people there who are involved in moving trade goods.
+
+[To] Hygrnn
+
+[NPC Internal] I am looking for some Haos pollen.
+[NPC] Hygrnn: Haos pollen?
+[NPC] Hygrnn: Haos pollen…
+[NPC] Hygrnn: oh, yes.
+[NPC] Hygrnn: That's a powerful paralytic poison!
+[NPC] Hygrnn: The Octarch on this level has very strict rules about trading in it.
+[NPC] Hygrnn: I can get you some, but you will need to fill out several governmental forms.
+[NPC Narrate] -Hygrnn opens a small chest and looks through a pile of papers.-
+[NPC] Hygrnn: No, no, wrong one.
+[NPC Narrate] -Hygrnn tries another.-
+[NPC] Hygrnn: Oh, ah.
+[NPC] Hygrnn: Restricted weapons….
+[NPC] Hygrnn: siege machinery construction…
+[NPC] Hygrnn: ah, here we are.
+[NPC Narrate] -Hygrnn pulls a sizeable collection of forms from the box and hands them to you.-
+[NPC] Hygrnn: Assuming everything is in order, I could have your pollen here in about a week after getting the forms back.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] You need to complete these forms to get the pollen.
+[NPC] Vladovic: Oh dear, all these forms?
+[NPC Narrate] -Vladovic sighs and looks through the stack of forms.-
+[NPC] Vladovic: I suppose that I should not be overly surprised; haos pollen is rather dangerous in the wrong hands.
+[NPC] Vladovic: Once these are submitted, how long will it take to receive the pollen?
+[NPC Internal] About a week.
+[NPC] Vladovic: A week?
+[NPC Narrate] -Vladovic frowns and chews on his lip, thinking.-
+[NPC] Vladovic: It *may* be enough time.
+[NPC] Vladovic: Hmmm.
+[NPC Narrate] -Vladovic taps a finger on the counter as he considers, muttering to himself. 'It may be worth it… and he owes me a favor. I'd hoped to never have to get involved with him again. But he would probably be able to arrange something. Yes.' He nods to himself and addresses you.-
+[NPC] Vladovic: There may be another way; it will likely mean dealing with some perilous people though.
+[NPC] Vladovic: Are you willing to risk that?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] Sorry I can't.
+[NPC] Vladovic: Yes.
+[NPC] Vladovic: You may be right.
+[NPC] Vladovic: I will have to trust in Talad to hasten things.
+[NPC] Vladovic: Thank you for all your help, Madam, and please accept this.
+[NPC] Vladovic: I took it in trade earlier, and perhaps it will be of value to you.
+[NPC Narrate] -Vladovic pauses in thought.-
+[NPC] Vladovic: Also, you may want to check on Bjorid over in East Akkiao.
+[NPC] Vladovic: I wonder if he's still dealing with that …
+[NPC] Vladovic: problem.
+[NPC] Vladovic: And Trasok is often in need of some tasks.
+
+[Reward] [XP] 17800; [Item] 1, Sphere glyph; [Faction] 40, Science Association
+
+[Way] 2
+
+[NPC Internal] yes
+[NPC] Vladovic: I am reluctant to send you to him, but please visit Kisatol and let him know that I need the haos pollen.
+[NPC] Vladovic: But do tread with care, my dear Sir.
+[NPC] Vladovic: Dealing with him is dangerous.
+[NPC Internal] about haos pollen
+[NPC] Vladovic: Haos pollen?
+[NPC Narrate] -Kisatol eyes you warily.-
+[NPC] Vladovic: Who wants it?
+[NPC Internal] vladovic needs the haos pollen
+[NPC] Vladovic: vladovic, hrrm, yeah, I owe him. But I don't owe you. With something like haos pollen, this could be a setup. Not that it would matter; not for long.
+[NPC Narrate] -Kisatol smiles evilly.-
+[NPC] Vladovic: Listen.
+[NPC] Vladovic: You will do a little favor for me, and we will see if there might somehow be some of this pollen to be found for our dear aged alchemist…
+[NPC Narrate] -Kisatol's voice hardens, demanding an answer.-
+[NPC] Vladovic: Yes?
+[NPC Internal] yes
+[NPC] Vladovic: A certain businessman in Hydlaa owes me a little bit of money.
+[NPC] Vladovic: You collect it, I find what you need.
+[NPC] Vladovic: Got it?
+[NPC Internal] yes
+[NPC Narrate] -Kisatol smiles.-
+[NPC] Vladovic: Darven Bounash owes me sixty circles.
+[NPC] Vladovic: Collect it from him however you can.
+[NPC] Vladovic: But remember, the truly dead don't pay their debts.
+[NPC] Vladovic: In that eventuality, I will collect from you.
+[NPC Internal] yes
+[NPC Internal] Kisatol sent me
+[NPC Narrate] -Darven flinches.-
+[NPC] Vladovic: What?
+[NPC] Vladovic: I don't have it.
+[NPC] Vladovic: I'm trying to get it.
+[NPC Narrate] -Darven's voice takes on a bit of a whining tone.-
+[NPC] Vladovic: It's hard; the guards are always watching me.
+[NPC] Vladovic: I need a bit more time!
+[NPC Internal] kisatol sent me
+[NPC Narrate] -Darven flinches.-
+[NPC] Vladovic: What?
+[NPC] Vladovic: I don't have it.
+[NPC] Vladovic: I'm trying to get it.
+[NPC Narrate] -Darven's voice takes on a bit of a whining tone.-
+[NPC] Vladovic: It's hard; the guards are always watching me.
+[NPC] Vladovic: I need a bit more time!
+[NPC Internal] kisatol sent me
+[NPC Narrate] -Darven licks his lips a bit nervously and then recovers his aplomb, looking you up and down, his eyes pausing briefly at your purse.-
+[NPC] Vladovic: Tell you what?
+[NPC] Vladovic: We'll play a little game.
+[NPC] Vladovic: You win, I give you the money and a bit extra for yourself.
+[NPC] Vladovic: I win, you pay NPC out of your own purse.
+[NPC] Vladovic: Are you up for it?
+[NPC Internal] no
+[NPC Narrate] -Darven sighs.-
+[NPC] Vladovic: Very well.
+[NPC] Vladovic: But too bad for you.
+[NPC] Vladovic: I would have tossed in a couple of circles for the lucky winner.
+[NPC] Vladovic: Oh, all right.
+[NPC Narrate] -Darven grimaces and counts out sixty circles and lays them on a nearby barrel for you.-
+[NPC] Vladovic: There.
+[NPC Narrate] - Give 60 circles -
+[NPC] Vladovic: It appears you have some ability.
+[NPC] Vladovic: Did he try to game you at all?
+[NPC Internal] yes
+[NPC] Vladovic: It doesn't matter, I have my money.
+[NPC] Vladovic: If he did cheat you, it is between you and him.
+[NPC Narrate] -Kisatol tosses a small sack to you.-
+[NPC] Vladovic: Your haos pollen.
+[NPC] Vladovic: Be careful with it: that stuff will kill you.
+[NPC] Vladovic: A real shame if that should happen.
+[NPC] Vladovic: Begone.
+
+[To] Vladovic Chel-Astra
+
+[NPC] Vladovic: Thank you.
+[NPC Narrate] -Vladovic puts a pair of old leather gloves on his hands and opens the sack to look inside.-
+[NPC] Vladovic: Ah, splendid; this looks like good pollen.
+[NPC Narrate] -Vladovic closes the sack again and removes his gloves.-
+[NPC] Vladovic: The consumer antenna material transmutes the poison.
+[NPC] Vladovic: Combined with other ingredients, it will form a potent base for several potions, and they may well be very important in what I have foreseen.
+[NPC] Vladovic: Thank you for dealing with NPC; I don't know that I would have been able to.
+[NPC Narrate] -Vladovic unlocks a small chest and takes out a glyph and hands it to you.-
+[NPC] Vladovic: I wish for you to have this in return.
+[NPC] Vladovic: May it serve you well.
+
+[Reward] [Item] 1, Divination glyph
+

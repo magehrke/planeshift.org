@@ -1,0 +1,57 @@
+[Questname] The Azure Way Adept
+[NPC Name] Axomir
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Becoming an Azure Way Adept; [Item] 2, Apprentice's Azure Way Wands; [Skill] 50, Azure Way
+
+[To] Axomir
+
+[NPC Internal] Two wands to proof I am worthy.
+[NPC] Axomir: I take it a congratulation is in order, well done.
+[NPC Narrate] -Axomir scribbles something on a report while keeping an eye on the winch gears. He hands you back one wand.-
+[NPC] Axomir: Return that wand to your fellow student.
+[NPC] Axomir: I will have your new one ready later.
+[NPC] Axomir: I have updated the report but you will need to deliver it to Archmaster Menita.
+[NPC] Axomir: I am not sure where she might be, but she spends most her time studying the minds of underbelly of Yliakum.
+[NPC] Axomir: So find a group of the worst citizens of Yliakum, possibly even banished, and you will likely find her studying them.
+
+[To] Menita
+
+[NPC Internal] Your updated report, Mistress.
+[NPC] Menita: Yes, as expected.
+[NPC Narrate] -Menita sets the report aside without taking her eyes from you, or staring through you. Her blue eyes are like ice in her expressionless face. She finally takes her eyes away from you.-
+[NPC] Menita: Go to Levrus.
+[NPC] Menita: Give him this.
+[NPC Narrate] -Menita holds a Way Amulet out without looking at you.-
+[NPC] Menita: You may then return to Axomir.
+[NPC] Menita: Tell him you may pass.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I was told to hand you this amulet.
+[NPC] Levrus: Jewelry?
+[NPC] Levrus: Do I look like a lady…
+[NPC] Levrus: or a dwarf?
+[NPC] Levrus: I do not have any need of such things.
+[NPC] Levrus: However, since you are offering it to me, I can not refuse.
+[NPC Narrate] -Levrus takes a familiar box from under his counter and drops your wand in, then shakes it from side to side.-
+[NPC] Levrus: What is this?
+[NPC] Levrus: I seem to have a few items in here already.
+[NPC] Levrus: Both wands.
+[NPC] Levrus: Imagine that.
+[NPC] Levrus: I do wonder where they keep coming from.
+[NPC] Levrus: Well, I suppose I can offer them to you.
+[NPC] Levrus: If you don't want either of them, take this pie.
+
+[To] Axomir
+
+[NPC Internal] I have returned.
+[NPC] Axomir: You have, so Menita has approved you?
+[NPC Narrate] -Axomir removes a wand from a bag and hands it over.-
+[NPC] Axomir: Here is your new wand.
+[NPC] Axomir: Be sure you have returned the other Azure Way wand to the person who gave it to you.
+[NPC] Axomir: Also, do not forget you will need a sufficient level of Azure Way and knowledge of the Humanoid and Mind before returning and handing me your wand as a sign of being ready to continue.
+
+[Reward] [Money] 2107; [XP] 10800; [OR Begin] [Item] 1, Apprentice's Red Way Staff [OR] [Item] 1, Apprentice's Crystal Way Staff [OR] [Item] 1, Pie [OR End]; [Item] 1, Adept's Azure Way Staff; [Faction] 15, Azure Order
+

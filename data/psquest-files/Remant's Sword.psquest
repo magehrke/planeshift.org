@@ -1,0 +1,33 @@
+[Questname] Remant's Sword
+[NPC Name] Remant Tovere
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Remant's Gauntlets; [Item] 1, Broadsword
+
+[To] Remant Tovere
+
+[NPC Internal] Hail soldier, any quests I can help you with?
+[NPC] Remant: Well, this is a bit embarassing, but I misplaced my broadsword and am in desperate need of another.
+[NPC] Remant: Bring me one and I'll reward you well.
+[NPC] Remant: I'd get it myself, but I'm already on duty and cannot leave my post.
+[NPC] Remant: Will you do that for me?
+[NPC Internal] Consider it done.
+[NPC] Remant: Thank you, Sir!
+[NPC] Remant: I shall be right here, eagerly awaiting the broadsword.
+
+[Give] Remant Tovere; 1, Broadsword
+
+[NPC] Remant: Ah, beautiful!
+[NPC] Remant: You have my earnest gratitude, friend.
+[NPC] Remant: Here's your reward as I promised.
+[NPC] Remant: Thank you again!
+[NPC] Remant: Hey, that's twice you've helped me.
+[NPC] Remant: You should consider joining the guards.
+[NPC] Remant: There are nice rewards for doing a good job.
+[NPC] Remant: You might even get access to the Hydlaa Winch area.
+[NPC] Remant: See my Lieutenant, Jefecra Harcrit, if you're interested.
+
+[Reward] [Money] 5130; [XP] 9400; [Faction] 10, Guard; 
+

@@ -1,0 +1,129 @@
+[Questname] Knowledge and Practical of the Dark Way Master
+[NPC Name] Evelyn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Dark Way Master Training; [Item] 1, Master's Dark Way Wand; [Skill] 130, Dark Way; [Item] 1, Adept's Dark Way Bracers; [Item] 1, Lava glyph; [Item] 1, Hand glyph
+
+[Info] You get the glyphs back.
+
+[To] Evelyn
+
+[NPC Internal] Please except this wand as proof of my dedication to the Dark Way, Archmistress.
+[NPC] Evelyn: Your progress is pleasing.
+[NPC] Evelyn: You have become such a strong Diaboli.
+[NPC] Evelyn: So intelligent and knowledgeable of the Dark Way.
+[NPC] Evelyn: To reward your devotion, I shall add to that knowledge.
+[NPC Narrate] -Evelyn holds out a hand.-
+[NPC] Evelyn: Come closer, my pet, and give me your Shadow Glyph.
+[NPC Internal] Here you are.
+[NPC Narrate] -Evelyn begins purifying it as she speaks. She holds out her hand again.-
+[NPC] Evelyn: Your Entropy Glyph, if you will?
+[NPC Internal] Entropy, here you are as requested.
+[NPC] Evelyn: So quick to obey.
+[NPC] Evelyn: I do adore that about you.
+[NPC Narrate] -Evelyn repeats the purifying on the glyph.-
+[NPC] Evelyn: Lastly, Humanoid.
+[NPC] Evelyn: One of the more…
+[NPC] Evelyn: interesting glyphs to use.
+[NPC] Evelyn: You do have one, don't you?
+[NPC] Evelyn: If so, give it to me now.
+[NPC] Evelyn: If not…
+[NPC] Evelyn: I simply can not part with mine.
+[NPC Internal] Can you help me get one?
+[NPC] Evelyn: Oriven Thamal should be able to get what you need.
+[NPC] Evelyn: Such a helpful creature.
+[NPC] Evelyn: Much like you…
+[NPC Narrate] -Evelyn give a coy smile.-
+
+[To] Oriven Thamel
+
+[NPC Internal] I am looking for Humanoid Glyph.
+[NPC] Oriven: Something she asks of you, does she not?
+[NPC] Oriven: Yes, to pass the gates to further knowledge, one much procure that which provides the key of the mind.
+[NPC] Oriven: Without key, lock is nothing more than a useless barrier, no longer suited for its intended purpose.
+[NPC] Oriven: Yes, you are in need of this key.
+[NPC] Oriven: I shall provide that which is requested.
+[NPC] Oriven: The humble servant obliges the master.
+[NPC Narrate] -Oriven removes a small item wrapped in cloth from his ever present sack.-
+[NPC] Oriven: Take, but be wary.
+[NPC] Oriven: Some doors have lock and key for a well deserved reason.
+[NPC] Oriven: Other doors with no lock nor key should ever be touched.
+
+[Give] Evelyn; 1, Humanoid glyph
+
+[NPC Narrate] -Evelyn once again goes through the purification.-
+[NPC] Evelyn: Patience now.
+[NPC] Evelyn: The pleasure is in the process.
+[NPC Narrate] -Evelyn watches the glyph intently until it is purified to her.-
+[NPC] Evelyn: Now for the combine.
+[NPC] Evelyn: The order you do things is important.
+[NPC Narrate] -Evelyn winks and places Shadow, then Entropy, then Humanoid and starts the combine ritual.-
+[NPC] Evelyn: It is finished.
+[NPC] Evelyn: Now I shall demonstrate the spell.
+[NPC] Evelyn: Observe.
+[NPC Narrate] -Energy surrounds Evelyn and her shadow detaches and moves around seemingly under her control. They rise to caress her body before settling back to the floor.-
+[NPC] Evelyn: The Dark Way is such a wondrous thing.
+[NPC Narrate] -Evelyn folds your glyphs back into your hands.-
+[NPC] Evelyn: You will use this as a weapon on others.
+[NPC] Evelyn: You do not yet have the control and power that I possess.
+[NPC] Evelyn: If you attempt to use it on yourself, you will suffer pain, so do not try it…
+[NPC] Evelyn: unless you enjoy such things.
+[NPC] Evelyn: Purify your glyphs and execute the combine.
+[NPC] Evelyn: Then tell me what the name of the spell is.
+[NPC Internal] animate shadow
+[NPC] Evelyn: There are many of these hidden combine spells, just waiting for you to find and use as you see fit.
+[NPC] Evelyn: Your knowledge must be great, and you must discover the order of the combine.
+[NPC] Evelyn: Even then, they may not reveal themselves the first few times.
+[NPC Narrate] -Evelyn's eyes show a hint of sadness.-
+[NPC] Evelyn: That is a lesson I learned long ago, taught to me by one of the greatest men to ever exist.
+[NPC] Evelyn: He was a Blue Way Archmaster, but rivalled Archmasters in all other Ways, nearly surpassing them in their own Way.
+[NPC] Evelyn: He even taught me a few things in the dark.
+[NPC Narrate] -Evelyn's brief smile fades.-
+[NPC] Evelyn: All power comes with a cost, and he did pay for what he had in the end.
+[NPC] Evelyn: We will speak of it another day, when we know each other much better.
+[NPC] Evelyn: Now one last lesson.
+[NPC] Evelyn: I give you a name: Gilata Meselir.
+[NPC] Evelyn: She is here in Dsar Kore.
+[NPC] Evelyn: Go and meet her.
+[NPC] Evelyn: I'd like you to return here and tell me what is her work.
+
+[To] Gilata Meselir
+
+[NPC Internal] May I know what is your job.
+[NPC] Gilata: [Gilata inclines her head] I am Gilata Meselir, vendor of fine pottery, created by my own hands. What is your need.
+
+[To] Evelyn
+
+[NPC Internal] pottery
+[NPC] Evelyn: Yes.
+[NPC] Evelyn: That is true.
+[NPC] Evelyn: A real, normal, nice little job, isn't it?
+[NPC] Evelyn: Many people wanted just this a normal life.
+[NPC Narrate] -Evelyn sighs.-
+[NPC] Evelyn: Some others are forced to leave their life.
+[NPC] Evelyn: And you.
+[NPC] Evelyn: If you really want to became a master you can say goodbye to every hope to have a normal life from now on.
+[NPC] Evelyn: The life of a Master of the dark Way it's a life of struggles.
+[NPC] Evelyn: Some outside.
+[NPC] Evelyn: Others inside of you.
+[NPC Narrate] -Evelyn pauses.-
+[NPC] Evelyn: So.
+[NPC] Evelyn: If you're still sure.
+[NPC] Evelyn: Hand me your bracers.
+[NPC Internal] My Bracers as requested, Archmistress.
+[NPC Narrate] -Evelyn silently hands you another set of bracers, then studies you for a few moments as she runs a finger across her lips in thought.-
+[NPC] Evelyn: YOU, it is time to finalize your skills in the Dark Way.
+[NPC] Evelyn: However, I am not going to make it so easy this time.
+[NPC] Evelyn: If you recall, I mentioned some time ago that you should mingle with practitioners of the two Ways that support your own.
+[NPC] Evelyn: I need for you to also bring me one Master's Set of Bracers from each of those two Ways, and give all three to me all at once.
+[NPC] Evelyn: So, you will bring me your own wand, and one Master's Bracer from the Red and Brown Ways.
+[NPC] Evelyn: This is to prove you have gained respect and support from the Circles that support your own.
+[NPC] Evelyn: Only once you reach your limit will I accept these items and give you your final test.
+[NPC] Evelyn: You will know when that is.
+[NPC] Evelyn: I will be waiting…
+[NPC Narrate] -Evelyn runs her hands down her sides.-
+[NPC] Evelyn: …right here.
+
+[Reward] [XP] 19200; [Item] 1, Humanoid glyph; [Item] 1, Master's Dark Way Bracers; [Faction] 45, Dark Order
+

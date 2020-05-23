@@ -1,0 +1,29 @@
+[Questname] Bead of Sanity
+[NPC Name] Fordanot Helsun
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Jolik's Letter; [Item] 1, Black Glass Bead
+
+[Info] You can loot Finra, Jirris, and Fordanot to get the Black Glass Bead.
+
+[To] Fordanot Helsun
+
+[NPC Internal] Is there something I can help you with?
+[NPC Narrate] -Fordanot stares at a wall.-
+[NPC] Fordanot: A black glass bead.
+[NPC] Fordanot: The Whisper told me to get one.
+[NPC] Fordanot: I think they have it, it's just a test.
+
+[Give] Fordanot Helsun; 1, Black Glass Bead
+
+[NPC Internal] I found one.
+[NPC Narrate] -Fordanot grabs the glass bead from you.-
+[NPC] Fordanot: She will be saved.
+[NPC Narrate] -Fordanot drops some coins on the ground.-
+[NPC] Fordanot: A voice is spreading you are helping some of the whispers…
+[NPC] Fordanot: be careful, it's a dark path.
+
+[Reward] [Money] 2107; [XP] 10800; [Faction] 15, Cabal of Whispers; 
+

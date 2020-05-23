@@ -1,0 +1,69 @@
+[Questname] A Brand New Knife for Burdess
+[NPC Name] Burdess Quirain
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Jomed's Meat Medly; [Money] 50
+
+[To] Burdess Quirain
+
+[NPC Internal] Is there something I can help you with today?
+[NPC] Burdess: Well, yes, I do have something you could help me with!
+[NPC] Burdess: Every once in a while I catch this rather ugly fish.
+[NPC] Burdess: It's the weirdest thing you ever saw: no eyes and all these odd dangly whiskers hanging off its face.
+[NPC] Burdess: Well, it fillets up really nicely.
+[NPC] Burdess: But the skin and scales will wear down any knife you name!
+[NPC] Burdess: My best filleting knife is nearly done for; if you could get a new one for me that would be really helpful.
+[NPC] Burdess: Will you do that?
+[NPC] Burdess: I'll give you some coin if you do.
+[NPC Internal] Sounds like some easy coin, I'm in.
+[NPC] Burdess: Great!
+[NPC] Burdess: I'd start with checking with the smiths.
+[NPC] Burdess: That's where blades are made, after all!
+
+[To] Jomed Parcen
+
+[NPC Internal] I am looking for a filleting knife, can you help me?
+[NPC] Jomed: Oh, hello again.
+[NPC] Jomed: I have those, I do, and they are good quality ones, I assure ye.
+[NPC] Jomed: I'll sell ye one for fifty tria.
+[NPC Internal] Here are your tria good sir.
+[NPC] Jomed: Thank ye kindly.
+[NPC Narrate] -Jomed pockets the coins and opens a cabinet. He unwraps an oiled cloth and selects a well-made filleting knife and sheath from the pile. He passes it to you.-
+[NPC] Jomed: There ye are.
+[NPC] Jomed: I think ye'll find it's quite suitable.
+[NPC] Jomed: Ah, is this for Burdess?
+[NPC] Jomed: I was wondering what was holding up that fish delivery.
+
+[To] Burdess Quirain
+
+[NPC Internal] Here is your filleting knife.
+[NPC] Burdess: Ah, you found me one, that's great!
+[NPC Narrate] -Burdess takes it out of the sheath and looks it over.-
+[NPC] Burdess: Looks like a good one too.
+[NPC] Burdess: This will do fine until I can get out and buy a few more.
+[NPC] Burdess: A couple of the Vigesimi have standing orders for these fillets, and I enjoy them too.
+[NPC] Burdess: Few eat as well as them on high as them that catches their food, eh?
+[NPC Internal] Can you help me learn to fish?
+[NPC] Burdess: Sure.
+[NPC] Burdess: You can buy a fishing pole from me and I will get you started on your training.
+[NPC] Burdess: There is a guard in Ojaveda who is also a trainer as well as guard of the winch building and Easamau over by the Eagle Bronze Doors.
+[NPC] Burdess: There are a lot of places to catch fish.
+[NPC] Burdess: Most lakes or rivers have fish.
+[NPC] Burdess: There is one near Gugrontid on the road to the Eagle Bronze Doors.
+[NPC] Burdess: There is also the Lake of Tears just past the pass.
+[NPC] Burdess: There are a few more in the area outside the Bronze Doors, too.
+[NPC] Burdess: Towards Ojaveda, there is a small lake on a hill as well as the Irifon River.
+[NPC Internal] I would like to learn more about the people working for the Food Association.
+[NPC] Burdess: Ah, that's pretty easy, I suggest you see Mirra Houphen if you haven't already, she is a world famous cook after all.
+[NPC] Burdess: And I also heard Archilaya Gurpleferd is trying out new recipes.
+[NPC] Burdess: Over in Ojaveda, you can pay a visit to the tavern there, The Broken Door.
+[NPC] Burdess: The cook there is fantastic at preparing fish dishes.
+[NPC] Burdess: You might want to start an apprenticeship with her at some point.
+[NPC] Burdess: You'll need a good amount of cooking training, though.
+[NPC] Burdess: Here's some tria and a nice fresh fish for you.
+[NPC Narrate] -Burdess gives you some coins and a fish wrapped in a large leaf.-
+[NPC] Burdess: Thank you for your help!
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Carp Fish; [Faction] 20, Food Association
+

@@ -1,0 +1,31 @@
+[Questname] Save Edrich Sultov's Reputation
+[NPC Name] Edrich Sultov
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 5, Sabres
+
+[To] Edrich Sultov
+
+[NPC Internal] Hello, I'm looking for some work?
+[NPC] Edrich: My oh my, it is as though Laanx actually heard my prayers.
+[NPC] Edrich: Yes StoneBreaker, I definitely have a quest for you.
+[NPC] Edrich: My last transport got mugged… and I never get mugged!
+[NPC] Edrich: Now I'm bound to have displeased customers and that's bad for business.
+[NPC] Edrich: Will you help me to retrieve the goods?
+[NPC Internal] Yes.
+[NPC] Edrich: Thank you, Sir.
+[NPC] Edrich: The muggers stole five sabres I was sending to the Hydlaa Guard.
+[NPC] Edrich: I will give you something worth your trouble if you can replace all five in a hurry.
+
+[Give] Edrich Sultov; 5, sabres
+
+[NPC] Edrich: Great!
+[NPC] Edrich: Now I don't need to worry about angry customers anymore!
+[NPC] Edrich: Here.
+[NPC] Edrich: Take this glyph.
+[NPC] Edrich: There doesn't seem to be much call for this type of glyph, but don't think I'm just pushing it on you; think of it as helping the both of us.
+[NPC] Edrich: And of course, some tria for you.
+[NPC] Edrich: I wonder whatever happened to the muggers?
+[NPC] Edrich: Oh, well…
+[NPC] Edrich: I'm sure they'll get what's coming to them.

@@ -1,0 +1,62 @@
+[Questname] Red Way Glyph Training
+[NPC Name] Ferryd Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Beginning the Red Way Apprenticeship; [Item] 1, Apprentice's Red Way Wand; [Skill] 40, Red Way; [Item] 1, Vortex glyph; [Item] 1, Might glyph
+
+[Info] You get the glyphs back.
+
+[To] Ferryd Shillor
+
+[NPC Internal] Please accept my wand as being a worthy student.
+[NPC Narrate] -Ferryd holds a hand up.-
+[NPC] Ferryd: Not so fast.
+[NPC] Ferryd: Welcome back YOU.
+[NPC] Ferryd: I sense that your Red Way skills have progressed nicely.
+[NPC] Ferryd: Are you ready for learning about spells which require a single glyph?
+[NPC Internal] Yes, I come prepared.
+[NPC] Ferryd: Good, let me think.
+[NPC Narrate] -Ferryd taps his chin with his fore finger, then snaps his fingers.-
+[NPC] Ferryd: I know, give me…
+[NPC] Ferryd: No, you should hand be your Wand as proof of being a 'worthy student'.
+[NPC Internal] My wand, as requested.
+[NPC] Ferryd: Great.
+[NPC Narrate] -Ferryd plays with the wand as he continues to speak.-
+[NPC] Ferryd: Now give me the glyph that can be used to surround the caster with a spire of protective flames, among other things.
+[NPC Narrate] -Ferryd awaits the glyph.-
+[NPC] Ferryd: Oh, and have this back.
+
+[Give] Ferryd Shillor; 1, Vortex Glyph
+
+[NPC Internal] Would that be .. this one?
+[NPC Narrate] -Ferryd nods.-
+[NPC] Ferryd: Yes, Vortex is the correct Glyph.
+[NPC] Ferryd: You have met with Meoeor, I assume.
+[NPC] Ferryd: Such an impatient fellow, he is.
+[NPC] Ferryd: When I met him, he always seemed to think there was a shorter route to his desires, and never stopped to think about the gains of the longer path.
+[NPC] Ferryd: When studying magic, you may miss important experiences if you do not go slowly.
+[NPC] Ferryd: Not to mention the dangers of pushing yourself.
+[NPC Narrate] -Ferryd looks you over once before continuing.-
+[NPC] Ferryd: Now, let's see what else you have learned.
+[NPC] Ferryd: There is a Glyph that enhances your strength for a short time.
+[NPC] Ferryd: Do you possess one?
+[NPC Internal] I do.
+[NPC] Ferryd: Good.
+[NPC] Ferryd: Then please show it to me.
+
+[Give] Ferryd Shillor; 1, Might Glyph
+
+[NPC Internal] Here is the second glyph you requested.
+[NPC Narrate] -Ferryd grins.-
+[NPC] Ferryd: Yes, indeed.
+[NPC] Ferryd: I once used it on a small lemur girl and had a test of strength challenge with some of the strongest Kran.
+[NPC] Ferryd: They, however had no idea.
+[NPC] Ferryd: You should have seen them, their embarrassment almost turned them into red ruby Kran.
+[NPC Narrate] -Ferryd laughs uncontrollable for a while before wiping the tears from his eyes.-
+[NPC] Ferryd: Congratulations YOU, you know have the knowledge and Glyphs needed to proceed past this stage of training.
+[NPC] Ferryd: I give you these bracers as proof, and with then you can go by the title of Low Apprentice.
+[NPC] Ferryd: After you have trained your skills further, you will return them to me and I will test you once again.
+
+[Reward] [XP] 10800; [Item] 1, Apprentice's Red Way Bracers; [Faction] 15, Red Order
+

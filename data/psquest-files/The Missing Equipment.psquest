@@ -1,0 +1,97 @@
+[Questname] The Missing Equipment
+[NPC Name] Baboraer Airiskel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes
+
+[To] Baboraer Airiskel
+
+[NPC Internal] Hail soldier, any assignments I can help with?
+[NPC] Baboraer: Absolutely!
+[NPC] Baboraer: This Winch guard assignment is insulting.
+[NPC] Baboraer: I want to be back where the action is: Bronze Doors One.
+[NPC] Baboraer: But I was demoted after losing some equipment, and all I have left from my old post is my storage skeleton key.
+[NPC] Baboraer: Can you help me?
+[NPC Internal] Yes, I can.
+[NPC] Baboraer: Oh good.
+[NPC] Baboraer: Maybe if you can recover it, they'll give me my job back!
+[NPC] Baboraer: Unless they've made another one by now.
+[NPC] Baboraer: But it's a chance I've got to take.
+[NPC] Baboraer: I lost a crystal attuner.
+[NPC] Baboraer: The last thing I remember when holding it is talking to my friend, Thrynt Glass.
+[NPC] Baboraer: Then I'm not sure.
+[NPC] Baboraer: That's all I can tell you.
+[NPC] Baboraer: Maybe you can ask him about the missing equipment.
+[NPC] Baboraer: Good luck!
+
+[To] Thrynt Glass
+
+[NPC Internal] What do you know about the missing equipment?
+[NPC] Thrynt: Missing equipment?
+[NPC] Thrynt: Hmm.
+[NPC Narrate] -Thrynt rubs his chin and ponders the situation.-
+[NPC] Thrynt: Oh, right.
+[NPC] Thrynt: Baboraer was talking to me, then dropped something as he walked away.
+[NPC] Thrynt: I didn't know what it was, so I put it in storage.
+[NPC] Thrynt: Box 253, I think.
+[NPC] Thrynt: If you want access to a storage box, you'll need to speak to Beniua Busuka first.
+[NPC] Thrynt: Just request a storage form.
+[NPC] Thrynt: Say it's for me if she asks.
+[NPC] Thrynt: She'll give you one to give to Tarmeen.
+[NPC] Thrynt: Hope that helps!
+
+[To] Beniua Busuka
+
+[NPC Internal] I need a storage form.
+[NPC] Beniua: One moment, Sir.
+[NPC] Beniua: You're not a member of the Sunshine or Shadow Squadrons.
+[NPC] Beniua: On whose behalf are you requesting a storage form?
+[NPC Internal] It's on the behalf of Thrynt Glass.
+[NPC] Beniua: Ah.
+[NPC] Beniua: The Shadowcasters are always storing and retrieving something or other.
+[NPC] Beniua: Here's a storage form.
+[NPC] Beniua: Present that to Tarmeen Alecheech and he'll be able to help you further.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] [ YOU gives Tarmeen the storage form.]
+[NPC] Tarmeen: Alright.
+[NPC] Tarmeen: This seems to be in order.
+[NPC] Tarmeen: Keep in mind you'll need a storage skeleton key to open a box.
+[NPC] Tarmeen: This is for Thrynt, it says.
+[NPC] Tarmeen: So I guess you'd give it to him.
+[NPC] Tarmeen: If you take a box by mistake, just give it to me.
+[NPC] Tarmeen: Now which box did you say it was?
+[NPC] Tarmeen: 235?
+[NPC] Tarmeen: 253?
+[NPC] Tarmeen: 352?
+[NPC Internal] 253
+[NPC] Tarmeen: Here you go then.
+
+[To] Thrynt Glass
+
+[NPC Internal] gives Thrynt the lockbox 253.
+[NPC] Thrynt: Let's open this up.
+[NPC] Thrynt: My storage skeleton key!
+[NPC] Thrynt: Oh, don't tell me I dropped it!
+[NPC] Thrynt: I don't even know who has another one.
+[NPC] Thrynt: Sorry.
+[NPC] Thrynt: You'll have to find someone else who has a storage skeleton key.
+
+[To] Baboraer Airiskel
+
+[NPC Internal] gives Baboraer the lockbox 253.
+[NPC] Baboraer: A storage box?
+[NPC] Baboraer: Do you think this contains the crystal attuner?
+[NPC] Baboraer: Let us see.
+[NPC Narrate] -Baboraer unlocks the box.-
+[NPC] Baboraer: It's the crystal attuner!
+[NPC] Baboraer: Hooray!
+[NPC] Baboraer: I'll be back at Bronze Doors One before I know it.
+[NPC] Baboraer: Thanks for all your help.
+[NPC] Baboraer: Take these boots.
+[NPC] Baboraer: One size fits all!
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Chain Mail Boots
+

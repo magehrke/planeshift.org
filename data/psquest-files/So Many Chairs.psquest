@@ -1,0 +1,282 @@
+[Questname] So Many Chairs
+[NPC Name] Njormik Carpenter
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning Shield Working
+
+[To] Njormik Carpenter
+
+[NPC Internal] You look like you need help with something.
+[NPC Narrate] -Njormik is working feverishly before looking at you with a worried expression on his face.-
+[NPC] Njormik: Oh dear!
+[NPC] Njormik: This is hopeless.
+[NPC] Njormik: The Amdeneir Vigesimi is having a big party at his residence and he wants his old chairs replaced, insisting they be made of a certain wood.
+[NPC] Njormik: I was almost done when I got word he wants twenty more.
+[NPC] Njormik: Twenty!
+[NPC] Njormik: And the party is days away.
+[NPC] Njormik: I don't have enough wood!
+[NPC Internal] What can I do to help?
+[NPC Narrate] -Njormik breaths a sigh of relief.-
+[NPC] Njormik: Oh thank you!
+[NPC] Njormik: This is very specific wood called Dark Oak, I'll need to put in an order.
+[NPC Narrate] -Njormik chuckles a bit.-
+[NPC] Njormik: You know, Amdeneir is known for its wood but it still has to be sent away to be prepared for this type of work.
+[NPC Narrate] -He writes a work order for wood and begins to hand it to you when he hesitates.-
+[NPC] Njormik: Oh, I just remembered, the next caravan from Ojaveda isn't due for some time.
+[NPC] Njormik: It's going to be a close call.
+[NPC] Njormik: Do you have access to the Hydlaa winch area, Sir?
+
+[Info] Answer the pop-up window quickly or it will default to “no”.
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] Why, yes, as a matter of fact I do.
+[NPC] Njormik: Oh splendid!
+[NPC] Njormik: Please go to Lentanor in the winch area.
+[NPC] Njormik: If you don't know where he is, you can usually find him at his workshop on the level immediately above the winch building.
+[NPC] Njormik: He is closer than Jirosh and he should be able to give you the wood directly.
+[NPC] Njormik: If you can carry it that is.
+[NPC] Njormik: Here is the order.
+
+[To] Lentanor Thunderhead
+
+[NPC Internal] Here is an order for Njormik in Amdeneir. He needs it fast!
+[NPC ME] Lentanor is sawing something, then stops, wipes his brow, and grabs the order.
+[NPC] Lentanor: What's this?
+[NPC Narrate] -He reads the order form and raises his thick eyebrows.-
+[NPC] Lentanor: Hmm, Dark Oak.
+[NPC] Lentanor: Why yes, I think I have enough of tha' kind of wood here.
+[NPC] Lentanor: I use it all the time.
+[NPC] Lentanor: Great for makin' quality furniture.
+[NPC Narrate] -Lentanor chuckles.-
+[NPC] Lentanor: Njormik must have a big order if he needs this much.
+[NPC Narrate] -Some time passes as Lentanor goes into his shop and grabs the wood…-
+[NPC] Lentanor: Here ye go.
+[NPC] Lentanor: Now careful, this is heavy.
+[NPC] Lentanor: I'd say about one hundred an' fifty kilos.
+[NPC] Lentanor: If ye can carry that much I'll just give it to ye.
+[NPC] Lentanor: Otherwise ye can tell Njormik I'll have it delivered.
+[NPC] Lentanor: It won't take long.
+[NPC] Lentanor: What'll it be?
+[NPC Internal] Sure, I can carry it. Lay it on me.
+[NPC] Lentanor: Very well then.
+[NPC] Lentanor: Here ye go.
+[NPC Narrate] -Lentanor bends skillfully at his knees and picks up the load, handing it to you.-
+[NPC] Lentanor: Give Njormik me regards.
+[NPC] Lentanor: He can pay me when he can.
+
+[To] Njormik Carpenter
+
+[NPC Internal] I have returned.
+[NPC Narrate] -Njormik seems to be taking a break but sweat can still be seen on his forehead. He looks at you with a big grin.-
+[NPC] Njormik: Hey!
+[NPC] Njormik: I see you have the wood.
+[NPC] Njormik: That's fantastic!
+[NPC] Njormik: Hand it over and I'll set it down.
+[NPC Internal] [With some effort you hand over the stack of wood to Njormik.]
+[NPC Narrate] -Njormik grunts as he sets it down. He gives the wood a good sniff.-
+[NPC] Njormik: I just love the smell of fresh wood.
+[NPC] Njormik: Now I can get started right away.
+[NPC] Njormik: I'll have these chairs done in no time.
+[NPC] Njormik: I'll pay Lentanor next time I see him.
+[NPC] Njormik: You have been a great help to me, Sir.
+[NPC] Njormik: Take these coins for your effort.
+[NPC Narrate] -Njormik reaches nearby and grabs a book.-
+[NPC] Njormik: I'd also like you to have this.
+[NPC] Njormik: It's a shield instructional book.
+[NPC] Njormik: I'm a carpenter, I really don't have use for it.
+[NPC] Njormik: I got it from a dwarf who passed by.
+[NPC] Njormik: Yep, Carpenter is my name and carpentry is my game.
+[NPC] Njormik: Let me know if you ever want to buy one of my wares.
+
+[Way] 2
+
+[NPC Internal] I'm afraid not.
+[NPC] Njormik: I see.
+[NPC] Njormik: Well in that case take this order and hurry to Jirosh Mikana in Ojaveda.
+[NPC] Njormik: Give him this order and be sure to tell him it's urgent!
+[NPC] Njormik: Bribe him if you need to.
+[NPC] Njormik: Anything.
+[NPC] Njormik: I'll make sure you are compensated.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Here is an order from Njormik in Amdeneir. He needs it fast!
+[NPC] Jirosh: Hmm?
+[NPC Narrate] -Jirosh reads the order.-
+[NPC] Jirosh: No prob…wait, that's a lot of wood.
+[NPC] Jirosh: There will be a caravan headed that way late tomorrow.
+[NPC] Jirosh: Amdeneir is far from here, it takes time.
+[NPC Internal] He needs it faster than that!
+[NPC Narrate] -Jirosh continues to look at the order and shakes his head.-
+[NPC] Jirosh: Everyone needs everything right away.
+[NPC] Jirosh: Caravans have a set schedule, you know.
+[NPC] Jirosh: We can't just send them on command.
+[NPC Internal] Is there something I can do that would make this possible?
+[NPC] Jirosh: You really want to help the carpenter, don't you?
+[NPC Narrate] -Jirosh Mikana looks around for a second.-
+[NPC] Jirosh: Tell you what, we are still gathering the orders for the next caravan.
+[NPC] Jirosh: I've got two cases of Terevan Wine headed for the tavern in Amdeneir.
+[NPC] Jirosh: If you can bring them to Merrinez, it should speed things up.
+[NPC] Jirosh: Can you do this?
+[NPC Internal] Yes, I'd be happy to.
+[NPC] Jirosh: Very well.
+[NPC Narrate] -Jirosh reaches under the counter for 2 crates and carefully hands them to you.-
+[NPC] Jirosh: Here you go.
+[NPC] Jirosh: Two cases of Terevan Wine.
+[NPC] Jirosh: Please hurry and give them to Merrinez.
+[NPC] Jirosh: I hope you know where to find him.
+[NPC] Jirosh: He should be nearby.
+[NPC] Jirosh: And do be careful.
+
+[To] Merrinez Dholant
+
+[NPC Internal] I have two cases of Terevan Wine for you from Jirosh.
+[NPC Narrate] -Merrinez straightens up after stacking a crate and wipes his forehead with the back of his hand.-
+[NPC] Merrinez: What's this?
+[NPC] Merrinez: Is this for the next caravan?
+[NPC Internal] Yes, I am trying to get the caravan to Amdeneir today.
+[NPC] Merrinez: Today?
+[NPC] Merrinez: I think that one is scheduled for late tomorrow.
+[NPC] Merrinez: Unless…
+[NPC] Merrinez: I suppose you could find someone to run the caravan and, well, if Jirosh approves…
+[NPC] Merrinez: Good luck.
+[NPC] Merrinez: In the mean time, you can go back to Jirosh and tell him the wine has been delivered.
+[NPC] Merrinez: Thanks by the way, saves me the trouble of picking it up myself.
+[NPC Narrate] -Merrinez Dholant smiles and returns to work.-
+
+[To] Jirosh Mikana
+
+[NPC Internal] The wine has been delivered safely.
+[NPC] Jirosh: Excellent.
+[NPC Narrate] -Jirosh makes a check mark next to an item on a list he is holding.-
+[NPC] Jirosh: Next, I need you to deliver one more case of wine.
+[NPC] Jirosh: Miss Seduna has ordered a case of Macca Wine for the Mess Hall and it's sitting right here.
+[NPC] Jirosh: It will also lead to your next task if you want your caravan.
+[NPC] Jirosh: While you're in the area, see if you can locate Shenji TorKaal.
+[NPC] Jirosh: He is a young Rabani Enki who tends to linger around that area.
+[NPC] Jirosh: He often runs caravans for me and he just got back from one.
+[NPC] Jirosh: If you can find and convince him to leave today, you'll have the final piece to your caravan.
+[NPC] Jirosh: You might actually pull this off.
+[NPC Narrate] -Jirosh Mikana grabs a case of Macca Wine and hands it to you.-
+
+[To] Seduna Secut
+
+[NPC Internal] Miss Seduna? Your case of Macca Wine from Jirosh.
+[NPC] Seduna: Oh hello there child.
+[NPC] Seduna: Wine?
+[NPC] Seduna: Another case?
+[NPC] Seduna: Oh my.
+[NPC] Seduna: I just got one yesterday.
+[NPC] Seduna: One of my assistants must have not known I already had an order in.
+[NPC Narrate] -Seduna takes the wine and carefully sets it down.-
+[NPC] Seduna: Thank you very much child.
+[NPC] Seduna: Come any time and enjoy some freshly made food.
+
+[To] Shenji TorKaal
+
+[NPC Internal] Can you go on a special caravan run?
+[NPC] Shenji: You – you found me.
+[NPC Narrate] -Shenji TorKaal shoulders sag a bit.-
+[NPC] Shenji: And here I thought I was finally done for the day.
+[NPC Narrate] -Shenji looks to the crystal above.-
+[NPC] Shenji: Will I ever get a moments peace?!?
+[NPC Narrate] -Shenji sighs and turns back to you, putting his hands on his hips.-
+[NPC] Shenji: Every time someone wants a quick delivery, I'm the one who has to do all the work.
+[NPC] Shenji: And you think I get paid extra for that?
+[NPC] Shenji: Fine, I will do it, but you have to do something first.
+[NPC] Shenji: I have a yearning for some of Miss Seduna's famous pie.
+[NPC] Shenji: Buy one for me and I'll pick up your cargo and get it to its destination by morning.
+[NPC] Shenji: Deal?
+[NPC Internal] Deal! One pie coming up.
+[NPC Narrate] -Shenji eyes light up.-
+[NPC] Shenji: Oh thank you!
+[NPC] Shenji: Now I will have something waiting for me when I get back.
+[NPC] Shenji: Just tell her to leave it for me.
+[NPC] Shenji: They don't cost much.
+[NPC] Shenji: Only seventy-five tria or so.
+[NPC] Shenji: Thank you, Enkidukai.
+[NPC] Shenji: When you come back and tell me it's been ordered, I will leave at once!
+[NPC Narrate] -Shenji looks at you hopeful as you leave.-
+
+[To] Seduna Secut
+
+[NPC Internal] I would like to order one of your famous pies for Shenji.
+[NPC Narrate] -Seduna is looking busy but stops and looks at you with a smile.-
+[NPC] Seduna: Oh hello again.
+[NPC] Seduna: Shenji wants another pie?
+[NPC] Seduna: Is he going on yet another late caravan run?
+[NPC] Seduna: That boy really needs to slow down.
+[NPC] Seduna: No wonder he eats so many pies.
+[NPC] Seduna: Always on the go.
+[NPC] Seduna: Very well, I will set one aside for him.
+[NPC] Seduna: That will be seventy-five tria please.
+[NPC Internal] Here you go, seventy-five tria.
+[NPC Narrate] -Seduna takes the coins and gently drops them in a pouch in her apron.-
+[NPC] Seduna: Thank you, child.
+[NPC] Seduna: Shenji's pie will be waiting right here for him when he gets back.
+[NPC] Seduna: You can go tell him so.
+[NPC Narrate] -Seduna Secut pauses for a minute.-
+[NPC] Seduna: You know, you have been so helpful with the wine and ordering a pie for Shenji…
+[NPC] Seduna: Let me give you something back.
+[NPC] Seduna: Since we have so much of the Macca wine now, I'd like to give you a bottle.
+[NPC] Seduna: Please, take it.
+
+[To] Shenji TorKaal
+
+[NPC Internal] Your pie has been ordered and will be waiting for you.
+[NPC Narrate] -Shenji eyes light up and he looks excited.-
+[NPC] Shenji: Thank you, Madam.
+[NPC] Shenji: Now I will have a nice pie waiting for me when I get back.
+[NPC] Shenji: Miss Seduna knows the kind I like.
+[NPC] Shenji: You can go tell Jirosh I'll be there shortly.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Shenji is on his way. Get the wood ready.
+[NPC] Jirosh: All right.
+[NPC] Jirosh: I have already notified Merrinez to load the Dark Oak wood.
+[NPC] Jirosh: Since Shenji is willing to get it done now, I'll send him directly there to pick it up.
+[NPC Narrate] -He hands you a signed receipt.-
+[NPC] Jirosh: You may give this to Njormik.
+[NPC] Jirosh: I hope the delivery will be to his satisfaction.
+
+[To] Njormik Carpenter
+
+[NPC Internal] I have returned.
+[NPC Narrate] -Njormik seems to be taking a break but sweat can still be seen on his forehead.-
+[NPC] Njormik: Oh, welcome back.
+[NPC] Njormik: I just finished the last chair with the wood I have.
+[NPC] Njormik: Will there be a delivery from Jirosh?
+[NPC Narrate] -He looks at you with a hopeful expression.-
+[NPC Internal] Good news! A caravan is on it's way and will be here by morning. Here is a receipt.
+[NPC] Njormik: Oh, that's great news!
+[NPC] Njormik: Thank you so much.
+[NPC] Njormik: I'll rest up and do some other things until it gets here.
+[NPC] Njormik: This should be plenty of time to finish the project.
+[NPC] Njormik: I can't thank you enough.
+[NPC] Njormik: You've been very helpful, Madam.
+[NPC] Njormik: Was there any expenses?
+[NPC Narrate] -Njormik leans toward you slightly and speaks softly with his low scratchy voice.-
+[NPC] Njormik: I hope it didn't cost you much to, um, grease the wheels if you know what I mean?
+[NPC Internal] No, Jirosh refused any payment, just seventy-five tria for pie.
+[NPC] Njormik: Pie?
+[NPC] Njormik: For you or for…
+[NPC] Njormik: Nevermind.
+[NPC] Njormik: I heard that Jirosh was a straight arrow.
+[NPC] Njormik: I guess his reputation is accurate.
+[NPC] Njormik: Take these coins for your effort.
+[NPC Narrate] -Njormik reaches nearby and grabs a book.-
+[NPC] Njormik: I'd also like you to have this.
+[NPC] Njormik: It's a shield instructional book.
+[NPC] Njormik: I'm a carpenter, I really don't have use for it.
+[NPC] Njormik: I got it from a dwarf who passed by.
+[NPC] Njormik: Yep, Carpenter is my name and carpentry is my game.
+[NPC] Njormik: Let me know if you ever want to buy one of my wares.
+
+[Reward] [Way 1] [Money] 12958; [XP] 17800; [Item] 1, Banded Shield Diagram; [Faction] 40, Crafting Association
+[Reward] [Way 2] [Money] 5130; [XP] 13600; [Item] 1, Macca Wine Bottle; [Item] 1, Banded Shield Diagram; [Faction] 25, Crafting Association
+

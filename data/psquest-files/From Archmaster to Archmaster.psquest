@@ -1,0 +1,106 @@
+[Questname] From Archmaster to Archmaster
+[NPC Name] Ferryd Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Ferryd Shillor
+
+[NPC Internal] Do you have anyting I can do?
+[NPC] Ferryd: As a matter of fact I do have need of you.
+[NPC] Ferryd: It's a pretty menial task that I wouldn't lower myself to do.
+[NPC] Ferryd: And I know while you're pretty respected around here, this is for a very important person and I can't give it to just anyone.
+[NPC] Ferryd: Can you spare the time?
+[NPC Internal] I will be happy to help.
+[NPC] Ferryd: Ah, well done.
+[NPC] Ferryd: This is for Govell Mihdren, the Archmaster of the Crystal Way.
+[NPC] Ferryd: From Archmaster to Archmaster.
+[NPC] Ferryd: Ensure it goes into his hands directly.
+[NPC] Ferryd: Don't open it, either.
+[NPC Narrate] -Ferryd places the package in your hands with a snicker.-
+[NPC] Ferryd: Goodbye for now.
+
+[To] Govell Mihdren
+
+[NPC Internal] I was asked to deliver this package to you.
+[NPC] Govell: A package?
+[NPC] Govell: From who?
+[NPC Internal] It is from Ferryd Shillor.
+[NPC] Govell: I see.
+[NPC] Govell: I wonder what the Red Way organization needs.
+[NPC] Govell: Thank you for delivering it.
+[NPC Narrate] -Govell unties the bow and opens the package.-
+[NPC] Govell: What in…
+[NPC Narrate] -A large boom resounds as black smoke streams over the face of the mage!-
+[NPC] Govell: Ahhhh!
+[NPC Narrate] -Govell quickly casts a spell to heal himself, and pats out the remaining flames. He looks furious and grits his teeth.-
+[NPC] Govell: I can't believe he sent me an exploding package.
+[NPC] Govell: Should I take revenge?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] Yes, I would.
+[NPC] Govell: You're right.
+[NPC] Govell: Ferryd needs to receive measure for measure.
+[NPC] Govell: He will learn no other way.
+[NPC Narrate] -Govell turns his back to you and casts a spell of some kind, wrapping up a parchment hastily.-
+[NPC] Govell: This should do nicely.
+[NPC Narrate] -Govell chortles as he hands you the package.-
+[NPC] Govell: Quickly, now: give that to Ferryd.
+
+[To] Ferryd Shillor
+
+[NPC Internal] hands the package to Ferryd then steps back ever so slightly.
+[NPC] Ferryd: Oho!
+[NPC] Ferryd: So the Archmaster of the Crystal Way has a package for me too, does he?
+[NPC] Ferryd: What will he do?
+[NPC] Ferryd: Heal me?!
+[NPC Narrate] -Ferryd laughs heartily.-
+[NPC] Ferryd: So be it.
+[NPC] Ferryd: Let us see what that humourless man has for me.
+[NPC Narrate] -Ferryd opens the package.-
+[NPC] Ferryd: What's…
+[NPC Narrate] -A bright flash emmanates from the box!-
+[NPC] Ferryd: By Laanx!
+[NPC] Ferryd: I'm blind!
+[NPC] Ferryd: I can't see!
+[NPC Narrate] -Ferryd sinks to his knees.-
+[NPC] Ferryd: My package was funny but this is just cruel!
+[NPC] Ferryd: Did you put him up to this?!
+[NPC] Ferryd: Worse still I'll need to see someone who follows the Crystal Way to have my sight restored.
+[NPC] Ferryd: But you did deliver it, so take this as payment…
+[NPC] Ferryd: and BEGONE!
+[NPC Narrate] -Ferryd throws a ruby at you.-
+
+[Way] 2
+
+[NPC Internal] No, you are above that.
+[NPC] Ferryd: I shouldn't?
+[NPC] Ferryd: But…but…
+[NPC Narrate] -Govell Mihdren sighs.-
+[NPC] Ferryd: I suppose you're right.
+[NPC] Ferryd: I should not be lowering myself to such pettiness.
+[NPC] Ferryd: Just give him this letter from me, would you?
+[NPC] Ferryd: Thank you kindly.
+
+[To] Ferryd Shillor
+
+[NPC Internal] holds the letter out for Ferryd to take.
+[NPC] Ferryd: Thank you.
+[NPC Narrate] -Ferryd Shillor reads the letter.-
+[NPC] Ferryd: 'Package received?'
+[NPC Narrate] -Ferryd Shillor laughs heartily.-
+[NPC] Ferryd: So typical of Govell to take a practical joke so coldly.
+[NPC] Ferryd: You can almost hear him seething as you read the letter.
+[NPC] Ferryd: No sense of humour at all.
+[NPC] Ferryd: Thanks, friend.
+[NPC] Ferryd: Here, have some of these as thanks.
+
+[Info] The ruby crystals have a quality of 300.
+
+[Reward] [Way 1] [XP] 10800; [Item] 1, Ruby Crystal
+[Reward] [Way 2] [XP] 12200; [Item] 3, Ruby Crystal
+

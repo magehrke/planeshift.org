@@ -1,0 +1,107 @@
+[Questname] Drifting for a Drifter
+[NPC Name] Taemian Yangnk
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Ring of Familiar; [Winch] Yes; [Money] 30500
+
+[To] Taemian Yangnk
+
+[NPC] Taemian: Hey Kid, Wanna buy a mount?
+[NPC Internal] A mount? Yes, that would be very useful.
+[NPC] Taemian: The first thing you will need is a special gem called Green Gem of the Drifter.
+[NPC] Taemian: I happen to have a few of them right here, but they're not free of course.
+[NPC] Taemian: I will need you to do something for me first.
+[NPC Narrate] -Taemian grins.-
+[NPC] Taemian: Go to Nkel and tell him that Raithen sent you to collect the pouch he found the other day.
+[NPC] Taemian: Then come back and give it to me…
+[NPC] Taemian: And be sure not to tell Raithen about this.
+
+[To] Nkel
+
+[NPC Internal] Raithen sent me to collect the pouch.
+[NPC] Nkel: Ah!
+[NPC] Nkel: Yes.
+[NPC] Nkel: I think I got it here…
+[NPC] Nkel: somewhere…
+[NPC Narrate] -Nkel rummages around inside a large sack.-
+[NPC] Nkel: Here it is.
+
+[To] Taemian Yangnk
+
+[NPC Internal] Here it is the pouch.
+[NPC] Taemian: Great!
+[NPC] Taemian: Thank you.
+[NPC] Taemian: Here take the gem.
+[NPC] Taemian: Now all you need to do is go to Levrus Dahrenn in the Magic Shop.
+[NPC] Taemian: I assume you have the Ring of Summon Familiar already, Levrus should be able to enchant that ring using this gem, so you can use it to summon a drifter.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I'd like my ring to be enchanted with this.
+[NPC] Levrus: Oh right, it's always “Levrus can you enchant this” “Levrus I need a potion of that” and where is everyone when I need something enchanted?
+[NPC] Levrus: Off being beguiled by the purple menace!
+[NPC] Levrus: You want me to enchant your ring eh?
+[NPC] Levrus: Well, I will be more than happy to do that for you, but unfortunately I can not do that unless you have a permit.
+[NPC] Levrus: Go to Jardet Forsill to obtain one.
+
+[To] Jardet Forsill
+
+[NPC Internal] I need a permit for mounts.
+[NPC] Jardet: Then you have come to the right person.
+[NPC] Jardet: But you will have to answer a few questions before I can approve you for such a permit.
+[NPC] Jardet: Are you ready?
+[NPC Internal] Yes, I am ready.
+[NPC] Jardet: Good.
+[NPC] Jardet: First of all you must know how to take proper care of your mount.
+[NPC] Jardet: Mounts are living creatures with a high value to the society and to all of nature.
+[NPC] Jardet: Now, which of these creatures must you guard your mount from?
+[NPC] Jardet: Clacker, Rat,Trepor or Ulbernaut?
+[NPC Internal] Ulbernaut is the most dangerous I guess.
+[NPC] Jardet: Yes, if you are hunting for Ulbernauts you should make sure your mount is in a safe place.
+[NPC] Jardet: Now…
+[NPC] Jardet: we will talk some more about how to take care of your mount.
+[NPC] Jardet: They are after all living creatures and all living creatures have their own special needs.
+[NPC] Jardet: Like you need food, so does your mount.
+[NPC] Jardet: Now…
+[NPC] Jardet: tell me what does a drifter eat?
+[NPC Internal] It eats fish.
+[NPC] Jardet: Correct.
+[NPC] Jardet: But a drifter has more needs than just food.
+[NPC] Jardet: It needs a lot of grooming and care to.
+[NPC] Jardet: Now tell me what is the best way of grooming a drifter?
+[NPC Internal] With a soft brush and water.
+[NPC] Jardet: Yes, and remember to never use soap, for it will harm the drifters sensitive skin.
+[NPC] Jardet: Well, you now know everything you needed to know.
+[NPC] Jardet: Here take this permit to Datal Allavium.
+[NPC] Jardet: He has to sign it before it is valid.
+[NPC] Jardet: He will also charge you the proper taxes.
+
+[To] Datal Allavium
+
+[NPC Internal] I need this permit signed.
+[NPC] Datal: Let me see…
+[NPC Narrate] -Datal takes a good long look at the papers.-
+[NPC] Datal: Hmm, everything seems to be in order.
+[NPC] Datal: Signed by Jardet Forsill too.
+[NPC] Datal: Well, then there is only the matter of the taxes to get the permit done.
+[NPC] Datal: I will have to charge you 122 circles.
+[NPC] Datal: Give them to me and I will sign it.
+[NPC Internal] Here you are the circles.
+[NPC] Datal: Datal Allavium signs the paper and puts a wax seal on it.
+[NPC] Datal: Here you go!
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Here it is all you need: permit and ring.
+[NPC] Levrus: Oh permit and a ring, and I take it you want me to drop everything and tend to you right away.
+[NPC] Levrus: You know, Trepor wiggly feelers don't cook themselves!
+[NPC] Levrus: I should turn you into a rat!
+[NPC] Levrus: Let me see that permit before we continue…
+[NPC] Levrus: Seems to be in order.
+[NPC Narrate] -Levrus starts casting a strange spell-
+[NPC] Levrus: There, all done.
+[NPC] Levrus: You can now use your ring to summon a drifter too.
+
+[Reward] [XP] 9400; [Special] Drifter
+

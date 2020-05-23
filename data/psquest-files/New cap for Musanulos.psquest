@@ -1,0 +1,65 @@
+[Questname] New cap for Musanulos
+[NPC Name] Musanulos Terfanis
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Dagger for Jirris; [Item] 1, Rat Hide
+
+[To] Musanulos Terfanis
+
+[NPC Internal] You sure look like you need some serious help.
+[NPC] Musanulos: Don't bother me.
+[NPC Narrate] -Musanulos scratches his head. A clump of rancid rat fur falls from his cap. He looks back at you in irritation.-
+[NPC] Musanulos: You still here?
+[NPC] Musanulos: Well you might as well be of use.
+[NPC] Musanulos: This cap of mine is coming apart at the seams.
+[NPC] Musanulos: I ain't presentable to stand before the whisper in this condition.
+[NPC] Musanulos: You think you are good enough to serve the whisper and help me out?
+[NPC Internal] Yes, whisper away.
+[NPC] Musanulos: You might be good for something after all.
+[NPC] Musanulos: If the whisper says we don't go in the light, then we don't go in the light, that's just how it is.
+[NPC] Musanulos: I need some special tanning crystals from over in Ojaveda, and I can't hardly get them myself.
+[NPC] Musanulos: Go get me some.
+[NPC] Musanulos: Special tanning crystals, ya hear!
+[NPC] Musanulos: Everything has to be special for the whisper.
+[NPC] Musanulos: Gotta be presentable.
+
+[To] Hirenn Darmeth
+
+[NPC Internal] I am looking for special tanning crystals.
+[NPC] Hirenn: Oh…
+[NPC Narrate] -Hirenn rolls his eyes.-
+[NPC] Hirenn: Him again.
+[NPC] Hirenn: Just a moment.
+[NPC Narrate] -Hirenn turns and fills a small sack with rubbing sand, then offers it to you.-
+[NPC] Hirenn: There you go.
+[NPC] Hirenn: One order of my finest 'special' tanning crystals.
+[NPC] Hirenn: There is plenty more where that came from.
+[NPC] Hirenn: No charge, of course.
+
+[To] Musanulos Terfanis
+
+[NPC Internal] Here's the sand.
+[NPC] Musanulos: Yes!
+[NPC] Musanulos: Very good.
+[NPC] Musanulos: Perfect, just perfect.
+[NPC Narrate] -Musanulos looks at you as if you are daft.-
+[NPC] Musanulos: Well?
+[NPC] Musanulos: Go get me the rat hide.
+[NPC] Musanulos: Young folks these days.
+[NPC] Musanulos: Gotta tell them everything.
+[NPC Internal] Your rat hide.
+[NPC] Musanulos: Well that took you long enough.
+[NPC] Musanulos: Did you travel all the way to Biranmia to get it?
+[NPC] Musanulos: Bah.
+[NPC] Musanulos: Never mind.
+[NPC] Musanulos: The whisper has use for fools as well.
+[NPC] Musanulos: Now for my cap.
+[NPC Narrate] -Musanulos pulls out a rusty dagger and cuts a circle out of the rat hide. He dumps the sand out on the flesh side and rubs it in. Doing nothing else to it, he flops his new cap on his head.-
+[NPC] Musanulos: Well?
+[NPC] Musanulos: Looks very presentable, doesn't it?
+[NPC] Musanulos: You better shape your looks up too if you want to be as presentable to the whisper as I am.
+[NPC] Musanulos: Now go away.
+
+[Reward] [Money] 1000; [XP] 8000; [Item] 1, Darkness glyph
+

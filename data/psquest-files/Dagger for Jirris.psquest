@@ -1,0 +1,99 @@
+[Questname] Dagger for Jirris
+[NPC Name] Jirris Athano
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 1, Dagger; [Money] 100
+
+[To] Jirris Athano
+
+[NPC Internal] Anything I can help with?
+[NPC Narrate] -Jirris slowly turns his attention to you.-
+[NPC] Jirris: You…
+[NPC] Jirris: you wish to help…
+[NPC] Jirris: help me?
+[NPC] Jirris: Alright…
+[NPC] Jirris: I will…
+[NPC] Jirris: will try and reward you.
+[NPC] Jirris: Are you…
+[NPC Narrate] -Jirris hesitates, looking momentarily confused.-
+[NPC] Jirris: …
+[NPC] Jirris: interested?
+[NPC] Jirris: You HAVE to help me.
+[NPC Internal] Yes of course, just name it.
+[NPC] Jirris: Thank you…
+[NPC] Jirris: Kran.
+[NPC] Jirris: I need…
+[NPC] Jirris: a…
+[NPC] Jirris: a new dagger.
+[NPC] Jirris: Just a dagger…
+[NPC] Jirris: to…
+[NPC] Jirris: to serve.
+[NPC Narrate] -Jirris stares off into the distance.-
+[NPC Internal] gives Jirris a dagger.
+[NPC Narrate] -Jirris stares at the dagger as if the world around him ceased to exist.-
+[NPC] Jirris: A…
+[NPC] Jirris: it is…
+[NPC] Jirris: it needs work.
+[NPC] Jirris: Bring it to Harnquist…
+[NPC] Jirris: he will work …
+[NPC] Jirris: work on it.
+[NPC] Jirris: Tell him to…
+[NPC] Jirris: to add saw teeth on the upper side.
+
+[To] Harnquist
+
+[NPC Internal] gives Harnquist the dagger.
+[NPC] Harnquist: Hmm?
+[NPC Narrate] -Harnquist turns the dagger over, and examines it.-
+[NPC] Harnquist: What am I supposed to do with this?
+[NPC Internal] Could you improve this dagger by add saw teeth on the upper side?
+[NPC Narrate] -Looks at you suspiciously for second-
+[NPC] Harnquist: Well, I think I can do that for you, but please be aware this dagger may draw the attention of guards, and don't ask me why.
+[NPC Narrate] -Harnquist relaxes.-
+[NPC] Harnquist: I was about to go pick up a shipment from Edrich, so I'll tell you what.
+[NPC] Harnquist: I will get started if you go and get my delivery.
+[NPC Narrate] -Harnquist looks mildly amused.-
+[NPC] Harnquist: I'll even do the work for a discount just for saving me the trip.
+
+[To] Edrich Sultov
+
+[NPC Internal] Harnquist sent me to get his delivery.
+[NPC] Edrich: Let's see.
+[NPC Narrate] -Edrich pulls out a rough looking piece of paper, searching down the list.-
+[NPC] Edrich: No.
+[NPC] Edrich: I don't have that yet.
+[NPC] Edrich: But just got information it will be ready tomorrow just after lunch time.
+
+[To] Harnquist
+
+[NPC Internal] Edrich said it will be ready tomorrow after lunch time.
+[NPC Narrate] -Harnquist shakes his head.-
+[NPC] Harnquist: Oh well, least I didn't waste my time walking over there.
+[NPC] Harnquist: I did get the dagger finished.
+[NPC] Harnquist: I added the saw teeth as requested, and made it sharper.
+[NPC] Harnquist: I hope you like it.
+[NPC Narrate] -Harnquist holds out his hand expectantly.-
+[NPC] Harnquist: That'll be two octas.
+[NPC Internal] Here are your tria.
+[NPC] Harnquist: Thank you.
+[NPC Narrate] -Harnquist hands you the dagger.-
+[NPC] Harnquist: Have a nice day, now.
+
+[To] Jirris Athano
+
+[NPC Internal] gives Jirris the perfect dagger.
+[NPC] Jirris: This is…
+[NPC] Jirris: very good…
+[NPC] Jirris: I like…
+[NPC Narrate] -Jirris looks at you with consideration.-
+[NPC] Jirris: You are…are useful.
+[NPC] Jirris: You can be a …
+[NPC] Jirris: whisper.
+[NPC] Jirris: Seek people here …
+[NPC] Jirris: here ..
+[NPC] Jirris: in the sewers.
+[NPC Narrate] -Jirris hands you some coins as an afterthought.-
+
+[Reward] [Money] 1000; [XP] 8000; [Faction] 5, Cabal of Whispers
+

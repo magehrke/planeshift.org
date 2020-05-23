@@ -1,0 +1,154 @@
+[Questname] Unlawful Undertakings for Ukabnu
+[NPC Name] Ukabnu
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Helping Hand for Kisatol
+
+[To] Ukabnu
+
+[NPC Internal] Anything I can help with?
+[NPC] Ukabnu: Back for more, eh, my clacker friend?
+[NPC] Ukabnu: Is there something terribly appealing about giving assistance to unwashed foul-mouthed exiles?
+[NPC Narrate] -Ukabnu makes a wry smile and shakes her head.-
+[NPC] Ukabnu: This time we will see more about how useful you are really willing to be.
+[NPC] Ukabnu: There is a certain family in Hydlaa, the gods rot their souls-
+[NPC Narrate] -Ukabnu turns her head and spits at the ground.-
+[NPC] Ukabnu: -some people in need of a few more of Ukabnu's 'favors'.
+[NPC Narrate] -Ukabnu smiles crookedly.-
+[NPC] Ukabnu: Willing to do a few 'honest folk' some damage, little clacker?
+[NPC Internal] Sounds like fun.
+[NPC] Ukabnu: Good.
+[NPC] Ukabnu: Now listen.
+[NPC] Ukabnu: Here's what you need to do, my roguish rat.
+[NPC] Ukabnu: Deliver this interesting sample to Willam Chorind, Hydlaa's spotless city treasurer…
+[NPC Narrate] -Ukabnu flicks a crumpled page of figures to you.-
+[NPC] Ukabnu: …
+[NPC] Ukabnu: and tell this Sir Chorind that I have his missing book.
+[NPC] Ukabnu: If the greedy foot-licker doesn't want some errant and incriminating numbers to end up on the Vigesimi's desk, he'll just have to run a little errand for me.
+[NPC] Ukabnu: Tell him I want Saral crippled.
+[NPC Narrate] -Ukabnu smirks.-
+[NPC] Ukabnu: And bring me his fancy purse.
+
+[To] Willam Chorind
+
+[NPC Internal] gives William the page.
+[NPC] Willam: Hmm, what is this?
+[NPC Narrate] -Willam blinks and examines the page.-
+[NPC] Willam: This- this is from my missing accounts book!
+[NPC] Willam: Where did you get this?
+[NPC Internal] From Ukabnu.
+[NPC] Willam: Ukabnu?
+[NPC] Willam: The bandit?
+[NPC Narrate] -Willam's face pales and he nearly drops the page of figures. He whispers 'She'll ruin me…'-
+[NPC] Willam: W-what does she want?
+[NPC Internal] She wants Saral crippled.
+[NPC] Willam: C-cripple Saral Yangnk??
+[NPC Narrate] -Willam stares at you in disbelief and then looks away.-
+[NPC] Willam: I…
+[NPC] Willam: I can't do that!
+[NPC] Willam: I can't…
+[NPC] Willam: I can't let that book be seen.
+[NPC Narrate] -Willam looks back at you.-
+[NPC] Willam: How can you people be so cruel?
+[NPC] Willam: Why is she doing this?
+[NPC] Willam: By the gods, what will I do…?
+[NPC] Willam: Madness…!
+[NPC Narrate] -Willam looks down at his hands.-
+[NPC] Willam: Get away from me.
+[NPC] Willam: If you are done, go.
+[NPC Internal] She also wants your fancy purse.
+[NPC Narrate] -Willam's eyes widen again and his pale face gradually reddens in a fury.-
+[NPC Narrate] -He tears his velvet-and-gold purse free and flings it at your feet.-
+[NPC] Willam: Take it then!
+[NPC] Willam: Leave me be, you twice-cursed blackguard!
+
+[To] Ukabnu
+
+[NPC Internal] gives Ukabnu the purse.
+[NPC] Ukabnu: Ahaa!
+[NPC Narrate] -Ukabnu grins and raises the purse in the air and calls out to her cutthroats.-
+[NPC] Ukabnu: Look what the rat's brought us, my beasts!
+[NPC Narrate] -The nearby bandits watch as Ukabnu lifts her blade to the purse and slashes at the bottom.-
+[NPC Narrate] -The blade parts the velvet with a snapping sound and a flash of brown light. Ukabnu laughs as several glyphs and coins fall free of the purse and onto the ground at her feet.-
+[NPC] Ukabnu: Not bad at all, my little rat, not bad.
+[NPC] Ukabnu: I am sure our dear friend Willam is in a churlish fit at this moment, wondering what he will do.
+[NPC Narrate] -Ukabnu pokes the glyphs with the armored toe of her boot and then stoops to claim the loot.-
+[NPC] Ukabnu: Now, if you will run but one more little errand for me, my helpful StoneBreaker rat, I may reward you with one of these.
+[NPC] Ukabnu: What say you?
+[NPC Internal] Sure, what must I do.
+[NPC] Ukabnu: I thought you might like the sound of that.
+[NPC Narrate] -Ukabnu smiles crookedly.-
+[NPC] Ukabnu: Now, I want you to go run over hill and dale and find little Miss Nyshyn Klannarr.
+[NPC] Ukabnu: Tell her I sent you and remind her that it's time for her delivery if for some reason she seems to have forgotten.
+[NPC] Ukabnu: Do be nice to her.
+[NPC] Ukabnu: She seems to be afraid of me, though I'm not really sure why…
+[NPC Narrate] -One of Ukabnu's gang laughs nastily. Ukabnu smiles and cheerily yells 'Stuff it, trepor-kisser!' to him. She looks back at you.-
+[NPC] Ukabnu: Get a move on, my little rat!
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] Ukabnu sent me to remind you of the delivery.
+[NPC] Nyshyn: Ah, yes.
+[NPC] Nyshyn: Umm
+[NPC Narrate] -Nyshyn looks you over.-
+[NPC] Nyshyn: You are working for her, are you…
+[NPC] Nyshyn: her, ah…
+[NPC] Nyshyn: delivery is almost ready.
+[NPC] Nyshyn: If you will visit my sister near the Eagle Bronze Door ruins, she has part of it.
+[NPC] Nyshyn: Just tell her to give you the green box.
+[NPC] Nyshyn: I will try and and work on the rest of what Ukabnu wants and see if I can finish before you return.
+
+[To] Canyt Klannarr
+
+[NPC Internal] Your sister wants the green box
+[NPC] Canyt: Er, yes, just a moment.
+[NPC Narrate] -Canyt leaps nimbly over a fallen stone and goes behind a ruined wall. She returns in a few moments with a small green box in her paw and gives it to you.-
+[NPC] Canyt: There you are.
+[NPC] Canyt: Safe travels to you, Madam.
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] gives Nyshyn the box.
+[NPC] Nyshyn: Ah, good, thank you.
+[NPC Narrate] -Nyshyn unlocks the box with a small key and takes out an ornate blue-gemmed silver necklace. She chuckles at it and runs it through her fingers before passing it to you.-
+[NPC] Nyshyn: That'll fetch a few coins, won't it?
+[NPC] Nyshyn: There's the shiny part, and here is the dull part.
+[NPC Narrate] -Nyshyn gives you an antique longsword that is heavily corroded.-
+[NPC] Nyshyn: And as for my part…
+[NPC] Nyshyn: well, I am stuck.
+[NPC] Nyshyn: I am supposed to have an answer to her riddle but I haven't been able to solve it!
+[NPC Narrate] -Nyshyn murmurs 'The one who makes it, will tell it not…' She looks at you.-
+[NPC] Nyshyn: I won't tell her if you will help me, and then you can go.
+[NPC] Nyshyn: I have already been trying for hours and it's not coming to me.
+[NPC] Nyshyn: 'The one who makes it, will tell it not.
+[NPC] Nyshyn: The one who takes it, will know it not.
+[NPC] Nyshyn: Whoever knows it, wants it not.'
+[NPC] Nyshyn: She said it was something that she could hold in the palm of her hand.
+[NPC Narrate] -Nyshyn crosses her arms over her chest and frowns slightly in thought.-
+[NPC Internal] fake coins
+[NPC] Nyshyn: Ah?
+[NPC] Nyshyn: Yes, yes, that fits!
+[NPC Narrate] -Nyshyn grins.-
+[NPC] Nyshyn: Very good, Madam, most pleasing.
+[NPC] Nyshyn: Then we are set, and you may return those three things to your mistress Ukabnu- the answer, the necklace, and the sword.
+[NPC] Nyshyn: May Talad light your path.
+
+[To] Ukabnu
+
+[NPC Internal] Nyshyn says the answer to the riddle is fake coins.
+[NPC] Ukabnu: Ha, yes, that's the answer.
+[NPC] Ukabnu: That milk-drinker looked very puzzled last I saw her.
+[NPC] Ukabnu: And the rest of the goods?
+[NPC Internal] Here are the goods.
+[NPC Narrate] -Ukabnu grins and looks at the necklace for a moment before shouting.-
+[NPC] Ukabnu: 'LAURE!' Laure Eves turns her head just in time to snatch the necklace from the air as Ukabnu throws it to her.
+[NPC] Ukabnu: Ukabnu sneers and calls 'Pretties for you, M'Lady!'
+[NPC Narrate] -Ukabnu turns back to you with a chuckle and looks the sword over with a glint in her eye.-
+[NPC] Ukabnu: Now, my precious rat, it is time for you head homeward once again, this time with a trifle for your time.
+[NPC Narrate] -Ukabnu holds up her gauntleted hand, four glyphs dangling from it.-
+[NPC] Ukabnu: Which one shall it be?
+[NPC] Ukabnu: Take one and take your leave of us.
+
+[Reward] [Money] 3391; [XP] 12200; [OR Begin] [Item] 1, Summon glyph [OR] [Item] 1, Weapon glyph [OR] [Item] 1, Entropy glyph [OR] [Item] 1, Sleep glyph [OR End]; [Faction] 20, Thieves Organization
+

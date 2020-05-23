@@ -1,0 +1,35 @@
+[Questname] Last One Standing
+[NPC Name] Beniua Busuka
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[To] Beniua Busuka
+
+[NPC Internal] Good day Miss Benuia, any noteworthy news as of late?
+[NPC] Beniua Busuka: I suppose your question excludes the dozens of tentative invasions from the stone labyrinth, the latest Hiacheius riddle or the never ending obsession of Hinoserri with carrots?
+[NPC Narrate] -She says sarcastically, with a side-smile on the face.-
+[NPC] Beniua Busuka: Well, actually yes, but it is not fresh news.
+[NPC] Beniua Busuka: I don't usually talk much about this creature as it doesn't cause many troubles.
+[NPC] Beniua Busuka: Well, the troubles of the sort the fortress has been built for.
+[NPC] Beniua Busuka: But...
+[NPC] Beniua Busuka: You seem eager to discover our fantastic wildlife out of what appears to just be boredom.
+[NPC Internal] Creature? What is this creature?
+[NPC] Beniua Busuka: It lives out in the wilderness around the fortress, as many big things do, but this is the biggest.
+[NPC] Beniua Busuka: Going down the ramp, move around the canyon to the left.
+[NPC] Beniua Busuka: Keep going past that Enkidukai and Stonehammer encampment...
+[NPC] Beniua Busuka: Incidentally, why someone would camp outside to play chess is beyond me and...
+[NPC Internal] But what exactly is it?
+[NPC] Beniua Busuka: I have no idea.
+[NPC Narrate] -Benuia smiles.-
+[NPC] Beniua Busuka: There was a note that passed through my office speaking of a gigantic beast and a comment; please deal with this situation accordingly.
+[NPC] Beniua Busuka: I sent the folder to the only animal specialist I know in hope he would read about it in his books: Jardet Forsil.
+[NPC] Beniua Busuka: His answer was clear: the beast is not a menace, it will stay in the territory its chosen.
+[NPC Narrate] -Benuia firmly closes the folder she is holding and puts it on the table.-
+[NPC] Beniua Busuka: If you are curious, go talk to Jardet Forsil directly yourself.
+[NPC Internal] I think I will just go and search out the creature myself.
+[NPC] Beniua Busuka: Uhm, yes, good idea.
+[NPC] Beniua Busuka: I hope you have tremendous reflexes or a lot of friends!
+[NPC] Beniua Busuka: The group of hunters that initially came across the creature started out numbered five, but they returned only one!
+
+[Info] Find One-Claw, Quest completed

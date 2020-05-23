@@ -1,0 +1,58 @@
+[Questname] Brown Way Master Training
+[NPC Name] Mulgik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Practical Brown Way Adept; [Item] 2, Adept's Brown Way Wands; [Item] 1, Apprentice's Brown Way Wand; [Skill] 100, Brown Way; [Item] 1, Cold glyph; [Item] 1, Death glyph; [Item] 1, Air glphy
+
+[Info] You get the glyphs back.
+
+[To] Mulgik
+
+[NPC Internal] Here are the items, to prove my worthiness as a student.
+[NPC] Mulgik: You have advanced to Master rank in the Brown Way Circle.
+[NPC Narrate] -Mulgik hands you back two wands, but keeps yours and puts it aside.-
+[NPC] Mulgik: Please return those to their owners.
+[NPC] Mulgik: You have proven your knowledge and dedication to the Brown Way Circle to your previous trainers.
+[NPC] Mulgik: You also now know of the supporting and opposing Ways to the Brown Way.
+[NPC] Mulgik: This knowledge is important for your master's training.
+[NPC] Mulgik: You will soon require the aid of practitioners and students from the supporting Ways, outside of your own.
+[NPC] Mulgik: Speak to them.
+[NPC] Mulgik: These bonds will become important in the coming tests.
+[NPC Narrate] -Mulgik looks you up and down.-
+[NPC] Mulgik: Bring me two glyph that Levrus sells, each from one of the Brown Way's supporting Ways.
+[NPC Internal] Would that be these two?
+[NPC Narrate] -Mulgik nods.-
+[NPC] Mulgik: In combing spells, you will at times need glyphs from other Ways.
+[NPC] Mulgik: On their own, each Way is limited in power.
+[NPC] Mulgik: Only in combinations will you find some of the most powerful spells.
+[NPC Narrate] -Mulgik hands back the glyphs.-
+[NPC] Mulgik: Although Brown Way is the best, no Way of magic is complete without the other Ways.
+[NPC Narrate] -Mulgik eyes move to you once more.-
+[NPC] Mulgik: This is known to include supporting Ways, neutral, and opposing.
+[NPC] Mulgik: Crystal and Red Way are neutral to Brown, neither greatly aiding or impeding, though some neutral Glyphs may be used for tempering some of our combines.
+[NPC] Mulgik: For every coin, there exists two sides.
+[NPC] Mulgik: For Brown, this opposing side is the Azure Way.
+[NPC] Mulgik: For your last task today, I will ask you to bring me the Azure Way Glyph that Levrus sells.
+[NPC Internal] He only sells Air.
+[NPC Narrate] -Mulgik nods and hands you the glyph back.-
+[NPC] Mulgik: Brown and Azure Way Circles are not enemies.
+[NPC] Mulgik: However, the energy contained within them collide, and the Azure way can be as a poison to Brown Way magic.
+[NPC] Mulgik: Trying to combine opposing Ways can be very dangerous, or even deadly.
+[NPC] Mulgik: You may train the supporting ways within a realm or so of Brown Way, but I advise you to limit any Azure Way training to a minimum.
+[NPC] Mulgik: If you train too high in the Azure Way, you risk being removed from the Brown Way Circle.
+[NPC Narrate] -Mulgik looks into the distance.-
+[NPC] Mulgik: So many mistakes were made in the past.
+[NPC] Mulgik: Pride was placed before prudence, and a high price was paid.
+[NPC] Mulgik: A part of Nature itself suffered as a tall hill was torn apart.
+[NPC] Mulgik: We will speak of it no more for now.
+[NPC] Mulgik: Are you now ready to receive your first Master's item?
+[NPC Internal] Yes, sir.
+[NPC] Mulgik: Very well.
+[NPC] Mulgik: You will show me this new wand every time you are ready for your next test session.
+[NPC] Mulgik: I also want you to have this as a personal gift from me.
+[NPC Narrate] -Mulgik parts with one of kra's glyphs.-
+[NPC] Mulgik: You will require a Wall glyph before returning and when you do return hand me your Master's wand, and if I think you are ready I will accept it.
+
+[Reward] [XP] 17800; [Item] 1, Tree glyph; [Item] 1, Master's Brown Way Staff; [Faction] 40, Brown Order
+

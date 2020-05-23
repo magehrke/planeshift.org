@@ -1,0 +1,11 @@
+{
+  "name": "language-psquest",
+  "version": "0.0.0",
+  "description": "Planeshift Quest language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {},
+  "bugs": {}
+}

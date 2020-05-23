@@ -1,0 +1,73 @@
+[Questname] Knowledge of the Dark Way Adept
+[NPC Name] Rulayne Ogrin
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Dark Way Adept; [Item] 1, Adept's Dark Way Wand; [Item] 1, Apprentice's Dark Way Bracers; [Skill] 70, Dark Way
+
+[To] Rulayne Ogrin
+
+[NPC Internal] Please except my Way Wand as proof of being a worthy student.
+[NPC] Rulayne: Your testing will have to wait, YOU.
+[NPC] Rulayne: It seems that there are some Entropy glyphs in the Derghir village on the road to Ojaveda.
+[NPC] Rulayne: They continue to offer them asking for favors.
+[NPC] Rulayne: Go to Akameer and check what he wants now.
+
+[To] Amakeer
+
+[NPC Internal] I hear you are in need of some help.
+[NPC Narrate] -Amakeer stares at the horizon for quite some time. Then he raises a hand. His finger twitches when he opens the hand, showing a glyph.-
+[NPC] Amakeer: For you.
+[NPC Narrate] -His head starts turning to the ground with the sound of grinding rocks. He looks at a bunch of brown worms crawling in the ground.-
+[NPC] Amakeer: For me.
+[NPC Internal] Have you a problem with the worms?
+[NPC] Amakeer: I can't kill them.
+[NPC] Amakeer: They hide in the earth.
+[NPC Narrate] -Amakeer looks at the worms for a long time. Then his head nods.-
+[NPC] Amakeer: Combine the Glyph I gave to you with another.
+[NPC] Amakeer: You are in the Dark Way Circle.
+[NPC] Amakeer: What glyph would you combine it with?
+[NPC Internal] Illness
+[NPC Narrate] -Amakeer nods with with a rocky sound.-
+[NPC] Amakeer: Lesser Plague?
+[NPC] Amakeer: It should work.
+[NPC Internal] [YOU cast Lesser Plague to the worms.]
+[NPC Narrate] -The worms start to tremble on the ground, crawling over themselves. When Amakeer low his head to look they are motionless, already died.-
+[NPC] Amakeer: Good work.
+[NPC] Amakeer: You can take the glyph.
+[NPC Narrate] -Amakeer slowly lifts his foot. Then he smashes it to the ground, shattering the worms with a wet sound.-
+[NPC] Amakeer: Say thanks to Rulayne.
+
+[To] Rulayne Ogrin
+
+[NPC Internal] Amakeer sends his thanks.
+[NPC] Rulayne: You did well then?
+[NPC Narrate] -Rulayne continues more hesitantly.-
+[NPC] Rulayne: Your success is becoming troublesome.
+[NPC] Rulayne: A waste of my time and far from entertaining.
+[NPC Narrate] -Rulayne shrugs.-
+[NPC] Rulayne: We will call that your test for this part of your training.
+[NPC Narrate] -Rulayne extends a hand.-
+[NPC] Rulayne: Your bracers please.
+[NPC Internal] Here is my Bracers as requested, sir.
+[NPC] Rulayne: You will not be needing these any more.
+[NPC] Rulayne: Now, before we move on I must ask you a question.
+[NPC] Rulayne: Each Way of magic has One Way that opposes it.
+[NPC] Rulayne: Glyphs of these two Ways are very difficult and dangerous to attempt to combine.
+[NPC] Rulayne: Once you start the Master level testing in a Circle, you will not be allowed to advance far in the opposing Way Circle nor would you want to, but if you did you shouldn't, for err…
+[NPC] Rulayne: safety reasons.
+[NPC Narrate] -Rulayne extends both hands out to his sides one at a time.-
+[NPC] Rulayne: Each Way also has two Ways that support it, combining easily and with less danger.
+[NPC] Rulayne: For your test of knowledge, answer what two other Ways of magic support the Dark Way.
+[NPC Internal] Brown and Red Way.
+[NPC] Rulayne: Correct, YOU.
+[NPC] Rulayne: Maybe you are worth my time.
+[NPC] Rulayne: In any case, Dakkru desires the deaths of the powerful, not the weak.
+[NPC] Rulayne: I serve my Goddess by making you more powerful.
+[NPC Narrate] -Rulayne removes a set of bracers from a bag and hands them to you.-
+[NPC] Rulayne: These bracers are more advanced than your last set, increasing your powers even more.
+[NPC] Rulayne: You will need them as you continue your training.
+[NPC] Rulayne: Once your skill is high enough, give me your wand once again and I will give you your final Adept's test.
+
+[Reward] [XP] 15000; [Item] 1, Entropy glyph; [Item] 1, Adept's Dark Way Bracers; [Faction] 1, Dark Order
+

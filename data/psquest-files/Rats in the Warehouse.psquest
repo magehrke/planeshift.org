@@ -1,0 +1,28 @@
+[Questname] Rats in the Warehouse
+[NPC Name] Jirosh Mikana
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Brado wants a Clean Tavern; [Item] 6, Rat Hides
+
+[Info] Sometimes Brado wants rat feet or similar.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Need anything done?
+[NPC] Jirosh: There are a number of rats infesting one of my warehouses.
+[NPC] Jirosh: I'd really like to be rid of them.
+[NPC] Jirosh: Can you do this for me?
+[NPC Internal] Yes, call me YOU the Rat Slayer.
+[NPC] Jirosh: Excellent!
+[NPC] Jirosh: My people estimate there are about six rats in all.
+[NPC] Jirosh: Kill them and bring their hides as proof.
+[NPC Internal] I have killed the rats.
+[NPC] Jirosh: Good work!
+[NPC] Jirosh: Having rats in my warehouse is bad for business.
+[NPC] Jirosh: I may need your services again in the future, as the rats could come back.
+[NPC] Jirosh: Take this as payment with my thanks.
+
+[Reward] [Money] 1000; [XP] 8000; 
+

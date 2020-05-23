@@ -1,0 +1,344 @@
+[Questname] Beer Tasting Event
+[NPC Name] Leann Grudaire
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[To] Leann Grudaire
+
+[NPC Internal] You brew ales and beers I see, and smell.
+[NPC] Leann Grudaire smiles.
+[NPC] Leann Grudaire: You get used to smell, I do like it though.
+[NPC] Leann Grudaire: If I do say myself, I brew some of the finest alcohol in the dome.
+[NPC] Leann Grudaire: Sadly though, business has been slow of late.
+[NPC] Leann Grudaire: But I have an idea.
+[NPC] Leann Grudaire: Are you willing to help me?
+[NPC Internal] Yes, I will gladly help.
+[NPC] Leann Grudaire smiles.
+[NPC] Leann Grudaire: Thank you.
+[NPC] Leann Grudaire: What is your name again?
+[NPC] Leann Grudaire: Oh nevermind, let's get started.
+[NPC Internal] I am YOU, what do you need me to do?
+[NPC] Leann Grudaire: YOU right, I will try to remember that.
+[NPC] Leann Grudaire: I am terrible with names.
+[NPC] Leann Grudaire blushes.
+[NPC] Leann Grudaire: I need you to go downstairs and speak to Jarda and get him to agree to run a beer tasting event; it should help us attract more customers.
+[NPC] Leann Grudaire: Tell him cost will be minimal for the potential return.
+
+[To] Jarda Ynarow
+
+[NPC Internal] Here, this is for you.
+[NPC] Jarda Ynarow takes the letter from you a points to a word on the bar top "Thank you".
+[NPC Internal] Leann sent me, she wants you to run a beer tasting event.
+[NPC] Jarda Ynarow looks furious and begins to vigorously shake his head.
+[NPC] Jarda Ynarow rubs his fingers together suggesting money.
+[NPC Narrate] -He then shows you his open palms.-
+[NPC Internal] Leann said it would be low cost and high return, though.
+[NPC] Jarda Ynarow looks at you and rolls his eyes.
+[NPC Narrate] -He then points upstairs in Leann's direction.-
+[NPC Narrate] -Pointing at his head and then pours a mug out over the sink.-
+[NPC Narrate] -Then he points at you and flicks his hand.-
+[NPC] Jarda Ynarow: [Jarda points to a sign which reads "Welcome to the Parting Ways tavern."]
+
+[To] Leann Grudaire
+
+[NPC Internal] Jarda says no. He seemed rather angry.
+[NPC] Leann Grudaire: Apologies, YOU.
+[NPC] Leann Grudaire: It is my fault he is angry not yours, you were only passing on a message.
+[NPC] Leann Grudaire: Just because I...
+[NPC] Leann Grudaire pauses.
+[NPC] Leann Grudaire: Never mind about why.
+[NPC] Leann Grudaire: We must do something.
+[NPC] Leann Grudaire thinks to herself.
+[NPC Internal] We, what do you mean we?
+[NPC] Leann Grudaire nods not paying attention to what you said still thinking to herself.
+[NPC] Leann Grudaire jumps.
+[NPC] Leann Grudaire: I've got it.
+[NPC Narrate] -She grabs a pen and adds a note to a piece of paper beside her.-
+[NPC Internal] Hold on, got what?
+[NPC] Leann Grudaire looks at you with a smile across her face.
+[NPC] Leann Grudaire: Here take this and give it to Jarda.
+[NPC] Leann Grudaire: Tell him I have already sent some out so it is too late to say no; we have to have the event.
+[NPC] Leann Grudaire: Tell him he better have the food ready.
+[NPC] Leann Grudaire: Boreen can help him.
+
+[To] Jarda Ynarow
+
+[NPC Internal] Leann she said you only need to get the food sorted.
+[NPC] Jarda Ynarow sighs.
+[NPC] Jarda Ynarow points at you.
+[NPC Narrate] -He then points in direction of kitchen.-
+[NPC Narrate] -He then points back at you and then gestures for you to go.-
+
+[To] Boreen Wigor
+
+[NPC Internal] Jarda sent me to get you to help with Leann's beer tasting event.
+[NPC] Boreen Wigor chuckles.
+[NPC] Boreen Wigor: I guess those two are fighting again.
+[NPC] Boreen Wigor: What over now?
+[NPC] Boreen Wigor: Actually no...
+[NPC] Boreen Wigor: I don't want to know.
+[NPC] Boreen Wigor shakes his head and smiles again.
+[NPC] Boreen Wigor: So what do I have to do to keep the peace?
+[NPC Internal] Jarda needs you to cook food for the event.
+[NPC] Boreen Wigor is still smiling.
+[NPC] Boreen Wigor: Excellent, that I can do and it will keep me away from the bickering between them.
+[NPC] Boreen Wigor: Now, what should I make...
+[NPC] Boreen Wigor thinks for a moment before rubbing his hands together gleefully.
+[NPC] Boreen Wigor: I know.
+[NPC] Boreen Wigor realises you are still there.
+[NPC] Boreen Wigor: Go tell Jarda that I will help.
+
+[To] Jarda Ynarow
+
+[NPC Internal] Boreen agrees to make the food.
+[NPC] Jarda Ynarow nods.
+[NPC] Jarda Ynarow gestures for you to go, with a slight smile to his face.
+
+[To] Leann Grudaire
+
+[NPC Internal] Jarda agreed to the event and Boreen will make food.
+[NPC] Leann Grudaire smiles.
+[NPC] Leann Grudaire: I thought that would work.
+[NPC] Leann Grudaire: Now I need you deliver these.
+[NPC] Leann Grudaire pats a pile of flyers beside her.
+[NPC] Leann Grudaire: I will send off invites to other brewers to compete against me and also try and find some official judges so we can have a competition to see who has the best Beer in the Dome.
+[NPC Internal] This is more work than I expected, it will take time to deliver the flyers.
+[NPC] Leann Grudaire nods.
+[NPC] Leann Grudaire: Indeed.
+[NPC] Leann Grudaire: Tell you what..
+[NPC] Leann Grudaire: How about I get you to deliver these flyers then I will give you a keg of my finest in return?
+[NPC] Leann Grudaire winks.
+[NPC Internal] Sounds fair, if you are as good as you claim.
+[NPC] Leann Grudaire scowls.
+[NPC] Leann Grudaire: Of course I am.
+[NPC Narrate] -She hands you a bundle of flyers.-
+[NPC] Leann Grudaire: Hand out as many as you can and bring me back the slips at the bottom.
+[NPC] Leann Grudaire: You might be able to give away more if you go to another town, I would only go to Hydlaa, there aren't too many flyers to give out.
+[NPC Internal] So any recommendations on who I should give these to?
+[NPC] Leann Grudaire smiles.
+[NPC] Leann Grudaire: Good thinking, YOU.
+[NPC] Leann Grudaire: I recommend giving them to merchants, here and also in Hydlaa.
+[NPC] Leann Grudaire: Maybe some officials and warrior types like Grimal.
+[NPC] Leann Grudaire: Come to think of it Stonehammers are always good.
+[NPC] Leann Grudaire: They do like to talk of drink and I think would help spread word on the quality of my brews.
+
+[To] Muuro Zarel
+
+[NPC Internal] Excuse me Maam, interested in beer tasting?
+[NPC] Muuro Zarel plays with her necklace before taking the flyer from you.
+[NPC Narrate] -She giggles while reading it.-
+[NPC] Muuro Zarel: The tavern should be a good place to meet people so I will come.
+[NPC Narrate] -She fills in the slip and neatly tears it off.-
+
+[To] Boroz Tolka
+
+[NPC Internal] Excuse me, Priest. Might I interest you in a beer tasting event?
+[NPC] Boroz Tolka turns his gaze from the sky to you.
+[NPC] Boroz Tolka: Beer tasting?
+[NPC Narrate] -He takes the flyer.-
+[NPC] Boroz Tolka: I do not have time to travel from town to town just to taste beer.
+[NPC] Boroz Tolka: I can get beer here in Amdeneir should I wish to.
+[NPC Internal] It is here, in the tavern.
+[NPC] Boroz Tolka: Oh, I guess I should read this.
+[NPC Narrate] -He reads the flyer.-
+[NPC Narrate] -He blushes.-
+[NPC] Boroz Tolka: Oh, you are correct indeed.
+[NPC] Boroz Tolka: I just assumed since I did not know you that it meant that you were from out of town.
+[NPC] Boroz Tolka: Very well, I will come along.
+[NPC Narrate] -He fills in the slip and tears it off.-
+[NPC] Boroz Tolka: I have heard that the brewer at the tavern has some talent.
+
+[To] Jolter Hosull
+
+[NPC Internal] Excuse me, interested in tasting some beer?
+[NPC] Jolter Hosull turns from feeding his pterosaur to face you and smiles.
+[NPC] Jolter Hosull: Beer tasting here in Amdeneir?
+[NPC] Jolter Hosull: Where do I sign up?
+[NPC Narrate] -He takes the flyer.-
+[NPC] Jolter Hosull: Oh, here at the bottom.
+[NPC Narrate] -He removes his gloves before filling in the slip.-
+[NPC] Jolter Hosull: I will have to change the feeding schedule for my animals slightly but not to worry.
+[NPC Narrate] -He tears the slip off and returns it to you.-
+[NPC] Jolter Hosull: Here you go, Madam.
+
+[To] Njormik Carpenter
+
+[NPC Internal] Hello, interested in a beer tasting event?
+[NPC] Njormik Carpenter brushes some sawdust off himself before taking the flyer.
+[NPC] Njormik Carpenter: A beer tasting event in the tavern?
+[NPC] Njormik Carpenter: Sounds good, about time they tried to get extra business.
+[NPC] Njormik Carpenter: Oh a return slip, give me just a moment and I will fill it out for you.
+[NPC Narrate] -He fills in the slip before tearing it off and returning it to you.-
+[NPC] Njormik Carpenter: Here you go, Madam.
+
+[To] Krestal Dhusho
+
+[NPC Internal] Excuse me, interested in beer tasting?
+[NPC] Krestal Dhusho studies the flyer.
+[NPC] Krestal Dhusho: Thank you, tabei.
+[NPC] Krestal Dhusho: Mhm.
+[NPC] Krestal Dhusho scratches his head.
+[NPC] Krestal Dhusho: I am sure my pterosaur can carry me back after.
+[NPC] Krestal Dhusho grins.
+[NPC Narrate] -He fills in the slip and tears it quickly before handing it to you.-
+[NPC] Krestal Dhusho: Thanks for this, tabei.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] Hello, would you like to go to a beer tasting event in Amdeneir?
+[NPC] Kaiman Jilatt: Hello!
+[NPC] Kaiman Jilatt: Yes of course!
+[NPC] Kaiman Jilatt: A merchant like myself can never pass up a chance to peruse the latest merchandise or drinks.
+[NPC] Kaiman Jilatt quickly fills out a return slip and hands it to you.
+[NPC] Kaiman Jilatt: Here!
+[NPC] Kaiman Jilatt: You can pass on that I'll be there.
+
+[To] Narwin Molstagh
+
+[NPC Internal] Excuse me, interested in beer tasting?
+[NPC] Narwin Molstagh nods as he reads the flyer.
+[NPC] Narwin Molstagh: No surprise you came to me with this.
+[NPC] Narwin Molstagh: I am an expert on drinking beer.
+[NPC Narrate] -He fills in the slip, tears it off and hands it to you.-
+[NPC] Narwin Molstagh: Thanks for this.
+[NPC] Narwin Molstagh: I best practice my tasting technique.
+[NPC] Narwin Molstagh winks.
+[NPC] Narwin Molstagh heads off in the direction of Kada-El's Tavern.
+
+[To] Nalri Grimtorr
+
+[NPC Internal] Hello, would you like to go to a beer tasting event in Amdeneir?
+[NPC] Nalri Grimtorr smiles as she reads the flyer.
+[NPC] Nalri Grimtorr: This sounds like the kind of break I could do with.
+[NPC] Nalri Grimtorr: I'll be happy to go.
+
+[To] Hamel Warson
+
+[NPC Internal] Hello, would you like to go to a beer tasting event in Amdeneir?
+[NPC] Hamel Warson plays with his beard.
+[NPC] Hamel Warson: Hmmm...
+[NPC] Hamel Warson: Amdeneir you say.
+[NPC] Hamel Warson: Easy enough to get too.
+[NPC] Hamel Warson tears off the return slip and hands it to you.
+[NPC] Hamel Warson: You can return this, I'd be happy to come.
+
+[To] Amidison Stronghand
+
+[NPC Internal] Excuse me Vigesimi, interested in a beer tasting event?
+[NPC] Amidison Stronghand looks you up and down before taking the flyer from you.
+[NPC Narrate] -She nods while reading it.-
+[NPC] Amidison Stronghand: Amdeneir sounds good, not visited there in a while.
+[NPC] Amidison Stronghand: I can't drink here in town, always get interupted.
+[NPC] Amidison Stronghand: So yes I will come.
+[NPC] Amidison Stronghand: I am due some time off.
+[NPC Narrate] -She neatly fills in the slip and tears it off.-
+[NPC] Amidison Stronghand: Take this, Madam.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Excuse me, interested in beer tasting?
+[NPC] Grimal Bloodaxe laughs as he takes the flyer.
+[NPC] Grimal Bloodaxe: That is like asking a pterosaur if it wants to fly.
+[NPC Narrate] -He gives a happy sigh as he looks over the flyer.-
+[NPC] Grimal Bloodaxe: This is what being retired is all about.
+[NPC Narrate] -He fills in the slip without a second thought and tears the slip quickly before handing it too you.-
+[NPC] Grimal Bloodaxe: I look forward to this beer tasting.
+
+[To] Harnquist
+
+[NPC Internal] Hello, would you like to go to a beer tasting event in Amdeneir?
+[NPC] Harnquist: YOU, what is this?
+[NPC] Harnquist takes the flyer from you, his gloves marking the paper.
+[NPC] Harnquist: This sounds good.
+[NPC] Harnquist pauses.
+[NPC] Harnquist: Amdeneir tavern?
+[NPC] Harnquist: That would mean leaving my forge for a day or two.
+[NPC] Harnquist: You should speak to some Stonehammers if you are short on numbers.
+[NPC] Harnquist chuckles to himself.
+[NPC] Harnquist: I don't know.
+[NPC Internal] Harnquist, you should take some time off. I am sure your apprentices will survive a day.
+[NPC] Harnquist frowns.
+[NPC] Harnquist: I'm still not sure, but you make a good point.
+[NPC] Harnquist: I am sure you are right, my apprentices could use a test of responsibility.
+[NPC] Harnquist nods.
+[NPC] Harnquist: I will come.
+[NPC Narrate] -He fills in the slip, blackening it a bit with his gloves.-
+[NPC Narrate] -He then cuts the slip off using a knife giving a neat cut to the blackend script and hands it to you.-
+
+[To] Leann Grudaire
+
+[NPC Internal] I managed to give out all twelve flyers, here are the slips.
+[NPC] Leann Grudaire smiles and nods.
+[NPC] Leann Grudaire: I am amazed you went to a lot of effort, YOU.
+[NPC] Leann Grudaire: Here, take these sacks of barley, it is my best stock.
+[NPC] Leann Grudaire: I know I said I would give you a keg of my finest beer, but I am going to give you something better.
+[NPC] Leann Grudaire: I am giving you knowledge.
+[NPC] Leann Grudaire: I will teach you to make your own.
+[NPC] Leann Grudaire smiles as she gives you the sacks.
+[NPC Internal] Thanks Leann, that sounds even better.
+[NPC] Leann Grudaire smiles.
+[NPC] Leann Grudaire: I am glad you like it.
+[NPC] Leann Grudaire: Here take this book, it will direct you in making beer.
+[NPC] Leann Grudaire: You'll need to make me a keg of beer.
+[NPC] Leann Grudaire: If you like, I can walk you through the process.
+[NPC Internal] I am ready, can you help guide me?
+[NPC] Leann Grudaire: Right, we have everything we need right here.
+[NPC] Leann Grudaire: Over there is a kiln, near me here is a vat, and across the room there is a prep table with a pot and mill stone.
+[NPC] Leann Grudaire: First we roast the sacks of barley in the kiln.
+[NPC] Leann Grudaire: Return when you have dry roasted barley.
+[NPC Internal] I have dry roasted the barley.
+[NPC] Leann Grudaire: Good, now we grind the roasted barley in to malt using a mill stone.
+[NPC] Leann Grudaire: You can find one right on the preparation table over there.
+[NPC] Leann Grudaire: Return when you have dry roasted malt.
+[NPC Internal] I have ground the barley into malt.
+[NPC] Leann Grudaire: Good, now heat this water up in a pot, then add the two lots of dry roasted malt and allow to heat.
+[NPC] Leann Grudaire: Then you will have heated beer mash.
+[NPC] Leann Grudaire hands you a bucket of water.
+[NPC Internal] I have the heated mash.
+[NPC] Leann Grudaire nods.
+[NPC] Leann Grudaire: Great, now add some hops to your mash.
+[NPC] Leann Grudaire counts out eight hops and hands them to you.
+[NPC] Leann Grudaire: Then place the mash in the brewers vat and allow to cool.
+[NPC Internal] I have the cooled mash.
+[NPC] Leann Grudaire smiles.
+[NPC] Leann Grudaire: Now you're going to add some liquid bread rise to your mash.
+[NPC] Leann Grudaire: I have some here.
+[NPC] Leann Grudaire gives you some liquid bread rise.
+[NPC] Leann Grudaire: This results in what is called a beer wort.
+[NPC] Leann Grudaire: You don't have to heat it again.
+[NPC] Leann Grudaire: Just put the wort in the brewers vat and allow to brew.
+[NPC Internal] I have made a keg of beer!
+[NPC] Leann Grudaire: Congratulations YOU, this looks and smells good.
+[NPC] Leann Grudaire: One more step before we test, though.
+[NPC Internal] But I made a keg of beer, it is ready to drink.
+[NPC] Leann Grudaire laughs.
+[NPC] Leann Grudaire: You are not going to drink it like that, though.
+[NPC] Leann Grudaire: You must pour it into a mug or tankard.
+[NPC] Leann Grudaire: Place the keg on the table and pour, I wish to taste.
+[NPC Internal] How do I pour?
+[NPC] Leann Grudaire shakes her head and smiles.
+[NPC] Leann Grudaire: Not much of a drinker, I guess.
+[NPC] Leann Grudaire: Put the keg on the table then pour.
+[NPC Internal] Here have a taste of my beer.
+[NPC] Leann Grudaire: Thank you.
+[NPC] Leann Grudaire takes the beer and smells it first.
+[NPC] Leann Grudaire: Smells good.
+[NPC] Leann Grudaire: Now the test.
+[NPC] Leann Grudaire takes a large gulp from the mug.
+[NPC] Leann Grudaire: Mhm, it is...
+[NPC] Leann Grudaire smiles.
+[NPC] Leann Grudaire: Quite good for a first attempt.
+[NPC] Leann Grudaire: Not as good as mine, though.
+[NPC Internal] What else can I make?
+[NPC] Leann Grudaire: With this book?
+[NPC] Leann Grudaire: You can make mead and melomel, which is a fruity mead.
+[NPC] Leann Grudaire: To prepare fruit, you use a special tool called a fruit press like the one in this room.
+[NPC Internal] You said with this book? What other drinks can be made with other books?
+[NPC] Leann Grudaire: With another book you can make ciders and wines.
+[NPC] Leann Grudaire: Keep practicing and when you can make terevan melomel, bring me a bottle and I'll give you the second book.
+[NPC] Leann Grudaire smiles to herself.
+[NPC] Leann Grudaire: Now I must get back to my work and prepare for the tasting event.
+[NPC] Leann Grudaire: Thank you for your help, YOU.
+
+[Reward] [Skill] 2, Brewing; [XP] 10800; [Item] 1, Drinks Of The Dome;

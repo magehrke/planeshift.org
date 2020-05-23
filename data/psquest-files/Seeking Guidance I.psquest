@@ -1,0 +1,273 @@
+[Questname] Seeking Guidance I
+[NPC Name] Kaiman Jilatt
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[To] Kaiman Jilatt
+
+[NPC Internal] Hello Kaiman, how is business going?
+[NPC] Kaiman Jilatt: Good day, YOU!
+[NPC] Kaiman Jilatt: Business blooms when you are as skilled as I am.
+[NPC] Kaiman Jilatt: I make a point of never missing an opportunity.
+[NPC] Kaiman Jilatt: Speaking of opportunities my friend, I've come across a rather exciting one recently, interested?
+[NPC Internal] Sure! What's the news around town?
+[NPC] Kaiman Jilatt: The news?
+[NPC] Kaiman Jilatt: Well I am not one to be too interested in gossip..
+[NPC] Kaiman Jilatt: A merchant of such high regard as myself would not drop so low.
+[NPC] Kaiman Jilatt: But...
+[NPC] Kaiman Jilatt: I heard our Vigesimi has a big project...
+[NPC Internal] Really? What project?
+[NPC] Kaiman Jilatt: I believe it's about her collection.
+[NPC] Kaiman Jilatt: Vigesimi Stronghand likes fine beverages, beautiful meals and above all she has a renowned collection of all sorts of weapons.
+[NPC] Kaiman Jilatt: As one of the most important merchants in Hydlaa I've had the privilege of seeing it.
+[NPC] Kaiman Jilatt: A wonderful sight...
+[NPC] Kaiman Jilatt: Anyway, if you are tempted by any of my items feel free to trade, hum?
+
+[To] Amidison Stronghand
+
+[NPC Internal] Good day Vigesimi Stronghand. I heard you have a big project you might need help with?
+[NPC] Amidison Stronghand: Good day, YOU.
+[NPC] Amidison Stronghand: I see that word has spread faster in Hydlaa than fire in a forest.
+[NPC] Amidison Stronghand: Well, you are right I have a project in mind.
+[NPC] Amidison Stronghand: I cannot and would not ask guards or administrative staff to do this.
+[NPC] Amidison Stronghand: I really need this project to succeed, however long it takes.
+[NPC] Amidison Stronghand pauses before starting her explanation but seems relaxed as she speaks.
+[NPC] Amidison Stronghand: You see, I am very fond of spectacular weapons and shields and I've gathered quite a collection over the years.
+[NPC] Amidison Stronghand: But, as extensive as my collection is, it will never be complete without the items I am now looking for.
+[NPC Internal] Oh? And what are those items?
+[NPC Narrate] -The Vigesimi answers cryptically, looking past you into the distance.-
+[NPC] Amidison Stronghand: Nfar and zpar, the duo to guide...
+[NPC Narrate] Amidison Stronghand looks back at you.
+[NPC] Amidison Stronghand: I am searching for "Defiance" and "Confidence", a shield and a sword said to have belonged to the first Ynnwn to be born, Lerivia Smare.
+[NPC] Amidison Stronghand: It is a famous legend among the Ynnwn, a myth concerning the foundation of Ynnwn culture.
+[NPC] Amidison Stronghand: Lerivia is said to have unified the Ynnwn under her guidance due to her use of "Defiance" and "Confidence"...
+[NPC] Amidison Stronghand: Hard to explain, really.
+[NPC] Amidison Stronghand: The fact remains that Lerivia participated actively in the creation of the Ynnwn's social identity.
+[NPC Internal] I see. But if they are so famous should they not have been kept somewhere safe?
+[NPC Narrate] Amidison Stronghand shakes her head slightly.
+[NPC] Amidison Stronghand: The weapons disappeared after Lerivia's death.
+[NPC] Amidison Stronghand: An investigation must be started looking into where they might be, and I could use your help to drive it.
+[NPC] Amidison Stronghand: I should have initiated such an investigation years ago.
+[NPC] Amidison Stronghand: I am now sure that nothing would fit better in my collection than those weapons, especially now.
+[NPC Narrate] -The Vigesimi turns to face you and proposes.-
+[NPC] Amidison Stronghand: Say, YOU, we could make a sort of contract you and I.
+[NPC] Amidison Stronghand: Is there something that you would like to put your hands on?
+[NPC] Amidison Stronghand: Something that you really need?
+[NPC Internal] Well, as you mentioned magic weapons, I would be interested in learning how to make enchanted weapons.
+[NPC] Amidison Stronghand: Ah!
+[NPC] Amidison Stronghand: That is a nice craft.
+[NPC] Amidison Stronghand: Very well.
+[NPC] Amidison Stronghand: What about this: you help me find "Defiance" and "Confidence" and I will obtain a manual from the best weapons crafters I know, and I know a master or two in that domain!
+[NPC Internal] Sounds like a fair deal, Vigesimi. But where should I start?
+[NPC] Amidison Stronghand: Perfect.
+[NPC] Amidison Stronghand: Our business is then settled.
+[NPC] Amidison Stronghand: I already know where to start enquiring about the manual.
+[NPC] Amidison Stronghand: As for you, the only reasonable course I can think of is to see Gregori Stevald.
+[NPC] Amidison Stronghand: The man surly knows much about weapons.
+[NPC] Amidison Stronghand: Good luck in your research, YOU, and please, don't give up.
+
+[To] Gregori Stevald
+
+[NPC Internal] Hello Gregori. Do you have a minute?
+[NPC] Gregori Stevald: Not even a second.
+[NPC] Gregori Stevald: But I hate outstanding questions so go on.
+[NPC Internal] [You tell Gregori about the Vigesimi's project.] I am now searching for those weapons and the Vigesimi suggested I see you.
+[NPC Narrate] Gregori Stevald shakes his head and crosses his arms across his chest.
+[NPC] Gregori Stevald: So she now decided to go for it, hum?
+[NPC] Gregori Stevald: Another outstanding question for you, [NPC Internal] do you know what those items really are?
+[NPC] Gregori Stevald: What they represent?
+[NPC Internal] Only what the Vigesimi told me, that they belonged to the first Ynnwn ever to...
+[NPC Narrate] Gregori Stevald interrupts you, shaking his head more firmly.
+[NPC] Gregori Stevald: No.
+[NPC] Gregori Stevald: Not their history.
+[NPC] Gregori Stevald: What they represent, their symbolic value.
+[NPC] Gregori Stevald: Why they are a myth!
+[NPC] Gregori Stevald: Strategy, YOU.
+[NPC] Gregori Stevald: It's exactly like in combat.
+[NPC] Gregori Stevald: Strategy is fundamental.
+[NPC] Gregori Stevald: Combat is never just hitting your opponent, it's choosing when, where and how you do so!
+[NPC Narrate] Gregori Stevald orders, exactly like a trainer would order you to make ten push-ups.
+[NPC] Gregori Stevald: Go see Talisa Tamariss.
+
+[To] Talisa Tamariss
+
+[NPC Internal] Talisa, I am working for Vigesimi Stronghand. I am searching for "Defiance" and "Confidence". Gregori suggested I come and ask you about their symbolic value.
+[NPC] Talisa Tamariss: "Defiance" and "Confidence"?!
+[NPC] Talisa Tamariss: Oh my, why would she...
+[NPC Narrate] Talisa Tamariss swallows, strangely worried.
+[NPC] Talisa Tamariss: Well YOU, I am not an historian, nor an archaeologist...
+[NPC] Talisa Tamariss: But I know, we all know what they are, "the link".
+[NPC] Talisa Tamariss: It is their symbolic value, they are our people's "link".
+[NPC Internal] All right... So do you know where I can find them?
+[NPC] Talisa Tamariss: Where can you find them?
+[NPC Narrate] Talisa Tamariss appears shocked by your request as if it was absurd.
+[NPC Narrate] -She gives you an odd side-look.-
+[NPC] Talisa Tamariss: Uh...
+[NPC] Talisa Tamariss: Well Lerivia was killed not far from Hydlaa, on the battlefield of Caihon.
+[NPC] Talisa Tamariss: It's what the battle field is known as nowadays.
+[NPC] Talisa Tamariss: Maybe they were in her possession during the battle.
+[NPC Narrate] Talisa Tamariss shrugs several times, looking left.. then right.
+[NPC] Talisa Tamariss: If I recall well, Charisa Malod is from that region.
+[NPC] Talisa Tamariss: Best way would be to ask her.
+
+[To] Charisa Malod
+
+[NPC Internal] Good day, Charisa. I am searching for weapons on behalf of Vigesimi Stronghand. "Defiance" and "Confidence" to be precise. Talisa told me you are from the area where the battle of Caihon occurred?
+[NPC Narrate] Charisa Malod opens her wide round eyes as she listens to your request.
+[NPC Narrate] -She answers but seems to hold herself as if scared that a secret might escape.-
+[NPC] Charisa Malod: Hum.
+[NPC] Charisa Malod: Uh.
+[NPC] Charisa Malod: Oh but I am not from there, YOU, my husband is.
+[NPC] Charisa Malod: A village was built near the location of the battlefield and was called Caihon, the name of the instigator of the catastrophe.
+[NPC Narrate] Charisa Malod sighs loudly.
+[NPC] Charisa Malod: As you know my husband is away, though.
+[NPC] Charisa Malod: But when he is around, he likes to go fishing with his friend Sinto Gheshd.
+[NPC] Charisa Malod: They are good friends because they both come from Caihon or near to it.
+[NPC] Charisa Malod: Sinto might be able to give you more details.
+
+[To] Sinto Gheshd
+
+[NPC Internal] Hey Sinto. Charisa told me you were from Caihon?
+[NPC] Sinto Gheshd: Yes!
+[NPC] Sinto Gheshd: But only spent time there when I was young.
+[NPC] Sinto Gheshd: Do you know the village?
+[NPC Internal] No, but I am searching for information about it, linked to "Defiance" and "Confidence". I heard that Lerivia Smare was killed near there and since I am searching for the weapons...
+[NPC Narrate] Sinto Gheshd gives you an intrigued look and then gives a loud sigh of relief as if he just realized something.
+[NPC] Sinto Gheshd: Aaah!
+[NPC] Sinto Gheshd: Research..
+[NPC] Sinto Gheshd: Eheh, sorry, I thought you really were searching for them.
+[NPC Internal] How do you mean "really was searching for them"? I am! What can you tell me of Lerivia's death? Do you know if she had the items with her?
+[NPC Narrate] Sinto Gheshd scratches his head, apparently puzzled.
+[NPC Narrate] -He looks at you for some time in silence then shrugs.-
+[NPC] Sinto Gheshd: There is a small monument at the spot Lerivia is believed to have died.
+[NPC] Sinto Gheshd: But if you are 'searching' for "Defiance" and "Confidence" it won't help you.
+[NPC] Sinto Gheshd: They are a myth, didn't you know?
+[NPC] Sinto Gheshd: They are said to have been ceremonial weapons, so not used in battle.
+[NPC] Sinto Gheshd: It was not their purpose.
+[NPC] Sinto Gheshd: Their purpose was unity...unity and guidance.
+[NPC] Sinto Gheshd: That's why you are here, I believe.
+[NPC Internal] Hum? I wonder how I could find them. Where would Lerivia have left them? Who could help me?
+[NPC Narrate] -He sighs and mumbles.-
+[NPC] Sinto Gheshd: I wonder!
+[NPC] Sinto Gheshd: You don't seem to understand...
+[NPC] Sinto Gheshd: If you want information about Lerivia, you should ask Fholen Medraa.
+[NPC] Sinto Gheshd: He's an old miner and lives in East Hydlaa.
+[NPC] Sinto Gheshd: There is no one more knowledgable about jade and Lerivia Smare.
+[NPC] Sinto Gheshd: He even sculpted a bust of her from a large piece of jade at one point.
+
+[To] Fholen Medraa
+
+[NPC Internal] Hey Fholen. [You repeat again who you are working for and the goal of your research.] Sinto told me you know much about Lerivia Smare.
+[NPC] Fholen Medraa: Ah!
+[NPC] Fholen Medraa: "Defiance" and "Confidence"!
+[NPC] Fholen Medraa: The legendary Ynnwn myths!
+[NPC] Fholen Medraa: The link...
+[NPC] Fholen Medraa: Interesting thought.
+[NPC] Fholen Medraa: Why would the Vigesimi seek the guidance in this time of peace?
+[NPC] Fholen Medraa: Hum...
+[NPC Narrate] Fholen Medraa ponders, then looks at you.
+[NPC] Fholen Medraa: What do you wish to know?
+[NPC Internal] As far as I've heard, "Defiance" and "Confidence" were ceremonial weapons. I wonder where Lerivia could have left them before the battle of Caihon?
+[NPC Narrate] Fholen Medraa smiles.
+[NPC Narrate] -He seems to struggle to understand something, frowning slightly then adds.-
+[NPC] Fholen Medraa: Yes...
+[NPC] Fholen Medraa: "Defiance" is a shield and "Confidence" is a sword.
+[NPC] Fholen Medraa: Legend says that they are made of the finest metal and adorned with precious stones.
+[NPC] Fholen Medraa: Some even say they are made of crystal.
+[NPC Narrate] Fholen Medraa smiles, almost doubtful.
+[NPC] Fholen Medraa: Long after the battle, in the Ynnwn city of Listarindel, a temple was built to hold them...
+[NPC Internal] Ah! So the weapons are in Listarindel! I should go there to find them and...
+[NPC Narrate] Fholen Medraa Medraa interrupts you.
+[NPC] Fholen Medraa: The temple was destroyed by fire in around 510 AY.
+[NPC Narrate] -He smirks, looking at your disappointed face.-
+[NPC] Fholen Medraa: Continue on your course YOU, you must continue, this fact brings no doubts.
+[NPC] Fholen Medraa: The head priest of the temple, a Diaboli called Zat Shekalal was from Hydlaa.
+[NPC] Fholen Medraa: His family is one of the few that decided not to go and live in the Death Realm.
+[NPC] Fholen Medraa: They moved to Ojaveda, not so long ago.
+[NPC] Fholen Medraa: Dsar Kore, I think.
+[NPC] Fholen Medraa: That's where I met his great grand son, Hurenes.
+
+[To] Hurenes Shekalal
+
+[NPC Internal] Hello Hurenes, sorry to disturb you but I am searching for "Defiance" and "Confidence" for Vigesimi Stronghand. My enquiries have brought me to you.
+[NPC] Hurenes Shekalal: Oh no!
+[NPC] Hurenes Shekalal: Not that again!
+[NPC] Hurenes Shekalal: All these questions start to be annoying!
+[NPC Narrate] Hurenes Shekalal grimaces in anger.
+[NPC] Hurenes Shekalal: I am a Diaboli, yes!
+[NPC] Hurenes Shekalal: All these airs and graces about these weapons fly way above my head and I am glad of it!
+[NPC] Hurenes Shekalal: By Dakkru, when will this end!?
+[NPC Internal] Sorry Hurenes but what are you talking about?
+[NPC Narrate] Hurenes Shekalal waves an hand above his head, seemingly fed up.
+[NPC] Hurenes Shekalal: I know it's not your fault.
+[NPC] Hurenes Shekalal: I shouldn't have shouted at you, I know.
+[NPC] Hurenes Shekalal: But this story drives me crazy!
+[NPC] Hurenes Shekalal: They are a myth, you get it?
+[NPC] Hurenes Shekalal: And I can swear that if I had them, I would have thrown them to just about anybody.
+[NPC] Hurenes Shekalal: They are a legend you build a civilization on.
+[NPC Internal] [You decide to push on the conversation.] What can you tell me about the temple built in Listarindel, where your family member was head priest?
+[NPC Narrate] Hurenes Shekalal calms down, shrugging his shoulders.
+[NPC] Hurenes Shekalal: Family stories say it was a small temple built in the heart of the city.
+[NPC] Hurenes Shekalal: It was burned down by accident along with a couple of houses.
+[NPC] Hurenes Shekalal: Unfortunately for Dakkru.
+[NPC Narrate] -Some humour seems to make its was back into Hurenes and he chuckles slightly.-
+[NPC] Hurenes Shekalal: It was seen as a bad sign by the Ynnwn population and my parents were thrown out of the city not long after the event.
+[NPC] Hurenes Shekalal: To tell you that it's not exactly a good memory for my family is an understatement.
+[NPC] Hurenes Shekalal: It's more of a curse!
+[NPC] Hurenes Shekalal: The weapons were never held there though.
+[NPC] Hurenes Shekalal: It was a simple place where people could come and ask for advice or any kind of help.
+[NPC Internal] Oh?! Where are they then?
+[NPC] Hurenes Shekalal: You might as well as me for directions to Kadaikos?
+[NPC] Hurenes Shekalal: No one knows, it's how legends are!
+[NPC] Hurenes Shekalal: If I remember right, the texts say Lerivia entrusted her weapons to a friend's daughter before the battle that ended her life.
+[NPC] Hurenes Shekalal: It was in Listarindel.
+[NPC Internal] The texts? What texts?
+[NPC] Hurenes Shekalal: Tisd!
+[NPC Narrate] Hurenes Shekalal then hears Seduna Seckut calling for him and he smiles brightly.
+[NPC] Hurenes Shekalal: Ah!
+[NPC] Hurenes Shekalal: I need to go!
+[NPC] Hurenes Shekalal: Go ask my sister Surenes, she must be around here.
+
+[To] Surenes Shekalal
+
+[NPC Internal] Hi Surenes . Hurenes told me to come and ask you about Tisd.
+[NPC Narrate] Surenes Shekalal doesn't seems surprised by such a random question and she explains.
+[NPC] Surenes Shekalal: "Tisd" is a word from Ignf, the Diaboli language as used by Ynnwn.
+[NPC] Surenes Shekalal: It's the name of a mythical text.
+[NPC] Surenes Shekalal: In fact, it's all based upon Lerivia Smare's life, the rise of the Ynnwn, "Defiance" and "Confidence".
+[NPC] Surenes Shekalal: Tisd is widely known!
+[NPC Internal] Thank you for the information. Say, Surenes, I know that it is said Lerivia entrusted the weapons to her friend's daughter. Do you know who that was?
+[NPC] Surenes Shekalal: It was a Diaboli, Perg Zrar and his daughter Mzapt.
+[NPC] Surenes Shekalal: They died to rejoin Dakkru's embrace, like many Diaboli did.
+[NPC Narrate] -As you were about to ask a new question, a groffel arrives with a message for you.-
+[NPC] Surenes Shekalal: Ah.
+[NPC] Surenes Shekalal: Looks like a wealthy groffel to me, probably the Vigesimi.
+[NPC] Surenes Shekalal: For more information, I would ask a Dakkruist if I were you, perhaps the one by the burial well.
+[NPC Narrate] -You open the letter.-
+[NPC Narrate] -It reads: "To YOU - I have something for you. Please, come to me as soon as possible. Regards, Vigesimi Amidison Stronghand."-
+
+[To] Amidison Stronghand
+
+[NPC Internal] Hello Vigesimi. I received your message.
+[NPC] Amidison Stronghand: Ah, YOU, welcome back.
+[NPC] Amidison Stronghand: I am sorry I must confess my impatience.
+[NPC] Amidison Stronghand: How has your research been going?
+[NPC Internal] I am afraid my investigation wasn't very successful. I've learned quite a lot since I started. But I didn't find the weapons. [You give the Vigesimi a summary of the information you gathered.]
+[NPC] Amidison Stronghand smiles.
+[NPC] Amidison Stronghand: I know it is long and hard work looking into these things.
+[NPC] Amidison Stronghand: Thank you for your efforts.
+[NPC] Amidison Stronghand grabs a finely paper-backed book and hands it to you.
+[NPC] Amidison Stronghand: I am very glad to tell you that I was able to gather the finest technical manual, concerning weapon enchanting.
+[NPC] Amidison Stronghand: I am sure you will appreciate it.
+[NPC Internal] Thank you, Vigesimi. That's wonderful. But am I done? I was next to see a Dakkruist...probably Rulayne.
+[NPC] Amidison Stronghand: Make no mistake, YOU.
+[NPC] Amidison Stronghand: The outcome of your investigation has already been most fruitful.
+[NPC] Amidison Stronghand: Please continue until you find them.
+[NPC] Amidison Stronghand: As for me, I have yet more manuals to get.
+[NPC] Amidison Stronghand: You can't have an enchanted weapon without an enchanted shield, don't you think?
+[NPC] Amidison Stronghand: I understand you need to be skilled enough to make a small spiked shield to be able to enchant a shield.
+[NPC] Amidison Stronghand: Make sure you can do this before continuing your investigation.
+
+[Reward] [XP] 12200; [Item] 1, Enchanting Weapons;
+

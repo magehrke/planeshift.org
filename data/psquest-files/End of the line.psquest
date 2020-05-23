@@ -1,0 +1,184 @@
+[Questname] End of the line
+[NPC Name] Gregori Stevald
+[Checkup] 2017-04-09
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Repentance
+
+[To] Gregori Stevald
+
+[NPC Internal] Good day Gregori, here I am.
+[NPC] Gregori: Ah, Huarwar!
+[NPC] Gregori: Good day, good day.
+[NPC] Gregori: I hear you have been training regularly and that is very good.
+[NPC] Gregori: Yes...
+[NPC] Gregori: All right, first, we need to talk.
+[NPC] Gregori: I have bad news.
+[NPC] Gregori: Do you remember the seaweed merchant Gofi Mitu?
+[NPC Internal] Yes...
+[NPC ME] Gregori Stevald sighs.
+[NPC] Gregori: Unfortunately Mitu was murdered on his way to the Bronze doors fortress a week ago while leading a caravan...
+[NPC] Gregori: They were attacked near the fallen tower and everything was looted.
+[NPC] Gregori: We know it was the Platinum Warriors finishing the cut-throats work once again, including executing the survivors.
+[NPC] Gregori: We have a very traumatised witness of the event.
+[NPC ME] Gregori Stevald shakes his head, you can see that even the tall Ynnwn is touched by the story.
+[NPC Internal] By the gods... I am sorry for Mitu! The situation is out of hand now.
+[NPC] Gregori: Yes, more or less my thoughts.
+[NPC] Gregori: Gurgus wrote a report with all the elements the Order gathered so far.
+[NPC] Gregori: I wanted to hear your opinion, but I think it is appropriate to submit it to our Vigesimi, Amidison Stronghand, without delay.
+[NPC ME] Gregori Stevald orders, worried.
+[NPC] Gregori: Go.
+[NPC] Gregori: If anyone can testify, it is you.
+[NPC] Gregori: Give her all the details, will you?
+
+[To] Amidison Stronghand
+
+[NPC Internal] Vigesimi Stronghand, I come on behalf of the Order of the Keen Edge. We have an important case to submit to you.
+[NPC] Amidison: I am familiar with the Order, it has quite a reputation.
+[NPC] Amidison: I have very little time but please, give me your file I will have a look now.
+[NPC Internal] [You hand Amidison Gurgus' report which she skims through very quickly.]
+[NPC] Amidison: Several guard reports which have landed on my desk mention these Platinum Warriors but I certainly didn't foresee the extent of the problem...
+[NPC] Amidison: I could send some guards to apprehend their officers, but based on what we have they would be free the day after...
+[NPC ME] Amidison Stronghand seems sincerely worried, even shocked.
+[NPC] Amidison: Yet they need to be stopped.
+[NPC Internal] The Order is at your service, Vigesimi Stronghand...
+[NPC ME] Amidison Stronghand nods in silence then adds in a low tone.
+[NPC] Amidison: Of course if you were in the situation where this Gibbsite was attacking you, it would be only legitimate to defend yourself in a strong and decisive way.
+[NPC ME] Amidison Stronghand gives you an insisting look to make sure that you understand her true meaning.
+
+[To] Gregori Stevald
+
+[NPC Internal] Well Gregori, I am afraid we are alone in this affair.
+[NPC ME] Gregori Stevald was clearly waiting for you, arms crossed behind his back as he walks back and forth.
+[NPC Narrate] -As you announce the result of your meeting with the Vigesimi, he sighs loudly.-
+[NPC] Gregori: I was kind of suspecting such an answer to tell the truth, Huarwar...
+[NPC] Gregori: And she's right, of course she is right.
+[NPC] Gregori: And she supports us from what I understood, good, good...
+[NPC] Gregori: Now listen to me carefully, Huarwar.
+[NPC] Gregori: We have arrived at a crucial point of this story.
+[NPC] Gregori: You, must face Gibbsite.
+[NPC] Gregori: This is inevitable.
+[NPC] Gregori: You will have to trust me blindly, listen to me and learn without asking questions.
+[NPC] Gregori: I will teach you the last move of our swordplay technique and a few more tips.
+[NPC] Gregori: You need to be as prepared as possible.
+[NPC Internal] All right...Of course, I will follow your lead.
+[NPC ME] Gregori Stevald unsheathes Tarr.
+[NPC] Gregori: The Circular Parry is the paramount move of the Swordplay style.
+[NPC] Gregori: It will permit you to simply negate an attack advantage that you would have unwisely conceded to your enemy.
+[NPC] Gregori: It is one of my personal techniques.
+[NPC] Gregori: Right, now observe.
+[NPC ME] Gregori Stevald places you en garde then twists his sword around yours, catching your weapon before deflecting it away.
+[NPC] Gregori: It is commonly used to counter a Disengage, at least in our Order.
+[NPC] Gregori: Practice.
+[NPC Internal] [You perform some Circular Parries with Gregori.]
+[NPC] Gregori: Nice.
+[NPC] Gregori: But place your feet well.
+[NPC] Gregori: Never forget your feet!
+[NPC] Gregori: Com'on Huarwar, at your level you know that.
+[NPC] Gregori: You should be done resembling a confused tefusang, be supple in your movement!
+[NPC] Gregori: Don't let your guard down!
+[NPC ME] Gregori Stevald insists with a firm tone, conscious that you are risking your life in the perspective of confronting Gibbsite.
+[NPC] Gregori: Good.
+[NPC] Gregori: Now, my tips.
+[NPC] Gregori: The three principles to assure a fight with a sword are: endurance, explosiveness, relaxation.
+[NPC] Gregori: They are not required but those qualities drive efficient practice which follows through to performance.
+[NPC Internal] Relaxation?
+[NPC] Gregori: And explosiveness!
+[NPC] Gregori: It doesn't tickle you?
+[NPC] Gregori: It is very serious, Huarwar...
+[NPC] Gregori: Right, let's see the three principles in detail...
+[NPC] Gregori: Endurance: the capacity to hold an effort without flinching for a longer time than your adversary.
+[NPC] Gregori: To develop your endurance, you need to apply a split effort, for example two minutes of jogging then three of very fast running.
+[NPC] Gregori: In our case, you already possess this quality.
+[NPC Internal] All right.
+[NPC] Gregori: Explosiveness: muscular explosiveness, the capacity to contract your muscles quickly and powerfully, to develop the maximum power in the shortest time.
+[NPC] Gregori: With a good response time, it will permit you to surprise your adversary by the rapidity of your actions.
+[NPC] Gregori: To train it, practice on a circuit, going left and right then quick and slow.
+[NPC] Gregori: Once again, it is a quality that you possess as far I as know.
+[NPC] Gregori: Don't forget to use it during the fight.
+[NPC Internal] [You nod, focused.]
+[NPC] Gregori: Last but not the least, relaxation: the capacity of muscular flexibility.
+[NPC] Gregori: Swordplay favours the muscular tension born from the anxiety of adversity.
+[NPC] Gregori: You need to learn to relax during a fight, keep breath with the effort in a rhythm, breathe out when you strike.
+[NPC] Gregori: Just remember this during the fight, please.
+[NPC Internal] I will. Thank you Gregori.
+[NPC ME] Gregori Stevald smirks.
+[NPC] Gregori: You can, I feel like an old blabbermouth!
+[NPC] Gregori: Time for action.
+[NPC] Gregori: Show 'em who's boss, Huarwar.
+[NPC] Gregori: Be prudent, audacious but prudent.
+[NPC ME] Gregori Stevald hands you a small piece of paper.
+[NPC] Gregori: Here is the exact location of our rocky friend Gibbsite in Gugrontid.
+[NPC] Gregori: Shouldn't be too hard to find, the Platinum Warriors don't exactly hide.
+[NPC] Gregori: Try to get the most out of kra, make kra talk.
+[NPC] Gregori: Oh and go see Liera Zireti before going off.
+[NPC] Gregori: She will have something for you.
+
+[To] Liera Zireti
+
+[NPC Internal] Hello Liera, I am Huarwar, Champion of the Order of the Keen Edge, sent by Gregori Stevald.
+[NPC] Liera: Huarwar!
+[NPC] Liera: I was waiting for you!
+[NPC] Liera: Please make yourself at home!
+[NPC] Liera: I mean feel free to sit or browse my...
+[NPC] Liera: Well not that you are here to shop...
+[NPC] Liera: Hum, let me get to the point, sorry.
+[NPC] Liera: Gregori told me about you and I really admire your courage and abnegation, I really do...
+[NPC] Liera: So I decided to brew four healing potions for your mission and trust me, they are some of the best I've made!
+[NPC Narrate] -She hands you four bottles.-
+
+[To] Gibbsite
+
+[Info] Gibbsite is located in Gugrontid City, from the bottom of the ramp, go left, pass behind Malco's guard spot, it is the third door on your right. Above the door is a shield.
+
+[NPC Internal] I see that you were waiting for me. Good day, Gibbsite.
+[NPC ME] Gibbsite is massively planted on kras two rocky legs, pressing kras hands together as if kra was mentally crushing something, or someone.
+[NPC] Gibbsite: Good day, uhm?
+[NPC] Gibbsite: So we are taking a casual tone, flesh-pile?
+[NPC Narrate] -From Gibbsite's chest emanates a sound just like a handful of pebbles falling onto the floor.-
+[NPC Narrate] -Kra is laughing.-
+[NPC] Gibbsite: You and your Order are nothing for the Platinum Warriors, I already know everything, every move of yours.
+[NPC] Gibbsite: What do you think?
+[NPC] Gibbsite: You are exactly where I want you, trapped, isolated, alone, against me.
+[NPC] Gibbsite: You are dead, Klyros.
+[NPC ME] Gibbsite has a cold, determined expression on kras face, like kra is ready to attack.
+[NPC Internal] [Gibbsite attacks you...prepare.]
+[NPC ME] Gibbsite attacks.
+
+[Info] Kill Gibbsite.
+
+[To] Gregori Stevald
+
+[NPC Internal] Gregori, Gibbsite attacked me, I had to defend myself! [You hand Gregori Gibbsite's belongings.]
+[NPC ME] Gregori Stevald has a wide grin, looking very pleased.
+[NPC] Gregori: You defeated kra?!?
+[NPC] Gregori: Wonderful news!
+[NPC] Gregori: Well done, Huarwar.
+[NPC] Gregori: Well this case is closed!
+[NPC] Gregori: Come here.
+[NPC ME] Gregori Stevald taps your shoulder warmly, impressed.
+[NPC] Gregori: Laanx's mask, Huarwar, you are a prodigy!
+[NPC] Gregori: I won't lose myself in ceremony...
+[NPC] Gregori: In my quality of Grand Master, I have the honour, privilege and joy to name you Master of the Order of the Keen Edge.
+[NPC] Gregori: You are among the few in this stalactite and each of them accomplished a great deed to reach this rank, congratulations!
+[NPC Internal] Thank you very much! I am honoured and very proud to be part of the Order.
+[NPC] Gregori: And the Order to have you, Master Huarwar!
+[NPC] Gregori: I also would like to reward you with this longsword I found in the belongings of Gibbsite-May-Kra-Erode-In-Dakkru's-Realm's.
+[NPC ME] Gregori Stevald shows off a beautiful platinum Longsword.
+[NPC] Gregori: It's a very nice weapon.
+[NPC] Gregori: Perfectly balanced blade.
+[NPC] Gregori: It belongs to you now, you've earned it.
+[NPC Internal] Thank you Gregori...And what now?
+[NPC ME] Gregori Stevald laughes.
+[NPC] Gregori: What, you are already eager for a new mission?
+[NPC] Gregori: Beware that your success does not go to your head...
+[NPC] Gregori: More seriously, continue training.
+[NPC] Gregori: You have reached a very high level and like I said, it's where the real fun starts.
+[NPC] Gregori: The creative part.
+[NPC] Gregori: Don't be afraid to mix styles, train with other Masters, share your techniques with them...
+[NPC] Gregori: Don't hesitate to use our training room when you wish, too.
+[NPC] Gregori: Until we meet again, Huarwar to share our knowledge!
+
+[Reward] [Item] 1, Masterwork Platinum Longsword; [Item] 4, Potion of Healing; 
+[Reward] [Faction] 45, Order of the Keen Edge; 
+[Reward] [Combat Move] Single Handed Sword, Circular Parry; [Skill] 1, Sword

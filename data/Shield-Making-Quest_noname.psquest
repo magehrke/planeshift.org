@@ -1,0 +1,41 @@
+[Questname] Introduction to Special Metals
+[NPC Name] Trasok Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning Shield Working; [Item] 1, Buckler
+
+[To] Trasok Starhammer
+
+[NPC Internal] Is there anything more you can teach me?
+[NPC] Trasok: I still have to see one shield made by you, my friend.
+[NPC] Trasok: There is no learning without practice!
+[NPC] Trasok: Have you made one shield already?
+[NPC Internal] Yes, making shields isn’t too hard.
+[NPC] Trasok: Good then give me one Buckler or one Small Shield made by you, so I can check it's quality.
+[NPC Internal] Here is a Buckler I made!
+[NPC] Trasok: I knew you were a good student!
+[NPC] Trasok: Let me check it…
+[NPC] Trasok: oh yes, looks good, you have to learn a bit more how to properly hammer, but that just comes with practice and training, you have plenty of time for that.
+[NPC] Trasok: Good job.
+[NPC Internal] Shields are quite complex for gathering all the parts, but I made it. This should show you I'm worth going even further!
+[NPC] Trasok: You seem ambitious, and there is surely more I can teach you.
+[NPC] Trasok: I can say that you just started.
+[NPC Narrate] -Trasok laughs-
+[NPC] Trasok: I've doing this job since years and I have never stop learning.
+[NPC Narrate] -Trasok pauses and looks deeply into your eyes.-
+[NPC Internal] Seems you are concerned about something. I tell you, I will not steal your customers, I will sell my own goods quite far from here, I assure you. After all this time you should trust me now.
+[NPC] Trasok: Ok, I think I can trust you enough by now.
+[NPC] Trasok: I will tell you a bit more, and show you the way.
+[NPC Internal] Thanks, I'm listening.
+[NPC] Trasok: Listen carefully.
+[NPC] Trasok: The metals as you know them today are ingredients to greater metals.
+[NPC] Trasok: The steel made of iron and coal is just the beginning in creating very special alloys.
+[NPC] Trasok: We have researched for years on how to make special metals by combining the ones we know of.
+[NPC] Trasok: And we actually succeeded.
+[NPC] Trasok: There is one person who is an expert of special metals, Gardr Keck, in Gugrontid, the kran city.
+[NPC] Trasok: Kra is a master of special metals and surely the best person to learn from.
+[NPC] Trasok: Tell kra I sent you, and tell kra I decided we need more special weapons to face the invasions; kra will understand and help you.
+
+[Reward] [Money] 7310; [XP] 15000; [Faction] 30, Smith Association
+

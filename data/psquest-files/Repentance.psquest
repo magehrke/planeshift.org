@@ -1,0 +1,282 @@
+[Questname] Repentance
+[NPC Name] Gurgus Dahnik
+[Checkup] 2017-04-09
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Slimy Doubt; [Money] 200
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Salutations Gurgus. I believe I am ready to train further with you. I would be glad to show you how well I handle the Beat Attack now.
+[NPC ME] Gurgus Dahnik smiles but kra seems preoccupied.
+[NPC] Gurgus: I am very happy to see you Huarwar, you have made yourself quite a reputation in the Order and deserve to be its Champion.
+[NPC Internal] Oh? Does that mean... .
+[NPC Narrate] -Kra nods, still smiling, though you can see that kra is not fully paying attention.-
+[NPC] Gurgus: Yes.
+[NPC] Gurgus: We now consider you a Champion of the Order of the Keen Edge, congratulations.
+[NPC] Gurgus: I will be glad to share my knowledge with you, but first...
+[NPC] Gurgus: We need to speak about the Platinum Warriors matter, if you don't mind.
+[NPC Internal] Of course not, I can see that you are preoccupied Gurgus. Did you learn some news concerning them?
+[NPC] Gurgus: Not much more than what you told the Order; they are a group of mercenaries who are over-equipped, mysteriously financed, lead by an even more mysterious 'G.'.
+[NPC] Gurgus: Their strategy is to create dangerous events, then swoop in as the solution.
+[NPC] Gurgus: This is preoccupying in itself but what worries me the most is our fellow Order members...
+[NPC] Gurgus: And the citizens that could be at the wrong time in the wrong place.
+[NPC Internal] I agree. We need to go further in our investigation about them.
+[NPC] Gurgus: Well, I am glad you suggested this...
+[NPC] Gurgus: I have to tell you that once again, we are without news from Thrynt Glass after he told us he was leaving the Order.
+[NPC] Gurgus: I am conscious that it is the second time we send you to him but he is the only one that confessed about his difficulties.
+[NPC] Gurgus: All the other members left in silence and have refused to talk with us.
+[NPC] Gurgus: I believe it could be important to go and speak to him again.
+[NPC Internal] All right, I will contact him again.
+[NPC Narrate] -Kra nods, thankfully.-
+[NPC] Gurgus: Be sure to follow the leads of your investigation, listen to your instincts, it has served you well to this point and...
+[NPC] Gurgus: Oh!
+[NPC] Gurgus: To learn more about Roniston Shane, you could speak with Grand Master Stevald's brother, Polyuntri.
+[NPC] Gurgus: He is the official advisor of the Shadow Squadron's commander, Raithen, and a fervent adept of Laanx.
+
+[To] Thrynt Glass
+
+[NPC Internal] Hello Thrynt. How are you?
+[NPC Narrate] -Upon seeing you, Thrynt starts chewing his lower lip, embarrassed but resilient.-
+[NPC] Thrynt: Huarwar...
+[NPC] Thrynt: Look, I know why you are here!
+[NPC] Thrynt: Yes I quit, I did it and I don't regret it...
+[NPC] Thrynt: Or maybe a bit but I had no choice!
+[NPC] Thrynt: Look, I've already notified Gurgus and Gregori about my problems and how do you think they reacted?
+[NPC] Thrynt: Do you think they showed any sign of solidarity?
+[NPC] Thrynt: Well, no.
+[NPC Internal] Are you happy with your new situation? Is it going as you hoped?
+[NPC ME] Thrynt Glass swallows, looking in the distance.
+[NPC] Thrynt: I never truly wanted to leave the Order.
+[NPC] Thrynt: I liked it there, made some good friends and have learned much.
+[NPC] Thrynt: It also gave me certain prestige that would have surely helped my candidature in the Shadow Squadron.
+[NPC] Thrynt: But at least now I have pay and can bring food almost every day on my family table!
+[NPC Internal] The Order never hid that their missions only brought glory. But I understand, I really do. [You try another approach] So, what have you heard about the Platinum Warriors? I grew curious about them.
+[NPC ME] Thrynt Glass stays silent a few seconds, his eyes showing a surprising fear.
+[NPC Narrate] -He approaches you and whispers.-
+[NPC] Thrynt: Believe me, Huarwar, don't join them...
+[NPC] Thrynt: I...
+[NPC] Thrynt: I had to do things...
+[NPC] Thrynt: Things that I regret, they made me do things, mind tricked me!
+[NPC Internal] What things? [As Thrynt stays silent, you insist.] What things Thrynt? You know I am here to help.
+[NPC ME] Thrynt Glass shakes his head, deciding not to say anything more.
+
+[To] Polyuntri Stevald
+
+[NPC Internal] Good day. I am a Champion of the Order of the Keen Edge. I have been advised to seek information from you.
+[NPC] Polyuntri: Yet another wannabe-noble-apprentice of my brother Gregori.
+[NPC] Polyuntri: Magnificent.
+[NPC] Polyuntri: Well go ahead, shout your question but be brief please, I am a busy Ynnwn.
+[NPC Internal] [You ignore his acidic tone and proceed.] I heard that you were a Laanx adept and I was wondering if you knew someone named Roniston Shane. A Ylian, tall, very devoted to the God.
+[NPC] Polyuntri: I am forcing myself not to wonder why you are asking me such a thing.
+[NPC] Polyuntri: Not that I care anyway but I don't like speaking about others...
+[NPC] Polyuntri: So yes, I do know Roniston Shane and very devoted to Laanx is an understatement.
+[NPC] Polyuntri: This man is a fanatic.
+[NPC] Polyuntri: He even has some followers in the church, especially among youngsters.
+[NPC Internal] Do you know where I can find him? I have some questions for him.
+[NPC] Polyuntri: I thought my brother was leading an Order of warriors, not of chroniclers.
+[NPC ME] Polyuntri Stevald shakes his head.
+[NPC] Polyuntri: I saw him speaking with Sharven yesterday.
+[NPC] Polyuntri: Thinking back, he had a grim look, seemed withered.
+[NPC] Polyuntri: He said he had to unburden himself.
+[NPC] Polyuntri: I suppose you should speak with High Priest Sharven Xant-Areth.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Good day Hight-Priest Xant-Areth. I am sorry to disturb you but I need to speak to you in private.
+[NPC] Sharven: Ah?
+[NPC] Sharven: I suppose it is important, then.
+[NPC] Sharven: Well, I can dedicate a minute to you.
+[NPC] Sharven: Approach here and let us talk.
+[NPC] Sharven: How can I be of help?
+[NPC Internal] [With carefully chosen words, you explain the matter to Sharven, including your need to know more about Roniston Shane.]
+[NPC Narrate] -The high-priest takes a minute to ponder before answering.-
+[NPC] Sharven: I know no priest of Laanx that would willingly repeat what one of the faithful said in confidence.
+[NPC] Sharven: Plus, Roniston is a fervent follower of Laanx and the church protects him as it protects all its adepts...
+[NPC] Sharven: However, I do understand the distress of the situation.
+[NPC] Sharven: I've heard about this group, the Platinum Warriors, and not often in a good way.
+[NPC Internal] Is there a way for me to show the temple my good will?
+[NPC ME] Sharven Xant-Areth smiles, maybe at your smartness, maybe in the perspective of a gesture of good will.
+[NPC] Sharven: Well you could always make a donation to the temple.
+[NPC] Sharven: To help maintain its structure for example, or pay for the thousands of candles we use every week.
+[NPC] Sharven: There is a lot of work to be done around here and a sum of 200 tria would surely ease our burden for some time.
+[NPC] Sharven: Of course, the generous contributors are always included in our daily prayers.
+
+[Give] Sharven Xant-Areth; 200, Tria
+
+[NPC Internal] [Despite the importance of the sum and the fact that the Order will probably never repay you, you make the donation with a smile, hoping for information.]
+[NPC ME] Sharven Xant-Areth slightly bows his chest and explains, in a conversation tone.
+[NPC] Sharven: Of course, it doesn't change a thing.
+[NPC] Sharven: I won't say a word to you nor be the one entering into details.
+[NPC] Sharven: It will not be necessary.
+[NPC] Sharven: Laanx sent you here for his repentance, it is clear now.
+[NPC Internal] His repentance?
+[NPC ME] Sharven Xant-Areth takes time to explain, slowly.
+[NPC] Sharven: When Roniston came to me he was in a state of disarray, anger and despair.
+[NPC] Sharven: He said he had committed terrible acts for this group and Laanx had guided him back here to the temple.
+[NPC] Sharven: He came to repent, truly, sincerely.
+[NPC] Sharven: I told him to go to the wild, around the Eagle Head Fortress to face himself and let Laanx be the judge.
+[NPC] Sharven: That is where you will find him.
+[NPC] Sharven: There's a lot of area around there, so look around.
+[NPC] Sharven: Tell him 'He has already decided, the time of repentance has come.
+[NPC] Sharven: You must speak.' He will understand...
+[NPC] Sharven: But be aware Huarwar, that his faith is a sensitive matter.
+[NPC] Sharven: Tread carefully...
+[NPC] Sharven: May Laanx frighten the shadows from your path.
+
+[To] Roniston Shane
+
+[NPC Internal] [Roniston looks to you as you approach.] [You notice his expression, but cannot tell if he is mad or illuminated.] Roniston, sorry to disturb you in such a moment. I am a member of the Order of the Keen Edge. [Option 2/2]
+[NPC ME] Roniston Shane nods quickly, hand on the hilt of his sword where you can see a ripped piece of cloth, hanging.
+[NPC] Roniston: I heard about you but I cannot speak right now and you shouldn't have come here.
+[NPC] Roniston: I should be alone with Laanx and you shouldn't have come, you are ruining everything!
+[NPC Internal] [Roniston seems constantly on edge, about to burst with anger or madness his jaws pulled forward, the warmth of his faith feeding the fire.] I am extremely sorry, but I came from Hight-Priest Xant-Areth. I have a message for you.
+[NPC ME] Roniston Shane blinks, his hand slightly more relaxed on the hilt.
+[NPC] Roniston: And what would that be?
+[NPC Internal] Sharven asked me to tell you that 'He has already decided, the time of repentance has come. You must speak'.
+[NPC ME] Roniston Shane falls to his knees as heavily as if a string that was holding him up was cut.
+[NPC Narrate] -He breaths loudly, his eyes fixed on the ground.-
+[NPC] Roniston: May He forgive me.
+[NPC] Roniston: May Laanx extend His benevolent arm upon me, I was lost...
+[NPC] Roniston: He sat temptation on my road and I wasn't strong enough to pass it by, I was WEAK and unworthy of His greatness.
+[NPC] Roniston: I am a worm, sacrilege...
+[NPC ME] Roniston Shane digs through the grass with his bare hands, dumping handfuls of earth onto his head, spreading it everywhere on his face.
+[NPC] Roniston: I pledge guilty Laanx!
+[NPC] Roniston: Take me!
+[NPC] Roniston: Take me now, slay me!
+[NPC] Roniston: I am not worth walking in your realm!
+[NPC Internal] [With a renewed prudence, you try to direct Roniston towards more practical repentance.] Roniston, I am not a specialist but maybe Laanx provided you this test, to prove the strength of your will. You can repent by correcting your acts and trying to do better from now on.
+[NPC ME] Roniston Shane looks at his sword and sighs.
+[NPC] Roniston: Entering the Order was a true achievement for me, it was my greatest achievement.
+[NPC] Roniston: Then there were the Platinum Warriors.
+[NPC] Roniston: They offered me a position, I was lieutenant!
+[NPC] Roniston: I had a whole host under my lead, 20 ready to do exactly what I commanded of them, to fight in Laanx's name, to shout His name before battle, to praise His fiery arm as we fought alongside Him, to sing His greatness as a battle is won!
+[NPC] Roniston: I finally had found my place, this was the right way to love Him!
+[NPC Internal] I see. But something went wrong... [You point a finger at the piece of flag hanging off his sword's hilt.]
+[NPC ME] Roniston Shane follows your lead and he nods.
+[NPC] Roniston: Gibbsite informed us that a group of cut-throats planned to attack caravans along the road to the Bronze doors fortress.
+[NPC] Roniston: Kra told us to go there and set an ambush to save the caravan.
+[NPC] Roniston: So I went with a small part of my men.
+[NPC] Roniston: We installed the trap, but at the last minute everything went as I had feared...
+[NPC] Roniston: We received a message from Gibbsite ordering us to let the cut-throats do their attack and then to eliminate them and take their loot.
+[NPC] Roniston: He demanded that we act quickly and avoid leaving witnesses of any kind.
+[NPC] Roniston: Kra said it was to reward us for our service, said it was the only way he could pay us this time.
+[NPC] Roniston: Unfortunately, it was not the first time it happened...
+[NPC] Roniston: When we stormed upon the cut-throats, one of them shouted: We had a contract, betrayers!
+[NPC] Roniston: and that was what made me finally realise.
+[NPC] Roniston: I...I just ordered my men out and we ran away.
+[NPC Internal] Oh. And it's during that fight that you lost your sword's flag?
+[NPC ME] Roniston Shane nods a bit surprised.
+[NPC] Roniston: Yes...
+[NPC] Roniston: One of the cut-throats gave me a pretty serious hit, slicing one of my pockets, my flag, and a piece of my leg.
+[NPC ME] Roniston Shane shrugs his shoulders.
+[NPC] Roniston: All of Gibb's strategy is there.
+[NPC] Roniston: When you are a Platinum Warrior, you are treated very well.
+[NPC] Roniston: You are fed, equipped from head to toe with the best stuff, you are paid and feel secure.
+[NPC] Roniston: There is an atmosphere of solidarity there...
+[NPC] Roniston: But after some missions the real deal starts.
+[NPC] Roniston: They ask you to do small things first and it seems like nothing.
+[NPC] Roniston: Like..take the purse on the chimney, they won't notice it, they would have given it to us anyway, we just saved their children...
+[NPC] Roniston: Then each time more is asked starts to get vicious, even.
+[NPC] Roniston: At the end you are dependent on them, they know what you did, they own you.
+[NPC] Roniston: At the end you have no choice but to do as asked.
+[NPC ME] Roniston Shane sighs, still knelt, he seems sincerely full of regret.
+[NPC] Roniston: By the time you realise what you are doing and it is too late!
+[NPC Internal] [You wait a second for Roniston to compose himself before asking.] Who is Gibbsite?
+[NPC ME] Roniston Shane looks up toward the Dome, resilient.
+[NPC] Roniston: Kra is the leader of the Platinum Warriors, a sandstone Kran.
+[NPC] Roniston: I saw kra only once but I know that Gibbsite isn't kras real name, kra took this nick because of kras colour.
+[NPC] Roniston: Kra said it's easier for business, that people remember you better when you have a nick.
+[NPC] Roniston: I ignore Gibbsite's real name and that's another sign that I shouldn't have trusted kra.
+[NPC] Roniston: I have no idea where kra comes from, I simply had the impression that kra was military, the way everything is planned meticulously, based on strategy, etcetera...
+[NPC Internal] I see. Thank you for the information, Roniston. Are you still a Platinum Warrior member?
+[NPC] Roniston: No.
+[NPC] Roniston: No, Laanx enlightened me, I quit.
+[NPC] Roniston: I did it on His orders, followed His wisdom.
+[NPC] Roniston: And so I am taking an oath now, in front of Laanx, with you as witness from the Order, Huarwar...
+[NPC] Roniston: I swear to dedicate my life defending Laanx's principles and serving His will in all manners He deems worthy...
+[NPC] Roniston: I swear to be His ruthless paladin.
+[NPC ME] Roniston Shane stands up, he seems taller suddenly as he raises his sword toward the Dome.
+[NPC] Roniston: I give you my life Laanx, and with it my soul.
+[NPC ME] Roniston Shane shouts.
+[NPC] Roniston: May your enemies tremble!
+[NPC] Roniston: May your will be law!
+[NPC] Roniston: I swear!
+[NPC ME] Roniston Shane slices his left hand, his blood drips onto the floor, to seal the oath.
+[NPC] Roniston: Be gone now Huarwar, I regret to have left the Order but my life is elsewhere, I understand it now.
+[NPC] Roniston: Laanx is my light, in Him lays my glory.
+[NPC] Roniston: Be gone or pray with me.
+[NPC Internal] [You choose to pray with Roniston and as you recite with him, Laanx's light fills you.]
+[NPC] Roniston: Lord, make me an instrument of your will!
+[NPC] Roniston: Oh Divine Master, grant that I may not so much seek to be great as to make you great; To be served as to serve you; To be loved as to love you; For it is in giving you that we receive; It is in trusting you that we are acceptable; And it is in following you that we are born to eternal light!
+[NPC ME] Maulbernaut attacks Huarwar Eruera with normal stance
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Hello Gurgus, I gathered very important information! [You summarise what you know.]
+[NPC Narrate] -A brief but loud noise, sounding like a stone was hit on another, emanates from kras chest as kra interrupts you.-
+[NPC] Gurgus: Gibbsite you say?
+[NPC] Gurgus: The leader of the Platinum Warrior is Gibbsite?
+[NPC] Gurgus: I know kra!
+[NPC] Gurgus: It's all clear now, it all makes sense!
+[NPC] Gurgus: I should have thought of them from the beginning!
+[NPC Internal] Them? What do you mean? Who are they? Who is kra?
+[NPC] Gurgus: I never knew kras real name, kra was always known as Gibbsite.
+[NPC] Gurgus: Listen, a couple of years ago, after some poor political decisions leading to the authorities being understrength, a situation arose in the Barn.
+[NPC] Gurgus: So much so that a central part of the land was off-limits, invaded by of small groups of bandits and not even the guards would risk intervening.
+[NPC] Gurgus: When the Octarch finally took the lead to deal with it, he decided to solve the problem in a radical manner.
+[NPC] Gurgus: He secretly founded The Militia.
+[NPC] Gurgus: Supposedly to act as his hand to systematically eliminate the bandits.
+[NPC] Gurgus: He recruited some of the most merciless mercenaries, ex-criminals and veteran soldiers.
+[NPC] Gurgus: Gibbsite was from one of the labyrinth outposts, I believe, and was known for kras strength and charisma.
+[NPC] Gurgus: Kra quickly ascended to The Militia's leadership!
+[NPC] Gurgus: In the end, the solution worked all to well and when the situation returned to normal, the Octarch decided to disband the group that proved barely controllable.
+[NPC Internal] Ah! So the Platinum Warriors would be the remnants of this Militia.
+[NPC] Gurgus: Exactly!
+[NPC] Gurgus: The Militia disbanded but not the fascination of its members for Gibbsite, their leader.
+[NPC] Gurgus: Some of them must have stayed together, Gibbsite planing their next move...
+[NPC] Gurgus: To the Dome!
+[NPC] Gurgus: Where much tria might be gained if you are fearless.
+[NPC] Gurgus: This is a very serious problem.
+[NPC] Gurgus: I will write a report immediately.
+[NPC Narrate] -Without further ado, Gurgus writes on a parchment that kra hands to you after some minutes.-
+[NPC] Gurgus: Take this to Gregori immediately, Huarwar.
+[NPC] Gurgus: Do not delay, the situation is worse then I thought.
+
+[To] Gregori Stevald
+
+[NPC Internal] Gregori, I have an urgent report from Gurgus to hand you, if you have a minute.
+[NPC ME] Gregori Stevald salutes you and nods.
+[NPC] Gregori: Champion...
+[NPC Narrate] -He grabs the report and reads it.-
+[NPC] Gregori: Laanx's mask, this is a serious affair!
+[NPC Narrate] -He looks up at you and states.-
+[NPC] Gregori: I will say this only once Huarwar because I am always very parsimonious with compliments but you have been remarkable in this whole story.
+[NPC] Gregori: Thanks to you, the Order has unveiled a terrible menace that could have stormed the entire Dome.
+[NPC] Gregori: Well done.
+[NPC Internal] Thank you, Master...
+[NPC ME] Gregori Stevald interrupts you with a raised hand.
+[NPC] Gregori: Don't get too sentimental yet, it is not over.
+[NPC] Gregori: I know Gibbsite, I know kras strategies.
+[NPC] Gregori: Kra has no limit, no regrets, no feelings.
+[NPC] Gregori: And kras swordplay style is merciless.
+[NPC ME] Gregori Stevald sights then unsheathes Tarr.
+[NPC] Gregori: If I could I would confront kra myself, right now, man to Kran!
+[NPC] Gregori: But It would be stupid to engage the entire Order image that way...
+[NPC ME] Gregori Stevald puts a hand on your shoulder.
+[NPC] Gregori: You are way out of Gibbsite's league...
+[NPC] Gregori: For now.
+[NPC] Gregori: But we will work on it, you are the Klyros for the situation.
+[NPC] Gregori: Unsheathe your blade and get ready for yet another move, the Disengage.
+[NPC] Gregori: This one can save your life.
+[NPC Internal] [After some intense exercising, you seem to have learned the move and ask.] What now Gregori, how to reach the Platinum Warriors and stop them?
+[NPC ME] Gregori Stevald sheaths Tarr carefully as he answers you.
+[NPC] Gregori: I have a plan.
+[NPC] Gregori: Or what seems to me like one...
+[NPC] Gregori: Gurgus states clearly that we don't have enough evidence to report the facts to the higher authorities.
+[NPC] Gregori: So I will keep the Order in alert, we will continue investigating because we have yet a small chance that time will bring us more witnesses like Roniston, so we will get more valuable testimonies.
+[NPC] Gregori: As for you Champion, go train like a beast, give it all.
+[NPC] Gregori: The Arena is open for you at any time.
+[NPC] Gregori: Come back to me here, when you are ready.
+
+[Reward] [Combat Move] Single Handed Sword, Disengage; [Faction] 20, Order of the Keen Edge; [Skill] 1, Sword

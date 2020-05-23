@@ -1,0 +1,39 @@
+[Questname] Health Issues for Guile
+[NPC Name] Guile
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Cutthroat Hospitality; [Item] 2, Devils Claws; [Item] 1, Kingsfoil Leaf
+
+[To] Guile
+
+[NPC Internal] I'm looking for work. Do you have anything that needs doing?
+[NPC Narrate] -Guile smiles and nods.-
+[NPC] Guile: Yes, I do actually.
+[NPC] Guile: I have recently been having some health 'issues', the details of which I choose to keep to myself.
+[NPC] Guile: I have acquired the recipe for a cure from a travelling herbalist.
+[NPC] Guile: However, he was unable to source the ingredients for me as he was a bit, ahh…
+[NPC] Guile: 'tied-up'.
+[NPC Narrate] -Guile throws a wicked grin in your direction.-
+[NPC] Guile: This is where you come in; I need you to gather some herbs for me.
+[NPC] Guile: I don't know where you would find them.
+[NPC] Guile: You might have to seek out a herbalist and ask them for help.
+[NPC] Guile: Will you do this for me?
+[NPC Narrate] -Guile gives you a charming smile.-
+[NPC Internal] Of course I will.
+[NPC Narrate] -Guile grins devilishly.-
+[NPC] Guile: Excellent!
+[NPC] Guile: I will need two Devils Claws and one Kingsfoil Leaf.
+[NPC] Guile: I look forward to your return.
+[NPC Narrate] -Guile smiles and waves as you leave.-
+[NPC Internal] I managed to find the ingredients you wanted.
+[NPC] Guile: Oh…
+[NPC Narrate] -Guile looks surprised.-
+[NPC] Guile: This is fantastic!
+[NPC] Guile: I will get to work on the potion immediately.
+[NPC] Guile: Thank you, Sir.
+[NPC] Guile: Take this for your troubles.
+[NPC Narrate] -Guile smiles sweetly as she hands you a handful of coins.-
+
+[Reward] [Money] 2107; [XP] 10800; [Faction] 15, Thieves Organization
+

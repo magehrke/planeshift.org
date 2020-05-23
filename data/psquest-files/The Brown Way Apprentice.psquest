@@ -1,0 +1,43 @@
+[Questname] The Brown Way Apprentice
+[NPC Name] Jardet Forsill
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Without a Way; [Item] 1, Brown Way Apprentice's Wand; [Skill] 10, Brown Way
+
+[To] Jardet Forsill
+
+[NPC Internal] I am here to train, here is my wand as proof of being a worthy student.
+[NPC] Jardet: Welcome student.
+[NPC Narrate] -Jardet hands back the wand with a smile.-
+[NPC] Jardet: The goal of Brown Way is not only to understand and follow the rules of nature.
+[NPC] Jardet: We're people who train themselves to protect these lands.
+[NPC Narrate] -Jardet puts his fist on his chest.-
+[NPC] Jardet: We've to be steady and strong like rocks.
+[NPC] Jardet: So, I want to ask you a question, before proceeding: what lies beyond the Bronze Doors?
+[NPC Internal] labyrinth
+[NPC] Jardet: Exactly.
+[NPC] Jardet: The Stone Labyrinths are source of food and a source of other materials too, especially magic material.
+[NPC] Jardet: Do you understand this lesson?
+[NPC Narrate] -Jardet raises a hand without giving you time to answer.-
+[NPC] Jardet: Protection is not a simple matter, because you can't protect everything.
+[NPC] Jardet: So, as a Brown Way member, you've to understand what is worth your protection.
+[NPC] Jardet: Like an important place as the Bronze Doors.
+[NPC Narrate] -Jardet nods, like pondering about his own words.-
+[NPC] Jardet: Now, before you continue your training with me I want to make sure you are known by our Brown Way Archmage.
+[NPC] Jardet: So please take Mulgik this report.
+[NPC Narrate] -Jardet hands over the report.-
+[NPC] Jardet: Then return here to me to improve your Brown Way level of skill.
+
+[To] Mulgik
+
+[NPC Internal] Here is the report from Jardet.
+[NPC Narrate] -Mulgik looks at the report.-
+[NPC] Mulgik: Talad brings you back to me once again.
+[NPC] Mulgik: So you have chosen the Brown Way after all.
+[NPC] Mulgik: I see good things in you, Sir Enkidukai.
+[NPC] Mulgik: You may return to Jardet with your wand now.
+[NPC] Mulgik: Be sure you train first, though, as he will not be able to give you your first test if you are not skilled enough.
+
+[Reward] [XP] 8000; [Faction] 5, Brown Order
+

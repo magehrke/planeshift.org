@@ -1,0 +1,39 @@
+[Questname] Loren Chama Needs Dye
+[NPC Name] Loren Chama
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Just Call Him Lucky; [Money] 200
+
+[To] Loren Chama
+
+[NPC Internal] Do you have any work for me?
+[NPC] Loren: Of course.
+[NPC] Loren: Anything to help out the little people.
+[NPC] Loren: The Octarch's birthday feast is coming soon, and one does not just meet the Dome Octarch Iragdun Salikarios looking less than one's best.
+[NPC] Loren: I need dye for my hair; can you get it for me?
+[NPC Internal] Yes, where would I find some?
+[NPC] Loren: Wonderful!
+[NPC] Loren: Go see Brintec.
+[NPC] Loren: He's a carpet-seller and dyer in Ojaveda; ask around if you do not know where that is.
+[NPC] Loren: I will give you double the value of the dye for your efforts.
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] Loren Chama sent me for some dye.
+[NPC] Brintec: I have very little left; there has been a rush on it lately.
+[NPC] Brintec: I suspect it has something to do with the Octarch's upcoming feast.
+[NPC] Brintec: It will cost you 200 tria.
+[NPC Narrate] -Brintec shows an empty hand.-
+[NPC Internal] [ NAME gives Brintec two hundred trias.]
+[NPC] Brintec: A pleasure doing business!
+
+[To] Loren Chama
+
+[NPC Internal] I got the dye you wanted.
+[NPC] Loren: Thank you.
+[NPC] Loren: Here is your pay.
+[NPC] Loren: If you ask later, I may have more work for you.
+
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Crafting Association
+

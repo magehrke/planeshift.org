@@ -1,0 +1,66 @@
+[Questname] Saria's Rush Job
+[NPC Name] Saria Dunwallow
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Enchanted Jongleur's Balls; [Item] 2, Diamond Crystal; [Item] 4, Ruby Crystal; [Item] 3, Emerald Crystal; [Item] 4, Silver Ingots
+
+[To] Saria Dunwallow
+
+[NPC Internal] Hail! Why do you look so distraught?
+[NPC] Saria: The best work takes so much time.
+[NPC] Saria: A daughter of the Vigesimi came in looking to get her hair styled with less then I would like to do the job.
+[NPC] Saria: She's looking to have something special done.
+[NPC] Saria: She wants gems and silver in her hair.
+[NPC] Saria: Now I have a jeweler on staff, but neither of us have the time to get the materials that are needed.
+[NPC] Saria: Could you gather them for us?
+[NPC Internal] It will take me sometime but I will get them for you.
+[NPC] Saria: Excellent!
+[NPC] Saria: We will need two diamond crystals, four ruby crystals, three emerald crystals, and four silver ingots.
+[NPC Internal] gives Saria the crystals and ingots.
+[NPC] Saria: Back so quickly.
+[NPC] Saria: Let's have look at what you brought.
+[NPC] Saria: Diamonds, yes, they will add a white glitter to her hair.
+[NPC] Saria: Some of these can seem to glow with a fire from within.
+[NPC] Saria: If there was more time I could have something enchanted into these.
+[NPC] Saria: But we'll make do with what we have!
+[NPC] Saria: Ah, emeralds will go so well with her eyes, yes.
+[NPC] Saria: Gold may look richer, but when the light catches silver it dazzles.
+[NPC] Saria: That's what she wants, dazzle; and dazzle she shall.
+[NPC] Saria: But…
+[NPC Narrate] -Saria looks at the diamond crystals and frowns.-
+[NPC] Saria: As wonderful as these are, they are too big.
+[NPC] Saria: My jeweler won't be able to adjust them and the others in time.
+[NPC] Saria: Could you take them to Ondren Torr for me?
+[NPC] Saria: He should be able to find someone to cut them.
+[NPC Internal] Sure, just give me them crystals.
+[NPC] Saria: Excellent.
+[NPC] Saria: Thanks so much for helping us.
+[NPC] Saria: Here are the crystals and a work order for Ondren to pass along to the cutter.
+
+[To] Ondren Torr
+
+[NPC Internal] Saria sent me with this order.
+[NPC] Ondren: Hmm…
+[NPC] Ondren: a work order?
+[NPC Narrate] -Ondren reads the order and frowns.-
+[NPC] Ondren: Saria got herself in a jam again I see.
+[NPC] Ondren: I should be able to find someone to cut the stones.
+[NPC] Ondren: Please give me the crystals.
+[NPC Internal] Here they are.
+[NPC] Ondren: I know who I'll give these to for cutting.
+[NPC Narrate] -Ondren studies the crystals and nods. He takes out a slip of paper and writes a few things on it.-
+[NPC] Ondren: Good stones.
+[NPC] Ondren: Give this to Saria, I will pay for the cutter's fee and she can reimburse me later.
+
+[To] Saria Dunwallow
+
+[NPC Internal] Orden said you can pay him later. [ YOU hands over the receipt.]
+[NPC] Saria: Excellent, with his gemcutter we will be able to make this work.
+[NPC] Saria: Thank you so much for your help today.
+[NPC] Saria: She'll look stunning when we are finished with her.
+[NPC] Saria: Let me give you these for your time.
+[NPC Narrate] -Saria gives you several coins.-
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Artists Association
+

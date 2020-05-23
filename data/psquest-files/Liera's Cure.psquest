@@ -1,0 +1,567 @@
+[Questname] Liera's Cure
+[NPC Name] Liera Zireti
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning Nature's Secrets; [Item] 10, Ruby Crystal; [Item] 10, Cinnabar Ore; [Item] 10, Zinc Ore; [Item] 2, Maulbernaut Talon; [Item] 5, Neoten Consumer Blood; [Item] 4, Coamti Tongue; [Item] 10, Barberry Syrup
+
+[To] Liera Zireti
+
+[NPC Internal] I am here to learn about alchemy.
+[NPC Narrate] -Liera has her head down and looks frazzled.-
+[NPC Narrate] -She looks up and blinks a few times focusing her eyes on you.-
+[NPC] Liera: No no, I have no time to teach.
+[NPC] Liera: I am trying to find a cure.
+[NPC Narrate] -She seems to speak to herself.-
+[NPC] Liera: What am I missing?
+[NPC Internal] Maybe I can help?
+[NPC Narrate] -Liera narrows her eyes at you.-
+[NPC] Liera: If you are here to learn then you are a beginner.
+[NPC] Liera: I am working on a very powerful potion that takes quite some skill.
+[NPC Narrate] -Liera composes herself and starts from the beginning.-
+[NPC] Liera: You see, there has been a plague spreading on the third level.
+[NPC] Liera: Several towns have been quarantined.
+[NPC] Liera: Magic along with herbal and alchemy solutions have been attempted but at best have only helped treat symptoms.
+[NPC] Liera: There has been no outright cure.
+[NPC Internal] I am willing to learn and help.
+[NPC] Liera: No, that will take too long.
+[NPC] Liera: This plague is serious and can cause permanent death.
+[NPC] Liera: We need something fast.
+[NPC Narrate] -Liera turns to her shelves and searches frantically, then turns to you.-
+[NPC] Liera: I already tried a potion called Universal Panacea and it made patients feel better, but only for awhile.
+[NPC] Liera: It was no cure, which is strange because this is one of the most powerful potions known and cures almost anything if prepared right.
+[NPC] Liera: If you want to help, go talk to other members of the Science Association and see if they have some ideas, meanwhile, I'll keep trying to find the right potion.
+[NPC Internal] Whom should I speak with?
+[NPC] Liera: Think back to your dealings with the Science Association.
+[NPC] Liera: Start with Durok.
+[NPC] Liera: Kra is a respected member and might have some insight.
+[NPC] Liera: But don't tell Vladovic that I am working on a cure.
+[NPC] Liera: That old goujah will take all the credit for sure.
+[NPC] Liera: If you see him, just be vague.
+[NPC Internal] Why do you want to find a cure so bad?
+[NPC Narrate] -She seems lost in thought for a bit, then shakes her head and turns to you.-
+[NPC] Liera: I sell potions here at the arena, but that's how I am seen by the Science Association.
+[NPC] Liera: I make these potions myself, you know.
+[NPC] Liera: I want to be taken seriously as an alchemist.
+[NPC] Liera: If I can find this cure, the Association will be sure to notice me.
+[NPC] Liera: That and I want to help those poor people on the third level, of course.
+
+[To] Durok Rrecrok
+
+[NPC Internal] What can you tell me about plagues?
+[NPC] Durok: Mmmm…ooh…plague.
+[NPC Narrate] -Kra cringes slightly.-
+[NPC] Durok: Why do you want to know?
+[NPC Internal] I am helping searching for a cure for one.
+[NPC] Durok: Ahh…maybe you…are practicing alchemy?
+[NPC Internal] I am just trying to help Liera.
+[NPC] Durok: Mmmm……I see…the potion merchant from the Hydlaa arena.
+[NPC] Durok: Wonderful…
+[NPC] Durok: Plagues…mmmm….usually caused by very tiny creatures too small to see.
+[NPC] Durok: Seek out Kilas.
+[NPC] Durok: He is….quite knowledgeable about….many things.
+[NPC] Durok: You can often find him….near here, in East Hydlaa.
+[NPC] Durok: Plague…..mmmm….serious.
+
+[To] Kilas Tungse
+
+[NPC Internal] I am researching a cure for a plague.
+[NPC] Kilas: Oh my, that's serious stuff.
+[NPC Narrate] -Kilas looks around.-
+[NPC] Kilas: Hey, keep it down, we don't want to alarm Aldaaren.
+[NPC] Kilas: He's paranoid as it is.
+[NPC] Kilas: To find a cure would take quite some work.
+[NPC] Kilas: It's not just a matter of whipping up a potion.
+[NPC ME] Kilas speaks up proudly and points upward as he says:
+[NPC] Kilas: It must be scientific!
+[NPC] Kilas: One must experiment and be precise.
+[NPC Narrate] -Kilas pauses in thought and speaks softly.-
+[NPC] Kilas: I have heard of some sort of outbreak on the third level.
+[NPC] Kilas: Might this be what you are trying to cure?
+[NPC Internal] I am helping Liera to find a cure.
+[NPC] Kilas: Ah, a fine lass.
+[NPC] Kilas: Well I wish good luck to you both.
+[NPC] Kilas: I'm not an alchemist but I think one can apply what I call scientific methodology.
+[NPC] Kilas: What that means is to approach the problem systematically.
+[NPC] Kilas: First, we have the disease.
+[NPC] Kilas: Then we have various potions and ingredients to treat it.
+[NPC] Kilas: But how can we determine effect?
+[NPC] Kilas: How can we know if an attempt works or not?
+[NPC] Kilas: For this we need samples.
+[NPC] Kilas: Are you with me so far?
+[NPC Internal] Sounds a bit dangerous, no?
+[NPC] Kilas: Quite, but not if done right.
+[NPC] Kilas: I assume there must be a team of scientists already on the scene.
+[NPC] Kilas: To get a sample -safely- one must put it in a dish and surround it with sealed glass.
+[NPC] Kilas: This can be done by an experienced glass blower.
+[NPC] Kilas: The glass is filled with a special gel-like substance which acts to keep the disease inert.
+[NPC] Kilas: Then one can apply a sample of treatment using a very thin needle and observe the effects through a powerful magnifying machine called a microscope.
+[NPC] Kilas: I helped get one sent to someone in Ojaveda recently, I don't remember who, maybe a student of Vladovic, a well respected herbalist and alchemist there.
+[NPC] Kilas: I think they developed this microscope over at the university in Amdeneir.
+[NPC] Kilas: Anyways, check with Vladovic and good luck to you.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] What will cure a plague?
+[NPC Narrate] -Vladovic panics, drinks 3 different potions and spreads a foul smelling powder on the counter.-
+[NPC] Vladovic: You bring disease to me!?
+[NPC Internal] No, I'm not sick.
+[NPC Narrate] -Vladovic breathes a sigh of relief and collects the powder, brushing back into its container.-
+[NPC] Vladovic: Ohhh, I see, sorry but one cannot be too careful.
+[NPC] Vladovic: I've been hearing rumors about some outbreak on the third level.
+[NPC] Vladovic: It's bad enough several Dsars here in Ojaveda are under quarantine, but I don't think the two incidents are related.
+[NPC] Vladovic: Are you an alchemist?
+[NPC Internal] I am trying to learn as well as help a friend.
+[NPC] Vladovic: I see, I see.
+[NPC] Vladovic: Usually we try to kill such things with poisons or venoms.
+[NPC] Vladovic: However, we must kill the infection without harming the surrounding tissue or the subject.
+[NPC] Vladovic: So just the right amount must be determined and used.
+[NPC] Vladovic: A sample will have to be procured so it can be worked on safely.
+[NPC] Vladovic: This is very dangerous so they will not give out such things without a very good reason.
+[NPC Internal] Would a Universal Panacea potion help?
+[NPC Narrate] -Vladovic eyes widen for a second with a look of alarm.-
+[NPC] Vladovic: A what potion?
+[NPC] Vladovic: Where did you hear of such a thing?
+[NPC] Vladovic: That's a mystical potion.
+[NPC] Vladovic: Do not speak of it.
+[NPC] Vladovic: Only the most skilled alchemist would be foolish to even attempt such a thing.
+[NPC Internal] It has already been attempted.
+[NPC] Vladovic: Really?
+[NPC] Vladovic: It must have come from a very talented alchemist familiar with The Great Work because it is a very intricate potion that takes many many iterations to create.
+[NPC] Vladovic: Did it have positive results?
+[NPC] Vladovic: No, I suppose not or you would not be here, eh?
+[NPC Internal] It treated symptoms but it was no cure.
+[NPC] Vladovic: I see, I see.
+[NPC] Vladovic: Yes, it is quite the conundrum, you see.
+[NPC] Vladovic: That is a very powerful potion, yet what we need is to both heal and poison.
+[NPC] Vladovic: A combination of ingredients must be found such that these things do not cancel each other out.
+[NPC] Vladovic: Kill the disease without killing the subject but heal the subject without healing the disease, hmm?
+[NPC] Vladovic: It would take quite some experimentation to find the right ingredients in the right amounts.
+[NPC Internal] Do you know someone with a microscope?
+[NPC] Vladovic: Ah yes, fascinating tool, and quite helpful with such things.
+[NPC] Vladovic: I have a student who has been working with Chired Idelall.
+[NPC] Vladovic: In fact, if I know this student, he may have gone down to the third level to help.
+[NPC] Vladovic: But you should be able to find Chired.
+[NPC] Vladovic: She has a shop in Dsar Kore.
+[NPC] Vladovic: And please do not speak of such potions freely.
+[NPC] Vladovic: The Great Work is very spiritual and is best to be out of the public ear.
+
+[To] Chired Idelall
+
+[NPC Internal] Hello, I hear you have a microscope?
+[NPC Narrate] -Chired narrows her eyes to see you better and her hand grasps tightly on her cane.-
+[NPC] Chired: Hmm?
+[NPC] Chired: Where did you hear such a thing?
+[NPC Internal] I heard it from Vladovic.
+[NPC] Chired: Ah, I see.
+[NPC] Chired: Are you an aspiring scientist or alchemist?
+[NPC Internal] Yes, I am helping to find a cure for a plague.
+[NPC Narrate] -Chired speaks in a somewhat feeble voice, clearing her throat frequently.-
+[NPC] Chired: Ohhh, I seeeee.
+[NPC] Chired: Is this about the outbreak on the third level?
+[NPC] Chired: I have a student who has gone down to help.
+[NPC] Chired: I have equipment here if you ever get some samples we can analyze.
+[NPC] Chired: The microscope can be critical in seeing if a cure works.
+[NPC] Chired: Who is working on this if I may ask?
+[NPC Internal] I am trying to help Liera Zireti, but don't tell Vladovic.
+[NPC Narrate] -Chired chuckles, then coughs.-
+[NPC] Chired: Oh yes, I remember Liera.
+[NPC] Chired: A Ynnwn girl right?
+[NPC] Chired: I trained her awhile back.
+[NPC] Chired: Very talented and ambitious.
+[NPC] Chired: Well, have her procure some samples in a sealed glass dish.
+[NPC] Chired: My student there will know what to do on that end.
+[NPC] Chired: Then if she wishes, we can test some of her treatments and see what effect they have on the disease.
+[NPC] Chired: This is dangerous but it can be done safely.
+[NPC] Chired: Do let me know, we need to help those poor people down there.
+
+[To] Liera Zireti
+
+[NPC Internal] [You tell Liera what you have learned.]
+[NPC Narrate] -Liera eyes light up with excitement.-
+[NPC] Liera: Yes, YES!
+[NPC] Liera: Brilliant!
+[NPC] Liera: Vladovic is right, the Universal Panacea can act as a booster while the poison kills the plague.
+[NPC] Liera: The old coot is smart, I'll give him that.
+[NPC] Liera: You didn't tell him of my work, did you?
+[NPC Internal] No, I kept it general.
+[NPC] Liera: Hah, good.
+[NPC] Liera: Oh and how is dear sweet Chired?
+[NPC] Liera: Well, never mind, now…there are several possibilities for a poisonous ingredient.
+[NPC Narrate] -Liera begins checking her shelves, speaking to herself.-
+[NPC] Liera: Poison carkarass parts, check; Velnishi blood, check; Tloke warrior stinger, check; various Consumer blood, check…
+[NPC] Liera: Hmm, I don't seem to have any more poison Grendol blood.
+[NPC Narrate] -Liera finally turns her attention back to you.-
+[NPC] Liera: You really want to help?
+[NPC] Liera: I need some poison blood from the Toxic Grendol.
+[NPC] Liera: You'll have to venture into the sewers to find those vile creatures.
+[NPC] Liera: Get them yourself, form a group, buy them…I don't care.
+[NPC] Liera: I need five poison bloods.
+[NPC] Liera: Oh and one more thing.
+[NPC Narrate] -Liera scribbles a note on a piece of paper then hands it to you.-
+[NPC] Liera: Here, please find Tarela and have her deliver this to the quarantine station on the third level.
+[NPC] Liera: Hopefully they will give me those samples as you stated.
+[NPC] Liera: In the mean time, I will work with what I have.
+[NPC] Liera: Hurry…Tarela first, then the blood.
+
+[To] Tarela Girshon
+
+[NPC Internal] I have an urgent message.
+[NPC] Tarela: Yes, yes, aren't they all?
+[NPC Narrate] -Tarela's doesn't even look at you and holds out her hand, speaking in a monotone fashion as if reciting a list she's spoken many times.-
+[NPC] Tarela: Messages five to twenty tria, depending on the location; small packages twenty tria, large packages fifty tria…where to?
+[NPC Internal] I am trying to help Liera cure a plague!
+[NPC Narrate] -Tarela blinks a few times and turns her full attention to you, then reads the note.-
+[NPC] Tarela: Hmm?
+[NPC] Tarela: Oh.
+[NPC] Tarela: OH MY!
+[NPC] Tarela: Yes, this is serious stuff.
+[NPC] Tarela: Ok I will…no…do you have winch access?
+[NPC] Tarela: Never mind, let's do it this way.
+[NPC] Tarela: Go immediately and find Amidison Stronghand, the Vigesimi around here.
+[NPC] Tarela: She will give you clearance.
+[NPC] Tarela: Winch access is currently restricted to the third level because of this outbreak.
+[NPC] Tarela: They might not listen to us but Amidison can give the authority.
+[NPC] Tarela: And tell her Tarela says it's top priority!
+[NPC] Tarela: Quickly!!
+[NPC Narrate] -Tarela hands you back the note.-
+
+[To] Amidison Stronghand
+
+[NPC Internal] I need to get an urgent message to the winch.
+[NPC] Amidison: So?
+[NPC] Amidison: Do you have winch access, Sir?
+[NPC Internal] Yes, I do.
+[NPC] Amidison: Then why do you need to see me?
+[NPC Internal] This is about the outbreak on the third level, we may be close to a cure.
+[NPC] Amidison: Aha, yes, I have heard of some outbreak.
+[NPC] Amidison: I got word winch access to that level has been suspended.
+[NPC] Amidison: Sorry, it's too dangerous.
+[NPC Internal] I don't need to go there, I just need to send a message. We need samples to test the cure.
+[NPC] Amidison: You want to bring this plague to the Dome?!?
+[NPC] Amidison: Are you mad?
+[NPC Internal] It's safe, the scientists know what to do. And Tarela says it's top priority.
+[NPC] Amidison: Hmm, Tarela sent you here?
+[NPC] Amidison: Well, I know her and trust her judgment.
+[NPC] Amidison: What is your name, Enkidukai?
+[NPC Internal] I am YOU, Vigesimi.
+[NPC Narrate] -Amidison flips through a bunch of papers she happens to have on her.-
+[NPC] Amidison: Very well, here's what I'll do: Take this paper.
+[NPC Narrate] -Amidison seals it with the Octarchal Seal before handing it to you.-
+[NPC] Amidison: Bring it directly to Vigesimi Datal.
+[NPC] Amidison: And there'd better not be an outbreak here on the Dome or heads will roll, namely yours, YOU!
+
+[To] Datal Allavium
+
+[NPC Internal] An urgent message!
+[NPC Narrate] -Datal looks up.-
+[NPC] Datal: Let's see here…
+[NPC Narrate] -Datal reads the letter and his eyes widen with a look of concern and shock.-
+[NPC] Datal: Huh, I'm not sure about this, but since this came from the Hydlaa Vigesimi herself, very well.
+[NPC] Datal: Let me see this letter to be sent.
+[NPC] Datal: I need to understand what's going on here.
+[NPC Internal] Here it is.
+[NPC Narrate] -As Datal reads the letter, he makes several distorted facial expressions.-
+[NPC] Datal: This had better work!
+[NPC] Datal: It seems like an unnecessary risk to me.
+[NPC] Datal: Scientists…they're going to be the end of us all.
+[NPC Narrate] -Datal shouts to Venec even though he's close by.-
+[NPC] Datal: VENEC!
+[NPC] Datal: HALT THE SCHEDULE AND PREPARE THE WINCH FOR A SPECIAL DELIVERY!
+[NPC ME] Venec calmly speaks:
+[NPC] Datal: I'm right here, sir.
+[NPC] Datal: Isn't the third level under restriction?
+[NPC Narrate] -Datal replies in a normal tone.-
+[NPC] Datal: Yes, but this is important, we must get this message down there and await an important reply.
+[NPC] Datal: We are to take the return package immediately to Miss Zireti at the arena.
+[NPC] Datal: This is top priority.
+[NPC] Datal: Lives are at stake!
+[NPC Narrate] -Datal now directs his words to you.-
+[NPC] Datal: We'll take it from here, citizen.
+[NPC] Datal: Thank you for your service.
+
+[To] Liera Zireti
+
+[NPC Internal] Your bloods.
+[NPC] Liera: Great!
+[NPC] Liera: And the letter has been delivered?
+[NPC Internal] Yes, I gave it to the Winch Vigesimi, himself.
+[NPC] Liera: Excellent.
+[NPC] Liera: I left instructions to deliver those samples here.
+[NPC] Liera: But I realized, I have no way of testing them.
+[NPC] Liera: You said Chired will help with that?
+[NPC Internal] Yes, she has a microscope there.
+[NPC] Liera: Wonderful lady, Chired.
+[NPC] Liera: She may be older now but a great trainer.
+[NPC] Liera: I trust her to help us figure out if any of my concoctions works.
+[NPC] Liera: But first, there is still much to do.
+[NPC] Liera: Vladovic gave me a good idea.
+[NPC] Liera: We should not stop at just one potion, even one as powerful as Universal Panacea.
+[NPC] Liera: There are others I can make too, which will be a regimen of treatments to be given at different stages.
+[NPC] Liera: Yes, yes, this will work, I am sure of it.
+[NPC] Liera: But I need a LOT of supplies.
+[NPC] Liera: I have some, like iron ores and some animal parts, but I need a resupply of others.
+[NPC] Liera: You want to learn about alchemy?
+[NPC] Liera: Here's your chance.
+[NPC Narrate] -Liera gets out a quill and paper and starts writing, but after a few strokes she starts rubbing the quill quickly.-
+[NPC] Liera: Ugh!
+[NPC] Liera: Out of ink.
+[NPC] Liera: I hope you have some handy, I'll just have to tell you what to get, but be warned, it's extensive.
+[NPC] Liera: Ready write it all down?
+[NPC Internal] Yes, I am ready.
+[NPC Narrate] -Liera takes a deep breath.-
+[NPC] Liera: I need 10 ruby crystals.
+[NPC] Liera: 10 cinnabar ores.
+[NPC] Liera: 10 zinc ores.
+[NPC] Liera: 2 maulbernaut talons.
+[NPC] Liera: 5 neoten consumer bloods.
+[NPC] Liera: 4 coamti tongues.
+[NPC] Liera: Some Barberry Syrup, 10 will do.
+[NPC] Liera: I also need a restock of reagents, particularly combinations of them.
+[NPC] Liera: So on your way back, find Charisa Malod.
+[NPC] Liera: She has a house near the main street in Hydlaa.
+[NPC] Liera: She's a retired alchemist but she still supplies me with reagents from time to time.
+[NPC] Liera: She'll know what I need.
+[NPC] Liera: As for the Barberry Syrup you can see Aleena if you need help with that.
+[NPC] Liera: For the animal parts, you can buy them or you might want to form a hunting party and go in a group.
+[NPC] Liera: Got it?
+
+[To] Charisa Malod
+
+[NPC Internal] Liera needs reagents.
+[NPC] Charisa: Ah?
+[NPC] Charisa: Alright, I should still have some supplies.
+[NPC Narrate] -Charisa goes into her house briefly and comes out with a handful of vials and bottles along with a box.-
+[NPC Narrate] -She starts putting various things into the box carefully and neatly.-
+[NPC] Charisa: Anything important Liera is working on?
+[NPC Internal] She is working on a cure for a plague.
+[NPC Narrate] -Charisa gasps.-
+[NPC] Charisa: Oh my.
+[NPC Narrate] -She starts putting some extra supplies in the box.-
+[NPC] Charisa: A plague…that's terrible.
+[NPC] Charisa: I pray Laanx will show mercy.
+[NPC] Charisa: I don't know if you ever heard of the story, but there was once a Lemur priest who strayed from Laanx's teachings.
+[NPC] Charisa: For punishment Laanx unleashed a terrible plague.
+[NPC] Charisa: The Lemurs searched furiously for a cure and it is said that was the origins of what is now alchemy.
+[NPC] Charisa: There is a good book in the library if you are interested.
+[NPC Internal] I will look for that, thanks.
+[NPC Narrate] -Charisa smiles and hands you a box of supplies.-
+[NPC] Charisa: Here is the package for Liera.
+[NPC] Charisa: I wish her all the luck and my prayers are with her.
+[NPC] Charisa: May Laanx frighten the shadows from your path.
+
+[To] Aleena Arlavin
+
+[NPC Internal] I need ten Barberry Syrups for Liera.
+[NPC] Aleena: Hello, YOU.
+[NPC] Aleena: Learning alchemy I see?
+[NPC] Aleena: Hmm, perhaps Barberry Syrup is a bit beyond your skills at the moment.
+[NPC] Aleena: We can do one of two things.
+[NPC] Aleena: You can just buy some if you like, or I can help you make them quickly.
+[NPC] Aleena: What do you say?
+[NPC Internal] Let's make them.
+[NPC Narrate] -Aleena smiles.-
+[NPC] Aleena: Very good, I will need ten Barberry Teas.
+[NPC] Aleena: Perhaps you have some from your practices?
+[NPC] Aleena: If not, you should know how to make it from Barberry Root.
+[NPC Internal] Here are your 10 Barberry Teas.
+[NPC] Aleena: Perfect.
+[NPC Narrate] -Aleena takes the tea, goes over to the table and puts it in a pot, making an extract. She then adds honey and puts it back in the pot and repeats the process until done with ten.-
+[NPC] Aleena: There we go, ten Barberry Syrups.
+[NPC] Aleena: These are good for making cures for poisons.
+
+[To] Liera Zireti
+
+[NPC Internal] Whew! That was not easy. I finally have your supplies.
+[NPC Narrate] -Liera is working but looks exhausted, then looks up at you.-
+[NPC] Liera: Ah, good.
+[NPC] Liera: I was beginning to think you weren't going to return.
+[NPC] Liera: Whatever you did worked, the samples have arrived and now I need to make a few potions from the poisons.
+[NPC] Liera: Let's do this in stages.
+[NPC] Liera: First the crystals.
+[NPC] Liera: Do you have the 10 rubies?
+[NPC Internal] [You hand over 10 rubies.] There you go.
+[NPC] Liera: Good, now the metals.
+[NPC] Liera: 10 cinnabar and 10 zinc ores?
+[NPC Internal] [You put the ores on the table.]
+[NPC Narrate] -Liera looks and counts, nodding approvingly.-
+[NPC] Liera: Powders made from both crystals and metals are often used in potions.
+[NPC] Liera: And the animal parts?
+[NPC Internal] [You plop all the animal parts on the counter.] Coamti Tongues?!?
+[NPC Narrate] -Liera nods, grabbing the parts bit by bit and putting them on her shelves.-
+[NPC] Liera: Sounds strange, but yes, tongues are known to have restorative properties.
+[NPC] Liera: Coamti Tongue is an ingredient in a Greater Potion of Restoration.
+[NPC] Liera: You have a ways to go before you can make those.
+[NPC] Liera: Finally, let's do the syrup and the reagents.
+[NPC] Liera: You have those?
+[NPC Internal] Here you go.
+[NPC] Liera: Great!
+[NPC Narrate] -Liera takes items out of the box from Charisa and places them on her shelves, making remarks as she does.-
+[NPC] Liera: …Oh good…perfect….oil of vitriols….mhmm…vitriol salts…I really needed more sulphur…way to go Charisa!
+[NPC] Liera: Good, now…
+[NPC] Liera: I have already made several potions.
+[NPC] Liera: These supplies will help me make more.
+[NPC] Liera: But now I need you to make a few things.
+[NPC] Liera: Even at minimum skill, you can at least make some minor potions.
+[NPC] Liera: First thing I need you to do is simply combine an Oil of Vitriol with 2 Niters and give me the mixture.
+[NPC Narrate] -Liera grabs some small bottles from the shelf and hands them to you.-
+[NPC] Liera: Here's a few oils, just use one.
+[NPC Internal] Umm, do I need a book for this?
+[NPC Narrate] -Liera seems very exhausted, barely paying attention.-
+[NPC] Liera: Hmm?…
+[NPC] Liera: Oh, right, you are just starting out, aren't you?
+[NPC] Liera: Do you don't have a Basic Potions Tome?
+[NPC Internal] No, I don't have one of those yet.
+[NPC Narrate] -She shakes her head as if trying to stay alert.-
+[NPC] Liera: Aha, it would help, wouldn't it?
+[NPC] Liera: I'm sorry, I've been at this for too long now, but I'm hoping you can help me with that shortly.
+[NPC Narrate] -Liera grabs a new looking book from behind her counter and hands it to you.-
+[NPC] Liera: This is a Basic Potions Tome.
+[NPC] Liera: It will teach you how to make many of these small potions.
+[NPC] Liera: Now, using this book, just combine one Oil of Vitriol with 2 Niters on the Alchemist's table.
+[NPC] Liera: Just like with combining metals, cooking, or making herbal ingredients.
+[NPC Internal] Here you go. You want the remaining oil of vitriols back?
+[NPC] Liera: No, keep them, you'll need them.
+[NPC Narrate] -She takes the mixture.-
+[NPC] Liera: Very good.
+[NPC Narrate] -She moves to the stove and puts the mix into an odd looking container.-
+[NPC] Liera: This here is called an Alembic.
+[NPC] Liera: The mix is boiled and once condensed, it travels from this first container to the other one through a tube.
+[NPC] Liera: This is called distillation, which extracts the spirits from the mixture, in this case creating Nitric Spirit.
+[NPC] Liera: I will use that for one of the potions.
+[NPC] Liera: While this is working you can move onto your next task.
+[NPC Narrate] -Liera pours some sort of tea and takes a sip.-
+[NPC] Liera: The potions you will make in combination with this tea should perk me up good.
+[NPC Narrate] -She smiles.-
+[NPC Internal] What do I do next?
+[NPC] Liera: I'm going to have you make a very simple potion, called a Minor Potion of Dermorian's Willpower.
+[NPC] Liera: This doesn't mean it's just for Dermorians.
+[NPC] Liera: Many potions from the Basic Potions Tome are named after races, associating a trait of that race; like Ynnwn's toughness, Kran's vigor, or Enkidukai's grace.
+[NPC] Liera: Each potion affects a trait like intelligence, endurance, willpower, and so on.
+[NPC] Liera: So for this willpower potion, I will give you a diamond and some quicksilver.
+[NPC] Liera: First, using the mortar and pestle, grind the diamond into a powder.
+[NPC] Liera: Then on the table, combine -one- powdered diamond and the quicksilver to make a raw potion.
+[NPC] Liera: Finally, take the raw potion and using a melting pot on the stove, amalgamate the solution until it is a proper potion, holding a glass stirrer.
+[NPC Narrate] -Liera hands you a diamond, a small vial with quicksilver in it, and a glass stirrer, then goes back to work.-
+[NPC Internal] Here you go, one willpower potion. Anything else?
+[NPC Narrate] -Liera takes the potion and sets it aside.-
+[NPC] Liera: Great.
+[NPC] Liera: Next is going to be a Minor Potion of Lemur's Smartness.
+[NPC] Liera: For this you'll need just one tin ore and a vitriol salt.
+[NPC] Liera: But there are a lot of transformations to make so we'll do this in stages.
+[NPC] Liera: First here is a tin ore.
+[NPC] Liera: Make it into a powder, but instead of using the mortar and pestle, use this wooden mallet.
+[NPC Narrate] -Liera hands you a tin ore and a wooden mallet.-
+[NPC Internal] Done!
+[NPC] Liera: Already?
+[NPC] Liera: A self starter…I like that.
+[NPC] Liera: You even figured out how to get quicksilver and bought all the materials.
+[NPC] Liera: You're going to make a great alchemist, YOU.
+[NPC] Liera: I really need this…bottoms up!
+[NPC Narrate] -Liera drinks some more tea, then takes the first potion you gave her and drinks it.-
+[NPC] Liera: Not bad…not the best quality, but not too bad for a beginner.
+[NPC] Liera: And now the intelligence potion.
+[NPC Narrate] -Liera quickly downs the potion and smacks her lips a bit.-
+[NPC] Liera: Salty.
+[NPC Narrate] -She then takes out a small bottle of juiceberry juice and drinks it.-
+[NPC] Liera: Whoooooo!
+[NPC] Liera: Now we're talkin'!
+[NPC] Liera: Juiceberry juice is nice and sweet and takes care of that salty and metallic taste.
+[NPC Internal] How are you feeling?
+[NPC Narrate] -Liera perks up almost immediately and looks much more focused and alert.-
+[NPC] Liera: Once this all wears off, I'm going to need a good long sleep, but for now I can continue my work.
+[NPC Narrate] -Liera quickly moves between the table and stove, using various ingredients to make mixes and potions.-
+[NPC Narrate] -You notice as she takes the poison Grendol blood you gave her earlier and distills it in the alembic before putting it into the athanor.-
+[NPC Narrate] -She takes the resulting residue, adds some things to it, puts it in the melting pot and pours the resulting liquid into a vial.-
+[NPC Narrate] -Then after making several other things, she again puts various items in a box, seals it, and hands it to you.-
+[NPC] Liera: Alright, here we go.
+[NPC] Liera: In this box is the plague samples and various treatments.
+[NPC] Liera: I need you to take it to Chired in Dsar Kore and have her analyze it.
+[NPC] Liera: Take the pterosaur, it's faster.
+[NPC Narrate] -Liera reaches into a container of small items and pulls something out.-
+[NPC] Liera: Take this token and use it as payment with the attendant near the temple, it's worth one free pterosaur ride.
+
+[To] Chired Idelall
+
+[NPC Internal] Here are the samples from Liera.
+[NPC] Chired: Oh yes.
+[NPC] Chired: Thank you, dear.
+[NPC Narrate] -Chired takes the box and disappears up the stairs.-
+[NPC ME] After some time, she yells out:
+[NPC] Chired: Aha!
+[NPC] Chired: Success!
+[NPC Narrate] -Soon she returns.-
+[NPC] Chired: I tried several of Liera's treatments.
+[NPC] Chired: One repelled the bacteria but did not kill it, one killed it but also killed tissue samples I had.
+[NPC] Chired: Finally, it was the one labeled “Grendol”.
+[NPC] Chired: I suppose Liera created some sort of treatment based on Grendol Poison Blood.
+[NPC] Chired: Whatever it was it worked perfectly, containing some very interesting antibodies.
+[NPC] Chired: Here is the box back, it contains notes of my findings.
+[NPC] Chired: I suppose you'll be taking the pterosaur back?
+[NPC] Chired: Here, have a travel token.
+[NPC Narrate] -Chired hands you the box and a token, then hesitates a bit as if she has something to say.-
+[NPC Internal] Is there something else?
+[NPC Narrate] -Chired looks a little sad.-
+[NPC] Chired: While you were away, I remembered something about Liera.
+[NPC] Chired: Oh, it's not for me to say.
+[NPC] Chired: But I wonder if you know the reason Liera is so determined to find a cure.
+[NPC Internal] She said she wanted to be noticed by the Science Association.
+[NPC] Chired: Hmm, I suspect there might be a deeper reason.
+[NPC] Chired: Anyway, it's not important, off you go.
+
+[To] Liera Zireti
+
+[NPC Internal] Chired found the Grendol blood worked.
+[NPC] Liera: Aha, see?
+[NPC] Liera: Good thing I had you get some.
+[NPC] Liera: Good, good, while you were away I finished all of the potions.
+[NPC] Liera: I have also written a letter of instructions for the research team.
+[NPC] Liera: Word has really spread that I am doing this.
+[NPC] Liera: Everyone has been encouraging me.
+[NPC] Liera: So go back to the winch and deliver this.
+[NPC] Liera: And thank you again, YOU.
+[NPC Narrate] -Liera takes out unnecessary items from the box, leaving several potions, the samples, and puts in the cure and several other potions, then puts the instructions in and reseals it.-
+[NPC] Liera: I just know this is going to work.
+[NPC Narrate] -Liera sighs deeply.-
+[NPC] Liera: It…it -has- to.
+[NPC Narrate] -Liera sniffs and hands you the box.-
+[NPC Internal] I'm sure it will be alright.
+[NPC Narrate] -Liera smiles.-
+[NPC] Liera: Thank you.
+[NPC] Liera: Any anytime you want to work on alchemy, you are welcome to come back here and use my station.
+[NPC] Liera: There is also Chired's shop, but the best location is the basement of the magic shop.
+[NPC] Liera: Keep getting training from me and after about 15 lessons total, I'll teach you some more things and give you another book.
+[NPC Narrate] -Liera hands you a pouch of tria.-
+[NPC] Liera: This is for your tremendous efforts, YOU.
+[NPC] Liera: Now get that box to the winch!
+[NPC Internal] What's the real reason you want to find the cure?
+[NPC Narrate] -Liera eyes well up and she begins to sob.-
+[NPC] Liera: Th-the truth is…I…well…I have f-f-family on the third level!
+[NPC Narrate] -Liera looks tired again as she cries a bit.-
+[NPC] Liera: I don't even know if they are alright.
+[NPC] Liera: They live in one of the quarantined towns.
+[NPC] Liera: I am very worried about them.
+[NPC Internal] Can you tell me more about these things you sell?
+[NPC Narrate] -Liera nods.-
+[NPC] Liera: Sure, most of the things I think we went through.
+[NPC] Liera: Common Salt, Niter, Oil of Vitriol, and Spirit are all reagents which are required for various potions.
+[NPC] Liera: Tools include the three types of stirrers: wooden, iron, and glass.
+[NPC] Liera: Different ones are needed to stir different types of mixtures.
+[NPC] Liera: For instance, you wouldn't want to use an iron stirrer with molten metals…the stirrer would melt as well.
+[NPC Narrate] -Liera smiles.-
+[NPC] Liera: Finally, there is Sulphur Powder, which is another reagent, and Tartar and Stibine which are used in that branch of alchemy Vladovic wants to keep so secret.
+[NPC] Liera: They are used in making that Universal Panacea potion I talked about…again, do keep that to yourself.
+[NPC Narrate] -Liera rolls her eyes a bit.-
+[NPC] Liera: You can buy such ingredients and tools from me, Vladovic, or Levrus.
+
+[To] Datal Allavium
+
+[NPC Internal] I have the cure!
+[NPC] Datal: Ah yes, very good.
+[NPC] Datal: I'll take that and we'll get it to the third level at once.
+[NPC] Datal: Well done, citizen.
+[NPC] Datal: The Octarchy will take note of your efforts, and this alchemist, Liera.
+[NPC] Datal: Fine work, now be gone.
+
+[Reward] [XP] 19200; [Item] 1, Basic Potions Tome; [Item] 1, Glass Stirrer; [Item] 1, Wooden Mallet; [Faction] 1, Science Association
+

@@ -1,0 +1,254 @@
+[Questname] Without a Way
+[NPC Name] Levrus Dahrenn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] Nothing
+
+[To] Levrus Dahrenn
+
+[NPC Internal] You seem very busy, may I help you?
+[NPC] Levrus: Wait.
+[NPC] Levrus: Someone could say I am attempting a really dangerous experiment.
+[NPC Narrate] -Levrus focuses his attention on a green drop falling from a phial into a potion.-
+[NPC] Levrus: You need a steady hand to do this, otherwise there could be explosions, or something worse.
+[NPC] Levrus: I especially hate explosions and fire… …because I am not proficient enough to protect all the items in my shop…
+[NPC] Levrus: …nor my clients.
+[NPC Narrate] -Levrus smiles at you before catching two potions falling from the table.-
+[NPC] Levrus: So I need to be more skillful.
+[NPC] Levrus: But returning to your question…I'm creating a potion to gain more power in Red, Crystal, and Brown Ways.
+[NPC] Levrus: I know it is strange, but chatting actually helps my concentration.
+[NPC] Levrus: And what about you, have you ever wanted to learn more about magic?
+[NPC Internal] Sure, I am.
+[NPC] Levrus: Great!
+[NPC] Levrus: I promise you will not explode!
+[NPC] Levrus: …at least, I hope.
+[NPC] Levrus: I have to attend to my business, but I also need to study magic.
+[NPC] Levrus: I also need more time.
+[NPC] Levrus: So here I am, trying the short way.
+[NPC] Levrus: If I succeed in making this potion, I will need no more of those magic items from the Circles.
+[NPC] Levrus: Maybe I could create a new Way!
+[NPC] Levrus: Who knows?
+[NPC] Levrus: However, I need a hand right now.
+[NPC] Levrus: Here, take this.
+[NPC Narrate] -Levrus hands you a red potion before you can answer.-
+[NPC] Levrus: I hope you do not fear fire.
+[NPC] Levrus: Do you?
+[NPC Internal] No, don't worry.
+[NPC] Levrus: Hmmm, fire could be a good ally.
+[NPC] Levrus: It depends, though, if you can handle it.
+[NPC] Levrus: Like every other element, good handling is the difference between a great mage and a poor mage.
+[NPC] Levrus: And everything can sense the power of magic.
+[NPC] Levrus: Insects, for example, act in odd ways when they're near powerful Glyphs.
+[NPC Narrate] -Levrus crushes some reddish powder with a pestle and then examines it before pouring it in a potion.-
+[NPC] Levrus: In the library there is often a Kra who studies insect behavior.
+[NPC] Levrus: But…I can't remember Kra’s name.
+[NPC] Levrus: Do you?
+[NPC Internal] Durok
+[NPC] Levrus: Durok?
+[NPC] Levrus: Uhm, yes…
+[NPC Narrate] -Levrus concentrates his attention on the potion in your hands.-
+[NPC] Levrus: Well, let’s stop thinking about it, and continue the job.
+[NPC] Levrus: I need your potion in order to start mixing.
+[NPC] Levrus: No Explosion.
+[NPC] Levrus: I promise.
+[NPC Internal] Here it is.
+[NPC Narrate] -Levrus smells the top of the potion.-
+[NPC] Levrus: Alchemy is a dangerous matter.
+[NPC] Levrus: Using the Ways could be dangerous, too, you know?
+[NPC] Levrus: Bad Glyphs or wrong reagents may kill the caster.
+[NPC] Levrus: Or burn your favorite clothes if you're really unlucky.
+[NPC Narrate] -Levrus grins, fingering a black stain on his robe.-
+[NPC] Levrus: That's why the Circle trains their initiates so hard.
+[NPC] Levrus: They do not want to waste good dresses…
+[NPC Narrate] -Levrus smirks and then waves his hand at you.-
+[NPC] Levrus: Sorry, I meant they do not want initiates kill themselves.
+[NPC] Levrus: Almost, I guess.
+[NPC] Levrus: I know that Dark Way initiates need to find their way to the Dark Crystal.
+[NPC Narrate] -Levrus notices something coming up from the potion: a puff of smoke. He arches his eyebrow and quickly hands you the potion.-
+[NPC] Levrus: Keep still.
+[NPC] Levrus: No fast movement.
+[NPC] Levrus: It's all under control, so do not mind the smoke.
+[NPC] Levrus: Try to think about something else.
+[NPC] Levrus: Yes.
+[NPC] Levrus: Let's talk about ways.
+[NPC] Levrus: Now tell me.
+[NPC] Levrus: What is your favorite Way?
+[NPC Internal] The Azure Way.
+[NPC] Levrus: Azure Way could lead to lose your mind.
+[NPC Narrate] -Levrus cuts some herb, putting them in the mortar, with the reddish powder. Then he starts to pestle.-
+[NPC] Levrus: One of their Archmaster is a woman, but a frightening one.
+[NPC] Levrus: Avoid her if you can.
+[NPC Narrate] -After some pestling Levrus examines the smoke growing from the potion in your hands.-
+[NPC] Levrus: Now, do you like to talk about Circles?
+[NPC Internal] Let's talk about Circles.
+[NPC Narrate] -After a quick search under the table, Levrus takes a phial and pours a drop in the mortar. Then he relaxes.-
+[NPC] Levrus: Nice.
+[NPC] Levrus: We are still alive!
+[NPC] Levrus: Try and relax.
+[NPC] Levrus: You young ones are always so stiff.
+[NPC] Levrus: Circles are centers of education, similar to schools.
+[NPC] Levrus: Or academies.
+[NPC] Levrus: Exclusive academies.
+[NPC] Levrus: You can study the basics of all Ways, that's usually no problem.
+[NPC] Levrus: But when you enter one of the Circles, they want you to study only one of them.
+[NPC] Levrus: If you gain higher knowledge in more than one Way, they could ban you, or worse.
+[NPC] Levrus: It depends on which Way you chose.
+[NPC] Levrus: So when you join one of them, you have to attend to their conventions.
+[NPC] Levrus: Not so bad, I must say.
+[NPC] Levrus: They also give you an item of power.
+[NPC] Levrus: It is like a sign of identification and a proof of your dedication, but it's powerful, too.
+[NPC] Levrus: A bit like my potion.
+[NPC] Levrus: The best potion ever made!
+[NPC Narrate] -Levrus stirs the content of the mortar well, then assents, proudly.-
+[NPC] Levrus: I need the flask now.
+[NPC Internal] Here is the flask.
+[NPC] Levrus: You are saving my life.
+[NPC] Levrus: Well, our lives now.
+[NPC] Levrus: And a part of this area, too.
+[NPC] Levrus: I could use someone like you in the future, perhaps.
+[NPC] Levrus: An assistant with no fear of death.
+[NPC] Levrus: Explosions are always painful.
+[NPC] Levrus: But the market is a hard business, so I need something to beat my competitors.
+[NPC] Levrus: They think an old man can give no more to Yliakum.
+[NPC] Levrus: I will show them.
+[NPC Narrate] -After some shaking Levrus becomes worried while looking at the smoke. He closes his eyes and puts the contents of the mortar in the flask. Then he tightens his lips. After a bit he opens one eye.-
+[NPC] Levrus: Oh.
+[NPC] Levrus: We are succeeding, you see?
+[NPC Narrate] -The flask stops smoking, then bubbles starts overflow the flask. One of them, a big red bubble, pops in the air.-
+[NPC] Levrus: This potion could replace items of power.
+[NPC] Levrus: Most of my customers know about them.
+[NPC] Levrus: Do you?
+[NPC Internal] Very well, tell me about Way Items.
+[NPC] Levrus: The Way items are divided in three sets of power.
+[NPC] Levrus: Starting from the wand, then the bracer and lastly, the robe.
+[NPC Narrate] -Levrus raises the potion and tries to look through it.-
+[NPC] Levrus: Oh, but maybe you want to start one of the Way paths.
+[NPC] Levrus: You are in the right place.
+[NPC] Levrus: Take the bubbling flask, we need to wait.
+[NPC] Levrus: In the meantime I will show you something.
+[NPC Narrate] -Levrus leaves the flask in your hands and bends down to search under the counter. He starts to toss around boxes, old pouches, dusty old mortars, and a rat skin.-
+[NPC] Levrus: Sooner or later I need to organize all this mess.
+[NPC] Levrus: Ah!
+[NPC Narrate] -Levrus comes back, after rising from behind the counter. He drops a box on the table with a large thud.-
+[NPC] Levrus: Oh, wait now.
+[NPC] Levrus: Oh no!
+[NPC] Levrus: Not now!
+[NPC] Levrus: It is growing warmer, isn’t it?
+[NPC] Levrus: You have to tell me!
+[NPC] Levrus: Quick, give me back the flask!
+[NPC] Levrus: Prepare for the explosion.
+[NPC Internal] Leave the flask, let's save ourselves.
+[NPC Narrate] -Levrus takes the potion and looks at one of the bubbles in the air. Then he smiles.-
+[NPC] Levrus: Enough with this.
+[NPC Narrate] -Levrus starts laughing, and hides the potion under the counter.-
+[NPC] Levrus: Did you really think we were going to explode?
+[NPC] Levrus: Ah, please be patient!
+[NPC] Levrus: Old men like me love these jokes.
+[NPC] Levrus: But you seem a talented one.
+[NPC] Levrus: My real intention was to keep you here; to introduce you to the Circles.
+[NPC] Levrus: I hope you weren’t too distracted by my prank.
+[NPC] Levrus: Let's stop wasting time.
+[NPC] Levrus: Are you ready?
+[NPC Narrate] -Levrus slowly opens the box.-
+[NPC] Levrus: Here you can see four wands and an amulet.
+[NPC Narrate] -Levrus points to the contents of the box with his hand and then picks up one of the wands. He raises the wand with care.-
+[NPC] Levrus: This is the Crystal Way Wand.
+[NPC] Levrus: I think you can sense its power even from where you stand.
+[NPC] Levrus: When you bear one of these wands you will emanate an aura of magic.
+[NPC] Levrus: The follower of a Way will know you desire to acquire mastery in a Circle.
+[NPC] Levrus: Crystal Circle if you will choose the wand in my hand.
+[NPC] Levrus: Are you still interested?
+[NPC Internal] Sure.
+[NPC] Levrus: Good.
+[NPC] Levrus: Curiosity leads to knowledge.
+[NPC] Levrus: And about knowledge, I think you want to know about the other wands.
+[NPC Narrate] -Levrus drops the wand and points to the other ones.-
+[NPC] Levrus: This is for the Red Way, this for the Blue and the last for the Brown Way.
+[NPC] Levrus: It’s easy.
+[NPC] Levrus: You can recognize them by their symbols.
+[NPC] Levrus: The wand you choose will be the path you will follow.
+[NPC Narrate] -Levrus clenches his hands.-
+[NPC] Levrus: The last is the amuletfor the more secretive Ways.
+[NPC] Levrus: Azure and Dark.
+[NPC] Levrus: Are you curious now?
+[NPC Internal] How does one became an initiate?
+[NPC] Levrus: Good question.
+[NPC] Levrus: I can tell you how to start.
+[NPC] Levrus: First, you must choose a Way.
+[NPC] Levrus: After this you have to talk to a member of the Circle you choose.
+[NPC] Levrus: Not me, I am no longer a member of any Circle.
+[NPC] Levrus: I suggest you speak with Govell for the Crystal Way and Sharven for Blue Way.
+[NPC] Levrus: Otherwise, Jardet Forsil is a member of the Brown Way.
+[NPC] Levrus: You can ask them for more information.
+[NPC] Levrus: If you chose Red Way, it could be more difficult because their Circle is on the fourth level.
+[NPC] Levrus: But I heard about that Archmaster near the Dome.
+[NPC] Levrus: Have you ever met him?
+[NPC Internal] Yes, I know him.
+[NPC] Levrus: Very well.
+[NPC] Levrus: He is easily recognizable.
+[NPC] Levrus: He is visiting Dsar Kore.
+[NPC] Levrus: Too long of a journey for an old man like me, but surely you can find him.
+[NPC] Levrus: He has a house in Dsar Kore near some tents.
+[NPC] Levrus: I don't like to go there.
+[NPC] Levrus: Too much orange.
+[NPC] Levrus: I do not like orange.
+[NPC] Levrus: It gives me a feeling of mistrust.
+[NPC] Levrus: Especially if one choose to dress in that color.
+[NPC] Levrus: I hate purple, too.
+[NPC] Levrus: But well, that is not the point.
+[NPC] Levrus: We need to talk about the last Ways.
+[NPC] Levrus: Are you following?
+[NPC Internal] Sure.
+[NPC] Levrus: You heard the names of the members of which I told you.
+[NPC] Levrus: You may ask them for explanations.
+[NPC] Levrus: Up to now I told you about four Ways.
+[NPC] Levrus: There are two others.
+[NPC Narrate] -Levrus retrieves the amulet and gazes at it for a few second. Then, before speaking again, he blinks.-
+[NPC] Levrus: Give this amulet to Jayose or Oriven.
+[NPC] Levrus: Jayose is a lower member of the Azure Way, or go to Oriven if you are interested in the Dark Way.
+[NPC] Levrus: You will find a host of problems with both.
+[NPC] Levrus: Dark Way above all, but Azure Way, too.
+[NPC] Levrus: I do not know them too much, and they never give me wands for their initiates.
+[NPC Narrate] -Levrus shakes his head.-
+[NPC] Levrus: It is you choice.
+[NPC] Levrus: If you want to follow Dark or Azure Way, then take this amulet and bring it to Oriven or Jayose.
+[NPC] Levrus: They will know what to do after you give it to them.
+[NPC Internal] Is that all?
+[NPC] Levrus: What?
+[NPC] Levrus: No.
+[NPC] Levrus: It is only the beginning.
+[NPC] Levrus: I want to stress one thing.
+[NPC] Levrus: Choose carefully because once you start in a Way, and you gain expertise, the other Ways will be closed to you.
+[NPC] Levrus: Can you say 'three thrilled Trepors'?
+[NPC Internal] Three thrilled trepors?
+[NPC] Levrus: Yes, very good pronunciation.
+[NPC] Levrus: And what about 'Rabid rats roar grudging rants'.
+[NPC] Levrus: Try to repeat it.
+[NPC Internal] Rabid rats roar grudging rants.
+[NPC] Levrus: Young ones need to understand the humor of a old man.
+[NPC Narrate] -Levrus smiles, clapping his hands.-
+[NPC] Levrus: Now I hope you will show wisdom.
+[NPC] Levrus: You have a big choice in front of you.
+[NPC] Levrus: Something that could change your life.
+[NPC] Levrus: Are you ready to choose one of the magic Ways?
+[NPC Internal] I am ready.
+[NPC Narrate] -Levrus lowers his chin and grins, pushing the box toward you.-
+[NPC] Levrus: Make your choice.
+[NPC Internal] I made my choice.
+[NPC Narrate] -Levrus looks at the item in your hand and assents.-
+[NPC] Levrus: I was sure you'd take that.
+[NPC] Levrus: Now you have to meet the member of the Way you've chosen.
+[NPC] Levrus: I already told you the names.
+[NPC] Levrus: Ah, yes memory is everything in magic!
+[NPC] Levrus: Notes may work as well!
+[NPC] Levrus: Maybe one of them will send you back to me, because I can train you in Red, Crystal, Brown, and Blue Ways.
+[NPC] Levrus: I know something of the Dark Way, too, but not so much.
+[NPC Narrate] -A faint sound comes from underneath the counter. Levrus bends down behind it. Muffled words, the sound of clinking bottles and then he raises his head.-
+[NPC] Levrus: Well maybe I really am going to explode.
+[NPC] Levrus: I have to work now.
+[NPC] Levrus: See you soon.
+
+[Reward] [OR Begin] [Item] 1, Apprentice's Blue Way Staff [OR] [Item] 1, Apprentice's Brown Way Staff [OR] [Item] 1, Apprentice's Crystal Way Staff [OR] [Item] 1, Apprentice's Red Way Staff [OR] [Item] 1, Way Amulet [OR End]; 
+

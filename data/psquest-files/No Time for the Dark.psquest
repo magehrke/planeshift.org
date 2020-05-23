@@ -1,0 +1,34 @@
+[Questname] No Time for the Dark
+[NPC Name] Oriven Thamel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Becoming a Dark Way Adept; [Item] 1, Apprentice's Dark Way Robe; [Skill] 40, Dark Way
+
+[To] Oriven Thamel
+
+[NPC Internal] This Way Robe is a proof of my dedication to the Dark Way.
+[NPC Narrate] -Oriven lifts a hand, while he continues to watch the Dark Crystal. His pupils narrow down becoming keen points. After this Oriven turns to you.-
+[NPC] Oriven: What do you want?
+[NPC Narrate] -Oriven lowers his gaze to your cloak and growls.-
+[NPC] Oriven: Oh, that.
+[NPC] Oriven: I can train you no more then.
+[NPC] Oriven: Go to Deelor Blackeye or Rulayne Ogrin.
+[NPC] Oriven: Understood?
+[NPC Internal] Understood.
+[NPC] Oriven: Deelor will train you until you became worthy enough to be Rulayne's apprentice.
+[NPC] Oriven: Deelor applied to the Dark Way and is a former student of the Dark Circle, he has much to teach you.
+[NPC] Oriven: But you'll need to do something more before going to Rulayne.
+[NPC] Oriven: First, finish the training with Deelor.
+[NPC] Oriven: Second, you must show your worthiness to Rulayne.
+[NPC] Oriven: Bring him two Dark Way Wands, yours and one more.
+[NPC] Oriven: Take the last one from your fellow students to prove that your peers respect you.
+[NPC] Oriven: Rulayne will give it back after your meeting.
+[NPC Narrate] -Oriven directs his attention to an open book on an old table. Then he takes a last look to you.-
+[NPC] Oriven: Third, you need an Illness glyph to be trained by Rulayne.
+[NPC] Oriven: This one.
+[NPC Narrate] -Oriven hands you a glyph. It's cold.-
+[NPC] Oriven: That is all.
+[NPC] Oriven: Leave.
+
+[Reward] [Item] 1, Negate glyph

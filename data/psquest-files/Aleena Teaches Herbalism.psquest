@@ -1,0 +1,200 @@
+[Questname] Aleena Teaches Herbalism
+[NPC Name] Aleena Arlavin
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 2, Barberry Root; [Item] 2, Juiceberry Fruit; [Item] 1, Masher; [Item] 1, Strainer
+
+[To] Aleena Arlavin
+
+[NPC Internal] Can you teach me about herbalism?
+[NPC Narrate] -Aleena smiles.-
+[NPC] Aleena: Greetings, Tabei.
+[NPC] Aleena: So you wish to try your hand at herbalism, do ya?
+[NPC] Aleena: Sure, I can teach you, but I need to know you are serious.
+[NPC] Aleena: Working with plants and herbs takes a patient touch.
+[NPC] Aleena: I hope you're not just interested in making a bunch of super potions to make you invincible.
+[NPC] Aleena: There's a lot more to it than that.
+[NPC] Aleena: Xiosia has bestowed upon us many gifts in the form of plants, herbs, and fruits.
+[NPC] Aleena: Herbalism is the study of those, specifically what sort of properties each has and using that knowledge to create remedies.
+[NPC] Aleena: So what do you say?
+[NPC] Aleena: Are you still interested?
+[NPC Internal] Yes, I am ready to learn.
+[NPC] Aleena: Alright then.
+[NPC] Aleena: Aleena Arlavin is the name by the way if you didn't already know.
+[NPC Narrate] -Aleena looks over to her garden.-
+[NPC] Aleena: As you can see I have a small garden here I use to grow some of my own herbs.
+[NPC] Aleena: It's just for me though, not enough to go around.
+[NPC] Aleena: We'll get to where you can find them soon.
+[NPC] Aleena: What I'll do is take you on as my apprentice.
+[NPC] Aleena: Sound good?
+[NPC Internal] Yes, sounds good. I am NAME.
+[NPC] Aleena: Great.
+[NPC] Aleena: Pleased to meet you, YOU.
+[NPC] Aleena: Let's get started with some basic information.
+[NPC] Aleena: First I should impress upon you the importance of harvesting.
+[NPC] Aleena: Knowing where to find various plants and how to dig them up properly is a key step to getting started.
+[NPC] Aleena: Of course if you like, you can just buy the ingredients from a merchant, but why pay when you can harvest them yourself, right?
+[NPC] Aleena: Up to you.
+[NPC] Aleena: Have you done any harvesting?
+[NPC Internal] Yes, I have gotten some training and dug for herbs.
+[NPC] Aleena: Excellent, then you have a head start.
+[NPC] Aleena: Look at my garden here when you have a chance.
+[NPC] Aleena: It has some of the plants you'll need to find.
+[NPC] Aleena: With them we can make teas from the leaves and juices from the berries and fruits.
+[NPC] Aleena: Teas can be made from Barberry Root, Golden Ivy Leaves, Lavender Flowers, Devils Claw, Eyebright, just to name a few.
+[NPC] Aleena: Juices can be made from Juiceberry Fruit, Wragberries, or Threestem Fruit.
+[NPC] Aleena: Have you seen these things before?
+[NPC Internal] Yes, I am familiar with them.
+[NPC] Aleena: Great.
+[NPC] Aleena: Then I have your first task.
+[NPC] Aleena: I'd like you to go find some Barberry Root.
+[NPC] Aleena: You can find some on the road to Ojaveda, not far from the east gates of Hydlaa, among other places.
+[NPC] Aleena: I'd like you to get two or three and return here.
+[NPC] Aleena: If you get more that's fine, you can use the extra for practice.
+[NPC Internal] [You show Aleena some Barberry Root.]
+[NPC Narrate] -Aleena takes a look.-
+[NPC] Aleena: Yes, that will do nicely.
+[NPC] Aleena: Now, once you have the herbs, the next thing you'll need to know is the tools of the trade.
+[NPC] Aleena: The items you'll need are: a simple kitchen knife, a masher and strainer for making juices, a mortar and pestle for grinding things and making powders, and a table to do these things on.
+[NPC] Aleena: You'll also need some mugs of hot water and a pot to heat up your mixtures.
+[NPC] Aleena: Many of these things can be done in a typical kitchen or cooking area.
+[NPC] Aleena: Now that you are my apprentice, you may use my area here.
+[NPC Narrate] -Aleena looks at you to see if you are paying attention.-
+[NPC] Aleena: I have a table, mortar and pestle and some pots.
+[NPC] Aleena: So now that we know some ingredients and tools, next is to know what you can make.
+[NPC] Aleena: Do you have a kitchen knife?
+[NPC Internal] Oops, I don't have a knife.
+[NPC Narrate] -Aleena looks around.-
+[NPC] Aleena: It so happens I have one here.
+[NPC] Aleena: You may have it.
+[NPC Narrate] -Aleena hands you a kitchen knife.-
+[NPC] Aleena: Keep in mind Jomed likely sells all the tools you'll need.
+[NPC] Aleena: Now let's get started.
+[NPC] Aleena: The first thing you will be able to make is teas and juices.
+[NPC] Aleena: Each is nutritious in their own way, whether they make you feel stronger, build your endurance, relax you, and so on.
+[NPC] Aleena: So let's take that Barberry Root and make some Barberry Tea, shall we?
+[NPC Internal] Hmm, Barberry Tea? Does it taste good?
+[NPC Narrate] -Aleena giggles.-
+[NPC] Aleena: Well, many teas can be an acquired taste.
+[NPC] Aleena: Best to decide for yourself.
+[NPC] Aleena: Making teas and juices doesn't require many steps.
+[NPC] Aleena: Here's a book you'll need, called Herbal Remedies.
+[NPC] Aleena: First, using the table and holding your knife, slice the Barberry Root like so.
+[NPC Narrate] -has a Barberry Root and demonstrates by cutting the root into small pieces.-
+[NPC] Aleena: Be sure to get some training from me first.
+[NPC] Aleena: Go ahead and give it a try and let me know when you're done.
+[NPC Narrate] -Aleena hands you a book.-
+[NPC Internal] That was easy.
+[NPC Narrate] -Aleena looks over at your cut Barberry Root.-
+[NPC] Aleena: Very good.
+[NPC] Aleena: Next you'll need to put those in a cup of hot water.
+[NPC] Aleena: So go get a cup of hot water.
+[NPC] Aleena: You can get a bunch by heating a water filled bucket in a pot and you can get those buckets from Jomed or other merchants.
+[NPC] Aleena: That will give you some Barberry Tea Mix which you'll then put in a pot until it's ready.
+[NPC] Aleena: That's it, simple as that.
+[NPC] Aleena: Go give it a try, YOU.
+[NPC Internal] I did it!
+[NPC Narrate] -Aleena giggles a bit.-
+[NPC] Aleena: Very good, YOU.
+[NPC] Aleena: See, that was easy, wasn't it?
+[NPC] Aleena: Get some training from me and you can try with different herbs you find.
+[NPC] Aleena: The book will give you ideas on ones you can look for.
+[NPC] Aleena: Now let's try to make some juice, shall we?
+[NPC Internal] Great. Making juice sounds straightforward.
+[NPC Narrate] -Aleena nods.-
+[NPC] Aleena: It is.
+[NPC] Aleena: Even fewer steps than making tea.
+[NPC] Aleena: Let's take Juiceberry Juice for example.
+[NPC Narrate] -Aleena giggles a bit as she speaks.-
+[NPC] Aleena: Sounds juicy don't it?
+[NPC Internal] Sure does, where can I find those?
+[NPC] Aleena: Juiceberry Fruit is nice plump berries that are quite tasty and sweet.
+[NPC] Aleena: They are said to loosen the limbs.
+[NPC Narrate] -Aleena winks.-
+[NPC] Aleena: You can find some on the road to the Eagle Bronze Doors before the pass, past the lake there, under some trees, and the road to Ojaveda between the river and that crater.
+[NPC] Aleena: How about you go out and gather a few and bring them back here?
+[NPC] Aleena: You're also going to need that masher and strainer.
+[NPC] Aleena: Return here with some Juiceberry Fruit and we'll continue.
+[NPC Internal] I have returned with Juiceberry Fruit.
+[NPC] Aleena: Excellent!
+[NPC] Aleena: So here's what you do: take a berry and mash it using a masher on a table.
+[NPC] Aleena: Just put the masher in your right hand and it creates a gooey clump of juice and fruit.
+[NPC] Aleena: Then, use your strainer in a pot to separate the pulp from the juice.
+[NPC] Aleena: All the juice will go in the pot resulting in a bottle of juice.
+[NPC] Aleena: Give it a try!
+[NPC Internal] Success! I have made some Juiceberry Juice.
+[NPC Narrate] -Aleena grins with excitement.-
+[NPC] Aleena: Well done, YOU.
+[NPC] Aleena: You are on your way.
+[NPC] Aleena: I think that is enough for our first lesson.
+[NPC] Aleena: Consider this a training session.
+[NPC] Aleena: From here, experiment with different plants for teas and fruits for juices.
+[NPC] Aleena: Of course, try them out.
+[NPC] Aleena: Some make you stronger, some make you relaxed, some increase stamina, and so on.
+[NPC] Aleena: Nothing that's in the book will poison you to the Death Realm.
+[NPC Narrate] -Aleena laughs.-
+[NPC] Aleena: Now I'd be glad to answer any questions you may have.
+[NPC Internal] What else can I make as my skills improve?
+[NPC] Aleena: Ah good question.
+[NPC] Aleena: Two things: first, after about every five lessons or so, you'll be able to make additional teas and juices.
+[NPC] Aleena: Once you reach a certain point, I'll take you through some other things you can do with herbalism.
+[NPC] Aleena: I won't go into details yet, but there are pastes, salves, extracts, poultices, and oils.
+[NPC] Aleena: I will explain all that and give you another book when you are ready.
+[NPC Internal] How do I make potions?
+[NPC Narrate] -Aleena covers her mouth with her hand and giggles.-
+[NPC] Aleena: Ambitious aren't you?
+[NPC] Aleena: Potions are made with alchemy.
+[NPC] Aleena: If you think about it, teas and juices are like potions, right?
+[NPC] Aleena: But you want to make those fancy ones like Liera sells, don't you?
+[NPC] Aleena: Well, you'll have to put a lot of work in and look into alchemy.
+[NPC] Aleena: There is a strong connection between the two skills.
+[NPC] Aleena: In fact many of the items you will eventually make using your herbal skill can be used in alchemy.
+[NPC] Aleena: So get plenty of practice making those teas and juices and we'll get to all of that.
+[NPC Internal] Tell me about alchemy.
+[NPC] Aleena: Alchemy is a natural extension of herbal skills.
+[NPC] Aleena: That's why many herbalists like me are also skilled in alchemy.
+[NPC] Aleena: Many of the remedies you can make are of great use in alchemy.
+[NPC] Aleena: But alchemy makes use of much more than just plant life.
+[NPC] Aleena: It uses crystals, minerals, and even animal parts.
+[NPC Narrate] -Aleena wrinkles her nose.-
+[NPC] Aleena: I don't like using animal parts myself, I feel bad knowing harm came to them.
+[NPC Internal] I think that's all the questions for now.
+[NPC] Aleena: Wonderful.
+[NPC] Aleena: Just keep making various teas and juices and study their effects.
+[NPC] Aleena: Also, be sure to take some time and explore the dome for all the wonderful things Xiosia has given us.
+[NPC Narrate] -Aleena ponders for a brief moment.-
+[NPC] Aleena: I think that's it for now, have I forgotten anything?
+[NPC Internal] Are there any other herbalists, or anyone else I might want to visit?
+[NPC] Aleena: Ah, good question.
+[NPC] Aleena: There is Liera in the arena, who is a great herbalist and alchemist.
+[NPC] Aleena: There is Vladovic who has a shop in Ojaveda.
+[NPC] Aleena: You may also want to visit Grok Idon who has a small stand near the big stalagmite just outside Hydlaa on the road to the Eagle Bronze Doors.
+[NPC] Aleena: There is also my good friend, Sharven, the priest at the Laanx temple.
+[NPC Internal] Where are some good spots for finding plants?
+[NPC] Aleena: In general, on the roads between cities.
+[NPC] Aleena: They are all over the place.
+[NPC] Aleena: The road to Ojaveda has a lot of nice spots.
+[NPC] Aleena: In particular, there is a spot near that rogue camp.
+[NPC] Aleena: I also found a spot by the river over the ridge from the small Gobble village there.
+[NPC] Aleena: The crater out by that way too has some interesting flowers.
+[NPC] Aleena: On the road to the Eagle Bronze Doors, there's some near Grok's stand, which is probably why kra likes the area.
+[NPC] Aleena: It can change too, depending on the season, so best to take some time and explore the whole area and see what wonders you can find.
+[NPC Internal] Where do I get those harvesting tools?
+[NPC] Aleena: Harnquist sells axes and sickles.
+[NPC] Aleena: If it's a shovel you are looking for, you might want to try helping that archeologist out by the ruins near Gugrontid.
+[NPC] Aleena: I hear she likes to give them away.
+[NPC Internal] Are all herbalists Xiosia followers?
+[NPC] Aleena: Not necessarily.
+[NPC] Aleena: Most of us recognize that it is Xiosia who has given us these wonderful gifts to discover and use.
+[NPC] Aleena: However, one does not have to be a devoted follower to pursue the herbal arts.
+[NPC] Aleena: My parents were Laanx followers and I still respect that religion.
+[NPC] Aleena: In fact I keep in close touch with Sharven, the priest at the temple.
+[NPC] Aleena: But working with nature has drawn me closer to Xiosia.
+[NPC Internal] I am ready to start practicing.
+[NPC] Aleena: Great!
+[NPC] Aleena: Best of luck to you, YOU.
+[NPC Narrate] -Aleena attention drifts as stares out across the city.-
+
+[Reward] [XP] 12200; [Item] 1, Kitchen Knife; [Item] 1, Herbal Remedies; [Faction] 20, Science Association
+

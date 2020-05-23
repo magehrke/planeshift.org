@@ -1,0 +1,94 @@
+[Questname] The Red Way Master
+[NPC Name] Ferryd Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge and Practical of the Red Way Master; [Item] 1, Master's Red Way Wand; [Skill] 150, Red Way; [Item] 1, Master's Red Way Bracers; [Item] 1, Master's Azure Way Bracers; [Item] 1, Master's Dark Way Bracers; [Item] 1, Adept's Red Way Robe
+
+[To] Ferryd Shillor
+
+[NPC Internal] I have the items, as requested, and I am ready for further instruction.
+[NPC] Ferryd: Dedication.
+[NPC] Ferryd: And perseverance.
+[NPC] Ferryd: They gave you power.
+[NPC] Ferryd: You've reached a point where I can give you no more.
+[NPC] Ferryd: Only the world now can teach you more lessons.
+[NPC] Ferryd: You are a full Way Master of the Red Way.
+[NPC Narrate] -Ferryd takes the items and examines them carefully. Then he assents, slowly.-
+[NPC] Ferryd: Return the items to their owners, as soon as you can.
+[NPC] Ferryd: They will need them.
+[NPC] Ferryd: Now, give me your last Adept item, please.
+[NPC Internal] That is my robe, I am ready to replace it.
+[NPC Narrate] -Ferryd folds the robe, while his eyes look in yours.-
+[NPC] Ferryd: As a Master of the Red Circle you are allowed to learn about our history, and our secrets too.
+[NPC] Ferryd: Are you interested to hear them?
+[NPC Internal] Yes, please.
+[NPC] Ferryd: Very well.
+[NPC] Ferryd: I was sure of your interest.
+[NPC] Ferryd: Would you like to talk about our history?
+[NPC Narrate] -Ferryd half closes his eyes-
+[NPC] Ferryd: …
+[NPC] Ferryd: or about our secrets?
+[NPC Internal] Well tell me about the secrets then.
+[NPC] Ferryd: The secrets I want to tell are for your ears, and for very few others.
+[NPC] Ferryd: Only people who proved themselves can manage to keep a secret like the one I'm going to tell you.
+[NPC] Ferryd: The danger in it can harm many lives, not only your own.
+[NPC] Ferryd: So you are allowed to discuss them only with the highest levels of the Circles.
+[NPC] Ferryd: Full masters of every Way.
+[NPC Narrate] -Ferryd makes a pause, looking in your eyes.-
+[NPC] Ferryd: The texts in the Sanctuary holds knowledge about all the Ways, about artefacts of power…
+[NPC] Ferryd: And it contains the complete version of this secret too.
+[NPC] Ferryd: The position, even the existence of the sanctuary, is closed to the citizen.
+[NPC] Ferryd: Secrets hidden in other secrets.
+[NPC] Ferryd: I need your word.
+[NPC] Ferryd: Tell me you will never share this knowledge outside the Masters of the Circles.
+[NPC Internal] I promise.
+[NPC] Ferryd: The first secret is the Seventh Way.
+[NPC] Ferryd: Until now I assume you know only six Ways, but there is a Seventh.
+[NPC] Ferryd: The Seventh is the essence of all the other Ways, but is also none of them.
+[NPC] Ferryd: It is magic without the glyphs created by Talad.
+[NPC] Ferryd: This is 'Wild' magic, something outside the rules of the Gods.
+[NPC] Ferryd: Diaboli used it, since they are the only race who cast magic before arriving in Yliakum.
+[NPC Narrate] -The tone of Ferryd grows stern.-
+[NPC] Ferryd: Be careful, and pay special attention to my next words.
+[NPC] Ferryd: Your level of power will give you sense of the existence of the Seventh Way.
+[NPC] Ferryd: Temptation will strike you.
+[NPC] Ferryd: And you have to contrast it.
+[NPC] Ferryd: Otherwise 'Wild' magic will wipe out your very soul.
+[NPC] Ferryd: You will be put to True Death if the Seventh Way does not destroy you first.
+[NPC] Ferryd: Is this understood?
+[NPC Internal] Yes, I understand Archmage.
+[NPC] Ferryd: The dangers of the Seventh Way go beyond your imagination.
+[NPC] Ferryd: Two mages attempted to master it until today, and they suffered a fate I would wish on no one.
+[NPC Narrate] -Ferryd pauses, his gaze is firm.-
+[NPC] Ferryd: Now, I have to tell you about another hidden knowledge.
+[NPC] Ferryd: Something not even I wish to know, a threat to the existence itself.
+[NPC] Ferryd: The Circles, especially the Masters, are fighting a war against this Dark entity.
+[NPC] Ferryd: These battles are hidden to the eye of the people of Yliakum, but you have to know.
+[NPC] Ferryd: Our enemy is called the BlackFlame.
+[NPC] Ferryd: Have you ever heard about it?
+[NPC Internal] No idea.
+[NPC] Ferryd: I wish to fill the pool of your knowledge.
+[NPC] Ferryd: None knows for sure what is the BlackFlame.
+[NPC] Ferryd: Someone supposes it is a God.
+[NPC] Ferryd: While others assume it is a force of destruction.
+[NPC] Ferryd: I have not the answer to what is the BlackFlame, but I can say that its touch infects and deprives the creations of the other Ways.
+[NPC] Ferryd: Your path will surely teach you more about this, maybe it will grant you access to the Vault of Ages in Arden.
+[NPC] Ferryd: Even I had that privilege only once.
+[NPC] Ferryd: I was allowed to catch a glimpse of what is kept in the Vault of Ages, no more.
+[NPC] Ferryd: That day I discovered…
+[NPC Narrate] -Ferryd closes his eyes for some second.-
+[NPC] Ferryd: Much of the past is hidden, and I did not know why, until my visit in Arden.
+[NPC Narrate] -Ferryd takes a long breath.-
+[NPC] Ferryd: You will understand, for yourself.
+[NPC] Ferryd: Not today, but when your time will come.
+[NPC] Ferryd: Well then, one last formality.
+[NPC Narrate] -Ferryd puts away the old cloak and opens a sack, taking out a new cloak. He offers it to you.-
+[NPC] Ferryd: This will prove the mastery you gained in the Red Way as you are now a 'Way Master of the Red Way'.
+[NPC] Ferryd: Make a good use of it, YOU.
+[NPC] Ferryd: And take this.
+[NPC Narrate] -Ferryd hands you an amulet.-
+[NPC] Ferryd: Bring it to Levrus, one final lesson awaits you there.
+
+[Reward] [XP] 20600; [Item] 1, Master's Red Way Robe; [Item] 1, Master of Ways Amulet; [Faction] 10, Red Order
+

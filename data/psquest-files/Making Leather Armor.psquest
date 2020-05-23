@@ -1,0 +1,107 @@
+[Questname] Making Leather Armor
+[NPC Name] Jeyarp Grotemey
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Introduction to Leatherworking
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] Hirenn sent me. I want to learn how to make leather armor.
+[NPC] Jeyarp: Aha, you are a new apprentice of Hirenn's?
+[NPC] Jeyarp: Wonderful.
+[NPC] Jeyarp: Leather is such a fine material to work with.
+[NPC] Jeyarp: My wife, Gayla, and I make a wonderful living with leather.
+[NPC] Jeyarp: It's strong, light, and flexible.
+[NPC] Jeyarp: Of course it's no match for the protection of heavy armor but it makes up for it in other ways like comfort and flexibility.
+[NPC] Jeyarp: And it looks a lot nicer doesn't it?
+[NPC Narrate] -Jeyarp shakes his head a bit.-
+[NPC] Jeyarp: Ah making armor, right.
+[NPC] Jeyarp: Since you have worked with Hirenn, I assume you have some leather pieces ready to go?
+[NPC Internal] Yes, I'm ready to go.
+[NPC] Jeyarp: Alright, let's get started.
+[NPC] Jeyarp: Near our shop here is a leatherworking table.
+[NPC] Jeyarp: You'll use that to make your leather armor.
+[NPC Narrate] -Jeyarp looks around then looks over by his wife.-
+[NPC] Jeyarp: Ah there's what I'm looking for.
+[NPC] Jeyarp: Dear, can you hand me that book?
+[NPC Narrate] -Gayla grabs a book, hands it to Jeyarp and he holds it up.-
+[NPC] Jeyarp: This here is an armor making book just for leather armor.
+[NPC] Jeyarp: It's a fine manual which will guide you in making many different leather wares.
+[NPC] Jeyarp: You with me so far?
+[NPC Internal] So, what exactly can I make?
+[NPC] Jeyarp: Well let's see.
+[NPC] Jeyarp: You can make gloves and boots.
+[NPC] Jeyarp: There's also leather armor for the torso and arms.
+[NPC] Jeyarp: And of course leather pants.
+[NPC] Jeyarp: You can even make a leather cap.
+[NPC] Jeyarp: So take this book.
+[NPC Narrate] -He hands you the book.-
+[NPC] Jeyarp: When making leather armor, use this book as a reference.
+[NPC] Jeyarp: Leather is a strong material but it can be pierced.
+[NPC] Jeyarp: In fact it needs to be to sew parts together.
+[NPC] Jeyarp: This is done with a copper needle and thread.
+[NPC] Jeyarp: That you can use to combine your leather pieces into various armor.
+[NPC Narrate] -Jeyarp carefully hands you a copper needle and thread.-
+[NPC] Jeyarp: So, ready for your first lesson?
+[NPC Internal] Yep, I'm ready. What do I do?
+[NPC] Jeyarp: I want you to make a pair of gloves.
+[NPC] Jeyarp: I've got a customer waiting on a pair and you can help me get them to her.
+[NPC] Jeyarp: First, on the leatherworking table, take two small patches of leather and use your copper needle and thread to make a leather armor patch.
+[NPC] Jeyarp: Remember, a leather patch is not the same as an armor patch; you need to sew two patches together.
+[NPC] Jeyarp: If you don't have small pieces of leather, you can use some hides and a scraper to make them.
+[NPC] Jeyarp: I imagine Hirenn showed you that process.
+[NPC] Jeyarp: We also sell Tanning Crystal Acid and all the tools you'll need here.
+[NPC] Jeyarp: You'll also need a Leather Cutter to make patches and strings.
+[NPC] Jeyarp: Your Basic Leatherworking book will tell you how to do that.
+[NPC] Jeyarp: You can train armor making with Veja Pontor in the arena.
+[NPC] Jeyarp: Show me an leather armor patch once you're done.
+[NPC Internal] [You show Jeyarp a leather armor patch.] Done, what's next?
+[NPC] Jeyarp: Good, good.
+[NPC] Jeyarp: Now you'll need to make a few more of those leather armor patches and combine them with leather strings to make leather gloves parts.
+[NPC] Jeyarp: The book I gave you will tell you the number and combination of parts you need.
+[NPC] Jeyarp: If you don't already have them, make the strings and patches first using the Basic Leatherworking book, then switch to your Making Leather Armor book and make the parts.
+[NPC] Jeyarp: Come to me once you've made the parts.
+[NPC Internal] [You show Jeyarp the leather gloves parts.] Here are the parts.
+[NPC] Jeyarp: Looking good.
+[NPC] Jeyarp: Now you can do the final two steps.
+[NPC] Jeyarp: First, notice the puncher on the table.
+[NPC] Jeyarp: Use that to create what we call a kit.
+[NPC] Jeyarp: After that's done, once again use the copper needle and thread to sew parts of the leather gloves kit into a proper pair of gloves.
+[NPC Narrate] -Jeyarp has a kit and uses a needle and thread at lightning speed to whip out a pair of gloves.-
+[NPC] Jeyarp: Like this.
+[NPC Narrate] -He smiles at you.-
+[NPC] Jeyarp: If this is your first time, do take your time.
+[NPC] Jeyarp: You'll get better the more you do it.
+[NPC] Jeyarp: Don't go by me, I'm an old pro.
+[NPC] Jeyarp: Give it a try and let me see those gloves when you're done.
+[NPC Internal] Finished! Here are my gloves.
+[NPC] Jeyarp: There you go.
+[NPC] Jeyarp: Making other leather wares is quite similar.
+[NPC] Jeyarp: They just require different combinations of those pieces.
+[NPC] Jeyarp: As you get training in armor making, you'll be able to make more and more leather armor.
+[NPC Narrate] -Jeyarp hands you a box.-
+[NPC] Jeyarp: Now take this and deliver it to Vresa Nohdiir.
+[NPC] Jeyarp: She can often be found in the arena.
+[NPC Narrate] -Jeyarp hesitates then smiles at you.-
+[NPC] Jeyarp: What, you didn't think I was going to use the gloves you just made, did you?
+[NPC] Jeyarp: I have a reputation to uphold.
+[NPC Narrate] -He laughs.-
+[NPC] Jeyarp: Oh, hey, that reminds me.
+[NPC] Jeyarp: I haven't heard from my friend and good customer, Deelor, out in the Eagle Bronze Doors area in awhile.
+[NPC] Jeyarp: If you're ever out that way, stop by and say hi.
+
+[To] Vresa Nohdiir
+
+[NPC Internal] I have a delivery from Jeyarp.
+[NPC] Vresa: Oh.
+[NPC] Vresa: Are these my new gloves?
+[NPC] Vresa: I've been waiting for them.
+[NPC Narrate] -Vresa peeks into the box.-
+[NPC] Vresa: Very good.
+[NPC] Vresa: Jeyarp does fine work.
+[NPC] Vresa: Thank you Enkidukai.
+[NPC] Vresa: Here's a couple of circles for your troubles.
+
+[Reward] [Money] 500; [XP] 10800; [Item] 1, Copper Needle; [Item] 1, Thread; [Item] 1, Making Leather Armor; [Faction] 15, Crafting Association
+

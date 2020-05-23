@@ -1,0 +1,114 @@
+[Questname] Veja's stolen stock
+[NPC Name] Veja Pontor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests; [Item] 5, Sword Handles; [Item] 5, Broadsword handles; [Item] 3, crafted Platinum Steel Sabres; [Item] 3, crafted Platinum Steel Shortswords; [Item] 3, crafted Platinum Steel Longswords
+
+[To] Veja Pontor
+
+[NPC Internal] Can I help you?
+[NPC Narrate] -Veja looks worried and distressed.-
+[NPC] Veja: YOU, I need help.
+[NPC] Veja: I had a range of Platinum steel swords; some for prizes for the upcoming gladiator championship and the rest were all already sold for orders and they have been taken.
+[NPC] Veja: I don't even know when I just noticed they were all missing.
+[NPC] Veja: Will you help me?
+[NPC Internal] Of Course, I will happily help.
+[NPC Narrate] -Veja Smiles.-
+[NPC] Veja: Thank you.
+[NPC] Veja: I will be in your debt.
+[NPC] Veja: First though.
+[NPC] Veja: I need you to report this theft.
+[NPC] Veja: Can you do this?
+[NPC Internal] Yes, I will do whatever is needed.
+[NPC Narrate] -Veja hands you two reports.-
+[NPC] Veja: Good.
+[NPC] Veja: Deliver these to Gregori here in the arena and Jefecra of the Hydlaa guard.
+[NPC] Veja: It is quicker this way then me having to go a verbally give reports.
+[NPC] Veja: Once you have delivered them return to me and I will get you to assist me further.
+
+[To] Gregori Stevald
+
+[NPC Internal] I have a report for you from Veja.
+[NPC Narrate] -Gregori takes the Report from you.-
+[NPC] Gregori: Thank you what is this?
+[NPC Narrate] -Gregori reads the report and he looks concerned.-
+[NPC] Gregori: This is disturbing news especially with the Gladiator Championships so close.
+[NPC] Gregori: I hope Veja can manage in time.
+[NPC] Gregori: Return to me if you have any further news.
+
+[To] Jefecra Harcrit
+
+[NPC Internal] I have a report for you from Veja.
+[NPC Narrate] -Jefecra takes the report and starts reading.-
+[NPC] Jefecra: This is disturbing news.
+[NPC] Jefecra: I will have some of the guard look into it straight away.
+[NPC] Jefecra: I know the Gladiator Championship is soon so I will wait until after it is finished before I disturb Veja.
+[NPC] Jefecra: Thank you for this citizen.
+[NPC] Jefecra: Blades, shields, repair kits! Get them here!
+
+[To] Veja Pontor
+
+[NPC Internal] I am back; I have delivered both reports, Gregori wants kept up to date.
+[NPC] Veja: About time.
+[NPC Narrate] -Veja looks stressed.-
+[NPC] Veja: Sorry.
+[NPC Narrate] -Veja takes a deep breath.-
+[NPC] Veja: This is all just bad timing.
+[NPC] Veja: First I need Five Sword Handles and Five Broadsword handles.
+[NPC] Veja: So I can get to work on some Platinum Steel Swords
+[NPC Internal] Here are your handles.
+[NPC] Veja: Thank you YOU.
+[NPC Narrate] -Veja takes the handles.-
+[NPC] Veja: Now I will be able to make some more Platinum Steel Broadswords and Falchions.
+[NPC] Veja: While I am doing that I need you to make three Platinum Steel Sabres.
+[NPC] Veja: As everyone will be looking at them I can only accept quality items.
+[NPC Narrate] -Veja Smiles.-
+[NPC] Veja: I know you will not disappoint me.
+[NPC Internal] Here are your Platinum Steel Sabres.
+[NPC Narrate] -Veja examines the Platinum Steel Sabres and nods before putting them in a crate.-
+[NPC] Veja: These are Excellent.
+[NPC Narrate] -Veja Smiles.-
+[NPC] Veja: I am glad I asked you to help.
+[NPC] Veja: Next I need three Platinum Steel Shortswords.
+[NPC Internal] Here are your Platinum Steel Shortswords.
+[NPC Narrate] -Veja examines the Platinum Steel Shortswords and nods before putting them in a crate.-
+[NPC] Veja: These are Excellent.
+[NPC Narrate] -Veja Smiles.-
+[NPC] Veja: I am glad I asked you to help.
+[NPC] Veja: Next I need three Platinum Steel Longswords.
+[NPC Internal] Here are your Platinum Steel Longswords.
+[NPC Narrate] -Veja examines the Platinum Steel Longswords and nods before putting them in a crate.-
+[NPC] Veja: These are Excellent.
+[NPC Narrate] -Veja Smiles.-
+[NPC] Veja: I am glad I asked you to help.
+[NPC Narrate] -Veja scribbles a note.-
+[NPC] Veja: Deliver this to Gregori
+
+[To] Gregori Stevald
+
+[NPC Internal] A Note from Veja.
+[NPC Narrate] -Gregori reads the note and smiles.-
+[NPC] Gregori: This is good news.
+[NPC] Gregori: I should have known that Veja would complete order.
+[NPC Narrate] -Gregori Writes a note and hands it to you.-
+[NPC] Gregori: Please deliver this back to Veja.
+
+[To] Veja Pontor
+
+[NPC Internal] I have a response from Gregori.
+[NPC Narrate] -Veja reads the note and smiles.-
+[NPC] Veja: This is good news.
+[NPC] Veja: Gregori is going to send some of his trainees as security to make sure I don't suffer any more losses before the Gladiator championships.
+[NPC] Veja: Here take this book; it will help you make Platinum Steel Broadswords.
+[NPC Internal] Thank you, this will be useful.
+[NPC] Veja: You have been more than useful to me.
+[NPC] Veja: Here is some Tria for your work, Jilare.
+[NPC Narrate] -Veja hands you a fat pouch of Tria.-
+[NPC] Veja: You consistently gave me high quality items.
+[NPC] Veja: You have the potential to become a great smith one day.
+[NPC] Veja: I hope we can continue to work together.
+[NPC] Veja: Take these to get you started with your new book.
+
+[Reward] [Money] 45628; [XP] 10800; [Item] 10, Platinum Steel Ingot; [Item] 1, Superior Platinum Steel Blades; [Faction] 1, Smith Association
+

@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author: Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* maps CSS Script */
+
+.show {
+	cursor: pointer;
+	z-index: 2;
+}
+
+.maps_main_table {
+	margin-bottom: 15px;
+}
+
+.map_section {
+	vertical-align: top;
+}
+
+.info_section {
+	vertical-align: top;
+}
+
+.selectLayer { 
+	color: #99CCFF; 
+	cursor: pointer;
+} 
+
+.selectLayer:hover {
+	text-decoration: underline;
+}
+
+.selectLayer.selected {
+	color: #cc8400;
+	text-decoration: underline;
+}
+
+#details_wrapper {
+	width: auto;
+	margin-top: -50px;
+	padding-top: 15px;
+	margin-right: 20px;
+
+	display: none; /* Hide this element (in the beginning) */
+	align-content: center;
+
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #696969;
+}
+
+	#details_canvas {
+		margin: auto;
+		padding: 0;
+		display: block;
+		
+	    width: 720px;
+	    height: 530px;
+	}

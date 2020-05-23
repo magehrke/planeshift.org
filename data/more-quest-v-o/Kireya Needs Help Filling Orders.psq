@@ -1,0 +1,32 @@
+[Questname] Kireya Needs Help Filling Orders
+[NPC Name] Kireya Ahinit
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] Yes
+
+[Need] [Skill] Maybe at least 10 in Baking
+
+[INFO]: The food preps can change with skill
+
+[To] Kireya Ahinit
+
+[NPC Internal] Hello. I know you're always filling out orders. Anything I can help you bake?
+[NPC] Kireya Ahinit blinks a few times and smiles, somewhat surprised at your offer.
+[NPC] Kireya Ahinit: Yes, yes, so many orders.
+[NPC] Kireya Ahinit: I can always use some help.
+[NPC Internal] What do you need?
+[NPC] Kireya Ahinit: You're an expert baker now, aren't you, You?
+[NPC] Kireya Ahinit: So I've got a bit of a challenge for you.
+[NPC] Kireya Ahinit: For a big order I need a dozen wiggly rolls along with 3 joopiner berry pies and 2 terevan berry pies.*
+[NPC] Kireya Ahinit: And I trust you have a good stockpile of ingredients by now?
+
+
+[To] Kireya Ahinit
+
+[NPC Internal] All done! [You put the pies and 12 wiggly rolls on the table for Kireya.]
+[NPC] Kireya Ahinit: Woo!
+[NPC] Kireya Ahinit: Very nice, You!
+[NPC] Kireya Ahinit: It looks fantastic!
+[NPC] Kireya Ahinit: Come back any time, I always have orders to fill.
+
+[Reward] [Money] ?; [XP] ?; [Skill] +1 baking

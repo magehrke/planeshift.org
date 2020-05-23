@@ -1,0 +1,170 @@
+[Questname] Menita's Puzzle
+[NPC Name] Menita
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] quests
+
+[To] Menita
+
+[NPC Internal] I would like to test my mental strength.
+[NPC Narrate] -Menita nods her head as she looks at you.-
+[NPC] Menita: A number in the past have asked if there was some way in which they could prove themselves to me.
+[NPC] Menita: And I always say the same thing.
+[NPC] Menita: Yes.
+[NPC Internal] I would like to…
+[NPC Narrate] -Menita cuts you off before you have a chance to finish your sentence.-
+[NPC] Menita: Yes I know.
+[NPC] Menita: This is a test of your mind, nothing else.
+[NPC] Menita: If you are ready tell me so.
+[NPC] Menita: I shall create the test of you and you must find your way out.
+[NPC] Menita: You can leave at any time you want.
+[NPC] Menita: There are marks I will create to let you leave, these are open at any point.
+[NPC Internal] I'm not sure what you mean.
+[NPC] Menita: A maze…
+[NPC] Menita: I will create it.
+[NPC] Menita: I will let you in.
+[NPC] Menita: If you can find your way out you will have proven your mind.
+[NPC] Menita: Very few people manage it on their first attempt so if you leave you can come back to me and I will let you re-enter.
+[NPC Internal] I will try.
+[NPC Narrate] -Menita holds her staff up against your head.-
+[NPC Narrate] -She begins to channel magic though it, swirling down her arm it wraps around your head.-
+[NPC Narrate] -She then speaks to you “welcome to my maze” your sight goes fuzzy and you can feel yourself falling for a moment.-
+[NPC Narrate] -When you reawaken you seem to have been transported.-
+[NPC Narrate] -Menita has created a maze in her head and has tapped into your mind to draw you in.-
+[NPC Narrate] -She then gives you a few more instructions “As you likely have no experience with anything like this, you must pick which door to pass through to move into the next room. If you find your way through all of them you will find the exit.”-
+[NPC Narrate] -You can hear a slight laugh.-
+[NPC Narrate] -The voice continues “Many give up so I have created points in each room, if you give up or get lost you can use them to leave to start over later.” As the voice says this you get the impress it does not expect you to succeed.-
+
+[To] Janina
+
+[NPC Internal] Hi, I didn't think I would see anyone else.
+[NPC] Janina: One…
+[NPC] Janina: What are you talking about it can't be one.
+[NPC] Janina: One leads to backwards it must be 3…
+[NPC] Janina: Either 3 or 2…
+[NPC] Janina: I don't know I can't decide.
+[NPC] Janina: You're here now you pick!
+[NPC Internal] I'd pick door three.
+[NPC Narrate] -Janina's eyes almost pop out of her head-
+[NPC] Janina: YES!
+[NPC Narrate] -She pauses.-
+[NPC] Janina: Actually, no, you first.
+[NPC Internal] Why are you here?
+[NPC Narrate] -Janina seems to literally turn a little green.-
+[NPC] Janina: The maze is a puzzle in a test in a challenge.
+[NPC] Janina: And I NEED to complete it.
+[NPC] Janina: I need to prove to him I can do it.
+[NPC] Janina: I can find a way out, just like he did.
+[NPC] Janina: Door after door after turn after turn.
+[NPC Internal] So you have a plan, care to share?
+[NPC] Janina: With you?!
+[NPC] Janina: NO…
+[NPC] Janina: I've been here for hundreds of doors.
+[NPC] Janina: And I'm not just going to hand over the secret for success in the always changing maze.
+[NPC Internal] Good, I'm sure you'll get out. But which way?
+[NPC] Janina: Who knows.
+[NPC] Janina: The last good stretch I managed was, was..
+[NPC] Janina: Was…
+[NPC] Janina: Was just after I got here.
+[NPC] Janina: I think it was right left right middle right left right middle…
+[NPC] Janina: OH!
+[NPC] Janina: Then I quit and started over.
+[NPC] Janina: And was back where I ended up.
+[NPC] Janina: But that won't happen again.
+[NPC] Janina: No way.
+
+[To] Oriaa
+
+[NPC Internal] Do you think you could help me?
+[NPC] Oriaa: Well well well…
+[NPC] Oriaa: Well well well.
+[NPC] Oriaa: Well?
+[NPC Narrate] -Oriaa scratches his head.-
+[NPC] Oriaa: I've been going over and over this and round and round this.
+[NPC] Oriaa: And you know Menita is crazy.
+[NPC] Oriaa: Only a crazy person would let people into their head with a game that she REALLY doesn't want you winning.
+[NPC] Oriaa: Now I know one of these doors takes you back to that poor man who has been here for, well, thousands of doors by the sound of it.
+[NPC Internal] How long have you been here?
+[NPC] Oriaa: Not that long, it seems like a few days but I can't be sure it hasn't been thirty minutes or 30 weeks.
+[NPC] Oriaa: I once managed to find myself all the way to a room with a bed on the wall.
+[NPC] Oriaa: That's quite a long way through.
+[NPC] Oriaa: There is a book there you should read.
+[NPC] Oriaa: Give you a reason not to stay here to long and to just give up if you give up.
+[NPC Internal] How many people will I see here?
+[NPC] Oriaa: I've seen twenty or so.
+[NPC] Oriaa: Most I expect give up, either that or they have better luck than I've had so far and make their way through the maze pretty quickly…
+[NPC Narrate] -Oriaa pauses.-
+[NPC] Oriaa: That…
+[NPC] Oriaa: Or there are so many rooms here that seeing anyone is a miracle.
+[NPC] Oriaa: I hope that isn't that case.
+[NPC Internal] Which door would you recommend?
+[NPC] Oriaa: One of the doors in the wings seems to take me forward, at least from what I can tell.
+[NPC] Oriaa: But Menita keeps changing the doors.
+[NPC] Oriaa: They look the same don't they?
+[NPC] Oriaa: But I'm sure she changes them.
+[NPC] Oriaa: Always little differences.
+[NPC Narrate] -Oriaa frowns and lowers his head hunching his shoulders as he peers about.-
+[NPC] Oriaa: Tiny little differences, smudges on the handle.
+[NPC] Oriaa: A new scratch here, a missing one there.
+[NPC] Oriaa: Shadows a little different.
+[NPC] Oriaa: Enough of a difference that I know that it isn't the same.
+[NPC] Oriaa: And every time I walk through one, almost every time it's different.
+[NPC Internal] Then how do you pick?
+[NPC] Oriaa: I stand here.
+[NPC Narrate] -Oriaa points at the left door.-
+[NPC] Oriaa: Or there.
+[NPC Narrate] -Oriaa then points at the right door.-
+[NPC] Oriaa: Or up there, seems higher up there somehow, though it clearly isn't.
+[NPC] Oriaa: You just have to pick.
+[NPC] Oriaa: There might be some method to the madness in here but I haven't been able to find it.
+[NPC] Oriaa: If you work it out come find me.
+[NPC Internal] Can you help me pick?
+[NPC Narrate] -Oriaa looks at you.-
+[NPC] Oriaa: No.
+
+[To] Jorann
+
+[NPC Internal] Hi, am I nearly out?
+[NPC Narrate] -Jorann grabs his basket close to his chest.-
+[NPC] Jorann: The third?
+[NPC] Jorann: What have you heard!
+[NPC Narrate] -Jorann looks about as if unsure of anything.-
+[NPC] Jorann: Third can't be right him kra her they them kran they are everywhere.
+[NPC Narrate] -Jorann drops the basket and grabs his head.-
+[NPC] Jorann: If they would leave me alone I could get out of this room for lunch with Mr Bread but all the doors lead back to here…
+[NPC Internal] Do all the doors really lead back here?
+[NPC] Jorann: I go though doors and come here.
+[NPC] Jorann: I go through other doors and come here.
+[NPC] Jorann: Other doors go here, some come here, some are just doors.
+[NPC] Jorann: The doors of doors are the ones you need to worry about those will get you in a door that is a door that isn't what it shouldn't be.
+[NPC Internal] Are you ok?
+[NPC] Jorann: Yep…
+[NPC] Jorann: Fine.
+[NPC] Jorann: Doors and wood and camps and food with words and everything in between.
+[NPC] Jorann: This place is a place.
+[NPC] Jorann: I will get out I must.
+[NPC Narrate] -You here a slight smirk, an echo of a noise that didn't come from anyone present.-
+[NPC] Jorann: I've been here too long not to stay here and get out.
+[NPC Internal] You've been here a long time haven't you?
+[NPC] Jorann: Time what, time, what, no.
+[NPC] Jorann: Doors…
+[NPC] Jorann: Doors and door.
+[NPC] Jorann: It's all doors.
+[NPC] Jorann: Door after door after doors after doors.
+[NPC] Jorann: Nothing but wood.
+[NPC] Jorann: Trees on walls and walls with gems and benches in spirals.
+[NPC] Jorann: Nothing to get out.
+
+[To] Menita
+
+[NPC Internal] I got out…I can't believe I managed it!
+[NPC] Menita: I know.
+[NPC] Menita: I was watching you the whole time.
+[NPC] Menita: I am pleased that you managed to complete it.
+[NPC] Menita: Many don't.
+[NPC] Menita: As a reward for mastering my task I offer you this gas glyph and this magic wand.
+
+[Reward] [XP] 16400; [Item] 1, Gas glyph; [Item] 1, Magic Wand Ornate; [Faction] 35, Azure Order
+

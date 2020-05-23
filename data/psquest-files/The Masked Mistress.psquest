@@ -1,0 +1,187 @@
+[Questname] The Masked Mistress
+[NPC Name] Archilaya Gurpleferd
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[Need] [Quest] Archilaya's New Recipe
+
+[To] Archilaya Gurpleferd
+
+[NPC Internal] Hi Archilaya, do you have something i can help you with?
+[NPC Narrate] -Archilaya looks around with a mischievous smile and whispers.-
+[NPC] Archilaya: Yes, I have another task that requires you to act with discretion.
+[NPC] Archilaya: Will you help me?
+[NPC Internal] nods. “Sure.”
+[NPC Narrate] -Archilaya looks around again before continuing.-
+[NPC] Archilaya: I have a secret identity I use for participating in arena events; the double dagger events held by Gregori in particular.
+[NPC] Archilaya: My brother is very protective and will not approve, so I have to hide it from him.
+[NPC] Archilaya: I need you to help me get out of the baking competition that my brother signed us up for.
+[NPC] Archilaya: Please go and tell Orchibaly that I have a catering job on the day and return to me with his reply.
+
+[To] Orchibaly Gurpleferd
+
+[NPC Internal] Archilaya has a catering job on the same day, so she cannot make it.
+[NPC Narrate] -Orchibaly appears crestfallen as he listens to your explanation.-
+[NPC] Orchibaly: But we make the test beam…
+[NPC] Orchibaly: er best team!
+[NPC] Orchibaly: No one could stand against our paired skills.
+[NPC Narrate] -Orchibaly's voice starts to fill with excitement.-
+[NPC] Orchibaly: With my flour and pans, and her wit and spoons, all other bakers cower at the very whisper of our names!
+[NPC] Orchibaly: 'The Gurpleferds are coming!' they would shout in fear.
+[NPC] Orchibaly: For her to miss out on the thrill of victory, something must be wrong.
+[NPC] Orchibaly: I must say that Archilaya has been acting suspicious since I signed us up, and has been avoiding me since I mentioned it.
+[NPC] Orchibaly: Tell me, is this the truth you speak?
+[NPC] Orchibaly: Does she really have other work to do?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] No
+[NPC Narrate] -Orchibaly's disappointment is obvious as he acknowledges your words.-
+[NPC] Orchibaly: So Archilaya is up to her old tricks again.
+[NPC] Orchibaly: I knew working in the arena would be too much of a temptation for her.
+[NPC] Orchibaly: Baking bread just does not have the thame srill…
+[NPC] Orchibaly: er same thrill as playing with her blades, it seems.
+[NPC] Orchibaly: We must help her remember the excitement of buns and muffins!
+[NPC] Orchibaly: The perfect muffin is just…
+[NPC Narrate] -Orchibaly's eyes sparkle as he stares into the distance for a few moments.-
+[NPC] Orchibaly: It is beyond mere words.
+[NPC Narrate] -Orchibaly's eyes widen and a grin forms on his face.-
+[NPC] Orchibaly: I know!
+[NPC] Orchibaly: We can play the secrets game as well.
+[NPC] Orchibaly: She will no doubt try to get you to deliver her application form.
+[NPC] Orchibaly: Bring it to me instead and be careful not to arouse her suspicion.
+[NPC] Orchibaly: Tell her I say it is 'all good' for now.
+[NPC] Orchibaly: This is going to be so much fun! I never got to be a spy before!
+
+[To] Archilaya Gurpleferd
+
+[NPC Internal] orchibaly says all good
+[NPC Narrate] -Archilaya leans closer to you.-
+[NPC] Archilaya: Wonderful news, that means I can start preparing.
+[NPC] Archilaya: Can you please go to Nyshyn and tell her the Masked Mistress sent you.
+[NPC] Archilaya: She will hand you some daggers that you need to return to me.
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] masked mistress sent me
+[NPC] Nyshyn: The mysterious Masked Mistress, eh?
+[NPC] Nyshyn: Yes I have her daggers right here.
+[NPC Narrate] -Nyshyn hands you a pair of well-balanced daggers.-
+[NPC] Nyshyn: My debt with her is now paid, may I never hear from her again.
+[NPC Narrate] -Nyshyn returns to her work.-
+
+[To] Archilaya Gurpleferd
+
+[NPC Narrate] -Archilaya quickly conceals the daggers with the skill of a master.-
+[NPC] Archilaya: That was so kind of you to do this for me.
+[NPC] Archilaya: Please take my old daggers as a reward.
+[NPC Narrate] -Archilaya hands you the daggers with a mischievous grin.-
+[NPC] Archilaya: Now, I need your help with a final task.
+[NPC] Archilaya: Can you hand in my application to Gregori?
+[NPC Internal] yes
+[NPC Narrate] -Archilaya produces the application form with a flourish of her hands.-
+[NPC] Archilaya: Please hand this to Gregori as I can not be seen doing it.
+
+[To] Orchibaly Gurpleferd
+
+[NPC Narrate] -Orchibaly wipes his hands on his apron before taking the form from you.-
+[NPC] Orchibaly: The Masked Mistress? You are sure this is hers?
+[NPC Narrate] -Orchibaly grins in amazement.-
+[NPC] Orchibaly: Well I'll be the son of a soup maker.
+[NPC] Orchibaly: I had my suspicions she was pulling something like this, but I had no idea it was her!
+[NPC] Orchibaly: You might not know this, but I have attended some of these competitions.
+[NPC] Orchibaly: The Masked Mistress is an excellent fighter, with personality to boot.
+[NPC] Orchibaly: If it truly is my sister, she might be an even better gladiator than she is a baker!
+[NPC] Orchibaly: I am not about to try to stop her.
+[NPC Narrate] -Orchibaly beams with pride.-
+[NPC] Orchibaly: My sister, the great warrior.
+[NPC] Orchibaly: Our competition will be doubly afraid of us now!
+[NPC] Orchibaly: Please deliver her application to Gregori as she has requested.
+[NPC Narrate] -Orchibaly returns the application to you.-
+[NPC] Orchibaly: Take this reward as well, for showing me how capable my sister really is.
+[NPC Narrate] -Orchibaly hands you some tria.-
+
+[To] Gregori Stevald
+
+[NPC Narrate] -Gregori takes the application and reads over it with a grin.-
+[NPC] Gregori: The Masked Mistress returns I see.
+[NPC] Gregori: She sure does liven up the competition and she is the second favourite to win.
+[NPC Narrate] -Gregori writes out a receipt and hands it to you.-
+[NPC] Gregori: Please return this to Archi…
+[NPC] Gregori: I mean the Masked Mistress.
+[NPC Narrate] -Gregori laughs as he turns his attention away from you.-
+
+[To] Archilaya Gurpleferd
+
+[NPC Narrate] -Archilaya claps her hands in excitement, sending clouds of flour billowing through the air.-
+[NPC] Archilaya: Oops, almost forgot myself there.
+[NPC] Archilaya: Nilotha, you have done well by me.
+[NPC Narrate] -Archilaya puts a book in front of you.-
+[NPC] Archilaya: Please accept this as my thanks to you and all that you have done for me.
+
+[Way] 2
+
+[NPC Internal] It's the truth.
+[NPC Narrate] -Orchibaly sighs heavily.-
+[NPC] Archilaya: I guess I will have to accept it then.
+[NPC] Archilaya: Archilaya just does not realise that by winning the baking competition we will have more business than we need, and she would not have to work so hard.
+[NPC] Archilaya: But you can tell her I say it is 'all good'.
+
+[To] Archilaya Gurpleferd
+
+[NPC Internal] Orchibaly says it's all good.
+[NPC Narrate] -Archilaya leans closer to you.-
+[NPC] Archilaya: Wonderful news, that means I can start preparing.
+[NPC] Archilaya: Can you please go to Nyshyn and tell her the Masked Mistress sent you.
+[NPC] Archilaya: She will hand you some daggers that you need to return to me.
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] The masked Mistress sent me.
+[NPC] Nyshyn: The mysterious Masked Mistress, eh?
+[NPC] Nyshyn: Yes I have her daggers right here.
+[NPC Narrate] -Nyshyn hands you a pair of well-balanced daggers.-
+[NPC] Nyshyn: My debt with her is now paid, may I never hear from her again.
+[NPC Narrate] -Nyshyn returns to her work.-
+
+[To] Archilaya Gurpleferd
+
+[NPC Internal] gives Archilaya the daggers.
+[NPC Narrate] -Archilaya quickly conceals the daggers with the skill of a master.-
+[NPC] Archilaya: That was so kind of you to do this for me.
+[NPC] Archilaya: Please take my old daggers as a reward.
+[NPC Narrate] -Archilaya hands you the daggers with a mischievous grin.-
+[NPC] Archilaya: Now, I need your help with a final task.
+[NPC] Archilaya: Can you hand in my application to Gregori?
+[NPC Internal] Yes I can.
+[NPC Narrate] -Archilaya produces the application form with a flourish of her hands.-
+[NPC] Archilaya: Please hand this to Gregori as I can not be seen doing it.
+
+[To] Gregori Stevald
+
+[NPC Internal] I want to submit an application on behalf of the masked Mistress.
+[NPC Narrate] -Gregori takes the application and reads over it with a grin.-
+[NPC] Gregori: The Masked Mistress returns I see.
+[NPC] Gregori: She sure does liven up the competition and she is the second favourite to win.
+[NPC Narrate] -Gregori writes out a receipt and hands it to you.-
+[NPC] Gregori: Please return this to Archi…
+[NPC] Gregori: I mean the Masked Mistress.
+[NPC Narrate] -Gregori laughs as he turns his attention away from you.-
+
+[To] Archilaya Gurpleferd
+
+[NPC Internal] Here is your entry pass.
+[NPC Narrate] -Archilaya claps her hands in excitement, sending clouds of flour billowing through the air.-
+[NPC] Archilaya: Oops, almost forgot myself there.
+[NPC] Archilaya: YOU, you have done well by me.
+[NPC Narrate] -Archilaya puts a book in front of you.-
+[NPC] Archilaya: Please accept this as my thanks to you and all that you have done for me.
+[NPC] Archilaya: I hear my brother has been asked to help with a fancy ballroom dance coming up in Hydlaa maybe you could go to see if he needs help.
+
+[Reward] [Way 1] [Money] 7310; [XP] 15000; [Faction] 10, Food Association
+[Reward] [Way 2] [Money] 7310; [XP] 15000; [Item] 1, Dagger; [Item] 1, Beginner Baking; [Faction] 30, Food Association
+
+

@@ -1,0 +1,11 @@
+[Questname] Moren Needs New Boots
+[NPC Name] Moren Findel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] No Yes
+
+[Need] [Quest] Introduction to Crafting; [Money] 50
+
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Wicker Shield Core; [Item] 1, Radiant Shield Diagram
+

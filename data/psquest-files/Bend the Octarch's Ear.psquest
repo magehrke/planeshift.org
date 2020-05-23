@@ -1,0 +1,146 @@
+[Questname] Bend the Octarch's Ear
+[NPC Name] Kilas Tungse
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Kilas' Test of Education; [Money] 510
+
+[To] Kilas Tungse
+
+[NPC Internal] May I be of use?
+[NPC] Kilas: Ah, YOU, it's good to see you again.
+[NPC] Kilas: Think you can handle it?
+[NPC Internal] I'd love to try.
+[NPC] Kilas: That's the spirit!
+[NPC] Kilas: As you might know, I'm an architect.
+[NPC] Kilas: I have lots of plans for houses - you have the Housing Layout - but the Octarch has been slow in reviewing them.
+[NPC] Kilas: Naturally the Octarch has lots of work to do, but Hydlaa is on the brink of a housing shortage.
+[NPC] Kilas: I can think of four of the Octarch's confidantes who might be able to speed up the review.
+[NPC] Kilas: If you can get them to agree to that, I'll reward you greatly.
+[NPC] Kilas: Make sure you ask me about those confidantes before you go running off; I'll give you a list.
+[NPC] Kilas: Good luck!
+[NPC Internal] Who are those confidantes you mentioned?
+[NPC] Kilas: One is of course the Vigesimi Amidison Stronghand.
+[NPC] Kilas: The Octarch is bound to listen to a Vigesimi.
+[NPC] Kilas: There's also an aristocrat by the name of Loren Chama, a personal friend of the Octarch's.
+[NPC] Kilas: Saria Dunwallow is the Octarch's clothier with more influence than she lets on.
+[NPC] Kilas: Finally, Commander Raithen of the Shadow Squadron has known the Octarch for some time.
+[NPC] Kilas: Ask them to speed up the review, or just tell them about it.
+[NPC] Kilas: You'll think of something.
+[NPC] Kilas: Providing for their wants and needs will probably get you better results.
+[NPC] Kilas: Don't let me down, YOU.
+
+[To] Amidison Stronghand
+
+[NPC Internal] Is there any way you can speed up the review of housing plans for Hydlaa?
+[NPC] Amidison: Thanks for bringing this to my attention, citizen.
+[NPC] Amidison: But I can't go to the Octarch empty handed.
+[NPC] Amidison: You do have a plan on paper, do you not?
+[NPC] Amidison: A layout of some kind?
+[NPC Internal] offers the housing plan to Vigesimi Stronghand.
+[NPC] Amidison: Let me see that.
+[NPC Narrate] -She studies the document.-
+[NPC] Amidison: Everything looks to be in order.
+[NPC] Amidison: It's obvious a lot of work went into this.
+[NPC] Amidison: Very well.
+[NPC] Amidison: I shall bring it to the Octarch's attention as soon as I can.
+[NPC] Amidison: Take this seal as a token of my word,
+
+[To] Loren Chama
+
+[NPC Internal] There's about to be a housing shortage in Hydlaa. Can you help?
+[NPC] Loren: More common rabble in Hydlaa?
+[NPC] Loren: Bah.
+[NPC] Loren: Why should I help in this endeavour?
+[NPC] Loren: Although, five hundred tria might make me think twice about it…
+[NPC Narrate] -Loren smiles greedily.-
+[NPC Internal] Here is a 'contribution' for you.
+[NPC] Loren: Here's a seal of verbal contract.
+
+[To] Saria Dunwallow
+
+[NPC Internal] Would you be willing to talk to the Octarch about the housing shortage?
+[NPC] Saria: What's that, darling?
+[NPC] Saria: You want me to speak to the Octarch on your behalf?
+[NPC] Saria: Normally, I'd be all too happy to help, but it will have to wait a few weeks.
+[NPC] Saria: I need to take a trip to Ojaveda and pick up my custom-made carpet from Brintec.
+[NPC] Saria: Do you know where I'm going with this, dear?
+[NPC Internal] I'm pretty sure I can guess.
+[NPC] Saria: Splendid.
+[NPC] Saria: Take this receipt to Brintec.
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] I'm here to pick up Saria Dunwallow's carpet.
+[NPC] Brintec: Very good, Sir.
+[NPC] Brintec: Here's the carpet for Ms. Dunwallow as promised.
+
+[To] Saria Dunwallow
+
+[NPC Internal] Here you are. It's quite heavy.
+[NPC] Saria: Marvellous!
+[NPC] Saria: This saves me so mush time.
+[NPC] Saria: I can see the Octarch with little delay.
+[NPC] Saria: Here's my word; it's my bond.
+
+[To] Raithen
+
+[NPC Internal] I could use your influence to help fix the housing problem in Hydlaa.
+[NPC] Raithen: And just when do you think I'll be able to speak to the Octarch?
+[NPC] Raithen: As if it matters to me - do I look like a Hydlaan?….
+[NPC Narrate] -Raithen sighs.-
+[NPC] Raithen: Listen.
+[NPC] Raithen: It's not your fault.
+[NPC] Raithen: I'm just upset because I can't leave my post to buy a ticket to the Pterosaur Arena show before they're sold out.
+[NPC] Raithen: Too bad; I know the Octarch will be in attendance and I could discuss the matter then.
+[NPC] Raithen: The saddlers usually have tickets to sell.
+
+[To] Krestal Dhusho
+
+[NPC Internal] Do you have any Pterosaur Arena tickets to sell?
+[NPC] Krestal: Yes Sir, I've got a handful left.
+[NPC] Krestal: Only ten Tria!
+[NPC Internal] A jingling sound is heard as YOU pulls some coin from his money bag.
+[NPC] Krestal: Pleasure doing business with you, Sir.
+
+[To] Raithen
+
+[NPC Internal] You were fortunate. There were a few tickets left.
+[NPC] Raithen: This is much appreciated.
+[NPC] Raithen: I shall let the Octarch know about Hydlaa's needs.
+[NPC] Raithen: Take my seal.
+
+[To] Kilas Tungse
+
+[NPC Internal] I've got the support of all those on your list.
+[NPC] Kilas: I'm impressed.
+[NPC] Kilas: Now, give me the seals, please.
+[NPC Internal] Here they are; all accounted for.
+[NPC] Kilas: YOU, I think you might just have helped the housing shortage.
+[NPC] Kilas: After all this persistence, things are bound to happen soon!
+[NPC] Kilas: You have earned this, and my respect.
+[NPC Narrate] -Kilas hands you a glyph.-
+[NPC] Kilas: If you like, I can point you in the right direction for others I know of that can help you further your educational quest.
+[NPC Internal] Sure, who else can I speak with?
+[NPC Narrate] -Kilas Tungse breaks a wide grin.-
+[NPC] Kilas: Ohh, that's wonderful.
+[NPC] Kilas: There is so much to tell you.
+[NPC Narrate] -Kilas Tungse ponders for a moment, straightens his posture out, and speaks with enthusiasm and extreme precision as if he pretty much knows everyone.-
+[NPC] Kilas: Let's start right here in Hydlaa.
+[NPC] Kilas: Over in the arena, I have it on good authority that the arena boss, Gregori Stevald, has been asking around about something.
+[NPC] Kilas: Perhaps he may have some tasks for you.
+[NPC] Kilas: Over in Ojaveda, the smithy, Trasok, may be a standing member of the Crafting Association, but I know he loves brain teasers…riddles that is.
+[NPC] Kilas: Over in Gugrontid, there is a brilliant Kran by the name of Kerryk Cor.
+[NPC] Kilas: And if you're ever out by the Eagle Bronze Doors, in the wilderness you may find a campfire and there you'll often find two fierce competitors of Octarch's Chess.
+[NPC] Kilas: And by the water wheel at the fortress there, you can often find a very good friend of mine, Thrynt Glass.
+[NPC] Kilas: Finally, should you ever earn your way into the winch area, the folks there often have something for passers by to do.
+[NPC] Kilas: In particular, Raul Ursino is a friend of mine.
+[NPC] Kilas: After that, in the winch building, itself, you'll find a brilliant engineer by the name of Lerok.
+[NPC Internal] That's a lot of good information, thanks.
+[NPC] Kilas: Not a problem.
+[NPC] Kilas: I'm always glad to keep our fine citizens well informed.
+[NPC Narrate] -Kilas Tungse smirks with satisfaction.-
+[NPC] Kilas: Safe travels, my good friend.
+
+[Reward] [XP] 9400; [Item] 1, Mind glyph; [Faction] 15, Science Association
+

@@ -1,0 +1,67 @@
+[Questname] Knowledge and Practical of the Blue Way Master
+[NPC Name] Barrin Dhorod
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Blue Way Master Training; [Item] 1, Master's Blue Way Wand; [Item] 1, Adept's Blue Way Bracers; [Skill] 130, Blue Way; [Item] 1, Purify glyph; [Item] 1, Water glyph
+
+[Info] You get the glyphs back.
+
+[To] Barrin Dhorod
+
+[NPC Internal] Please except my Way Wand as proof of being a student.
+[NPC] Barrin: Your progress is satisfactory.
+[NPC] Barrin: Your knowledge has increased greatly.
+[NPC] Barrin: To reward your dedication, I shall add to that knowledge.
+[NPC] Barrin: Give me your Purify Glyph.
+[NPC Internal] One Purify glyph coming up.
+[NPC Narrate] -Barrin begins purifying it as he speaks.-
+[NPC] Barrin: Now, the Water Glyph.
+[NPC Internal] Water, ah, here it is.
+[NPC Narrate] -Barrin repeats the purifying on the glyph.-
+[NPC] Barrin: Lastly, the Rain Glyph.
+[NPC] Barrin: You did get one didn't you?
+[NPC Internal] I don't have a rain glyph.
+[NPC] Barrin: Well I happen to have a spare I can sell you for lets say thirty circles.
+[NPC Internal] Guess I will have to buy one then.
+[NPC] Barrin: I will use one of mine then.
+[NPC Narrate] -Barrin looks at the three glyphs with icy eyes until the process is complete.-
+[NPC] Barrin: Now for the combination.
+[NPC] Barrin: Order is important.
+[NPC Narrate] -Barrin places Purify, then Water, then Rain and starts the combination ritual.-
+[NPC] Barrin: It is finished.
+[NPC] Barrin: Be ready as I demonstrate the spell.
+[NPC] Barrin: Observe.
+[NPC Narrate] -A blue cloud forms above you in the small area and blue rain start falling from it, energizing your vitality.-
+[NPC] Barrin: Your surprise is expected.
+[NPC] Barrin: You will take your glyphs back now.
+[NPC Narrate] -Barrin hands back your glyphs and your new one as the rain subsides.-
+[NPC] Barrin: You will now purify your glyphs and cast the spell your self.
+[NPC] Barrin: It gives a healing effect on all close to you.
+[NPC] Barrin: When complete, tell me what the spell wishes itself to be called.
+[NPC Internal] Healing Rain
+[NPC] Barrin: The Blue Way has many of these combination spells, most not even discovered yet.
+[NPC] Barrin: Only the truly skilled and brazen will discover these greater spells if not taught.
+[NPC] Barrin: One's knowledge must be great, and one must discover the order of the combination.
+[NPC] Barrin: Even then, they may not reveal themselves the first few times.
+[NPC Narrate] -Barrin eyes show a hint of sadness, the first sadness ever shown.-
+[NPC] Barrin: That is a lesson I learned in my youth, taught by one of the greatest Way mages to ever exist.
+[NPC] Barrin: A truly great Blue Way Archmaster, he rivaled Archmasters of other Ways, almost surpassing them even in their own Way.
+[NPC] Barrin: No other I have known has been able to duplicate such skill in all Ways.
+[NPC] Barrin: He did pay for it, in the end, dearly.
+[NPC] Barrin: It is not something I wish to discuss now.
+[NPC Narrate] -Barrin holds out a hand.-
+[NPC] Barrin: Your bracers please.
+[NPC Internal] Please except my Bracers for replacement.
+[NPC Narrate] -Barrin silently hands you another set of bracers, then studies you for a few moments.-
+[NPC] Barrin: YOU, it is time to finalize your skills in the Blue Way.
+[NPC] Barrin: Only once you reach your limit I will accept your wand and give you your final test.
+[NPC] Barrin: However, it is not going to be so easy this time.
+[NPC] Barrin: If you recall, I mentioned some time ago that you should mingle with practitioners of the two Ways that support your own.
+[NPC] Barrin: I need for you to also bring me one Master's Set of Bracers from each of those two Ways, and give all three to me all at once.
+[NPC] Barrin: So, you will bring me your own wand and one Master's Bracer from the Crystal and Brown Ways.
+[NPC] Barrin: This is to prove you have gained respect and support from the Circles that support your own.
+[NPC] Barrin: Good luck, and set your roots deep.
+
+[Reward] [XP] 19200; [Item] 1, Rain glyph; [Item] 1, Master's Blue Way Bracers; [Faction] 45, Blue Order
+

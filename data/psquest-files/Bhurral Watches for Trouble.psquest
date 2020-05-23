@@ -1,0 +1,72 @@
+[Questname] Bhurral Watches for Trouble
+[NPC Name] Orchibaly Gurpleferd
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Joining the Guards
+
+[NPC Internal] Hello. I am looking for work.
+[NPC Narrate] -Bhurral looks you up and down slowly.-
+[NPC] Trasok: I might have some work for you.
+[NPC] Trasok: Are you interested?
+[NPC Internal] Sure, that's why I asked.
+[NPC] Trasok: Orchibaly Gurpleferd, a master baker here in Ojaveda, has recently had trouble with thieves stealing buns from his very counter.
+[NPC] Trasok: I have asked him to write up a full report for me, but I have yet to receive it.
+[NPC] Trasok: I need you to go to him and ask about the theft report.
+[NPC] Trasok: I want to resolve this matter as swiftly as possible.
+
+[To] Orchibaly Gurpleferd
+
+[NPC Internal] Hello. Bhurral sent me to pick up the report you wrote on the thefts.
+[NPC Narrate] -Orchibaly sighs.-
+[NPC] Orchibaly: Bhurral is certainly persistent.
+[NPC] Orchibaly: I wish now that I had never mentioned the matter, but I only saw it as an amusing story to tell Brado over an ale.
+[NPC] Orchibaly: You see, the ones who pilfered my wares were only lads, doing it on a dare.
+[NPC] Orchibaly: They didn't take much, and fell all over each other trying to get out the door.
+[NPC] Orchibaly: Oh, it was a funny sight!
+[NPC Narrate] -Orchibaly grins.-
+[NPC] Orchibaly: They came back later, all shame-faced, and paid for what they took.
+[NPC] Orchibaly: I consider the issue resolved, but Bhurral does not.
+[NPC] Orchibaly: She wants their names so she can bring them in for questioning.
+[NPC] Orchibaly: What do you think, Maddam, should I name the culprits, or play dumb?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] Name the culprits! They need not get used to free passes early in life.
+[NPC Narrate] -Orchibaly shakes his head sadly.-
+[NPC] Orchibaly: I don't like this at all, but I have no wish to be accused of hindering the guards.
+[NPC] Orchibaly: Give me a moment and I will finish the report.
+[NPC Narrate] -Orchibaly writes a few notes on a piece of parchment, folds it, then hands it to you.-
+[NPC] Orchibaly: Take that to Bhurral, if you would.
+
+[To] Bhurral Varsheen
+
+[NPC Internal] Here is the report from Orchibaly.
+[NPC Narrate] -Bhurral reads over the letter and nods approvingly.-
+[NPC] Bhurral: Very efficient.
+[NPC] Bhurral: I will deal with these criminals shortly.
+[NPC] Bhurral: Take this for your time.
+[NPC Narrate] -Bhurral hands you a few Octa.-
+
+[Way] 2
+
+[NPC Internal] play dumb
+[NPC Narrate] -Orchibaly nods his head firmly.-
+[NPC Narrate] -Orchibaly Gurpleferd says: Bhurral can make what she wishes of it; I will not report them.-
+[NPC Narrate] -Orchibaly folds up a piece of parchment and hands it to you.-
+[NPC] Bhurral: Please give this to Bhurral.
+
+[To] Bhurral Varsheen
+
+[NPC Narrate] -Bhurral reads over the letter and frowns.-
+[NPC] Bhurral: Tiresome.
+[NPC] Bhurral: It seems I will simply have to dig deeper into the matter, then.
+[NPC] Bhurral: Take this for your time.
+[NPC Narrate] -Bhurral hands you a few tria.-
+
+[Reward] [Money] 2107; [XP] 10800
+[Reward] [Way 1] [Faction] 25, Guard
+[Reward] [Way 2] [Faction] 5, Guard
+

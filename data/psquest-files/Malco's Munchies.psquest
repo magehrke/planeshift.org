@@ -1,0 +1,26 @@
+[Questname] Malco's Munchies
+[NPC Name] Malco Mokkar
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Jomed's Coalchamist Problem; [Item] 1, Green Gold Steak; [Item] 1, Kran Liquor; [Item] 1, Blue Gold Floater
+
+[To] Malco Mokkar
+
+[NPC Internal] Hello Malco, anything I could help you with?
+[NPC Narrate] -Malco scratches kras chin.-
+[NPC Narrate] -Kra then looks about before saying.-
+[NPC] Malco: Malco could do with munchies.
+[NPC] Malco: Help Malco?
+[NPC Internal] Sure, I can handle that.
+[NPC] Malco: You look like cook.
+[NPC] Malco: Malco hungry.
+[NPC] Malco: Kra like a green gold steak, drink kran liquor, and blue gold floater.
+[NPC Internal] Here you go, all you asked for.
+[NPC] Malco: Look nice.
+[NPC] Malco: Malco eat soon.
+[NPC] Malco: Malco happy.
+
+[Reward] [Money] 7310; [XP] 15000
+

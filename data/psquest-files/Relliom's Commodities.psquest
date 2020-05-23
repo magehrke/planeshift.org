@@ -1,0 +1,137 @@
+[Questname] Relliom's Commodities
+[NPC Name] Relliom
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] An Eager Clacker; [Item] 1, Green Clacker Ribbon
+
+[Info] You get the Green Clacker Ribbon from the An Eager Clacker quest.
+
+[To] Relliom
+
+[NPC Internal] gives Relliom the green clacker ribbon.
+[NPC] Relliom: You return once again, as I knew you would.
+[NPC] Relliom: Sysial is very talented, wouldn't you agree?
+[NPC] Relliom: Such a grand find she was, and such unique abilities.
+[NPC Narrate] -Relliom takes the ribbon and rubs a small spot of grime from himself.-
+[NPC] Relliom: Sorry about the…dark appearance.
+[NPC] Relliom: It is difficult keeping one's self clean in such an environment, but we must all get our hands dirty on occasion.
+[NPC] Relliom: Now, I assume you are looking for another task, yes?
+[NPC] Relliom: I have just the thing.
+[NPC] Relliom: A certain person has been causing me…trouble, and must be taught a serious and final lesson.
+[NPC] Relliom: For this, I have need of some basic commodities, and I believe you will do well to get them for me.
+[NPC] Relliom: Will you offer your aid to me once again?
+[NPC Internal] Yes, your word is my command.
+[NPC Narrate] -Relliom nods in approval.-
+[NPC] Relliom: The target of this task is travelling spice merchant named Jeroric, though the name should not matter to you.
+[NPC] Relliom: In Jeroric's name, I have ordered an item from Kada-El's Tavern.
+[NPC] Relliom: Allelia will know about Jeroric's order.
+[NPC] Relliom: I'll give you the order receipt…
+[NPC Narrate] -Relliom pats his pockets in a way that clearly indicates he does not expect to find anything.-
+[NPC] Relliom: …oh dear.
+[NPC] Relliom: I must have misplaced it.
+[NPC] Relliom: Lost items are so hard to track, wouldn't you say?
+[NPC Narrate] -Relliom grins.-
+[NPC] Relliom: It would be a shame if they did not believe Jeroric signed the order.
+[NPC] Relliom: If she asks, tell her you lost it.
+[NPC] Relliom: Come straight back once you get it.
+
+[To] Allelia Symiestra
+
+[NPC Internal] I am here to fetch Jeroric's order.
+[NPC] Allelia: Ah yes, I have it right here.
+[NPC Narrate] -Allelia smiles.-
+[NPC] Allelia: Do you have the order receipt?
+[NPC Internal] It has been lost.
+[NPC Narrate] -Allelia smile falters.-
+[NPC] Allelia: Well…it was supposed to be picked up by now.
+[NPC] Allelia: In fact, it was supposed to be picked up only a little while ago.
+[NPC] Allelia: Out of town people are so hard to deal with sometimes.
+[NPC Narrate] -Allelia looks thoughtful.-
+[NPC] Allelia: I guess I can trust you with it, since you knew the order had been placed…
+[NPC Narrate] -Allelia smile returns and she holds out a bottle filled with a substance you can not identify.-
+[NPC] Allelia: It is quite hard to find so be careful with it.
+
+[To] Relliom
+
+[NPC Internal] gives Relliom the order from Jeroric.
+[NPC Narrate] -Relliom's eyes seem to sparkle for a second as he nods in a manner so gracious it borders on condescension, then looks around for a moment.-
+[NPC] Relliom: My thanks.
+[NPC] Relliom: One has got to be very attentive when he is surrounded by creatures and fiends.
+[NPC Narrate] -Relliom smiles at you.-
+[NPC] Relliom: Jeroric always picks up his orders on time, but he seems to be…preoccupied with other business.
+[NPC] Relliom: So preoccupied, in fact, that he seems to have forgotten a few more orders.
+[NPC] Relliom: You will pick them up and deliver them to me.
+[NPC] Relliom: Take these to the people they are addressed to and do not come back until you have them all.
+
+[To] Willam Chorind
+
+[NPC Internal] gives Willam the order from Jeroric.
+[NPC Narrate] -Willam opens the envelope and pulls out a page, reading it over.-
+[NPC] Willam: Finally, he was supposed to pick this up hours ago.
+[NPC] Willam: I do hope he's all right.
+[NPC] Willam: He comes around every few months to deliver spices and make a deposit, but he's been acting very strange these last few visits.
+[NPC] Willam: Could you ask about him for me?
+[NPC Internal] Sure, I'll ask as soon as I see him.
+[NPC] Willam: Thank you and here you go.
+[NPC Narrate] -William hands you a box.-
+[NPC] Willam: Always looking over his shoulder the last I saw him…
+[NPC] Willam: poor fellow.
+[NPC Narrate] -Willam shakes his head.-
+[NPC] Willam: I do hope everything is alright.
+
+[To] Amidison Stronghand
+
+[NPC Internal] gives Amidison the order from Jeroric.
+[NPC Narrate] -Amidison looks you up and down before turning her attention to the scroll.-
+[NPC] Amidison: It's very odd that Jeroric had me do this for him.
+[NPC] Amidison: His business has been doing well from what I heard.
+[NPC] Amidison: Have you any idea why he's been acting so oddly?
+[NPC Internal] Yes I know.
+[NPC] Amidison: So, there is a reason?
+[NPC Narrate] -Amidison thinks for a moment.-
+[NPC] Amidison: Don't tell me, I've no need to pry.
+[NPC Narrate] -Amidison hands you an envelope.-
+[NPC] Amidison: Here you go.
+
+[To] Jefecra Harcrit
+
+[NPC Internal] gives Jefecra the order from Jeroric.
+[NPC Narrate] -Jefecra breaks the seal on the scroll and reads it.-
+[NPC] Jefecra: Well…okay, here you go.
+[NPC] Jefecra: Quite the expensive piece, but the money he sent more than covered it.
+[NPC Narrate] -Jefecra hands you an intricate looking dagger.-
+[NPC] Jefecra: Was very odd that Jeroric asked me for this, as we only talk once in a while when he passes through.
+[NPC] Jefecra: But I guess he knew I had contacts.
+[NPC] Jefecra: Wonder what he needs it for…
+[NPC Narrate] -Jefecra chuckles.-
+[NPC] Jefecra: The ways of the rich, eh?
+
+[To] Relliom
+
+[NPC Internal] Here are all the items.
+[NPC] Relliom: Very well done.
+[NPC] Relliom: Your value is rising in my eyes.
+[NPC Narrate] -Relliom turns the dagger over in his hands, admiring it.-
+[NPC] Relliom: Interesting thing, eh?
+[NPC] Relliom: Jeroric seems to want the oddest items lately…as far as those fools are concerned.
+[NPC] Relliom: We know better though.
+[NPC Narrate] -Relliom laughs and sets the dagger on top of the box from Willam before picking up the letter.-
+[NPC] Relliom: Hmm…I wager Jeroric would like to know what this says.
+[NPC] Relliom: Too bad he will never find out.
+[NPC Narrate] -Relliom gives you a thoughtful look.-
+[NPC] Relliom: All that running around might make one curious.
+[NPC] Relliom: I must ask.
+[NPC] Relliom: Do you have any questions, queries, or something else tickling the back of your mind?
+[NPC] Relliom: Perhaps you would like to know about Jeroric, since you will not be meeting him personally?
+[NPC] Relliom: Ask, and I will answer.
+[NPC Internal] No questions.
+[NPC Narrate] -Relliom smiles.-
+[NPC] Relliom: Good, good.
+[NPC] Relliom: Curiosity is a dangerous thing down here.
+[NPC] Relliom: Here is a little something for your unquestioning obedience.
+[NPC Narrate] -Relliom reaches into an oddly familiar box and hands you some coins.-
+[NPC] Relliom: I will see you again after you have proven your worth to the others, YOU.
+
+[Reward] [Money] 7310; [XP] 15000; [Faction] 55, Cabal of Whispers
+

@@ -1,0 +1,376 @@
+[Questname] An Unclear Message
+[NPC Name] Levrus Dahrenn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Botany of the Deeps; [Winch] Yes
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I was told you can tell me about nolthrir magic.
+[NPC] Levrus: Were you now?
+[NPC] Levrus: I am neither a nolthrir nor a blue way master, so I might not be the best informed.
+[NPC Narrate] -He lifts a small potion from the desk next to him and looks at it for a moment.-
+[NPC] Levrus: But if you are sure you want my help, let us see what we can do.
+[NPC Internal] Of course I want your help.
+[NPC] Levrus: Yes, of course you do.
+[NPC Narrate] -The potion makes an odd bubbling sound and he quickly puts it down again.-
+[NPC] Levrus: But tell me, who suggested you come to me?
+[NPC Internal] It was Crosh.
+[NPC] Levrus: Crosh?
+[NPC Narrate] -Levrus suddenly smiles, the bubbling potion forgotten.-
+[NPC] Levrus: There are so many better people to ask, but you followed Crosh's advice.
+[NPC Narrate] -He laughs slightly, then falls quiet, his voice becoming serious and concerned.-
+[NPC] Levrus: But then I suppose you would act on the words of a rabid gobble without pausing to think as well?
+[NPC Internal] No, I wouldn't.
+[NPC] Levrus: So you do have some intelligence after all then perhaps.
+[NPC] Levrus: I will assume you only came to me out of appreciation for my vast knowledge.
+[NPC Narrate] -Next to Levrus the liquid in the potion begins to seep over the rim of the bottle.-
+[NPC] Levrus: I will help you.
+[NPC Internal] So what can you tell me?
+[NPC] Levrus: Well, the nolthrir have an affinity for blue way magic.
+[NPC] Levrus: I've heard it said they learn its use far more easily than mages of any other race.
+[NPC] Levrus: On the other hand, they struggle with red way magic, but really, you'd need to speak to a nolthrir or a blue way specialist to learn anything more.
+[NPC Internal] And which nolthrir should I speak to?
+[NPC] Levrus: Well, since I heard Lyrus is working on some new jewelry she will no doubt be far too busy to help you now.
+[NPC Narrate] -Levrus slides his arm along the desk and through the spilled potion without realising it.-
+[NPC] Levrus: And I suggest that you avoid that Niala creature upstairs.
+[NPC] Levrus: In fact, it would be quite rude of you to disrespect my wishes by speaking to her again.
+[NPC Narrate] -He starts scratching his arm absently.-
+[NPC] Levrus: What you should do is speak to one of the nolthrir merchants who bring fish to the Dome to sell.
+[NPC] Levrus: There is a representative of a fishing guild staying in Hydlaa at the moment I believe.
+[NPC Internal] Do you know where I can find them?
+[NPC] Levrus: Well, as nolthrir merchants, especially those with fresh goods, use the Winch for transport, you might wish to start your search there.
+[NPC] Levrus: It's probably the only way for them to move things to the Dome from the lower levels quickly enough to stop them spoiling.
+[NPC Narrate] -He continues to scratch at his arm.-
+[NPC] Levrus: I think I heard that you are welcomed there, so this should not be hard for you.
+[NPC Internal] What is the merchant's name?
+[NPC] Levrus: I think I'm the wrong person to ask, but there are not so many nolthrir around.
+[NPC] Levrus: Ask whichever you can find about magic or the fishing guild, just as long as it's not…
+[NPC Narrate] -He looks up at the ceiling and frowns.-
+[NPC] Levrus: …Her.
+
+[Info] This part is optional.
+
+[To] Niala Xanao
+
+[NPC Internal] Can you tell me about nolthrir magic?
+[NPC] Niala: At the moment, I doubt I can focus enough to explain.
+[NPC Narrate] -She folds her arms.-
+[NPC] Niala: Levrus has become quite difficult to handle.
+[NPC Internal] What did Levrus do to upset you?
+[NPC] Niala: He complains that I disturb him, while at the same time he bangs against things preventing myself and the others here from focusing on their work.
+[NPC] Niala: I think he does not understand how easily noise carries.
+[NPC Narrate] -She makes a dismissive motion with her hands.-
+[NPC] Niala: But it's not of your concern.
+[NPC] Niala: We'll handle it, in time.
+
+[Info] This part is optional.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Have you been disturbing Niala?
+[NPC] Levrus: You spoke to her?
+[NPC] Levrus: I did tell you not to speak to her!
+[NPC Narrate] -He swings his arm across the desk and knocks the bubbling potion to the floor.-
+[NPC] Levrus: You need to learn not to interfere.
+[NPC Narrate] -He rummages in a box and pulls out a wand, then stretches up and hits the end of it against the ceiling.-
+[NPC] Levrus: She deserves it for telling such tales!
+[NPC] Levrus: I would have expected someone with such a keen interest in magic to understand.
+[NPC Narrate] -He waves the wand at you.-
+[NPC] Levrus: Now off with you.
+[NPC] Levrus: Go and find one of those nothrir to help you.
+
+[To] Hygrnn
+
+[NPC Internal] Hello. Are you a member of the fishing guild?
+[NPC] Hygrnn: The Flying Fishers Merchant Guild to be precise.
+[NPC] Hygrnn: Hygrnn at your service.
+[NPC Narrate] -He makes a slightly rushed but very graceful bow.-
+[NPC] Hygrnn: Perhaps I can be of service my good Enkidukai?
+[NPC] Hygrnn: Did you have some business with us?
+[NPC] Hygrnn: Though right now I fear I might be hard pressed to grant immediate assistance.
+[NPC Internal] Is something wrong?
+[NPC] Hygrnn: It's merely a personal issue.
+[NPC Narrate] -He lowers his head again, perhaps to hide his expression for a moment.-
+[NPC] Hygrnn: But there is no harm in honesty I suppose, my good Enkidukai, and I have received a letter from home which implies grave misfortunes.
+[NPC] Hygrnn: I am very worried for my family, and I am trying to find a way to confirm if they are well.
+[NPC] Hygrnn: The letter, you see, was badly damaged before it arrived and I am unable to read all of the text.
+[NPC Narrate] -He shows you the letter.-
+[NPC] Hygrnn: It's in my daughter's writing and there's something about her being “deeply concerned” in front of some words that I can't read.
+[NPC] Hygrnn: Then it says “has been injured beyond all hope of survival.” So I am sure you can understand my lack of desire to look for new business prospects.
+[NPC Internal] Why don't you go back to her to find out?
+[NPC] Hygrnn: I am here as the official representative of our guild.
+[NPC Narrate] -He shakes his head a little sadly.-
+[NPC] Hygrnn: If I leave before I have secured trade arrangements with Vigesimi Stronghand our whole stock could spoil before we are able to bring it to market.
+[NPC] Hygrnn: The loss from this would ruin my family even if no other ills have found them.
+[NPC Narrate] -He shrugs his shoulders.-
+[NPC] Hygrnn: My hands are tied as I would lose my contracts at the plantations.
+[NPC] Hygrnn: This is our main industry friend and you must appreciate how damaging it would be to all of those on our level if we lost so large a crop without profit.
+[NPC] Hygrnn: I do not dare leave now, not for anything.
+[NPC Internal] Is there any way I can help?
+[NPC] Hygrnn: No.
+[NPC Narrate] -He shakes his head.-
+[NPC] Hygrnn: I don't believe there is.
+[NPC] Hygrnn: You must forgive my rambling however, and tell to me what it is you needed.
+[NPC] Hygrnn: For your kindness in listening to me I should at least hear your request.
+[NPC Internal] I wanted to learn about the nolthrirs' use of magic.
+[NPC] Hygrnn: I'm sorry.
+[NPC Narrate] -He frowns slightly.-
+[NPC] Hygrnn: Under different circumstances.
+[NPC] Hygrnn: If things were not like this.
+[NPC] Hygrnn: I'm sure you must understand good Enkidukai.
+[NPC] Hygrnn: Perhaps you should seek out the proprietor of the magic shop if you did not speak with him yet?
+[NPC] Hygrnn: I have heard he knows many things.
+[NPC Internal] I understand. I'll find someone else to ask.
+[NPC] Hygrnn: Wait…
+[NPC Narrate] -He breathes in sharply then speaks quietly to himself.-
+[NPC] Hygrnn: Blue way magic.
+[NPC] Hygrnn: Why did I not consider this course of action myself?
+[NPC Narrate] -He meets your eyes.-
+[NPC] Hygrnn: My friend, there may be a way to set my mind to ease.
+[NPC] Hygrnn: I can not leave here myself due to the trade negotiations, but would you be willing to carry a request to someone on my behalf?
+[NPC Internal] I'll help you.
+[NPC] Hygrnn: Thank you.
+[NPC Narrate] -He instantly appears more relaxed.-
+[NPC] Hygrnn: I remembered that blue way mages often have the ability to see the true natures of unclear things.
+[NPC] Hygrnn: There is a certain glyph, if I recall correctly, which helps greatly with such tasks.
+[NPC] Hygrnn: As it is hard to ask for help without knowing exactly what to ask for first, I need you to find out the name of this glyph for me.
+[NPC Internal] divination
+[NPC] Hygrnn: Yes!
+[NPC] Hygrnn: That sounds right.
+[NPC] Hygrnn: How could I have forgotten the name at such a time?
+[NPC Narrate] -He turns from you and begins to write out a letter on a clean and neat piece of parchment.-
+[NPC] Hygrnn: You have shown me you possess enough knowledge of the blue way that we can now pass on my request, if you are still happy to proceed.
+[NPC Internal] I am happy to.
+[NPC] Hygrnn: You have my gratitude.
+[NPC Narrate] -He holds out the carefully folded letter.-
+[NPC] Hygrnn: Please take this to Archmaster Barrin Dhorod in East Hydlaa.
+[NPC] Hygrnn: If there is anything at all that he requires for his services return to me at once my good Enkidukai and it will be provided.
+
+[To] Barrin Dhorod
+
+[NPC Internal] I was told you can help me.
+[NPC] Barrin: It's likely that I could help a great many people.
+[NPC Narrate] -He smiles, just slightly and with no hint that his statement is boastful.-
+[NPC] Barrin: Blue way magic of course has very beneficial capabilities, but you will have to be specific as to what you require.
+[NPC Internal] This letter should explain.
+[NPC] Barrin: What is this?
+[NPC Narrate] -He unfolds the letter and reads.-
+[NPC] Barrin: Potential trouble at home.
+[NPC] Barrin: Someone he knows perhaps injured.
+[NPC] Barrin: These may truly be grievous tidings, but with the damage to the letter that he received, all is unclear.
+[NPC Narrate] -Barrin meets your eyes.-
+[NPC] Barrin: Tell me now, due to the distance he would need to travel back to the lower levels where the nolthrir make their homes, does he hope that I will use my magic to divine the truth of this situation and so save him the uncertain journey?
+[NPC Internal] Yes, he said you could use the divination glyph.
+[NPC] Barrin: This would be possible, under the right circumstances and with the correct knowledge of the situation.
+[NPC Narrate] -He folds Hygrnn's letter, carefully and neatly and slides it away.-
+[NPC] Barrin: Hygrnn will need to tell us more.
+[NPC] Barrin: The nolthrir I believe are fond of saying that one must follow the flow of things, so he will understand that we must not move against the currents in this.
+[NPC] Barrin: But firstly, you should tell me, do you have a divination glyph?
+[NPC Internal] I have a divination glyph.
+[NPC] Barrin: Good.
+[NPC] Barrin: Your progression in the way should be enough that you know better than to ask irritating questions while I work.
+[NPC] Barrin: However, I will require that you gather everything needed while I prepare.
+[NPC Internal] Tell me what you need.
+[NPC] Barrin: For this, several things.
+[NPC] Barrin: First you must bring me the letter that Hygrnn received.
+[NPC] Barrin: I will need to see it for myself if I am to find out the original words it carried.
+[NPC Narrate] -He falls silent for a moment but holds up a hand to indicate he is not finished.-
+[NPC] Barrin: You must also ask him which level it was sent from.
+[NPC] Barrin: Then ask him to describe this level, specifically the area where it was likely written.
+[NPC Narrate] -He begins to shake his head.-
+[NPC] Barrin: But this won't be enough.
+[NPC] Barrin: I will need to be able to envision this area in relation to the level it is on.
+[NPC] Barrin: This can be handled if you go to the library and speak to Jayose.
+[NPC] Barrin: You can bring me the books I have ordered from him.
+[NPC] Barrin: Also ask him to add an additional book called Layout of the Lower Levels.
+[NPC] Barrin: This should give me the information that I need.
+
+[To] Jayose
+
+[NPC Internal] Barrin sent me to collect his order.
+[NPC] Jayose: Did he?
+[NPC Narrate] -Jayose points to a small and tidy stack of books nearby.-
+[NPC] Jayose: He did tell me someone would pick them up today.
+[NPC] Jayose: Take them then.
+[NPC] Jayose: I need the space.
+[NPC Internal] Barrin said he also wants a copy of Layout of the Lower Levels.
+[NPC] Jayose: This was not in his original order.
+[NPC] Jayose: But it happens that I have a spare copy here for an order that was recently cancelled.
+[NPC Narrate] -He hands you a book.-
+[NPC] Jayose: I will add the charge to the rest he owes me.
+
+[To] Hygrnn
+
+[NPC Internal] Barrin told me he will need the letter.
+[NPC] Hygrnn: Kind Enkidukai, it is good to see you returned.
+[NPC] Hygrnn: I realised when you left that perhaps it would be required.
+[NPC Narrate] -He holds out the letter.-
+[NPC] Hygrnn: But please, I would ask that you promise to take good care of it.
+[NPC Internal] You have my word.
+[NPC] Hygrnn: Then you have even more of my gratitude in return.
+[NPC Narrate] -He passes the letter across to you.-
+[NPC] Hygrnn: Please return to Barrin with all speed.
+[NPC] Hygrnn: I would hate to enter into negotiations with the vigesimi before answers are found.
+[NPC Internal] He also wanted to know which level the message was sent from.
+[NPC] Hygrnn: Of course.
+[NPC] Hygrnn: She usually lives on the Shore level, but she had returned to the Lower Field to help us harvest some crops.
+[NPC] Hygrnn: That's where she would have written this I believe.
+[NPC Narrate] -He gives a worried smile.-
+[NPC] Hygrnn: I hope this will help Archmaster Dhorod.
+[NPC Internal] Can you describe the Lower Field?
+[NPC] Hygrnn: Well, it floods frequently and most other races find it unpleasant to remain for long.
+[NPC] Hygrnn: My home is right on the water's edge and so it's often flooded, but this is good and healthy for the crops we grow.
+
+[To] Barrin Dhorod
+
+[NPC Internal] I have what you asked for.
+[NPC] Barrin: This is pleasing.
+[NPC Narrate] -He holds up a divination glyph to show you.-
+[NPC] Barrin: And I am now prepared.
+[NPC] Barrin: So first of all, please give me my books.
+[NPC Internal] Here are your books.
+[NPC] Barrin: Very good.
+[NPC Narrate] -He takes them from you carefully then looks at you over the top of the books after peering at their spines.-
+[NPC] Barrin: You remembered the extra book as well.
+[NPC] Barrin: You are impressively efficient.
+[NPC Narrate] -He lowers the books then holds out his hand.-
+[NPC] Barrin: Now, where is this letter?
+[NPC Internal] This is the letter.
+[NPC] Barrin: Ah, just from the texture of the paper I can tell it was sent from the Shore or Lower Field.
+[NPC Narrate] -He runs his fingers over the letter surprisingly gently.-
+[NPC] Barrin: The nolthrir there have trouble with regular paper due to the moisture in the air.
+[NPC] Barrin: The environment is not overly friendly to people or items that are not aquatic like them, and those wanting written records of business have to invest in paper with this special finish which protects it against the humidity of the Shore.
+[NPC Narrate] -He turns the note in his hands.-
+[NPC] Barrin: But which level was it sent from?
+[NPC] Barrin: The Shore or Lower Field?
+[NPC Narrate] -He looks up from the letter again.-
+[NPC] Barrin: You have some more walking to do if you forgot to ask.
+[NPC Internal] From the Lower Field.
+[NPC] Barrin: That would be most likely, yes.
+[NPC Narrate] -He finally begins to read the letter.-
+[NPC] Barrin: Did you ask him to describe the place she'd have sent it from?
+[NPC] Barrin: This is a thing I need you to check with him right away if you didn't do it yet.
+[NPC Internal] The water's edge where it often floods.
+[NPC] Barrin: The best place to grow certain crops.
+[NPC Narrate] -He nods while opening the copy of Layout of the Lower Levels and then turns a few pages.-
+[NPC] Barrin: I think I can visualise it well enough now to try and use divination.
+[NPC] Barrin: You must be patient while I work though.
+[NPC] Barrin: The magic moves at its own speed, do you understand?
+[NPC Internal] I understand.
+[NPC] Barrin: Then I shall try.
+[NPC Narrate] -He places the book down to hold the letter with both hands for a moment, before raising a glyph and closing his eyes.-
+[NPC] Barrin: She was sad while writing.
+[NPC Narrate] -He speaks slowly with no emotion, as though his attention is very far away.-
+[NPC] Barrin: And she asked the messenger to travel swiftly.
+[NPC] Barrin: The messenger tried.
+[NPC] Barrin: He placed the letter away in his bag, but the bag was ripped and he didn't know.
+[NPC] Barrin: The damp crept in.
+[NPC Internal] It made the ink run?
+[NPC] Barrin: Yes.
+[NPC] Barrin: Here is the source of the damage.
+[NPC] Barrin: The messenger was on the Shore when it was done.
+[NPC Narrate] -His closed eyes tighten slightly.-
+[NPC] Barrin: But now we must look further back, to see the words before they ran.
+[NPC] Barrin: I see…
+[NPC] Barrin: I see…
+[NPC Internal] What do you see?
+[NPC] Barrin: I see…
+[NPC Narrate] -He sways a little.-
+[NPC] Barrin: I'm having trouble focusing.
+[NPC] Barrin: There are plants near the water's edge.
+[NPC] Barrin: Fruits on them.
+[NPC] Barrin: Small.
+[NPC] Barrin: Round.
+[NPC] Barrin: Important somehow.
+[NPC] Barrin: What are they?
+[NPC Internal] A book in the library mentions edgeberries.
+[NPC] Barrin: Ah, so you have been doing some reading then?
+[NPC] Barrin: But I need more to help my vision.
+[NPC] Barrin: What are they used for?
+[NPC Internal] The nolthrir use them to sweeten food.
+[NPC] Barrin: That's right!
+[NPC Narrate] -He seems to relax slightly.-
+[NPC] Barrin: My vision is clearing now.
+[NPC] Barrin: I can see her writing.
+[NPC] Barrin: I think I understand.
+[NPC Internal] What was she writing?
+[NPC] Barrin: Not so fast.
+[NPC] Barrin: I can see her writing it.
+[NPC] Barrin: Hygrnn's daughter.
+[NPC Narrate] -He nods his head a little as he speaks.-
+[NPC] Barrin: She wore a beautiful ring.
+[NPC] Barrin: A green stone.
+[NPC] Barrin: Something special to her family.
+[NPC] Barrin: To her kind.
+[NPC] Barrin: Do you know what the stone was?
+[NPC Internal] A deep emerald perhaps?
+[NPC] Barrin: That could be right.
+[NPC] Barrin: She was worried.
+[NPC] Barrin: Worried she'd need to sell it.
+[NPC] Barrin: Such a beautiful thing, carved of deep water stones and so rare.
+[NPC] Barrin: She was scared her father would be sad if it was lost, but she couldn't think of anything else they might be able to sell.
+[NPC Internal] Why was she thinking about selling it?
+[NPC] Barrin: You remember what could be read of Hygrnn's letter, do you not?
+[NPC Narrate] -He suddenly opens his eyes and looks deeply into your own.-
+[NPC] Barrin: Those words that made him so very concerned for those he loves?
+[NPC Narrate] -Barrin smiles suddenly.-
+[NPC] Barrin: You can tell him his family is safe for now, as long he is successful in his current dealings here in Hydlaa.
+[NPC] Barrin: You see, the thing that “has been injured beyond all hope of survival” is the edgeberry crop he left his daughter to care for.
+[NPC] Barrin: She is considering selling her ring to pay for the losses it will cause their family.
+[NPC Narrate] -Barrin raises a hand and motions for you to move away.-
+[NPC] Barrin: You should go and tell him quickly.
+[NPC] Barrin: As much as this will cause him to worry for his business, it will set his heart to ease.
+[NPC] Barrin: He needs to know.
+[NPC] Barrin: Take this back for him.
+
+[To] Hygrnn
+
+[NPC Internal] Barrin explained what the letter means.
+[NPC] Hygrnn: Then he has used his magic to view my family's wellbeing?
+[NPC Narrate] -He takes the letter and you can see his hand shaking slightly.-
+[NPC] Hygrnn: Please, tell me what I need to know.
+[NPC Internal] Barrin said the thing injured is your edgeberry crop.
+[NPC] Hygrnn: The edgeberries?
+[NPC] Hygrnn: I was so worried that I didn't consider my daughter could be referring to the business and not the people.
+[NPC Narrate] -He holds the letter tightly to himself as though now it reassures instead of worries him.-
+[NPC] Hygrnn: I owe you for this my good Enkidukai.
+[NPC] Hygrnn: Though it seems I will have to be more careful than ever to win this contract from the vigesimi, but this is a small concern compared to what the letter might have said.
+[NPC] Hygrnn: My friend, may I ask one last service of you?
+[NPC Internal] Just tell me what you need.
+[NPC] Hygrnn: My meeting with the vigesimi is very soon, but I must also see to it that Archmaster Dhorod is paid for his services.
+[NPC] Hygrnn: Will you please take my payment to him so that I will not risk missing my appointment?
+[NPC Internal] I'll take the payment.
+[NPC] Hygrnn: Thank you.
+[NPC] Hygrnn: You have proven you are trustworthy so I have no hesitation passing this to you.
+[NPC Narrate] -He hands you a small bag of tria.-
+[NPC] Hygrnn: Please give him my thanks.
+[NPC Narrate] -He seems to consider for a moment, then hands you several loose coins as well.-
+[NPC] Hygrnn: And these are for your own services.
+[NPC] Hygrnn: A few more than I originally planned to give you my good Enkidukai, but as you prioritised my problems above your wish for payment it is only fair.
+[NPC Narrate] -He bows his head to you.-
+[NPC] Hygrnn: Be safe friend.
+
+[To] Barrin Dhorod
+
+[NPC Internal] Hygrnn wanted me to give you this as payment.
+[NPC] Barrin: So he is respectful of the blue was as most nolthrir are, even if he does not practice it himself.
+[NPC] Barrin: This of course is why I was willing to work before you brought payment to me.
+[NPC Narrate] -Barrin weighs the bag in his hand.-
+[NPC] Barrin: The payment is actually rather more than adequate, considering that you did all the running around for me.
+[NPC Narrate] -He falls silent and studies you, his voice changing tone.-
+[NPC] Barrin: Tell me, after all of this, do you have interest in learning more about blue way magic?
+[NPC Internal] Yes.
+[NPC] Barrin: That is good to hear then.
+[NPC] Barrin: Blue way has more to offer than most realise and it would be good to see it more widely studied here, as it is on the Lower Field.
+[NPC Narrate] -He smiles to you and for the first time his smile seems fully pleased.-
+[NPC] Barrin: I have something to give you which might help toward this goal.
+[NPC Internal] What do you have for me?
+[NPC] Barrin: I was able to acquire a spare divination glyph.
+[NPC Narrate] -He holds it out to you.-
+[NPC] Barrin: You will find it is able to vastly broaden a person's sight in many ways.
+[NPC] Barrin: Be careful with it and you may learn great things in time.
+
+[Reward] [Money] 10000; [XP] 15000; [OR Begin] [Item] 1, Divination glyph [OR] [Item] 1, Sphere glyph [OR End]; [Faction] 30, Nolthrir
+

@@ -1,0 +1,98 @@
+Need: 2 Azure way adepts staff, 1 apprentices robe, the adept quests, Fire Glyph, Arrow Glyph, Armor Glyph.
+
+Info: You will get the glyphs, the Azure Way Apprentice's Robe and the Azure Way Adept's staff back.
+
+You say: Here are the items as requested.
+You say: Here are the items as requested.
+Menita says: Today, you become a Master rank in the Azure Way.
+Menita hands you back one staff and the robe, but keeps yours and puts it aside.
+Menita says: Return those to their owners, followers of your same path.
+Menita closes her eyes for only a moment.
+Menita says: But there are other paths, some of them support Azure Way, others...
+Menita says: not.
+Menita says: You will soon require the aid of practitioners and students from the supporting Ways.
+Menita says: Speak to them.
+Menita says: These bonds will become important in the coming tests.
+You say: I'd like to know more.
+Menita says: Not now.
+Menita says: First, I need something from you.
+- She stares, and pauses for a long heartbeat. -
+Menita says: Go to Brintec Dev-Onni.
+Menita says: Solve his problem.
+Menita says: And...
+Menita says: be careful.
+You say: Menita sent me here to help you out.
+Brintec Dev-Onni says: Menita?
+Brintec Dev-Onni frowns staring at you.
+Brintec Dev-Onni says: An Azure Way member?
+Brintec Dev-Onni says: Very well.
+Brintec Dev-Onni says: Tell me what I did the third day of this month.
+Brintec Dev-Onni says: Because I just forgot and no one can tell me where I was.
+You say: Please, be patient, when did you recognize you had lost the memory?
+Brintec Dev-Onni says: I've not lost my memory.
+Brintec Dev-Onni says: One of your fellows took it out!
+Brintec Dev-Onni stares at you angrily for some moments, then he relax a bit.
+Brintec Dev-Onni says: I don't know.
+Brintec Dev-Onni says: I had a strange dream, I was running through Ojaveda and where ever I run i always arrive in front of closed doors.
+Brintec Dev-Onni says: Then I stop.
+Brintec Dev-Onni says: I felt a growing fear and I flee.
+Brintec Dev-Onni says: But I do not know what this fear is.
+Brintec Dev-Onni says: I think it is something obvious, but I don't remember.
+You say: I'm curious now, please tell me what you remember.
+Brintec Dev-Onni says: Ehe.
+Brintec Dev-Onni's face becomes reddish.
+Brintec Dev-Onni says: I made something shameful...
+Brintec Dev-Onni says: or, well I was in love...
+Brintec Dev-Onni says: oh come on.
+Brintec Dev-Onni says: I was sad because a woman said no.
+Brintec Dev-Onni says: And I drank too much, so the day after I avoided work.
+Brintec Dev-Onni says: That's it, nothing else.
+Brintec Dev-Onni says: Please do not ask more.
+Brintec Dev-Onni says: I think you know her, and I prefer to maintain privacy.
+You say: I solved the problem, Brintec is fine now.
+Menita says: I know.
+Menita says: Now, you have to leave me.
+Menita says: Quickly.
+You say: Where you want me to go?
+Menita says: Free your thoughts.
+Menita says: And in the meantime try to do something else.
+Menita says: Bring me two glyph that Levrus sells, each from one of the Azure Way's supporting Ways.
+You say: I believe these are the two glyphs.
+Menita nods.
+Menita says: In combining spells, you will at times need glyphs from other Ways.
+Menita says: On their own, each Way is limited in power.
+Menita says: Only in combination will you find the most powerful spells 
+Menita hands back the glyphs.
+Menita says: Although Azure Way is the most perfect Way supporting even ways that do not support it, no Way of magic is complete without the other Ways.
+Menita's eyes move to you once more.
+Menita says: This is known to include supporting Ways, neutral, and opposing.
+Menita says: Dark and Blue Way are neutral to Azure, neither greatly aiding nor impeding, though Azure is used for tempering some of their combinations.
+Menita says: For every coin, there exists two sides.
+Menita says: For Azure, this opposing side is the Brown Way.
+Menita says: For your last task today, I will ask you to give me the Brown Way Glyph that Levrus sells.
+You say: Would it be this one?
+Menita nods and hands you the glyph back.
+Menita says: Azure and Brown Way Circles are not enemies.
+Menita says: However, the magic contained within them collides.
+Menita says: Trying to combine opposing Ways can be dangerous, or even deadly.
+Menita says: You may train the supporting ways within a realm or so of Azure Way, but I advise you to limit any Brown Way training to a minimum.
+Menita says: If you train too high in the Brown Way, you risk being removed from the Azure Way Circle.
+Menita's eyes drift slowly to gaze off towards Ojaveda.
+Menita says: There is a lesson to be learned on a high hill towards Ojaveda.
+Menita says: A powerful man once thought he could challenge the gods by combining all magic Ways.
+Menita says: That hill was once much taller.
+Menita says: We will speak of it later when I decide you are ready.
+Menita says: Now it is time to complete this step.
+You say: Mistress Menita, I am ready to continue my path.
+Menita says: Very well.
+Menita says: You will show me this new staff every time you are ready for your next test session.
+Menita says: I also want you to have this as a personal gift from me.
+Menita flicks you a glyph, barely giving you time to catch it.
+Menita says: As a new Master of the Azure Way hand me your Master's staff when you think you are ready, and if I agree with that assumption I will accept it.
+
+(22:45:58) [System] >You have received a Master's Azure Way Staff.
+(22:45:58) [System] >You have received a Gas Glyph.
+(22:45:58) [System] >You gained 13600 experience points and 68 progression points!
+(22:45:58) [System] >Your faction with Azure Order has improved by 25.
+(22:45:58) [System] >Quest Completed!
+(22:45:58) [System] >You have completed the Azure Way Master Training quest!

@@ -1,0 +1,94 @@
+[Questname] Pinayet Misses His Friend
+[NPC Name] Brado
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Sending a Letter Home
+
+[NPC Internal] Hiya Ullavin, how are you?
+[NPC] Jardet: YOU!
+[NPC] Jardet: Always good to see you.
+[NPC] Jardet: Would you like to do some more work for me?
+[NPC Internal] Of course, how can I help?
+[NPC] Jardet: I knew you would help.
+[NPC] Jardet: You see, I just got a letter from my old friend Beniua Busuka over at the Eagle Bronze Doors.
+[NPC] Jardet: I've been bragging to her about Brado's cider for ages, and now she's talking about having some shipped to her on the next caravan!
+[NPC] Jardet: Well, I don't want her to have to do that, so I was hoping you could pick some up from Brado and take it to her.
+[NPC] Jardet: Of course I'll give you something for your time.
+[NPC Narrate] -Pinayet hands you a slip of paper.-
+[NPC] Jardet: There you go!
+[NPC] Jardet: That's a payment note.
+[NPC] Jardet: Just give it to Brado and he'll give you a small crate of cider.
+[NPC] Jardet: When you get to Beniua, just give her the crate.
+
+[To] Brado
+
+[NPC Internal] I am here to collect a crate of cider.
+[NPC] Brado: Pinayet's a good sort.
+[NPC] Brado: I'm always glad to help him out.
+[NPC] Brado: Here's the cider.
+[NPC Narrate] -Brado hands you a small crate.-
+
+[To] Beniua Busuka
+
+[NPC Internal] I have a delivery for you.
+[NPC Narrate] -Beniua seems surprised but accepts the crate.-
+[NPC] Beniua: A delivery?
+[NPC] Beniua: Please, tell me who sent it.
+[NPC Internal] pinayet
+[NPC] Beniua: How very thoughtful of him, but that's Pinayet's way.
+[NPC Narrate] -Beniua opens the crate and claps her hands.-
+[NPC] Beniua: Brado's cider from Ojaveda!
+[NPC] Beniua: What a wonderful gift.
+[NPC] Beniua: I was just going to request some from the next caravan heading that way.
+[NPC Narrate] -Beniua looks at you and gives you a soft smile.-
+[NPC] Beniua: Pinayet must think well of you to trust you to do this thing.
+[NPC] Beniua: Do you think the same of him, I wonder?
+[NPC] Beniua: You should make the effort to get to know him, he is much more than he seems.
+[NPC] Beniua: Before you go back to him, visit Toda Ombretis in Ojaveda and ask her about Pinayet.
+[NPC] Beniua: You might be surprised.
+
+[To] Toda Ombretis
+
+[NPC Internal] What do you know about Pinayet Ullavin?
+[NPC] Toda: Ynnwn, didn't you ever wonder why Pinayet Ullavin is the only Ojaveda guard who is not an Enkidukai?
+[NPC] Toda: It's because he earned it, and the respect of every Enkidukai in Ojaveda in the process.
+[NPC] Toda: Pinayet Ullavin nearly lost his life saving the twin daughters of Vigesimi Torkesyn Rabani.
+[NPC] Toda: The twins wandered off while the family was having an outdoor party by the banks of the Irifon River.
+[NPC] Toda: Pinayet was making his way to Ojaveda, looking for work as a sell-sword, when he saw the Vigesimi's two lost cubs being stalked by a pair of serpent gobbles.
+[NPC] Toda: He put himself between the girls and the gobbles and a fierce battle commenced.
+[NPC Narrate] -Toda pauses a moment to study your expression.-
+[NPC Internal] So what did he do?
+[NPC] Toda: Pinayet had nothing but his father's old axe, used for felling trees, but with that he killed both gobbles.
+[NPC] Toda: The party heard the noises and soon found the twins, crying but unhurt.
+[NPC] Toda: Pinayet, however, was badly wounded.
+[NPC] Toda: The Vigesimi had Pinayet taken back to his own ultic, where he was cared for until he recovered.
+[NPC] Toda: As soon as he was well, Pinayet was given a place in the Ojaveda guard.
+[NPC] Toda: He has served with honour there ever since, as anyone in Ojaveda will tell you.
+[NPC] Toda: You really should go to Pinayet and ask him about the Rabani twins.
+[NPC] Toda: It would do him good to talk about it.
+
+[To] Pinayet Ullavin
+
+[NPC Internal] Tell me about the Rabani twins?
+[NPC Narrate] -Pinayet blushes a deep red.-
+[NPC] Pinayet: Gracious, how I love Ojaveda.
+[NPC] Pinayet: I just did what any person would do, but everyone here still talks about it like I was some noble warrior.
+[NPC] Pinayet: They healed me.
+[NPC] Pinayet: They gave me a job I love.
+[NPC] Pinayet: I owe them much more than they owe me.
+[NPC] Pinayet: That's that.
+[NPC Narrate] -Pinayet shuffles his feet, smiles and looks at you.-
+[NPC] Pinayet: Did Beniua get her cider?
+[NPC Internal] Yes she did.
+[NPC] Pinayet: Well, then, I hope she likes it as much as I told her she would.
+[NPC] Pinayet: Here is your payment, friend.
+[NPC Narrate] -Pinayet hands you a few tria.-
+[NPC] Pinayet: YOU, you have been a great help to the guards both here and in Hydlaa.
+[NPC] Pinayet: I know that some current and past Guards from the Eagle head fortress have been impressed.
+[NPC] Pinayet: You should head up to the Fortress and speak to people like Beniua Busuka, Rylour Awnnys, Tarmeen Alecheech, Sierann, and Nkel who I think is stationed in a guard tower.
+[NPC] Pinayet: There is also a retired dwarf in Hydlaa who might give you a few tasks now you have proven yourself, has a last name of Bloodaxe.
+[NPC] Pinayet: Good luck.
+
+[Reward] [Money] 7310; [XP] 15000; [Faction] 30, Guard
+

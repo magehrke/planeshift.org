@@ -1,0 +1,70 @@
+[Questname] The Dark Way Apprentice
+[NPC Name] Oriven Thamel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Dark Wanderer wants the Messenger Bag; [Item] 1, Apprentice's Dark Way Wand; [Item] 1, Death glyph
+
+[Info] You get the glyph back.
+
+[To] Oriven Thamel
+
+[NPC Internal] Please except my Way Wand as proof of being a student.
+[NPC Narrate] -Oriven seems to stare through you, then speaks your name in a menacing tone.-
+[NPC] Oriven: YOU…
+[NPC] Oriven: you had better not be wasting my time.
+[NPC Narrate] -Oriven now inspects the wand before handing it back.-
+[NPC] Oriven: The Dark Way is not for the faint at hard or the impatient.
+[NPC] Oriven: It is known that many disasters and epidemics were caused by foolish and impatient practitioners.
+[NPC] Oriven: If for one moment we believe you to be a foolish or impatient student, your training will cease and you will be stripped from all that is Dark Way.
+[NPC Narrate] -Oriven writes something on a report and seals it.-
+[NPC] Oriven: Take this to Londris.
+[NPC] Oriven: He will pass it on to our Dark Way Archmage.
+[NPC] Oriven: Then bring me back a dark way glyph used to instill images of the dead into the minds of our enemies.
+
+[To] Londris Kolaim
+
+[NPC Internal] Here is the report from Oriven.
+[NPC Narrate] -Londris nods as he reads the report.-
+[NPC] Londris: Welcome to the ancient way YOU.
+[NPC] Londris: I shall be an intermediary between you and the Dark Way Archmistress until you are deemed worthy to meet her in person.
+[NPC Narrate] -Londris holds out his hand with the report as it burst into flame and disappears.-
+[NPC] Londris: She has received it.
+[NPC] Londris: You are sealed to the Dark Way now.
+[NPC] Londris: I assume you have been warned that they will not tolerate foolishness.
+[NPC] Londris: You may leave me now.
+
+[To] Oriven Thamel
+
+[NPC Internal] I do have that glyph you requested from me.
+[NPC] Oriven: Do you think it will be that simple?
+[NPC] Oriven: You run around, do quests for us and become a master?
+[NPC] Oriven: I want you to understand what means to be one of us.
+[NPC Narrate] -Oriven grins.-
+[NPC] Oriven: So a simple question.
+[NPC] Oriven: The place, the realm where we are now is a source of power.
+[NPC] Oriven: We're standing on energy itself.
+[NPC] Oriven: And where do you think it gains his power?
+[NPC Internal] death
+[NPC] Oriven: Yes.
+[NPC] Oriven: Death.
+[NPC Narrate] -A dark glimpse of light passes through the eyes of Oriven.-
+[NPC] Oriven: Everytime anyone dies the Death Realm gains power.
+[NPC] Oriven: I want you to remember this.
+[NPC] Oriven: When you look in the eyes of your friends, and of your foes.
+[NPC] Oriven: When you kill.
+[NPC] Oriven: When you laugh.
+[NPC] Oriven: Always.
+[NPC Narrate] -Oriven seems to stares through you while he makes a pause.-
+[NPC] Oriven: Bring me your wand when you think you are strong enough for your next test.
+[NPC] Oriven: You will also need a few glyphs.
+[NPC] Oriven: One is Weakness, which is common.
+[NPC Narrate] -Oriven gives a condescending grin.-
+[NPC] Oriven: The other I, well, I will let you figure out what it is, but I am sure one is in Trasok's possession.
+[NPC] Oriven: Someone once passing through here mentioned giving him a Dark Way glyph with many ancient items found on a travel.
+[NPC] Oriven: The old dwarf is not going to just give it to you.
+[NPC] Oriven: Do tasks for him until you earn it.
+[NPC] Oriven: Now be gone.
+
+[Reward] [XP] 9400; [Faction] 10, Dark Order
+

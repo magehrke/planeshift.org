@@ -1,0 +1,109 @@
+[Questname] Vaieund and a Book on Octarch Chess
+[NPC Name] Vaieund
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] bend_the_octarch's_ear
+
+[To] Vaieund
+
+[NPC Internal] I'm looking for a quest!
+[NPC] Vaieund: Hail Stonehammer.
+[NPC] Vaieund: A quest eh?
+[NPC] Vaieund: I do not know if I have anything grand for you to do, but there is something I want.
+[NPC] Vaieund: Meoeor and I play Octarch's chess often and I have heard word that Jayose has penned a strategy guide that might help me to keep my edge.
+[NPC] Vaieund: Go to Hydlaa and find me a copy of this book and return.
+[NPC] Vaieund: If you can handle this, I will pay you more than fairly; I have quite a bit saved up from me adventuring days.
+[NPC] Vaieund: Do you accept the job?
+[NPC Internal] Yes, I can go and see him next time I’m in Hydlaa.
+[NPC] Vaieund: Wonderful.
+[NPC] Vaieund: I would start at Jayose's if I were you.
+
+[To] Jayose
+
+[NPC Internal] Vaieund sent me to get a book of strategy on Octarch's chess.
+[NPC] Jayose: I truly wish I had one to sell, but you see the one copy I did have disappeared before I could have my scribes make more.
+[NPC] Jayose: I do not really have the time to go looking for it.
+[NPC] Jayose: Maybe you would have some luck in tracking it down.
+[NPC] Jayose: Ask some of the folks here in the library if they have heard anything.
+[NPC] Jayose: If you can track down the missing book and return it, I will give you a reward and make a copy of the book for you.
+[NPC] Jayose: Can you handle that?
+[NPC Internal] Yes.
+[NPC] Jayose: Excellent.
+[NPC] Jayose: Ask my assistant Lori Tryllyn about a missing book.
+[NPC] Jayose: She's upstairs.
+
+[To] Lori Tryllyn
+
+[NPC Internal] What can you tell me about the Octarch's chess strategy book?
+[NPC] Lori: You're looking for that book too?
+[NPC] Lori: I work here, and I scribe the copies for Jayose.
+[NPC] Lori: The old coot probably set it down somewhere and forgot it.
+[NPC] Lori: Maybe you could ask Durok Rrecrok; just tell kra I sent you or ask kra about any strange people in the library.
+[NPC] Lori: Durok is probably downstairs.
+
+[To] Durok Rrecrok
+
+[NPC Internal] Lori sent me to ask you about the strange people?
+[NPC] Durok: Looking for that book, too?
+[NPC] Durok: I cannot say I have seen it, but I do think I saw a dodgy character in here about the time it went missing.
+[NPC] Durok: There are always tournaments of Octarch's chess and sometimes there are prizes for winning.
+[NPC] Durok: It might actually be worth stealing for those reasons.
+[NPC] Durok: I would ask Terea Lohdren.
+[NPC] Durok: She was visiting the library at about the time the book went missing.
+[NPC] Durok: I saw this shady man and I think she got a better look at him.
+[NPC] Durok: Just tell her I sent you or ask her about the dodgy fellow.
+
+[To] Terea Lohdren
+
+[NPC Internal] Can you tell me about that dodgy fellow you saw?
+[NPC] Terea: Ah, yes, Durok told me a book came up missing.
+[NPC] Terea: That explains a lot.
+[NPC] Terea: I saw a man who looked very much like he was of poor character in the library, so of course I was curious.
+[NPC] Terea: He only stayed a moment before leaving hurriedly.
+[NPC] Terea: I let him leave, but soon I decided to follow him.
+[NPC] Terea: He left the library district and headed toward the Laanx temple.
+[NPC] Terea: He snuck past Menlil and Sharven and jumped into the well.
+[NPC] Terea: I'm not so crazy to jump down there, so this is where I lost him.
+[NPC] Terea: I bet whoever this person is, he is hiding out somewhere in the Laanx dungeon.
+[NPC] Terea: If you find a shady looking man, just ask him directly about the Octarch's chess book or tell him I saw him.
+
+[To] Zak
+
+[NPC Internal] Tell me about the Octarch's chess book.
+[NPC] Zak: I knew that Talad follower was trouble.
+[NPC] Zak: All right, look, you have enough to cast suspicion on me, but there are no guards down here to help you.
+[NPC] Zak: If you want the book back, you have to do something for me.
+[NPC] Zak: I came across this bottle of Carrion Crawler Larvae, only I do not know what it does, so I do not know who to try to sell it to.
+[NPC] Zak: If you can, find out what it is used for and return and tell me.
+[NPC] Zak: I'll help you then and only then.
+[NPC Internal] clean infectious wounds
+[NPC] Zak: Good good, the larvae will have some value then.
+[NPC] Zak: I have copied the most important parts of the book in the meanwhile, so I don't need it anymore.
+[NPC] Zak: Here you go.
+[NPC] Zak: In Yliakum, it is often wise to mind one's own business.
+
+[To] Jayose
+
+[NPC Internal] gives the book of Octarch's chess strategy to Jayose.
+[NPC] Jayose: Nicely done.
+[NPC] Jayose: Now to make you a copy.
+[NPC Narrate] -Jayose takes out a blank book and a glyph and begins an incantation.-
+[NPC] Jayose: Oh grains of time, save me mine and write this book for me.
+[NPC] Jayose: My pen hand is sore, and evermore, you score the page with glee.
+[NPC Narrate] -One of the quills on the desk animates, and the book is quickly copied.-
+[NPC] Jayose: Yes, there we have it.
+[NPC] Jayose: Here is your copy.
+[NPC] Jayose: Goodbye and good luck.
+
+[To] Vaieund
+
+[NPC Internal] Here is your copy of the stratgy book.
+[NPC] Vaieund: Nicely done.
+[NPC] Vaieund: Now Meoeor will never have a chance at the tournament.
+[NPC] Vaieund: Thanks and here is something special for you.
+[NPC] Vaieund: I do not know what it is for but it certainly looks important.
+[NPC] Vaieund: Farewell!
+
+[Reward] [XP] 12200; [Item] 1, Keyhandled Dagger
+

@@ -1,0 +1,96 @@
+[Questname] Becoming a Blue Way Adept
+[NPC Name] Sharven Xant-Areth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Blue Way Glyph Training; [Item] 1, Apprentice's Blue Way Wand; [Skill] 40, Blue Way
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Please accept my Way Wand as proof of being a student.
+[NPC] Sharven: And so the student returns.
+[NPC Narrate] -Sharven has another look at his cargo before handing your wand back.-
+[NPC] Sharven: Did you manage to get the Water Glyph I asked you to study?
+[NPC] Sharven: I am quite busy here, so I may have forgotten to mention it.
+[NPC] Sharven: Either way, do you have it?
+[NPC Internal] No, I had no idea I needed it.
+[NPC] Sharven: Hmm, yes.
+[NPC] Sharven: Although Blue Way has many different glyphs, they can be difficult to obtain.
+[NPC] Sharven: It is said that Blue glyphs like to form around water.
+[NPC] Sharven: Since water is always moving, you can imagine the difficulties glyph hunters have in tracking them down.
+[NPC Narrate] -Sharven shakes his head.-
+[NPC] Sharven: You do need a Water Glyph to continue.
+[NPC Narrate] -Sharven seems lost in thought for a moment.-
+[NPC] Sharven: Once you have the Water Glyph, I will need you to tell me what spell it can produce.
+[NPC Internal] May I ask you where to find the Water Glyph.
+[NPC] Sharven: As I said you need a glyph hunter.
+[NPC] Sharven: Try to ask around, maybe someone will sell it to you.
+[NPC Narrate] -Sharven scratches his head.-
+[NPC] Sharven: Oh!
+[NPC] Sharven: There's another way.
+[NPC] Sharven: I know a Ylian man who uses various glyphs to study anti-magic.
+[NPC] Sharven: He's the alchemist in Ojaveda.
+[NPC] Sharven: Do you know him?
+[NPC Internal] vladovic
+[NPC] Sharven: Yes.
+[NPC] Sharven: Exactly.
+[NPC] Sharven: I am sure he would have a Water Glyph.
+[NPC] Sharven: He continues to ask about Dried Maajo, I think he's full of it to his Ylian neck.
+[NPC] Sharven: Uhm, maybe you can bring him herbica exotica…
+[NPC] Sharven: no, too difficult for only a glyph.
+[NPC] Sharven: Gobo roots?
+[NPC] Sharven: Nah….
+[NPC] Sharven: he will think you're an Azure Way student.
+[NPC] Sharven: We need to be original.
+[NPC Internal] May I ask you what you have in mind.
+[NPC] Sharven: Vladovic is an alchemist, and alchemists always need pure water.
+[NPC] Sharven: Here, take this magic bottle and ask to Jardet Forsill to fill it with pure water.
+[NPC] Sharven: You will find him in a garden in Hydlaa.
+[NPC] Sharven: Then take the bottle to Vladovic.
+[NPC] Sharven: I'm sure he will give you the glyph.
+
+[To] Jardet Forsill
+
+[NPC Internal] Sharven told me you can fill these bottles with pure water.
+[NPC] Jardet: Ehhh, you're not the first.
+[NPC] Jardet: I think Sharven has an evil plan.
+[NPC Narrate] -Jardet bends down, and starts to fill the empty bottle with pool water.-
+[NPC] Jardet: Tell me the truth; he plans to drain out my fountain!
+[NPC Narrate] -Jardet continues to fill the bottle, for several minutes.-
+[NPC] Jardet: And you Blue Way students are his accomplices.
+[NPC Narrate] -At last, Jardet finishes filling it, then smiles friendly while he hands you the bottle.-
+[NPC] Jardet: Take it, and have a nice journey.
+[NPC] Jardet: Oh, take care, it's heavier then it seems.
+[NPC Internal] Someone told me you could use some Pure water.
+[NPC Narrate] -Vladovic looks you over.-
+[NPC] Jardet: An apprentice in the Blue Way?
+[NPC] Jardet: Well then, I assume you want a Water Glyph.
+[NPC] Jardet: Let me see what I have…
+[NPC Narrate] -Vladovic scratches around in a little bag.-
+[NPC] Jardet: Now where did I put that?
+[NPC Narrate] -Vladovic searches under the counter.-
+[NPC] Jardet: Hmm?
+[NPC Narrate] -Vladovic pats his pockets and then removes a glyph from it.-
+[NPC] Jardet: Ah, here we go.
+[NPC] Jardet: I suppose I am done with it after all.
+[NPC] Jardet: Good luck in your training.
+[NPC] Jardet: You will want to tell Sharven what spell you can cast with it.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] rinse
+[NPC] Sharven: Correct, It is good for clearing the mind, especially between long sessions of concentration.
+[NPC] Sharven: Congratulations YOU, you have passed the second part of my testing.
+[NPC Narrate] -Sharven pulls out a robe.-
+[NPC] Sharven: This robe completes your set.
+[NPC] Sharven: Your testing with me is complete.
+[NPC] Sharven: However, you will have to train with me to the extent of my abilities.
+[NPC Internal] Then what?
+[NPC] Sharven: Once I can no longer train you, you will seek out Tarmeen for your next tests.
+[NPC] Sharven: You will need to hand him two wands, one belonging to you and one from a fellow student.
+[NPC] Sharven: Each Circle requires this of its students to prove that they not only have the respect of their teachers, but also that of their fellow students.
+[NPC] Sharven: After that, he will advance you into the next level of testing.
+[NPC] Sharven: You will return the other Lower wand to the person who loaned it to you.
+
+[Reward] [XP] 13200; [Item] 1, Water glyph; [Item] 1, Apprentice's Blue Way Robe; [Faction] 20, Blue Order
+

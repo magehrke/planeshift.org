@@ -1,0 +1,161 @@
+[Questname] Angry Drunks
+[NPC Name] Rook
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Helping Aydken; [Item] 3, Beer
+
+[To] Rook
+
+[NPC Internal] Can I help?
+[NPC Narrate] -Rook looks at you as he sways side to side, a mug in his hand.-
+[NPC] Rook: You!
+[NPC] Rook: You help..
+[NPC] Rook: helped Aydken, right?
+[NPC] Rook: Right.
+[NPC] Rook: My name is Rook!
+[NPC] Rook: I'm the best ov fallfus ..
+[NPC] Rook: best of all of us!
+[NPC Narrate] -Rook hiccups then takes a large gulp from his mug.-
+[NPC] Rook: Stupid Filch is the worst.
+[NPC] Rook: He's clumsy n' stupid n' stupider!
+[NPC] Rook: You want to help the best?
+[NPC Internal] Yes, I want to help.
+[NPC Narrate] -Rook burps and smiles.-
+[NPC] Rook: Good!
+[NPC] Rook: You go tell Filch that he smells of rats!
+[NPC] Rook: Go go, I'll give you some tria and stuff…
+[NPC] Rook: yeah.
+[NPC] Rook: Go!
+[NPC Narrate] -Rook chuckles lightly under his breath as he waves you away.-
+[NPC] Rook: He smells of rats!
+
+[To] Filch
+
+[NPC Internal] You smell of rats.
+[NPC] Filch: What?
+[NPC Narrate] -Filch looks at you angrily then almost falls over spilling some of the liquid in his flask.-
+[NPC] Filch: That short, arrorant..
+[NPC] Filch: agrorant…
+[NPC] Filch: stupid Rook sent you, didn't he?
+[NPC Narrate] -Filch lifts up the flask and drains the last of it.-
+[NPC] Filch: Bah!
+[NPC] Filch: …
+[NPC] Filch: You go tell that stupid, little man that..
+[NPC Narrate] -Filch sways from side to side.-
+[NPC] Filch: That's he's dumb!
+[NPC] Filch: Yeah!
+[NPC] Filch: Go!
+
+[To] Rook
+
+[NPC Internal] You're dumb.
+[NPC] Rook: Ha!
+[NPC] Rook: Is that the…
+[NPC Narrate] -Rook drinks from his mug which he has refilled in the time you've been gone.-
+[NPC] Rook: Is that the best he can come up with?
+[NPC Narrate] -Rook grins at you.-
+[NPC] Rook: That's our Filchy for you.
+[NPC] Rook: He's not very intelly…
+[NPC] Rook: intlement…
+[NPC] Rook: intelligent!
+[NPC] Rook: That's it!
+[NPC Narrate] -Rook smiles, obviously proud of pronouncing such a hard word.-
+[NPC] Rook: Go…
+[NPC] Rook: Go tell him that his mother was a Gobble!
+[NPC Narrate] -Rook all but giggles.-
+[NPC] Rook: That'll show him.
+
+[To] Filch
+
+[NPC Internal] Your mother was a Gobble.
+[NPC] Filch: What!?
+[NPC] Filch: Oh that's it.
+[NPC Narrate] -Filch drinks the rest of the mug in his hand and pulls out a dagger.-
+[NPC] Filch: Go tell Guile that I want to kill Rook!
+[NPC] Filch: That short, little …
+[NPC] Filch: umm ..
+[NPC] Filch: fool!
+[NPC] Filch: Yeah, that short, little fool won't get away with that!
+[NPC] Filch: Mom was a Gobble!
+[NPC] Filch: My mom was a …
+[NPC] Filch: not gobble!
+[NPC] Filch: Not at all gobble!
+
+[To] Guile
+
+[NPC Internal] Filch wants to kill Rook.
+[NPC] Guile: What's that?
+[NPC] Guile: Oh, you started them off, didn't you?
+[NPC Narrate] -Guile shakes her head slowly.-
+[NPC] Guile: Go buy two beer mugs and give one to each.
+[NPC] Guile: When they ask who gave them to you, say the other one did.
+[NPC Narrate] -Guile shrugs.-
+[NPC] Guile: That should work.
+[NPC] Guile: And bring me one once you are done with those two.
+
+[Give] Filch; 1, beer
+
+[NPC Internal] A gift.
+[NPC] Filch: Ah!
+[NPC] Filch: More beer!
+[NPC] Filch: Good.
+[NPC Narrate] -Filch drinks from the mug.-
+[NPC] Filch: I love beer!
+[NPC] Filch: Beer, beer, beer.
+[NPC] Filch: Keeps your mind working!
+[NPC] Filch: My pa used to say that if you didn't drink enough you…
+[NPC] Filch: erm…
+[NPC] Filch: you…
+[NPC] Filch: well, it wasn't good!
+[NPC] Filch: By Talad, even that Trepor-son Rook enjoys beer.
+[NPC Narrate] -Filch takes another swig.-
+[NPC] Filch: Who sent this, any ways?
+[NPC Internal] Rook sent it.
+[NPC] Filch: He did?
+[NPC] Filch: Bah, just like that…
+[NPC] Filch: dwarf to do something like that.
+[NPC Narrate] -Filch tries to stay angry but then he lets out a small smile.-
+[NPC] Filch: Mother was a Gobble…
+[NPC] Filch: You know, he had always had a thing for my mother.
+[NPC] Filch: Bah, whatever, I'll be good.
+[NPC] Filch: Here, get him a beer from me.
+[NPC Narrate] -Filch hands you a coin.-
+
+[Give] Rook; 1, beer
+
+[NPC Internal] A present.
+[NPC] Rook: Oh!
+[NPC] Rook: More beer!
+[NPC Narrate] -Rook takes a sip from it and smiles.-
+[NPC] Rook: Thank you, there's nothing in Ylia …
+[NPC] Rook: kum …
+[NPC] Rook: Yliakum quite like another beer.
+[NPC] Rook: One of the…
+[NPC] Rook: few things that that ugly Filch and I agree on…
+[NPC Narrate] -Rook sips some more beer.-
+[NPC] Rook: Who sent this beer, by the way?
+[NPC Internal] Filch sent it.
+[NPC] Rook: He did?
+[NPC] Rook: Oh…
+[NPC] Rook: well
+[NPC Narrate] -Rook smiles and shrugs.-
+[NPC] Rook: I guess he's not so bad.
+[NPC] Rook: Still…
+[NPC] Rook: bah, never mind.
+[NPC] Rook: Here, bring him a beer as well, from me.
+[NPC Narrate] -Rook hands you a coin.-
+
+[To] Guile
+
+[NPC Internal] Here's another beer.
+[NPC Narrate] -Guile sips at the beer.-
+[NPC] Guile: I see my plan worked.
+[NPC] Guile: Can't say that I'm surprised.
+[NPC] Guile: My plans always work.
+[NPC] Guile: Here's a small reward for you, Enkidukai, be well.
+[NPC] Guile: And keep your distance from them, they tend to..
+[NPC] Guile: get angry.
+
+[Reward] [Money] 1297; [XP] 9400
+

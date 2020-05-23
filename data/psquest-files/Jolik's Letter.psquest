@@ -1,0 +1,82 @@
+[Questname] Jolik's Letter
+[NPC Name] Jolik Huevan
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Dagger for Jirris
+
+[To] Jolik Huevan
+
+[NPC Internal] Anything I can help with?
+[NPC] Jolik: Yoo…
+[NPC] Jolik: octoolly wont to h'lp mo?
+[NPC] Jolik: My mooth 'oes not froght'n yoo?
+[NPC] Jolik: O…
+[NPC] Jolik: 'on't knoh whot to soh.
+[NPC] Jolik: Bofor' noh, only th' followors of thoh whosp'r accopt'd mo.
+[NPC] Jolik: O 'oh hove on' thong yoo cohld 'oh for mo, if you woll.
+[NPC] Jolik: I noh' to troh to contoct mo frond.
+[NPC] Jolik: O hove not sohn hor sonce O lost mo jaw.
+[NPC] Jolik: Plose soh yos?
+[NPC] Jolik: Thos jaw!
+[NPC] Jolik: I hot' ot.
+[NPC Narrate] -Jolik pulls ink and paper from his tunic and writes a shortnote, which he hands to you. -Will you try to contact someone for me?-
+[NPC Internal] Yes, It is what I do.
+[NPC] Jolik: Thonk yoo!
+[NPC] Jolik: Osk in Ka'…
+[NPC Narrate] -Jolik shakes his head and pulls out a sealed letter and hands it to you silently.-
+
+[To] Allelia Symiestra
+
+[NPC Internal] gives Allelia the letter from Jolik.
+[NPC] Allelia: A letter for me?
+[NPC Narrate] -Allelia sees the address and sighs.-
+[NPC] Allelia: Poor Jolik…
+[NPC] Allelia: He used to be such a nice person before his accident.
+[NPC] Allelia: He came in the tavern all the time before Jomed and I took over managing the place.
+[NPC] Allelia: He was good friends with Miss Kada-El.
+[NPC] Allelia: She went away on personal business, and he was attacked by a tefusang while protecting some travellers.
+[NPC] Allelia: After the beast took his jaw off, he was never the same.
+[NPC Narrate] -Allelia gets an angry look.-
+[NPC] Allelia: Some people laughed at him because of how it made him talk.
+[NPC] Allelia: They made me so mad I could scream.
+[NPC] Allelia: He thought everyone was laughing at him.
+[NPC] Allelia: Pretty soon he wouldn't even talk to anyone at all.
+[NPC] Allelia: He just vanished one day, and does not show up here anymore.
+[NPC] Allelia: He sends these letters once in a while, though.
+[NPC] Allelia: Poor man.
+[NPC] Allelia: Take the letter back to him, please.
+[NPC] Allelia: You should show the letter to Jomed first if you want to know more.
+
+[To] Jomed Parcen
+
+[NPC Internal] gives Jomed the letter from Jolik.
+[NPC Narrate] -Jomed wipes his hands before taking the letter. He gives a grunt.-
+[NPC] Jomed: Jolik again, aye?
+[NPC] Jomed: Feller needs to get his head out o' the sewers if ya be askin' me.
+[NPC] Jomed: Yes, I know where he is.
+[NPC] Jomed: Allelia, she don't want to know, so don't be botherin' her with it.
+[NPC] Jomed: He used to be a jolly ol' sort to have a mug with.
+[NPC] Jomed: Right stand up feller.
+[NPC] Jomed: I called him friend once, I did, even after the monster took his jaw.
+[NPC] Jomed: He's no friend of mine now, sad to say.
+[NPC] Jomed: Somes say it was the attack that changed him.
+[NPC] Jomed: I says it was those other fellows that did it.
+[NPC Narrate] -Jomed pushes the letter back into your hands.-
+[NPC] Jomed: Even if he do come out of that stink hole, he's got himself a lot of answering to do 'fore folks is gunna want to look him in the eye again.
+[NPC] Jomed: You take that letter straight back.
+[NPC] Jomed: I got nothin' to say to him.
+
+[To] Jolik Huevan
+
+[NPC Internal] gives Jolik his letter back.
+[NPC] Jolik: Not thohr?
+[NPC Narrate] -Jolik looks at the ground.-
+[NPC] Jolik: O wosh O cohld go bock op thohr, bot th' whosp'r os mo mahst'r now.
+[NPC] Jolik: O know O moss'd op bod.
+[NPC] Jolik: O om sorroh to hove tok'n yoor tome.
+[NPC] Jolik: Toke thos.
+[NPC] Jolik: Jolik Huevan hands you a few coins.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Cabal of Whispers
+

@@ -1,0 +1,43 @@
+[Questname] Plans for an Alloy
+[NPC Name] Shiu Hri
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes; [Item] 6, Copper Ores; [Item] 4, Tin Ores
+
+[To] Shiu Hri
+
+[NPC Internal] Hi, you seem deep in thought, anything I can help with?
+[NPC] Shiu: I have come to import metals for the lower levels, and am looking for the base metals of an alloy.
+[NPC] Shiu: Can you help me?
+[NPC Internal] Now that, I can help you with.
+[NPC] Shiu: I appreciate it greatly.
+[NPC] Shiu: First, I understand that if you exit Hydlaa by the gate that my friend Finara Plund is guarding, nearby you will find some stalactites that have fallen point-down in the ground.
+[NPC] Shiu: They are in fact rich in copper ore.
+[NPC] Shiu: I require six pieces.
+[NPC] Shiu: This number is very important.
+[NPC] Shiu: Return to me with them and I'll give you the next requirement.
+[NPC Internal] Six copper ore as requested.
+[NPC] Shiu: You, Sir, are a wonder.
+[NPC] Shiu: Now, just before Dsar Akkaio lies a river.
+[NPC] Shiu: The spirits of nature have arranged it just so a metal ore is washed toward and collects around the rocks.
+[NPC] Shiu: This metal is known as tin.
+[NPC] Shiu: I implore you, dig around the large rock by this river and find me four pieces of this tin ore.
+[NPC] Shiu: Four.
+[NPC] Shiu: I will be waiting.
+[NPC Internal] hands Shiu the four tin ore.
+[NPC] Shiu: Marvellous!
+[NPC] Shiu: Thank you, Sir, thank you!
+[NPC] Shiu: This alloy is invaluable to the Nolthrir people.
+[NPC] Shiu: If you know…tell me the name of this alloy, please?
+[NPC Internal] bronze
+[NPC] Shiu: Bronze.
+[NPC] Shiu: You must be an expert at metallurgy.
+[NPC] Shiu: Very well, I prefer trading with people who know their materials.
+[NPC] Shiu: In exchange for this bronze I present these armored pants.
+[NPC] Shiu: I traded for these earlier, but have decided an underwater people would have little use for them.
+[NPC] Shiu: Consider it a fair trade for the ores.
+[NPC] Shiu: Farewell.
+
+[Reward] [Money] 7310; [XP] 15000; [Item] 1, Lava glyph
+

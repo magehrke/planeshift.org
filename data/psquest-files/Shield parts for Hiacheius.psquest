@@ -1,0 +1,65 @@
+[Questname] Shield parts for Hiacheius
+[NPC Name] Hiacheius Dilechi
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Hiacheius Lost a Valuable Book; [Item] 6, shield bands
+
+[NPC Internal] Hi, you look thoughtful. May I help you in any way?
+[NPC Narrate] -Hiacheius gets out from his thoughts and looks at you.-
+[NPC] Willam: Y-y-yes, indeed good Enkidukai you m-m-might help me!
+[NPC Narrate] -Hiacheius scratches his head.-
+[NPC] Willam: D-d-do you remember about my f-f-friend who was looking for the rare Golden Shield Diagram?
+[NPC Narrate] -Hiacheius waits for a bit.-
+[NPC] Willam: Well, h-h-he is making some shields for the g-g-guards here, but h-h-he seems to be overhelmed from work so he isn't able to m-m-make all the parts he needs in time.
+[NPC] Willam: So he a-a-asked me if I c-c-could help him find someone t-t-to do for him some shield b-b-bands and I w-w-was thinking w-w-who could.
+[NPC] Willam: Sir, maybe, c-c-could you help me with t-t-this?
+[NPC] Willam: W-w-will you?
+[NPC Internal] Sure I'm glad to help you again. How many do you need?
+[NPC] Willam: W-w-will you?
+[NPC] Willam: really?
+[NPC Narrate] -Hiacheius looks at you with a smile.-
+[NPC] Willam: I j-j-just n-n-need six shield b-b-bands.
+[NPC] Willam: T-t-that's what my friend asked me.
+[NPC] Willam: Alright, then I'll a-a-await your return with them.
+
+[Give] Hiacheius Dilechi; 6, Shield Bands
+
+[NPC Internal] Here you are the six shield bands as requested.
+[NPC] Hiacheius: T-t-thanks good Enkidukai!
+[NPC Narrate] -Hiacheius pauses for a bit looking at the shield bands in his hands.-
+[NPC] Hiacheius: I don't know how to t-t-thank you for this.
+[NPC Narrate] -Hiacheius thinks for a bit.-
+[NPC] Hiacheius: T-t-that's it!
+[NPC] Hiacheius: I will g-g-give you something special, but only if you answer one of my riddles!
+[NPC] Hiacheius: It's something quite rare, which I've been keeping for a l-l-long time, and I'm sure you'll like it!
+[NPC] Hiacheius: What do you s-s-say?
+[NPC] Hiacheius: D-d-do you want to try it?
+[NPC] Hiacheius: I-i-if you don't, I'll just give you some tria in order to repay you for your efforts.
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] No thanks, I will just take the money.
+[NPC] Hiacheius: Alright, Sir I-i-it will be for another time.
+[NPC] Hiacheius: Thanks a-a-again for your help and here you are your reward.
+
+
+[Way] 2
+
+[NPC Internal] Yes, I will give it a try.
+[NPC] Hiacheius: So h-h-here it is the riddle Enkidukai.
+[NPC] Hiacheius: It's little and resembles a bird, but it can't fly.
+[NPC] Hiacheius: You see a lot of them around us, but you don't know for certain where it comes from.
+[NPC] Hiacheius: What is it?
+[NPC Internal] groffel
+[NPC] Hiacheius: Congratulation Sir.
+[NPC] Hiacheius: I w-w-wouldn't have expected you w-w-would've been able to g-g-guess that!
+[NPC] Hiacheius: Here you are what I've p-p-promised you.
+[NPC] Hiacheius: Make good use o-o-of it.
+[NPC Narrate] -Hiacheius Dilechi gives a last smile to YOU and goes back to his work.-
+
+[Reward] [Money] 1297; [XP] 9400
+[Reward] [Way 2] [Item] 1, Crown Shield Diagram
+

@@ -1,0 +1,42 @@
+[Questname] Kimlorm Needs a New Prayer Book
+[NPC Name] Kimlorm
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Mysterious Disease
+
+[To] Kimlorm
+
+[NPC Internal] Hi, do you perhaps have a task for an adventurer as myself?
+[NPC] Kimlorm: I am so glad you asked.
+[NPC] Kimlorm: I have been studying up on Talad during my down time as a guard trainee and I have run completely out of new material to read.
+[NPC] Kimlorm: Will you be so kind as to return this book to Murago Puntjal for me?
+[NPC Internal] Not the most exciting task, but a task nonetheless, I will do it.
+[NPC] Kimlorm: Then you will find him somewhere near the library, usually.
+[NPC] Kimlorm: Just tell him I sent you and he should give you another book for me after you return the first.
+[NPC] Kimlorm: I will give a nice reward when you get back.
+
+[To] Murago Puntjal
+
+[NPC Internal] Kimlorm sent me.
+[NPC] Murago: Ah, Kimlorm know doubt wants a copy of Rise of Talad Volume 2.
+[NPC] Murago: Did kra sent you with the first to return to me?
+[NPC Internal] Yes, kra did. Here it is.
+[NPC] Murago: Praise Talad, and in good shape as well!
+[NPC] Murago: Thank you very much for treating it nicely.
+[NPC] Murago: Please Take this back to Kimlorm.
+
+[To] Kimlorm
+
+[NPC Internal] Murago sent me.
+[NPC] Kimlorm: Praise Talad!
+[NPC] Kimlorm: You have returned!
+[NPC] Kimlorm: And do you have the next book for me?
+[NPC Internal] Yes, I have it. Here you go.
+[NPC] Kimlorm: I am so pleased.
+[NPC] Kimlorm: Thank you, traveller.
+[NPC] Kimlorm: If anyone asks about you, I will vouch for you.
+[NPC] Kimlorm: Here is a little something for you.
+
+[Reward] [XP] 13650; [Item] 1, Horned Helm; [Faction] 25, Conclave of the Glyphs
+

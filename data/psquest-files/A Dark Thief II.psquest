@@ -1,0 +1,70 @@
+[Questname] A Dark Thief II
+[NPC Name] Darven Bounash
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] Yes
+
+[Need] [Quest] A Dark Thief
+
+[To] Darven Bounash
+
+[NPC Internal] I managed to get his amulet.
+[NPC] Darven Bounash: That punk.
+[NPC] Darven Bounash: I remember seeing him wear that thing.
+[NPC] Darven Bounash: I wouldn't keep that if I were you.
+[NPC] Darven Bounash: I'd sell it to the first bidder and be on my way.
+[NPC] Darven Bounash: You might have the best luck looking for someone who you fit in with.
+[NPC] Darven Bounash: People tend to give you a better deal when they like you.
+[NPC] Darven Bounash: While you're at it, do me a favour and report Lennston's sorry self to the guards.
+[NPC] Darven Bounash: I've love to see him get a little more payback for what he's done to me.
+[NPC] Darven Bounash: One night in jail was just a slap in the face.
+
+[To] Finara Plund
+
+[NPC Internal] I found the criminal, it was Lennston Dashile.
+[NPC] Finara Plund: Lennston Dashile, why does that name sound familiar?
+[NPC] Finara Plund pulls out a small book and squints as she flips through the pages.
+[NPC] Finara Plund: Aha!
+[NPC] Finara Plund: I remember him!
+[NPC] Finara Plund: We arrested him for cheating Darven in a game of craps!
+[NPC] Finara Plund: He was using an amulet to make other players go blind for short period of time!
+[NPC] Finara Plund: This certainly fits in with everything else that I've been told!
+[NPC] Finara Plund: Thank you for your help!
+[NPC] Finara Plund: I'll be sure to let Jefecra know just how helpful you have been!
+[Info] Now you have to Choose to give the amulet either to Jardet, Finara, Rulayne or Laure. I chose Jardet.
+[Info] I chose Jardet
+
+[To] Jardet Forsill
+
+[NPC Internal] I have the criminal's weapon and what he took. Here, take it.
+[NPC] Jardet Forsill: Ah, it appears to be an amulet of sorts, and these coins I will have sent to Gugrontid.
+[NPC] Jardet Forsill takes the amulet.
+[NPC] Jardet Forsill: This glyph in the center, is rather unique.
+[NPC] Jardet Forsill: Hmm, it looks like it may be a dark way glyph of sorts?
+[NPC] Jardet Forsill: I'll have to take this to Levrus and see if he can identify it for me.
+[NPC Internal] Can I help you with anything else?
+[NPC] Jardet Forsill: Yes, actually.
+[NPC] Jardet Forsill: I had a disturbing dream last night.
+[NPC] Jardet Forsill: In my dream, I began to peel an ear of corn.
+[NPC] Jardet Forsill: When I got to the center and pulled away the silk, there was a woman inside of it instead of the corn.
+[NPC] Jardet Forsill: Suddenly, I looked up and saw that the sky was darkening.
+[NPC] Jardet Forsill: I looked back at her and saw that she was crying.
+[NPC] Jardet Forsill: I tried to catch her tears, but my fingers were much too large, and when I did, she wailed out loud.
+[NPC] Jardet Forsill: I covered my ears instinctively, and accidentally dropped the corn.
+[Info] You have a choice here, I accidently took the wrong one.
+[NPC Internal] Enough rambling, Just fork over a reward.
+[NPC] Jardet Forsill steps back, looking rather surprised.
+[NPC] Jardet Forsill: Yes, I eh...
+[NPC] Jardet Forsill: I suppose I probably should compensate you somehow.
+[NPC] Jardet Forsill bends over and picks a flower.
+[NPC] Jardet Forsill: Here, this matches your icy demeanour.
+[NPC] Jardet Forsill: Good day, citizen.
+
+[To] Allelia Symiestra
+
+[NPC Internal] [You entertain Allelia with a good, long story.]
+[NPC] Allelia Symiestra: Wow!
+[NPC] Allelia Symiestra: That's the best story I've heard in ages!
+[NPC] Allelia Symiestra: Here, have a beer on me.
+
+[Reward] [XP] 15000; [Item] 1, Snowbud; [Item] 1, Beer Mug; [Faction] 10, Guard; [Faction] -10, Thieves Organization; [Faction] -10, Cabal of Whispers;

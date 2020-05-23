@@ -1,0 +1,58 @@
+[Questname] The Red Way Apprentice
+[NPC Name] Ferryd Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Red Way Glyph Training; [Item] 1, Red Way Bracers; [Skill] 50, Red Way; [Item] 1, Fire glyph; [Item] 1, Weapon glyph; [Item] 5, Tefusang Teeth
+
+[Info] You get the glyphs back.
+
+[To] Ferryd Shillor
+
+[NPC Internal] Please accept these bracers as proof I am a worthy student.
+[NPC] Ferryd: And so the student returns.
+[NPC] Ferryd: I assume you are ready for your combination glyph test so we will begin, then.
+[NPC Narrate] -Ferryd hands your bracers back as he begins to speak.-
+[NPC] Ferryd: We will need two Glyphs for this trial.
+[NPC] Ferryd: You have already learned about the Fire Glyph, So give that one to me first.
+[NPC Narrate] -Ferryd awaits the glyph.-
+[NPC Internal] Fire, fire … Ah, here it is.
+[NPC Narrate] -Ferryd nods.-
+[NPC] Ferryd: I bet you have found this very helpful in combat situations in your training.
+[NPC] Ferryd: Now, you will also need a glyph that combines with this one to create an empowered weapon that creates extra damage every time it strikes your foe.
+[NPC] Ferryd: It is called Sword.
+[NPC] Ferryd: They are less common than Fire, and are prized by master blacksmiths.
+[NPC Narrate] -Ferryd strokes his chin in thought.-
+[NPC] Ferryd: Please give it to me now if you have one.
+[NPC] Ferryd: If you don't have one, there was a dwarven smith who's name currently escapes me, that I have heard has been hording quite a few of them.
+[NPC] Ferryd: I do not know if he will sell it to you, if you can find him I suggest asking him for one.
+[NPC] Ferryd: You better tell him I sent you first, though.
+[NPC] Ferryd: I doubt he will give you one otherwise.
+[NPC Internal] The Weapon glyph, sir.
+[NPC] Ferryd: Excellent!
+[NPC] Ferryd: Now watch closely as I cast this spell.
+[NPC Narrate] -Ferryd holds out his staff. Energies surround his body for a few moments, then flames leap from his staff. He grins at the effect. When the effects fade, he hands both of your glyphs back.-
+[NPC] Ferryd: As you can see, this is a very intimidating spell.
+[NPC] Ferryd: Purify these glyphs and combine them to produce the spell I just showed you.
+[NPC] Ferryd: I want you to now go out and practice your newly acquired knowledge in battle on some of the Tefusang out there.
+[NPC] Ferryd: Bring me five Tefusang teeth to prove you have completed this task.
+[NPC Internal] Five Tefusang Tooth.
+[NPC] Ferryd: Congratulations YOU, you have past this second part of my training.
+[NPC] Ferryd: This apple is your reward.
+[NPC Narrate] -Ferryd looks at you, holding out an apple. smile slowly grows until he bursts out laughing. He tries to speak through the guffaws.-
+[NPC] Ferryd: The look…
+[NPC] Ferryd: on…
+[NPC] Ferryd: your face…
+[NPC] Ferryd: priceless!
+[NPC Narrate] -Ferryd catches his breath and wipes his eyes.-
+[NPC] Ferryd: Here is your true reward; the robe to complete your set.
+[NPC] Ferryd: Well done.
+[NPC] Ferryd: When you are strong enough, return with two wands, one yours, one from one of your pears.
+[NPC] Ferryd: All Circles require you do this, for you must not only have the respect of your teachers, but also that of your fellow students.
+[NPC] Ferryd: I suggest you start making friends with others that follow the Red Way Circle to make it easier on you in the future.
+[NPC] Ferryd: When you return with two wands and enough training, I will graduate you into the next level of the Circle and give you a new wand.
+[NPC] Ferryd: You will return the other Lower wand to your peer so that he, she, or kra can continue training.
+[NPC] Ferryd: The wind be with you.
+
+[Reward] [XP] 12200; [Item] 1, Apprentice's Red Way Robe; [Faction] 20, Red Order
+

@@ -1,0 +1,55 @@
+[Questname] Working with Rare Metals
+[NPC Name] Gardr Keck
+[Checkup] 2017-04-11
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Gardr Trust
+
+[To] Gardr Keck
+
+[NPC Internal] Seems we established a good collaboration, I'm ready for more.
+[NPC] Gardr: I agree and now I trust you enough to disclose some of the advanced knowledge on metals.
+[NPC Internal] Yes! I'm all ears.
+[NPC] Gardr: There are different minerals present in Yliakum, some of which are very rare.
+[NPC] Gardr: You are already aware of coal, iron, tin, but there is also silver, gold, platinum and lumium.
+[NPC] Gardr: More importantly you can combine those metals through a special process and craft superior metals you can then use for weapons or armors.
+[NPC Internal] I never heard about lumium, can you tell me more about it?
+[NPC] Gardr: Lumium is a special metal found in nature, which has a dark red color.
+[NPC] Gardr: When properly worked, this metal is beaten like copper, polished like glass, and looks like silver yet does not tarnish.
+[NPC] Gardr: It has a very high hardness.
+[NPC Internal] Where can I find those rare metals?
+[NPC] Gardr: I'm sorry I'm not a miner, so my knowledge of mines is not very good.
+[NPC] Gardr: I usually buy the ores from merchants and then I smelt those to create the metals I need.
+[NPC] Gardr: If you find an expert miner he could tell you more.
+[NPC Internal] Is there any special process to mine those metals?
+[NPC] Gardr: My mining knowledge is very limited, but for what I know you need to be a good miner to spot those rare ores, in terms of tools you just need a rock pick as usual.
+[NPC Internal] What is the result of this special process you mentioned?
+[NPC ME] Gardr Keck looks around quickly and starts to speak with a lower voice.
+[NPC] Gardr: Ok, I will tell you some details.
+[NPC] Gardr: There are three metal alloys I know of: platinum steel, blue steel and tigrain steel.
+[NPC] Gardr: The last is also called just tigrain at times.
+[NPC] Gardr: They are all very special, and different.
+[NPC] Gardr: The easiest one to craft is the platinum steel, but you need the right formula and the right process.
+[NPC Internal] Platinum steel sounds interesting, can you tell me more about it?
+[NPC] Gardr: This is one of the simplest rare alloys to craft, at least compared to the others.
+[NPC] Gardr: Platinum can be used to harden steel and make a superior metal, but without the right amount and right metals you will never obtain something usable.
+[NPC] Gardr: The trick is to have a small part of silver into the mixture, which will react with steel and platinum.
+[NPC] Gardr: In the forge you have to use 1 ingot of silver, 1 of platinum and 4 of steel.
+[NPC Internal] How can you forge Blue steel?
+[NPC] Gardr: Blue steel is a wonder to forge and to shape.
+[NPC] Gardr: The formula was created long time ago by a Stonebreaker named Draton, so it's referred sometimes also as Draton Steel.
+[NPC] Gardr: To make this metal you need to mix 5 ingots of steel, 3 of lumium and 1 of bronze.
+[NPC] Gardr: The resulting metal is incredibly hard and resistant to corrosion.
+[NPC Internal] Can you tell me more about tigrain steel?
+[NPC] Gardr: This metal is very hard to melt since it has a high melting point and even the hottest fires cannot get that hot.
+[NPC] Gardr: The weird chemical reaction of lumium and silver with ulbernaut blood has been discussed by smiths and jewellers for centuries, until tigrain discovered the perfect formula.
+[NPC] Gardr: Tigrain was a notable scientist and alchemist.
+[NPC] Gardr: To make five ingots of tigrain steel mix: 2 ingots of lumium, 4 of gold, 2 of silver and 3 ulbernaut hearts.
+[NPC Internal] I think I have learned enough about the alloys, I want to start forging!
+[NPC] Gardr: I was sure of that!
+[NPC] Gardr: But remember those metals are very expensive!
+[NPC] Gardr: You need a customer before spending money on this.
+[NPC] Gardr: Here is your book with basic techniques and knowledge for rare metals.
+[NPC] Gardr: You have proved to be humble enough to gain my trust Huarwar .
+
+[Reward] [XP] 16400; [Money] 9922; [Skill] 2, Metallurgy; [Item] 1, Working with Rare Stock; [Faction] 35, Smith Association

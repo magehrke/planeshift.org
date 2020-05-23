@@ -1,0 +1,136 @@
+[Questname] Tools of the Cooking Trade
+[NPC Name] Mirra Houphen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Getting to know Mirra; [Money] 1000
+
+[To] Mirra Houphen
+
+[NPC Internal] Greetings Mirra, have anything else for me to do?
+[NPC] Mirra: How wonderful YOU!
+[NPC] Mirra: You have returned!
+[NPC] Mirra: I have been instructed that being a master cook is more than just the cooking, it is also about the presentation.
+[NPC] Mirra: Will you help me get the tools to improve my presentation?
+[NPC Internal] Why of course, anything for a friend.
+[NPC Narrate] -Mirra claps her hands together in excitement.-
+[NPC] Mirra: Truly good news.
+[NPC] Mirra: I am still in need of some fancy knives, to go with my fancy silver plates.
+[NPC] Mirra: I was thinking that we should try Harnquist as he was the one who sold me that excellent butcher's knife.
+
+[To] Harnquist
+
+[NPC Internal] Greetings sir, I am looking for some fancy knives for Mirra.
+[NPC Narrate] -Harnquist stops hammering the blade he is working on.-
+[NPC] Harnquist: Knives I have plenty and can make even more, however…
+[NPC Narrate] -Harnquist wipes his brow with his arm.-
+[NPC] Harnquist: Fancy knives are not my speciality.
+[NPC] Harnquist: Not that I would normally send any business towards Thorian, but he came past here not to long ago and tried to sell me some.
+[NPC Narrate] -Harnquist returns his attention to his blade in progress.-
+
+[To] Thorian Gronk
+
+[NPC Internal] Greetings sir, I was told you had some fancy knives for sale.
+[NPC] Thorian: Ah, yes indeed, I had some for sale; all sold out now, though.
+[NPC Narrate] -Thorian rubs his chin thoughtfully in thought.-
+[NPC] Thorian: I tell you what.
+[NPC] Thorian: I can sell you some, but you will need to make a little trip to Ojaveda for me.
+[NPC] Thorian: Go to Jirosh Mikana and purchase one of his Mikana Specials.
+[NPC Narrate] -Thorian scribbles on a piece of paper.-
+[NPC] Thorian: Here is the order slip for it.
+
+[To] Jirosh Mikana
+
+[NPC Internal] I require these items.
+[NPC] Jirosh: Welcome to my warehouse, honourable Enkidukai.
+[NPC Narrate] -Jirosh takes the slip from you and passes his eyes over it.-
+[NPC] Jirosh: Thorian is a suspicious character, but a good customer.
+[NPC] Jirosh: He must have purchased ten of these since I started selling them with the free set of knives.
+[NPC Narrate] -Jirosh hands over a package wrapped in dry lake weed.-
+[NPC] Jirosh: Truth is, I hardly sold these knives on their own, but it works great as sweetener for the package deal.
+[NPC] Jirosh: I will deduct the one thousand tria from his account.
+[NPC] Jirosh: Feel free to come back at any time after your delivery: I am expecting a shipment of finely crafted knives and daggers soon.
+
+[To] Thorian Gronk
+
+[NPC Internal] Here is the items you wanted.
+[NPC] Thorian: Good stuff.
+[NPC Narrate] -Thorian unwraps the package and removes a normal set of knives.-
+[NPC] Thorian: Here you go, Enkidukai, give me two thousand tria and this hand crafted set of knives is yours, deal?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] It's a bit steep, but yes we have a deal.
+[NPC] Thorian: Excellent!
+[NPC] Thorian: It is a very good deal you are getting here.
+[NPC] Thorian: I normally sell these for double the price.
+[NPC Narrate] -Thorian holds out his hand in wait for the tria.-
+[NPC Internal] Here's your money.
+[NPC] Thorian: Enjoy your knives.
+
+[To] Mirra Houphen
+
+[NPC Internal] I got you these.
+[NPC] Mirra: Oh, uh.
+[NPC] Mirra: Is this it?
+[NPC] Mirra: I guess it will have to do if nothing better is available in all of Yliakum.
+[NPC Narrate] -Mirra sadly pulls out some coins from her tria bag.-
+[NPC] Mirra: I trust this is enough to cover the cost of the …
+[NPC] Mirra: uhm …
+[NPC] Mirra: knives.
+
+[Way] 2
+
+[NPC Internal] No way, I know for a fact that is double the price you paid.
+[NPC] Mirra: No?
+[NPC] Mirra: How ungrateful, I guess you were only interested in finding my supplier and stealing my business?
+[NPC] Mirra: If the guards did not have their eyes on me, I would stab you in the eye, I would.
+[NPC Narrate] -Thorian shakes the knives around.-
+[NPC] Mirra: Now get away from me and get your own from Jirosh if you so choose.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Did you get those knives in you mentioned?
+[NPC] Jirosh: Why yes, welcome back.
+[NPC] Jirosh: I thought you would return to look at my new knives and daggers.
+[NPC] Jirosh: Unfortunately they arrived here blunt as a kratak’s wit.
+[NPC] Jirosh: If you would be so kind to pick up the sharpened knives from Trasok, I will sell you a set at a greatly discounted price.
+[NPC] Jirosh: Just let Trasok know I sent you.
+
+[To] Trasok Starhammer
+
+[NPC Internal] Jirosh send me to pick up his knives.
+[NPC] Trasok: Hold on.
+[NPC Narrate] -Trasok gets the crate of knives and daggers, sets it on the counter and slides it over to you.-
+[NPC] Trasok: I only just finished sharpening them all not to long ago.
+[NPC] Trasok: It is all paid for, so you can go ahead and take it back to Jirosh.
+
+[To] Jirosh Mikana
+
+[NPC Internal] I got you these.
+[NPC] Jirosh: Why thank you, Enkidukai.
+[NPC] Jirosh: Today, I will sell you a set for half price, normally two thousand tria, for only one thousand tria and…
+[NPC Narrate] -Jirosh pauses for dramatic effect.-
+[NPC] Jirosh: I will give you a gold leaf trimmed silver dinner set to go with them.
+[NPC Internal] Your payment.
+[NPC Narrate] -Jirosh exchanges the package for the tria.-
+[NPC] Jirosh: Here you go, one finely crafted set of knives and dinner set.
+[NPC] Jirosh: Pleasure doing business with you.
+[NPC Narrate] -Jirosh goes back to packing shelves.-
+
+[To] Mirra Houphen
+
+[NPC Internal] I got you these.
+[NPC Narrate] -Mirra looks confused as she unwraps the package, but brightens up as she notices the gold leaf trimmed silver plates and finely crafted knives.-
+[NPC] Mirra: Oh my, what remarkably crafted dinner set and knives.
+[NPC Narrate] -Mirra holds it up for further inspection.-
+[NPC] Mirra: I do not believe I have enough tria on my person to express my thanks, but here are the contents of my tria bag and what is left from the last set of knives Thorian sold me.
+[NPC Narrate] -Mirra hands over some coins from her tria bag together with four normal knives.-
+[NPC] Mirra: Thank you for all the help you have been giving me, I hear Archilaya has been busy over in the Arena.
+[NPC] Mirra: Maybe you should see if she needs help.
+
+[Reward] [Way 1] [Money] 3391; [XP] 12200; [Faction] 20, Food Association
+[Reward] [Way 2] [Money] 5130; [XP] 13600; [Item] 1, Knife; [Faction] 25, Food Association
+

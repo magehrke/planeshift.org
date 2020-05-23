@@ -1,0 +1,87 @@
+[Questname] Questioning
+[NPC Name] Harquist
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] Yes
+
+[To] Harnquist
+
+[NPC Internal] Hello, is there anything I can help you with?
+[NPC] Harnquist: Actually yes.
+[NPC] Harnquist: I have a bet with Jayose that I can get a new person to collect pieces of information from people in Hydlaa before he can.
+[NPC] Harnquist: Would you be willing to help me?
+[NPC Internal] I will help you find out what you need.
+[NPC] Harnquist: Great.
+[NPC] Harnquist: There are six pieces of information I need you to find out.
+[NPC] Harnquist: I need you to go and ask Burdess Quirain 'what is your favourite fish'.
+[NPC] Harnquist: Then go to Jardet and ask him 'what is your favourite flower'.
+[NPC] Harnquist: Go to Charisa and ask her 'what is your favourite potion'.
+[NPC] Harnquist: Go to Darven and ask him 'what is your favourite game'.
+[NPC] Harnquist: Go to Hamel and ask him 'what is your favourite tool'.
+[NPC] Harnquist: Go to Jefecra and ask him 'what is your favourite punishment'.
+
+[Info] You will need to find the NPCs mentioned by Harnquist. Then you should open the quest menu window. You will then have to manually type, and ask, the questions you have been asked to by Harnquist.
+
+[To] Burdess Quirain
+
+[NPC Internal] What is your favourite fish
+[NPC] Burdess Quirain: My favourite fish?
+[NPC] Burdess Quirain: Ummm...
+[NPC] Burdess Quirain: I normally go for lionfish when I get the chance.
+
+
+[To] Jardet Forsill
+
+[NPC Internal] What is your favourite flower
+[NPC] Jardet Forsill: I'm not sure I have a favourite flower.
+[NPC] Jardet Forsill: As all things created by Xiosia are as wonderful as one another.
+[NPC] Jardet Forsill: But perhaps..if I had to choose to have a garden of one, perhaps the daintywhisp.
+
+
+[To] Charisa Malod
+
+[NPC Internal] What is your favourite potion
+[NPC] Charisa Malod: Ah, my favourite potion...
+[NPC] Charisa Malod: Well, that's a hard one.
+[NPC] Charisa Malod: It would depend on if you mean of my favourite to make, or the one with my favourite effect.
+[NPC] Charisa Malod thinks for a few moments.
+[NPC] Charisa Malod: I think the intelligence potions are my favourite ones, watching the face of someone being out smarted for someone who they think is less intelligent is priceless.
+
+
+[To] Darven Bounash
+
+[NPC Internal] What is your favourite game
+[NPC] Darven Bounash: My favourite game!
+[NPC] Darven Bounash: A card game, any card game.
+[NPC] Darven Bounash: Just so long as I can win.
+
+
+[To] Hamel Warson
+
+[NPC Internal] What is your favourite tool
+[NPC] Hamel Warson: Favourite tool?
+[NPC] Hamel Warson: That's easy.
+[NPC] Hamel Warson: My hammer.
+
+
+[To] Jefecra Harcrit
+
+[NPC Internal] What is your favourite punishment
+[NPC] Jefecra Harcrit: I do not like having to punish anyone.
+[NPC] Jefecra Harcrit: But I find that banishment can be an effective means of deterring someone from being a repeat criminal.
+
+
+[To] Harnquist
+
+[NPC Internal] [You tell Harnquist all of the answers you found.]
+[NPC] Harnquist: HA!
+[NPC] Harnquist: Excellent!
+[NPC] Harnquist: You will be surprised how many people have lots to say when you just ask them questions.
+[NPC] Harnquist: You don't have to be helping someone to talk to them about something.
+[NPC] Harnquist: There are lots of things you can talk about.
+[NPC] Harnquist: You could ask "who are you" if you do not know.
+[NPC] Harnquist: You can ask "tell me about yourself" if you want to know about the person you're talking too.
+[NPC] Harnquist: Perhaps be polite and ask them "how are you".
+[NPC] Harnquist: There are many things you could ask about.
+
+[Reward] [XP] 8000

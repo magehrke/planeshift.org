@@ -1,0 +1,64 @@
+[Questname] Knowledge of the Blue Way Adept
+[NPC Name] Tarmeen Alecheech
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Blue Way Adept; [Item] 1, Adept's Blue Way Wand; [Item] 1, Apprentice's Blue Way Bracers; [Skill] 70, Blue Way
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Please accept my Way Wand as proof of being a student.
+[NPC] Tarmeen: We have no time to waste.
+[NPC] Tarmeen: Pawprech's had some trouble with his herd, I sent in a Crystal Way Adept that helped out, but we need to find the source of his trouble.
+[NPC] Tarmeen: We can get back to your training after.
+[NPC] Tarmeen: I need you to head over there straight away and help Pawprech.
+[NPC] Tarmeen: Tell him that you are there to help him.
+
+[To] Pawprech Forsill
+
+[NPC Internal] I was sent to help.
+[NPC] Pawprech: Finally, I have been waiting for Tarmeen to send me someone to help again.
+[NPC Narrate] -Pawprech points to his goujah.-
+[NPC] Pawprech: It seemed as if the feed we gave to my animals had some sort of magical toxin in it that made them all blind, but the bags it came out of show no signs of the toxin.
+[NPC Narrate] -Pawprech points towards the trough blocked off from the goujah.-
+[NPC] Pawprech: I think the trough may have a magical residue from Winch operations that is poisoning my goujah.
+[NPC] Pawprech: I was sent two of these glyphs by Tarmeen.
+[NPC Narrate] -Pawprech hands you one of the glyphs.-
+[NPC] Pawprech: But I do not know how to use it to check for such high level magic.
+[NPC] Pawprech: Is there a Glyph or Glyph combination that works with this one that you might suggest?
+[NPC Internal] Use Object and Divination Glyphs.
+[NPC Narrate] -Pawprech tries the glyph combination, then opens his eyes in excitement.-
+[NPC] Pawprech: Of course, Analyse Dweomer, it is stronger than the standard Dweomer Detection.
+[NPC Narrate] -Pawprech starts the spell on the feeding trough, which responds by a faint glow.-
+[NPC] Pawprech: Interesting.
+[NPC] Pawprech: It seems as if there is some sort of magic residue here.
+[NPC] Pawprech: I will have to study this further to find the source.
+[NPC] Pawprech: I must reward you for your help.
+[NPC Narrate] -Pawprech removes some glyphs from his Glyph sack. After sorting through them he puts them all back.-
+[NPC] Pawprech: I have a need for all of these, so can't part with them.
+[NPC] Pawprech: I tell you what.
+[NPC] Pawprech: You hold on to that glyph I gave you, and give Tarmeen my thanks.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Pawprech sends his thanks.
+[NPC] Tarmeen: You did well then, as I knew you would.
+[NPC] Tarmeen: As you might have surmised, that was also part of your training.
+[NPC Narrate] -Tarmeen gives a warm smile.-
+[NPC] Tarmeen: Now hand me your bracers please.
+[NPC Internal] My bracers as requested.
+[NPC] Tarmeen: These no longer belong to you.
+[NPC] Tarmeen: Now, before we move on I must ask you a question.
+[NPC] Tarmeen: Each Way of magic has One Way that opposes it.
+[NPC] Tarmeen: Glyphs of these two Ways are very difficult and dangerous to attempt to combine.
+[NPC] Tarmeen: Once started in a Way, it may be difficult to join the opposing Way Circle for safety reasons.
+[NPC] Tarmeen: Each Way also has two Ways that support it, combining easily and with little danger.
+[NPC] Tarmeen: For your test of knowledge, answer what two other Ways of magic support the Blue Way.
+[NPC Internal] crystal brown
+[NPC] Tarmeen: Correct.
+[NPC Narrate] -Tarmeen removes a set of bracers from a bag and hands them.-
+[NPC] Tarmeen: These are your new bracers, also stronger and more powerful than the Apprentice item.
+[NPC] Tarmeen: Return to me again with your wand later, and when I think you are ready we will have your final test for this section of your testing.
+
+[Reward] [XP] 15000; [Item] 1, Object glyph; [Item] 1, Adept's Blue Way Bracers; [Faction] 30, Blue Order
+

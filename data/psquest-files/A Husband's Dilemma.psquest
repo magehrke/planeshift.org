@@ -1,0 +1,138 @@
+[Questname] A Husband's Dilemma
+[NPC Name] Jeyarp Grotemey
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Loren Chama needs a wood sculpture
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] Hi, I was wondering if you had something I can help you with?
+[NPC Narrate] -Jeyarp looks you over and whispers to you.-
+[NPC] Jeyarp: Yes, you can help me.
+[NPC] Jeyarp: I need to figure out what my wife wants for our marriage remembrance ceremony coming up.
+[NPC] Jeyarp: She thinks that I know what she wants, but I haven't a clue!
+[NPC] Jeyarp: Can you give me a hand?
+[NPC Internal] Ok, I'll try my best. Where shall I start?
+[NPC] Jeyarp: Great!
+[NPC Narrate] -Jeyarp suddenly realizes he was talking too loud and continues in a hushed whisper.-
+[NPC] Jeyarp: I recently ran across this traveling Dermorian merchant and bought Gayla a pretty little book with silver runes.
+[NPC] Jeyarp: It came with a nice bookmark as well.
+[NPC] Jeyarp: She opened it up to the bookmarked page and read it, and she jumped up and down, all excited.
+[NPC Narrate] -Jeyarp checks to make sure his wife is not listening. He continues to whisper.-
+[NPC] Jeyarp: She said that it was the 'perfect gift' and she's the 'luckiest woman alive.'
+[NPC] Jeyarp: Well, I was a bit surprised because the book was not very expensive, even though it was written in her native language.
+[NPC] Jeyarp: I figured it must be a great book.
+[NPC] Jeyarp: But she gave me the book back, not even reading another page, and said she can't wait for 'the rest!'
+[NPC Narrate] -Jeyarp looks anxious.-
+[NPC] Jeyarp: I just smiled and nodded, but I really don't know what she's expecting!
+[NPC Internal] What was written inside the book?
+[NPC] Jeyarp: Oh, I could not read it, so I sold it to Jayose.
+[NPC Narrate] -Jeyarp rubs the back of his head.-
+[NPC] Jeyarp: Gayla didn't want it back.
+
+[To] Jayose
+
+[NPC Internal] Greetings, I am looking for a book that Jeyarp sold you.
+[NPC] Jayose: Greetings, Madam.
+[NPC] Jayose: You are interested in that book Jeyarp sold me, are you?
+[NPC] Jayose: I still have it here in the desk.
+[NPC] Jayose: I was hoping to find a buyer for it, as I believe the library already has a few copies just like it.
+[NPC] Jayose: You may have it for just fifty tria.
+[NPC Internal] Here's the money.
+[NPC] Jayose: Thank you.
+[NPC Narrate] -Jayose takes the book out from under his counter and looks at it.-
+[NPC] Jayose: It even still has the bookmark.
+[NPC Narrate] -Jayose gives you the book.-
+[NPC] Jayose: One book with an indecipherable title.
+[NPC] Jayose: Well, not truly.
+[NPC] Jayose: My assistant Arion could probably translate the Dermorian for you, but I haven't seen him around today.
+[NPC] Jayose: Probably out reading poetry somewhere again.
+
+[To] Arion Fildar
+
+[NPC Internal] Can you translate a book for me?
+[NPC] Arion: Hmmm?
+[NPC] Arion: You want me to look at some book you have?
+[NPC Internal] Yes please.
+[NPC] Arion: By the Crystal…
+[NPC Narrate] -Arion sighs in mild exasperation.-
+[NPC] Arion: As if Jayose didn't give me enough to do already.
+[NPC] Arion: All right, give me the book.
+[NPC Internal] This is the book.
+[NPC] Arion: Hmmm…
+[NPC Narrate] -Arion Fildar studies the book, gently turning pages.-
+[NPC] Arion: Oh yes.
+[NPC] Arion: I have seen this many times.
+[NPC] Arion: It is a Dermorian gift book.
+[NPC] Arion: You just mark the page of the gift and pass it to the one you are giving a gift.
+[NPC] Arion: The page holds a riddle that describes the gift.
+[NPC] Arion: Later, you give the gift and they reveal if they guessed it correctly.
+[NPC] Arion: Did you want me to translate the bookmarked page?
+[NPC Internal] Oh yes please!
+[NPC] Arion: I can translate a page for you.
+[NPC] Arion: Don't ask me for help with the riddles though.
+[NPC] Arion: I am no good at those.
+[NPC] Arion: Let's see…
+[NPC Narrate] -Arion opens the book and turns to the bookmarked page.-
+[NPC] Arion: Ahh, here we go.
+[NPC] Arion: Three riddles here.
+[NPC] Arion: They rhyme beautifully in the Dermorian tongue; it loses a little bit in translation but I think I have it.
+[NPC] Arion: The first riddle:
+[NPC Narrate] -Arion clears his throat.-
+[NPC] Arion: Hexa and Octa, brothers in light.
+[NPC Narrate] -Arion looks expectantly at you.-
+[NPC Internal] purple
+[NPC] Arion: Well, yes.
+[NPC] Arion: The color violet does make sense!
+[NPC] Arion: Good thinking.
+[NPC] Arion: Let's try the next one.
+[NPC Narrate] -Arion pauses a second, frowning slightly as he focuses on the text.-
+[NPC] Arion: Found deep in rock or swimming in a stream, we are prized for our beauty.
+[NPC] Arion: We are fire, ice or foliage hardened.
+[NPC Internal] crystal
+[NPC] Arion: Yes.
+[NPC] Arion: Yes.
+[NPC] Arion: A gem.
+[NPC] Arion: Even I knew that one.
+[NPC] Arion: Now, the last one.
+[NPC] Arion: It is pretty short.
+[NPC Narrate] -Arion gives a dramatic pause.-
+[NPC] Arion: A bottomless container to put flesh and blood in.
+[NPC Internal] ring
+[NPC] Arion: Yes, that works.
+[NPC] Arion: Kind of a disturbing way of describing a ring, but it works.
+[NPC] Arion: It is not quite so odd in the original Dermorian.
+[NPC Narrate] -Arion closes the book and peeks closely at it.-
+[NPC] Arion: Ah, here's the hidden latch.
+[NPC Narrate] -Arion pushes at a flap of leather and latches the book closed.-
+[NPC] Arion: Now, if you excuse me, I have other things I need to attend to.
+[NPC Narrate] -Arion gives the book back to you.-
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] I figured out the next gift is a ring.
+[NPC] Jeyarp: Yes, my wife loves rings, but what kind of ring?
+[NPC Internal] amethyst ring
+[NPC] Jeyarp: Is that right?
+[NPC Narrate] -Jeyarp double-checks to make certain that his wife is not paying attention.-
+[NPC] Jeyarp: She thinks I am going to get her an amethyst ring?
+[NPC] Jeyarp: How do you know?
+[NPC Internal] The book was a riddle book, that gives clues to the next gift.
+[NPC] Jeyarp: Ahhh…
+[NPC] Jeyarp: I see, very clever.
+[NPC] Jeyarp: And I know just the place to get this ring for her!
+[NPC] Jeyarp: That book sounds like it could be a lot of fun, now that I have a clue about how to use it.
+[NPC] Jeyarp: May I please have it back?
+[NPC Internal] Yes, I have your book.
+[NPC] Jeyarp: Thank you.
+[NPC Narrate] -Jeyarp holds out his hands for the book.-
+[NPC Internal] Here you are.
+[NPC] Jeyarp: Wonderful…
+[NPC] Jeyarp: I appreciate all you have done to help me!
+[NPC] Jeyarp: I hope you don't take offense if I offer you a little money for your assistance.
+[NPC Narrate] -Jeyarp pulls some coins from his purse and gives them to you.-
+[NPC] Jeyarp: Thank you so much for helping me sort this out!
+
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Crafting Association
+

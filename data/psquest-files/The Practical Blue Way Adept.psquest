@@ -1,0 +1,95 @@
+[Questname] The Practical Blue Way Adept
+[NPC Name] Tarmeen Alecheech
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge of the Blue Way Adept; [Item] 1, Adept's Blue Way Wand; [Item] 1, Apprentice's Blue Way Robe; [Skill] 90, Blue Way
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Please except my Way Wand as proof of being a student.
+[NPC] Tarmeen: As our time is coming to an end, I must admit that you have been a very good student.
+[NPC] Tarmeen: You have proven well your applied knowledge, YOU.
+[NPC] Tarmeen: It has not been easy to keep my faith from coloring your training, but I believe I have done so up to now.
+[NPC] Tarmeen: The Circles try to remain separate from the religions, as each Circle contains worshipers of all gods.
+[NPC] Tarmeen: In saying that, I need your help on a matter.
+[NPC Narrate] -Tarmeen hands back the wand.-
+[NPC] Tarmeen: Zhaomal of the Shadowcasters at the Eagle Bronze Doors has put in an urgent request, I need you to go there and let him know you are there to help.
+
+[To] Zhaomal Shehan
+
+[NPC Internal] Tarmeen sent me.
+[NPC] Zhaomal: And Adept of the Blue Way?
+[NPC Narrate] -Zhaomal looks at you with some curiosity.-
+[NPC] Zhaomal: No matter, you will do.
+[NPC Narrate] -Zhaomal taps his chin.-
+[NPC] Zhaomal: The family of a young Shadowcaster residing in Sarpendil has become ill.
+[NPC] Zhaomal: The cause is worms that have invaded the family’s home, residing in the floor of the house.
+[NPC] Zhaomal: The worms love heat, and the house is near a hot spring.
+[NPC] Zhaomal: The worms give off a toxic gas when they feed.
+[NPC] Zhaomal: Only cold can kill them, that I know.
+[NPC] Zhaomal: But, they have had no luck with the basic glyph.
+[NPC] Zhaomal: So Sir Blue Way Adept, what spell or glyphs do you suggest?
+[NPC Internal] Cast Icy Ground.
+[NPC Narrate] -Zhaomal raises an eyebrow.-
+[NPC] Zhaomal: Freeze the ground?
+[NPC] Zhaomal: Well, that may inconvenience the family, but it should work.
+[NPC] Zhaomal: I can see why Tarmeen sent you.
+[NPC] Zhaomal: Sometimes it takes a simpler mind to see the simple solutions.
+[NPC Narrate] -Zhaomal removes a Glyph from his glyph sack, and then pulls out another type of glyph.-
+[NPC] Zhaomal: Look at that.
+[NPC] Zhaomal: It seems I have an extra glyph here.
+[NPC] Zhaomal: Even I do not need more than one of each glyph.
+[NPC Narrate] -Zhaomal shakes his head.-
+[NPC] Zhaomal: You know what; you may have this glyph for helping.
+[NPC] Zhaomal: Perhaps you will consider joining the Shadowcasters in time.
+[NPC] Zhaomal: You do not need to join now, nor do I think you have enough talent.
+[NPC] Zhaomal: For that, you must achieve Adept status in all Way Circles, and Master in none.
+[NPC] Zhaomal: I only ask you consider it if that time comes.
+[NPC] Zhaomal: One more thing, do say thank you to Tarmeen for sending such a talented Enkidukai.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Zhaomal sends his thanks.
+[NPC] Tarmeen: Well done, always interesting trying to break through that Shadowcaster's arrogance.
+[NPC] Tarmeen: Once you have, he is not so bad.
+[NPC Narrate] -Tarmeen gives a warm smile.-
+[NPC] Tarmeen: That robe you carry is no longer suitable for one of your skill.
+[NPC] Tarmeen: Please give it to me now.
+[NPC Internal] My robe as requested.
+[NPC] Tarmeen: As with the bracers, this no longer belongs to you.
+[NPC] Tarmeen: Now for your last question, this one is very important, as it will affect what you choose to do next.
+[NPC] Tarmeen: Tell me what Way directly opposes the Blue Way.
+[NPC Internal] red
+[NPC] Tarmeen: Correct again, Fire and ice and all that.
+[NPC] Tarmeen: You have proven your knowledge of the Blue Way to me.
+[NPC] Tarmeen: I am honored to present you with your new robe, full Adept of the Blue Way.
+[NPC Narrate] -Tarmeen hands you a neatly folded robe.-
+[NPC] Tarmeen: I am sure Zhaomal tried to convince you to consider joining the Shadowcasters.
+[NPC] Tarmeen: If you are considering it, your last chance will soon be upon you.
+[NPC] Tarmeen: Take your new robe and show it to Barrin.
+[NPC] Tarmeen: He will tell you of the choices you have to make.
+
+[To] Barrin Dhorod
+
+[NPC Internal] Please except my Way Robe as proof of being a worthy student.
+[NPC] Barrin: Tarmeen has approved of you.
+[NPC] Barrin: Good.
+[NPC] Barrin: Now you have to make a choice, YOU.
+[NPC] Barrin: This is the last chance to change your mind in your chosen Way.
+[NPC] Barrin: Let me be very clear on this.
+[NPC] Barrin: If you continue on the path to the rank of Way Master in the Blue Way Circle, you will not be able to advance beyond Adept, the rank you are now in the Red Way Circle.
+[NPC] Barrin: Nor will you be able to advance beyond Adept in the Azure and Dark Way Circles.
+[NPC] Barrin: You will however be allowed to advance past the first Master's rank in Brown and Crystal Way Circles, as they complement the power you will use as a Blue Way mage.
+[NPC] Barrin: Do you understand this?
+[NPC Internal] Yes, I do.
+[NPC] Barrin: Very well.
+[NPC] Barrin: If you wish to follow the Blue Way to the pinnacle of its majesty, you will need to finish your training to the extent of Tarmeen's abilities.
+[NPC] Barrin: Then you may come to me and give me your wand together with another Adept's Blue Way Wand and one Apprentice's Blue Way Wand which also may be borrowed from a fellow student.
+[NPC] Barrin: This is to prove you have the respect and trust of your Adept peers, as well as the Apprentices.
+[NPC] Barrin: Remember, once you bring these three wands to me, there will be no turning back.
+[NPC] Barrin: Think long and hard before you make this choice.
+[NPC] Barrin: I am sure I will see you soon, YOU.
+
+[Reward] [XP] 16400; [Item] 1, Net glyph; [Item] 1, Adept's Blue Way Robe; [Faction] 35, Blue Order
+

@@ -1,0 +1,32 @@
+[Questname] Introduction to Laanx
+[NPC Name] Sharven Xant-Areth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Greetings high priest of Laanx, I would like to learn more about Laanx religion.
+[NPC] Sharven: Welcome to the temple of Laanx, also called the Masked God.
+[NPC] Sharven: I can give some more information on our religion and our methods, so you can be prepared for your next steps in our Order.
+[NPC Internal] Can you tell me more about this temple.
+[NPC] Sharven: This temple has been built long time ago as the Xacha, my race, established themselves into Yliakum.
+[NPC] Sharven: Laanx appeared to the Xacha when they were lost into the Stone Labyrinths, as a gift to Laanx they build this temple.
+[NPC Internal] How does the order work?
+[NPC] Sharven: The order is called The Iron Hand, and has its main headquarter in this temple.
+[NPC] Sharven: It's organized in five main groups called seats: Pryam, Noctar, Vestru, Ogam, Sempter.
+[NPC] Sharven: Each has a specific function inside our order and all work in harmony to serve Laanx.
+[NPC Internal] Which seat I will start in if I join?
+[NPC] Sharven: Don't worry about this, we will watch your actions for some time and then decide what's the best seat for you.
+[NPC Internal] What will be my tasks?
+[NPC] Sharven: At the beginning the most important task is to know the members of Iron Hand, help them perform their tasks, read every book you can find on Laanx religion, and pray.
+[NPC] Sharven: You can pray here in the temple whenever you want.
+[NPC Internal] I'm sorry to ask about this, but what will be the benefits of being in the Iron Hand?
+[NPC] Sharven: The main benefit is to get closer to Laanx, and be known to him.
+[NPC] Sharven: Another benefit is to be part of a large organization, which can support you in case of need.
+[NPC Internal] Ok, I think I have all the information I need.
+[NPC] Sharven: Great, if you want to continue please speak with Menlil, he is usually at the entrance of the temple.
+
+[Reward] [Money] 1000; [XP] 8000; [Faction] 5, Iron Hand
+

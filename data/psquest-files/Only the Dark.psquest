@@ -1,0 +1,20 @@
+[Questname] Only the Dark
+[NPC Name] Londris Kolaim
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Practical Dark Way Adept; [Item] 2, Adept's Dark Way Wands; [Item] 1, Apprentice's Dark Way Wand; [Skill] 100, Dark Way
+
+[To] Londris Kolaim
+
+[NPC Internal] Take these wands, they are proof of my commitment to the Dark Way.
+[NPC] Londris: At last, you made a choice.
+[NPC] Londris: Are you ready to met her?
+[NPC Internal] Yes I am.
+[NPC] Londris: You will have no way back after the encounter.
+[NPC] Londris: But first, return the other wands to their owners, then enter Dsar Kore, after the statue of the warrior you arrive in the ward of the fightings.
+[NPC] Londris: You can find her just opposite the arena, in a exclusive house.
+[NPC] Londris: Show her your own wand, and do your best to please her.
+
+[Reward] [XP] 17800; [Faction] 40, Dark Order
+

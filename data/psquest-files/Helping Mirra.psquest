@@ -1,0 +1,28 @@
+[Questname] Helping Mirra
+[NPC Name] Mirra Houphen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Meeting Mirra Houphen; [Item] 2, Clacker Meat; [Item] 2, Clacker Legs
+
+[To] Mirra Houphen
+
+[NPC Internal] I'm back to see if you need anything else.
+[NPC] Mirra: You did such a great job last time, Enkidukai!
+[NPC] Mirra: I'm pretty sure you can help me again!
+[NPC] Mirra: This time I lack two ingredients for my soon to be famous 'Clacker Calamity,' which will be a delicious stew!
+[NPC] Mirra: Do you want to help?
+[NPC Internal] Sounds yummy, what do you need?
+[NPC] Mirra: Perfect.
+[NPC] Mirra: I could make this dish with some clacker meat: two pieces should do.
+[NPC] Mirra: And then two clacker legs to give that crispy effect.
+[NPC] Mirra: Please bring those to me.
+[NPC Internal] Here are your clacker bits.
+[NPC] Mirra: You did it again, YOU!
+[NPC] Mirra: I'm so happy with you!
+[NPC] Mirra: Soon there should be even more work for you to do.
+[NPC] Mirra: For now, take this reward.
+[NPC] Mirra: You've earned it in the sight of the gods.
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Food Association
+

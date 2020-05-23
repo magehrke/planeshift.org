@@ -1,0 +1,35 @@
+[Questname] Terea's Gloves
+[NPC Name] Terea Lohdren
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Terea Lohdren
+
+[NPC Internal] Do you need anything?
+[NPC Narrate] -Terea gestures at her arm, which has several scratches on it.-
+[NPC] Terea: I've ruined my last pair of gloves, and now I have to handle my birds without any protection.
+[NPC] Terea: I ordered some from Jeyarp a while ago and even paid for them in advance.
+[NPC] Terea: Can you pick up the finished gloves for me?
+[NPC Internal] Yes, I will get them for you.
+[NPC] Terea: Thank you.
+[NPC] Terea: I need to look after some birds soon, so please be quick.
+[NPC] Terea: Simply tell Jeyarp that I sent you.
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] Terea Lohdren sent me for some gloves.
+[NPC Narrate] -Jeyarp produces a pair of gloves.-
+[NPC] Jeyarp: I have her gloves ready.
+[NPC] Jeyarp: Here they are.
+
+[To] Terea Lohdren
+
+[NPC Internal] I have some gloves for you.
+[NPC Narrate] -Terea smiles at you and hands you some coins.-
+[NPC] Terea: Many thanks.
+[NPC] Terea: If you ever need a favour, simply ask.
+
+[Reward] [Money] 1000; [XP] 8000
+

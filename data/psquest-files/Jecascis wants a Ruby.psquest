@@ -1,0 +1,30 @@
+[Questname] Jecascis wants a Ruby
+[NPC Name] Jecascis Airiskel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes
+
+[To] Jecascis Airiskel
+
+[NPC Internal] Hail! Any unfinished business I can assist you with?
+[NPC] Jecascis: Sure.
+[NPC] Jecascis: Would you mind doing something for me?
+[NPC] Jecascis: I'd do it myself but I'm on duty.
+[NPC] Jecascis: What say you?
+[NPC Internal] Sure, that's why I am here.
+[NPC] Jecascis: Oh, great.
+[NPC] Jecascis: I'm looking to understand the Red Way better so I can improve my skills for the Arena.
+[NPC] Jecascis: I know that the Red Way practitioners uses ruby crystals as a focus, so if you don't mind finding me one?
+[NPC] Jecascis: I'm not sure where you can get them, though; that'll be your assignment.
+[NPC] Jecascis: Good luck!
+[NPC Internal] I found a ruby crystal for you.
+[NPC] Jecascis: You…this…but how?
+[NPC] Jecascis: I've been looking hither and yon for one of these without success.
+[NPC] Jecascis: I was expecting you to return empty-handed.
+[NPC] Jecascis: Thank you ever so much!
+[NPC] Jecascis: Have some of my spoils from the Arena floor.
+[NPC] Jecascis: I was going to sell them once I got off duty, but you can have them.
+
+[Reward] [XP] 16400; [Item] 1, Trepor Heart
+

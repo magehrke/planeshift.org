@@ -1,0 +1,60 @@
+[Questname] Hiacheius Lost a Valuable Book
+[NPC Name] Hiacheius Dilechi
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Canyt Needs a Stone Tablet Identified; [Item] 1, Golden Shield Diagram
+
+[Info] You get the Golden Shield Diagram from the Canyt Needs a Stone Tablet Identified quest.
+
+[To] Hiacheius Dilechi
+
+[NPC Internal] Do you need help with something?
+[NPC] Hiacheius: Hrm…er…
+[NPC Narrate] -Hiacheius looks somewhat frazzled.-
+[NPC] Hiacheius: Umm, I am somewhat b-b-busy here, hmm.
+[NPC] Hiacheius: Let me think, hmm…
+[NPC] Hiacheius: Well, I do not know.
+[NPC Narrate] -Hiacheius bangs his head with his hand.-
+[NPC] Hiacheius: Think old man …
+[NPC] Hiacheius: think!
+[NPC] Hiacheius: Hmm, grr, there must be something I w-w-wanted…
+[NPC] Hiacheius: By the g-gods!
+[NPC] Hiacheius: I recall a friend of mine asked me for some p-p-plans, a book of some sort, but now I seem to have misp-placed it.
+[NPC] Hiacheius: Hmm, and I cannot recall what it was about.
+[NPC] Hiacheius: Hmm…
+[NPC] Hiacheius: Urp!
+[NPC] Hiacheius: Now I remember!
+[NPC] Hiacheius: My friend wanted a Golden Shield Diagram.
+[NPC] Hiacheius: That is it!
+[NPC] Hiacheius: It was difficult to come by, if I recall, and now it has gone m-m-missing; if you can find it, I will give you a nice reward.
+[NPC] Hiacheius: Do you accept?
+[NPC Internal] Sounds good, I'll start right away.
+[NPC] Hiacheius: I wish I even knew where to look.
+[NPC] Hiacheius: I hope you find it; that diagram is rare.
+[NPC] Hiacheius: Alright then, I will see you when you have a copy of the Golden Shield Diagram to give me.
+
+[Give] Hiacheius Dilechi; 1, Golden Shield Diagram
+
+[NPC Internal] I found your book.
+[NPC] Hiacheius: Oh joy, you have returned it!
+[NPC] Hiacheius: You have made an old dwarf very happy indeed!
+[NPC] Hiacheius: Yes indeed this is it!
+[NPC] Hiacheius: You have done well by me.
+[NPC] Hiacheius: I will tell you what, I was going to reward you w-w-with 1000 tria, but if you want to try to answer my p-p-puzzle I will d-double it.
+[NPC] Hiacheius: If you cannot answer correctly you get nothing but the experience of having helped an old dwarf.
+[NPC] Hiacheius: Will you attempt my puzzle?
+[NPC Internal] Sure, I'll try your riddle.
+[NPC] Hiacheius: Wee!
+[NPC] Hiacheius: I suppose you think yourself smart, well we shall see.
+[NPC] Hiacheius: Here is my puzzle: Trasok is working late in the night he needs gloves for a project but they are upstairs, he goes upstairs but forgets his lantern. In a drawer, he has six pairs of black gloves and six pairs of red gloves.
+[NPC] Hiacheius: Each pair has a right hand glove and a left hand glove, other than this and their color, the black and red gloves are identical in every way. In the complete darkness, how many gloves must he take from the drawer to be sure to get a right and left glove of the same color?
+[NPC] Hiacheius: Beware that your first answer will be the one I take!
+[NPC] Hiacheius: No second chance, I need one number!
+[NPC Internal] 13
+[NPC] Hiacheius: Ah, poor me, that is correct!
+[NPC] Hiacheius: Well done you have no idea how many people fail to get that!
+[NPC] Hiacheius: Trasok could take out six black left hand gloves and then six red left hand gloves, the next one would have to be either the right hand or left hand match.
+
+[Reward] [Money] 2107; [XP] 10800
+

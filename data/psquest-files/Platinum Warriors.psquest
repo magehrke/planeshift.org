@@ -1,0 +1,199 @@
+[Questname] Platinum Warriors
+[NPC Name] Percival Hawthorne
+[Checkup] 2017-04-09
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Keen Conflict and Sword-Play
+
+[To] Percival Hawthorne
+
+[NPC Internal] Good day Percival, I am Huarwar...
+[NPC ME] Percival Hawthorne seems startled as you mention your name but it quickly turns to a large smile.
+[NPC] Percival: Ah, Huarwar!
+[NPC] Percival: Your name was passed to me as the latest Recruit of the Order.
+[NPC] Percival: Pleased to meet you.
+[NPC] Percival: Or maybe we've already met before, if so, sorry, I see so many people each day I often don't remember.
+[NPC] Percival: Please don't take offence.
+[NPC] Percival: In fact, I am glad you are here.
+[NPC ME] Percival Hawthorne begins to look somewhat preoccupied.
+[NPC] Percival: Huarwar...you wouldn't mind if I throw you into the Order's missions a little earlier then planned, would you?
+[NPC Internal] No...But what's happened, you seem worried. Gregori told me to come to you once I felt I was skilled enough.
+[NPC] Percival: Yes, of course, and you did well to come to me!
+[NPC] Percival: I will gladly work with you, I love teaching and sharing knowledge.
+[NPC] Percival: I dedicate almost all my free time to the Order, helping the organisation, practising.
+[NPC] Percival: But something has happened and I'm stuck on duty.
+[NPC] Percival: As much as I love my guard job, I feel very powerless at the moment.
+[NPC ME] Percival Hawthorne explains.
+[NPC] Percival: The original goal of the Order was to create a centre where sword masters could meet and share their knowledge in a friendly way and in a secure space.
+[NPC] Percival: With time, the Order's goals developed and as our numbers grew, it turned towards noble causes, helping those who could not help themselves.
+[NPC Internal] Oh really? I didn't know that. I like it!
+[NPC] Percival: Well!
+[NPC] Percival: I am glad you do!
+[NPC] Percival: Hear me.
+[NPC Narrate] -He says, sort of relieved.-
+[NPC] Percival: An hour ago, a young Dermorian came to find me in a hurry, from a farming hamlet along the Irifon river.
+[NPC] Percival: He told me that a group of serpent gobbles appeared on their land, probably pushed by hunger, risking conflict with humans.
+[NPC] Percival: They showed an aggressive behaviour and their number has been constantly growing according to his testimony.
+[NPC ME] Percival Hawthorne seems greatly embarrassed not to be able to go help and tightens the guard of his sabre in his hand.
+[NPC] Percival: Not that it makes it more important, but this land belongs to a member of the Order, an important wine merchant residing in The Winch, here in Hydlaa.
+[NPC Internal] Oh, that's why the Dermorian came to find you then. I am on it. Where should I go?
+[NPC] Percival: The Dermorian is called Tebengrin Nilaiun and lives in Ojaveda.
+[NPC ME] Percival Hawthorne sighs.
+[NPC] Percival: He told me he would go back to the hamlet directly but I can't quite give you the exact location because, well, I'm not really familiar with it.
+[NPC] Percival: I advise you to ask around in Ojaveda, in the tavern for example.
+[NPC] Percival: They must have heard something.
+[NPC] Percival: Hurry, Huarwar!
+
+[To] Brado
+
+[NPC Internal] Hello Brado. Have you seen a Dermorian in a hurry today, in the past hour maybe? He is called Tebengrin Nilaiun.
+[NPC ME] Brado chuckles.
+[NPC] Brado: Good day, tabei!
+[NPC] Brado: What a question.
+[NPC] Brado: A Dermorian in a hurry?
+[NPC] Brado: It's not exactly a rare sight, even in Ojaveda.
+[NPC] Brado: Also to tell you the truth, I've spent the past two hours sleeping.
+[NPC] Brado: I don't know what's happened to me lately, but I've been coughing and sneezing!
+[NPC] Brado: It leaves me so tired...
+[NPC ME] Brado scratches his belly.
+[NPC] Brado: Ask Tilavi or Fruntar, hopefully they were around.
+[NPC] Brado: And I say hopefully because they are paid to do so!
+
+[To] Tilavi Aurenta
+
+[NPC Internal] Tilavi, have you seen a Dermorian hurrying around in the last hour, talking about gobbles, or attacks?
+[NPC MY] Tilavi Aurenta's ears peek.
+[NPC] Tilavi: Gobbles?
+[NPC] Tilavi: Attack?
+[NPC] Tilavi: Where?
+[NPC] Tilavi: By the gods!
+[NPC] Tilavi: I will tell Brado that I'm going home immediately!
+[NPC Internal] No, no wait! There are no attacks here. Please, have you seen Tebengrin Nilaiun today?
+[NPC ME] Tilavi Aurenta sighs.
+[NPC] Tilavi: Terebe daag!
+[NPC] Tilavi: If Brado paid me for half a day, I would work half a day and not the whole day!
+[NPC] Tilavi: I got here to duty only ten minutes ago.
+[NPC] Tilavi: Therefore, I am sorry but I cannot help you.
+
+[To] Fruntar Durek
+
+[NPC Internal] Fruntar, sorry to disturb but have you seen Tebengrin today?
+[NPC] Fruntar: Oh?
+[NPC ME] Fruntar Durek explains slowly, which seems to be his usual way to speak.
+[NPC] Fruntar: Funny that you ask me that.
+[NPC] Fruntar: An hour ago, Tebengrin rushed into the tavern while we were full of customers and began shouting about an attack on Pathajiti.
+[NPC] Fruntar: Demanding that we needed to help, before disappearing.
+[NPC ME] Fruntar Durek frowns.
+[NPC] Fruntar: Well, I wasn't too happy about it to be honest.
+[NPC] Fruntar: It left a horrible atmosphere in the tavern I had to deal with.
+[NPC] Fruntar: Then again, ten minutes ago, I saw him passing the city gates quietly, as if nothing had happened.
+[NPC] Fruntar: No, really, you should tell him that those kind of jokes are never welcomed.
+[NPC Internal] So he is back in Ojaveda? Where does he live? I need to speak to him urgently.
+[NPC] Fruntar: Oh, that nice of you to help.
+[NPC] Fruntar: But don't be too mad at him, he seemed a bit embarrassed and he is young, maybe he was seeking some attention.
+[NPC] Fruntar: He did passed the gates to enter the city, yes.
+[NPC] Fruntar: He lives in Dsar Kore, just past Archmage Ferryd's house.
+
+[To] Tebengrin Nilaiun
+
+[NPC Internal] Tebengrin? I am Huarwar, Recruit of the Order of the Keen Edge. Percival sent me to help the hamlet attacked by gobbles, do you have any news?
+[NPC] Tebengrin: Ah!
+[NPC] Tebengrin: By Xiosia, I talked to Percival hours ago.
+[NPC] Tebengrin: Well never mind though, everything is settled now.
+[NPC Narrate] -He says while smiling.-
+[NPC Internal] How is all settled, can you tell me more?
+[NPC] Tebengrin: Sure!
+[NPC] Tebengrin: I returned to Pathajiti in a hurry!
+[NPC] Tebengrin: In a small area of the hamlet there was a pile of serpent gobbles corpses, burning.
+[NPC] Tebengrin: Next to it, the farmers.
+[NPC] Tebengrin: They were all celebrating, having a drink over the victory, happy to be safe.
+[NPC] Tebengrin: They welcomed me back and offered me a glass telling me all about the event.
+[NPC] Tebengrin: What happened was a group of warriors passed by and as they heard the commotion.
+[NPC] Tebengrin: They rushed to help.
+[NPC] Tebengrin: Quickly, they faced the gobbles and in a blink of an eye, the problem was dealt with.
+[NPC] Tebengrin: Tanan, one of the farmers, said she never saw warriors killing beasts with such ease, being so well organised.
+[NPC] Tebengrin: They seemed used to fighting in group.
+[NPC ME] Tebengrin Nilaiun laughs, amused.
+[NPC] Tebengrin: She was very impressed.
+[NPC] Tebengrin: I even teased her about it, told her that she felt in love!
+[NPC Internal] Were they mercenaries then?
+[NPC] Tebengrin: Oh no, I don't think so.
+[NPC] Tebengrin: The old Berny told me that they were warriors, walking the lands to help the needy.
+[NPC] Tebengrin: He said they had a very good equipment, all platinum steel from head to toes.
+[NPC] Tebengrin: Even he saw one with a flag tied to his sword, something like the serpent of Laanx.
+[NPC] Tebengrin: Good thing I say!
+[NPC] Tebengrin: They didn't even ask for money or anything from the farmers but accepted some wine bottles as thanks.
+[NPC] Tebengrin: I don't know who they are but sounds good to me if people start to do that kind of thing!
+[NPC Internal] Well, indeed. Thank you Tebengrin. I will report to Percival now.
+[NPC] Tebengrin: Yes, all right...
+[NPC] Tebengrin: Next time, I might just contact the Platinum Warriors directly!
+[NPC Narrate] -He says, half joking.-
+
+[To] Percival Hawthorne
+
+[NPC Internal] Percival, I have news from the hamlet. The problem is solved.
+[NPC] Percival: Talad bless you, Huarwar!
+[NPC Narrate] -He says, sincerely grateful.-
+[NPC] Percival: You weren't hurt at least?
+[NPC] Percival: And Tebengrin and the farmers?
+[NPC ME] Percival Hawthorne is so eager to know that he genuinely ignores the merchant waiting for his approval to enter by The Winch gate.
+[NPC Internal] I didn't need to go to Pathajiti. I met Tebengrin in Ojaveda. [You summarise what you heard.]
+[NPC Narrate] -Instead of being impressed, Percival frowns, pinching his chin in between his thumb and his folded index finger, a thoughtful expression on his face.-
+[NPC] Percival: Curious...
+[NPC] Percival: You said there were a few with platinum steel armour and weapons?
+[NPC Internal] Yes. One of the farmers said they were clearly experienced at fighting together.
+[NPC ME] Percival Hawthorne nods, perplexed.
+[NPC] Percival: It's not just any warrior who can afford this type of equipment.
+[NPC] Percival: Furthermore, if Pathajiti is the hamlet I am thinking about, it is a tricky area.
+[NPC] Percival: The only way to reach the village, surrounded by thorny vines, is by the main road.
+[NPC] Percival: There is no reason to go there unless...
+[NPC] Percival: Your goal is to go there.
+[NPC Internal] Might they have been able to hear the screams nearby? Tebengrin said they approached because they heard the commotion.
+[NPC ME] Percival Hawthorne continues frowning, muttering to himself.
+[NPC] Percival: Hum.
+[NPC] Percival: I might just go there on my day off, to make sure...
+[NPC] Percival: As a guard...
+[NPC Narrate] -He shrugs his shoulders.-
+[NPC] Percival: Oh well!
+[NPC] Percival: I am certainly glad to hear that everyone is safe.
+[NPC] Percival: Furthermore Huarwar, I don't care if you've mastered the side slash or not!
+[NPC] Percival: I am promoting you to Initiate of the Order of the Keen Edge.
+[NPC] Percival: You went into action without hesitation and you have been so helpful that I cannot be anything but extremely grateful.
+[NPC] Percival: You are what the Order is in need of and I am very proud to call you my friend!
+[NPC Internal] Thank you, Percival!
+[NPC ME] Percival Hawthorne smiles warmly, tapping your shoulder in a friendly way.
+[NPC] Percival: Now Initiate, let's spare a bit!
+[NPC] Percival: I am more then happy to teach you another very useful and classic one-handed sword move, the Lunge.
+[NPC ME] Percival Hawthorne forms a windmill shape with his right wrist and sabre, moving as if weightless.
+[NPC] Percival: This move is a must know for every sword user.
+[NPC] Percival: You will be using it all the time, mostly as a base for some more complex moves.
+[NPC] Percival: Right...
+[NPC ME] Percival Hawthorne moves as he talks.
+[NPC] Percival: So, you extend the front leg like this, then in a controlled surge, propel your body forward with the back leg.
+[NPC Narrate] -The guard reproduces the move several times before gesturing you to do the same.-
+[NPC] Percival: Yes, like this!
+[NPC] Percival: Don't hesitate to be powerful, your back leg must throw you forward, your blade firmly pointing ahead.
+[NPC Internal] [You both are still practising when you hear someone clearing their throat.]
+[NPC] Percival: Hum?
+[NPC Narrate] -A male Nolthrir stands there, keeping his rivnak's rein in one hand and some paper in the other.-
+[NPC] Percival: Oh!
+[NPC] Percival: Sir Mitu!
+[NPC] Percival: How are you?
+[NPC] Percival: Eheh.
+[NPC] Percival: Sorry, I was having sparing with a friend.
+[NPC] Percival: Initiate Huarwar, this is Sir Gofi Mitu, one of the most famous seaweed sellers in the Winch.
+[NPC Narrate] -The Nolthrir salutes, amused and presents his paper to Percival who now dedicates all his attention to the merchant but says.-
+[NPC] Percival: My friend, it is now the rush hour, I will need to let you go.
+[NPC] Percival: Practice the lunge, practice and practice again.
+[NPC] Percival: When you are ready to know more, you could go and have a talk with Henas Kenar, one of my fellow guards in Ojaveda, end of the third block of Dsar Kore.
+[NPC Internal] Thank you again Percival, I will do so.
+[NPC] Percival: Thank you!
+[NPC Narrate] -He says before returning to the Nolthrir merchant.-
+[NPC Narrate] -After some seconds, Percival's head turns slowly toward you, showing a tense full expression.-
+[NPC] Percival: Huarwar, did you tell me that one of the platinum warriors had a sword with a small flag tied to the pommel?
+[NPC Internal] Yes. Tebengrin said it displayed the serpent, symbol of Laanx Church... Why?
+[NPC ME] Percival Hawthorne frowns and sighs darkly.
+[NPC] Percival: Because he is Roniston Shane, a member of the Order...
+[NPC] Percival: And he wasn't supposed to be there, especially without talking to me.
+
+[Reward] [Skill] 1, Sword; [Combat Move] Single Handed Sword, Lunge

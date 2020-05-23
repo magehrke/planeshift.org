@@ -1,0 +1,74 @@
+[Questname] Search for Old Pottery
+[NPC Name] Menlil Toresun
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Search for the Old Coin
+
+[To] Menlil Toresun
+
+[NPC Internal] Do you have another job for me?
+[NPC] Menlil: I used the coin you gave me and something happened, but it's still not enough for me to understand the message Laanx is trying to tell me.
+[NPC] Menlil: Probably it's just my lack of experience, but I am learning fast.
+[NPC] Menlil: I think I need a bigger object, still old, but bigger.
+[NPC] Menlil: Like an old piece of pottery.
+[NPC] Menlil: I think you might be able to find one from some old shop, or some place that might use pottery to store liquids.
+[NPC] Menlil: Can you find one for me?
+[NPC Internal] Why ever not? It sounds like fun.
+[NPC] Menlil: Great!
+[NPC] Menlil: Please try to find an old vase or something similar.
+[NPC] Menlil: The more ancient, the better.
+
+[To] Brado
+
+[NPC Internal] Do you have some old pottery I could buy? Something like an old vase?
+[NPC] Brado: Hmmm…
+[NPC] Brado: An old vase?
+[NPC] Brado: Well, I have some junk here below my counter.
+[NPC] Brado: Some of it might even be worth something!
+[NPC] Brado: But I'm not knowledgeable enough to know what is and what isn't, nor do I particularly care…
+[NPC] Brado: So I'll exchange one piece for a small amount of money.
+[NPC] Brado: Give me, say, ten tria and it's yours.
+[NPC Internal] Here is your 10 tria.
+[NPC] Brado: So you really do want that old pottery?
+[NPC Narrate] -Brado shrugs.-
+[NPC] Brado: As you wish, here it is.
+
+[To] Menlil Toresun
+
+[NPC Internal] Here, I found this piece of old pottery for you.
+[NPC] Menlil: Ah yes!
+[NPC] Menlil: This one looks quite good for the well I think.
+[NPC] Menlil: I'm pretty sure it will work.
+[NPC] Menlil: Wait here for a few minutes please.
+[NPC Narrate] -Menlil walks away.-
+[NPC Narrate] -After a few minutes, he returns.-
+[NPC] Menlil: Yes, it worked!
+[NPC] Menlil: I've finally got some kind of message from the well!
+[NPC] Menlil: Unfortunately, it's quite hard to understand, and I need you to help me again.
+[NPC] Menlil: Please go to Jayose and ask him about this phrase: 'Herta Feer Garad'.
+
+[To] Jayose
+
+[NPC Internal] I'd like to know the translation of the phrase 'Herta Feer Garad'.
+[NPC] Jayose: It's surely some magical language.
+[NPC] Jayose: I remember reading about a similar one in one of these books…
+[NPC] Jayose: I will search for it.
+[NPC Narrate] -Jayose moves into the library and starts searching the shelves. After a few minutes, he returns holding a book.-
+[NPC] Jayose: I've found it!
+[NPC] Jayose: It's related to Laanx mythology.
+[NPC] Jayose: This book says that the phrase 'Herta Feer Garad' was written on a few monuments in the legendary Kadaikos and means: 'light forms shadow'.
+[NPC] Jayose: You can give those words to the person that asked for the translation.
+
+[To] Menlil Toresun
+
+[NPC Internal] Jayose told me that phrase means 'light forms shadow'.
+[NPC] Menlil: Ahh!
+[NPC] Menlil: That's the translation..
+[NPC] Menlil: How foolish of me.
+[NPC] Menlil: How could I have missed that part?
+[NPC] Menlil: It's been a long time since I studied the holy books of Laanx and it seems that I've forgotten some quite important pieces!
+[NPC] Menlil: Anyway, thanks for your help, here is your reward.
+
+[Reward] [Money] 2107; [XP] 10800; [Item] 1, Hand glyph; [Faction] 15, Iron Hand
+

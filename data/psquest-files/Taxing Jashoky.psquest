@@ -1,0 +1,34 @@
+[Questname] Taxing Jashoky
+[NPC Name] Darphen Wrestle
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Jarop's Gem
+
+[To] Darphen Wrestle
+
+[NPC Internal] Do you have anything for me to do?
+[NPC] Darphen: You need a job?
+[NPC] Darphen: Well, there is an outstanding tax payment by Jashoky Dakarn, for the sum of fifty tria.
+[NPC] Darphen: I can't afford to do the whole journey to the Koberas pass to fetch her minor trifle, so I'd appreciate it if you could do that for me.
+[NPC] Darphen: Would you?
+[NPC Internal] Yes, I am heading in that direction.
+[NPC Narrate] -Darphen nods, a satisfied smile on his face.-
+[NPC] Darphen: I await your return, citizen.
+
+[To] Jashoky Dakarn
+
+[NPC Internal] Darphen Wrestele sent me regarding an outstanding tax payment.
+[NPC] Jashoky: You be needin' me tax?
+[NPC] Jashoky: Aye, I've been awaitin' a word from Sir Wrestele.
+[NPC Narrate] -Jashoky produces an octa from her pocket.-
+[NPC] Jashoky: Here it is.
+[NPC] Jashoky: May Xiosia protect you on thy journey.
+[NPC Narrate] -Jashoky smiles at you.-
+
+[To] Darphen Wrestle
+
+[NPC Internal] Here's the payment.
+[NPC Narrate] -Darphen pockets the coin.-
+[NPC] Darphen: Here, a small payment for the service you did.
+[NPC] Darphen: I will remember you, Enkidukai.

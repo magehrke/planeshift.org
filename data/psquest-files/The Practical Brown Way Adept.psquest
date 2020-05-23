@@ -1,0 +1,105 @@
+[Questname] The Practical Brown Way Adept
+[NPC Name] Lorytia Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge of the Brown Way Adept; [Item] 1, Adept's Brown Way Wand; [Item] 1, Apprentice's Brown Way Robe; [Skill] 90, Brown Way
+
+[To] Lorytia Starhammer
+
+[NPC Internal] Please accept my wand as prove of being a worthy student.
+[NPC] Lorytia: Your skills continue to sprout like seeds cast upon a verdant field, YOU.
+[NPC] Lorytia: So much so, it is nearly time for you to begin your Master rank testing.
+[NPC] Lorytia: Time does pass fast under Xiosia's gaze.
+[NPC] Lorytia: It seems like such a short time ago that you first came to me as only a seedling.
+[NPC Narrate] -Lorytia shakes her head then hands back the wand.-
+[NPC] Lorytia: It is time to decide on a new path for your roots to take.
+[NPC] Lorytia: I need you to go to up to the Eagle fortress for me.
+[NPC Narrate] -Lorytia points up towards the waterfall.-
+[NPC] Lorytia: Zhaomal of the Shadowcasters has requested advice on a Brown Way matter.
+[NPC] Lorytia: Let him know you are there to help.
+
+[To] Zhaomal Shehan
+
+[NPC Internal] Lorytia sent me.
+[NPC] Zhaomal: Lorytia sends one of her weeds instead of coming herself?
+[NPC Narrate] -Zhaomal looks at you with some curiosity.-
+[NPC] Zhaomal: This would be an insult if I did not need so small a favor.
+[NPC Narrate] -Zhaomal taps his chin.-
+[NPC] Zhaomal: Let's see what you know.
+[NPC] Zhaomal: A young Shadowcaster running an errand for me has fallen down in the canyon on the way up here, lucky for him he has not fallen to far, but the package he had with him went a lot further.
+[NPC] Zhaomal: The canyon is too difficult to climb without some magical assistance.
+[NPC Narrate] -Zhaomal waves his hand randomly towards where the cliffs are.-
+[NPC] Zhaomal: The fall is great, and anyone making the jump will surely die.
+[NPC Narrate] -Zhaomal picks up a small rock and drops it. It thumps into the sand at his feet.-
+[NPC] Zhaomal: Much like that.
+[NPC] Zhaomal: However, if he could be made more like this…
+[NPC Narrate] -Zhaomal pulls out a piece of soft bread that is about the same size as the rock and drops it. It hits the sand lightly, barely making a sound and leaving hardly a mark.-
+[NPC] Zhaomal: I believe if we could make the young man more like the bread, and less like the rock, he could jump down there with little harm.
+[NPC] Zhaomal: I am sure I need to combine a glyph with it.
+[NPC] Zhaomal: So Sir Brown Way Adept, what glyphs do you suggest?
+[NPC Internal] Negate and Weight glyphs.
+[NPC Narrate] -Zhaomal nods while thinking.-
+[NPC] Zhaomal: Why did I not think of that?
+[NPC] Zhaomal: A Dark Way glyph combined with the Brown Way …
+[NPC] Zhaomal: That should work.
+[NPC Narrate] -Zhaomal removes a Negate glyph from his glyph sack, then pulls out another type of glyph inspecting it.-
+[NPC] Zhaomal: Look at that.
+[NPC] Zhaomal: It seems I have an extra glyph here.
+[NPC] Zhaomal: Even I do not need more than one of each glyph.
+[NPC Narrate] -Zhaomal shakes his head.-
+[NPC] Zhaomal: You know what, you may have this glyph for your advice.
+[NPC] Zhaomal: Perhaps you will consider joining the Shadowcasters in time.
+[NPC] Zhaomal: You do not need to join now, nor do I think you have enough talent.
+[NPC] Zhaomal: For that, you must achieve Adept status in all Way Circles, and Master in none.
+[NPC] Zhaomal: I only ask you consider it if that time comes.
+[NPC] Zhaomal: One more thing.
+[NPC] Zhaomal: Do say thank you to Lorytia for sending such a talented Enkidukai.
+
+[To] Lorytia Starhammer
+
+[NPC Internal] Zhaomal sends his thanks.
+[NPC] Lorytia: He thanks me, does he?
+[NPC] Lorytia: I wonder if he really needed help at all, or was just checking up on our newest Brown Circle members.
+[NPC] Lorytia: The Shadowcasters are always looking for the most talented practitioners in all six Ways to join them.
+[NPC Narrate] -Lorytia shrugs.-
+[NPC] Lorytia: That is your choice to make.
+[NPC] Lorytia: The robe you carry belongs to an apprentice, which you are clearly no longer.
+[NPC] Lorytia: Please give it to me now.
+[NPC Internal] My robe as requested.
+[NPC] Lorytia: Yes, you will no longer use this robe.
+[NPC] Lorytia: I must ask you one last question.
+[NPC] Lorytia: This one is very important, as it will effect what you choose to do next.
+[NPC] Lorytia: Tell me what Way directly opposes the Brown Way.
+[NPC Internal] azure
+[NPC] Lorytia: Correct again.
+[NPC] Lorytia: You have proven your knowledge of the Brown Way to me.
+[NPC] Lorytia: I am honored to present you with your new robe, Adept of the Brown Way.
+[NPC Narrate] -Lorytia hands you a neatly folded robe.-
+[NPC] Lorytia: As I mentioned, I am sure Zhaomal tried to convince you to consider joining the Shadowcasters.
+[NPC] Lorytia: Your last chance to do so will soon be upon you.
+[NPC] Lorytia: Take your new robe and show it to Archmaster Mulgik.
+[NPC] Lorytia: Kra will tell you of the choices you have to make.
+
+[To] Mulgik
+
+[NPC Internal] Please accept my robe as proof of being a worthy student.
+[NPC Narrate] -Mulgik gives you a warm smile, but a smile with a hint of concern.-
+[NPC] Mulgik: Lorytia has approved of you.
+[NPC] Mulgik: A choice is now before you.
+[NPC] Mulgik: This is the last test before you will no longer be allowed to change your chosen Way of study.
+[NPC] Mulgik: Let me be very clear on this.
+[NPC] Mulgik: If you continue on the path to Way Master in the Brown Way Circle you will not be able to advance beyond Adept in the Way which oppose Brown way, Azure Way.
+[NPC] Mulgik: Or those which are neutral to the Brown Way, the Crystal and Red Ways.
+[NPC] Mulgik: You will also not be about to pass beyond the first Master's rank in the two supporting Circles, Blue and Dark Way.
+[NPC] Mulgik: Do you understand this?
+[NPC Internal] Indeed I do.
+[NPC] Mulgik: Very well.
+[NPC] Mulgik: If your wishes bring you to follow the Brown Way to full mastery, you will need to finish your training to the extent of Lorytia's abilities.
+[NPC] Mulgik: Then you may come to me and give me your wand together with another Adept's Brown Way Wand and one Apprentice's Brown Way Wand, which also may be borrowed from a fellow student.
+[NPC] Mulgik: This is to prove you have gained the respect and trust of your Adept peers, as well as the Apprentices.
+[NPC] Mulgik: Remember, once you bring these three wands to me, there will be no turning back.
+[NPC] Mulgik: Think long and hard before you make this choice, YOU.
+
+[Reward] [XP] 15000; [Item] 1, Creature glyph; [Item] 1, Adept's Brown Way Robe; [Faction] 30, Brown Order
+

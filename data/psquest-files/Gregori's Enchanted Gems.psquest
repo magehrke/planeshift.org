@@ -1,0 +1,256 @@
+[Questname] Gregori's Enchanted Gems
+[NPC Name] Gregori Stevald
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Money] 50; [Item] 4, Emerald Crystal; [Item] 4, Ruby Crystal; [Item] 4, Diamond Crystal; [Item] 4, Sapphire Crystal; [OR Begin] [Special] Blue Way Adept [OR] [Special] Crystal Way Adept [OR] [Special] Brown Way Adept [OR End]
+
+[To] Gregori Stevald
+
+[NPC Internal] Hi, um, do you needed some help?
+[NPC Narrate] -Gregori coughs heavily and looks at you.-
+[NPC] Gregori: So you're the Enkidukai the Circle sent to help with me getting my order for my tournament.
+[NPC Internal] I guess so.
+[NPC] Gregori: Fair enough.
+[NPC] Gregori: I sent an order to the Enchantress in the Mansion Beyond to enchant a number of crystals for me so I could get some magic armor made.
+[NPC] Gregori: And of course, as always, they haven't arrived yet.
+[NPC Internal] So then you want me to help you get it all made?
+[NPC] Gregori: The Mansion Beyond allows for enchanting by just Blue, Crystal and Brown Way Circle mages.
+[NPC] Gregori: So to start with I want you to go to the arch mage for whichever of those Ways you belong to and find out what is taking so long.
+[NPC] Gregori: Now run along.
+
+[Possible Ways] 3
+
+[Way] 1
+
+[To] Mulgik
+
+[NPC Internal] I need to speak with the Brown Way Enchantress.
+[NPC] Mulgik: Welcome back YOU.
+[NPC] Mulgik: I suppose you saw Gregori?
+[NPC] Mulgik: And he sent you to check on his latest order?
+[NPC] Mulgik: I should start by letting you know that the Enchantress who supervises the enchanting hall does not just do it for the mages of the Brown Way.
+[NPC Narrate] -Mulgik breaths deeply and lets out a heavy sigh.-
+[NPC] Mulgik: She also does so for the Blue and Crystal ways so do not be surprised if you see many of the other Circles members there as we all share it.
+[NPC] Mulgik: This is because the location of the hall, which was stumbled upon some time ago is such that it energizes the enchanting process, and has numerous energies running through it.
+[NPC] Mulgik: The location of this hall is not told to all, and only those with sufficient rank in one of the circles who use the hall are allowed access.
+[NPC] Mulgik: Since you have passed the first few test put to you and have shown yourself capable and smart enough to get to where you are, I will teach you how to find the location and how to gain access.
+[NPC] Mulgik: First you will need a note of admittance.
+[NPC Narrate] -Mulgik smirks and acts out patting his pockets before looking to you.-
+[NPC] Mulgik: You don't happen to have some paper and ink do you?
+
+[To] Jayose
+
+[NPC Internal] give me ink and paper
+[NPC] Jayose: I suppose I could spare some for you.
+[NPC] Jayose: Give me fifty tria, and you shall have some ink and paper.
+
+[Give] Jayose; 50, tria
+
+[NPC] Jayose: Here is the ink and paper, as requested.
+
+[To] Mulgik
+
+[NPC Internal] Here you are, now be sure to write neatly.
+[NPC Narrate] -Mulgik laughs deeply as you speak.-
+[NPC] Mulgik: You should have more faith in me.
+[NPC Narrate] -Kra then begins to write out your note of admittance.-
+[NPC] Mulgik: There…
+[NPC] Mulgik: That should suffice.
+[NPC] Mulgik: Now to let you know where to go, you must know Levrus.
+[NPC] Mulgik: Well pop to his shop and ask him to point you in the right direction, about as easy as me telling you but not as fun.
+
+[Way] 2
+
+[To] Barrin Dhorod
+
+[NPC Internal] I need to speak with the Blue Way Enchantress.
+[NPC] Barrin: Hello again YOU, I imagine that Gregori may have sent you to check on his latest order?
+[NPC] Barrin: I've heard he isn't very happy about it being late.
+[NPC] Barrin: I should start by letting you know that the Enchantress who supervises the enchanting hall does not just do it for the mages of the Blue Way.
+[NPC] Barrin: She also does so for the Crystal and Brown ways so do not be surprised if you see many of the other Circles members there as we all share it.
+[NPC] Barrin: This is because the location of the hall, which was stumbled upon some time ago, is such that it energizes the enchanting process, and has numerous energies running through it.
+[NPC] Barrin: The location of this hall is not told to all, and only those with sufficient rank in one of the circles who use the hall are allowed access.
+[NPC] Barrin: Since you have passed the first few test put to you and have shown yourself capable and smart enough to get to where you are, I will teach you how to find the location and how to gain access.
+[NPC] Barrin: First you will need a note of admittance.
+[NPC Narrate] -Barrin smirks and acts out patting his pockets before looking to you.-
+[NPC] Barrin: You don't happen to have some paper and ink do you?
+
+[To] Jayose
+
+[NPC Internal] Could I have some ink and paper?
+[NPC Narrate] -Jayose glances up at you over a pile of papers.-
+[NPC] Jayose: Yes, 50 tria please.
+[NPC Internal] Here you are, Jayose.
+[NPC] Jayose: Thank you, and here you go.
+
+[To] Barrin Dhorod
+
+[NPC Internal] Here you are, now be sure to write neatly.
+[NPC Narrate] -Barrin smirks as you speak.-
+[NPC] Barrin: You should have more faith in me.
+[NPC Narrate] -He then begins to write out your note of admittance.-
+[NPC] Barrin: There…
+[NPC] Barrin: That should suffice.
+[NPC] Barrin: Now to let you know where to go, you must know Levrus.
+[NPC] Barrin: Well pop to his shop and ask him to point you in the right direction, about as easy as me telling you exactly where it is.
+
+[Way] 3
+
+[To] Govell Mihdren
+
+[NPC Internal] I need to speak with the Crystal Way Enchantress.
+[NPC] Govell: Hello again Gilayall, let me guess, Gregori sent you to check on his latest order?
+[NPC] Govell: I've heard he isn't very happy about it being late.
+[NPC] Govell: I should start by letting you know that the Enchantress who supervises the enchanting hall does not just do it for the mages of the Crystal Way.
+[NPC] Govell: She also does so for the Blue and Brown ways so do not be surprised if you see many of the other Circles members there as we all share it.
+[NPC] Govell: The location of the hall was stumbled upon some time ago and has numerous energies running through it such that it energises the enchanting process.
+[NPC] Govell: The location of this hall is not told to all, and only those with sufficient rank in one of the circles who use the hall are allowed access.
+[NPC] Govell: Since you have passed the first few test put to you and have shown yourself capable and smart enough to get to where you are, I will teach you how to find the location and how to gain access.
+[NPC] Govell: First you will need a note of admittance.
+[NPC Narrate] -Govell smirks and acts out patting his pockets before looking to you.-
+[NPC] Govell: You don't happen to have some paper and ink do you?
+[NPC Internal] So you want some ink and paper?
+[NPC] Govell: Yes, one piece of paper will be fine the instructions aren't very long.
+[NPC] Govell: Jayose over in the library will definitely have some.
+
+[To] Jayose
+
+[NPC Internal] Could I have some ink and paper?
+[NPC Narrate] -Jayose glances up at you over a pile of papers.-
+[NPC] Jayose: Yes, 50 tria please.
+[NPC Internal] Here you are, Jayose.
+[NPC] Jayose: Thank you, and here you go.
+[NPC Internal] Here you are, try not to get too much blue stain on it.
+[NPC] Jayose: You should have more faith in me.
+[NPC Narrate] -He then begins to write out your note of admittance.-
+[NPC] Jayose: There…
+[NPC] Jayose: That should suffice.
+[NPC] Jayose: Now to let you know where to go, you must know Levrus.
+[NPC] Jayose: Well pop to his shop and ask him to point you in the right direction, about as easy as me telling you exactly where it is.
+
+[Way] All
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Can you tell me about the Enchantress?
+[NPC] Levrus: The Enchantress, why in all of Yalikium would you want to see her!?
+[NPC Narrate] -Levrus slowly places the items in his hands under the counter, with long drawn out and careful movements.-
+[NPC Narrate] -He then leans in resting on his elbows.-
+[NPC] Levrus: She guards her domain like a daemon…
+[NPC] Levrus: DEAMON I TELL YOU!
+[NPC] Levrus: She only lets a very few worthy people enter, and even less ever leave.
+[NPC] Levrus: Be it upon your own head if you chose to deal with her.
+[NPC] Levrus: For you will not find me within a thousand miles of her lair by choice.
+[NPC] Levrus: Are you prepared for the ordeal ahead?
+[NPC Internal] I need to go, so yes I'm ready.
+[NPC Narrate] -Levrus nods his head, a dark expression filling the gap under his hood.-
+[NPC] Levrus: First I need proof that your circle wishes this fate for you.
+[NPC Narrate] -He holds out his hand waiting.-
+[NPC Internal] Here. [You hand Levrus your letter.]
+[NPC Narrate] -Levrus reads over the letter with a blank expression.-
+[NPC] Levrus: If that's what Mulgik wants far be it for me to go against it.
+[NPC] Levrus: To find the Enchanting hall you need to go to the top of this building, open the hatch, and enter.
+[NPC] Levrus: Good luck.
+
+[To] Niala Xanao
+
+[NPC Internal] [You look hesitantly at the Entrantress.] Hi, Gregori sent me.
+[NPC Narrate] -Niala smiles at you, an unassuming smile that would make anyone feel at ease.-
+[NPC] Niala: I was expecting him to be sending someone.
+[NPC] Niala: But not you, I am Niala, you are?
+[NPC Internal] My name is YOU.
+[NPC Narrate] -Niala adjusts her hair slightly.-
+[NPC] Niala: I haven't been able to get this mop of hair to feel right all day…
+[NPC Narrate] -Niala continues to fiddle with it.-
+[NPC] Niala: Any way, about Gregori's order.
+[NPC] Niala: I had placed an order with Ondren for a number of gems and either kra has forgotten about it, or is just too busy to get them for me.
+[NPC Narrate] -Niala sneezes, a high pitched squeak of a sneeze.-
+[NPC] Niala: So much better, that has been tickling me for hours…
+[NPC] Niala: Anyway, if you can fetch enough of the crystals to fill Gregori's order I'd appreciate it.
+[NPC] Niala: And as you've been allowed here, I'll also show you how to enchant the crystals so you can come up here and work with your own whenever you please.
+[NPC Internal] Alright, so how many do you need?
+[NPC Narrate] -Niala smiles, pleased that you are so willing to help her.-
+[NPC] Niala: Gregori asked for something specific.
+[NPC] Niala: To make sure I make everything he wants I will need four of each of Emeralds, Rubies, Diamonds and Sapphires.
+[NPC Narrate] -Niala smiles and adjusts her purple dress slightly.-
+[NPC] Niala: I've not mined them myself, I'm not very much a dirt and grime girl, but I understand they can be found under Hydlaa.
+[NPC] Niala: You'll have to ask around for specifics, I can't help you there, maybe the man downstairs can.
+[NPC Internal] Here are the crystals you wanted.
+[NPC Narrate] -Niala is retying her hair in a ponytail as she turns to face you with a smile.-
+[NPC] Niala: Hello again YOU.
+[NPC] Niala: I hope they weren't too hard to find.
+[NPC Narrate] -Taking the sack she pivots on one heel and places them down carefully before checking though them to make sure they are all there.-
+[NPC] Niala: Good, excellent work.
+[NPC] Niala: Are you interested in learning how the enchanting process works?
+[NPC Internal] Yes, very much so.
+[NPC Narrate] -Niala smiles sweetly as you answer.-
+[NPC] Niala: Great, just let me get ready.
+[NPC Narrate] -She starts by flicking though a well used book on enchanting to make sure she gets the combination right.-
+[NPC] Niala: First you need a glyph and a crystal…
+[NPC Narrate] -Niala picks up an Arrow glyph in her right hand and a Ruby Crystal in her left.-
+[NPC Narrate] -She carefully places the crystal into the enchanter next to her.-
+[NPC] Niala: Then you need to use the enchanter and channel the energies of the Way you want to use through the glyph you chose and into the crystal in the Enchanter.
+[NPC Narrate] -Holding the glyph in her right hand, Niala steps up to the enchanter and begins channelling Crystal Way energies…-
+[NPC Narrate] -The Ruby Crystal begins to glow and hum slightly as the energies gather within it…-
+[NPC Narrate] -The enchantment finishes as a shimmer of light passes across the surface of the Ruby.-
+[NPC Narrate] -Niala smiles once again, happy with her work.-
+[NPC] Niala: It's quite simple really, give me a few minutes and I'll finish off the rest of Gregori's order…
+[NPC Narrate] -Niala hums slightly as she works…-
+[NPC Narrate] -The humming is a pleasant light tune…-
+[NPC] Niala: Right, done.
+[NPC] Niala: Here you are, one sack of enchanted crystals for Gregori.
+[NPC] Niala: You can come back once you have delivered those if you have any questions.
+
+[To] Gregori Stevald
+
+[NPC Internal] Here are your crystals.
+[NPC Narrate] -Gregori almost shouts his response.-
+[NPC] Gregori: HA!
+[NPC] Gregori: Took long enough for that damned enchantress to get these done for me.
+[NPC] Gregori: Did you get an answer as to why she took so long?
+[NPC Internal] Ondren hadn't delivered the gems to her.
+[NPC] Gregori: Ondren, that lazy Kran…
+[NPC] Gregori: All kra needed was to get a few crystals…probably ate them.
+[NPC Narrate] -Gregori sighs.-
+[NPC] Gregori: Thank you very much for getting these for me.
+[NPC] Gregori: I'm sure the tournament winner will be very happy receiving them.
+
+[To] Niala Xanao
+
+[NPC Internal] Do you have a copy of the enchanting book I could have?
+[NPC Narrate] -Niala gasps hearing your request.-
+[NPC] Niala: I'm so sorry; I should have given you one of these when you were here last.
+[NPC] Niala: I'm supposed to give one to every person who is granted access to these halls by the Arch Mage of one of the three ways.
+[NPC Narrate] -Niala picks up a fresh looking copy and hands it to you.-
+[NPC] Niala: Here you are, take care of it as it has all the instructions you'll need for enchanting gems of only the Crystal, Blue and Brown Ways.
+[NPC Internal] Can I use other crystals?
+[NPC Narrate] -Niala nods.-
+[NPC] Niala: Yes, of course.
+[NPC] Niala: You can enchant Rubies, Emeralds, Sapphires and Diamonds.
+[NPC] Niala: Different crystals are able to contain more power and give greater effects.
+[NPC] Niala: Rubies being the smallest and Diamonds the largest amount of energy and strongest effects.
+[NPC Internal] Which glyphs can I use?
+[NPC] Niala: Well, most of them to be honest.
+[NPC] Niala: But not every glyph can be used to enchant every crystal.
+[NPC] Niala: Many are listed in the book, but you won't be able to use every combination until you are experienced enough and powerful enough in the Way's glyphs you want to use.
+[NPC Internal] What are the effects of the gems?
+[NPC Narrate] -Niala give you a cheeky smile.-
+[NPC] Niala: Unfortunately I'm not going to let that little secret on.
+[NPC] Niala: You'll have to find an armourer to test them out with…
+[NPC] Niala: But I will let you know that the Way you enchant a crystal with will give you resistance against the opposing way.
+[NPC] Niala: So a Crystal Way glyph used to enchant a gem will give resistance to Dark Way magic.
+[NPC] Niala: Brown will give Azure resistance and Blue will give Red resistance.
+[NPC] Niala: There are some other not so obvious effects, but where would the fun be in letting that little secret out, too?
+[NPC Narrate] -Niala smiles and winks at you.-
+[NPC Internal] Can I enchant gems and crystals from the other three ways?
+[NPC Narrate] -Niala frowns a little and shakes her head.-
+[NPC] Niala: Here, no.
+[NPC Narrate] -She stops abruptly after answering you, but then adds.-
+[NPC] Niala: They can be enchanted, but only Blue, Brown and Crystal glyphs can be used within the walls of The Mansion Beyond.
+[NPC] Niala: You will have to find another place of power to enchant the other Ways' glyphs.
+[NPC Internal] I have no more questions.
+[NPC] Niala: Well good luck with your foray into enchanting.
+
+[Reward] [XP] 12200; [Item] 1, Enchanting Gems of Power
+

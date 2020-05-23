@@ -1,0 +1,98 @@
+[Questname] The Brown Way Master
+[NPC Name] Mulgik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge and Practical of the Brown Way Master; [Item] 1, Master's Brown Way Wand; [Skill] 150, Brown Way; [Item] 1, Master's Brown Way Bracers; [Item] 1, Master's Blue Way Bracers; [Item] 1, Master's Dark Way Bracers; [Item] 1, Adept's Brown Way Robe
+
+[To] Mulgik
+
+[NPC Internal] I have the the items you requested, Master Mulgik.
+[NPC] Mulgik: Dedication.
+[NPC] Mulgik: And perseverance.
+[NPC] Mulgik: They gave you a solid soul.
+[NPC] Mulgik: You reached a point where I can give you no more.
+[NPC] Mulgik: Only the nature now can teach you more lessons.
+[NPC] Mulgik: You are a full Master of the Brown Way.
+[NPC Narrate] -Mulgik takes the Blue Way bracers and examines them carefully. Then Kra assents, slowly.-
+[NPC] Mulgik: When I was young I thought to follow the path of the Blue Way.
+[NPC] Mulgik: But my elder opened my eyes, and I chose the Brown Way.
+[NPC Narrate] -Mulgik takes a long and slow breath, before giving you back the items.-
+[NPC] Mulgik: Return these to their owners, as soon as you can.
+[NPC] Mulgik: They will need them.
+[NPC] Mulgik: Give me your last Adept item, please.
+[NPC Internal] This cloack is my last Adept item, take it.
+[NPC Narrate] -Mulgik folds the cloack, while kras eyes look in yours.-
+[NPC] Mulgik: As a Master of the Brown Circle you are allowed to learn about our history, and our secrets too.
+[NPC] Mulgik: Are you interested to hear them?
+[NPC Internal] Yes, please continue.
+[NPC] Mulgik: Very well.
+[NPC] Mulgik: I was sure of your interest.
+[NPC] Mulgik: Would you like to talk about our history, or our secrets?
+[NPC Internal] I'd like to know about history.
+[NPC Narrate] -Mulgik takes a breath, preparing to talk. But kra stops before beginning, and makes a long sigh.-
+[NPC] Mulgik: It is not the time, yet.
+[NPC] Mulgik: When you are ready you will find this knowledge.
+[NPC Internal] Please, tell me about secrets.
+[NPC] Mulgik: The secrets I want to tell are for your ears, and for very few others.
+[NPC] Mulgik: Only people who proved themselves can manage to keep a secret like the one I'm going to tell you.
+[NPC] Mulgik: The danger in it can harm many lives, not only your own.
+[NPC] Mulgik: So you are allowed to discuss them only with the highest levels of the Circles.
+[NPC] Mulgik: Full masters of every Way.
+[NPC Narrate] -Mulgik makes a pause, looking in your eyes.-
+[NPC] Mulgik: The texts in the Sanctuary withholds knowledge about all the Ways, about artifacts of power…
+[NPC] Mulgik: And it contains the complete version of this secret too.
+[NPC] Mulgik: The position, even the existence of the sanctuary, is closed to the citizen.
+[NPC] Mulgik: Secrets hidden in other secrets.
+[NPC] Mulgik: I need your word.
+[NPC] Mulgik: Tell me you will never share these knowledge outside the Masters of the Circles.
+[NPC Internal] I will keep these secrets until my True Death, and further if needed.
+[NPC] Mulgik: The first secret is the Seventh Way.
+[NPC] Mulgik: Until now I assume you know only six Ways, but there is a Seventh.
+[NPC] Mulgik: The Seventh is the essence of all the other Ways, but is also none of them.
+[NPC] Mulgik: It is magic without the glyphs created by Talad.
+[NPC] Mulgik: This is 'Wild' magic, something outside the rules of the Gods.
+[NPC] Mulgik: Diaboli used it, since they are the only race who cast magic before arriving in Yliakum.
+[NPC Narrate] -The tone of Mulgik grows stern.-
+[NPC] Mulgik: Be careful, and pay special attention to my next words.
+[NPC] Mulgik: Your level of power will give you sense of the existence of the Seventh Way.
+[NPC] Mulgik: Temptation will strike you.
+[NPC] Mulgik: And you have to contrast it.
+[NPC] Mulgik: Otherwise 'Wild' magic will wipe out your very soul.
+[NPC] Mulgik: You will be put to True Death if the Seventh Way does not destroy you first.
+[NPC] Mulgik: Is this understood?
+[NPC Internal] Yes, Sir.
+[NPC] Mulgik: The dangers of the Seventh Way go beyond your imagination.
+[NPC] Mulgik: Two mages attempted to master it until today, and they suffered a fate I would wish on no one.
+[NPC Narrate] -Mulgik pauses, kras gaze is firm.-
+[NPC] Mulgik: Now, I have to tell you about another hidden knowledge.
+[NPC] Mulgik: Something not even I wish to know, a threat to the existence itself.
+[NPC] Mulgik: The Circles, especially the Masters, are fighting a war against this Dark entity.
+[NPC] Mulgik: These battles are hidden to the eye of the people of Yliakum, but you have to know.
+[NPC] Mulgik: Our enemy is called the BlackFlame.
+[NPC] Mulgik: Have you ever heard about it?
+[NPC Internal] No idea.
+[NPC] Mulgik: I wish to fill the pool of your knowledge.
+[NPC] Mulgik: None knows for sure what is the BlackFlame.
+[NPC] Mulgik: Some supposes it is a God.
+[NPC] Mulgik: While others assume it is a force of destruction.
+[NPC] Mulgik: I have not the answer to what is the BlackFlame, but I can say that its touch infects and deprives the creations of the other Ways.
+[NPC] Mulgik: Your path will surely teach you more about this, maybe it will grant you access to the Vault of Ages in Arden.
+[NPC] Mulgik: Even I had that privilige only once.
+[NPC] Mulgik: I was allowed to catch a glimpse of what is kept in the Vault of Ages, no more.
+[NPC] Mulgik: That day I discovered…
+[NPC Narrate] -Mulgik closes kras eyes for some second.-
+[NPC] Mulgik: Much of the past is hidden, and I did not know why, until my visit in Arden.
+[NPC Narrate] -Mulgik takes a long breath.-
+[NPC] Mulgik: You will understand, for yourself.
+[NPC] Mulgik: Not today, but when your time will come.
+[NPC] Mulgik: Well then, one last formality.
+[NPC Narrate] -Mulgik puts away the old cloack and opens a sack, taking out a new cloack. Kra offers it to you.-
+[NPC] Mulgik: This will prove the mastery you gained in the Brown Way.
+[NPC] Mulgik: Make a good use of it, YOU.
+[NPC] Mulgik: And take this.
+[NPC Narrate] -Mulgik hands you an amulet.-
+[NPC] Mulgik: Bring it to Levrus, one final lesson awaits you there.
+
+[Reward] [XP] 20600; [Item] 1, Master's Brown Way Robe; [Item] 1, Master of Ways Amulet; [Faction] 10, Brown Order
+

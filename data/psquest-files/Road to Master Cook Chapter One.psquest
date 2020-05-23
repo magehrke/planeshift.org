@@ -1,0 +1,61 @@
+[Questname] Road to Master Cook Chapter One
+[NPC Name] Mirra Houphen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Tools of the Cooking Trade; [Item] 5, Tefusang Claws
+
+[To] Mirra Houphen
+
+[NPC Internal] Hi Mirra, how are you?
+[NPC] Mirra: How wonderful, YOU!
+[NPC] Mirra: You have returned!
+[NPC] Mirra: The Caramel of Kada El turned out delicious.
+[NPC] Mirra: I have mastered that and have made some rather tasty treats since then.
+[NPC] Mirra: I would like another recipe; I'm craving something more savoury.
+[NPC] Mirra: Will you help me?
+[NPC Internal] Yeah, I got some free time to help you.
+[NPC] Mirra: Wonderful!
+[NPC] Mirra: The next recipe is a bit of a walk from here.
+[NPC] Mirra: Reffitia Thamal is the cook at The Broken Doors Tavern.
+[NPC] Mirra: She and I met once and she served a delicious dish.
+[NPC] Mirra: I doubt she will give up her famous recipe for 'Sarraghi Steak' but it is worth a try.
+[NPC] Mirra: Ask her about the recipe and see what you can do, YOU.
+
+[To] Reffitia Thamal
+
+[NPC Internal] I am looking to get a copy of your 'Sarraghi Steak' recipe.
+[NPC] Reffitia: Hmmm?
+[NPC] Reffitia: You want the recipe for the world famous 'Sarraghi Steak'?
+[NPC Internal] Oh, yes please.
+[NPC] Reffitia: Well..
+[NPC] Reffitia: I'm not going to give that one up so easily.
+[NPC] Reffitia: Are you willing to work in order to gain one of my most prized possessions?
+[NPC Internal] What must I do?
+[NPC] Reffitia: Well then…
+[NPC] Reffitia: the meat in the dish is the marrow taken from the inside of a tefusang claw.
+[NPC Narrate] -Reffitia looks at you.-
+[NPC] Reffitia: You find this surprising?
+[NPC] Reffitia: Well now you know the reason why it is so special and tasty!
+[NPC] Reffitia: If you can get me…
+[NPC] Reffitia: let's say…
+[NPC] Reffitia: five of them, I shall hand you the recipe.
+[NPC Internal] gives Reffitia the claws.
+[NPC Narrate] -Reffitia sighs as she takes the claws.-
+[NPC] Reffitia: Well, a promise is a promise.
+[NPC] Reffitia: Here is the recipe.
+[NPC] Reffitia: Now go quickly before I change my mind.
+
+[To] Mirra Houphen
+
+[NPC Internal] I was able to get the recipe you seek.
+[NPC] Mirra: YOU, I am truly surprised!
+[NPC] Mirra: I did not believe that she would ever share this recipe.
+[NPC] Mirra: Great job!
+[NPC] Mirra: I must go now: I have work to do.
+[NPC] Mirra: I must try out this recipe!
+[NPC] Mirra: My mouth is watering as we speak!
+[NPC] Mirra: Take these well earned Tria!
+
+[Reward] [Money] 7310; [XP] 15000; [Faction] 20, Food Association
+

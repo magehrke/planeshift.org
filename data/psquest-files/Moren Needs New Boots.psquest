@@ -1,0 +1,31 @@
+[Questname] Moren Needs New Boots
+[NPC Name] Moren Findel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Item] 1, Leather Boots
+
+[To] Moren Findel
+
+[NPC Internal] You look upset?
+[NPC Narrate] -Moren shifts his weight to his left leg and shakes his right foot.-
+[NPC] Moren: Hmmmm.
+[NPC Narrate] -Moren then shifts his weight to his right leg and shakes his left foot. He then returns his weight to both legs and shakes his head.-
+[NPC] Moren: These boots have seen better days.
+[NPC] Moren: I wish I could get a new pair right now, but I am still on duty.
+[NPC Narrate] -Moren Findel looks at you.-
+[NPC] Moren: Would you help me get a new pair of leather boots?
+[NPC Internal] Sure.
+[NPC Narrate] -Moren nods.-
+[NPC] Moren: You are too kind.
+[NPC] Moren: Return as fast as you can; my feet can't handle these boots anymore.
+[NPC Internal] Here are your boots.
+[NPC Narrate] -Moren removes the old boots and slips on the new boots.-
+[NPC] Moren: Ahhh, much better.
+[NPC] Moren: Thank you kind Sir.
+[NPC Narrate] -Moren Findel hands you a few coins.-
+[NPC] Moren: Thanks for the quick delivery.
+
+[Reward] [Money] 1297; [XP] 8000; [Faction] 10, Guard; 
+

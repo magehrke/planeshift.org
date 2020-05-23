@@ -1,0 +1,89 @@
+[Questname] Zhaomal Fears Raithen's Spell
+[NPC Name] Zhaomal Shehan
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 1, Ulbernaut Heart
+
+[To] Zhaomal Shehan
+
+[NPC Internal] I am looking for some work.
+[NPC] Zhaomal: It is said that outsiders who pay too much attention to the Shadow Squadron become naught but memories.
+[NPC Narrate] -Zhaomal pauses and looks you over.-
+[NPC] Zhaomal: I won't warn you twice.
+[NPC] Zhaomal: So do you really intend to stand here and ask me for work?
+[NPC Internal] Yes I do.
+[NPC] Zhaomal: Are you so brave?
+[NPC] Zhaomal: So be it.
+[NPC] Zhaomal: I will give you a task.
+[NPC] Zhaomal: I am curious about something.
+[NPC] Zhaomal: I have been here a long time and I fear I have lost touch with the world outside.
+[NPC] Zhaomal: Raithen specifically is a matter worthy of investigation.
+[NPC] Zhaomal: He is preparing to summon some ancient creature or force during the crystal eclipse and I fear what that might be.
+[NPC] Zhaomal: Do you dare inquire into his past and try to find out what he intends to summon?
+[NPC Internal] Yes I will.
+[NPC] Zhaomal: Glad to hear there are still a few with the audacity to peer into the life of a Shadow Squadron commander.
+[NPC] Zhaomal: When I was young, I was taught to never fall for a first impression, however deep or honest it seemed.
+[NPC] Zhaomal: I teach the Shadow Squadron trainees and prepare them to face the harsh leadership tactics of Raithen but I know little of his history.
+[NPC] Zhaomal: You seem to have traveled the realms a bit more than the average person has; perhaps you can assist me.
+[NPC Internal] What do you want me to do?
+[NPC] Zhaomal: I know Levrus and Raithen have a history: maybe you can find out more than I can.
+[NPC] Zhaomal: Levrus does not speak to those who know Raithen in his new life.
+[NPC] Zhaomal: Maybe Levrus can point you in the right direction.
+[NPC] Zhaomal: I hope you can find significant information that adds to my knowledge of Raithen and his intentions.
+[NPC] Zhaomal: Even if you fail, return and tell me so.
+[NPC] Zhaomal: I will reward you for your efforts.
+[NPC] Zhaomal: Are you capable?
+[NPC Internal] Yes I am.
+[NPC] Zhaomal: Acceptable.
+[NPC] Zhaomal: Go ask Levrus about Raithen.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] What can you tell me about Raithen.
+[NPC] Levrus: I already spoke to someone today about Raithen.
+[NPC] Levrus: He was once my apprentice; I do not know anything more to tell.
+[NPC] Levrus: If you really need to know more about Raithen you can attempt to speak to his new master, The Dark Wanderer.
+
+[To] Dark Wanderer
+
+[NPC Internal] What do you know about Raithen's intent during the crystal eclipse?
+[NPC] Dark: Why would I speak to you at all mortal…let alone speak of such a man as Raithen?
+[NPC] Dark: Tell me who is so curious about Raithen…
+[NPC] Dark: Tell me…and I will give you a …
+[NPC] Dark: task …
+[NPC Narrate] -The Wanderer sneers viciously.-
+[NPC Internal] Zhaomal
+[NPC] Dark: You…
+[NPC] Dark: speak the truth.
+[NPC] Dark: Good.
+[NPC] Dark: I need something to complete a…
+[NPC] Dark: Ritual that…
+[NPC] Dark: I do not have the…
+[NPC] Dark: Liberty to seek.
+[NPC] Dark: Go and find me the heart of an ulbernaut, return and give it to me.
+
+[Give] Dark Wanderer; 1, Ulbernaut Heart
+
+[NPC Internal] Here's your heart.
+[NPC] Dark: Very good …
+[NPC] Dark: here is something for you.
+[NPC] Dark: Now …
+[NPC] Dark: go and can tell your puppet master Zhaomal that Raithen will save Yliakum.
+[NPC Narrate] -Dark Wanderer laughs evilly.-
+[NPC] Dark: Now if you combine this glyph with the mind glyph you will be able to peer into the souls of others, a talent I quite enjoy myself.
+[NPC Narrate] -The Dark Wanderer looks on you with cold disdain.-
+[NPC] Dark: Perhaps you will be of greater use to me another time.
+
+[To] Zhaomal Shehan
+
+[NPC Internal] It seems Raithen will save Yliakum.
+[NPC] Zhaomal: You heard that from the Dark Wanderer didn't you?
+[NPC] Zhaomal: Who knows what you did for him to get that information?
+[NPC] Zhaomal: Another person I sent on this task returned with the same answer.
+[NPC] Zhaomal: Confound it, trouble is brewing: I sense it.
+[NPC] Zhaomal: I suppose you have fulfilled your task; here's something for your trouble.
+[NPC] Zhaomal: However, I really don't appreciate that you're dealing with that man.
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Humanoid glyph; [Faction] -15, Guard
+

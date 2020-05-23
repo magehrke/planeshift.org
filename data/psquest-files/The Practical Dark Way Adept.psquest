@@ -1,0 +1,105 @@
+[Questname] The Practical Dark Way Adept
+[NPC Name] Rulayne Ogrin
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge of the Dark Way Adept; [Item] 1, Adept's Dark Way Wand; [Item] 1, Apprentice's Dark Way Robe; [Skill] 90, Dark Way
+
+[To] Rulayne Ogrin
+
+[NPC Internal] Please except my Way Wand as proof of being a worthy student.
+[NPC] Rulayne: Your dedication astounds me, YOU.
+[NPC] Rulayne: Not to mention the fact that you still live.
+[NPC] Rulayne: Rather disappointing, but who am I to question the will of Dakkru?
+[NPC Narrate] -Rulayne hands back the wand, shaking his head.-
+[NPC] Rulayne: It is nearly time for you to begin your Master level testing.
+[NPC] Rulayne: First, you will travel to the Eagle Bronze Doors.
+[NPC] Rulayne: Zhaomal of the Shadowcasters need to be taught a lesson in a Dark Way matter.
+[NPC] Rulayne: Let him know you are there to…
+[NPC] Rulayne: help.
+[NPC Narrate] -Rulayne mask grins.-
+
+[To] Zhaomal Shehan
+
+[NPC Internal] I was told you needed help.
+[NPC] Zhaomal: You are much too good looking to be Rulayne.
+[NPC] Zhaomal: That mask must hide a face only a mother could bare.
+[NPC Narrate] -Zhaomal laughs before looking at you with some curiosity.-
+[NPC] Zhaomal: Let's see what you know.
+[NPC] Zhaomal: I have a young Shadowcaster residing in Sarpendil who is a very competent messenger.
+[NPC] Zhaomal: He is the fastest foot to either the Eagle Bronze Door or Hydlaa, and stakes his day's pay on making the trip in short time than anyone else can.
+[NPC] Zhaomal: In saying that, he noticed that every time he makes a delivery to Dark Wanderer, he is exhausted on the way back and needs many rest stops before returning.
+[NPC Narrate] -Zhaomal taps his chin.-
+[NPC] Zhaomal: So, he keeps losing out every time he delivers for the Wanderer.
+[NPC] Zhaomal: The Wanderer has admitted to using a Dark Way spell, and that he will repay all lost delivery fees we can tell what spell or glyph combination is used.
+[NPC] Zhaomal: So Sir Dark Way Adept, what do you suggest is the spell or combine that overwhelms the poor messenger so?
+[NPC Internal] Illness and Weakness Glyphs.
+[NPC Narrate] -Zhaomal nods while thinking.-
+[NPC] Zhaomal: That would do it.
+[NPC Narrate] -Zhaomal removes a hand full of glyphs from his glyph sack, then sorts out three of them.-
+[NPC] Zhaomal: It seems I have an extra glyph here.
+[NPC] Zhaomal: Even I do not need more than one of each glyph.
+[NPC Narrate] -Zhaomal shakes his head.-
+[NPC] Zhaomal: You know what, you may have this glyph for sharing your knowledge.
+[NPC] Zhaomal: Perhaps you will consider joining the Shadowcasters in time.
+[NPC] Zhaomal: You do not need to join now, nor do I think you have enough talent.
+[NPC] Zhaomal: For that, you must achieve Adept status in all Way Circles, and Master in none.
+[NPC] Zhaomal: I only ask you consider it if that time comes.
+[NPC] Zhaomal: One more thing.
+[NPC] Zhaomal: Do say thank you to Rulayne for sending such a talented Enkidukai.
+
+[To] Rulayne Ogrin
+
+[NPC Internal] Zhaomal sends thanks.
+[NPC] Rulayne: He does, does he?
+[NPC] Rulayne: He thanks me for giving him another prospect is all.
+[NPC] Rulayne: Your 'talents' were likely wasted on a problem he already had the solution to.
+[NPC] Rulayne: The Shadowcasters are always looking for the most talented practitioners in all six Ways to join them.
+[NPC Narrate] -Rulayne shrugs.-
+[NPC] Rulayne: That is your choice to make.
+[NPC] Rulayne: Perhaps his ways will kill you faster than mine.
+[NPC] Rulayne: One can only hope.
+[NPC] Rulayne: The robe you carry belongs to an apprentice, which you are clearly no longer.
+[NPC] Rulayne: Give it to me now.
+[NPC Internal] My robe as requested, sir.
+[NPC] Rulayne: Yes, you will no longer use this robe.
+[NPC Narrate] -Rulayne tosses it to the ground and steps on it.-
+[NPC] Rulayne: I must ask you one last question.
+[NPC] Rulayne: This one is very important, as it will affect what you choose to do next.
+[NPC] Rulayne: Tell me what Way directly opposes the Dark Way.
+[NPC Internal] Crystal Way.
+[NPC] Rulayne: Correct again.
+[NPC] Rulayne: You have proven your knowledge of the Dark Way to me.
+[NPC] Rulayne: I am no longer embarrassed to present you with your new robe, Adept of the Dark Way.
+[NPC Narrate] -Rulayne hands you a neatly folded robe.-
+[NPC] Rulayne: As I mentioned, I am sure Zhaomal tried to convince you to consider joining the Shadowcasters.
+[NPC] Rulayne: Your last chance to do so will soon be upon you.
+[NPC] Rulayne: Take your new robe and show it to Londris.
+[NPC] Rulayne: He will tell you of the choices you have to make.
+
+[To] Londris Kolaim
+
+[NPC Internal] Please except my Way Robe as proof of being a worthy student.
+[NPC Narrate] -Londris speaks without looking at you, his attention absorbed by one of his books.-
+[NPC] Londris: Rulayne has approved of you?
+[NPC] Londris: Well then, you think it is time for you to speak to her, don't you?
+[NPC] Londris: Well, you can't.
+[NPC] Londris: She has no time for those that are not completely devoted to the Dark Way Circle.
+[NPC] Londris: A choice is now before you.
+[NPC] Londris: This is the last test before you will no longer be allowed to change your chosen Way of study.
+[NPC] Londris: If you continue on the path to Mastery in the Dark Way Circle, you will not be able to advance beyond apprentice level in the Crystal Way Circle.
+[NPC] Londris: You will not be able to advance beyond low Adept in the Azure and Blue way Circles.
+[NPC] Londris: You will not be allowed to advance to Master level in Red and Brown Way Circles.
+[NPC] Londris: Do you understand this?
+[NPC Internal] Yes, be careful of mixing with opposing magic.
+[NPC] Londris: Very well.
+[NPC] Londris: If your wishes bring you to follow the Dark Way to full mastery, you will need to finish your training to the extent of Rulayne's abilities.
+[NPC] Londris: Then you may come to me and give me your wand together with another Adept's Dark Way Wand and one Apprentice's Dark Way Wand, which also may be borrowed from a fellow student.
+[NPC] Londris: This is to prove you have gained the respect and trust of your Adept peers, as well as the Apprentices.
+[NPC] Londris: Remember, once you bring these three wands to me, there will be no turning back.
+[NPC] Londris: Think long and hard before you make this choice, YOU.
+
+[Info] You randomly get 1 of 3 glyphs at the end. We don't know the 3rd glyph yet, if you know it, please write us a mail.
+
+[Reward] [XP] 16400; [Item] 1, Adept's Dark Way Robe; [Faction] 1, Dark Order
+[Reward] [OR Begin] [Item] 1, Daemon glyph; [OR] [Item] 1, Illness glyph; [OR End]

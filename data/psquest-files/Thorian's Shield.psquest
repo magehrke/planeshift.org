@@ -1,0 +1,70 @@
+[Questname] Thorian's Shield
+[NPC Name] Thorian Gronk
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] Nothing
+
+[To] Thorian Gronk
+
+[NPC Internal] Greetings, any jobs I can help you with?
+[NPC] Thorian: Well, I have a shield I need to repair, and old Harnquist is in debt with me, so he will fix it for free.
+[NPC] Thorian: As you may imagine, this isn't really my shield, but I run a small business of finding old shields, getting Harnquist to repair them, and then selling them.
+[NPC] Thorian: You will just have to tell Harnquist something blunt and he will do it.
+[NPC] Thorian: Are you up to the task?
+[NPC Internal] I'll get old Harnquist to repair the shield.
+[NPC] Thorian: Good, I cannot expose myself too much around Harnquist.
+[NPC] Thorian: Take this shield and give it to him.
+[NPC] Thorian: If he's not willing to repair it, tell him 'The Spine will know.' If he refuses, just show him some muscles: you look strong enough to beat him.
+[NPC Narrate] -Thorian chuckles.-
+
+[To] Harnquist
+
+[NPC Internal] your name gives Harnquist the shield.
+[NPC] Harnquist: Thanks for this shield, what do you want me to do with it?
+[NPC] Harnquist: It looks a bit damaged.
+[NPC Internal] Can You please repair it.
+[NPC] Harnquist: That will be 30 trias for the work.
+[NPC] Harnquist: Is that fair?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] yes
+[NPC] Harnquist: Perfect.
+[NPC] Harnquist: Just give me 30 trias and I will repair it.
+[NPC] Harnquist: Alright.
+[NPC] Harnquist: Harnquist quickly repairs the shield.
+
+[Way] 2
+
+[NPC Internal] No, that is way to much.
+[NPC] Harnquist: Eh, you want it for free?
+[NPC Narrate] -Harnquist is rather surprised.-
+[NPC] Harnquist: Did someone ask you to come and get me to repair this?
+[NPC Internal] It's Thorian.
+[NPC] Harnquist: Ah, he is troubling me…
+[NPC] Harnquist: And he has no reason to do that.
+[NPC] Harnquist: I don't want to repair this shield for free.
+[NPC Internal] The spine will know.
+[NPC] Harnquist: Well…
+[NPC] Harnquist: Still with that old story…
+[NPC Narrate] -Harnquist looks around with suspicion and his voice is less firm.-
+[NPC] Harnquist: Very well, I will do that again.
+[NPC Narrate] -Harnquist starts to work on the shield. He hands you back the fixed shield.-
+
+[Way] 1, 2
+
+[To] Thorian Gronk
+
+[NPC] Thorian: Here is the fixed shield.
+[NPC] Thorian: Ah, you are back with the shield!
+[NPC] Thorian: Looks nicely repaired.
+[NPC] Thorian: Obviously don't expect any money from me.
+[NPC] Thorian: I needed it done for free.
+[NPC] Thorian: Thanks.
+
+[Reward] [XP] 8000; 
+

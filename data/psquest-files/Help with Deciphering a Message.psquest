@@ -1,0 +1,41 @@
+[Questname] Help with Deciphering a Message
+[NPC Name] Thrynt Glass
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Thrynt Glass
+
+[NPC Internal] Hi, you look perplexed.
+[NPC] Thrynt: I don't know if you can help me.
+[NPC] Thrynt: You don't look like someone who is specialist in deciphering encrypted messages.
+[NPC] Thrynt: Do you really want to help me?
+[NPC Internal] Yeah sure, I can give the deciphering a go.
+[NPC] Thrynt: All right.
+[NPC] Thrynt: Here is the message:
+[NPC Narrate] -Thrynt shows a paper with a sequence of letters on it.-
+[NPC] Thrynt: ZFYU VCNYM QBYH LUN CM VFCHXYX VS XULEHYMM.
+[NPC] Thrynt: This is all I have.
+[NPC] Thrynt: I already tried to turn around the letters and form new words with them, but to no avail.
+[NPC] Thrynt: Maybe you have a better idea.
+[NPC] Thrynt: I'll work here on my own.
+[NPC] Thrynt: Tell me when you found out a possible understandable message in Yliakum's common tongue.
+[NPC Internal] flea bites when rat is blinded by darkness
+[NPC] Thrynt: Mmmm…
+[NPC] Thrynt: might be.
+[NPC] Thrynt: I got the first part, flea bites when rat…
+[NPC] Thrynt: what's the second part?
+[NPC Internal] is blinded by darkness
+[NPC] Thrynt: Wow!
+[NPC] Thrynt: That actually makes sense!
+[NPC] Thrynt: How did you..?
+[NPC] Thrynt: Never mind.
+[NPC] Thrynt: You're a genius.
+[NPC] Thrynt: Thanks a lot!
+[NPC] Thrynt: I'll give you something I took with me when I left home.
+[NPC] Thrynt: I used to play it whenever I could, but as a Shadowcaster I don't really have time to practice any more.
+[NPC] Thrynt: Enjoy.
+
+[Reward] [XP] 10800; [Item] 1, Pan Flute
+

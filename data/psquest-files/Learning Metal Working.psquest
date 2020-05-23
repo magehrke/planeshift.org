@@ -1,0 +1,54 @@
+[Questname] Learning Metal Working
+[NPC Name] Harnquist
+[Checkup] 2017-04-11
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Harnquist's Raw Materials; [Quest] A Hammer for Hamel; [Item] 2, Iron Ore; [Item] 1, Leather Gloves
+
+[To] Harnquist
+
+[NPC Internal] Hello, I'm ready to start learning about metallurgy. You said you'd help?
+[NPC ME] Harnquist smiles.
+[NPC] Harnquist: I have always thought that all these young adventurers and warriors should settle down a bit and learn new things.
+[NPC] Harnquist: Hydlaa needs people that help the economy to grow: new builders, architects, bakers, and so on.
+[NPC] Harnquist: Are you truly interested in learning about metallurgy?
+[NPC Internal] Yes..I'd really love to learn about metallurgy.
+[NPC] Harnquist: Good.
+[NPC] Harnquist: I can teach you part of my job, starting from the very basics.
+[NPC] Harnquist: Everything starts with raw materials like iron ore.
+[NPC] Harnquist: Bring me two lumps of iron ore and I will teach you more.
+
+[Give] Harnquist; 2, Iron Ore
+
+[NPC Internal] Here are the iron ore you requested.
+[NPC] Harnquist: Ah good, you found them.
+[NPC] Harnquist: Whether you mined them yourself or not is irrelevant.
+[NPC] Harnquist: I usually buy my raw materials from merchants.
+[NPC ME] Harnquist inspects the ores.
+[NPC] Harnquist: Alright, this material is extremely useful for building most of what you wear and wield in battle; in that sense, it's a real gift from the gods.
+[NPC] Harnquist: From this simple mineral, we will create items and goods!
+[NPC] Harnquist: The first step is to have the knowledge on how to refine it.
+[NPC] Harnquist: You have to place the ore inside a furnace and wait for it to turn into molten iron.
+[NPC] Harnquist: Then you have to place the molten iron into stock casting and wait for it to create the final iron ingot or iron stock.
+[NPC] Harnquist: You will not be able to do this yourself until I give you the right tips.
+[NPC] Harnquist: I can exchange this information for a new pair of leather gloves.
+[NPC ME] Harnquist shows you his old pair which are nearly worn through.
+[NPC] Harnquist: Bring me those new gloves and I will give you the last of the tips you need.
+
+[Give] Harnquist; 1, Leather Gloves
+
+[NPC Internal] Here are your new gloves.
+[NPC] Harnquist: Ah, great.
+[NPC] Harnquist: I usually consume a pair of leather gloves each week for this job!
+[NPC ME] Harnquist gives you a book.
+[NPC] Harnquist: Read this book carefully and keep it 'in your mind.' Get one or more iron ores, and place those in a furnace by my shop.
+[NPC] Harnquist: Wait some time and you will see it melting.
+[NPC] Harnquist: Be patient: it will take time to melt!
+[NPC] Harnquist: Yet do not leave it for too long or it will become unusable.
+[NPC] Harnquist: Then get the molten iron from the furnace and put it into the stock casting.
+[NPC] Harnquist: After some time, you will have an iron ingot!
+[NPC] Harnquist: The operation is not easy, so you need some metallurgy knowledge to complete it.
+[NPC] Harnquist: Be sure to get plenty of practice, return to me and I'll teach you how to make metal stock.
+[NPC] Harnquist: Good luck.
+
+[Reward] [XP] 9400; [Money] 1297; [Skill] 2, Metallurgy; [Item] 1, Working With Stock; [Faction] 10, Smith Association

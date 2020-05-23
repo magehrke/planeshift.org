@@ -1,0 +1,209 @@
+[Questname] Polyuntri Stevald Serves Laanx
+[NPC Name] Polyuntri Stevald
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Nkaw's Contrition; [Item] 1, Rat Eye; [Item] 1, Gobble Ear; [Item] 1, Consumer Leg; [Item] 1, Trepor Egg Sac; [Item] 1, Tefusang Skin; [Item] 1, Ulbernaut Claw
+
+[To] Polyuntri Stevald
+
+[NPC Internal] Do you have a task for me?
+[NPC] Polyuntri: You want a task you say.
+[NPC] Polyuntri: I do not have anything for you right now.
+[NPC] Polyuntri: I need nothing.
+[NPC] Polyuntri: Laanx more than provides for me.
+[NPC] Polyuntri: Well…
+[NPC Narrate] -Polyuntri ponders the situation.-
+[NPC] Polyuntri: That makes me think of something that troubles me.
+[NPC] Polyuntri: My brother, Gregori Stevald, is Taskmaster of the Arena.
+[NPC] Polyuntri: When we were children, my mother raised us in the faith of Laanx.
+[NPC] Polyuntri: My father had long since disappeared following Diaboli festivals.
+[NPC] Polyuntri: The church, under the guide of young Sharven, tended to our education while my mother worked as a scribe for the Vigesimi Aargol Stronghand, Amidison's father.
+[NPC] Polyuntri: Do you care to hear more?
+[NPC Internal] Yes, please continue.
+[NPC] Polyuntri: Good, I will continue.
+[NPC] Polyuntri: At first, we did very well surpassing the other students, even the Xacha students.
+[NPC] Polyuntri: But as we aged, our father's blood quickened within us and we began to act out.
+[NPC] Polyuntri: Fighting was our biggest trouble, because we were so much larger than the others, and were often picked on for it.
+[NPC] Polyuntri: Sharven was very strict on us, and while his discipline drove the faith into me.
+[NPC] Polyuntri: it drove all hope of it out of Gregori.
+[NPC] Polyuntri: To my surprise, Gregori was about age ten when he declared to me that he was going to run away as soon as he had the chance.
+[NPC] Polyuntri: Do you care to hear the end?
+[NPC Internal] Yes, please.
+[NPC] Polyuntri: Gregori said he believed Laanx hated him.
+[NPC] Polyuntri: When he came of age, he took the hard path of becoming a gladiator, while I used mother's and Sharven's connections to land a job here, as a member of the Shadow Squadron.
+[NPC] Polyuntri: Of course, many years have passed since then and both Gregori and I have risen in the ranks of our professions.
+[NPC] Polyuntri: Gregori now oversees the Arena in Hydlaa, while I serve as primary advisor to Raithen, Commander of the Shadow Squadron.
+[NPC] Polyuntri: My mother passed away five years ago and her last wish was that I bring Gregori back to the faith, because she thought it will be a guide for his actions in the future.
+[NPC] Polyuntri: I would like to fulfill her desire and maybe you can help me.
+[NPC] Polyuntri: Will you attempt this for me?
+[NPC Internal] Yes, just tell me how.
+[NPC] Polyuntri: You are going to need help to do this, of course.
+[NPC] Polyuntri: Go and speak to Sharven Xant-Areth: he may be able to advise you more in this regard.
+[NPC] Polyuntri: Tell him Polyuntri sent you to discuss about Gregori.
+[NPC] Polyuntri: Depart in peace, and may Laanx frighten the shadows from your path.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Polyuntri Stevald sent me.
+[NPC] Sharven: Polyuntri sent you?
+[NPC] Sharven: It's a long time since I last spoke with him; what is this about?
+[NPC Internal] To discuss Gregori's faith.
+[NPC] Sharven: Oh, yes.
+[NPC] Sharven: Much time has passed, but the memory of Gregori's loss of faith still makes me sad.
+[NPC] Sharven: I do not really know what the catalyst of his turn from the faith was.
+[NPC] Sharven: Of course I was hard on him, but I was hard on his brother too, and look how well he turned out.
+[NPC] Sharven: A finer worshipper of Laanx can hardly be found in all of Yliakum than Polyuntri Stevald.
+[NPC] Sharven: Perhaps if you spoke to Gregori about Laanx, he could tell you when in his life…what action took place…
+[NPC] Sharven: to cause him to start turning away from the faith.
+[NPC] Sharven: If you can tell me that, I might be able to devise a means to restore his belief.
+[NPC] Sharven: Depart in peace and may Laanx frighten the shadows from your path.
+
+[To] Gregori Stevald
+
+[NPC Internal] Sharven and Polyuntri sent me.
+[NPC] Gregori: You must be as much a fool as my brother and that old dust-monger Sharven.
+[NPC] Gregori: Do you think I will spill my soul to any reckless wanderer who comes up and asks?
+[NPC] Gregori: Never mind; you clearly do.
+[NPC] Gregori: If you want to know of such a private matter, you must earn my respect and trust, meddler.
+[NPC] Gregori: I will give you the chance.
+[NPC] Gregori: Will you take it?
+[NPC Internal] yes, if that is what it will take.
+[NPC] Gregori: You are brave, I will give you that.
+[NPC] Gregori: If you want my respect, you shall have to show your martial prowess; if you want my trust, you will have to display your wisdom.
+[NPC] Gregori: First your prowess: go and find me a consumer leg, a trepor egg sac, a tefusang skin, a rat eye, a gobble ear, and an Ulbernaut claw.
+[NPC] Gregori: When you get all these things, return and give them to me.
+[NPC] Gregori: If you can do this, I will test your wisdom.
+[NPC] Gregori: Start with the part from the easiest creature to kill.
+[NPC Internal] The rat eye as you requested.
+[NPC Narrate] -Gregori grins.-
+[NPC] Gregori: I knew you wouldn't have problems with this.
+[NPC] Gregori: The next might be a bit more difficult: the gobble ear.
+[NPC Internal] Here is the gobble ear.
+[NPC] Gregori: Very well.
+[NPC] Gregori: The next is a consumer leg.
+[NPC Internal] I have your consumer leg.
+[NPC] Gregori: A consumer leg, good.
+[NPC] Gregori: Do you also have the trepor egg sac?
+[NPC Internal] The egg sac.
+[NPC] Gregori: Nice!
+[NPC] Gregori: Now the tefusang skin.
+[NPC Internal] The skin you wanted.
+[NPC] Gregori: Only one more monster part…
+[NPC] Gregori: an ulbernaut claw.
+[NPC Internal] The claw you requested.
+[NPC] Gregori: Well, you either have powerful friends or are mighty yourself.
+[NPC] Gregori: I am glad you have satisfied this portion of your efforts to gain my respect and trust.
+[NPC] Gregori: Now I will test your wisdom.
+[NPC] Gregori: I will ask you a question.
+[NPC] Gregori: If you can answer it, I will tell you how I first came to dislike Laanx.
+[NPC] Gregori: Here is my question: Grimal Bloodaxe had a chest that was just a little too heavy for him to carry.
+[NPC] Gregori: He added something to the chest and could then carry it.
+[NPC] Gregori: What was it he added to the chest?
+[NPC Internal] hole
+[NPC] Gregori: Yes, that is the correct solution.
+[NPC] Gregori: Your wisdom impresses me.
+[NPC] Gregori: Now I will tell you.
+[NPC] Gregori: I first came to dislike Laanx when I snuck into Sharven's chamber at age ten.
+[NPC] Gregori: I had seen Sharven use his holy symbol during ceremonies and it seemed an article of great power.
+[NPC] Gregori: Sometimes it would even seem to glow as he spoke to us.
+[NPC] Gregori: I wanted to be close to Laanx like Sharven was, so I decided to go looking for it.
+[NPC] Gregori: I found it in one of his robes and put the platinum holy symbol around my neck.
+[NPC] Gregori: All of a sudden I had a vision of a hideous tall figure robed in black with a platinum mask over its face.
+[NPC] Gregori: The figure seemed to be waiting at a portal.
+[NPC] Gregori: A Klyros came through and the masked figure spoke 'I'm Laanx, and I'm your god.' I saw the creature gaze resentfully and silently, and then sit on a rock with its chin in its hands.
+[NPC] Gregori: Seeing that the creature refused to follow his orders, the robed figure became enraged and destroyed the creature by whispering a single word.
+[NPC] Gregori: I, too, felt destroyed.
+[NPC] Gregori: This must be boring you.
+[NPC] Gregori: Are you sure you want to hear the rest?
+[NPC Internal] Yes, please.
+[NPC] Gregori: I will continue.
+[NPC] Gregori: When I awoke, I had a burn mark around my neck and my head throbbed.
+[NPC] Gregori: Brought up amongst Xacha and Ylians with no Diaboli around to tell me better, I did not know the metal would make me THAT ill.
+[NPC] Gregori: Of course my mother had told me to avoid precious metals, but you know how children are, and I had to learn it for myself.
+[NPC] Gregori: The vision frightened me and as I was replacing the necklace, Sharven walked in.
+[NPC] Gregori: Sharven reprimanded me harshly, making me polish sections of the exterior of the temple.
+[NPC] Gregori: I was sick for weeks after, and was still forced to polish the rusty temple.
+[NPC] Gregori: The whole holy symbol incident made me think that Laanx hated me.
+[NPC] Gregori: That was the beginning and Sharven was always harder on me from then on.
+[NPC] Gregori: So the two primary causes of my turning from Laanx were being burned by a holy symbol and Sharven's discipline.
+[NPC] Gregori: Before that I had always had faith.
+[NPC] Gregori: I have finished speaking of this.
+[NPC] Gregori: Now leave me to my thoughts.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] You were too hard on him when Gregori was burned by the holy symbol.
+[NPC Narrate] -Sharven listens as you explain in detail what Gregori told you.-
+[NPC] Sharven: Ah, I had hoped he would not say that.
+[NPC] Sharven: I was too hard on him and Polyuntri.
+[NPC] Sharven: Such an unfortunate incident.
+[NPC] Sharven: Being burned because of a central symbol of the faith and having a priest be harsh toward you cannot be easy for a child to understand.
+[NPC] Sharven: I was much harder on Gregori after that, as I recall and this probably reinforced his early thoughts that Laanx disliked him.
+[NPC] Sharven: I am saddened by this news.
+[NPC] Sharven: I am getting old now and I am sure this was a disappointment to Laanx as well.
+[NPC] Sharven: I must make amends!
+[NPC Narrate] -Sharven takes out paper and a pen.-
+[NPC] Sharven: I shall pen a letter of apology to Gregori; in the mean time, if you will be so kind as to pick up an article I had commissioned for myself, I will be ready with the letter on your return.
+[NPC] Sharven: I have asked Fholen Medraa to make a holy symbol for me out of jade; it should be finished now.
+[NPC] Sharven: Take this note of assurance to him as payment, return and give me the necklace, and I will give you the letter for Gregori.
+[NPC] Sharven: Fholen is often somewhere near the library.
+[NPC] Sharven: Tell him I sent you.
+
+[To] Fholen Medraa
+
+[NPC Internal] Sharven Xant-Areth sent me.
+[NPC] Fholen: Good.
+[NPC] Fholen: I just finished his piece this morning, praise Laanx.
+[NPC] Fholen: Do you have the note of assurance?
+[NPC Internal] I have this note.
+[NPC] Fholen: Great then, here you are.
+[NPC] Fholen: This necklace is some of my best work; be careful with it.
+[NPC] Fholen: Depart in peace and may Laanx frighten the shadows from your path!
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Here is the necklace.
+[NPC Narrate] -Sharven holds the necklace up to the light.-
+[NPC] Sharven: Indeed, it is very nice.
+[NPC] Sharven: Here is the letter and the necklace.
+[NPC] Sharven: I want you to give him this necklace first, then the letter.
+
+[To] Gregori Stevald
+
+[NPC Internal] This is for you.
+[NPC] Gregori: A Symbol of Laanx?
+[NPC] Gregori: You must be crazy.
+[NPC] Gregori: And what is this letter you hold?
+[NPC Internal] This is also for you.
+[NPC] Gregori: What does the old coot want now?
+[NPC Narrate] -Gregori opens and reads the letter. Clearly the letter has a deep personal impact. Gregori inspects the jade necklace before looking skyward.-
+[NPC] Gregori: If it is a truth that your priests are wise enough to see their folly, Laanx, I shall open my heart to you.
+[NPC] Gregori: I do not understand why you visited a child with so harsh a vision, but judging by how my life has been since, you must have had a reason.
+[NPC Narrate] -Gregori eyes well up as he places the jade necklace around his neck.-
+[NPC] Gregori: Perhaps, Laanx, it is not for me to understand, but merely for me to contemplate.
+[NPC Narrate] -Gregori looks down.-
+[NPC] Gregori: You have proven yourself a fine messenger.
+[NPC] Gregori: I will send you back with a letter for my brother, and a letter for Sharven and I am sure Laanx will reward you for your deed.
+[NPC] Gregori: Depart in peace and may Laanx frighten the shadows from your path.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Here you go, this is for you.
+[NPC] Sharven: Indeed, you have wrought a fine work here friend.
+[NPC] Sharven: I do not have much to give you, but here, take this.
+[NPC] Sharven: It is the Platinum holy symbol Gregori burned himself with.
+[NPC] Sharven: You may find a use for it later.
+
+[To] Polyuntri Stevald
+
+[NPC Internal] I have a delivery for you.
+[NPC Narrate] -Polyuntri reads the letter.-
+[NPC] Polyuntri: Astounding news, you have exceeded expectations by far.
+[NPC] Polyuntri: How shall I reward you?
+[NPC] Polyuntri: Richly, I assume, would be best.
+[NPC] Polyuntri: Here is a Battle Helm.
+[NPC] Polyuntri: Also, if Raithen sent you to check up on the Shadow Squadron, as he likes to do occasionally, just tell him Polyuntri serves Laanx first.
+
+[Reward] [XP] 13600; [Item] 1, Platinum Holy Symbol of Laanx; [Item] 1, Battle Helm; [Faction] 25, Iron Hand
+

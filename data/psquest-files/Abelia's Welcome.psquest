@@ -1,0 +1,114 @@
+[Questname] Abelia's Welcome
+[NPC Name] Abelia Aruine
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Abelia Aruine
+
+[NPC Internal] Hi, is all this equipment yours?
+[NPC Narrate] -Abelia places her broom against the table and dusts her hands off on her apron to help compose herself before smiling at you.-
+[NPC] Abelia: Why yes it is.
+[NPC] Abelia: And welcome to Hydlaa, the central and main city of the top level of Yliakum!
+[NPC] Abelia: I've been told to say that to all new people I see round here.
+[NPC Narrate] -Abelia smirks as she turns round and starts gathering items from the table behind her.-
+[NPC] Abelia: Apparently there have been attacks coming from the Stone Labyrinths recently and lots of people fled this way.
+[NPC] Abelia: It's been quiet today so far, but since it's been busy all week with new arrivals I've been half expecting a rush this afternoon as well.
+[NPC Narrate] -She peers over her shoulder at you.-
+[NPC] Abelia: You didn't see a giant crowd of people headed this way did you?
+
+[Info] To see how to interact with NPCs click on the 'HELP' icon in the toolbar and in the 'START HERE SECTION' read the heading 'INTERACTING AND SPEAK WITH NPCs'.
+
+[NPC Internal] No, there are very few people around at the moment.
+[NPC] Abelia: Ah, well, shame.
+[NPC] Abelia: I made all these this morning and I'd hate for them to go to waste.
+[NPC Narrate] -Abelia finishes tidying up the table full of food and turns back to you.-
+[NPC] Abelia: As a new resident, or perhaps visitor, of Hydlaa I am pleased to present you with this small welcome pack on behalf of the Octarchy and the Hydlaa Vigesimi.
+[NPC] Abelia: It has some of my bread, a bit to drink, and a few of the other delicacies that I love to bake.
+[NPC] Abelia: Feel free to eat them now if you're hungry or just save them for later.
+[NPC] Abelia: Either way I'm sure you'll find them very refreshing and invigorating.
+
+[Info] The items you were just given will now be in your inventory. You can open this by clicking on the inventory icon in the main tool bar. To change the tool bar lay out right click on the blue crystal in the top corner of the game window. To see details on all the game windows click on the 'HELP' icon in the toolbar and in the 'START HERE SECTION' read the heading 'MENUS AND WINDOWS'.
+
+[Info] To eat or 'USE' a piece of food or potion you need to open your inventory and click on the item you want to use and drop it onto the picture of your character. If it can be used then any effect it gives, healing, skill boosts.. ect, will be applied to your character.
+
+[NPC Internal] So I could learn to cook?
+[NPC Narrate] -Abelia leans towards you a little.-
+[NPC] Abelia: If you can cook or bake already, or want to learn more I would go and see Jomed in the main tavern in Hydlaa.
+[NPC] Abelia: You can visit him once you get though the gate behind Xenak into the main city.
+[NPC Narrate] -Abelia points over to Xenak and the gate behind him.-
+[NPC] Abelia: Jomed is the starting point for the cooking association here in Hydlaa and will help you get started.
+[NPC Internal] Why exactly are you greeting people?
+[NPC] Abelia: Well, for the longest time there have been invasions from the Stone Labyrinths.
+[NPC] Abelia: Recently they have started to increase in frequency once again, with giant hordes of beasts headed towards Hydlaa from the area around the Eagle Bronze Doors.
+[NPC] Abelia: Because of this the Octarchy has set up this small area to welcome all those who come to Hydlaa seeking protection, or who come here for any reason really.
+[NPC] Abelia: We are here to make sure that you are well acquainted with as much of Hydlaa and the surrounding lands as possible before you pass into the city.
+[NPC] Abelia: The hope is that those coming to Hydlaa will make a positive impact to the city and to pick a craft or skill to help the Dome and Octarchy with the invasions.
+[NPC Internal] What are these Bronze Doors the invasions are coming from?
+[NPC] Abelia: Ah, well.
+[NPC] Abelia: Many years ago massive invasions ravaged the lands.
+[NPC] Abelia: In a concerted effort between warriors and mages a series of Bronze Doors were made and set into the walls of the Dome to help prevent the creatures from leaving the Stone Labyrinth and entering the Dome.
+[NPC] Abelia: I'm sure you will likely end up venturing out to the Eagle Head Fortress at some point.
+[NPC] Abelia: The guards there look after the closest set of doors to us.
+[NPC Internal] So what about the Octarchy and Vigesimi?
+[NPC Narrate] -Abelia seems a bit taken a back.-
+[NPC] Abelia: You don't know…
+[NPC] Abelia: Oh, well.
+[NPC] Abelia: The Octarchy is the self appointed government that runs Hydlaa, the city you are about to enter, and also runs the 'Dome' which is the top level of Yliakum and is where we are now.
+[NPC] Abelia: They also rule all of the seven levels below this one, though the Octarchy didn't always exist.
+[NPC Narrate] -Abelia looks you over.-
+[NPC] Abelia: If I remember correctly it took almost 170 years from when your race, the Ylians, first made their way through a portal from your homeworld before the Octarchy began to be established.
+[NPC] Abelia: And in general it has been a good thing.
+[NPC Internal] So they rule everyone in Yliakum?
+[NPC] Abelia: Yes they do.
+[NPC] Abelia: The Octarch around here is Iragdun Salikarios.
+[NPC] Abelia: You can find his residence across from the main tavern in Hydlaa.
+[NPC] Abelia: Under each of the eight Octarchs, there are twenty Vigesimi, who deal with matters of law and order.
+[NPC] Abelia: For instance, Amidison Stronghand is the Vigesimi of Hydlaa.
+[NPC Internal] How big is the Dome?
+[NPC] Abelia: The Dome is the biggest of all the levels, with the next one down smaller than the one above which continues all the way to the bottom.
+[NPC Narrate] -Abelia picks off a piece of cake and begins to eat it.-
+[NPC] Abelia: The Dome is called the Dome due to the domed shape of the ceiling of the Dome.
+[NPC Narrate] -Abelia chuckles a little as she uses the word dome so much.-
+[NPC] Abelia: There are lots of cities spread out over the Dome, but outside of Hydlaa you are most likely to visit the Kran city of Gugrontid, the Enkidukai city of Ojaveda and the Klyros city of Amdeneir.
+[NPC Internal] How would I get to the other cities?
+[NPC] Abelia: Well, there are two ways really.
+[NPC] Abelia: The first way is the quickest but you have to pay for it; you can arrange for the Pterosaur handlers to fly you to the city you want to go to.
+[NPC] Abelia: The second way to get somewhere is just to walk there.
+[NPC] Abelia: To get to Ojaveda, once you enter into the main part of Hydlaa you will have to go to your right, down and away from the Windowless tower into the plaza.
+[NPC] Abelia: Once there look for the passage through into East Hydlaa; that’s where the library is.
+[NPC] Abelia: Then you just follow the roads out of and away from the city until you reach Ojaveda.
+[NPC] Abelia: To get to Gugrontid, once you enter into the main part of Hydlaa you need to find the North gate, which will be to your left.
+[NPC] Abelia: You pass through it and then follow the path through the forest and then once out the other side head left over the hills.
+[NPC] Abelia: Finally, if you want to see Amdeneir, well, the best and really only way at the moment is to fly there, which is free right now.
+[NPC] Abelia: You will need to see Krestal Dhusho for that near the Laanx temple in Hydlaa; that's the giant red iron temple just off the plaza.
+[NPC] Abelia: Just look round the back of it to find him.
+[NPC Internal] Who and what is Laanx?
+[NPC Narrate] -Abelia smiles before answering.-
+[NPC] Abelia: Laanx is one of the gods present here in Yliakum and as you might know he created the Lemurs.
+[NPC] Abelia: Laanx’s main temple is here in Hydlaa, as I mentioned, and is run by an elderly Lemur, Sharven.
+[NPC] Abelia: Another god, Talad, was responsible for creating the Kran and he has a temple, unsurprisingly, in the Kran city of Gugrontid.
+[NPC] Abelia: A third god is Xiosia.
+[NPC] Abelia: She is very much the natural side of things and is favoured greatly by the Nolthrir and Dermorians, for they have always been very close to the land they live on.
+[NPC] Abelia: Finally, there is Dakkru.
+[NPC] Abelia: She is the god of death and if you ever find yourself on the wrong side of a pointed sword, you will be taken to her realm.
+[NPC] Abelia: You will have brave its depths to find your way out if you wish to come back to Yliakum again.
+[NPC Internal] So, now that I'm here what should I do?
+[NPC] Abelia: Good question.
+[NPC] Abelia: You have a choice.
+[NPC] Abelia: I would recommend talking to and getting to know the other people in this welcome area.
+[NPC] Abelia: You stand to learn a lot from such an experience which could greatly help your start here in Hydlaa.
+[NPC] Abelia: If this doesn't interest you, next to the gate behind you you can speak to Xenak about passing though into the main city of Hydlaa.
+[NPC] Abelia: If you want to stick about you could take some lunch I have prepared to Neave the blacksmith and talk to her.
+[NPC] Abelia: Are you interested in helping me out?
+[NPC Internal] I really want to see what else there is to learn.
+[NPC] Abelia: Fantastic, you should start with taking this lunch pack over to Neave.
+[NPC] Abelia: She is the blacksmith for this part of Hydlaa and can no doubt give you plenty of information regarding all the crafting that goes on in the city.
+[NPC] Abelia: But, you should know that if at any point you get fed up with learning about Hydlaa and just want to enter the city you can go and talk to Xenak and he will let you pass into the main city.
+[NPC] Abelia: If you want to come back and finish talking to the others in this area after you leave you can return at a later point to finish.
+[NPC] Abelia: Good luck, have fun, and enjoy Hydlaa.
+
+[Info] To see how to give items to NPCs click on the 'HELP' icon in the toolbar and in the 'START HERE SECTION' read the heading 'GIVING ITEMS TO NPCS'. In quests you can open the quest system and click certain Menu Options to give an item to the NPC, or, you can select the NPC and chose the 'GIVE' icon which will open a trade window, you can then pick an item to manually give to the NPC from your inventory.
+
+[Reward] [Item] 1, Lunch Pack; [Item] 1, Bread; [Item] 4, Lesser Potion of Healing; [Item] 1, Sack; [Item] 1, Water Pouch; [Item] 1, Fried Honey Dough; [Item] 1, Sweet Cinnamon Apple Slices

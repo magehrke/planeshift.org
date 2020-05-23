@@ -1,0 +1,161 @@
+[Questname] Executioner Games
+[NPC Name] Deelor Blackeye
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Dark Wanderer wants the Messenger Bag
+
+[To] Deelor Blackeye
+
+[NPC Internal] Excuse me, I am looking for work.
+[NPC Narrate] -You see a Klyros walking away in the distance.-
+[NPC Narrate] -Deelor looks up from the letters he now holds in his hands.-
+[NPC] Deelor: Ze mail run.
+[NPC Narrate] -Deelor flips through the letters.-
+[NPC] Deelor: Vor me…
+[NPC] Deelor: Vor me…
+[NPC] Deelor: Vor me…
+[NPC Narrate] -Deelor pauses in his flipping.-
+[NPC] Deelor: Zis one iz for Gordy…
+[NPC ME] Deelor turns to you.
+[NPC] Deelor: You seeks verk friend Dermorian, verk I geev.
+[NPC Narrate] -Deelor looks back at the letter in his hand and seems to grow curious.-
+[NPC] Deelor: But steel I vonder…
+[NPC Narrate] -Deelor looks back to you and randomly holds out a different letter.-
+[NPC] Deelor: Zake dis to Kimlorm and I vill revard you vith ze tria.
+[NPC] Deelor: Vill you?
+[NPC Internal] I vill, sure!
+[NPC Narrate] -Deelor hands you the letter.-
+[NPC] Deelor: Eet iz seemple.
+[NPC] Deelor: Much hayst, go now and return ven feenished and tellz me eet iz done.
+
+[To] Kimlorm
+
+[NPC Internal] This letter is for you.
+[NPC Narrate] -Kimlorm takes the letter.-
+[NPC] Kimlorm: Thank you for delivering this.
+
+[To] Deelor Blackeye
+
+[NPC Internal] It is done.
+[NPC Narrate] -Deelor smiles and sets down a letter.-
+[NPC Narrate] -Deelor quickly wipes his hands with a rag, smudging some ink which causes his fur to look even darker at the tips of his fingers.-
+[NPC] Deelor: Very goodz.
+[NPC] Deelor: Here ees ze tria revard.
+[NPC Narrate] -Deelor hands you some coins.-
+[NPC] Deelor: Vill you verk once more?
+[NPC Internal] Sure, I can.
+[NPC Narrate] -Deelor checks the ink on the letter and then folds it carefully before handing it to you.-
+[NPC] Deelor: Take dis to Gordy in Hydlaa…
+[NPC Narrate] -Deelor laughs.-
+[NPC] Deelor: He vill ve much funnik to…
+[NPC Narrate] -Deelor waves you off before he starts laughing again.-
+[NPC] Deelor: Vatch zeself and no tellink Gordy vho zent you.
+
+[To] Gordy Pumuont
+
+[NPC Narrate] -Gordy takes the letter and opens it, giving you a slightly odd look before starting to read.-
+[NPC] Gordy: …kikiri execution for refusal to pay taxes…kikiri execution…
+[NPC Narrate] -Gordy's eyes narrow as he looks back to you.-
+[NPC] Gordy: What is this?
+[NPC] Gordy: A joke? Who sent this?
+[NPC Narrate] -Gordy flips the letter over, looking for a signature or a seal.-
+
+[Possible Ways] 3
+
+[Way] 1
+
+[NPC Internal] somebody
+[NPC Narrate] -Gordy lets out a frustrated growl.-
+[NPC] Gordy: Do I look amused?
+[NPC] Gordy: That does not tell me who!
+[NPC Narrate] -Gordy takes a menacing step forward.-
+[NPC] Gordy: Who sent you?
+[NPC] Gordy: I want a name!
+[NPC Internal] I can’t tell you
+[NPC Narrate] -Gordy growls and clenches his fists.-
+[NPC] Gordy: Run back to your master puppet and tell that wretch I am not amused.
+[NPC Narrate] -Gordy seems to be shaking with the effort of controlling his rage.-
+[NPC] Gordy: Go now before I do something your head will regret!
+
+[To] Deelor Blackeye
+
+[NPC Internal] Gordy was not amused, in fact, he seemed very angry.
+[NPC Narrate] -Deelor laughs.-
+[NPC] Deelor: Very goodz Enkidukai, very goodz.
+[NPC Narrate] -Deelor looks you over obviously trying to make a decision.-
+[NPC] Deelor: I am goink to geev you an amazink opportunity.
+[NPC Narrate] -Deelor grins broadly.-
+[NPC] Deelor: You have shown some great potential.
+[NPC Narrate] -Deelor hands you a small platinum coin.-
+[NPC] Deelor: Take dis to Rulayne if you vish to learn about Her.
+[NPC Narrate] -Deelor leans forward and whispers his next words.-
+[NPC] Deelor: I sink you vould find Her vords call to you, her voice iz so much sweeter zan Talad’s and her face…
+[NPC Narrate] -Deelor’s voice trails off and he stands straight and proud as he hands you some tria.-
+[NPC] Deelor: Your revard for your verk.
+
+[Way] 2, 3
+
+[NPC Internal] Deelor Blackeye sent it.
+[NPC Narrate] -Gordy looks shocked for a moment and then starts laughing.-
+[NPC] Deelor: That…
+[NPC Narrate] -Gordy continues to laugh.-
+[NPC] Deelor: It makes much more sense now, he told me at the last…
+[NPC Narrate] -Gordy pauses.-
+[NPC] Deelor: Time to get even I say, I was saving this for that loud self-proclaimed prophet but…
+[NPC Narrate] -Gordy smirks to himself and pulls a small vial from his pocket.-
+[NPC] Deelor: …will you take this back to Deelor for me?
+[NPC Internal] yes
+[NPC Narrate] -Gordy cackles.-
+[NPC] Deelor: Thank you, give me just a moment.
+[NPC Narrate] -Gordy retrieves a quill and writes a short note on the bottom of letter.-
+[NPC] Deelor: Now, be sure to stand back when Deelor opens this.
+[NPC Narrate] -Gordy takes a deep breath and holds it before sprinkling some powder from the vial onto the letter. Folding the letter carefully he hands it back to you and exhales.-
+[NPC] Deelor: Remember, stand back.
+
+[To] Deelor Blackeye
+
+[NPC Internal] This is for you, from Gordy.
+[NPC Narrate] -Deelor accepts the letter but he looks confused.-
+[NPC] Deelor: Vat eez dis?
+[NPC Narrate] -Deelor opens the letter and his confusion grows.-
+[NPC] Deelor: All it saz eez…
+[NPC Narrate] -Deelor's eyes grow large and his whiskers begin to twitch.-
+[NPC] Deelor: to your health…
+[NPC Narrate] -Deelor sneezes.-
+[NPC] Deelor: Oy vat…
+[NPC Narrate] -Deelor sneezes again and looks at the letter.-
+[NPC] Deelor: Vat is goink on?
+[NPC Narrate] -Deelor sneezes again and he quickly crumples the letter and tosses it far.-
+[NPC] Deelor: Vhy did you brink dis letter back?
+[NPC Narrate] -Deelor looks at you, his eyes still watering.-
+[NPC] Deelor: Did you say vho zent you?
+
+[Way] 2
+
+[NPC Internal] Um, well, it kind of slipped out.
+[NPC Narrate] -Deelor seems surprised.-
+[NPC] Deelor: You told Gordy I zent you!
+[NPC Narrate] -Deelor wipes his eyes and sneezes again.-
+[NPC] Deelor: I thooht I vold you not to say!
+[NPC] Deelor: No more verk for you, be on your vay.
+[NPC Narrate] -Deelor frowns and tosses some tria to you before turning away, sneezing yet again.-
+
+[Way] 3
+
+[NPC] Deelor: Did you say vho zent you?
+[NPC Internal] No, no, of course I didn't.
+[NPC Narrate] -Deelor looks skeptical.-
+[NPC] Deelor: Den vhy am I sneezink?
+[NPC Narrate] -Deelor wipes his eyes and shakes his head.-
+[NPC] Deelor: I do not sink you are tellink me ze truth but I have no proof.
+[NPC Narrate] -Deelor tosses you some coins.-
+[NPC] Deelor: Here ees ze tria I agreed to.
+[NPC Narrate] -Deelor sneezes.-
+[NPC] Deelor: I have no more verk for you.
+[NPC Narrate] -Deelor turns away, sneezing once again.-
+
+[Reward] [Way 1] [Money] 2107; [XP] 10800; [Item] 1, Rulayne's Small Coin
+[Reward] [Way 2] [Money] 1297; [XP] 9400
+[Reward] [Way 3] [Money] 2107; [XP] 10800
+

@@ -1,0 +1,100 @@
+[Questname] Harnquist Weapon Commission
+[NPC Name] Harnquist
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Learning Sword Working; [Money] 50
+
+[To] Harnquist
+
+[NPC Internal] Hello again, got any more jobs?
+[NPC] Harnquist: I have an order for a custom sword that requires a special addition.
+[NPC] Harnquist: Could you go and pick it up for me?
+[NPC Internal] Yes, I can do that.
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC] Harnquist: Thank you.
+[NPC] Harnquist: The order is for a gilded hilt and has been placed already, it should be ready now.
+[NPC] Harnquist: Simply go and ask Trasok in Ojaveda about it.
+[NPC] Harnquist: Please return here when you have it.
+[NPC] Harnquist: You can reach Ojaveda from Hydlaa east, continuing to go into that direction for about 3 miles.
+
+[To] Trasok Starhammer
+
+[NPC Internal] I am here to pick up the gilded hilt that Harnquist ordered.
+[NPC] Trasok: Ah, yes.
+[NPC] Trasok: Harnquist ordered one not long ago, but unfortunately he did not pay for it yet.
+[NPC] Trasok: I can give it to you for fifty tria.
+[NPC] Trasok: Will you pay?
+[NPC Internal] Yes, yes, I'll pay for it.
+[NPC] Trasok: Good, give me the fifty tria and I will give you the hilt.
+[NPC Internal] Here are the tria.
+[NPC] Trasok: Thank you, and here you go.
+
+[To] Harnquist
+
+[NPC Internal] Here is your hilt. I had to pay for the order as well.
+[NPC] Harnquist: Ah, wonderful!
+[NPC Narrate] -Harnquist pauses.-
+[NPC] Harnquist: You had to pay for the order?
+[NPC] Harnquist: Oh my, I thought I had already sent payment.
+[NPC] Harnquist: My apologies.
+[NPC] Harnquist: Other than that, I hope it wasn't too much trouble, even though your walk was a bit long.
+[NPC] Harnquist: Please accept this as payment for your services and your expenses.
+[NPC] Harnquist: You should spend some time with Trasok, he has a lot to teach!
+
+[Way] 2
+
+[NPC] Harnquist: Great, I received a letter from Amidison saying that she wanted me to attach a new blade to an old family hilt that she has.
+[NPC] Harnquist: I'm really busy right now so I want you to go to Amidison and collect her sword hilt and then go to Veja in the arena and collect one of her high quality broad sword blades and bring them both back here.
+[NPC Narrate] -Hanquist pop one of his hands into a pocket and pull out two circles.-
+[NPC] Harnquist: This should cover the blade from Veja.
+
+[To] Veja Pontor
+
+[NPC Internal] I'm here to collect the Broad Sword blade for Hanquist.
+[NPC Narrate] -Veja is hammering away on a blade as you walk up.-
+[NPC] Veja: WHAT…
+[NPC Narrate] -She calls back at you.-
+[NPC Narrate] -Putting the hammer down she turns.-
+[NPC] Veja: Harnquist?
+[NPC] Veja: Oh…
+[NPC Narrate] -She realises what you are talking about.-
+[NPC] Veja: The broadsword blade he asked me to make, yes that done.
+[NPC] Veja: Will be..
+[NPC] Veja: two circles for it please.
+[NPC Internal] Here are the two circles, Harnquist gave them to me.
+[NPC Narrate] -Veja smiles as she takes the coins.-
+[NPC] Veja: He did, did he?
+[NPC] Veja: Nice to see he did leave you to pay out of pocket.
+[NPC] Veja: Well here is your blade.
+[NPC] Veja: Tell Harnquist thanks for the work.
+[NPC Narrate] -She smiles and turns to get back to work.-
+
+[To] Amidison Stronghand
+
+[NPC Internal] Hanquist sent me to collect an old sword hilt from you.
+[NPC Narrate] -Amidison is dusting off the front of her uniform as you approach.-
+[NPC Narrate] -She lifts her and smiles to you as you got closer and began to speak.-
+[NPC] Amidison: I'm happy to hear that he got my letter and appears to have agreed to the commission.
+[NPC Narrate] -Amidison lower herself to pick a small sack at her feet.-
+[NPC Narrate] -Upon opening it she pulls out the old sword hilt and hands it to you.-
+[NPC] Amidison: Please take care when delivering this to Harnquist it is quite precious to me.
+
+[To] Harnquist
+
+[NPC Internal] Here are the hilt and blade you asked me to get.
+[NPC] Harnquist: Great…
+[NPC] Harnquist: Thank you very much for getting both of these.
+[NPC Narrate] -Harnquist looks around for his tira pouch.-
+[NPC] Harnquist: Here we are, take this with my thanks.
+[NPC] Harnquist: It's not much, but you deserve it.
+
+[Way] All
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Smith Association; 
+

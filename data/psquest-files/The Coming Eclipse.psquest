@@ -1,0 +1,162 @@
+[Questname] The Coming Eclipse
+[NPC Name] Datal Allavium
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Dangerous Winds; [Item] 1, Letter from Amidison; [Item] 1, Fear glyph
+
+[Info] You get the glyph back.
+
+[To] Datal Allavium
+
+[NPC Narrate] -You hand Datal the letter from Amidison. (Note: Due to quest wipe May 2014 you may need to get this from a GM)-
+[NPC] Datal: What's this?
+[NPC Narrate] -Datal unseals the letter and reads, making various facial expressions as he does.-
+[NPC] Datal: Ah, so I see the government has finally found someone foolhardy, er, I mean worthy enough to investigate this major problem that faces us all.
+[NPC] Datal: The cycle is starting again.
+[NPC] Datal: The winds kick up from below, signifying the comings of the crystal eclipse.
+[NPC] Datal: Woe unto all of Yliakum unless we are prepared!
+[NPC] Datal: As you know, the eclipse brings much trouble to our realm, everything from basic problems stemming from the dimming of the Azure Sun to the cooling of all levels and some danger to crops.
+[NPC] Datal: But worse yet will be the attacks from the Stone Labyrinths, which, historically, have magnified in intensity during eclipses.
+[NPC] Datal: Theorists imagine it is because the denizens of the Stone Labyrinths are accustomed to low light, and when Yliakum is darker, it is much easier for them to see.
+[NPC Narrate] -Datal makes a small shrug.-
+[NPC] Datal: All that said, will you engage in a task for your government?
+[NPC Internal] Yes I am more than happy to help.
+[NPC] Datal: As is proper.
+[NPC] Datal: I have reason to suspect some dark work is afoot.
+[NPC] Datal: As you may or may not be aware, the Dark Crystal behaves strangely during the eclipse.
+[NPC] Datal: If you don't know what that is, feel free to ask later.
+[NPC] Datal: Nevertheless, we believe some agents of a little-known cult mean to use this time to summon a dark and ancient force.
+[NPC] Datal: Worse, members of our own guard may well be unwittingly involved.
+[NPC] Datal: If you are to take this mission, it may have dire consequences on your reputation, and I will not be able to protect you if you misstep.
+[NPC] Datal: Are you certain you want to hear more?
+[NPC Internal] Yes I want to hear more.
+[NPC] Datal: I knew that getting so many to find favour with you would be a good test.
+[NPC] Datal: I need to get at the root of this conspiracy, and find out who is involved in the cult of the 'Black Flame.' There are several possibilities, but at present I would like you to investigate one: Nodramok Dakyl.
+[NPC] Datal: He is a Dark Way practitioner with power and influence, and thus a likely candidate.
+[NPC] Datal: You need to ask him to make you an apprentice.
+[NPC] Datal: He might ask you to do some things that are against the law, but you are to comply until you get any information you need.
+[NPC] Datal: Keep in mind, however, that amnesty will only be granted once that information is given to me.
+[NPC] Datal: I cannot order you to do this, but I must know: Will you do it?
+[NPC Internal] Yes I will.
+[NPC] Datal: Good luck, Sir.
+[NPC] Datal: Don't let us down.
+[NPC] Datal: When you have the information, tell me you have it, or merely hand it to me.
+
+[To] Nodramok Dakyl
+
+[NPC Internal] I would like to become your apprentice.
+[NPC] Nodramok: Who is this insignificant Hammerwielder blathering before me and wishing to be my apprentice?
+[NPC Narrate] -Nodramok looks you up and down with a skeptical expression on his face.-
+[NPC] Nodramok: I do not mentor just anyone.
+[NPC] Nodramok: Even being allowed into this area is not sufficient.
+[NPC] Nodramok: Thus, you will prove your worth.
+[NPC] Nodramok: At the Eagle is a man who has been given a toy with a coded message on it.
+[NPC] Nodramok: You are to discern the message, find its answer, and tell me what the answer is.
+[NPC] Nodramok: You want me to tell you who the man is and how to approach him?
+[NPC] Nodramok: It wouldn't be much of a test if I told you that.
+[NPC] Nodramok: Now begone!
+
+[To] Roobelh
+
+[NPC Internal] I hear rumours you have a toy with a coded message, show it to me.
+[NPC] Roobelh: Huh?
+[NPC] Roobelh: You know there's a message on the toy?
+[NPC] Roobelh: Well, if you know, I suppose you're the one to whom I need to show it.
+[NPC Narrate] -Roobelh takes out the wooden toy and spins it slowly in front of you.-
+[NPC] Roobelh: I don't know if you read Klyros, but it's a code if you do a letter-to-letter translation into common.
+[NPC] Roobelh: It reads as follows: 'TXAESI SUUV UG TOQVIIP.' Then, underneath, it has a double arrow between the symbols for X and Q.
+[NPC] Roobelh: I believe that signifies that one should be substituted for the other.
+[NPC] Roobelh: Once you think you've solved it, give me the answer, because I'm not sure myself.
+[NPC] Roobelh: I was never good at codes.
+[NPC Internal] square root of sixteen
+[NPC] Roobelh: Are you sure?
+[NPC] Roobelh: I don't think that…
+[NPC Narrate] -Roobelh pauses. His eyes roll upwards in thought.-
+[NPC] Roobelh: Oh, sorry, yes it does.
+[NPC] Roobelh: But what does that mean?
+[NPC] Roobelh: It sounds like it has to do with mathematics, but if I knew how to do mathematics, I wouldn't be a guard.
+[NPC] Roobelh: All I know is that the answer to this has to correspond to a level of Ylikaum.
+[NPC] Roobelh: Can you tell me the answer, please?
+[NPC Internal] four
+[NPC] Roobelh: Ah, the Forge.
+[NPC] Roobelh: Yes, that makes sense.
+[NPC] Roobelh: My course is clear now; thanks, Hammerwielder.
+[NPC] Roobelh: I suppose you can relay the answer to whomever sent you.
+
+[To] Nodramok Dakyl
+
+[NPC Internal] four
+[NPC] Nodramok: So it is.
+[NPC] Nodramok: But such a task is easy.
+[NPC] Nodramok: When you are ready for your next task, ask me about it.
+[NPC Internal] I am ready now, what is my next task?
+[NPC] Nodramok: Anyone can solve a riddle.
+[NPC] Nodramok: But not everyone can acquire glyphs of the Dark Way.
+[NPC] Nodramok: Bring me a Fear glyph and I will see your willingness to use its powers.
+
+[Give] Nodramok Dakyl; 1, Fear glyph
+
+[NPC] Nodramok: Such a sacrifice.
+[NPC] Nodramok: To give up this Fear glyph to serve under me?
+[NPC] Nodramok: It says much of your character, Hammerwielder.
+[NPC] Nodramok: You may have it back.
+[NPC] Nodramok: You will need it if you are to be my apprentice.
+[NPC] Nodramok: When you are ready for the final task, ask about it.
+[NPC Internal] Let's get this done, what is my final task?
+[NPC] Nodramok: So you have shown you can acquire items useful to the Dark Way.
+[NPC] Nodramok: But how far are you willing to go to be my apprentice, I wonder?
+[NPC] Nodramok: My final task may bring unwanted attention to you, from both those who uphold the law and those who break it.
+[NPC] Nodramok: You may refuse, if you so desire, but know that you will be no apprentice of mine if you do.
+[NPC] Nodramok: Do you refuse?
+[NPC Internal] No I want to help.
+[NPC] Nodramok: So be it.
+[NPC] Nodramok: You are to help me sow some seeds of chaos within the government.
+[NPC] Nodramok: There is a city worker named Hamel Warson who has been known to change his work orders for bribes.
+[NPC] Nodramok: He is about to be paid a visit by some organized criminals.
+[NPC] Nodramok: Namely, you.
+[NPC] Nodramok: You are to approach him and tell him that he has been marked, and you are to use the Onyx Dagger thieves' dialect.
+[NPC] Nodramok: No, I will not tell you the phrase.
+[NPC] Nodramok: That is for you to find.
+[NPC] Nodramok: You are to say nothing else to him.
+[NPC] Nodramok: Answer no questions.
+[NPC] Nodramok: When you have done so, return to me and tell me he has been marked.
+
+[To] Hamel Warson
+
+[NPC Internal] Leeshaile shol saardh
+[NPC] Hamel: What did you say?
+[NPC Narrate] -Hamel trembles with fear.-
+[NPC] Hamel: What do you want from me?
+[NPC] Hamel: Who sent you?
+[NPC] Hamel: Answer me!
+
+[To] Nodramok Dakyl
+
+[NPC Internal] He has been marked.
+[NPC] Nodramok: Excellent.
+[NPC] Nodramok: That should keep the government on the alert for the Onyx Dagger while my plans go unhindered.
+[NPC] Nodramok: Of course, by the Onyx Dagger, I mean YOU.
+[NPC] Nodramok: I want you to go into hiding now.
+[NPC] Nodramok: Practice some Dark Way spells on your own.
+[NPC] Nodramok: Take these instructions and wait for the eclipse.
+[NPC] Nodramok: Then unseal them and follow them.
+[NPC] Nodramok: You have done well, apprentice.
+[NPC] Nodramok: After the eclipse, I will teach you secrets mortals were not meant to know.
+[NPC] Nodramok: Farewell.
+
+[To] Datal Allavium
+
+[NPC Internal] I have the information you require.
+[NPC] Datal: Well done.
+[NPC] Datal: May I have it?
+[NPC Internal] Yes.
+[NPC] Datal: Great, hand it over please.
+[NPC Internal] YOU hands over the instructions.
+[NPC] Datal: Interesting.
+[NPC] Datal: This certainly appears to be the genuine article.
+[NPC] Datal: I will need to discuss this at the next meeting of the Vigesimi.
+[NPC] Datal: I can tell you no further, but your part in this is complete.
+[NPC] Datal: On behalf of the Octarch, I thank you for all you have done.
+[NPC] Datal: Please accept this, and one of these, as a token of our gratitude.
+[NPC Narrate] -Datal gives you twenty coins and offers a choice of two glyphs.-

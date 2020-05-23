@@ -1,0 +1,59 @@
+[Questname] Learning Blade Making
+[NPC Name] Harnquist
+[Checkup] 2017-04-11
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Making a Metal Stock; [Item] 2, Steel Stock; [Item] 1, Leather Knife Handle
+
+[To] Harnquist
+
+[NPC Internal] Can you tell me how to make blades?
+[NPC] Harnquist: Blade making is a valuable trade skill.
+[NPC] Harnquist: Are you sure you are willing to put in the effort to learn?
+[NPC Internal] Yes, I really want to learn.
+[NPC] Harnquist: Good, I can teach you how to make some simple knives and swords.
+[NPC] Harnquist: As we covered previously, everything starts with raw materials.
+[NPC] Harnquist: Bring me two pieces of steel stock and I will teach you more.
+
+[Give] Harnquist; 2, Steel Stock
+
+[NPC Internal] Here is your steel stock, I stacked it together as the quality is the same.
+[NPC] Harnquist: Ah, good.
+[NPC] Harnquist: It is important that you find a good source of steel stock.
+[NPC] Harnquist: Once you start making swords, you will probably not want to spend your time mining or refining ore.
+[NPC] Harnquist: The first step is to acquire the proper skills.
+[NPC] Harnquist: To make a knife or a sword, you need both blacksmith and the blade making skill.
+[NPC] Harnquist: You will also need a special book that I can give you.
+[NPC] Harnquist: Before teaching you any more, I need to know if you are serious about being a blade smith.
+[NPC] Harnquist: If so, find a leather knife handle for me and bring it here.
+
+[Give] Harnquist; 1, Leather Knife Handle 
+
+[NPC Internal] [You give Harnquist the knife handle.] Umm, but you sell them.
+[NPC ME] Harnquist smiles.
+[NPC] Harnquist: Now you are catching on.
+[NPC] Harnquist: The lesson there is figure out what parts you need to make, and which you need to buy, then find out where you need to buy them.
+[NPC] Harnquist: Not all smiths or merchants sell everything.
+[NPC] Harnquist: I have a couple of different parts for sale, like the leather knife handle.
+[NPC] Harnquist: Trasok, Gardr, or Kethzun also sell related items.
+[NPC] Harnquist: Between us, you should be able to stock up on everything you'll need.
+[NPC Internal] I see. So what can I make?
+[NPC] Harnquist: Good, that's where the book comes in.
+[NPC] Harnquist: It will tell you what you need.
+[NPC] Harnquist: This is what you need to do.
+[NPC] Harnquist: You use different quantities to make different items.
+[NPC] Harnquist: Get some more steel stock and heat it up in the forge.
+[NPC] Harnquist: When making a blade, hammer it into shape using a hammer at an anvil.
+[NPC] Harnquist: Heat it again and quench it in the tank.
+[NPC] Harnquist: Sharpen it with the sharpening stone, combine it with a handle and you are done crafting a very basic version of a weapon.
+[NPC] Harnquist: Do not forget to experiment, and be sure to learn the needed skills from me before trying to make any weapons.
+[NPC] Harnquist: I should also mention, blade making applies to knives, swords, -and- axes...basically, anything with a blade.
+[NPC] Harnquist: This book, called the Book of Blades, will guide you through making swords like shortswords, longswords, sabres, and claymores, along with knives and daggers.
+[NPC] Harnquist: For axes, you'll need to see Trasok over in Ojaveda.
+[NPC] Harnquist: I don't have a book for broadswords, but I have seen them around.
+[NPC] Harnquist: You may have to get winch access and a good amount of skill to progress that far.
+[NPC] Harnquist: Till then, keep checking with myself and Trasok to train and progress.
+[NPC ME] Harnquist hands you a book.
+[NPC] Harnquist: Good luck.
+
+[Reward] [XP] 10800; [Money] 2107; [Skill] 2, Blades Making; [Item] 1, Book of Blades; [Faction] 15, Smith Association

@@ -1,0 +1,44 @@
+[Questname] Hygrnn's Other Bag
+[NPC Name] Hygrnn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes
+
+[To] Hygrnn
+
+[NPC Internal] Do you have any work for me?
+[NPC] Hygrnn: You want some work?
+[NPC] Hygrnn: Oh, sure.
+[NPC] Hygrnn: I lost my other bag, you see.
+[NPC] Hygrnn: It contains some trade goods.
+[NPC] Hygrnn: Oh, I can never keep a handle on my bags.
+[NPC] Hygrnn: Do you think you can help me recover it?
+[NPC Internal] Yes, I will help you.
+[NPC] Hygrnn: Great.
+[NPC] Hygrnn: I'd do it myself but I can't leave my goods unattended.
+[NPC] Hygrnn: I know I dropped it somewhere close to the winch, so it can't have gone far.
+[NPC] Hygrnn: I believe I dropped it two days ago.
+[NPC] Hygrnn: Ask around inside the winch building…about a missing bag.
+[NPC] Hygrnn: See if anyone's found one.
+[NPC] Hygrnn: Thanks again!
+
+[To] Hakik Gheshd
+
+[NPC Internal] Have you seen Hygrnn's bag?
+[NPC] Hakik: I'm in charge of the lost items.
+[NPC] Hakik: How long ago did you say this bag was lost?
+[NPC Internal] For about two days now.
+[NPC] Hakik: Ah, yes, now I remember.
+[NPC Narrate] -Hakik opens a barrel and produces a leather bag, handing it to you.-
+[NPC] Hakik: One bag of mercantile goods, found two days ago by the Winch.
+[NPC] Hakik: You're welcome.
+[NPC Internal] hands Hybrnn the bag, “Is this it?”
+[NPC] Hakik: Certainly looks like the bag.
+[NPC Narrate] -Hygrnn checks the bag and begins counting on his fingers.-
+[NPC] Hakik: Yes, it's all here.
+[NPC] Hakik: Thank you kindly.
+[NPC] Hakik: Here's some Tria for your efforts.
+
+[Reward] [Money] 5130; [XP] 13600; [Item] 1, Gas glyph
+

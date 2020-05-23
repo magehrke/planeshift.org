@@ -1,0 +1,52 @@
+[Questname] Dark Way Glyph Training
+[NPC Name] Oriven Thamel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Dark Way Apprentice; [Item] 1, Apprentice's Dark Way Wand; [Skill] 20, Dark Way; [Item] 1, Weakness glyph; [Item] 1, Darkness glyph
+
+[Info] You get the glyphs back.
+
+[To] Oriven Thamel
+
+[NPC Internal] Please except my Way Wand as proof of being a student.
+[NPC] Oriven: So you return like a bad disease.
+[NPC] Oriven: I have a short amount of time to test you.
+[NPC] Oriven: Are you prepared for your single spell glyph test?
+[NPC Internal] Yes, I am ready.
+[NPC] Oriven: I will be the judge of that.
+[NPC] Oriven: But first I want you to do something.
+[NPC] Oriven: Dark Way is not only a matter of magic.
+[NPC] Oriven: It's also a matter of knowledge.
+[NPC] Oriven: It's time to learn something.
+[NPC] Oriven: Go in the library, here in these hallways and read the Four Revelations of Dakkru.
+[NPC Internal] I read it.
+[NPC Narrate] -Oriven gazes at you.-
+[NPC] Oriven: Very well.
+[NPC] Oriven: In the book Londris talks about an event.
+[NPC] Oriven: I was there and I didn't like to be bullied, neither by a god nor by man.
+[NPC] Oriven: But enough.
+[NPC] Oriven: What did Londris remembered when the winds start to rise?
+[NPC Internal] eclipse
+[NPC] Oriven: Yes.
+[NPC] Oriven: A really strange book, isn't it?
+[NPC Narrate] -Oriven closes his eyes for a moment.-
+[NPC] Oriven: Now hand me the glyph that weakens your foe.
+[NPC Internal] I guess that will be Weakness?
+[NPC Narrate] -Oriven nods.-
+[NPC] Oriven: So you are not a complete waste of skin.
+[NPC Narrate] -Oriven returns your glyph.-
+[NPC] Oriven: Now hand me the glyph that allows you to cast a spell that reduces vision.
+[NPC Narrate] -Oriven once again awaits your glyph.-
+[NPC Internal] And who can see in the Darkness of night right?
+[NPC] Oriven: So, YOU, you have past this first part my testing.
+[NPC] Oriven: It seems even a Enkidukai like you can learn.
+[NPC] Oriven: Take these bracers.
+[NPC] Oriven: They shall help with your…
+[NPC] Oriven: mortal weakness.
+[NPC] Oriven: Hand them to me when you think you are ready for your next test.
+[NPC] Oriven: Be sure you have improved your skills so as not to waste my time.
+[NPC] Oriven: Also, look into obtaining a glyph called Negate.
+
+[Reward] [XP] 10800; [Item] 1, Apprentice's Dark Way Bracers; [Faction] 15, Dark Order
+

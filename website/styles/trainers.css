@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* For trainers section */
+
+.trainers_main_table {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	
+}
+	
+	#trainers_main_table_header td {
+		font-variant: small-caps;
+		border: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	

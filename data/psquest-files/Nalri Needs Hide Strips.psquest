@@ -1,0 +1,51 @@
+[Questname] Nalri Needs Hide Strips
+[NPC Name] Nalri Grimtorr
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Introduction to Crafting; [Money] 50
+
+[To] Nalri Grimtorr
+
+[NPC Internal] Greetings, I am looking for some work.
+[NPC Narrate] -Nalri places a hammer next to her and wipes the sweat from her forehead.-
+[NPC] Nalri: Greetings, Enkidukai.
+[NPC] Nalri: I indeed have a favour to ask you.
+[NPC] Nalri: I require some hide strips to complete repairs to some weapons I have.
+[NPC] Nalri: Would it be too much trouble to ask if you would be willing to collect some from Jeyarp for me?
+[NPC Internal] No.
+[NPC Narrate] -Nalri picks up a hammer.-
+[NPC] Nalri: I await your return.
+[NPC Narrate] -Nalri continues to work on a sword.-
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] I need some hide strips.
+[NPC Narrate] -Jeyarp sighs.-
+[NPC] Jeyarp: Sorry, did not see you there.
+[NPC Narrate] -Jeyarp looks towards his wife then back to you.-
+[NPC] Jeyarp: I have been very busy…
+[NPC] Jeyarp: But my wife…
+[NPC Narrate] -Jeyarp quickly glances in the direction of Gayla.-
+[NPC] Jeyarp: …never mind my problems.
+[NPC] Jeyarp: I believe you needed some hide strips.
+[NPC] Jeyarp: Good fortune is on your side.
+[NPC] Jeyarp: I have a bag with me.
+[NPC] Jeyarp: I will give it to you for fifty tria.
+[NPC Internal] Here are the fifty tria.
+[NPC Narrate] -Jeyarp removes his backpack and frantically searches it.-
+[NPC] Jeyarp: Ah, here we go.
+[NPC Narrate] -Jeyarp pulls out a large bag.-
+[NPC] Jeyarp: As promised, a bag full of hide strips.
+
+[To] Nalri Grimtorr
+
+[NPC Internal] Here are the hide strips.
+[NPC Narrate] -Nalri places the hammer next to her and takes the bag.-
+[NPC] Nalri: Well done, race.
+[NPC Narrate] -Nalri hands you a few coins.-
+[NPC] Nalri: With my deepest thanks.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Crafting Association
+

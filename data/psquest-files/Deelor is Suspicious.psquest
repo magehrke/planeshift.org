@@ -1,0 +1,104 @@
+[Questname] Deelor is Suspicious
+[NPC Name] Deelor Blackeye
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Deelor and the Rat Hat
+
+[To] Deelor Blackeye
+
+[NPC Internal] Hail, Deelor. Do you need help with anything else?
+[NPC] Deelor: Ah, is friend Kran who is giff me rat hat.
+[NPC] Deelor: You vant more verk?
+[NPC] Deelor: It may be you can aid me, because I vant to find somtink to do.
+[NPC] Deelor: I keell lawbreaker for livink but am find none.
+[NPC] Deelor: Maybe you is help me find creeminal, yes?
+[NPC Internal] Now this is a challenge I like.
+[NPC] Deelor: Is good!
+[NPC] Deelor: I haff suspicion of one called Canyt.
+[NPC] Deelor: I can tell she is badness.
+[NPC] Deelor: She has secrets.
+[NPC] Deelor: You research her vays for me; see if you find her treecks.
+[NPC] Deelor: There are thinks go missing she is behind.
+[NPC] Deelor: I know, but cannot prove eet.
+[NPC] Deelor: If you can prove eet I geeve you much presents, is okay?
+[NPC Internal] Just point me in the right direction and I will get you your proof.
+[NPC] Deelor: Good good, Laanx likes good person who help me keel evil.
+[NPC] Deelor: Missing are some thinks.
+[NPC] Deelor: But I haff plan to catch her in buying stolen goods.
+[NPC] Deelor: She gets troubles beeg.
+[NPC] Deelor: Weel you attempt to help me?
+[NPC Internal] Sure, what must I sell her?
+[NPC] Deelor: I have these potion I borrow; you try sells them her.
+[NPC] Deelor: Eef she buys, she ees criminal, and she weell be execute!
+[NPC] Deelor: Ha ha.
+[NPC] Deelor: Just ask her about stolen goods.
+[NPC] Deelor: Now you go to her and get her to buy.
+[NPC Narrate] -He rubs his paws in anticipation.-
+
+[To] Canyt Klannarr
+
+[NPC Internal] What do you know about stolen goods?
+[NPC Narrate] -Canyt looks you up and down, then sniffs the air around you.-
+[NPC] Canyt: Deelor sent you, right?
+[NPC] Canyt: Goodness, will he stop at nothing?
+[NPC] Canyt: He has been looking at me suspiciously ever since I turned him down for dinner.
+[NPC] Canyt: Not once did that stubborn man stop to think I just might not like him.
+[NPC] Canyt: Have you seen his ridiculous hat?
+[NPC] Canyt: Anyway, now he is angry and wants to hurt me somehow.
+[NPC] Canyt: He is trying to set me up, because his feelings are hurt.
+[NPC Narrate] -Canyt studies you for a moment.-
+[NPC] Canyt: I know where Deelor got these items, and the owner is looking for them.
+[NPC] Canyt: But the choice is yours.
+[NPC] Canyt: You can return the potions to Deelor for little or no reward, or you can search for the original owner and return them, or you can simply keep the potions.
+[NPC] Canyt: Whatever you choose, I wish you luck.
+
+[To] Deelor Blackeye
+
+[NPC Internal] I was not able to sell the potions.
+[NPC] Deelor: Whyfore you geeve back?
+[NPC] Deelor: Would Canyt not buy them?
+[NPC Internal] No, she did not want to buy it.
+[NPC] Deelor: Is not good!
+[NPC] Deelor: Jig is up!
+[NPC] Deelor: You geeve me potions back before anyone notice the missinks.
+[NPC] Deelor: I keep, yes?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] No, I want to return them to there rightful owner.
+[NPC] Deelor: I guess you keep then?
+[NPC] Deelor: Or you geeve to Tarmeen Alecheech and tell about Deelor Blackeye, and no longer be friend?
+[NPC] Deelor: Vatever, Kran. It is you to choose.
+[NPC Narrate] -Deelor crosses his arms and watches you.-
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] I believe these belong to you.
+[NPC] Tarmeen: What?
+[NPC] Tarmeen: These…
+[NPC] Tarmeen: these had gone missing from storage.
+[NPC] Tarmeen: Who had them?
+[NPC Internal] Deelor had them.
+[NPC] Tarmeen: Deelor?
+[NPC] Tarmeen: I had a feeling it might be him.
+[NPC] Tarmeen: I never really did trust him.
+[NPC] Tarmeen: He has been sporting a nice hat lately, though.
+[NPC] Tarmeen: Still, I'll make sure he is punished to the full extent of the law.
+[NPC] Tarmeen: Take this for your vigilance.
+[NPC Narrate] -Tarmeen gives you a glyph.-
+
+[Way] 2
+
+[To] Deelor Blackeye
+
+[NPC Internal] As far as I am concerned, your potions, you keep them.
+[NPC] Deelor: Good!
+[NPC] Deelor: I geeve my friend Enkidukai thees and say much thanks to you!
+[NPC Narrate] -Deelor gives you a shield and waves goodbye.-
+
+[Reward] [Way 1] [XP] 10800; [Item] 1, Sight glyph
+[Reward] [Way 2] [XP] 9400; [Item] 1, Golden Shield
+

@@ -1,0 +1,45 @@
+[Questname] Davikel's Request
+[NPC Name] Davikel Iramok
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Jarop's Gem
+
+[To] Davikel Iramok
+
+[NPC Internal] Anything I can do for you?
+[NPC Narrate] -Davikel shifts kras gaze towards you for an instant before returning to the document kra is reading.-
+[NPC] Davikel: Yes, er.
+[NPC] Davikel: Please take this to my colleague, the Vigesimi Amidison Stronghand of Hydlaa.
+[NPC] Davikel: Tell her I am not pleased.
+[NPC Narrate] -Davikel makes a soft sighing noise and shakes kras head, mumbling something under kras breath.-
+
+[To] Amidison Stronghand
+
+[NPC Internal] I am here to deliver some paperwork.
+[NPC Narrate] -Amidison examines the document with growing concern.-
+[NPC] Amidison: Where did you get this?
+[NPC Internal] Davikel Iramok.
+[NPC Narrate] -Amidison shakes her head in disgust.-
+[NPC] Amidison: I am sure kra sent some message as well, please tell me what it is this time?
+[NPC Internal] Davikel is not pleased.
+[NPC Narrate] -Amidison rolls her eyes.-
+[NPC] Amidison: Kra needs to learn much.
+[NPC] Amidison: Kra is a Vigesimi now, and should know that documents of such importance should be kept confidential.
+[NPC] Amidison: I fear he will only learn this when it is too late.
+[NPC Narrate] -Amidison’s eyes close for a few moments.-
+[NPC] Amidison: Wait a minute, please.
+[NPC Narrate] -Amidison rapidly scribes a letter and magically seals it.-
+[NPC] Amidison: Take this back to kra for me please, and take some coin for your troubles.
+
+[To] Davikel Iramok
+
+[NPC Internal] Vigesimi Stronghand has a response for you.
+[NPC Narrate] -Davikel looks at you as you approach, looking puzzled.-
+[NPC] Davikel: You're back.
+[NPC] Davikel: What's this?
+[NPC Narrate] -Davikel rubs kras forehead while examining the sealed letter and after a sighing noise, finally opens and reads it.-
+[NPC] Davikel: I…oh.
+[NPC Narrate] -Davikel shakes kras head in shame.-
+[NPC] Davikel: Please take this as payment for your help.
+[NPC] Davikel: Good day, madam.

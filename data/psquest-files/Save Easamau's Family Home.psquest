@@ -1,0 +1,253 @@
+[Questname] Save Easamau's Family Home
+[NPC Name] Easamau
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Easamau Lost his Badge
+[Need] [Way 2] [Money] 50000
+[Need] [Way 3] [Item] 6, Ulbernaut furs; [Item] 20, Diamond Crystals; [Item] 50, Rat Eyes
+
+[To] Easamau
+
+[NPC Internal] Hi Easamau, do you have another task I can help you with?
+[NPC] Easamau: I do have a second task I need done; you will not find it easy, however.
+[NPC] Easamau: I need 50,000 tria to save my father from having his home taken away from him by the Hydlaa tax collector, Darphen Wrestele; you can either give him the money or see what other arrangements you can make with him to relieve the debt.
+[NPC] Easamau: Will you try to aid me?
+[NPC Internal] I will help you.
+[NPC] Easamau: Stupendous!
+[NPC] Easamau: This is my problem, Darphen Wrestele is the tax collector in Hydlaa, my father Darven Bounash, is a gambler.
+[NPC] Easamau: I did not take his family name and moved out to the Bronze Doors area to spare myself the horrors of his reputation.
+[NPC] Easamau: He gambled away not only most of my inheritance from my mother but also mortgaged his home to pay his debts, which rise each year.
+[NPC] Easamau: He has managed to heap up an enormous debt which I will not be able to pay in the next twenty years of service here as a member of the Sunshine Squadron.
+[NPC] Easamau: All the while, as his debts have accumulated, his taxes have gone unpaid.
+[NPC Narrate] -Easamau shakes his head and continues.-
+[NPC] Easamau: Darphen Wrestele has sent me a dispatch informing me that unless my father can come up with the money soon, he will be forced to sell our home and put something of value to Hydlaa in its place.
+[NPC] Easamau: I need you to go there and find a way to relieve the debt.
+[NPC] Easamau: If you can make it back to me with a receipt saying the taxes are up to date, I can give you a rare glyph my mother left me in her will.
+[NPC] Easamau: Speak with Darphen first.
+[NPC] Easamau: I am sure he will want a great deal in return for this tax relief.
+[NPC] Easamau: Good tidings, brave soul.
+
+[To] Darphen Wrestle
+
+[NPC Internal] I am here on behalf of Easamau, to settle the debt.
+[NPC] Darphen: Yes indeed, the Bounash family.
+[NPC] Darphen: How is it one as seemingly wise as you are got caught up with such a lowly sort?
+[NPC] Darphen: I suppose you mean to convince me to let them off their debt.
+[NPC] Darphen: That will not happen.
+[NPC] Darphen: Their taxes must be paid if the family is to keep the home.
+[NPC] Darphen: Do you have the 50,000 tria needed to save it?
+
+[Info] Take the second or third way as they give more rewards.
+
+[Possible Ways] 3
+
+[Way] 1
+
+[NPC Internal] No I don't.
+[NPC] Darphen: That is unfortunate.
+[NPC] Darphen: There is little I can do as this is a matter of the law.
+[NPC] Darphen: People must take responsibility for themselves, and Darven Bounash spends all of his time in the bar or gambling away his money.
+[NPC] Darphen: There is a very difficult alternative, perhaps.
+[NPC] Darphen: Let me think on it some.
+[NPC Internal] Have you given any thought on the alternative.
+[NPC] Darphen: I have a huge back roll of taxes to collect and a great deal of pressure from Amidison Stronghand to collect it.
+[NPC] Darphen: I will give you a list of reluctant taxpayers.
+[NPC] Darphen: If you can collect the 200,000 they owe collectively, I can write off the Bounash homes taxes.
+[NPC] Darphen: Do you agree to do this?
+[NPC Internal] No, I can't do that.
+[NPC] Darphen: Then there is nothing more I can do for the Bounashes; bother me no more about this.
+[NPC] Darphen: Tell Easamau the house will be sold.
+
+[To] Easamau
+
+[NPC Internal] The house will be sold.
+[NPC] Easamau: I cannot believe this is the end…
+[NPC] Easamau: I will find a way to save my father's home!
+[NPC] Easamau: I have much to plan, please be gone, your assistance is obviously not needed again.
+
+[Way] 2
+
+[NPC Internal] Yes I do.
+[NPC] Easamau: That is great news!
+[NPC] Easamau: Hand it over and I will give you a receipt saying their taxes are paid in full.
+[NPC Internal] Here is the money.
+[NPC] Easamau: Here is the Bounash tax receipt.
+
+[Way] 3
+
+[NPC Internal] No I don't.
+[NPC] Easamau: That is unfortunate.
+[NPC] Easamau: There is little I can do as this is a matter of the law.
+[NPC] Easamau: People must take responsibility for themselves, and Darven Bounash spends all of his time in the bar or gambling away his money.
+[NPC] Easamau: There is a very difficult alternative, perhaps.
+[NPC] Easamau: Let me think on it some.
+[NPC Internal] Have you given any thought on the alternative.
+[NPC] Easamau: I have a huge back roll of taxes to collect and a great deal of pressure from Amidison Stronghand to collect it.
+[NPC] Easamau: I will give you a list of reluctant taxpayers.
+[NPC] Easamau: If you can collect the 200,000 they owe collectively, I can write off the Bounash homes taxes.
+[NPC] Easamau: Do you agree to do this?
+[NPC Internal] Yes.
+[NPC] Easamau: Excellent.
+[NPC] Easamau: A good number of the local merchants have back taxes.
+[NPC] Easamau: If you can use your skills to convince them to pay and collect notes of assurance from each of the people, I will write off the Bounash taxes.
+[NPC] Easamau: The list goes like this.
+[NPC] Easamau: Harnquist owes 20,000 tria, Kaiman Jilatt owes 60,000, Dhalia Colat owes 20,000, Thorian Gronk owes 40,000, and then one non-merchant Uri Djho-Maat owes 60,000.
+[NPC] Easamau: If you can gather notes of assurance from each of these, all is forgiven for the Bounash family.
+[NPC] Easamau: The Vigesimi will be happy, and that is all a lowly tax collector can ask.
+[NPC] Easamau: Good luck with them, though; they are all very hard to convince.
+[NPC] Easamau: Just ask them about taxes.
+[NPC] Easamau: Once you've got them all, bring them to me.
+
+[To] Harnquist
+
+[NPC Internal] I am here about your taxes.
+[NPC] Harnquist: No, I have not gotten to it yet; besides, the tax collector is a worm.
+[NPC] Harnquist: I suppose he sent you to try to convince me to pay.
+[NPC] Harnquist: Tell you what.
+[NPC] Harnquist: You seem like a likeable sort; if you do a favour for me, I will give you a note of assurance for my 20,000 tria.
+[NPC] Harnquist: Sound good?
+[NPC Internal] Yes.
+[NPC] Harnquist: Good to hear.
+[NPC] Harnquist: I just need you to take some inventory to Veja in the arena; she will give you a receipt.
+[NPC] Harnquist: If you return with a receipt from Veja Pontor, I will give you the assurance note that you seek.
+
+[To] Veja Pontor
+
+[NPC Internal] I have a delivery for you.
+[NPC] Veja: About time Harnquist got those to me.
+[NPC] Veja: I mean I know he is busy, but making me wait for two weeks…
+[NPC] Veja: Not your concern I imagine.
+[NPC] Veja: Here is your receipt.
+
+[To] Harnquist
+
+[NPC Internal] I have your receipt.
+[NPC] Harnquist: Very well then, here is your assurance note for Darphen.
+[NPC] Harnquist: I suppose it's not a good thing to be in debt to the government forever.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] I am here about your taxes.
+[NPC] Kaiman: Fantastic!
+[NPC] Kaiman: Taxes eh?
+[NPC] Kaiman: I see you are the new trepor, sent to scurry about bothering the good merchants of this city for their hard earned money?
+[NPC] Kaiman: Well I am not paying.
+[NPC] Kaiman: I like to keep my money flowing, and taxes sap my money flow too heavily.
+[NPC] Kaiman: If you want the money, you are going to have to pry it from my dead hand.
+[NPC] Kaiman: Oh goodness listen to me!
+[NPC] Kaiman: I apologize.
+[NPC] Kaiman: I have been having a bad day.
+[NPC] Kaiman: Let us make a deal.
+[NPC] Kaiman: There is a shortage of Ulbernaut furs in the city, and they fetch a high price.
+[NPC] Kaiman: If you can get me six of them I can give you an assurance note from me for 60,000 tria.
+[NPC] Kaiman: That should settle me up.
+[NPC] Kaiman: Sound like a deal?
+[NPC Internal] Yes.
+[NPC] Kaiman: Super, I will await your return with the Ulbernaut furs.
+
+[Give] Kaiman Jilatt; 6, Ulbernaut fur
+
+[NPC Internal] Here is your fur.
+[NPC] Kaiman: Well done.
+[NPC] Kaiman: You are indeed one ambitious tax collector.
+[NPC] Kaiman: Here is the note of assurance you need for Darphen.
+
+[To] Dhalia Colat
+
+[NPC Internal] I am here about your taxes.
+[NPC] Dhalia: No, but I really want to!
+[NPC] Dhalia: I am so far behind, but I do believe in our government!
+[NPC] Dhalia: Things have been so hard for me and my husband as of late.
+[NPC] Dhalia: We owe 20,000 tria!
+[NPC] Dhalia: That is so much to have to pay.
+[NPC] Dhalia: Oh goodness, I suppose there is something I can do.
+[NPC] Dhalia: I have a family heirloom that Kaiman Jilatt has been trying to get from me for some time.
+[NPC Narrate] -Dhalia digs in her bag and produces an amulet.-
+[NPC] Dhalia: Here it is: the Amulet of Yore.
+[NPC] Dhalia: If you can deliver it to him, he will give you a receipt.
+[NPC] Dhalia: Return with that receipt and I will write you an assurance note for Darphen.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] Dhalia sends you this.
+[NPC] Kaiman: Wow!
+[NPC] Kaiman: You are not only a taxcollector but also a miracle worker!
+[NPC] Kaiman: I have been trying to get this amulet from Dhalia for ten years.
+[NPC] Kaiman: Here let me write you a receipt.
+
+[To] Dhalia Colat
+
+[NPC Internal] I have your receipt.
+[NPC] Dhalia: I thank you.
+[NPC] Dhalia: I hope this will please Darphen, I do really want to be a good citizen; things are just hard for us.
+[NPC] Dhalia: Well, here is your note of assurance.
+
+[To] Thorian Gronk
+
+[NPC Internal] I am here about your taxes.
+[NPC] Thorian: Oh, not this again!
+[NPC] Thorian: I don't have it!
+[NPC] Thorian: How many times do I have to tell that rascally Darphen?
+[NPC] Thorian: Grrr, by the gods!
+[NPC] Thorian: There is only one deal that will provide me with enough money for now to pay.
+[NPC] Thorian: If you want to get Darphen's money, then help me with this.
+[NPC] Thorian: If you can get me 20 diamond crystals, I can make the deadline for the delivery.
+[NPC] Thorian: If you do this, I will pay my gosh-darned taxes.
+[NPC] Thorian: Can you do this?
+[NPC Internal] Yes.
+[NPC] Thorian: I need them all at once and quickly.
+[NPC] Thorian: There is no time to waste!
+
+[Give] Thorian Gronk; 20, diamond crystal
+
+[NPC Internal] Your diamond crystals as requested.
+[NPC] Thorian: Well done and thank you.
+[NPC] Thorian: Here is the Note of Assurance you wanted.
+
+[To] Uri Djho-Maat
+
+[NPC Internal] I am here about your taxes.
+[NPC] Uri: No, I haven't paid my taxes.
+[NPC] Uri: I mean I could easily pay them if I wanted to.
+[NPC] Uri: I am quite wealthy you know, but as I told tax collector Wrestele, I am paying nothing until he takes care of the rat problem.
+[NPC] Uri: It is absolutely absurd to have so many of the disease carrying wretches milling about.
+[NPC] Uri: It makes me sick to my stomach to think of their little scurrying feet tracking waste and pestilence all over the city.
+[NPC] Uri: I will not pay my taxes until I see something significant done about it; is a matter of principle for me.
+[NPC] Uri: I simply cannot pay taxes to a city that will do nothing to police itself of such vermin.
+[NPC Narrate] -Uri studies you-
+[NPC] Uri: Tell you what.
+[NPC] Uri: You look like you might be a good ratter.
+[NPC] Uri: You can bring me 50 rat eyes and I will give you the note you desire.
+[NPC] Uri: Talad knows, Darphen has done nothing to allay my fears.
+[NPC] Uri: Do you accept my proposal?
+[NPC Internal] Yes.
+[NPC] Uri: Wonderful, then.
+[NPC] Uri: Return to me with 50 rat eyes all at once and you will have a Note of Assurance from me.
+[NPC Internal] Here is your rat eyes.
+[NPC] Uri: I am satisfied with your work.
+[NPC] Uri: Here is your note.
+
+[To] Darphen Wrestle
+
+[NPC Internal] Here are all the assurance notes.
+[NPC] Darphen: Amazing you must have some charisma!
+[NPC] Darphen: Well a promise is a promise - here is the receipt for the Bounash taxes paid in full.
+[NPC] Darphen: His son should be pleased.
+
+[Way] 2, 3
+
+[To] Easamau
+
+[NPC Internal] I was able to settle your father's debt.
+[NPC Narrate] -Tears well in Easamau's eyes.-
+[NPC] Easamau: I thank you so much!
+[NPC] Easamau: I could not have done this without you.
+[NPC] Easamau: You are truly a goodly soul.
+[NPC] Easamau: Here is your reward; I hope it is satisfactory.
+
+[Reward] [Way 1] [XP] 8000
+[Reward] [Way 2] [XP] 17800; [Item] 1, Mind glyph; [Item] 1, Battle Shield; [Faction] 40, Guard
+[Reward] [Way 3] [XP] 17800; [Item] 1, Mind glyph; [Item] 1, Battle Shield; [Faction] 40, Guard
+
+

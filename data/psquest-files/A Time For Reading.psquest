@@ -1,0 +1,108 @@
+[Questname] A Time For Reading
+[NPC Name] Kerryk Cor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Search for Knowledge
+
+[To] Kerryk Cor
+
+[NPC Internal] I thought I'd come back by, see if you needed anymore help?
+[NPC] Kerryk: Excellent!
+[NPC] Kerryk: You are here.
+[NPC] Kerryk: I was hoping you would come back.
+[NPC] Kerryk: You see, I need some help.
+[NPC] Kerryk: A few of my records have been damaged; it seems the parchment I was using that week was very delicious to a strange blue mold.
+[NPC] Kerryk: I have recovered what I could of the sheets, but there are a few things yet missing.
+[NPC] Kerryk: It is this information that I could use your help retrieving.
+[NPC] Kerryk: There is a good bit of tria in it for you, are you interested?
+[NPC Internal] Sure, I'd love to help you.
+[NPC] Kerryk: Excellent.
+[NPC] Kerryk: Three things, some fairly straightforward research.
+[NPC] Kerryk: What I need first is for you to tell me where Yliakum got its name.
+[NPC] Kerryk: Once you have done that, I need to know the word that gobbles use for greeting.
+[NPC] Kerryk: Lastly, I need to know the Octarchal punishment for theft.
+[NPC] Kerryk: All of this can be found in Jayose's Library, I am fairly certain.
+[NPC] Kerryk: Oh, while you are there, please return this volume to Jayose for me.
+[NPC Narrate] -Kerryk gives you a small green book.-
+[NPC] Kerryk: Please take care of the book, get a receipt for it, and take care with your studies.
+[NPC] Kerryk: It is important that knowledge be kept from corruption and errors.
+[NPC] Kerryk: Good travelling to you, Gemma.
+
+[To] Jayose
+
+[NPC Internal] I am returning this book to you, on behalf of Kerryk Corr.
+[NPC] Jayose: Ah, it has returned safely to me.
+[NPC Narrate] -Jayose inspects the book and nods.-
+[NPC] Jayose: Thank you.
+[NPC Internal] May I please have a receipt?
+[NPC Narrate] -Jayose sighs and takes out a small form and signs it and fills in a few bits of information. He looks at the book again and opens it to inspect a few pages. He sets it down and makes a few more marks on the paper before giving it to you.-
+[NPC] Jayose: Your receipt.
+[NPC Narrate] -Jayose makes a bit of a face, adjusts his spectacles, and turns back to his work.-
+
+[To] Kerryk Cor
+
+[NPC Internal] hands Kerryk the receipt, “Here you go.”
+[NPC] Kerryk: Hmmm?
+[NPC] Kerryk: What is this?
+[NPC] Kerryk: Ah, a receipt.
+[NPC Narrate] -Kerryk holds up the little slip of paper in a massive stony hand and reads it.-
+[NPC] Kerryk: Very good.
+[NPC] Kerryk: So you found the library, I hope that you have also found my answers.
+[NPC] Kerryk: Tell me about the naming of Yliakum: where did that word come from?
+[NPC Internal] stone labyrinths
+[NPC] Kerryk: Ah yes, that's right.
+[NPC Narrate] -Kerryk takes out a piece of parchment and some ink and begins to write with a sturdy quill.-
+[NPC] Kerryk: Thank you.
+[NPC] Kerryk: Our history is fascinating to say the least.
+[NPC] Kerryk: Did you know that many Lemurs claim that Laanx saved their race from extinction?
+[NPC] Kerryk: And that some Klyros believe the same deity killed their ancestors?
+[NPC] Kerryk: Very interesting.
+[NPC] Kerryk: Now what else was there?
+[NPC] Kerryk: Ah yes, the gobble word for greeting?
+[NPC Internal] Rahle
+[NPC] Kerryk: Excellent.
+[NPC Narrate] -Kerryk writes something down.-
+[NPC] Kerryk: Most of the less intelligent creatures use body language instead of words.
+[NPC] Kerryk: I wonder how people discovered that rahle meant greetings?
+[NPC] Kerryk: Ah, and the last thing I need to recover, what is the Octarchal's punishment for theft?
+[NPC Internal] Banishment
+[NPC] Kerryk: Correct you are.
+[NPC Narrate] -Kerryk makes notes on kras parchment and then sets it aside to dry.-
+[NPC] Kerryk: Very good.
+[NPC] Kerryk: You have done me a fine service, but I wish to ask you to do just a few more things.
+[NPC] Kerryk: A friend of mine has sent me a letter, saying that he has come across a few intriguing artifacts and has sent them to me.
+[NPC] Kerryk: They are in Hydlaa, in the care of Percival Hawthorne.
+[NPC] Kerryk: Will you help me once more?
+[NPC Internal] Not a problem, I can go pick them up.
+[NPC] Kerryk: Excellent.
+[NPC] Kerryk: He resides on the fourth level, so they shall be arriving through the Hydlaa Winch.
+[NPC] Kerryk: I don't exactly know what they are, but I'm sure you'll be able to handle them.
+[NPC] Kerryk: Go see Percival and give him this.
+[NPC Narrate] -Kerryk gives you a small shipping form.-
+[NPC] Kerryk: Thank you, and take care on your journey.
+
+[To] Percival Hawthorne
+
+[NPC Internal] hands Percival the order, “Hi, I'm here to pick this up.”
+[NPC Narrate] -Percival scans the document with a stern expression.-
+[NPC] Percival: I don't usually do this, but Kerryk is a great Kran to whom I owe many favours.
+[NPC Narrate] -Percival looks over the order again.-
+[NPC] Percival: That's kras signature all right.
+[NPC Narrate] -Percival tucks the form away and fetches a large wooden box and hands it to you.-
+[NPC] Percival: Be careful there, it's fragile.
+[NPC] Percival: Best get it to Kerryk as soon as you can.
+
+[To] Kerryk Cor
+
+[NPC Internal] hands Kerryk the box.
+[NPC Narrate] -Kerryk smiles and gently sets the box by kras foot.-
+[NPC] Kerryk: Ah, thank you.
+[NPC Narrate] -Kerryk gives you a handfull of golden circles in exchange.-
+[NPC] Kerryk: And these are for you, a reward for your time.
+[NPC] Kerryk: If you will now excuse me, I really must get to examining these; who knows what mysteries they hold?
+[NPC Narrate] -Kerryk grins and waves goodbye to you.-
+[NPC] Kerryk: Farewell, my helpful friend.
+
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Science Association
+

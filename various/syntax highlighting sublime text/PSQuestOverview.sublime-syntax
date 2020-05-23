@@ -1,0 +1,41 @@
+%YAML 1.2
+---
+# See http://www.sublimetext.com/docs/3/syntax.html
+
+name: PS Quest Overview
+file_extensions: [psqview]
+scope: source.questoverview
+
+contexts:
+  main:
+
+    - match: (\[Reward\]|\[Faction\]|\[Money\]|\[XP\]|\[Item\])
+      scope: string.quoted.single
+
+    - match: (\[Quest\])(.*);(.*)
+      captures: 
+        1: keyword
+        2: variable
+        3: keyword
+
+    - match: '//.*'
+      scope: comment.line
+
+    # OR
+    - match: \[OR\]|\[OR Begin\]|\[OR End\]
+      scope: variable.parameter
+
+    # Way
+    - match: \[Way \d+\]
+      scope: variable.parameter
+
+    - match: \[Info\].*
+      scope: variable
+
+
+    # yellow:              string.quoted.single
+    # gray:                comment.line
+    # red:                 keyword
+    # orange:              constant.numeric
+    # green:               variable
+    # dark orange, italic: variable.parameter

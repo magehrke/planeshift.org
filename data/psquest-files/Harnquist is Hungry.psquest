@@ -1,0 +1,31 @@
+[Questname] Harnquist is Hungry
+[NPC Name] Harnquist
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Special] Various items depending on what Harnquist asks for
+
+[To] Harnquist
+
+[NPC Internal] I'm looking for a small job to earn some tria.
+[NPC] Harnquist: Yes, I have something you can help me with.
+[NPC] Harnquist: This work is quite hard and requires a lot of energy, so I will be grateful if you could bring me something to eat.
+[NPC] Harnquist: Could you find some time to get something for me?
+[NPC Internal] Sure, I can handle that.
+[NPC] Harnquist: Excellent!
+[NPC] Harnquist: I would like you to get me some fresh bread and honey.
+[NPC] Harnquist: I look forward to your return.
+[NPC] Harnquist: You can probably find those at the tavern, or perhaps at the bakery in the arena.
+[NPC] Harnquist: Do be quick, I am quite Hungry.
+
+[To] Harnquist
+
+[NPC Internal] Here is the food.
+[NPC] Harnquist: Lovely, thank you.
+[NPC Narrate] -Harnquist picks up a knife and carves slices of bread before spreading honey on them.-
+[NPC Narrate] -Eating one he smiles with the sweetness.-
+[NPC] Harnquist: Wonderful Take this in return for your efforts.
+
+[Reward] [Money] 1000; [XP] 8000; 
+

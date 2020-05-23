@@ -1,0 +1,124 @@
+[Questname] Helping Nalri
+[NPC Name] Nalri Grimtorr
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests; [Item] 1, Beer Mug; [Item] 1, Cider Mug; [Item] 1, crafted Chain Mail Boots
+
+[To] Nalri Grimtorr
+
+[NPC Internal] Hello, anything I can help you with?
+[NPC Narrate] -Nalri looks you up and down before she smiles.-
+[NPC] Nalri: YOU, I have heard some good things about you.
+[NPC] Nalri: I have been told you can make some good armour.
+[NPC] Nalri: I want to give Narwin a new pair of boots.
+[NPC] Nalri: The old fool in his stubbornness refuses to buy a new pair.
+[NPC] Nalri: So will you help me?
+[NPC Narrate] -Nalri strokes her beard while waiting for you to respond.-
+[NPC Internal] Of Course, I am happy to help.
+[NPC Narrate] -Nalri's face lights up.-
+[NPC] Nalri: Excellent.
+[NPC] Nalri: This will stop him moaning to me about his feet.
+[NPC Narrate] -Nalri's face goes serious.-
+[NPC] Nalri: But…
+[NPC Internal] But what?
+[NPC] Nalri: Mhm.
+[NPC] Nalri: Not sure.
+[NPC Narrate] -Nalri smiles again.-
+[NPC] Nalri: I have got a small test for you first to see if you are worthy.
+[NPC] Nalri: Do you think you can answer my riddle?
+[NPC Internal] Yes, I will try to answer a riddle.
+[NPC Narrate] -Nalri scratches her head.-
+[NPC] Nalri: Which riddle shall I choose?
+[NPC] Nalri: My own one or one from my book, you choose.
+[NPC] Nalri: Wait.
+[NPC] Nalri: I think you should choose mine.
+[NPC Internal] I think your one would be best.
+[NPC Narrate] -Nalri Smiles.-
+[NPC] Nalri: Good.
+[NPC] Nalri: I think so too.
+[NPC] Nalri: Here we go.
+[NPC] Nalri: The fluid that hops in the barrel.
+[NPC Narrate] -Nalri looks at you awaiting the answer.-
+[NPC Internal] Beer
+[NPC] Nalri: I don't mind if I do.
+[NPC] Nalri: That is very kind of you to offer.
+[NPC Internal] Here is your beer.
+[NPC Narrate] -Nalri Smiles.-
+[NPC] Nalri: Another one.
+[NPC] Nalri: This is fun.
+[NPC Narrate] -Nalri winks.-
+[NPC Internal] Yes, I will do another one.
+[NPC Narrate] -Nalri nods.-
+[NPC Narrate] -Nalri pulls a tatty book from a pouch.-
+[NPC] Nalri: Here we go.
+[NPC Narrate] -Nalri Grins.-
+[NPC] Nalri: The round orb suspended in the sky.
+[NPC] Nalri: Suddenly falls.
+[NPC] Nalri: It does not break.
+[NPC] Nalri: But golden liquid from it we make.
+[NPC Internal] Here is your cider.
+[NPC Narrate] -Nalri Smiles.-
+[NPC] Nalri: Thank you.
+[NPC] Nalri: May I ask one more?
+[NPC Internal] Yes, as long as I don't have to fetch more drink.
+[NPC Narrate] -Nalri tries to look innocent.-
+[NPC] Nalri: Who me?
+[NPC] Nalri: I would never do such a thing.
+[NPC Narrate] -Nalri winks and smiles, before stroking jaw.-
+[NPC] Nalri: Ok I promise no more fetching drink.
+[NPC Narrate] -Nalri rubs her hands together.-
+[NPC] Nalri: Here goes…
+[NPC] Nalri: It starts when its owner is young and stays forever.
+[NPC] Nalri: At first light it is removed, but is back by night.
+[NPC] Nalri: But for others once it has arrived it never leaves.
+[NPC Internal] beard
+[NPC Narrate] -Nalri strokes her face again.-
+[NPC] Nalri: Correct.
+[NPC Narrate] -Nalri looks at you.-
+[NPC] Nalri: Narwin sometimes says I have a beard what do you think?
+[NPC Internal] Yes, you have a beard to be proud of.
+[NPC Narrate] -Nalri looks annoyed.-
+[NPC Narrate] -Nalri rubs her beard.-
+[NPC] Nalri: This.
+[NPC] Nalri: This is not a beard just some hair.
+[NPC] Nalri: On my chin.
+[NPC Narrate] -Nalri smiles.-
+[NPC] Nalri: I am just joking with you.
+[NPC] Nalri: No need to look so serious.
+[NPC] Nalri: Now about the present.
+[NPC] Nalri: Can you make me a pair of chain mail boots for Narwin?
+[NPC] Nalri: Just bring them to me once done.
+[NPC] Nalri: Oh, I do want ones crafted not just bought from one of the regular smiths.
+[NPC Narrate] -She's not kidding either…store-bought boots will not work.-
+[NPC Internal] Here are your boots.
+[NPC Narrate] -Nalri takes the boots and examines them.-
+[NPC] Nalri: Well done these are good.
+[NPC] Nalri: I am glad I allowed you to make them.
+[NPC Narrate] -Nalri winks at you.-
+[NPC] Nalri: Can you deliver these to Narwin?
+[NPC Narrate] -Nalri hands you the boots back.-
+[NPC] Nalri: I will reward you for your work when you return.
+
+[To] Narwin Molstagh
+
+[NPC Internal] These are a present from Nalri. [You hand Narwin the boots.]
+[NPC Narrate] -Narwin smiles.-
+[NPC] Narwin: These are nice indeed, even better they are free.
+[NPC] Narwin: Tell her I am grateful
+
+[To] Nalri Grimtorr
+
+[NPC Internal] Narwin is grateful.
+[NPC Narrate] -Nalri Smiles.-
+[NPC] Nalri: Thank you Jilare.
+[NPC] Nalri: At least he will stop complaining about his feet now.
+[NPC] Nalri: Thank you for your patience with my riddles too.
+[NPC] Nalri: They were fun though.
+[NPC] Nalri: Here you go take this manual.
+[NPC] Nalri: It should be of use to you.
+[NPC Narrate] -Nalri hands you a book.-
+[NPC] Nalri: You have shown you are more than worthy of it today.
+
+[Reward] [Money] 2107; [XP] 10800; [Item] 1, Making Plate Mail Armor; [Faction] 1, Smith Association
+

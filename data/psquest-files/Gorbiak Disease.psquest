@@ -1,0 +1,60 @@
+[Questname] Gorbiak Disease
+[NPC Name] Jardet Forsill
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Stop the Drainage Plan; [Money] 50
+
+[To] Jardet Forsill
+
+[NPC Internal] Have you spoken with Xiosia recently?
+[NPC] Jardet: Ah, seems you've started to have some divination powers my friend!
+[NPC] Jardet: In fact I had a vision of Xiosia last night and I need someone to investigate.
+[NPC] Jardet: Are you interested with looking into it?
+[NPC Internal] Yes!
+[NPC] Jardet: Thanks, would you like to hear about my vision.
+[NPC Internal] Tell me about your vision, Jardet.
+[NPC] Jardet: I often receive visions from Xiosia when something is going wrong, mainly when nature is at risk.
+[NPC] Jardet: She cares about everything, small and big, she decides the importance, not us.
+[NPC] Jardet: This time the vision was very blurred, but I've grasped that she was telling me a name: 'Gorbiak'.
+[NPC] Jardet: From the few traits I've seen in this vision, I think he is a gobble.
+[NPC Internal] What are gobbles?
+[NPC] Jardet: Gobbles are not very intelligent humanoid creatures, who live in the outdoors.
+[NPC] Jardet: They are usually peaceful when not provoked.
+[NPC] Jardet: Seems Gorbiak is down in the sewers.
+[NPC] Jardet: And there is something wrong with him, he may be at danger.
+[NPC] Jardet: My suggestion is to go down there and find him.
+[NPC] Jardet: It's not easy to speak with such creatures, so you may need to find some information on them as well, like how to say hello, I'm sure the library would be a good place to start.
+
+[To] Gorbiak
+
+[NPC Internal] rahle
+[NPC] Gorbiak: rahle varta.
+[NPC Internal] gertas lent olaat
+[NPC] Gorbiak: Me need cure…
+[NPC] Gorbiak: galer aht …
+[NPC] Gorbiak: fear dying herak jilat….
+[NPC] Gorbiak: halop.
+
+[To] Menlil Toresun
+
+[NPC Internal] I need a cure for Gorbiak.
+[NPC] Menlil: You are lucky because I made a number of cure disease potions a few weeks ago.
+[NPC] Menlil: They cost 50 trias each.
+[NPC] Menlil: Do you want to buy one?
+[NPC Internal] Yes, I will take one!
+[NPC] Menlil: Ok, give me 50 trias and I will give it to you.
+[NPC Internal] Here are your tria.
+[NPC] Menlil: Ok, here it is.
+
+[To] Gorbiak
+
+[NPC Internal] I have the cure!
+[NPC] Gorbiak: Thank!
+[NPC] Gorbiak: Thank!
+[NPC] Gorbiak: Regaar!
+[NPC Narrate] -Gorbiak drinks the potion.-
+
+[Reward] [XP] 10800; [Faction] 15, Seeds of Wildwood; 
+

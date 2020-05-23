@@ -1,0 +1,114 @@
+[Questname] A Wife's Dilemma
+[NPC Name] Gayla Grotemey
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Husband's Dilemma; [Item] 12, Rat Hides
+
+[To] Gayla Grotemey
+
+[NPC Internal] Hi, Gayla how are you? How is your husband doing?
+[NPC] Gayla: You seem to be good friends with my husband, so I expect you know he is giving me an amethyst ring.
+[NPC Narrate] -Gayla makes sure her husband is not eavesdropping.-
+[NPC] Gayla: I also found this wonderful gift for him in return.
+[NPC] Gayla: It was a nice book on leather curing, but Jayose keeps making excuses about not delivering it to me.
+[NPC] Gayla: Would you please do me a small favor?
+[NPC] Gayla: There'd be a few coins in it for you.
+[NPC Internal] Sure, I'll help you.
+[NPC] Gayla: Oh, good!
+[NPC] Gayla: Could you ask Jayose about the leather curing book?
+[NPC] Gayla: Maybe you would have better luck…
+[NPC] Gayla: sometimes I think that he is a bit hard of hearing, if you know what I mean.
+[NPC] Gayla: If you can get that book, I'd gladly pay you well.
+[NPC] Gayla: It is worth it, to be able to have the right gift for my dear Jeyarp.
+
+[To] Jayose
+
+[NPC Internal] I am here to collect a leather curing book for Gayla.
+[NPC] Jayose: Hmm?
+[NPC] Jayose: Oh, that book.
+[NPC Narrate] -Jayose frowns.-
+[NPC] Jayose: I haven't had the heart to tell Gayla that- err..
+[NPC] Jayose: one of my assistants mistakenly sold that book to some Enkidukai woman two days ago.
+[NPC Narrate] -Jayose sighs in exasperation.-
+[NPC] Jayose: I have been trying to find another copy, but I am ready to give up!
+[NPC Internal] Who was the buyer?
+[NPC] Jayose: Well, yes, if you really want that book, it seems you are going to have to try find that woman who bought it.
+[NPC] Jayose: As I recall, she had some kind of ribbon or other around her neck…
+[NPC] Jayose: oh, and there was one of the local city guardsmen escorting her.
+[NPC Narrate] -Jayose looks blankly across the library for a moment and then shakes his head.-
+[NPC] Jayose: Sorry, I have nothing else to help you.
+[NPC] Jayose: Oh, ah, tell Gayla I can refund her.
+[NPC Narrate] -Jayose nods and turns his attention back to a book.-
+[NPC Internal] What can you tell me about the ribbon she wore?
+[NPC] Jayose: What?
+[NPC] Jayose: I'm a busy man and this sale is taking up too much of my time.
+[NPC] Jayose: I think the ribbon was probably blue, but I didn't really see her very much.
+
+[To] Moren Findel
+
+[NPC Internal] <Answer I am looking for a woman wearing a Blue ribbon.>
+[NPC] Moren: Oh yes.
+[NPC] Moren: I do remember her!
+[NPC] Moren: She was very, ah, amorous if you know what I mean.
+[NPC Narrate] -Moren makes a crooked smile.-
+[NPC] Moren: Her name is..
+[NPC Narrate] -Moren twists his face into a grimace of concentration.-
+[NPC] Moren: Arrr…
+[NPC] Moren: ah yes!
+[NPC] Moren: She said her name was Ivalit.
+[NPC] Moren: If you see her, let her know I am waiting for her to come back.
+[NPC] Moren: She lives in Ojaveda, you know?
+[NPC Internal] <Answer I am looking for a woman named Ivalit.>
+[NPC] Moren: Oh yes.
+[NPC] Moren: I do remember her!
+[NPC] Moren: She was very, ah, amorous if you know what I mean.
+[NPC Narrate] -Moren makes a crooked smile.-
+[NPC] Moren: If you see her, let her know I am waiting for her to come back.
+[NPC] Moren: She lives in Ojaveda, you know?
+
+[To] Tilavi Aurenta
+
+[NPC Internal] Have you seen Ivalit?
+[NPC] Tilavi: Oh dear.
+[NPC Narrate] -Tilavi frowns.-
+[NPC] Tilavi: Who told you about that?
+[NPC Internal] Moren told me.
+[NPC] Tilavi: Oh, that guard with the face of a kratak and the manners of an ulbernaut!
+[NPC Narrate] -Tilavi shows a slight grimace as she talks.-
+[NPC] Tilavi: I tried to be polite.
+[NPC] Tilavi: My father always said, 'Never spit on the guard,' so I tried to be nice to him, you know?
+[NPC] Tilavi: He took it all the wrong way.
+[NPC] Tilavi: Now I dread going back because he will be waiting to escort me around again.
+[NPC Narrate] -Tilavi tosses up her paws.-
+[NPC] Tilavi: Oh, never mind all that.
+[NPC] Tilavi: I just want to stop waiting tables in this broken-down tavern!
+[NPC] Tilavi: I am thinking that maybe if I learned a new trade, I can get out.
+[NPC Narrate] -Tilavi studies you, biting her lip.-
+[NPC] Tilavi: Perhaps you'd be interested in kind of a deal?
+[NPC Internal] What kind of deal?
+[NPC] Tilavi: Good!
+[NPC] Tilavi: If you bring me a dozen rat hides so I can practice curing them, I will give you the book in exchange.
+
+[Give] Tilavi Aurenta; 12, Rat Hides
+
+[NPC Internal] Here is your dozen rat hides, where is my book?
+[NPC] Tilavi: Hmmmm.
+[NPC Narrate] -Tilavi examines the bloody hides and makes a small shrug.-
+[NPC] Tilavi: These are not in the best of shape, but I will see what I can do with them after work.
+[NPC Narrate] -She nods and takes out the book.-
+[NPC] Tilavi: As we agreed, here's your book.
+[NPC] Tilavi: Thank you for the hides.
+
+[To] Gayla Grotemey
+
+[NPC Internal] I was able to get hold the book.
+[NPC] Gayla: Oh, wonderful!
+[NPC Narrate] -Gayla smile and whispers happily.-
+[NPC] Gayla: My husband will be so happy!
+[NPC] Gayla: Thank you, here are the coins I promised!
+[NPC Narrate] -Gayla tucks the book under her arm and fishes three circles from her purse.-
+[NPC] Gayla: Take care, Madam!
+
+[Reward] [Money] 7310; [XP] 15000; [Faction] 30, Crafting Association
+

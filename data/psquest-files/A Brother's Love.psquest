@@ -1,0 +1,46 @@
+[Questname] A Brother's Love
+[NPC Name] Pevrin Damerr
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Winch] Yes
+
+[To] Pevrin Damerr
+
+[NPC Internal] Do you have any work I can do? Odd jobs?
+[NPC] Pevrin: So you want something to do, right?
+[NPC Narrate] -Pevrin pauses as he thinks.-
+[NPC] Pevrin: Might you be able to help me in a personal matter?
+[NPC] Pevrin: It involves my brother, Bevon.
+[NPC] Pevrin: I have not seen him in many days.
+[NPC] Pevrin: I have this letter prepared for him.
+[NPC] Pevrin: He is rather nervous around pterosaurs and thus he is not willing to meet me here.
+[NPC] Pevrin: So I'd like to extend an invitation to him, to meet at Kada-El's for a drink.
+[NPC] Pevrin: I look forward to seeing him again so that we may tie our brotherly bonds once more.
+[NPC] Pevrin: Would you please bring it to him?
+[NPC Internal] Sure, sounds like a simple task.
+[NPC] Pevrin: Then deliver this message to him as soon as you can, and come back if he gives a reply, please.
+[NPC Narrate] -Pevrin hands you a letter.-
+
+[To] Bevon Damerr
+
+[NPC Internal] Excuse me, I have something for you.
+[NPC] Bevon: Aye, what's this?
+[NPC] Bevon: A letter?
+[NPC] Bevon: I reckon I better read it then.
+[NPC Narrate] -Bevon looks over the letter and nods a few times.-
+[NPC] Bevon: Well aye, I sure do miss m' brother as well.
+[NPC] Bevon: If'n he wasn't workin' with those blasted pterosaurs, I reckon I'd be seein' a whole lot more of 'im.
+[NPC] Bevon: Please return to 'im and tell 'im I accept, and will meet 'im at the tavern.
+
+[To] Pevrin Damerr
+
+[NPC Internal] Bevon accepts your invitation.
+[NPC] Pevrin: Now that is good news!
+[NPC] Pevrin: Here, take this as a token of my appreciation.
+[NPC] Pevrin: I just hope I can get my brother to accept pterosaurs once he knows a bit more about them.
+[NPC] Pevrin: At any rate, it will be good to see him again.
+
+[Reward] [Money] 1000; [XP] 8000
+

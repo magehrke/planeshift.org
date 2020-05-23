@@ -1,0 +1,42 @@
+[Questname] The Engineering Designs
+[NPC Name] Acigra
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Access Papers
+
+[To] Acigra
+
+[NPC Internal] delicious shadow moths
+[NPC Narrate] -Acigra lowers his voice to a whisper.-
+[NPC] Acigra: Take them.
+[NPC] Acigra: Leave and tell no one you were here.
+
+[Possible Ways] 2
+
+[Way] 1
+
+[To] Zak
+
+[NPC Internal] YOU gives Zak the designs.
+[NPC] Zak: That's them, alright.
+[NPC] Zak: You've done well, YOU.
+[NPC] Zak: A credit to the thieves.
+[NPC] Zak: Here's your cut of what I expect will be an Octarch's ransom of future profits.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] -20, Guard
+
+[Way] 2
+
+[To] Jefecra Harcrit
+
+[NPC Internal] gives Jefecra the designs.
+[NPC] Jefecra: Lerok Dilechi reported these designs stolen a week ago, and we had no clues.
+[NPC] Jefecra: I won't ask how you got them, since you're turning them in to me, but please tell us who stole them in the first place.
+[NPC Internal] Acigra
+[NPC] Jefecra: Acigra, you say?
+[NPC] Jefecra: Must be new to Hydlaa.
+[NPC] Jefecra: Or he's using a false name.
+[NPC] Jefecra: Either way, rest assured the Hydlaa guard will punish this thief to the full extent of the law.
+[NPC] Jefecra: Thank you, citizen.
+[NPC] Jefecra: Here's your reward for the information.

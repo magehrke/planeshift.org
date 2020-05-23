@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* CSS Script for descriptions on the KOV site */
+
+.heading{
+	margin-left: 20px;
+}
+
+.text_container {
+	margin-left: 70px;
+	width: 850px;
+}
+
+	.text_container ul {
+		margin-top: -10px;
+	}
+
+	.text_container img {
+		height: 25px;
+	}

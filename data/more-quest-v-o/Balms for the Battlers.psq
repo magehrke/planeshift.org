@@ -1,0 +1,28 @@
+[Questname] Balms for the Battlers
+[NPC Name] Liera Zireti
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] Yes
+
+[Info] You need maybe at least level 10 in alchemy
+[Info] The alchemy preps can change with skill
+
+[To] Liera Zireti
+
+[NPC Internal] Hello, do you need help with anything?
+[NPC] Liera Zireti: Yes, I'm quite busy.
+[NPC] Liera Zireti: We have so many people training here and of course some of them get hurt.
+[NPC Narrate] Liera Zireti manages a tired smile.
+[NPC] Liera Zireti: There are lots of potions I need to make and could use any help you can offer me.
+[NPC Internal] Just tell me what you need.
+[NPC] Liera Zireti: So many diseases being passed about by people getting too close to creatures they shouldn't.
+[NPC] Liera Zireti: I can hardly keep up with the demand.
+[NPC] Liera Zireti: I need you to make me three cure disease potions, and three grendol poison antidotes.
+
+[To] Liera Zireti
+
+[NPC Internal] Here are the six potions you asked for, Liera.
+[NPC] Liera Zireti: Thank you so much for getting these, exactly what I need.
+[NPC] Liera Zireti: And this is for you.
+
+[Reward] [Skill] +1, Alchemy; [XP] ?; [Money ?;

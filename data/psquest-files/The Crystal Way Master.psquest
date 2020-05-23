@@ -1,0 +1,101 @@
+[Questname] The Crystal Way Master
+[NPC Name] Govell Mihdren
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge and Practical of the Crystal Way Master; [Item] 1, Master's Crystal Way Wand; [Item] 1, Master's Azure Way Bracers; [Item] 1, Master's Blue Way Bracers; [Skill] 150, Crystal Way; [Item] 1, Adept's Crystal Way Robe
+
+[To] Govell Mihdren
+
+[NPC Internal] Here are the items, as requested.
+[NPC] Govell: Dedication and perseverance gave you wisdom.
+[NPC] Govell: You reached a point where I can give you no more.
+[NPC] Govell: Only the world now can teach you more lessons.
+[NPC] Govell: You are a full Master of the Crystal Way.
+[NPC Narrate] -Govell takes the Blue Way bracers and examines them carefully. Then he assents, slowly.-
+[NPC] Govell: I chose to become a mage because of my father.
+[NPC] Govell: He was a Blue Way Master.
+[NPC] Govell: But I answered another call, the call of the Crystal Way.
+[NPC] Govell: Sometimes I think about what I'd become otherwise.
+[NPC Narrate] -Govell takes a long and slow breath, before giving you back the items.-
+[NPC] Govell: Return these to their owners, as soon as you can.
+[NPC] Govell: They will need them.
+[NPC] Govell: Give me your last Adept item, please.
+[NPC Internal] Here, take my robe.
+[NPC Narrate] -Govell folds the cloak, while his eyes look in yours.-
+[NPC] Govell: As a Master of the Crystal Circle you are allowed to learn about our history, and our secrets too.
+[NPC] Govell: Are you interested to hear them?
+[NPC Internal] Yes, please.
+[NPC] Govell: Very well.
+[NPC] Govell: I was sure of your interest.
+[NPC] Govell: Would you like to talk about our history?
+[NPC Narrate] -Govell half closes his eyes-
+[NPC] Govell: …
+[NPC] Govell: or about our secrets?
+[NPC Internal] Tell me about the history.
+[NPC Narrate] -Govell takes a breath, preparing to talk. But he stops before beginning, and makes a long sigh.-
+[NPC] Govell: It is not the time, yet.
+[NPC] Govell: When you are ready you will find this knowledge.
+[NPC Internal] I'd like to know about secrets, please.
+[NPC] Govell: The secrets I want to tell are for your ears, and for very few others.
+[NPC] Govell: Only people who proved themselves can manage to keep a secret like the one I'm going to tell you.
+[NPC] Govell: The danger in it can harm many lives, not only your own.
+[NPC] Govell: So you are allowed to discuss them only with the highest levels of the Circles.
+[NPC] Govell: Full masters of every Way.
+[NPC Narrate] -Govell makes a pause, looking in your eyes.-
+[NPC] Govell: The texts in the Sanctuary withholds knowledge about all the Ways, about artifacts of power…
+[NPC] Govell: And it contains the complete version of this secret too.
+[NPC] Govell: The position, even the existence of the sanctuary, is closed to the citizen.
+[NPC] Govell: Secrets hidden in other secrets.
+[NPC] Govell: I need your word.
+[NPC] Govell: Tell me you will never share this knowledge outside of the Masters of the Circles.
+[NPC Internal] If this is your wish, I promise you to keep them.
+[NPC] Govell: The first secret is the Seventh Way.
+[NPC] Govell: Until now I assume you know only six Ways, but there is a Seventh.
+[NPC] Govell: The Seventh is the essence of all the other Ways, but is also none of them.
+[NPC] Govell: It is magic without the glyphs created by Talad.
+[NPC] Govell: This is 'Wild' magic, something outside the rules of the Gods.
+[NPC] Govell: Diaboli used it, since they are the only race who cast magic before arriving in Yliakum.
+[NPC Narrate] -The tone of Govell grows stern.-
+[NPC] Govell: Be careful, and pay special attention to my next words.
+[NPC] Govell: Your level of power will give you sense of the existence of the Seventh Way.
+[NPC] Govell: Temptation will strike you.
+[NPC] Govell: And you have to contrast it.
+[NPC] Govell: Otherwise 'Wild' magic will wipe out your very soul.
+[NPC] Govell: You will be put to True Death if the Seventh Way does not destroy you first.
+[NPC] Govell: Is this understood?
+[NPC Internal] Yes, I understand.
+[NPC] Govell: The dangers of the Seventh Way go beyond your imagination.
+[NPC] Govell: Two mages have attempted to master before today, and they suffered a fate I would wish on no one.
+[NPC Narrate] -Govell pauses, his gaze is firm.-
+[NPC] Govell: Now, I have to tell you about another hidden knowledge.
+[NPC] Govell: Something not even I wish to know, a threaten to the existence itself.
+[NPC] Govell: The Circles, especially the Masters, are fighting a war against this Dark entity.
+[NPC] Govell: These battles are hidden to the eye of the people of Yliakum, but you have to know.
+[NPC] Govell: Our enemy is called the BlackFlame.
+[NPC] Govell: Have you ever heard about it?
+[NPC Internal] Yes I know the BlackFlame.
+[NPC] Govell: I wish to fill the pool of your knowledge.
+[NPC] Govell: None knows for sure what is the BlackFlame.
+[NPC] Govell: Someone supposes it is a God.
+[NPC] Govell: While others assume it is a force of destruction.
+[NPC] Govell: I have not the answer to what is the BlackFlame, but I can say that its touch infects and deprives the creations of the other Ways.
+[NPC] Govell: Your path will surely teach you more about this, maybe it will grant you access to the Vault of Ages in Arden.
+[NPC] Govell: Even I had that privilige only once.
+[NPC] Govell: I was allowed to catch a glimpse of what is kept in the Vault of Ages, no more.
+[NPC] Govell: That day I discovered…
+[NPC Narrate] -Govell closes his eyes for some second.-
+[NPC] Govell: Much of the past is hidden, and I did not know why, until my visit in Arden.
+[NPC Narrate] -Govell takes a long breath.-
+[NPC] Govell: You will understand, for yourself.
+[NPC] Govell: Not today, but when your time will come.
+[NPC] Govell: Well then, one last formality.
+[NPC Narrate] -Govell puts away the old cloak and opens a sack, taking out a new cloak. He offers it to you.-
+[NPC] Govell: This will prove the mastery you gained in the Crystal Way.
+[NPC] Govell: Make a good use of it, YOU.
+[NPC] Govell: And take this.
+[NPC Narrate] -Govell hands you an amulet.-
+[NPC] Govell: Bring it to Levrus, one final lesson awaits you there.
+
+[Reward] [XP] 20600; [Item] 1, Master's Crystal Way Robe; [Item] 1, Master of Ways Amulet; [Faction] 50, Crystal Order
+

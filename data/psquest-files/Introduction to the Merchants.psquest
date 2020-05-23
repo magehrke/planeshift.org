@@ -1,0 +1,66 @@
+[Questname] Introduction to the Merchants
+[NPC Name] Boralis Voladrand
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Boralis Voladrand
+
+[NPC Internal] Hello. What can you tell me about merchants?
+[NPC] Boralis: Ah, hello there.
+[NPC] Boralis: You want to know about merchants, eh?
+[NPC] Boralis: Well, look no further.
+[NPC] Boralis: My wife and I sell leather wares among other things.
+[NPC] Boralis: Leather armor is the lightest armor and is usually people's first experience with armor.
+[NPC] Boralis: It's good for…
+[NPC Narrate] -Boralis catches himself.-
+[NPC] Boralis: See, there I go again, always pitching the products.
+[NPC] Boralis: But you didn't ask about that, eh?
+[NPC Narrate] -Boralis smiles.-
+[NPC] Boralis: There are many merchants which sell all sorts of things.
+[NPC Internal] In addition to you, where can I find some?
+[NPC] Boralis: Best to just go and investigate.
+[NPC] Boralis: I should first point out, merchants will both sell things and buy things, not always in the same categories.
+[NPC] Boralis: So it's best to seek out folks and find out what, if anything, they buy and sell as well as if they are a trainer of some sort.
+[NPC] Boralis: Smiths and barkeeps are always a good source for such things.
+[NPC] Boralis: In Hydlaa, the smith is Harnquist if you haven't already met his acquaintance.
+[NPC] Boralis: His smithy is right off the plaza.
+[NPC] Boralis: Allelia Symiestra is the barkeep at Kada-El's tavern.
+[NPC] Boralis: She'll buy your animal parts if you go huntin'.
+[NPC] Boralis: Also at the tavern, there is a cook, Jomed Parcen, who sells some food items.
+[NPC] Boralis: If you're interested in taking up fishing, Burdess Quirain can get you started.
+[NPC] Boralis: She can be found around the plaza, too.
+[NPC] Boralis: The Grotemeys are like us, a couple with a shop which you can find on your way to the library.
+[NPC] Boralis: You can sell your hides there.
+[NPC] Boralis: There are many many others in every city and sometimes along the way.
+[NPC] Boralis: Always check and make notes for yourself and you can't go wrong.
+[NPC Internal] Thanks, that's good information. Anything I can do to help?
+[NPC] Boralis: Well, if you're looking for some work, there is Kaiman Jilatt, Ondren Torr, and Rolara Hammersong, who you can find around the plaza.
+[NPC] Boralis: Over in East Hydlaa, there is a good friend, Edrich Sultov, as well as Yonda Axebow, who is also a member of the Artist Association, and Mirra Houphen, who is a cook of note.
+[NPC] Boralis: I'm not sure all of them sell things publicly, but some may have work for you, so keep checking in.
+[NPC Internal] Where should I start?
+[NPC Narrate] -Boralis looks concerned.-
+[NPC] Boralis: Well, I suppose you can help us if you want.
+[NPC] Boralis: Bandits have been a big problem.
+[NPC] Boralis: Some time ago there was a big raid on our Emporium.
+[NPC] Boralis: I was so angry my wife, Rinna, had to calm me down and insisted she would investigate.
+[NPC] Boralis: Best you speak with her about it.
+[NPC] Boralis: I get too worked up to think clearly.
+[NPC Internal] One more question. Is there an association for merchants?
+[NPC Narrate] -Boralis nods, hesitantly.-
+[NPC] Boralis: There is, but…well, there's a bit more competition than for other associations.
+[NPC] Boralis: Merchants are more closely related to the associations their products deal with.
+[NPC] Boralis: For instance, a smith buys and sells raw materials and crafting materials so is more likely a member of the Crafting Association.
+[NPC] Boralis: A potion seller might be more likely a member of the Science Association, and so forth.
+[NPC] Boralis: Well, to be fair I should mention there are some major merchant businesses out there, like the Mikana Trading Company out in Ojaveda.
+[NPC] Boralis: I don't trust that guy though.
+[NPC] Boralis: There is also this dwarf I have seen who hangs out at the tavern, but I don't know much about him.
+[NPC Internal] Thanks for your help.
+[NPC Narrate] -Boralis smiles.-
+[NPC] Boralis: No problem.
+[NPC] Boralis: Merchants tend to be friendly because we could always use the business.
+[NPC] Boralis: Good luck to ye!
+
+[Reward] [XP] 8000
+

@@ -1,0 +1,38 @@
+[Questname] Finara's Lunch
+[NPC Name] Finara Plund
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] Nothing
+
+[To] Finara Plund
+
+[NPC Internal] Must be hard work standing around, can I help?
+[NPC] Finara: Oh, you're so kind to want to help.
+[NPC] Finara: My friend Kaiman Jilatt was supposed to have brought me lunch, but he's late again.
+[NPC] Finara: Please go to him and bring me my lunch sack.
+[NPC] Finara: I'll give you a little something for your trouble.
+[NPC] Finara: Can I count on you?
+[NPC Internal] Yes, you can count on me!
+[NPC] Finara: Thank you so much!
+[NPC] Finara: Just tell him I sent you.
+[NPC] Finara: Please hurry.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] Finara sent me to ask for her lunch!
+[NPC] Kaiman: Is it that time already?
+[NPC] Kaiman: I had totally forgotten.
+[NPC] Kaiman: It's right here, in fact.
+[NPC] Kaiman: Here you go, one lunch sack full of bread and roast meat.
+[NPC] Kaiman: I'm sure she'll like it.
+
+[To] Finara Plund
+
+[NPC Internal] Here is your lunch.
+[NPC] Finara: Ah, a lunch fit for Finara!
+[NPC] Finara: Thank you for bringing me the sack.
+
+[Reward] [Money] 1000; [XP] 8000
+

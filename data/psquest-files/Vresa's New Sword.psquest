@@ -1,0 +1,90 @@
+[Questname] Vresa's New Sword
+[NPC Name] Vresa Nohdiir
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Dhalia Needs a Skin; [Item] 1, Dark Circle Ring; [Item] 15, Coal Lumps
+
+[To] Vresa Nohdiir
+
+[NPC Internal] Need anything doing round here?
+[NPC] Vresa: Hum yeah why not!
+[NPC] Vresa: Some of the gladiators here are getting better than I am at combat and I need a new weapon.
+[NPC] Vresa: Surely Harnquist can forge one for me.
+[NPC] Vresa: Give me a minute, I will write some specifications .
+[NPC Narrate] -Vresa writes a few notes down on a scrap of paper.-
+[NPC] Vresa: You can give him this paper and bring me back the sword.
+[NPC] Vresa: I will pay him later.
+[NPC] Vresa: Do you care to deliver this note?
+[NPC Internal] Yes, I can head that way right now.
+[NPC] Vresa: Great!
+[NPC] Vresa: Now go get it, please.
+
+[To] Harnquist
+
+[NPC Internal] Vresa asked me to bring you this note.
+[NPC] Harnquist: Looks like a new order!
+[NPC Narrate] -Harnquist carefully reads the note.-
+[NPC] Harnquist: This request will be very difficult for me: she wants it delivered for the next tournament, and that's tomorrow!
+[NPC] Harnquist: I don't have enough coal for my furnace, and I need an already made blade as a starting point or I will never make it in time.
+[NPC] Harnquist: Now let's see.
+[NPC Narrate] -Harnquist ponders the situation.-
+[NPC] Harnquist: I got it!
+[NPC] Harnquist: There is one person that may have such a blade.
+[NPC] Harnquist: Barrin Dhorod.
+[NPC] Harnquist: Ask him about the experimental blade; he will know.
+
+[To] Barrin Dhorod
+
+[NPC Internal] What can you tell me about the experiment blade?
+[NPC Narrate] -Barrin looks at you suspiciously.-
+[NPC] Barrin: Hey, seems that you know too much about me!
+[NPC] Barrin: Who told you about my experiments?
+[NPC Internal] Harnquist told me about it.
+[NPC] Barrin: Ah, then I know which blade you are speaking about.
+[NPC] Barrin: It's something I ordered from Harnquist for one of my experiments, it was quite expensive.
+[NPC] Barrin: Don't tell me he wants it back?
+[NPC Internal] Yes, he does want it back.
+[NPC] Barrin: Well, I won't give it for nothing, it's a valuable blade!
+[NPC] Barrin: So let's make a deal, friend.
+[NPC] Barrin: I am someone that likes valuable accessories that look nice, even guady.
+[NPC] Barrin: I've heard of a band of rogues known as the Dark Circle that wear signifying rings.
+[NPC] Barrin: I believe such ring will suit my tastes.
+[NPC] Barrin: They are pretty hard to get, but if you can find me one to wear, I will give you this blade.
+[NPC] Barrin: Otherwise, no deal.
+[NPC Internal] Here is the ring that you wanted.
+[NPC] Barrin: Perfect!
+[NPC] Barrin: I am bored of amulets: I have too many.
+[NPC] Barrin: But this is nice, and maybe I can even enchant it.
+[NPC] Barrin: Well, now it's time to respect my part of the deal.
+[NPC] Barrin: Here is the blade you asked for.
+
+[To] Harnquist
+
+[NPC Internal] I have all the coal and your blade.
+[NPC] Harnquist: Good, I have everthing I need.
+[NPC] Harnquist: I am impressed you were able to convince Barrin to give back such a nice blade.
+[NPC] Harnquist: Come back in a few hours the sword will be done.
+[NPC Narrate] -Harnquist begins to smith the sword in his furnace with the blade you brought him and heats up his furnace with the coals. Come back in a while and ask me if the sword is ready.-
+[NPC Internal] Is Vresa's sword ready?
+[NPC] Harnquist: Yes, Vresa's sword is done.
+[NPC] Harnquist: Phew!
+[NPC] Harnquist: It's hot here.
+[NPC] Harnquist: I'll put the costs of the sword on her account.
+
+[To] Vresa Nohdiir
+
+[NPC Internal] Your sword is finished.
+[NPC] Vresa: Great!
+[NPC] Vresa: Thank you; that will help me a lot.
+[NPC] Vresa: It took a long time, but I finally have one.
+[NPC Narrate] -Vresa plays a bit with the sword, swinging it in the air and looking at you.-
+[NPC] Vresa: As usual, Harnquist does exceptional work.
+[NPC] Vresa: It was worth the wait.
+[NPC] Vresa: As a reward, I can give you a valuable glyph I got from a defeated opponent.
+[NPC] Vresa: I won't use it, because I'm not a spell caster.
+[NPC] Vresa: Thanks again; you have been very helpful.
+
+[Reward] [Money] 3391; [XP] 10800; [Item] 1, Mind glyph
+

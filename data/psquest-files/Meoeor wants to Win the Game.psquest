@@ -1,0 +1,93 @@
+[Questname] Meoeor wants to Win the Game
+[NPC Name] Meoeor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] bend_the_octarch's_ear
+
+[To] Meoeor
+
+[NPC Internal] Do you have task I can help you with?
+[NPC] Meoeor: I have something you can do for me.
+[NPC] Meoeor: Have you heard of the upcoming Octarch's Chess tournament?
+[NPC] Meoeor: Well that is not what is important: what is important is that I am going to win it.
+[NPC] Meoeor: Vaieund and I play competitively and often he beats me, but not this time around.
+[NPC] Meoeor: I need you to go and find a Philter of Intelligence.
+[NPC] Meoeor: They are rare and I think only Levrus may have a lead on where to get one.
+[NPC] Meoeor: Will you help me?
+[NPC Internal] Sounds like fun, I’m in.
+[NPC] Meoeor: Good news indeed; I thank you.
+[NPC] Meoeor: I do not know what it will take to get it, but I have something from my adventuring days that you might find interesting if you can obtain it for me.
+[NPC] Meoeor: Just go to Levrus and speak about the Philter of Intelligence.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Do you know where I can find a Philter of Intelligence?
+[NPC] Levrus: A Philter of Intelligence?
+[NPC] Levrus: You?
+[NPC] Levrus: Do you think it will be easy to find the Philter of Intelligence?
+[NPC] Levrus: It may be difficult indeed.
+[NPC] Levrus: Truth is, the philter of intelligence is very difficult to make so that besides its expense, it is only given to those who have proven themselves worthy of its enlightenment.
+[NPC] Levrus: Are you willing to take the tests?
+[NPC Internal] I am ready.
+[NPC] Levrus: You should begin with Murago Puntjal.
+[NPC] Levrus: Just tell him I sent you, or speak about the Philter of Intelligence.
+
+[To] Murago Puntjal
+
+[NPC Internal] Levrus said I should talk to you concerning the Philter of Intelligence.
+[NPC] Murago: Ah I see another brave adventurer seeking the Philter of Intelligence.
+[NPC] Murago: We have an interfaith counsel that closely guards the distribution of these items so they are not used improperly.
+[NPC] Murago: Do you want to take my test?
+[NPC Internal] I am ready for your test.
+[NPC] Murago: Here is your question then.
+[NPC] Murago: How much dirt is in a hole 2 and a half meters wide, 3 meters deep, and 2 meters long?
+[NPC Internal] none
+[NPC] Murago: None is the correct answer, as there is no dirt in a hole.
+[NPC] Murago: You should now speak with Jardet Forsill.
+[NPC] Murago: Just tell him I sent you or speak of the Philter of Intelligence.
+
+[To] Jardet Forsill
+
+[NPC Internal] Murago said I should see you with regards to the Philter of Intelligence.
+[NPC] Jardet: You want the Philter of intelligence, then?
+[NPC] Jardet: You know those are not just given to anybody, yes?
+[NPC] Jardet: Well, I suppose you do.
+[NPC] Jardet: Here is my problem for you, then: The poor have it in abundance.
+[NPC] Jardet: The rich need it desperately.
+[NPC] Jardet: If you eat it, you will die.
+[NPC] Jardet: What is It?
+[NPC Internal] nothing
+[NPC] Jardet: Very clever indeed: yes, nothing is the answer.
+[NPC] Jardet: Now you should speak with Sharven in the temple of Laanx.
+[NPC] Jardet: Just tell him I sent you, or speak of the Philter of Intelligence.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Jardent sent me, I need the Philter of Intelligence.
+[NPC] Sharven: I see.
+[NPC] Sharven: I suppose you think you have reached such a juncture in your life where you need a Philter of Intelligence, and at your age.
+[NPC Narrate] -Sharven shakes head sadly.-
+[NPC] Sharven: It is not my place to choose for others, but if you can pass my test you may have the Philter you seek.
+[NPC] Sharven: You place a common coin into an empty Philter of Intelligence and insert the cork.
+[NPC] Sharven: Now that you have done this, how can you remove the coin without breaking the Philter's lovely bottle or taking out the cork?
+[NPC Internal] push the cork in
+[NPC] Sharven: Wonderfully done!
+[NPC] Sharven: Yes, pushing the cork into the bottle is the solution.
+[NPC] Sharven: Here is the Philter of Intelligence.
+[NPC] Sharven: Do not use it frivolously.
+
+[To] Meoeor
+
+[NPC Internal] I was able to get a vial of the Philter of Intelligence.
+[NPC] Meoeor: You have the Philter of Intelligence.
+[NPC] Meoeor: Glad to hear it captain.
+[NPC] Meoeor: May I have it?
+[NPC Internal] gives Meoeor the vial.
+[NPC] Meoeor: Well done, Stonehammer.
+[NPC] Meoeor: Now I promised you something nice in return.
+[NPC Narrate] -Meoeor digs in his bag and presents you with a glyph.-
+[NPC] Meoeor: Ah, here you go!
+
+[Reward] [XP] 10800; [Item] 1, Might glyph; [Faction] 15, Science Association
+

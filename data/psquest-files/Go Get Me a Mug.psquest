@@ -1,0 +1,43 @@
+[Questname] Go Get Me a Mug
+[NPC Name] Pilfer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Helping Hand for Kisatol; [Item] 1, Mug
+
+[Info] You can purchase the mug from Jirosh.
+
+[To] Pilfer
+
+[NPC Internal] Excuse me, I'm looking for some…
+[NPC] Pilfer: Gah.
+[NPC Narrate] -Pilfer flicks his wrist in the direction of Aydken.-
+[NPC] Pilfer: Stupid gobble done broke me mug, dinne?
+[NPC] Pilfer: Go get me a new one from that Mikana mob will ya?
+[NPC Internal] Yes.
+[NPC] Pilfer: Good on ya.
+[NPC] Pilfer: Off ya go then.
+[NPC Narrate] -Pilfer ushers you away with a wave of his hand.-
+
+[To] Jirosh Mikana
+
+[NPC Narrate] -You buy a mug from Jirosh.-
+
+[To] Pilfer
+
+[NPC Internal] Here is your new mug.
+[NPC] Pilfer: Ahh…
+[NPC] Pilfer: good show.
+[NPC Narrate] -Pilfer smiles wickedly as he takes the mug from you.-
+[NPC] Pilfer: S'pose you'll be wantin' a reward or sumtin?
+[NPC Narrate] -Pilfer opens a small pouch and retrieves a glyph.-
+[NPC] Pilfer: Here yar, take one of these…
+[NPC] Pilfer: Got 'em from me last…
+[NPC] Pilfer: ahh…
+[NPC] Pilfer: me last…
+[NPC] Pilfer: ahh…
+[NPC] Pilfer: me last client, I did…
+[NPC] Pilfer: but I got no use for 'em, dunno what they're for.
+
+[Reward] [XP] 10800; [OR Begin] [Item] 1, Air glyph [OR] [Item] 1, Cold glyph [OR] [Item] 1, Light glyph [OR End]; [Faction] 15, Thieves Organization
+

@@ -1,0 +1,56 @@
+[Questname] Amidison's Command
+[NPC Name] Amidison Stronghand
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Davikel's Request
+
+[To] Amidison Stronghand
+
+[NPC Internal] May I be of assistance, Vigesimi?
+[NPC] Amidison: I have an extremely urgent letter that requires fast transmission to the commander of the Sunshine Squadron Aerayau Strongwill.
+[NPC] Amidison: He usually can be found in or near the fortress at the Bronze Doors.
+[NPC] Amidison: Under normal circumstances I would not ask someone like you to do this, but my messenger has not shown up for some time now and this matter is urgent.
+[NPC] Amidison: Would you do it?
+[NPC Internal] Yes, I'd be glad to.
+[NPC] Amidison: Good.
+[NPC] Amidison: Here is the letter.
+[NPC] Amidison: It is magically sealed and will be unreadable by anyone but those who have the corresponding seal, so don't get any.
+[NPC] Amidison: Bring this letter to Commander Strongwill without further delay.
+[NPC] Amidison: Here is also some cash in advance.
+
+[To] Aerayau Strongwill
+
+[NPC Internal] I have a letter for you.
+[NPC] Aerayau: A letter from Vigesimi Amidison Stronghand?
+[NPC] Aerayau: Thank you delivering it.
+[NPC] Aerayau: I may have a task for you if you can wait a moment.
+[NPC] Aerayau: Are you interested?
+[NPC Internal] Absolutely, yes.
+[NPC Narrate] -Aerayau opens the letter and begins to read it.-
+[NPC] Aerayau: By the Gods!
+[NPC] Aerayau: This is bad.
+[NPC] Aerayau: Why now?
+[NPC] Aerayau: Can't she wait a little while longer?
+[NPC] Aerayau: I have a bad feeling about this.
+[NPC] Aerayau: Could you please return a letter to Amidison for me?
+[NPC Internal] I'll deliver it as soon as you're done.
+[NPC Narrate] -Aerayau quickly writes a letter and seals it.-
+[NPC] Aerayau: Your government commends you, citizen.
+[NPC] Aerayau: This letter is sealed and unreadable to anyone not sanctioned by the Vigesimi.
+[NPC] Aerayau: Please return it hastily to Amidison Stronghand.
+[NPC] Aerayau: Here is some pay; Amidison will have more for you.
+
+[To] Amidison Stronghand
+
+[NPC Internal] The Vigesimi has sent his reply.
+[NPC] Amidison: Ah, a response from Aerayau Strongwill so soon?
+[NPC Narrate] -Amidison unseals the letter and reads it.-
+[NPC] Amidison: Oh. That won't please Mrs. Prestis.
+[NPC] Amidison: You may go.
+[NPC] Amidison: Thanks again; your fine service is noted.
+[NPC] Amidison: You are an effective courier.
+[NPC] Amidison: Here is your pay.
+
+[Reward] [Money] 5391; [XP] 12200; [Faction] 20, Guard
+

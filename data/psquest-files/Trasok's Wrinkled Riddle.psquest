@@ -1,0 +1,117 @@
+[Questname] Trasok's Wrinkled Riddle
+[NPC Name] Vladovic Chel-Astra
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Vladovic Needs Dried Maajo
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] I thought I'd stop by and see if you have any errands.
+[NPC] Vladovic: Indeed, I have a small errand.
+[NPC] Vladovic: I have arranged for Trasok the smith to construct a new alchemical furnace for me.
+[NPC] Vladovic: My old knees would complain all the day down the hill and back.
+[NPC] Vladovic: Perhaps you'd be willing to visit the smithy and check with Trasok for me?
+[NPC Internal] Yes, I’ll to see him as soon as I can.
+[NPC] Vladovic: Splendid.
+[NPC] Vladovic: Thank you for being so helpful.
+
+[To] Trasok Starhammer
+
+[NPC Internal] Vladovic sent me to check on his alchemical furnace.
+[NPC] Trasok: Huh?
+[NPC Narrate] -Trasok looks up with some confusion. His beard is in disarray.-
+[NPC] Trasok: Eh?
+[NPC] Trasok: What're you getting at?
+[NPC] Trasok: Oh, yes, the furnace for…
+[NPC] Trasok: for…
+[NPC] Trasok: for Vladovic..
+[NPC] Trasok: Ehhh…
+[NPC] Trasok: it's not done yet.
+[NPC] Trasok: I was working on it yesterday morning but I can't work right now.
+[NPC] Trasok: Can't work…
+[NPC Narrate] -Trasok rubs the side of his head, frowning and looking at nothing in particular.-
+[NPC Internal] What's wrong? Why can't you work?
+[NPC] Trasok: A friend of mine and I exchange puzzles, and this time he's sent me an ulbernaut of a riddle.
+[NPC] Trasok: I barely slept last night for worrying at it.
+[NPC Narrate] -Trasok looks at his hands and mutters what sounds like 'Behead me… trees?'-
+[NPC] Trasok: Uhh, tell Vladovic..
+[NPC] Trasok: blast…
+[NPC] Trasok: tell him if he can help solve this riddle, I can finish his furnace!
+[NPC Narrate] -Trasok digs a battered page of a letter from his apron pocket and gives it to you.-
+[NPC] Trasok: There.
+[NPC] Trasok: Give him that, maybe two heads'll be better than one.
+[NPC] Trasok: Tell him it's got me stumped.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Trasok needs help with this so he can get back to work on your furnace.
+[NPC] Vladovic: What's this?
+[NPC] Vladovic: Rather wrinkled…
+[NPC Narrate] -Vladovic smooths the sheet and holds it out at arm's length to read it.-
+[NPC] Vladovic: When I am whole, I am strong and safe.
+[NPC] Vladovic: But behead me once, and I am become a place of meeting.
+[NPC] Vladovic: Do so again, and I then am the partner of ready.
+[NPC] Vladovic: Restore me, and then I am the domain of beasts.
+[NPC Narrate] -Vladovic looks at you with a puzzled expression.-
+[NPC] Vladovic: A riddle?
+[NPC] Vladovic: But…
+[NPC] Vladovic: why?
+[NPC Internal] Trasok can't solve it and it's keeping him from working.
+[NPC] Vladovic: Too tough for Trasok, eh?
+[NPC] Vladovic: No wonder the smithy's been so quiet today, he's probably too distracted to work with hammers.
+[NPC Narrate] -Vladovic chuckles.-
+[NPC] Vladovic: I'm not sure my old wits will prove any sharper, but I suppose we can give it a try.
+[NPC] Vladovic: Let me know if you guess it.
+[NPC Narrate] -Vladovic slowly leans on the counter and studies the riddle in silence.-
+[NPC Internal] stable
+[NPC] Vladovic: A stable…
+[NPC] Vladovic: by the Gods, I think you've got it.
+[NPC] Vladovic: That fits!
+[NPC] Vladovic: Had you heard this one before?
+[NPC Narrate] -Vladovic straightens slowly, wincing and putting a hand to his lower back.-
+[NPC] Vladovic: Eeeh.
+[NPC] Vladovic: Here.
+[NPC Narrate] -Vladovic says: Take that back to Trasok and tell him the answer.-
+[NPC] Vladovic: That was not very difficult!
+
+[To] Trasok Starhammer
+
+[NPC Internal] gives the wrinkled riddle to Trasok.
+[NPC] Trasok: Oh, bringing it back, eh?
+[NPC] Trasok: Did you come up with an answer?
+[NPC Internal] Yes, we figured it out.
+[NPC] Trasok: Ah, really??
+[NPC] Trasok: What is it!?
+[NPC Narrate] -Trasok listens attentively.-
+[NPC Internal] The answer is stable.
+[NPC] Trasok: Ah!
+[NPC Narrate] -Trasok eyes widen and he smacks his forehead with the palm of his hand.-
+[NPC] Trasok: Yes!
+[NPC] Trasok: Gah, I feel like a lumphead.
+[NPC] Trasok: I was looking at it in all the wrong ways.
+[NPC] Trasok: I see it, I see it.
+[NPC] Trasok: Stable, then table, then able.
+[NPC Narrate] -Trasok Starhammer shakes the wrinkled riddle in his hand and bounces on his toes a bit.-
+[NPC] Trasok: Ahh!
+[NPC] Trasok: Now I can get back to work!
+[NPC] Trasok: Wonderful, Sir, my thanks to you and Vladovic!
+[NPC] Trasok: Hang on, let me send him a note.
+[NPC Narrate] -Trasok quickly writes a note to Vladovic and gives it to you.-
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Trasok sent this note back for you.
+[NPC] Vladovic: I hope he was pleased with our answer.
+[NPC Narrate] -Vladovic squints at the note and deciphers the scribbled writing.-
+[NPC] Vladovic: Oh.
+[NPC] Vladovic: It certainly seems so.
+[NPC] Vladovic: He'll be delivering the furnace personally as soon as it is finished; he says that he won't charge me a tria.
+[NPC] Vladovic: Well!
+[NPC Narrate] -Vladovic smiles at you.-
+[NPC] Vladovic: And I certainly could not have done it without you!
+[NPC] Vladovic: I would like you to have this; it is in exchange for your astute assistance!
+[NPC Narrate] -Vladovic gives you several coins.-
+
+[Reward] [Money] 12958; [XP] 17800; [Faction] 40, Science Association
+

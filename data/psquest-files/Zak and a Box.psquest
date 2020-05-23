@@ -1,0 +1,153 @@
+[Questname] Zak and a Box
+[NPC Name] Pauril Rentaurin
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] An Opening Move with Kisatol and Lori's Little Delivery; [Item] 1, Ruby Crystal
+
+[To] Pauril Rentaurin
+
+[NPC Internal] Need any help?
+[NPC] Pauril: You wish to help me?
+[NPC] Pauril: Why would you think I need any help, Stonehammer?
+[NPC Narrate] -Pauril studies you for a moment.-
+[NPC] Pauril: I'm just minding my own business over here.
+[NPC Narrate] -Pauril's eyes bore into you.-
+[NPC] Pauril: Perhaps it would be better if you just move along, Stonehammer.
+[NPC Narrate] -Pauril suddenly flashes you the faintest of smiles.-
+[NPC] Pauril: Unless…
+[NPC Narrate] -Pauril ponders a moment.-
+[NPC] Pauril: I do have a small errand I need run.
+[NPC] Pauril: Nothing spectacular or heroic mind you.
+[NPC] Pauril: Just a small box that needs delivery if you really wish to help me.
+[NPC Narrate] -Pauril gives you an affable smile that belies the intensity of his gaze.-
+[NPC] Pauril: Will you accept such a humble undertaking?
+[NPC Internal] Yes, where shall I take it?
+[NPC] Pauril: Here you go.
+[NPC Narrate] -Pauril hands you a plain metallic box with no hinges or visible lock.-
+[NPC] Pauril: Go to Zak.
+[NPC] Pauril: Give him the box.
+[NPC] Pauril: He might be uncooperative at first.
+[NPC Narrate] -Pauril makes a face.-
+[NPC] Pauril: Have noticed it with his type.
+[NPC] Pauril: If he blusters just tell him this: dead birds cannot sing.
+[NPC] Pauril: Knowing him, he will jump to the wrong conclusion.
+[NPC] Pauril: When he has opened the box, bring it back to me.
+
+[To] Zak
+
+[NPC Internal] This is for you.
+[NPC] Zak: What's this then?
+[NPC Narrate] -Zak fumbles around with the box a bit, examining it from all angles.-
+[NPC] Zak: Do I look like I collect junk?
+[NPC] Zak: This, whatever it is, won't fetch a Tria anywhere.
+[NPC] Zak: Don't waste my time with trinkets.
+[NPC Narrate] -Zak mumbles to himself.-
+[NPC] Zak: Harrumph!
+[NPC] Zak: Small time operators!
+[NPC] Zak: In my day we knew the value of…
+[NPC Narrate] -Zak remembers that you are there and looks at you mockingly.-
+[NPC] Zak: So where did you get this crown jewel, Stonehammer?
+[NPC Narrate] -Zak snorts.-
+[NPC] Zak: Harnquist's slag bin?
+[NPC Internal] Dead birds cannot sing.
+[NPC] Zak: What the…
+[NPC] Zak: Zak stares at you with his mouth open.
+[NPC] Zak: You…
+[NPC] Zak: er…
+[NPC] Zak: but you're not one of them.
+[NPC] Zak: I know them all.
+[NPC Narrate] -Zak gets a bit hysterical.-
+[NPC] Zak: And I never told you that I know.
+[NPC] Zak: So don't ask me about them because I don't know!
+[NPC Narrate] -Zak composes himself a bit and examines the box again, this time taking more care.-
+[NPC] Zak: Mmm…
+[NPC] Zak: Ok it looks like a puzzle box of sorts.
+[NPC] Zak: I suppose they want me to attempt to open it, yes?
+[NPC Internal] Yes, that was the order.
+[NPC] Zak: Look.
+[NPC] Zak: Here is the deal.
+[NPC Narrate] -Zak tries to look menacing.-
+[NPC] Zak: If I don't get this open, they'll have my hide.
+[NPC] Zak: And if they have my hide, I'll have yours.
+[NPC Narrate] -Zak continues all business like.-
+[NPC] Zak: A box like this cannot be lock picked in the normal way.
+[NPC] Zak: I need some special tools.
+[NPC Narrate] -Zak takes out a quill and paper and sketches and scribbles furiously for a few minutes.-
+[NPC] Zak: Give this to Harnquist.
+[NPC] Zak: He will be able to make what I need.
+[NPC] Zak: Don't worry about payment.
+[NPC] Zak: It's covered.
+[NPC] Zak: Now go and be quick about it.
+
+[To] Harnquist
+
+[NPC Internal] What can you tell me about these diagrams.
+[NPC] Harnquist: Well,well.
+[NPC Narrate] -Harnquist peruses the diagrams.-
+[NPC] Harnquist: Now there's a name I haven't heard in a while.
+[NPC Narrate] -Harnquist taps his finger on the signature on the diagrams.-
+[NPC] Harnquist: Dwingle Stronghand!
+[NPC] Harnquist: Quite the locksmith and inventor in his day.
+[NPC] Harnquist: Proud family heritage too!
+[NPC] Harnquist: Disappeared off the rim a few years back he did.
+[NPC] Harnquist: He still has some credit with me so I can get started on this right away.
+[NPC Narrate] -Harnquist studies the diagrams some more.-
+[NPC] Harnquist: Wherever he went to, he has not lost his touch.
+[NPC] Harnquist: Brilliant design.
+[NPC Narrate] -Harnquist makes a few notes on the diagrams.-
+[NPC] Harnquist: I will need an uncut ruby for this.
+[NPC] Harnquist: If you can get one it would speed up work tremendously.
+[NPC] Harnquist: Will you get me one?
+[NPC Internal] Yes, I will tend to it straight away.
+[NPC] Harnquist: Excellent!
+[NPC] Harnquist: I will start crafting in the meanwhile.
+[NPC Narrate] -Harnquist busies himself with the diagrams.-
+[NPC Internal] Here is the crystal.
+[NPC] Harnquist: Good timing.
+[NPC] Harnquist: Just wait a few minutes.
+[NPC Narrate] -Harnquist places the ruby in some complicated looking crab like device and proceeds to make small adjustments.-
+[NPC] Harnquist: Needs a bit of a turn here…
+[NPC] Harnquist: And now that little screw over there…
+[NPC] Harnquist: Good.
+[NPC] Harnquist: All done.
+[NPC Narrate] -Harnquist puts the crab like device and some other small tools in a bag and hands the bag to you.-
+[NPC] Harnquist: And here is a little something for the crystal.
+[NPC] Harnquist: Regards to him.
+[NPC Narrate] -Harnquist turns away and shouts at one of the people at the forge.-
+[NPC] Harnquist: How many times have I told you!
+[NPC] Harnquist: The right tool for the right job!
+
+[To] Zak
+
+[NPC Internal] Your tool bag.
+[NPC] Zak: Now let's have a look at this.
+[NPC Narrate] -Zak sets out the tools in front of him and starts working at an incredible speed.-
+[NPC] Zak: Interesting!
+[NPC Narrate] -After a while he stops and holds out the box for you to see.-
+[NPC] Zak: Looks like a cube doesn't it?
+[NPC] Zak: But there are faint indentations on each face.
+[NPC Narrate] -Zak picks up the crab like device and twiddles with it. It starts glowing.-
+[NPC] Zak: Now look at the box again in the light.
+[NPC] Zak: See the shape of the indentations?
+[NPC] Zak: My guess is depending on how you hold the box and how you apply pressure on the indentations, something interesting may happen.
+[NPC Narrate] -Zak relaxes a bit and his old demeanour returns.-
+[NPC] Zak: Now you go tell…
+[NPC] Zak: them, that the box is as good as open but it will take a bit more time.
+[NPC Narrate] -Zak smirks.-
+[NPC] Zak: Now go before I show you how good I am with knives.
+
+[To] Pauril Rentaurin
+
+[NPC Internal] It will take bit more time, but it can be done.
+[NPC] Pauril: I see.
+[NPC Narrate] -Pauril looks carefully neutral.-
+[NPC] Pauril: Maybe you are not quite as useless as I thought you to be.
+[NPC] Pauril: I have something for you. What you do with it is up to you.
+[NPC Narrate] -Pauril hands you a miniature black dagger.-
+[NPC] Pauril: Life is filled with choices, isn't it?
+[NPC] Pauril: And here is a little something for your trouble.
+[NPC Narrate] -Pauril flicks you some Circles and a dark-coloured glyph.-
+
+[Reward] [Money] 1000; [XP] 8000; [Item] 1, Shadow glyph; [Item] 1, Small Onyx Dagger
+

@@ -1,0 +1,83 @@
+[Questname] Consumer Ecology
+[NPC Name] Birkin Draewr
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[Need] [Item] 10, Ulbernaut Hearts; [Item] 10, Clacker Meat; [Item] 10, Rat Meat; [Item] 10, Rotten Grendol Meat
+
+[To] Birkin Draewr
+
+[NPC Internal] You seem stressed, anything I can do to help?
+[NPC] Birkin Draewr sighs and wipes some sweat off his forehead.
+[NPC] Birkin Draewr: Aye, there is absolutely something you could do for me, for the whole arena actually.
+[NPC] Birkin Draewr: But you'd have to be a good hunter, well...
+[NPC] Birkin Draewr: You could also just pay some hunters to work for you I suppose.
+[NPC] Birkin Draewr: Think you could be helping?
+[NPC Internal] I'll help you!
+[NPC] Birkin Draewr: That's great!
+[NPC] Birkin Draewr: There've been fewer people in tha arena lately and that means a big mess o' trouble.
+[NPC] Birkin Draewr: Not only fer Gregori and every one else's economy, but for those stinkin dead-meat eatin' consumers' ecology as well.
+[NPC Internal] How do you mean?
+[NPC] Birkin Draewr: Well, think 'bout it.
+[NPC] Birkin Draewr: Fewer fights means fewer bodies and that means the consumers get less food.
+[NPC] Birkin Draewr: You might not realise but there should normally be a lot of pieces of things that need disposing of.
+[NPC] Birkin Draewr: There are pits beneath the Arena where our little cleaners are kept, makes it easy to dispose of things.
+[NPC] Birkin Draewr: Now, considering we're having somewhat of a quiet time...
+[NPC] Birkin Draewr: I'd say they're starvin' by this point and, if they die, we'll have the opposite problem, because we would have no way ta get rid of all tha bodies.
+[NPC Internal] Why don't you just get more consumers if you need them?
+[NPC Narrate] -Birken shakes his head.-
+[NPC] Birkin Draewr: Raising more consumers is very time and energy consuming and ya don't want me ta get started on how it is ta do the catch on just one of those nasty things.
+[NPC] Birkin Draewr: Oh no.
+[NPC] Birkin Draewr: Got to be keeping those we already got here.
+[NPC Internal] So what can I do?
+[NPC] Birkin Draewr: I want ya to get as much meat as you can carry and deliver it all to me.
+[NPC] Birkin Draewr: Ulbernaut hearts are the big favourite, but clacker meat and rat are good as well.
+[NPC] Birkin Draewr: They need a certain mix, ya see, and even stinky rotten grendol meat serves a role.
+[NPC Narrate] Birkin Draewr sighs and shakes his head.
+[NPC] Birkin Draewr: It be a big order though.
+[NPC] Birkin Draewr: We'll be needing at least ten good chunks o' each kind of meat, though I'll be paying ya richly fer it.
+[NPC Internal] Here you go, some Clacker Meat.
+[NPC] Birkin Draewr: Our consumers will be liking these.
+[NPC Narrate] Birkin Draewr stares away toward nothing for a moment.
+[NPC] Birkin Draewr: This reminds me of the time me had to go hunting to feed those consumers meself.
+[NPC Narrate] Birkin Draewr draws his breath deeply as if to tell a long story in one breath, but releases it all in a single sigh.
+[NPC] Birkin Draewr: Never mind, there is no time fer stories now.
+[NPC] Birkin Draewr: Here, take some circles as a reward.
+[NPC Internal] Here you go, some rat meat.
+[NPC] Birkin Draewr: Great!
+[NPC] Birkin Draewr: Rat meat isn't the consumers' favourite, but it will still help.
+[NPC] Birkin Draewr: Once had the privilege of huntin' lots'a rats meself, I did.
+[NPC] Birkin Draewr: Ya see, the arena had been swarmed by rats, big fat ones too.
+[NPC Narrate] Birkin Draewr stops to ponder a bit.
+[NPC] Birkin Draewr: Never mind, such a long story will only bore ya.
+[NPC] Birkin Draewr: I can shorten it and say that our consumers had enough meat for months.
+[NPC] Birkin Draewr: Here, take a few circles for yer troubles.
+[NPC Internal] Here, take these Ulbernaut hearts.
+[NPC] Birkin Draewr: Magnificent!
+[NPC] Birkin Draewr: Our consumers will surely indulge in this nice meal.
+[NPC Narrate] Birkin Draewr looks thoughtful.
+[NPC] Birkin Draewr: Have ya heard'bout tha time me was forced to live on ulbernaut hearts?
+[NPC Narrate] Birkin Draewr shakes his head before you are able to reply.
+[NPC] Birkin Draewr: Never mind, me will tell ya that story later.
+[NPC] Birkin Draewr: Here, take this stack o' circles as payment fer tha meat.
+[NPC Internal] Here, some stinking grendol meat.
+[NPC Narrate] Birkin Draewr pinches his nose with two fingers.
+[NPC] Birkin Draewr: Yuch, that's the most smelly meat me ever smelled.
+[NPC] Birkin Draewr: Well almost, did me tell ya about the time me was sent to hunt fer...
+[NPC Narrate] Birkin Draewr pauses and shakes his head.
+[NPC] Birkin Draewr: Never mind.
+[NPC] Birkin Draewr: Me thinks of no idea how those consumers can enjoy such a meal, but anything to keep those beasties happy.
+[NPC] Birkin Draewr: Here, take this heap o' circles for yer efforts.
+[NPC Narrate] Birkin Draewr hands you some circles.
+[NPC Internal] Do you need any more meat?
+[NPC] Birkin Draewr: You have done a great service to the whole o' the arena already, but our consumers are well fed fer the moment.
+[NPC Narrate] Birkin Draewr sighs in relief and smiles at you.
+[NPC] Birkin Draewr: But they always be getting hungry, so do come back later if ya want to help some more.
+[NPC] Birkin Draewr: And here is a little something extra for all your troubles as well.
+[NPC] Birkin Draewr rummages in his sack and pulls out a bow and a few arrows.
+[NPC] Birkin Draewr: This might help you in your future hunts.
+[NPC] Birkin Draewr: It's somethin' Jjousk gave me, but turned out it weren't me thing.
+[NPC] Birkin Draewr: Mayhaps ya should go an' talk ta him when ya got the time.
+
+[Reward] [Money] 19500; [XP] 10800; [Item] 1, Demorian Composite Bow; [Item] 120, Iron Arrows

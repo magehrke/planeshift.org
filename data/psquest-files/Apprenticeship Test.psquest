@@ -1,0 +1,33 @@
+[Questname] Apprenticeship Test
+[NPC Name] Reffitia Thamal
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Orchibaly Versus the Smelly Jelly; [Skill] 25, Cooking
+
+[Info] Rank 25 in Cooking is uncertain.
+
+[To] Reffitia Thamal
+
+[NPC Internal] I would like to train under you as your cooking apprentice.
+[NPC] Reffitia: Well…
+[NPC Narrate] -Reffitia looks you up and down.-
+[NPC] Reffitia: Hmmmm.
+[NPC] Reffitia: If you want to be my apprentice, I'm going to have to test your skills a bit.
+[NPC] Reffitia: Are you up for it?
+[NPC Internal] Sure, I am ready for the test, what must I do?
+[NPC] Reffitia: If you have come to me, I assume you already have some cooking and baking skill.
+[NPC] Reffitia: I take it you have worked with the Gerpleferds and perhaps Jomed in Hydlaa?
+[NPC] Reffitia: So I'll offer you a set of choices.
+[NPC] Reffitia: First, would you rather make something from the Meats and Stews recipe book or The Pastry Chef Book?
+[NPC Internal] I'll make something from Meats and Stews.
+[NPC] Reffitia: Alright, then.
+[NPC] Reffitia: I know the recipes by heart so I'll give you a choice between Hearty Irifon Rice, Savory Kikiri Stew, or a Meat And Egg Omelette.
+[NPC] Reffitia: I'm not going to walk you through it, you'll need to figure out the recipe on your own if you've never made those.
+[NPC] Reffitia: That is all part of the test.
+[NPC] Reffitia: That and, of course, how it tastes.
+[NPC Narrate] -Reffitia gives you a sheepish grin.-
+[NPC] Reffitia: Make me one of those and make do your best!
+
+[Info] Make whatever dish you want (e.g. Meat And Egg Omelette) and give it to Reffitia.
+

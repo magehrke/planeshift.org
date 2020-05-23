@@ -1,0 +1,130 @@
+[Questname] Dark Wanderer wants the Messenger Bag
+[NPC Name] Dark Wanderer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Where the Courrier Went
+
+[To] Dark Wanderer
+
+[NPC Internal] Is there a task I can do for you?
+[NPC] Dark: Yes, I have a task for you if you do not mind disregarding the feeble laws of Yliakum and putting your own head at risk.
+[NPC] Dark: Do you have the strength of will to make my desires manifest in this world?
+[NPC Internal] I don't mind breaking a few laws.
+[NPC] Dark: Good.
+[NPC] Dark: Then we can continue.
+[NPC] Dark: I need someone to covertly go to Aldaaren Phostle in the eastern part of Hydlaa and retrieve something of value from him.
+[NPC] Dark: A dispatch that I hope never sees the light of day has been intercepted.
+[NPC] Dark: Aldaaren Phostle has information on where to retrieve that bag, but he was unable to relay its whereabouts to me.
+[NPC] Dark: He will no doubt ask for a favor from you in exchange for this information; do whatever he wishes and return with the Messenger Bag, and I will reward you with forbidden wisdom.
+
+[To] Aldaaren Phostle
+
+[NPC Internal] The Dark Wanderer sent me…
+[NPC] Aldaaren: Bring your voice to a whisper, my child.
+[NPC] Aldaaren: I know your purpose, but if you want my information you will have to do something for me.
+[NPC] Aldaaren: I need information that only Levrus Dahrenn can provide.
+[NPC] Aldaaren: He must not suspect that I have sent you.
+[NPC] Aldaaren: Word is that Raithen used to be an apprentice to Levrus when he was a boy.
+[NPC] Aldaaren: I am specifically interested in the nickname Levrus had for him.
+[NPC] Aldaaren: Go to Levrus and mention Raithen.
+[NPC] Aldaaren: If you can find the nickname without mentioning me, I will tell you where you can find the bag that the Dark Wanderer seeks.
+[NPC] Aldaaren: Does this arrangement suit you?
+[NPC Internal] Yes it does.
+[NPC] Aldaaren: Report back when you have the information I seek.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] What can you tell me about Raithen?
+[NPC] Levrus: Funny you mention him, as I was just thinking of him.
+[NPC] Levrus: Raithen was my best student and my greatest disappointment.
+[NPC Narrate] -Levrus frowns.-
+[NPC] Levrus: I first met him when he miraculously won a mages' tournament at age twelve.
+[NPC] Levrus: It was no surprise to me.
+[NPC] Levrus: He had been a beggar, a nuisance around Hydlaa for quite some time, but always spoke of wanting to learn magic.
+[NPC] Levrus: Over time he gained an unnatural luck that he used to win games of chance and ensure his survival.
+[NPC] Levrus: Few took note of this, but this is when my interest in him began.
+[NPC] Levrus: He improved slowly at first, practicing late at night in the sewers.
+[NPC] Levrus: This is a long tale; are you sure you wish me to continue?
+[NPC Internal] Yes, please continue.
+[NPC] Levrus: I will continue.
+[NPC] Levrus: Raithen was slowly progressing mimicking the movements and incantations needed for the casting of spells in the company of rats.
+[NPC] Levrus: 'Hello Ratboy,' I said to him, as I allowed my invisibility to fade.
+[NPC] Levrus: He was not shocked at all, and merely replied, 'I smelled you.
+[NPC] Levrus: I have smelled you following me for weeks; what do you want with me, old man?' I told him he had a tremendous innate gift for magic and offered him an apprenticeship.
+[NPC] Levrus: Raising Raithen over those years gave me some of the happiest moments of my life.
+[NPC] Levrus: He was sharp and quick, and after I taught him to read, I could not stop him.
+[NPC] Levrus: I called him 'Ratboy' from then on.
+[NPC] Levrus: You sure you want to hear an old man blather on?
+[NPC Internal] Yes, please continue.
+[NPC] Levrus: As Raithen approached his late teens, he was an eminent mage in Hydlaa.
+[NPC] Levrus: He was still officially in training, but he outpaced most of his teachers early on.
+[NPC] Levrus: On his seventeenth birthday, he announced suddenly that he was going to join the Shadow Squadron.
+[NPC] Levrus: It was very sudden, and I came to learn he had met another teacher, a teacher of forbidden lore known only as the dark wanderer.
+[NPC] Levrus: His desire to surpass all of his teachers, including me, drove him away from me.
+[NPC] Levrus: Alas, I do not feel like speaking more on this matter.
+
+[To] Aldaaren Phostle
+
+[NPC Internal] His nickname was ratboy.
+[NPC] Aldaaren: Excellent work!
+[NPC] Aldaaren: I shall have to employ you myself some time.
+[NPC] Aldaaren: You gave me what I wanted; now to give you what you wanted.
+[NPC] Aldaaren: Seek out Zak below the Laanx temple.
+[NPC] Aldaaren: He has what you want.
+[NPC] Aldaaren: I doubt he will give it away for free, but he does have it.
+[NPC] Aldaaren: Go and ask him for the Messenger Bag.
+
+[To] Zak
+
+[NPC Internal] I'm here to collect the messenger bag.
+[NPC] Zak: First things first.
+[NPC] Zak: We never spoke.
+[NPC] Zak: Got it?
+[NPC] Zak: Now if you want the Messenger Bag you have to do something for me.
+[NPC] Zak: Nothing risky, just a little favor.
+[NPC] Zak: Do you want this messenger bag enough to aid me?
+[NPC Internal] Yes, I'll help you.
+[NPC] Zak: Good, now here is what I need you to do.
+[NPC] Zak: Gordy Pumuont is an eccentric and strange man.
+[NPC] Zak: He serves as the executioner for the Vigesimi court.
+[NPC] Zak: The job has given him strange tastes and even stranger habits.
+[NPC] Zak: He has something I need, and I do not want to have to deal with him at all.
+[NPC] Zak: He is growing stranger and stranger of late, and often speaks in riddles.
+[NPC] Zak: If you can extract from him one of his Executioner Axes and bring it to me, I will give you the bag you seek.
+[NPC] Zak: Two things are important to bear in mind: one, Gordy cannot know I sent you; and two, Tarela Girshon must not know I have the bag.
+[NPC] Zak: When you meet Gordy, offer to have his Executioner Axe repaired.
+[NPC] Zak: He has Harnquist's apprentices do this for him weekly, and they change week to week, but he uses a code.
+[NPC] Zak: You will have to crack that code to get the Executioner Axe.
+[NPC] Zak: Just tell him Harnquist sent you.
+[NPC] Zak: When you get it, return and give it to me.
+
+[To] Gordy Pumuont
+
+[NPC Internal] Harnquist sent me.
+[NPC] Gordy: Are you a new apprentice?
+[NPC] Gordy: I do not recognize you.
+[NPC] Gordy: Who sent you?
+[NPC Internal] Harnquist.
+[NPC] Gordy: If you truly are Harnquist's apprentice, you should be familiar with my puzzle.
+[NPC] Gordy: I will test you.
+[NPC] Gordy: If you can answer the question with one try, I will trust you with the repair of my Executioner Axe.
+[NPC] Gordy: Here is your question.
+[NPC] Gordy: How can you throw a dwarf away as hard as you can and still have it return to you?
+[NPC Internal] throw dwarf up
+[NPC] Gordy: Yes, that's it!
+[NPC] Gordy: Here you go, and make sure the axe is well oiled before you return it to me.
+
+[To] Zak
+
+[NPC Internal] Here is the axe, now give me the bag.
+[NPC] Zak: You have done well.
+[NPC] Zak: I may have work for you another time.
+[NPC] Zak: Here is the Messenger Bag.
+
+[To] Dark Wanderer
+
+[NPC Internal] Here is the bag.
+[NPC] Dark: I must congratulate you.
+[NPC] Dark: I did not believe you had the guile to pull off my mission.
+[NPC] Dark: Take this glyph and use it to your benefit.

@@ -1,0 +1,88 @@
+[Questname] Willam's Lock
+[NPC Name] Willam Chorind
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 1, Diamond Crystal; [Money] 20
+
+[To] Willam Chorind
+
+[NPC Internal] Hi Willam, why do you look so nervous?
+[NPC] Willam: With this rash of robberies, I'm looking to have a strong box built in my house.
+[NPC] Willam: Building the box is straightforward, but I need a good strong lock for it.
+[NPC] Willam: I'm thinking of getting a magic lock. Think you could track one down?
+[NPC Internal] Sure, I'll find you one.
+[NPC] Willam: Excellent.
+[NPC] Willam: Bring it back to me when you have it.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I am in search of a magic lock.
+[NPC] Levrus: A magic lock.
+[NPC] Levrus: Hmm.
+[NPC] Levrus: Easy to make, trickier to use sometimes.
+[NPC] Levrus: It's an enchantment, so it falls under the Red Way.
+[NPC] Levrus: But…
+[NPC Narrate] -Levrus rummages around behind the counter.-
+[NPC] Levrus: Ah yes.
+[NPC Narrate] -Levrus frowns.-
+[NPC] Levrus: Another one of those riddle scrolls.
+[NPC] Levrus: Well first on the list is a lock.
+[NPC] Levrus: A simple one will work best.
+[NPC] Levrus: Bring me one while I work on the rest of this.
+[NPC] Levrus: Harnquist is the closest spot to get one, I think.
+
+[To] Harnquist
+
+[NPC Internal] I need a simple lock please.
+[NPC] Harnquist: A lock?
+[NPC] Harnquist: A simple lock will cost 20 tria.
+[NPC Internal] Alright, here's your money.
+[NPC] Harnquist: Ah, thank you and here you go.
+[NPC Narrate] -Harnquist gives you a basic sort of lock.-
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Here's the lock you requested.
+[NPC] Levrus: Excellent, this will serve well as the base.
+[NPC] Levrus: Now I've been trying to figure this out.
+[NPC] Levrus: 'New from old, yet contains gold, placed within by no seam, yet inside you know it to gleam.' And the answer is not gold, you know, hehe!
+[NPC Narrate] -Levrus winks at you and waits for your first guess.-
+[NPC Internal] egg
+[NPC] Levrus: Yes, that works…
+[NPC] Levrus: I know I have one here someplace…
+[NPC Narrate] -Levrus searches the shelves behind him for a moment and then takes an egg from behind a book and holds it up to look at it.-
+[NPC] Levrus: Ah, here we are.
+[NPC] Levrus: Now let's see, what is next?
+[NPC] Levrus: Something 'clearly hard.' What could that be?
+[NPC Internal] diamond
+[NPC] Levrus: I should have known that!
+[NPC] Levrus: That looks to be that last big item on the list.
+[NPC] Levrus: Bring me one and it should be simple.
+[NPC Internal] Here's the diamond crystal.
+[NPC] Levrus: There we are…
+[NPC Narrate] -Levrus mumbles some words over a crucible. He looks up with a slightly worried look on his face.-
+[NPC] Levrus: I'd duck.
+[NPC Narrate] -Levrus crouches behind his counter. The crucible merely gives off a puff of smoke.-
+[NPC] Levrus: Hmm.
+[NPC] Levrus: Should have been a bit more…
+[NPC] Levrus: energetic.
+[NPC] Levrus: But it is finished.
+[NPC Narrate] -Levrus reaches for the lock and looks it over before passing it to you.-
+[NPC] Levrus: The magic word is ligbameinntod, to both lock and unlock it.
+
+[To] Willam Chorind
+
+[NPC Internal] I have found you a lock.
+[NPC] Willam: Hmm yes.
+[NPC] Willam: This will do nicely.
+[NPC] Willam: And what is the magic word for it?
+[NPC Internal] ligbameinntod
+[NPC] Willam: Excellent!
+[NPC] Willam: Here you go: for your effort in this matter.
+[NPC Narrate] -Willam gives you set of leather torso armor.-
+[NPC] Willam: Once people hear about my magic lock, I won't really need to protect my chest from daggers as much, so you can take it.
+[NPC] Willam: Thank you once again.
+
+[Reward] [Money] 1297; [XP] 9400; [Item] 1, Leather Torso Armor
+

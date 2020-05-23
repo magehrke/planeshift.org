@@ -1,0 +1,62 @@
+[Questname] The value of Gobble Ears
+[NPC Name] Gorbiak
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Gorbiak wants to Speak Better; [Item] 1, Tefusang Hide
+
+[To] Gorbiak
+
+[NPC Internal] Do you speak common?
+[NPC] Gorbiak: I speak common good!
+[NPC] Gorbiak: I learn it from a book!
+[NPC] Gorbiak: You help Gorbiak more, yes?
+[NPC Internal] What must I do?
+[NPC] Gorbiak: I find many dead gobble in sewers.
+[NPC] Gorbiak: Dead gobble with no ears!
+[NPC] Gorbiak: Why take ears?
+[NPC] Gorbiak: You find out why ears wanted and tell me!
+
+[To] Levrus Dahrenn
+
+[NPC Internal] What do you use gobble ears for?
+[NPC] Levrus: That's quite simple.
+[NPC] Levrus: Gobble ears are used to make glyph sacks.
+
+[To] Gorbiak
+
+[NPC Internal] glyph sacks
+[NPC] Gorbiak: Ear makes SACKS?
+[NPC] Gorbiak: I no like!
+[NPC] Gorbiak: You find new sack material!
+[NPC] Gorbiak: New sack material!
+[NPC] Gorbiak: No ears!
+[NPC Narrate] -Gorbiak stomps on the ground.-
+[NPC] Gorbiak: You find and tell me!
+[NPC] Gorbiak: Go now!
+
+[To] Hirenn Darmeth
+
+[NPC Internal] If you had to use a new material for sacks, what would you use?
+[NPC] Hirenn: Try giving me one hide. I'll see what happens.
+
+[Give] Hirenn Darmeth; 1, Tefusang Hide
+
+[NPC] Hirenn: Let me see now.
+[NPC Narrate] -Hirenn attempts to make a sack.-
+[NPC] Hirenn: Success!
+[NPC] Hirenn: In fact, I think it works even better.
+[NPC] Hirenn: You may have the first one.
+
+[To] Gorbiak
+
+[NPC Internal] Here's the sack.
+[NPC] Gorbiak: YES!
+[NPC] Gorbiak: No ears!
+[NPC] Gorbiak: You do very very good job!
+[NPC] Gorbiak: You gobble friend now!
+[NPC] Gorbiak: Come back and give me more help later.
+[NPC] Gorbiak: You take!
+
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Seeds of Wildwood
+

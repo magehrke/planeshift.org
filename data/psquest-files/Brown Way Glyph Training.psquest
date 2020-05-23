@@ -1,0 +1,42 @@
+[Questname] Brown Way Glyph Training
+[NPC Name] Jardet Forsill
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Brown Way Knowledge; [Item] 1, Brown Way Apprentice's Wand; [Skill] 20, Brown Way; [Item] 1, Weight glyph; [Item] 2, Tefusang Skin
+
+[To] Jardet Forsill
+
+[NPC Internal] I am here to be tested, here is my wand as prove of being a worthy student.
+[NPC] Jardet: Good, I see you are ready for your test.
+[NPC] Jardet: I like a hard worker!
+[NPC Narrate] -Jardet nods, proudly.-
+[NPC] Jardet: I want to check your ability.
+[NPC] Jardet: Go and find some Tefusang Skin.
+[NPC] Jardet: You can kill Tefusang and bring me their skin, otherwise you can buy them from someone, or you can recruit some good guy and go with him to kill Tefusangs.
+[NPC Narrate] -Jardet thinks a little bit.-
+[NPC] Jardet: Nothing too hard, let's say two Tefusang Skin.
+[NPC] Jardet: I'll wait you here.
+[NPC Internal] I found two Tefusang Skin, as you asked.
+[NPC] Jardet: Very, very nice.
+[NPC] Jardet: Now let me think.
+[NPC Narrate] -Jardet taps his chin with his finger, then snaps the fingers.-
+[NPC] Jardet: I know, hand me the glyph that increases the weight of the target's equipment.
+[NPC Narrate] -Jardet awaits the glyph.-
+[NPC Internal] I would think it would be … Weight?
+[NPC Narrate] -Jardet nods.-
+[NPC] Jardet: Well done.
+[NPC Narrate] -Jardet returns your glyph.-
+[NPC] Jardet: Even though up until now you have been thought or tested on single glyph spells, it is worth noting that Brown Way only have a few of those.
+[NPC] Jardet: Most of our spells are derived from combining two glyphs in the correct order.
+[NPC] Jardet: We will require Summon and Rock for our next session.
+[NPC] Jardet: Do you have both these glyphs?
+[NPC Internal] Yes, I am prepared.
+[NPC] Jardet: Good, here is your bracers to prove you have passed this section of the training.
+[NPC] Jardet: Come back to me and give me your wand when you're ready for the next lesson.
+[NPC] Jardet: Of course, I will be the judge on if you are worthy yet.
+[NPC] Jardet: If I don't take your wand, then you are not ready yet.
+[NPC] Jardet: And for another test I request you go and see Gregori in the arena, he needs your help.
+
+[Reward] [XP] 9400; [Item] 1, Apprentice's Brown Way Bracers; [Faction] 10, Brown Order
+

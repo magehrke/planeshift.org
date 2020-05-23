@@ -1,0 +1,189 @@
+[Questname] A Helping Hand for Kisatol
+[NPC Name] Ukabnu
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Cutthroat Hospitality; [Item] 12, Weapon Repair Kits
+
+[To] Ukabnu
+
+[NPC Internal] Hey, give me something to do.
+[NPC] Ukabnu: You again, huh?
+[NPC Narrate] -Ukabnu looks you up and down with a scornful frown.-
+[NPC] Ukabnu: You must enjoy scurrying around for Ukabnu, little clacker.
+[NPC] Ukabnu: And now you want more.
+[NPC Narrate] -Ukabnu eyes narrow and she looks thoughtful for a moment.-
+[NPC] Ukabnu: Let us see if the Stonehammer can handle something requiring more intelligence than the average dolt.
+[NPC] Ukabnu: You will go to Ojaveda and find Kisatol and deliver him something for me.
+[NPC] Ukabnu: Can you handle that, my insect?
+[NPC] Ukabnu: You will get more than a mug of beer this time if you play your cards well.
+[NPC Internal] I might be willing to help you out. Yes! I'll do it.
+[NPC] Ukabnu: Good.
+[NPC] Ukabnu: You will find Kisatol and deliver this box, and then tell him Ukabnu has Ceanara and then follow his directions.
+[NPC Narrate] -Ukabnu smiles to herself as she passes a small locked iron box to you.-
+[NPC] Ukabnu: And if you're the sort of fool-born scut who'd have a mind to take that sort of thing to the law…
+[NPC] Ukabnu: well.
+[NPC Narrate] -Ukabnu chuckles.-
+[NPC] Ukabnu: Go on!
+[NPC] Ukabnu: Get your legs moving, my idling clotpole!
+
+[To] Kisatol Gathoji
+
+[NPC Internal] Here, this box is for you.
+[NPC Narrate] -Kisatol turns the box cautiously in his hands and then looks at you.-
+[NPC] Kisatol: Well?
+[NPC Internal] I was told to tell you Ukabnu has Ceanara.
+[NPC Narrate] -Kisatol smiles.-
+[NPC] Kisatol: Ahhh, some good news.
+[NPC Narrate] -Kisatol takes out a small key from a pocket and unlocks the box. He opens it and takes out a folded letter and then begins laughing.-
+[NPC] Kisatol: Ha ha ha haa!
+[NPC] Kisatol: Classic.
+[NPC Narrate] -Kisatol tilts the box and shows you the contents: A slender-fingered hand with pale skin, stained with blood around its severed wrist. An elegant silver ring circles the smallest finger.-
+[NPC Narrate] -Kisatol chuckles again.-
+[NPC] Kisatol: Now, let's have a look at this letter she sent.
+[NPC Narrate] -Kisatol closes the box, unfolds the letter and his smile gradually changes to a frown as he reads through it. He growls quietly.-
+[NPC] Kisatol: Another cursed riddle!
+[NPC] Kisatol: A pox on the wicked child.
+[NPC Narrate] -Kisatol glances at you with his brows furrowed.-
+[NPC] Kisatol: You, my dear Stonehammer, you have been entrusted as the messenger…
+[NPC] Kisatol: I will set you to deciphering this…
+[NPC] Kisatol: thing.
+[NPC Narrate] -Kisatol tears the bottom section of the letter free and reads it before passing it to you.-
+[NPC] Kisatol: 'The Octarch instructs us on the laws.
+[NPC] Kisatol: I: 6, 9, 20.
+[NPC] Kisatol: III: 16 -Dozen- V: 2, 4, 16, 19, 21, 28 VI: 14, 20 IV: 2, 4.'
+[NPC Narrate] -Kisatol rolls his eyes.-
+[NPC] Kisatol: She likes to play her games.
+[NPC] Kisatol: Go, solve it, return to me and tell me what she wants me to know.
+[NPC] Kisatol: I suggest poking around in Jayose's volumes in Hydlaa, she tends to have literary pretensions at times.
+[NPC Internal] dozen weapon repair kits
+[NPC Narrate] -Kisatol frowns.-
+[NPC] Kisatol: That's all the little grendol-kisser wanted!?
+[NPC] Kisatol: Go get a dozen then, and deliver them to her.
+[NPC Narrate] -Kisatol half closes his eyes, broody.-
+[NPC] Kisatol: But it does not make any sense.
+[NPC Narrate] -Kisatol holds his breath, his eyes open wide.-
+[NPC] Kisatol: I understand now…
+[NPC] Kisatol: That witch.
+[NPC Narrate] -He looks back to you.-
+[NPC] Kisatol: No.
+[NPC] Kisatol: Don't give her the repair kits, you need to do something for me first.
+[NPC] Kisatol: And no questions.
+[NPC] Kisatol: I need something urgent from you.
+[NPC Narrate] -Kisatol smirks.-
+[NPC] Kisatol: There is a woman employed at the library in Hydlaa.
+[NPC] Kisatol: Get some rare crystals from her, and don't mention me and bring them back here.
+[NPC] Kisatol: And remember, you have to do this before giving the repair kits to Ukabnu.
+[NPC Narrate] -Kisatol takes a long breath.-
+[NPC] Kisatol: If you get the crystal to me, and in that only case, try to give the repair kits to Ukabnu.
+
+[To] Lori Tryllyn
+
+[NPC Internal] Can I get a rare crystal from you?
+[NPC Narrate] -Lori smiles at you and sets down her quill.-
+[NPC] Lori: What's that?
+[NPC] Lori: A rare crystal?
+[NPC] Lori: You are aware that this is a library, not a gemcutter's shop, are you not?
+[NPC Narrate] -Lori illustrates her point by lifting a stack of books and passing them to you.-
+[NPC] Lori: Hold those for me for a moment, please.
+[NPC Narrate] -Lori pushes books aside on a shelf to make room.-
+[NPC] Lori: All right, I am ready.
+[NPC Narrate] -Lori waits with her hands held out for the books.-
+[NPC Internal] Your books.
+[NPC] Lori: Thank you.
+[NPC Narrate] -Lori efficiently shelves the books.-
+[NPC] Lori: Some days there are so many to put away, and people are always trying to do it themselves and getting things put in the wrong places.
+[NPC] Lori: So, what was it you were looking for?
+[NPC Internal] Well, I'm looking for a rare crystal.
+[NPC] Lori: No, I do not have anything like that, Madam.
+[NPC Narrate] -Lori shrugs apologetically but then seems to have an idea.-
+[NPC] Lori: Oh!
+[NPC] Lori: But you know, maybe I know someone who might…
+[NPC] Lori: yee-es.
+[NPC Narrate] -Lori smiles and nods to herself.-
+[NPC] Lori: How about this, you can run an important errand for me, I will use the time I save to go speak with them and see what they know?
+[NPC Internal] Yeah I guess so, what do you need me to do?
+[NPC] Lori: Fantastic.
+[NPC] Lori: It is always good to have a helping hand.
+[NPC Narrate] -Lori smiles at you.-
+[NPC] Lori: There is a fellow in the Hydlaa city guard, his name is Bevon Damerr.
+[NPC] Lori: He is a bit of a hedge-born bumpkin, but he has a good heart.
+[NPC] Lori: Tell him that Miss Tryllyn sent you, and ask him nicely about the new construction.
+
+[To] Bevon Damerr
+
+[NPC Internal] Hi. Miss Tryllyn sent me over.
+[NPC] Bevon: Miss Tryllyn, ay?
+[NPC Narrate] -Bevon smiles and looks a bit shy.-
+[NPC] Bevon: Uh, what's she needin'?
+[NPC Internal] Could you tell me about the new construction?
+[NPC] Bevon: Yea, I met her t'other day and we was talkin' 'bout that.
+[NPC] Bevon: She's, uh, she's nice, don't yuh think?
+[NPC] Bevon: Sometimes bein' here in Hydlaa's kinda neat, 'cause I get to meet new people, an' sometimes they're friendly, and we can talk 'bout stuff.
+[NPC Narrate] -Bevon looks around.-
+[NPC] Bevon: What was it we was talkin' 'bout?
+[NPC Internal] We were talking about the new construction.
+[NPC] Bevon: Oh, uh, yea.
+[NPC Narrate] -Bevon chuckles and puts his hand on his helm for a moment.-
+[NPC] Bevon: Miss Tryllyn, she said she's studyin' about buildin' things and such.
+[NPC] Bevon: So she's interested in how the plans for the new guardhouse are lookin'.
+[NPC] Bevon: So I asked Sir Tungse t'try and make a copy for me.
+[NPC] Bevon: I bet it's done by now.
+[NPC] Bevon: If you visit him in East Hydlaa and tell him Bevon sent you, I reckon he'll give it to you.
+[NPC] Bevon: And say howdy to Miss Tryllyn for me.
+
+[To] Kilas Tungse
+
+[NPC Internal] Bevon sent me for the copy of the plans. Are they ready?
+[NPC] Kilas: Yes, I do have that copy for Bevon ready.
+[NPC] Kilas: Let me see…
+[NPC Narrate] -Kilas slips his pack from his shoulder and looks through the rolled sheets.-
+[NPC] Kilas: Ah, this one.
+[NPC] Kilas: It's not the best drawing, but it is quite good enough for study purposes.
+[NPC Narrate] -Kilas passes you a rolled-up sheet of vellum with a cord tied about it.-
+[NPC] Kilas: It is good to learn new things, I hope he enjoys it.
+
+[To] Lori Tryllyn
+
+[NPC Internal] This should be what you need.
+[NPC] Lori: Oh, is that what it looks like?
+[NPC Narrate] -Lori unties the cord and partially unrolls the sheet. Her face breaks into a big smile.-
+[NPC] Lori: Fantastic!
+[NPC Narrate] -Lori chuckles and re-rolls the plans.-
+[NPC] Lori: I have been lucky as well, for here is what you are after.
+[NPC] Lori: 'Tis quite rare- I'll wager you have not seen their like before.
+[NPC Narrate] -Lori shows you a small blue wooden box. She opens it slightly and you can see a greenish glow coming from two small crystals of some sort. Lori opens the box further and the glow and the crystals and the light vanish.-
+[NPC] Lori: Interesting, are they not?
+[NPC Narrate] -Lori smiles and reaches into the box and picks up an invisible crystal and drops it back into the box with a clunk.-
+[NPC] Lori: They are still there, but they seem to only be visible in the dark.
+[NPC] Lori: A clever mind could have some interesting uses for such a thing, don't you agree?
+[NPC Narrate] -Lori closes the box and gives it to you.-
+[NPC] Lori: Have fun with them, Madam, and may your purse never empty!
+
+[To] Kisatol Gathoji
+
+[NPC Internal] I've brought you another box.
+[NPC] Kisatol: The Stonehammer has returned with another box for me, I see.
+[NPC] Kisatol: What does this one contain?
+[NPC] Kisatol: An innocent's nose?
+[NPC] Kisatol: A shriveling severed tongue, perhaps?
+[NPC Internal] It contains magic crystals
+[NPC] Kisatol: says: Good.
+[NPC Narrate] -Kisatol carefully opens the box and looks inside. He smiles evilly, his face lit in the green glow of the crystals, and then closes the box with a snap.-
+[NPC] Kisatol: says: Excellent. Take these for your hungry purse.
+[NPC Narrate] -Kisatol flicks a few circles at you.-
+[NPC] Kisatol: says: Now go finish your work for dear little Ukabnu.
+
+[To] Ukabnu
+
+[NPC Internal] These are for you.
+[NPC Narrate] -Ukabnu smiles and tosses the kits to the nearest cutthroat. 'Here's our blasted kits! Get to work!' She turns back to you.-
+[NPC] Ukabnu: I see you managed, my scuttling little clacker.
+[NPC] Ukabnu: Take this and maybe you can learn to bash some skulls in.
+[NPC Narrate] -Ukabnu gives you a battle hammer.-
+[NPC] Ukabnu: Here's some coin for your troubles.
+[NPC Narrate] -Ukabnu flicks a few circles at you.-
+[NPC] Ukabnu: Have fun.
+
+[Reward] [Money] 3107; [XP] 10800; [Item] 1, Battle Hammer; [Faction] 15, Thieves Organization
+

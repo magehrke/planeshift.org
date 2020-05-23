@@ -1,0 +1,44 @@
+[Questname] Aerayau Strongwill's Epic Journey
+[NPC Name] Aerayau Strongwill
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Amidison's Command
+
+[To] Aerayau Strongwill
+
+[NPC Internal] Do you know where I can find some adventure in these parts?
+[NPC] Aerayau: Ah, the citizen wants to embark on an epic journey filled with adventure, excitement and mystery.
+[NPC Narrate] -Aerayau rubs his chin.-
+[NPC] Aerayau: I can send you on such a journey of self discovery, if you are willing to go to the far reaches of Yliakum.
+[NPC] Aerayau: Are you ready for such a journey?
+[NPC Internal] Great, just what I was looking for.
+[NPC Narrate] -Aerayau looks around before handing you a sealed letter.-
+[NPC] Aerayau: I am pleased to hear that, citizen.
+[NPC] Aerayau: Take this letter to Archilaya the baker, who is currently residing in the Hydlaa Arena.
+[NPC] Aerayau: She will know what to do next.
+
+[To] Archilaya Gurpleferd
+
+[NPC Internal] I was ordered to hand you this letter.
+[NPC] Archilaya: Ah indeed, you must be one of the new recruits.
+[NPC Narrate] -Archilaya takes a closer look at you.-
+[NPC] Archilaya: No, you don't have the official uniform, so you must be an applicant.
+[NPC] Archilaya: Aerayau does not normally trust an applicant with this task, but if that is what Aerayau wants, so be it.
+[NPC Narrate] -Archilaya turns her back on you while she reads the instructions.-
+[NPC] Archilaya: Ten loaves, three clacker pies.
+[NPC Narrate] -Archilaya completes the order and hands you a bag filled with fresh food.-
+[NPC] Archilaya: Well, applicant, there is the special order ready for the Sunshine Squadron party.
+[NPC] Archilaya: Please deliver it to Aerayau while it is still fresh.
+
+[To] Aerayau Strongwill
+
+[NPC Internal] Here is the food that you ordered from Archilaya.
+[NPC] Aerayau: The hero returns from the epic journey, where the hero's fitness levels have been revealed.
+[NPC Narrate] -Aerayau grins as he looks in the bag and takes a whiff.-
+[NPC] Aerayau: That girl sure knows how to cook.
+[NPC] Aerayau: For your trouble, citizen, please accept this as a token of appreciation from the Sunshine Squadron here at the Eagle Bronze Doors.
+[NPC Narrate] -Aerayau hands you some coins.-
+
+[Reward] [Money] 3391; [XP] 12200
+

@@ -1,0 +1,96 @@
+[Questname] And Thus They Learn
+[NPC Name] Amakeer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] May Their Words Sound; [Item] 1, Iron Ingot; [Item] 1, Steel Sludge; [Item] 1, Coal Sludge
+
+[To] Amakeer
+
+[NPC Internal] I was wondering if you needed help?
+[NPC Narrate] -Amakeer does not respond, staring blankly at the space before him, but as the time passes, his placid face slowly turns in your direction at a creeping pace.-
+[NPC] Amakeer: You wish to do something for me?
+[NPC Narrate] -Amakeer reaches his hand out in your direction and as his fingers approach you, they begin twitching spontaneously.-
+[NPC] Amakeer: Race, is it?
+[NPC] Amakeer: It is unusual to see you here…
+[NPC Narrate] -Amakeer retracts his spiky hand and soon his fingers seem to calm down.-
+[NPC] Amakeer: So you come here with a good will.
+[NPC] Amakeer: Will to help others.
+[NPC] Amakeer: Do you wish to help a Derghir architect?
+[NPC] Amakeer: I am able to make it worth your while.
+[NPC Internal] Yeah sure. I'd love to help you.
+[NPC Narrate] -Amakeer shifts his hand to his face, his fingers making clicking sounds as they tap at his cheek.-
+[NPC] Amakeer: My wish is to learn.
+[NPC] Amakeer: Your kind has wondrous ways to work with the elements.
+[NPC] Amakeer: Iron and stone.
+[NPC Narrate] -Amakeer fingers twitch for a moment.-
+[NPC] Amakeer: So different from those of our own.
+[NPC] Amakeer: I have heard that you cast your iron into firm blocks; shape it into what you want.
+[NPC] Amakeer: Please, provide me with one of those.
+
+[Give] Amakeer; 1, Iron Ingot
+
+[NPC Internal] Here is an iron ingot.
+[NPC] Amakeer: Iron 'inkot' they call it?
+[NPC Narrate] -Amakeer taps the block of iron, then slides his fingers across it.-
+[NPC] Amakeer: So that is what it looks like.
+[NPC Narrate] -Amakeer gradually turns his attention back to you.-
+[NPC] Amakeer: I also heard you turn it into other elements.
+[NPC] Amakeer: Sludges of steel and coal.
+[NPC] Amakeer: Please, bring one sludge of steel to me.
+
+[Give] Amakeer; 1, Steel Sludge
+
+[NPC Internal] One sludge of steel.
+[NPC] Amakeer: A queer substance, unknown to my eyes until now.
+[NPC Narrate] -Amakeer fingers twitch as he inspects the sludge.-
+[NPC] Amakeer: What elements do you use to make it?
+[NPC Internal] Iron and coal melted together make steel.
+[NPC] Amakeer: Yes…
+[NPC] Amakeer: But how they change into another…
+[NPC Narrate] -Amakeer slowly tilts his head, still observing the sludge.-
+[NPC] Amakeer: That interests me.
+[NPC Narrate] -Amakeer flicking fingers creep the item closer to his eyes.-
+[NPC] Amakeer: How much of each element will you use to make it?
+[NPC] Amakeer: How much ore…
+[NPC Narrate] -Amakeer pauses for a few seconds, then spontaneously turns his head in your direction.-
+[NPC] Amakeer: How much iron and how much coal?
+[NPC Internal] Well, you make it with nine iron ores and one coal ore.
+[NPC Narrate] -Amakeer slowly turns his head to the sludge, his fingers tapping on the item.-
+[NPC] Amakeer: Yes, yes…
+[NPC] Amakeer: I can see now.
+[NPC Narrate] -Amakeer shifts his hand over the surface of the muck.-
+[NPC] Amakeer: And about the other sludge?
+[NPC] Amakeer: The coal one.
+[NPC] Amakeer: If you brought it, please give it to me.
+
+[Give] Amakeer; 1, Coal Sludge
+
+[NPC Internal] This is the coal sludge.
+[NPC Narrate] -Amakeer moves the sludge closer to his eyes.-
+[NPC] Amakeer: You make this using the same minerals…
+[NPC] Amakeer: But different amount of them.
+[NPC Narrate] -Amakeer fingers tap on the item.-
+[NPC] Amakeer: How much iron and how much coal do you put into your machinery to make some of this?
+[NPC Internal] This one is made with eight iron ores and two coal ore.
+[NPC Narrate] -Amakeer observes the sludge for a moment.-
+[NPC] Amakeer: Yes, this can be true…
+[NPC Narrate] -Amakeer slowly turns his head in your direction.-
+[NPC] Amakeer: Thank you for your answers.
+[NPC Narrate] -Amakeer stands motionless for a few moments.-
+[NPC] Amakeer: A long time ago I once found a item made of 'bronze.'
+[NPC] Amakeer: Could you tell me what two types of elements you use to create them?
+[NPC Internal] copper and tin
+[NPC] Amakeer: Yes, yes.
+[NPC] Amakeer: That could be it.
+[NPC Narrate] -Amakeer stands motionless for a long moment as a cloud draws before the Azure sun.-
+[NPC] Amakeer: Thank you for your generous help…
+[NPC] Amakeer: please, take this as a reward for teaching me about your kind.
+[NPC Narrate] -Amakeer hands you a Green Jasper Crystal.-
+[NPC] Amakeer: It is a jasper I brought with us from a hole far away.
+[NPC] Amakeer: It is not to be found with us here…
+[NPC Narrate] -Amakeer stares at you blankly, randomly constricting and loosening his fingers.-
+[NPC] Amakeer: That is all I wanted from you, but you may stay with me longer, if you wish.
+
+[Reward] [XP] 17800; [Item] 1, Green Jasper Crystal; [Faction] 40, Seeds of Wildwood
+

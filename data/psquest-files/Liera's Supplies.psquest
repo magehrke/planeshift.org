@@ -1,0 +1,41 @@
+[Questname] Liera's Supplies
+[NPC Name] Liera Zireti
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 10, Rat Eyes
+
+[To] Liera Zireti
+
+[NPC Internal] How is business?
+[NPC] Liera: Business has been good.
+[NPC] Liera: Almost too good.
+[NPC] Liera: It hasn't given me much of a chance to stock up some of the supplies that I need.
+[NPC] Liera: Could you get some of them for me?
+[NPC Internal] Sure, I have time to do that.
+[NPC] Liera: Great.
+[NPC] Liera: The first thing that I need is 10 rat eyes.
+
+[Give] Liera Zireti; 10, Rat Eyes
+
+[NPC] Liera: Thanks.
+[NPC] Liera: Now I need three tanned serpent skins.
+[NPC] Liera: Hirenn over in Ojaveda carries them for me.
+
+[To] Hirenn Darmeth
+
+[NPC Internal] Hello, I need to pick up three tanned serpent skins for Liera.
+[NPC] Hirenn: Not much call for them.
+[NPC] Hirenn: She's about the only one who wants them.
+[NPC Narrate] -Hirenn hands over the skins and a bill.-
+[NPC] Hirenn: I'll collect from her later.
+[NPC] Hirenn: I know she's good for it.
+
+[To] Liera Zireti
+
+[NPC Internal] Here you go. Hirenn also sent along a bill, I tucked it in with the skins.
+[NPC] Liera: Thanks.
+[NPC] Liera: I have to send him payment later.
+
+[Reward] [Money] 2107; [XP] 10800
+

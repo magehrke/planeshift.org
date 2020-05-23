@@ -1,0 +1,74 @@
+[Questname] The Azure Way
+[NPC Name] Jayose
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Without a Way; [Item] 1, Way Amulet
+
+[To] Jayose
+
+[NPC Internal] Hello Jayose, Levrus sent me to see you.
+[NPC] Jayose: Levrus, was it?
+[NPC] Jayose: He sent you here.
+[NPC] Jayose: That old ranting peddler.
+[NPC] Jayose: I assume you are here to learn about the Azure Way.
+[NPC] Jayose: Aren't you?
+[NPC Narrate] -Jayose raises a hand, before you can answer.-
+[NPC] Jayose: Not so fast.
+[NPC] Jayose: Our Circle accepts only fully committed students, because we expect very much from them.
+[NPC] Jayose: You have to dedicate yourself to Azure Way…
+[NPC] Jayose: And I mean Azure Way only.
+[NPC] Jayose: Every other Way will be prohibited.
+[NPC] Jayose: If you gain higher levels of knowledge in other Circles the penalty will be banishment.
+[NPC Narrate] -Jayose pauses, looking to your reaction.-
+[NPC] Jayose: You can answer now.
+[NPC] Jayose: Do you want to become an initiate of the Azure Way?
+[NPC Internal] Yes, I want to become an initiate of the Azure Way.
+[NPC Narrate] -Jayose gazes upon you and nods, slowly.-
+[NPC] Jayose: The rules are simple.
+[NPC] Jayose: Do what I say until you pass to the next level of training.
+[NPC Narrate] -Jayose grins.-
+[NPC] Jayose: So, are you ready to get started?
+[NPC] Jayose: But before we do, do you have something for me?
+[NPC Internal] Here you are and I am ready!
+[NPC] Jayose: Hey be careful with that item.
+[NPC Narrate] -Jayose catches the amulet to examine it.-
+[NPC] Jayose: This is the right attitude.
+[NPC Narrate] -Jayose smiles for a second.-
+[NPC] Jayose: People come here every day.
+[NPC] Jayose: Every one of them is worried, because they are searching the answers.
+[NPC] Jayose: But they do not know…
+[NPC Narrate] -Jayose waits, looking into your eyes.-
+[NPC] Jayose: Directions.
+[NPC] Jayose: This is what you need.
+[NPC] Jayose: And this is what I'll give you.
+[NPC] Jayose: First step: go to Levrus, so he will teach the foundations of the Azure Way.
+[NPC] Jayose: When Levrus cannot teach you anymore you will understand that your foundations are solid.
+[NPC] Jayose: At that time return to me for advanced training.
+[NPC] Jayose: Study and practice will bring you to excellence if you show enough purpose.
+[NPC] Jayose: Now one last test before you start.
+[NPC] Jayose: I frown on these things but the Archmages want it included.
+[NPC] Jayose: I cannot be felt, seen or touched; yet I can be found in everybody; I am not a key; yet I can open many locks; I have an edge that will dull, but no stone can it sharpen.
+[NPC] Jayose: What am I?
+[NPC Internal] mind
+[NPC] Jayose: Yes, of course it is.
+[NPC] Jayose: Now with that foolishness complete.
+[NPC Narrate] -Jayose searches in a sack and gets a wand.-
+[NPC] Jayose: Take this.
+[NPC] Jayose: In the future, when you will need no more of my teachings, bring this wand back to me and I will give you the name of the next master.
+[NPC] Jayose: Any questions?
+[NPC Internal] I want to start!
+[NPC] Jayose: At last.
+[NPC] Jayose: Take this wand.
+[NPC] Jayose: Concentrate on the path of the Azure Way to make us proud of you.
+[NPC Narrate] -Jayose clenches his hands.-
+[NPC] Jayose: A last thing.
+[NPC] Jayose: Usually the initiates of the Azure Way are relentless students, but sometimes…
+[NPC Narrate] -Jayose tightens the lips.-
+[NPC] Jayose: Sometimes one of them changes his mind, and decides to join another Circle.
+[NPC] Jayose: In that case return the Azure Way wand to Levrus.
+[NPC] Jayose: Maybe he will grant you another opportunity.
+[NPC] Jayose: Now go, you know the road.
+
+[Reward] [XP] 8000; [Item] 1, Apprentice's Azure Way Staff; [Faction] 5, Azure Order
+

@@ -1,0 +1,48 @@
+[Questname] Search for the Old Coin
+[NPC Name] Menlil Toresun
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Becoming a Laanx Follower; [Item] 1, Rock Pick
+
+[To] Menlil Toresun
+
+[NPC Internal] Do you have any errands I can run for you?
+[NPC] Menlil: I may have something for you.
+[NPC] Menlil: I'm investigating the magical properties of the Laanx well behind me, and it seems that when we throw in certain items, Laanx listens to us.
+[NPC] Menlil: In some old books, I found that the usage of recent items is not very appreciated by Laanx, so I'm searching for some ancient items, particularly old coins.
+[NPC] Menlil: Those are not very easy to find for a man like me who spends all day at the temple.
+[NPC] Menlil: Travellers, archaeologists and explorers are more able to find old coins on the lower levels, in the Stone Labyrinths…in the ruins along the roads…that sort of thing.
+[NPC Narrate] -Menlil spreads his arms wide.-
+[NPC] Menlil: Will you search for an old coin and return it to me?
+[NPC Internal] It sounds like a good way to see some interesting places. I'll do it.
+[NPC] Menlil: Great.
+[NPC] Menlil: Thank you.
+[NPC] Menlil: I await your return.
+[NPC] Menlil: Bring me one old coin.
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] I'm looking to acquire an old coin. Would you happen to have one?
+[NPC] Nyshyn: Oh yes, in my explorations I have found many old items, including old coins, but I will only give one to you if you give me something that's useful for my research.
+[NPC] Nyshyn: My rock pick just broke, and I need a new one if I'm to continue with my research.
+[NPC] Nyshyn: If you bring me a new rock pick, I will give you one old coin.
+[NPC] Nyshyn: Agreed?
+[NPC Internal] That sounds fair enough.
+[NPC] Nyshyn: Good; come back with the rock pick.
+[NPC] Nyshyn: See you!
+[NPC Internal] Here you go! One rock pick.
+[NPC] Nyshyn: Great!
+[NPC] Nyshyn: Just what I was missing.
+[NPC] Nyshyn: Here is one old coin, as we agreed.
+[NPC] Nyshyn: See you around, Tabei.
+
+[To] Menlil Toresun
+
+[NPC Internal] I found an old coin for you.
+[NPC] Menlil: Ah, this seems like a very good item to offer Laanx!
+[NPC] Menlil: Maybe something will happen this time.
+[NPC] Menlil: Thanks very much.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Iron Hand
+

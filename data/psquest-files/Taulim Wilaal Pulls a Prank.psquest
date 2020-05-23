@@ -1,0 +1,65 @@
+[Questname] Taulim Wilaal Pulls a Prank
+[NPC Name] Taulim Wilaal
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Money] 50
+
+[To] Taulim Wilaal
+
+[NPC Internal] Anything interesting for me to do today?
+[NPC] Taulim: Well no, not re…
+[NPC] Taulim: Hmm…
+[NPC] Taulim: Although…
+[NPC Narrate] -Taulim snickers.-
+[NPC] Taulim: Well Sir, there might be one small favour you could do for me.
+[NPC] Taulim: If you are willing, that is.
+[NPC] Taulim: Are you?
+[NPC Internal] Yes, lets hear it.
+[NPC] Taulim: Ah.
+[NPC Narrate] -Taulim snickers again.-
+[NPC] Taulim: Splendid!
+[NPC] Taulim: You see, Sir, the life of a guard tends to be rather boring at times.
+[NPC] Taulim: This is a relatively safe part of the city, and not much is happening today.
+[NPC] Taulim: I'd so like a little laugh, and just happen to have a wonderful idea to make it so.
+[NPC] Taulim: You still interested in helping me out?
+[NPC Internal] Yes, sounds like fun.
+[NPC] Taulim: Great!
+[NPC] Taulim: Do you know the guard at the East Gates?
+[NPC] Taulim: His name is Moren.
+[NPC] Taulim: He pulled a prank on me the other day.
+[NPC] Taulim: I'd like to get even with him.
+[NPC] Taulim: But for that..
+[NPC] Taulim: I'll need a fake sword.
+[NPC] Taulim: Gregori uses wooden swords to train his gladiators.
+[NPC] Taulim: Could you tell him about the prank and pick one up for me?
+[NPC Internal] Yes, I can do that for you.
+[NPC] Taulim: Great, bring me a wooden sword then.
+[NPC] Taulim: I shall wait for you here.
+
+[To] Gregori Stevald
+
+[NPC Internal] We need a wooden sword for a prank.
+[NPC] Gregori: Hehehe, I see.
+[NPC] Gregori: Well that shouldn't be too much of a fuss.
+[NPC] Gregori: I've got plenty of those.
+[NPC] Gregori: My gladiators break them constantly.
+[NPC] Gregori: For 50 tria I'll give you one.
+[NPC Narrate] -He shows an empty hand.-
+[NPC Internal] Here is the payment.
+[NPC] Gregori: Wonderful.
+[NPC] Gregori: There you go, Sir.
+[NPC] Gregori: Enjoy.
+
+[To] Taulim Wilaal
+
+[NPC Internal] Your wooden sword.
+[NPC] Taulim: Ah!
+[NPC] Taulim: Splendid!
+[NPC] Taulim: Imagine the look on Moren's face when I pretend to strike him with a fake sword out of the blue!
+[NPC] Taulim: I bet he'll be turning all colours of the crystal!
+[NPC Narrate] -Taulim snickers again.-
+[NPC] Taulim: Here's a reward for the trouble: A bit for the sword, and a bit for the fun I'll have.
+
+[Reward] [Money] 1000; [XP] 8000
+

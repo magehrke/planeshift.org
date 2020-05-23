@@ -1,0 +1,234 @@
+[Questname] Right on the mine
+[NPC Name] Amidison Stronghand
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 5, Iron Ores; [Item] 5, Clacker meats
+
+[To] Amidison Stronghand
+
+[NPC Internal] I see many Stonebreakers in Hydlaa, why are they so busy?
+[NPC] Amidison: Stonebreakers are always busy.
+[NPC Narrate] -Amidison stares at you with a faint smile.-
+[NPC] Amidison: But, yes, lately I heard some rumors I'd like to check.
+[NPC] Amidison: Do you want to help me?
+[NPC Internal] Yes, why not, there could be something worth to learn.
+[NPC Narrate] -Amidison hair waves in the air while she nods.-
+[NPC] Amidison: Go to Hamel Warson, here in Hydlaa plaza.
+[NPC] Amidison: Ask him if he has any jobs for you.
+[NPC] Amidison: Do what he asks, and see if you can find anything.
+
+[To] Hamel Warson
+
+[NPC Internal] I'd like to work for you.
+[NPC] Hamel: So you've been listening to gossip?
+[NPC] Hamel: And you're assuming I'm searching for workers.
+[NPC Narrate] -Hamel raises a hand to stop any answer.-
+[NPC] Hamel: You want to be busy?
+[NPC] Hamel: I have no problem with that.
+[NPC] Hamel: I need provisions and minerals, you can get them for me.
+[NPC Internal] Let's start with the mineral, how much and where can I find it?
+[NPC Narrate] -Hamel nods.-
+[NPC] Hamel: I need five units of Iron Ore.
+[NPC] Hamel: You can buy it from any miner, here in Hydlaa.
+[NPC] Hamel: Otherwise you should ask various merchants.
+[NPC Internal] Which kind of provision, and how much?
+[NPC Narrate] -Hamel nods and raises his thumb.-
+[NPC] Hamel: Some food.
+[NPC] Hamel: Ask Rolara Hammersong, I have a sort of arrangement with her.
+[NPC Narrate] -Hamel raises his forefinger.-
+[NPC] Hamel: And some beer.
+[NPC] Hamel: For that ask Narwin Molstagh, alas it seems he doesn't like our arrangement anymore, maybe you'll need to be creative.
+[NPC] Hamel: And…
+[NPC Narrate] -Hamel looks into your eyes.-
+[NPC] Hamel: Don't ask anyone else.
+[NPC] Hamel: Only Rolara and Narwin.
+[NPC] Hamel: Return when you've both beer and food provisions.
+
+[To] Narwin Molstagh
+
+[NPC Internal] I have the five units of Iron for you.
+[NPC] Narwin: Oh, I'm so glad to see an honest Enkidukai.
+[NPC Narrate] -Narwin picks a big sack from within a group of bags on the floor, he gives it to you.-
+[NPC] Narwin: A honest payment for an awesome job well done.
+
+[To] Rolara Hammersong
+
+[NPC Internal] Hamel told me…
+[NPC Narrate] -Rolara stops working and snorts.-
+[NPC] Rolara: Hamel…
+[NPC] Rolara: Hamel…
+[NPC] Rolara: Hamel.
+[NPC] Rolara: How am I supposed to work so fast?
+[NPC] Rolara: I gave the last shipment to one of Hamel's delivery boys.
+[NPC] Rolara: I finished the raw materials, and I am late for the other contracts.
+[NPC Internal] There has to be something I can do for you.
+[NPC Narrate] -Rolara bits her lips, looking at you.-
+[NPC] Rolara: Yes.
+[NPC] Rolara: Sure.
+[NPC] Rolara: Let's try your way, go and find me five pieces of Clacker meat.
+[NPC] Rolara: I will prepare them for you.
+[NPC] Rolara: They will make nice provisions.
+[NPC Internal] Here is the Clacker meat you asked for.
+[NPC] Rolara: I don't like to work for Hamel.
+[NPC Narrate] -Rolara washes her hands in a bowl, then she takes the meat from you. She starts cutting and slicing it.-
+[NPC] Rolara: I'm doing it only because it seems the only thing to do to support us.
+[NPC] Rolara: No.
+[NPC] Rolara: Don't ask.
+[NPC] Rolara: Time is running.
+[NPC Narrate] -Rolara finishes packing the meat and hands you the provisions.-
+[NPC] Rolara: Here you go.
+
+[To] Narwin Molstagh
+
+[NPC Internal] Hamel sent me for the beer.
+[NPC] Narwin: I was expecting someone like you.
+[NPC Narrate] -Narwin sits on a little barrel.-
+[NPC] Narwin: But I will repeat what I told the last one.
+[NPC] Narwin: I quit.
+[NPC] Narwin: I don't work for Hamel anymore.
+[NPC Internal] May I ask why you want to quit?
+[NPC] Narwin: Why?
+[NPC] Narwin: Why are you asking me?
+[NPC Narrate] -Narwin raises a fist, his face twisted in rage.-
+[NPC] Narwin: Even though I don't mind how bad things are, there are some things we should never do.
+[NPC] Narwin: And if he dares to ask Nal…
+[NPC Narrate] -Narwin snorts and grins.-
+[NPC] Narwin: No.
+[NPC] Narwin: I will only quit, I will not betray anyone.
+[NPC] Narwin: This is none of your business.
+[NPC] Narwin: Leave me.
+
+[To] Nalri Grimtorr
+
+[NPC Internal] I need to persuade Narwin to give me some beer for Hamel, can you help me?
+[NPC] Nalri: So Narwin is still making trouble.
+[NPC Narrate] -Nalri puts her hand on her hip.-
+[NPC] Nalri: I will solve this.
+[NPC] Nalri: Tell him I don't want to quarrel again.
+[NPC] Nalri: He will do his work.
+[NPC] Nalri: As always.
+
+[To] Narwin Molstagh
+
+[NPC Internal] Nalri told me that you must do your job.
+[NPC] Narwin: Again.
+[NPC] Narwin: Nalri!
+[NPC Narrate] -Narwin sighs sadly.-
+[NPC] Narwin: I hate this attitude.
+[NPC] Narwin: Do you know why…
+[NPC Narrate] -Narwin stops talking and looks down.-
+[NPC] Narwin: Sorry, I can't break my word.
+[NPC] Narwin: But I want to let you know that I'm doing this only because otherwise Hamel will use Nalri in his schemes.
+[NPC] Narwin: People like Cilay Mecur would never accept behavior like this.
+[NPC Narrate] -Narwin grinds his teeth.-
+[NPC] Narwin: If Hamel asks you to go to Gugrontid don't follow his orders.
+[NPC] Narwin: Go there and talk with Gardr Keck instead.
+[NPC] Narwin: You will understand.
+[NPC Narrate] -Narwin stands up and gives you the barrel, his demeanor changing to a smirk.-
+[NPC] Narwin: Here, take this barrel.
+[NPC] Narwin: I call it…
+[NPC Narrate] -He moves his hand through the air mimicing a marquee.-
+[NPC] Narwin: Narwing Beer.
+[NPC] Narwin: Catchy, don't 'cha think?
+[NPC Internal] Who is Cilay Mecur?
+[NPC] Narwin: One who would never accept…
+[NPC Narrate] -Narwin chest enlarges while he inhales. Then he takes a long sigh.-
+[NPC] Narwin: A Keeper of the Hammer.
+[NPC] Narwin: I haven't seen him in a long time.
+
+[To] Hamel Warson
+
+[NPC Internal] The beer and the provisions you asked.
+[NPC] Hamel: That's very, very, nice of you.
+[NPC Narrate] -Hamel nods, licking his lips.-
+[NPC] Hamel: Please accept this as a reward for your job.
+[NPC Internal] Do you need anything else?
+[NPC] Hamel: Uhm.
+[NPC Narrate] -Hamel stares at you, his pupils growing wide.-
+[NPC] Hamel: I think that I can use someone like you.
+[NPC] Hamel: Honest and efficient.
+[NPC] Hamel: But this last work needs also discretion.
+[NPC Narrate] -Hamel raises a hand.-
+[NPC] Hamel: And if you accept you can't quit anymore from the job, I need you to finish this.
+[NPC] Hamel: Can you handle this?
+[NPC Internal] What to you mean by discretion?
+[NPC] Hamel: I need you to get something for me.
+[NPC] Hamel: But if other people find out about this…
+[NPC Narrate] -Hamel sighs and closes his eyes for a moment.-
+[NPC] Hamel: Some people want to steal ancient artifacts.
+[NPC] Hamel: Hammer artifacts.
+[NPC] Hamel: I found them, but they are too spread in a large territory.
+[NPC] Hamel: If anything slips your tongue my enemies will undestand everything.
+[NPC] Hamel: They know you work for me, and if you start asking they will put the pieces together.
+[NPC] Hamel: I can't risk that.
+[NPC Internal] Very well, tell me what you need.
+[NPC] Hamel: I will be brief.
+[NPC Narrate] -Hamel licks his lips.-
+[NPC] Hamel: Go to Gugrontid.
+[NPC] Hamel: Find a Nolthrir named Lyrus Lospur.
+[NPC] Hamel: She is expecting you.
+[NPC] Hamel: Take the package and return it to me.
+[NPC] Hamel: You can look in the package if you wish.
+
+[To] Lyrus Lospur
+
+[NPC Internal] Hamel sent me here.
+[NPC] Lyrus: I was expecting you.
+[NPC Narrate] -Lyrus takes out a list from her vest, checks it then looks at you. She takes a package from under a sheet.-
+[NPC] Lyrus: This is for you.
+
+[To] Gardr Keck
+
+[NPC Internal] Can you tell me something about Hamel Warson and his business here?
+[NPC] Gardr: Really?
+[NPC Narrate] -Gardr gives you a long stare.-
+[NPC] Gardr: You worked for him without knowing what he is up to?
+[NPC Narrate] -Gardr makes a sound that seems like squeaking rocks.-
+[NPC] Gardr: I will answer you: Hamel is waging war on Gugrontid.
+[NPC Internal] Waging war?
+[NPC] Gardr: Hamel spread word that he is gathering iron and provisions to send miners here.
+[NPC] Gardr: But you know what?
+[NPC] Gardr: He has no right to these mines.
+[NPC] Gardr: The city of Gugrontid will never allow him here.
+[NPC Internal] I'm sure Hamel will find an agreement with you.
+[NPC] Gardr: Gugrontid will never give away the mines, they're the main source of income of the city.
+[NPC Narrate] -Gardr shakes kras head.-
+[NPC] Gardr: Hamel knows that.
+[NPC] Gardr: So he's gathering provisions and iron.
+[NPC] Gardr: Iron to create weapons, and, you know, a large amount of provisions is usually an omen of a big army.
+[NPC Internal] There's surely something we can do.
+[NPC] Gardr: I heard a name, Narwin Molstagh.
+[NPC] Gardr: Seems he tried to stop Hamel, but Hamel has the community of dwarves behind him.
+[NPC Narrate] -Gardr closes kras eyes for a short moment.-
+[NPC] Gardr: No.
+[NPC] Gardr: The minority will never betray their brothers and sisters.
+[NPC Internal] What can I do to stop this?
+[NPC] Gardr: Hamel is bringing artifacts back to the dwarf community.
+[NPC] Gardr: Dwarves are pretty tied to the belongings of their ancestors.
+[NPC] Gardr: Alas these artifacts are on Kra's land.
+[NPC] Gardr: We will never find an agreement.
+[NPC Narrate] -Gardr eyes become darker.-
+[NPC] Gardr: But there's always bad guys in both factions.
+[NPC] Gardr: Some Kran asked for too big a price, blackmailing the dwarves, and some dwarves started to steal the artifacts.
+[NPC Narrate] -Gardr sighs.-
+[NPC] Gardr: I don't know who started it.
+[NPC] Gardr: I only know that the war is nearer every day.
+[NPC] Gardr: Only one request.
+[NPC] Gardr: Hamel will ask you to get a package for him.
+[NPC] Gardr: Don't bring it to him, bring it to me.
+[NPC Internal] This package is for you.
+[NPC] Gardr: You made the right choice, Enkidukai.
+[NPC Narrate] -Gardr takes a big sack from kras desk.-
+[NPC] Gardr: I want to show you the gratitude of Gugrontid.
+
+[To] Amidison Stronghand
+
+[NPC Internal] Seems Hamel is taking artifacts and wants to wage war against Gugrontid.
+[NPC] Amidison: Alas, you confirm the rumors I've heard lately.
+[NPC] Amidison: We didn't expect that.
+[NPC Narrate] -Amidison sighs.-
+[NPC] Amidison: I will inform the Octarch.
+[NPC] Amidison: I hope he can do something about this.
+[NPC] Amidison: Perhaps come to some agreement between the dwarfs and the Kran.
+[NPC] Amidison: Thank you for your help.

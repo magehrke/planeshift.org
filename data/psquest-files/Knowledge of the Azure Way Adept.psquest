@@ -1,0 +1,75 @@
+[Questname] Knowledge of the Azure Way Adept
+[NPC Name] Axomir
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Azure Way Adept; [Item] 1, Adept's Azure Way Wand; [Item] 1, Apprentice's Azure Way Bracers; [Skill] 70, Azure Way
+
+[To] Axomir
+
+[NPC Internal] Please accept my Way Wand as proof of being a student.
+[NPC] Axomir: Your testing will have to wait, YOU.
+[NPC] Axomir: Pawprech is still worried about his herd.
+[NPC] Axomir: I have other duties, so I want you to see what he needs.
+[NPC] Axomir: Tell him that you are there to help.
+
+[To] Pawprech Forsill
+
+[NPC Internal] I'm an Adept of Axomir, he sent me to give you a hand.
+[NPC] Pawprech: Well, I hope you're good enough to assist me.
+[NPC] Pawprech: Look.
+[NPC Narrate] -Pawprech's points to his Goujah.-
+[NPC] Pawprech: My animals have some sort of magical illness, it makes them blind, and it is not the first time.
+[NPC Narrate] -Pawprech's sobs and puts a hand on his forehead.-
+[NPC] Pawprech: This is caused by a toxin they eat, so I continue to change food, without results it seems.
+[NPC] Pawprech: But that's not the problem because someone from the Crystal Way Circle did come and cure the blindness.
+[NPC] Pawprech: Now my concern are for the younger ones, they still seem weak.
+[NPC] Pawprech: I want you to ensure they're safe, and check if they are fully recovered.
+[NPC Narrate] -Pawprech's looks over at his beasts before continuing.-
+[NPC] Pawprech: But I'm not sure I can trust you, are you really an Adept in the Azure Way?
+[NPC] Pawprech: Prove it.
+[NPC] Pawprech: Is there a Glyph or Glyph combination which allows me to know more about the condition of my Goujah?
+[NPC Internal] mind humanoid
+[NPC Narrate] -Pawprech nods, showing his approval.-
+[NPC] Pawprech: Nature Intuition, yes.
+[NPC] Pawprech: That is the spell's name.
+[NPC] Pawprech: May you cast it?
+[NPC] Pawprech: Or do I need to call Axomir again?
+[NPC Internal] [ YOU casts the spell: Nature Intuition on the Goujah.]
+[NPC Narrate] -Pawprech opens his eyes wide, looking the Goujah.-
+[NPC] Pawprech: Don't make me wait, please.
+[NPC] Pawprech: What can you tell me about my Goujah?
+[NPC Internal] [Truth] This one seems to feel dizzy and disoriented.
+[NPC] Pawprech: Blindness and the dizziness in younger ones are clear symptoms of an old disease.
+[NPC] Pawprech: I thought they became immune.
+[NPC Narrate] -Pawprech looks puzzled, then he lowers his head and looks at one of the Goujah.-
+[NPC] Pawprech: Well then, I know the cure.
+[NPC] Pawprech: Thank you very much, I really appreciate your efforts.
+[NPC] Pawprech: Please accept these.
+[NPC Narrate] -He hands you a bag full of coins and a glyph from a smaller bag.-
+[NPC] Pawprech: Give my greetings to Axomir.
+
+[To] Axomir
+
+[NPC Internal] Pawprech sends his greetings.
+[NPC] Axomir: You did well then, as I knew you would.
+[NPC] Axomir: We will call that your test for this part of your training.
+[NPC Narrate] -Axomir gives a warm smile.-
+[NPC] Axomir: Now hand me your bracers please.
+[NPC Internal] My bracers as requested.
+[NPC] Axomir: You will not be needing these any more.
+[NPC] Axomir: Now, before we move on I must ask you a question.
+[NPC] Axomir: Each Way of magic has One Way that opposes it.
+[NPC] Axomir: Glyphs of these two Ways are very difficult and dangerous to attempt to combine.
+[NPC] Axomir: Once you start the Master level testing in a Circle, you will not be allowed to advance far in the opposing Way Circle for safety reasons.
+[NPC] Axomir: Each Way also has two Ways that support it, combining easily and with little danger.
+[NPC] Axomir: For your test of knowledge, answer what two other Ways of magic support the Azure Way.
+[NPC Internal] Red Way and Crystal Way.
+[NPC] Axomir: That is correct.
+[NPC Narrate] -Axomir removes a set of bracers from a bag and hands them to you.-
+[NPC] Axomir: These bracers are more advanced than your last set, increasing your powers even more.
+[NPC] Axomir: You will need them as you continue your training.
+[NPC] Axomir: Once your skill is high enough, give me your wand once again and I will give you your final Adept's test.
+
+[Reward] [Money] 1000; [XP] 10800; [Item] 1, Dome glyph; [Item] 1, Adept's Azure Way Bracers; [Faction] 15, Azure Order
+

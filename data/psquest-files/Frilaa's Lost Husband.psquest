@@ -1,0 +1,101 @@
+[Questname] Frilaa's Lost Husband
+[NPC Name] Frilaa Bhundri
+[Checkup] 2017-04-09
+[Authors] Huarwar Eruera
+
+[Need] [Quest] None; [Money] 1000
+
+[To] Frilaa Bhundri
+
+[NPC Internal] Is there anything you need?
+[NPC] Frilaa: I don't need anything right now.
+[NPC] Frilaa: My husband will provide for me, I hope.
+[NPC MY] Frilaa Bhundri's tail lowers a bit and she looks away.
+[NPC Internal] Tell me about your husband.
+[NPC] Frilaa: My husband Jalar is one of the richest merchants in Hydlaa and he loves me very dearly.
+[NPC ME] Frilaa Bhundri looks back at you and thinks for a moment before continuing.
+[NPC] Frilaa: But.
+[NPC] Frilaa: well.
+[NPC] Frilaa: I am beginning to get worried about him.
+[NPC] Frilaa: I haven't seen him for several days, and usually he tells me before embarking on lengthy journeys.
+[NPC ME] Frilaa Bhundri looks about uneasily.
+[NPC] Frilaa: I don't mean to impose, but would you be willing to find him and ensure that he is safe?
+[NPC] Frilaa: I will make sure that he rewards you, of course.
+[NPC ME] Frilaa Bhundri nods, more to herself than to you.
+[NPC] Frilaa: Yes, yes.
+[NPC Internal] Sure I will help, where should I start?
+[NPC] Frilaa: Thank you so very much!
+[NPC] Frilaa: I am very grateful for your help.
+[NPC] Frilaa: My husband is always on good terms with the Vigesimi of Hydlaa.
+[NPC ME] Frilaa Bhundri smiles and looks proud of this fact before her expression grows anxious again.
+[NPC] Frilaa: Perhaps you should talk to her?
+[NPC] Frilaa: Please hurry back!
+
+[To] Amidison Stronghand
+
+[NPC Internal] I am enquiring about Jalar, on behalf of Frilaa.
+[NPC] Amidison: Ah yes, Jalar.
+[NPC] Amidison: He came to talk to me about a week ago.
+[NPC] Amidison: He seemed a bit troubled.
+[NPC ME] Amidison Stronghand closes her eyes and ponders for a minute.
+[NPC] Amidison: Ah, of course.
+[NPC] Amidison: He said he was going to Ojaveda 'on important business.' If you need to speak with him, I'd suggest that you ask about him there.
+[NPC] Amidison: Good luck on your journey, Sir.
+
+[To] Brado
+
+[NPC Internal] I am looking for Jalar; seen him around?
+[NPC] Brado: My server Fruntar mentioned something about that fellow a few days ago.
+[NPC] Brado: Why don't you ask him?
+
+[To] Fruntar Durek
+
+[NPC Internal] I am looking for Jalar.
+[NPC] Fruntar: The rich merchant?
+[NPC] Fruntar: Ah, yes, I think I saw a him a few days ago.
+[NPC] Fruntar: He was walking with some rogues on the Hydlaa road.
+[NPC] Fruntar: They seemed to be guarding him, but I only saw them for a minute.
+[NPC] Fruntar: They turned off not too far from here in Ojaveda.
+[NPC ME] Fruntar Durek looks toward the tavern's doorway with an anxious expression.
+[NPC] Fruntar: You don't think that maybe...
+[NPC] Fruntar: oh, oh dear, I hope he is all right.
+
+[To] Enack Lerenal
+
+[NPC Internal] I am looking for the merchant Jalar.
+[NPC] Enack: Ah, yes, the 'aristocrat.' 
+[NPC ME] Enack Lerenal laughs darkly.
+[NPC] Enack: Someone looking for him, eh?
+[NPC] Enack: Well, I do have some information, but as you know, I'm a merchant...
+[NPC] Enack: it will be one thousand tria if you want to hear what I know.
+[NPC] Enack: You going to pay it?
+[NPC Internal] Yes, I will pay.
+[NPC] Enack: All right then, hand it over.
+
+[Give] Enack Lerenal; 1000, Tria
+
+[NPC Internal] Here, take it.
+[NPC] Enack: Ah, thank you for your cooperation.
+[NPC] Enack: Basically, it looks like our aristocratic friend has managed to offend the rogues somehow.
+[NPC] Enack: I'm not entirely sure how this happened, but they are none too happy with him.
+[NPC] Enack: He might still be alive, but you won't be able to get to him now, as he's under heavy guard.
+[NPC] Enack: I'd recommend you tell whoever's looking for him that he was captured.
+
+[To] Frilaa Bhundri
+
+[NPC Internal] I have bad news. Rogues captured your husband.
+[NPC] Frilaa: Heavens no!
+[NPC] Frilaa: How could this happen?
+[NPC] Frilaa: I...
+[NPC] Frilaa: I must get help immediately.
+[NPC] Frilaa: The guard must be raised.
+[NPC] Frilaa: Perhaps the Vigesimi will help.
+[NPC] Frilaa: They were good friends...
+[NPC Narrate] -She pauses for a second, looking about dazedly.-
+[NPC] Frilaa: I promised you a reward, did I not?
+[NPC] Frilaa: Well, my husband isn't here to open the safe, I cannot give you as much as I might like, but I will give what I can.
+[NPC] Frilaa: Thank you for your help.
+[NPC Narrate] -She hands you some circles before returning to her rescue plans.-
+[NPC] Frilaa: Farewell, Sir!
+
+[Reward] [XP] 9400; [Money] 1297

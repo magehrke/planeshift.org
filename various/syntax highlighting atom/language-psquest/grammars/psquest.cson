@@ -1,0 +1,50 @@
+'scopeName': 'source.psquest'
+'name': 'Planeshift Quest'
+'fileTypes': ['psquest', 'psq']
+
+# Introduction
+# https://www.sitepoint.com/how-to-write-a-syntax-highlighting-package-for-atom/
+
+# Colors
+# https://macromates.com/manual/en/language_grammars.html#naming_conventions
+
+'patterns': [
+    {
+      'match': '.*\\[NPC Internal\\].*'
+      'name': 'string.quoted.single'
+    },
+    {
+      'match': '.*\\[To\\].*|.*\\[Give\\].*|.*\\[Time\\].*|.*\\[Info\\].*'
+      'name': 'keyword.control'
+    },
+    {
+      'match': '.*\\[Questname\\].*|.*\\[Authors\\].*|.*\\[NPC Name\\].*|.*\\[Checkup\\].*'
+      'name': 'constant.numeric'
+    },
+    {
+      'match': '(\\[Need\\]|\\[Reward\\])'
+      'name': 'constant.numeric'
+    },
+    {
+      'match': '.*\\[Way\\].*|.*\\[Possible Ways\\].*'
+      'name': 'variable'
+    },
+    {
+      # OR in need/reward
+      'match': '\\[OR\\]|\\[OR Begin\\]|\\[OR End\\]'
+      'name': 'variable'
+    },
+    {
+      # Way in need/reward
+      'match': '\\[Way \\d+\\]'
+      'name': 'variable'
+    },
+    {
+      'match': '\\[Repeatable\\]'
+      'name': 'variable'
+    },
+    {
+      'match': '\\[Quest\\]|\\[Faction\\]|\\[Money\\]|\\[XP\\]|\\[Item\\]|\\[Skill\\]|\\[Winch\\]|\\[Combat Move\\]|\\[Special\\]'
+      'name': 'string.quoted.single'
+    },
+]

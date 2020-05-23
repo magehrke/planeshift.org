@@ -1,0 +1,33 @@
+[Questname] Merrinez's Bad Mood
+[NPC Name] Merrinez Dholant
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Brintec Fur Research; [Item] 1, Leather Gloves
+
+[To] Merrinez Dholant
+
+[NPC Internal] Do you have a task for me?
+[NPC] Merrinez: Humph.
+[NPC] Merrinez: I work days and nights in the warehouse, and now some snipper wants me to set him some silly task, just so I can give away my hard earned wealth?
+[NPC] Merrinez: I have no need to feel important by employing people.
+[NPC] Merrinez: My only problem is that my work is too hard.
+[NPC Internal] Tell me about your problem.
+[NPC] Merrinez: The main problem is the physical work.
+[NPC] Merrinez: I've nearly ruined my paws with all this loading and unloading of giant boxes.
+[NPC] Merrinez: The working hours here are also too long, so I can get little rest.
+[NPC] Merrinez: At least the pay is good; otherwise, I wouldn't be here right now!
+[NPC] Merrinez: Anyway, I don't think you can do anything for me.
+[NPC] Merrinez: Goodbye.
+[NPC Internal] This might help your hands.
+[NPC] Merrinez: Hey, what's this…
+[NPC] Merrinez: gloves?
+[NPC] Merrinez: This is very kind of you.
+[NPC] Merrinez: They're so soft and precious!
+[NPC] Merrinez: I've never thought about gloves, but they can probably ease my work.
+[NPC] Merrinez: At least my hands will not be ruined!
+[NPC] Merrinez: Thanks.
+[NPC] Merrinez: I have to repay you for your help, so take this reward.
+
+[Reward] [Money] 9922; [XP] 16400; [Faction] 35, Crafting Association
+

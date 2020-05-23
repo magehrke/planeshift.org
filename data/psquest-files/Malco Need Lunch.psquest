@@ -1,0 +1,64 @@
+[Questname] Malco Need Lunch
+[NPC Name] Malco Mokkar
+[Checkup] 2017-11-24
+[Authors] Huarwar Eruera
+
+[Comments] I dont think you get 15 faction everytime you do this quest. Maybe someone can check this. Maybe only the first time, that you do it. H.E.
+[Comments] I am not sure about the Prequests. Is Joining the guards really needed? Are other quests needed? H.E.
+
+[Repeatable] Yes
+
+[Need] [Quest] Joining The Guards; [Item] 1, Water Pouch; [Item] 7, Coal Lump
+
+[Info] This quest is part of a repeatable two-quests-chain. The other quest is called "Malco Broke Hammer".
+
+[To] Malco Mokkar
+
+[NPC Internal] You look like you could use some help.
+[NPC] Malco: Sir want help Malco?
+[NPC] Malco: Malco have problem.
+[NPC] Malco: Malco need Sir help.
+[NPC Internal] Yes what do you need?
+[NPC] Malco: Malco need eat.
+[NPC] Malco: Malco no bring food.
+[NPC] Malco: Malco need Sir bring food.
+[NPC Internal] Well, what would you like to eat?
+[NPC] Malco: Malco eat fire rocks.
+[NPC] Malco: Bring seven fire rocks to Malco.
+[NPC] Malco: Get by magic man.
+
+[Give] Malco Mokkar; 7, Coal Lump
+
+[NPC Internal] Here you go, seven fire rocks.
+[NPC ME] Malco Mokkar takes the coal and pokes at it with kras oversized finger.
+[NPC] Malco: Malco like Sir.
+[NPC] Malco: Sir bring Malco good fire rocks.
+[NPC ME] Malco Mokkar stops to shove three lumps of coal into kras mouth at once.
+[NPC ME] Malco Mokkar chews twice and then swallows. The odour of sulphur wafts towards you.
+[NPC] Malco: Malco watch for Sir.
+[NPC] Malco: Malco want see Sir again.
+[NPC ME] Malco Mokkar shoves the final four lumps of coal into kras mouth and swallows.
+[NPC ME] Malco Mokkar burps.
+[NPC] Malco: Malco not feel so good.
+[NPC] Malco: Malco eat too fast.
+[NPC] Malco: Malco need drink.
+[NPC ME] Malco Mokkar waves you towards the village.
+[NPC] Malco: Sir get Malco drink.
+[NPC] Malco: Pub have good drink for Malco.
+
+[Give] Malco Mokkar; 1, Water Pouch
+
+[NPC Internal] A bit of water to cool the burn.
+[NPC ME] Malco Mokkar grabs the water pouch, sloshing some water from it as kra opens it.
+[NPC ME] Malco Mokkar pours the entire pouch down kras throat at once.
+[NPC ME] Malco Mokkar lets out a large sigh.
+[NPC] Malco: Malco feel more good now.
+[NPC] Malco: Burn gone.
+[NPC] Malco: Sir make Malco happy.
+[NPC] Malco: Malco give Sir gift.
+[NPC ME] Malco Mokkar digs around kras pockets and then opens kras hands in front of you.
+[NPC] Malco: Sir take these.
+[NPC] Malco: Sir make Malco happy.
+[NPC] Malco: Malco make Sir happy.
+
+[Reward] [XP] 10800; [Money] 2107; [Item] 2, Diamond Crystal; [Faction] 15, Kran

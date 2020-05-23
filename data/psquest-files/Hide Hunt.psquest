@@ -1,0 +1,34 @@
+[Questname] Hide Hunt
+[NPC Name] Bjorid Haakthir
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] quests
+
+[To] Bjorid Haakthir
+
+[NPC Internal] You look busy. Is there anything I can do to help?
+[NPC] Bjorid: Hmm, well let's see.
+[NPC Narrate] -Bjorid looks around quickly then nods.-
+[NPC] Bjorid: I'm in need of some hides for a new batch of carpets.
+[NPC] Bjorid: You up to the challenge of helping me get some?
+[NPC] Bjorid: There'll be some tria in it for you if so!
+[NPC Internal] Tell me what you need.
+[NPC] Bjorid: Ah, that is good to hear, so well…
+[NPC Narrate] -He starts to look you over.-
+[NPC] Bjorid: You look like you can fight.
+[NPC] Bjorid: Do you think you could go and do some hunting for me?
+[NPC Internal] Which hides do you need?
+[NPC] Bjorid: I have a certain customer who needs very hardwearing and rough looking fur for his carpets.
+[NPC] Bjorid: It seems an odd choice to me, but who am I to question it?
+[NPC] Bjorid: If you are up for it, you can bring me two vilenaut furs for me to use.
+[NPC Internal] Here are your furs.
+[NPC] Bjorid: Ahh, there you are!
+[NPC] Bjorid: Let's see what you have here.
+[NPC Narrate] -He stops to inspect the furs, grins and then passes you a few coins.-
+[NPC] Bjorid: This will keep me busy for a little while.
+[NPC] Bjorid: Thank you!
+
+[Reward] [Money] 7310; [XP] 15000; 
+

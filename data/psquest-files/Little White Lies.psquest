@@ -1,0 +1,83 @@
+[Questname] Little White Lies
+[NPC Name] Quasus Adyum
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Talad's eyes-and-ears
+
+[To] Quasus Adyum
+
+[NPC Internal] Hello, I am looking for some small jobs to complete.
+[NPC Narrate] -Quasus seems to look straight through you for a moment, lost in kras thoughts.-
+[NPC] Quasus: Greetings, Gemma.
+[NPC Narrate] -Quasus tilts kras head back and looks at the ceiling whilst continuing to speak.-
+[NPC] Quasus: Many times have I bent the truth to be kind, yet I have no regrets, for I am far surer of what is kind than of what is true.
+[NPC Narrate] -A strangely comforting silence fills the room for a moment before Quasus returns kras gaze to you.-
+[NPC] Quasus: I wonder…
+[NPC] Quasus: I have a dear friend, Tyrus Beaut, whom I have not spoken to for some time.
+[NPC] Quasus: Would you perhaps visit kra and ask kra to come see me?
+[NPC Internal] Yes, I know where kra is.
+[NPC Narrate] -Quasus smiles softly.-
+[NPC] Quasus: Thank you, just tell kra that Quasus wants to speak to kra.
+
+[To] Tyrus Beaut
+
+[NPC Internal] Quasus would like to speak with you.
+[NPC] Tyrus: Oh…
+[NPC] Tyrus: Quasus wants to speak to me, you say?
+[NPC] Tyrus: Well…
+[NPC] Tyrus: I shall have to pay kra a visit then.
+[NPC] Tyrus: I do thank you for enlightening me, oh benignant one.
+[NPC Narrate] -Tyrus smiles and holds up a finger, indicating for you to wait as kra flips through a well worn notebook.-
+[NPC] Tyrus: May I read you some of my poetry?
+[NPC] Tyrus: I would love to know what you think of it.
+[NPC Internal] Sure, I'd love to hear one of your poems.
+[NPC Narrate] -Tyrus grins widely and chuckles to himself.-
+[NPC] Tyrus: Very well then, prepare yourself!
+[NPC Narrate] -Tyrus clears his throat then speaks loudly.-
+[NPC] Tyrus: The undulating blaze dissipates the grain…
+[NPC] Tyrus: In the umbel-bearing night
+[NPC Narrate] -Tyrus pauses for dramatic effect.-
+[NPC] Tyrus: And a clacker makes bellowing dictum, on the starkers and meddlesome, maiden of the lake.
+[NPC Narrate] -Tyrus snickers.-
+[NPC] Tyrus: Well…
+[NPC] Tyrus: what did you think?
+[NPC] Tyrus: Good or bad?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] Not exactly my style.
+[NPC] Tyrus: Well…
+[NPC] Tyrus: that may be.
+[NPC Narrate] -Tyrus shrugs.-
+[NPC] Tyrus: Good or bad, it is what it is.
+[NPC] Tyrus: Tell Quasus that I will visit soon.
+[NPC Narrate] -Tyrus ushers you away with a wave of his hand.-
+
+[To] Quasus Adyum
+
+[NPC Internal] Tyrus will visit tomorrow.
+[NPC Narrate] -Quasus smiles gently.-
+[NPC] Quasus: Thank you my child, I will look forward to it.
+
+[Way] 2
+
+[NPC Internal] It was good.
+[NPC Narrate] -Tyrus bursts into laughter.-
+[NPC] Quasus: It is a fair-formed work, is it not?
+[NPC Narrate] -Tyrus grins mischievously.-
+[NPC] Quasus: Tell Quasus that you liked the poem.
+[NPC] Quasus: Farewell.
+
+[To] Quasus Adyum
+
+[NPC Internal] I liked the poem.
+[NPC Narrate] -A soft blue light fills the room.-
+[NPC] Quasus: You are indeed a kind person, YOU.
+[NPC] Quasus: Please take this as a gift from Talad…
+[NPC] Quasus: and please come visit me again soon.
+
+[Reward] [Money] 2107; [XP] 10800; [Item] 1, Apple; [Faction] 15, Conclave of the Glyphs
+

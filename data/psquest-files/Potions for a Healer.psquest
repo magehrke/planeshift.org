@@ -1,0 +1,66 @@
+[Questname] Potions for a Healer
+[NPC Name] Chired Idelall
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Making Magical Potions; [Skill] 30, Alchemy
+
+[To] Chired Idelall
+
+[NPC Internal] I am told you can help me further study alchemy?
+[NPC Narrate] -Chired looks you over and sizes you up.-
+[NPC] Chired: Hmmm…I remember you, dear.
+[NPC] Chired: You helped Liera with that cure.
+[NPC] Chired: I may be old, but I still remember the important things.
+[NPC Narrate] -Chired feebly chuckles.-
+[NPC] Chired: So, it seems you are ready for the next phase of your training, hmm?
+[NPC Internal] Yes, I am excited to find what comes next.
+[NPC] Chired: Well, if you have become comfortable making affinity potions, the next phase is all about healing potions: those to heal, restore, and cure poisons.
+[NPC] Chired: There are three levels of potions one can make: lesser potions, regular potions, and greater potions.
+[NPC] Chired: Naturally, each has a different potency and requires different skills to make.
+[NPC] Chired: As you would expect, a greater potion has the most effect but of course requires the most skill.
+[NPC] Chired: So you'll start with lesser potions.
+[NPC] Chired: I can show you how to make a Lesser Potion of Healing.
+[NPC] Chired: How does that sound?
+[NPC Internal] I've always wondered how a healing potion is made.
+[NPC Narrate] -Chired smiles warmly.-
+[NPC] Chired: Alright, once you have the materials, it's not that hard.
+[NPC] Chired: I'll give you a quick demonstration, then give you a Healer's Remedies book.
+[NPC] Chired: First, much like the affinity potions, most of these are made from herbal components and an essence, except there's no mineral element.
+[NPC] Chired: The essence is made from various animal parts combined with reagents.
+[NPC] Chired: In the case of a Lesser Potion of Healing, I'm going to take some cut Kingsfoil Leaf and combine it with a healing essence.
+[NPC Internal] What's in a healing essence?
+[NPC] Chired: A healing essence can be made with either an Arangma Egg Sac or a Trepor Egg Sac.
+[NPC] Chired: Utilizing a Trepor Egg Sac requires a bit more skill so start with the Arangma Egg Sac.
+[NPC] Chired: You can only get these from the Forest Arangma, you know.
+[NPC] Chired: First let's cut these Kingsfoil Leaves.
+[NPC Narrate] -Chired grabs a handful of Kingsfoil Leaves and cuts them all at once.-
+[NPC] Chired: Remember to consult your Herbal Remedies book for that.
+[NPC] Chired: Now we take an Arangma Egg Sac and pound it into a poultice.
+[NPC Narrate] -Chired grabs a nearby egg sac and shows a surprising amount of force as she uses a wooden mallet, hammering it into a fine paste.-
+[NPC] Chired: Now, what do you think we mix this poultice with to make a healing essence?
+[NPC Internal] spirit
+[NPC] Chired: Exactly, we combine the poultice with Spirit.
+[NPC Narrate] -Chired takes the poultice and combines it with Spirit on the table.-
+[NPC] Chired: There, now we have a mix of Arangma Egg Sac Poultice.
+[NPC] Chired: As usual, we take mixes and heat them up on the stove.
+[NPC Narrate] -Chired walks to the stove, takes a wooden stirrer and stirs the mix on the stove for a bit.-
+[NPC] Chired: Now we have two Healing Essences.
+[NPC] Chired: Next, we combine one with the cut Kingsfoil Leaf.
+[NPC Narrate] -Chired combines the two on the table, then moves to the stove once again and heats up the raw potion, stirring it with an iron stirrer into a Lesser Potion of Healing.-
+[NPC] Chired: And there we have it.
+[NPC] Chired: Get the idea, YOU?
+[NPC Internal] Yes, I think I know all I need to know.
+[NPC] Chired: Alright then, here is your book.
+[NPC Narrate] -Chired hands you a Healer's Remedies book.-
+[NPC] Chired: Give it a quick look-through and let me know if you have any questions.
+[NPC Internal] An interesting book, I will enjoy making these.
+[NPC] Chired: Very well then.
+[NPC] Chired: Continue practicing and buying training from myself or Liera.
+[NPC] Chired: After eighty lessons, Vladovic can train you, too.
+[NPC] Chired: Once you train with him, if you ever want to take your alchemy to the ultimate level, you might want to ask him if he has something special for you.
+[NPC Internal] Thank you for all your help, Chired.
+[NPC] Chired: Good luck to you, YOU.
+[NPC Narrate] -Chired gives a weak cough before giving you a wave.-
+
+[Reward] [Item] 1, Healer's Remedies book;

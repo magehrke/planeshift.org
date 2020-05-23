@@ -1,0 +1,46 @@
+[Questname] Wax for Tarela
+[NPC Name] Tarela Girshon
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Nalri Needs Hide Strips
+
+[To] Tarela Girshon
+
+[NPC Internal] Do you have a task I can help you with?
+[NPC] Tarela: Indeed.
+[NPC] Tarela: The Barn level has been having some trouble recently with forged documents.
+[NPC] Tarela: People there have started to refuse messages that are unsealed.
+[NPC] Tarela: Many of my customers on other levels aren't aware of this yet and are left scrambling for a bit of wax to seal their letters.
+[NPC] Tarela: I'd like to start keeping some on hand to help them out.
+[NPC] Tarela: A bit of extra service buys a lot of goodwill and repeat business.
+[NPC] Tarela: I believe Charisa Malod has some wax for sale.
+[NPC] Tarela: Would you fetch some for me?
+[NPC Internal] Sure.
+[NPC Narrate] -Tarela nods and hands you a hexa.-
+[NPC] Tarela: Here, that should be enough to cover your costs.
+[NPC Internal] Where can I find Charisa?
+[NPC] Tarela: I believe she has a home near the plaza.
+
+[To] Charisa Malod
+
+[NPC Internal] I need some wax please.
+[NPC Narrate] -Charisa smiles at you.-
+[NPC] Charisa: You are lucky.
+[NPC] Charisa: My supplier is late, but I do have a chunk left.
+[NPC] Charisa: It's enough to make me buy a rivnak and press my own wax, I tell you!
+[NPC] Charisa: I will sell it to you for five tria.
+[NPC Internal] counts the money and hands it over.
+[NPC Narrate] -Charisa hands you a chunk of wax.-
+[NPC] Charisa: Pleasure doing business with you.
+
+[To] Tarela Girshon
+
+[NPC Internal] I was able to get you some wax.
+[NPC] Tarela: Thank you, Diaboli.
+[NPC] Tarela: That should be enough to last me a good while.
+[NPC Narrate] -Tarela gives you a friendly smile.-
+[NPC] Tarela: You can keep the change.
+
+[Reward] [Money] 10; [XP] 9400; [Faction] 10, Crafting Association
+

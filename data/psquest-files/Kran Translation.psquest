@@ -1,0 +1,45 @@
+[Questname] Kran Translation
+[NPC Name] Talisa Tamariss
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Blessed Nettle Supply
+
+[To] Talisa Tamariss
+
+[NPC Internal] Hello lady Talisa.
+[NPC Narrate] -Talisa looks up from a book and gives you a smile.-
+[NPC] Talisa: Why hello Enkidukai.
+[NPC] Talisa: You come as if sent by the gods themselves.
+[NPC] Talisa: I require a book from a friend.
+[NPC] Talisa: Would you be a dear and collect it?
+[NPC Internal] It will be a pleasure helping you.
+[NPC Narrate] -Talisa smiles.-
+[NPC] Talisa: Marvellous.
+[NPC] Talisa: The book I require is a volume on Kran poetry.
+[NPC Narrate] -Talisa stares for a few seconds over Hydlaa before returning her gaze to you.-
+[NPC] Talisa: It is actually a work by Ondren Torr.
+[NPC] Talisa: Just tell kra I sent you.
+
+[To] Ondren Torr
+
+[NPC Internal] I was sent by Talisa.
+[NPC Narrate] -Ondren re-adjusts kras gem pouch before looking at you.-
+[NPC] Ondren: Talisa sent you?
+[NPC] Ondren: It must be for my book.
+[NPC] Ondren: Give me a moment and I will give it to you.
+[NPC Narrate] -Ondren searches kras backpack and removes a rather thick book.-
+[NPC] Ondren: Here, please take this to Talisa.
+[NPC] Ondren: I promised her I would give her my book for a short time.
+[NPC] Ondren: I love poetry and write them all in this book, so please be careful with it.
+
+[To] Talisa Tamariss
+
+[NPC Internal] Here is the book you requested.
+[NPC Narrate] -Talisa gently opens the book.-
+[NPC] Talisa: This will help me a great deal.
+[NPC] Talisa: Thank you for your kind service, Enkidukai.
+[NPC Narrate] -Talisa hands you a few coins.-
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Science Association
+

@@ -1,0 +1,85 @@
+[Questname] Deelor and the Rat Hat
+[NPC Name] Deelor Blackeye
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Making Leather Armor; [Item] 5, Rat Hides; [Item] 2, Rat Tails; [Money] 50
+
+[To] Deelor Blackeye
+
+[NPC Internal] Greetings, you perhaps are not in need of any assistance?
+[NPC] Deelor: As matteer ov fact, I could use help.
+[NPC] Deelor: As executioner, many dizlike mee for killink, but for me ees just job.
+[NPC] Deelor: Dey see my face clearly and hate.
+[NPC] Deelor: I need something to distract from face.
+[NPC] Deelor: Something exotic.
+[NPC] Deelor: Different.
+[NPC] Deelor: Somezing like hat made from rat fur!
+[NPC] Deelor: You geet eet for me, yes?
+[NPC Internal] A rat hat, I can't wait to see this!
+[NPC] Deelor: Veery goot, my freend!
+[NPC] Deelor: Jeyarp Grotemey een Hydlaa is goot friend and leathervorker who owes me favours.
+[NPC] Deelor: You tell heem Deelor send you and he treat you right.
+[NPC] Deelor: Danks and I veel revward you ven you return vith rat hat!
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] I was sent by a friend of yours, name of Deelor, and he wants a rat hat.
+[NPC] Jeyarp: You say Deelor sent you and he wants a what?
+[NPC] Jeyarp: A hat made from rat fur?
+[NPC] Jeyarp: Well, to be honest, I've never worked with rat fur but I'll give it a try.
+[NPC] Jeyarp: Five hides ought to be enough to work with to make such a hat.
+[NPC] Jeyarp: You return with those, and I'll do my best.
+[NPC] Jeyarp: I do owe him a favour after all.
+[NPC Internal] I was able to find these five rat hides.
+[NPC] Jeyarp: Alright, let's see here…
+[NPC Narrate] -Jeyarp applies some tannic acid to a piece of the hide, but it discolors.-
+[NPC] Jeyarp: Oh dear!
+[NPC] Jeyarp: I don't think my methods will work with rat fur.
+[NPC] Jeyarp: Please don't tell my wife or I'll be visiting Jayose's for leatherworking books forever!
+[NPC] Jeyarp: Now, what to do…
+[NPC] Jeyarp: Oh, I know.
+[NPC] Jeyarp: Sometimes I send overflow work to Hirenn's Hides in Ojaveda and he does the same for me.
+[NPC] Jeyarp: Just let him know I sent you; his process is different from mine and he will probably be able to tan these hides correctly.
+
+[To] Hirenn Darmeth
+
+[NPC Internal] Jeyarp, said that you could help me, as he is too busy.
+[NPC] Hirenn: Jeyarp's too busy to handle it, is he?
+[NPC] Hirenn: Fair enough.
+[NPC] Hirenn: It's been slow here.
+[NPC] Hirenn: I'll tan your hides, but it'll cost you fifty tria.
+[NPC] Hirenn: First, the hides.
+[NPC Internal] Here are the hides.
+[NPC] Hirenn: Rat fur?
+[NPC] Hirenn: Ha ha!
+[NPC] Hirenn: Okay, the customer is always right.
+[NPC] Hirenn: Now, the fifty tria fee.
+[NPC Internal] And here is your payment.
+[NPC] Hirenn: One moment please.
+[NPC Narrate] -Hirenn turns around and starts working on the hides, and a few minutes later turns back with some cleaned and cured furs.-
+[NPC] Hirenn: There you go.
+[NPC] Hirenn: You can just give those back to Jeyarp now.
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] Hirenn was able to tan the rat hides, here they are.
+[NPC] Jeyarp: Very well done.
+[NPC] Jeyarp: Time to make a hat.
+[NPC Narrate] -Jeyarp sews a cylindrical hat from the furs with the hand of an expert.-
+[NPC] Jeyarp: Hmm…something's missing.
+[NPC] Jeyarp: But what…oh, that's it!
+[NPC] Jeyarp: Get me two rat tails please.
+[NPC Internal] I just so happens that I have two rat tails with me.
+[NPC] Jeyarp: Marvellous.
+[NPC Narrate] -Jeyarp attaches the rat tails to the back of the hat.-
+[NPC] Jeyarp: Worthy of an Octarch!
+[NPC] Jeyarp: Well, a Vigesimi, at any rate.
+[NPC] Jeyarp: Give that to Deelor, we're even now.
+
+[To] Deelor Blackeye
+
+[NPC Internal] Here is your rat fur hat as asked.
+[NPC] Deelor: Is vunderful!
+[NPC] Deelor: Ees even beetter den imagininks!
+[NPC] Deelor: You are goot freend, Diaboli.

@@ -1,0 +1,101 @@
+[Questname] Introduction to Combat
+[NPC Name] Gregori Stevald
+[Checkup] 2017-04-01
+[Authors] Huarwar Eruera
+
+[Need] Nothing
+
+[To] Gregori Stevald
+
+[NPC Internal] I want to hone my skills in fighting. Can you help?
+[NPC ME] Gregori Stevald is sorting through some papers then looks at you.
+[NPC] Gregori: Hmmpf, let me guess, you want to become some great warrior?
+[NPC] Gregori: That's what everyone wants when they come here to the arena.
+[NPC] Gregori: I don't have time to...
+[NPC Narrate] -His expression changes a bit.-
+[NPC] Gregori: Ah well, sure, I suppose I could spare a few minutes and give you some advice.
+[NPC Internal] What is the best way to get started?
+[NPC] Gregori: Yes, that's a common question.
+[NPC] Gregori: The invasions, in particular, have people on alert.
+[NPC] Gregori: Many are practicing skills to defend our land from the creatures coming through the Stone Labyrinths, but it can be difficult to get started when you have nothing to start with.
+[NPC] Gregori: The key is to set small goals and reach them one by one.
+[NPC] Gregori: For instance, you're going to need to buy the equipment you need for a specific skill.
+[NPC] Gregori: Hopefully you were given a weapon and some other things on your way into Hydlaa, at our welcome area, as a bit of a head start?
+[NPC Internal] Yes, I got a weapon.
+[NPC] Gregori: Good.
+[NPC] Gregori: Harnquist also has a small collection of weapons he sells, but you can also use your fists if melee is more your style.
+[NPC] Gregori: I might even help you learn more about unarmed fighting eventually.
+[NPC] Gregori: For now, there is a guard by the plaza at the Winch gates named Percival; he will train you in melee and in using a sword as well.
+[NPC Internal] How do I improve a skill?
+[NPC] Gregori: By practicing it, as simple as that.
+[NPC] Gregori: To begin with, there are several categories of weapons and you need different weapons to get better in the different skills, but I'd recommend you start with one and get good at it and then, if you want to go back and try something else, you can go back to the others any time.
+[NPC] Gregori: There's swords, knives and daggers, axes, maces and hammers, polearms and spears, along with melee.
+[NPC] Gregori: Oh, there are ranged weapons too, such as bows.
+[NPC] Gregori: Pick your favourite weapon type and train it for a while, but don't forget defensive skills.
+[NPC] Gregori: You can practice various types of armour as well as shield handling.
+[NPC] Gregori: As you practice using a weapon or armour you will become better with it, the more you practice the better you will become.
+[NPC Internal] That's a lot of training.
+[NPC] Gregori: When you're just learning the basics it won't take long to get better, but it does take longer the better you want to get.
+[NPC] Gregori: If I were you, I'd start with the training dummies they have set up here in the arena to get a feel for how a weapon swings, and then I'd take on rats, though watch out for the diseased ones.
+[NPC] Gregori: You'd need some potions ready in case you, well, in case you catch something from them.
+[NPC] Gregori: There are rats here at the arena as well as in the Hydlaa sewers.
+[NPC ME] Gregori Stevald leans forward as though to tell you a secret.
+[NPC] Gregori: The benefit of taking on opponents like rats instead of just working with training dummies is loot.
+[NPC] Gregori: You can sell animal parts and accumulate tria that way.
+[NPC Internal] Where can I sell them?
+[NPC] Gregori: Here in the arena, there is a vendor in the outer halls, Liera Zireti.
+[NPC] Gregori: She buys animal parts and uses them for those potions she makes, don't ask me how.
+[NPC] Gregori: Animal hides are a separate matter.
+[NPC] Gregori: Those are often used in leathermaking, so you can ask around and test the open market and then you might get even more tria.
+[NPC] Gregori: Oh, and in Hydlaa, the barkeep at Kada-El's tavern also buys animal parts.
+[NPC Internal] The barkeep buys animal parts?
+[NPC] Gregori: That's right.
+[NPC] Gregori: Think about it; where's the first place a hunter will go after a long day in the wilderness?
+[NPC] Gregori: The tavern for some refreshments, right?
+[NPC] Gregori: So it became practical for the bartenders to buy animal parts.
+[NPC Internal] And where can I get a shield?
+[NPC] Gregori: You could get one from Harnquist.
+[NPC] Gregori: He almost always has a selection of them for sale.
+[NPC Internal] And how, exactly, do you practice armour?
+[NPC ME] Gregori Stevald chuckles a bit.
+[NPC] Gregori: Well, you don't train the armour itself, of course, you just train your ability to fight while wearing it.
+[NPC] Gregori: Leather armour is the lightest.
+[NPC] Gregori: Next is medium weight armour like chain mail and finally there's heavy plate armour.
+[NPC] Gregori: The heavier the armour, the more strength it will take to wear it, so I'd start with leather armour.
+[NPC] Gregori: You can buy a set at the Emporium, which is a small stand up the stairs by the Windowless Tower at the North gates.
+[NPC Internal] Can I get work as a hunter or fighter?
+[NPC] Gregori: Quite likely.
+[NPC] Gregori: There is a Ynnwn who came here and she was looking for help.
+[NPC] Gregori: She said she needed a skin.
+[NPC] Gregori: I think she is an artist and lives near the library.
+[NPC] Gregori: After that, Ojaveda is a good place to be and there is usually someone looking for hunters to hunt hides for them.
+[NPC] Gregori: Once you are skilled enough, maybe you can try and help with their rogue problem too.
+[NPC Internal] Are there organizations related to hunting or fighting?
+[NPC] Gregori: A few, for sure.
+[NPC] Gregori: Right here in the arena, you'll find mercenaries and gladiators.
+[NPC] Gregori: There are also the Dlayo gladiators, an elite group of Klyros fighters, but I am sure you will learn more about them elsewhere in time.
+[NPC Internal] Are there other arenas like this one?
+[NPC] Gregori: Yes, there are arenas in other towns, like Ojaveda and Amdeneir.
+[NPC] Gregori: They are small compared to this one.
+[NPC Internal] After rats, what should I fight next?
+[NPC] Gregori: In general, the bigger the opponent, the more difficult it is to fight.
+[NPC] Gregori: So a good rule of thumb is size.
+[NPC] Gregori: After rats become too easy for you, I suggest clackers, tlokes, or those gobbles in the sewers.
+[NPC] Gregori: Any time you take on a new opponent, always approach cautiously and be prepared to visit Dakkru's realm.
+[NPC ME] Gregori Stevald laughs.
+[NPC] Gregori: Either that or learn to run away quickly, but some things chase quite quickly as well.
+[NPC Internal] What about magic?
+[NPC ME] Gregori Stevald looks around.
+[NPC] Gregori: Careful, there.
+[NPC] Gregori: Some around here frown upon the use of magic, but yes, when used properly, there are some powerful spells out there that can take down the toughest of creatures.
+[NPC] Gregori: We even have some magic related tournaments here from time to time.
+[NPC] Gregori: You'll probably want to visit the Magic Shop in the forest to get started with that though.
+[NPC Internal] Thanks for the information.
+[NPC ME] Gregori Stevald begins looking at his papers again.
+[NPC] Gregori: Sure, good luck.
+[NPC] Gregori: Remember to always keep learning and growing and that includes base things like developing your strength and agility.
+[NPC] Gregori: Everything has an impact on how much damage you can deal in a fight as well as how much damage you can take in turn.
+[NPC ME] Gregori Stevald grins.
+[NPC] Gregori: Keep at it and some day you'll be taking on ulbernauts.
+
+[Reward] Nothing

@@ -1,0 +1,81 @@
+[Questname] The Crystal Way Adept
+[NPC Name] Tarmeen Alecheech
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Becoming a Crystal Way Adept; [Item] 2, Apprentice's Crystal Way Wands; [Item] 1, Lesser Potion of Healing; [Skill] 60, Crystal Way
+
+[Info] The Lesser Potion of Healing can be purchased from Sharven.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Please have my Way Wand as proof of being a student.
+[NPC] Tarmeen: I understand a congratulations is in order.
+[NPC] Tarmeen: You will soon no longer be an initiate in the Crystal Way.
+[NPC] Tarmeen: At no stage does this mean you should think you know it all either, you still have a long journey ahead of you.
+[NPC Narrate] -Tarmeen hands back one wand.-
+[NPC] Tarmeen: Return this to your fellow student while I prepare your new wand.
+[NPC Narrate] -Tarmeen shakes his head.-
+[NPC] Tarmeen: Now where was I?
+[NPC] Tarmeen: Oh yes, In your time with me I would require you to prove your commitment to the Crystal Way and myself as your trainer by doing small tasks every now and then.
+[NPC] Tarmeen: I expect you to do as I say without question.
+[NPC] Tarmeen: We will begin right now.
+[NPC] Tarmeen: Deliver this progress report to our Archmage, also on your way back get me a small bottle of healing potion.
+[NPC] Tarmeen: I will explain more later.
+
+[To] Govell Mihdren
+
+[NPC Internal] Here is the report from Tarmeen.
+[NPC] Govell: Congratulations on your achievment YOU.
+[NPC Narrate] -Govell sets the report aside.-
+[NPC] Govell: As you might have deduced by now, these reports you bring me are how I keep an eye on your progress within the Crystal Way.
+[NPC] Govell: I must say, so far I am pleased.
+[NPC] Govell: You are proving to be a exceptional student.
+[NPC] Govell: Perhaps one day you will be proficient enough to aid me in my studies to discover spells that utilize four glyphs.
+[NPC Narrate] -Govell grins.-
+[NPC] Govell: For now, you may return to Tarmeen to continue your training.
+
+[Give] Tarmeen Alecheech; 1, Lesser Potion of Healing
+
+[NPC Internal] Is this the potion you were after?
+[NPC] Tarmeen: Yes, thank you.
+[NPC] Tarmeen: Pawprech is having some trouble with his herd that appears to be Crystal Way related.
+[NPC] Tarmeen: I will get this over to him soon.
+[NPC Narrate] -Tarmeen removes a scroll and starts reading it.-
+[NPC] Tarmeen: There are two glyphs you will need to know about for the next section of your testing.
+[NPC] Tarmeen: These clues are a test of intelligence to deduce what you shall need.
+[NPC Narrate] -Tarmeen moves his finger down a list.-
+[NPC] Tarmeen: When you find yourself in the dark you might need some Light, but beware too much light reduces Sight.
+[NPC Narrate] -Tarmeen puts away the list.-
+[NPC] Tarmeen: Now, for your last task as an initiate, I want you to return your Lower Crystal Way Wand to Levrus.
+[NPC] Tarmeen: Return to me after you have done so and I will have your first Adept item ready.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Here is my wand.
+[NPC] Levrus: A wand?
+[NPC] Levrus: Now, what would I do with such a thing?
+[NPC] Levrus: I am in spectacular shape and my trousers fit quite nicely.
+[NPC] Levrus: Made by the finest tailors, you see.
+[NPC] Levrus: But, since you are offering it too me, I can not refuse.
+[NPC Narrate] -Levrus takes a familiar box from under his counter and drops your wand in, then shakes it from side to side.-
+[NPC] Levrus: What is this?
+[NPC] Levrus: I seem to have a few items in here already.
+[NPC] Levrus: And one is another wand.
+[NPC] Levrus: Imagine that.
+[NPC] Levrus: I do wonder where they keep coming from.
+[NPC] Levrus: Well, I suppose I can offer them to you.
+[NPC] Levrus: If you don't want either of them, take this pie.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] I have returned.
+[NPC Narrate] -Tarmeen removes a wand from a bag and gives it to you.-
+[NPC] Tarmeen: Here is your new wand, stronger and more powerful than your previous.
+[NPC] Tarmeen: Be sure you have returned the other lower wand to the person who gave it to you.
+[NPC] Tarmeen: Do not forget to train, for you will need a sufficient level of Crystal Way skill before returning and handing me your wand as a sign that you are ready to continue your testing.
+[NPC] Tarmeen: Also, I highly recommend obtaining and researching the two glyphs in my clues.
+[NPC] Tarmeen: Farewell, Adept.
+
+[Reward] [XP] 13600; [Item] 1, Adept's Crystal Way Staff; [OR Begin] [Item] 1, Apprentice's Blue Way Staff [OR] [Item] 1, Way Amulet [OR] [Item] 1, Pie [OR End]; [Faction] 1, Crystal Order
+

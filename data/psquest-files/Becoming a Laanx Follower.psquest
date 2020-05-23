@@ -1,0 +1,24 @@
+[Questname] Becoming a Laanx Follower
+[NPC Name] Menlil Toresun
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Charisa's Prayer; [Money] 1000
+
+[To] Menlil Toresun
+
+[NPC Internal] Do you need help with anything?
+[NPC] Menlil: If you want to be of service to the Laanx temple, you first need to be part of our community.
+[NPC] Menlil: Are you a registered follower of Laanx?
+[NPC Internal] I am not.
+[NPC] Menlil: It's very easy to become one.
+[NPC] Menlil: We require a donation of one thousand tria for our cause.
+[NPC] Menlil: Come back when you have such a donation, and I will register you in our book of Laanx followers.
+[NPC Internal] I have a donation for you.
+[NPC] Menlil: Very good.
+[NPC] Menlil: Thanks for the offering.
+[NPC] Menlil: I will add you to the list of Laanx followers.
+[NPC] Menlil: Thanks again, and may Laanx frighten the shadow from your path!
+
+[Reward] [XP] 9400; [Faction] 10, Iron Hand
+

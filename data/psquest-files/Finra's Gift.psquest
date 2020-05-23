@@ -1,0 +1,92 @@
+[Questname] Finra's Gift
+[NPC Name] Finra Neticlo
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Finra's Feast; [Item] 1, Iron Ore; [Item] 1, Gold Ore; [Item] 1, Diamond Crystal
+
+[To] Finra Neticlo
+
+[NPC Internal] Need anymore help?
+[NPC Narrate] -Finra looks at you curiously before his face breaks into a smile as he recognises you.-
+[NPC] Finra: You have helped Finra before!
+[NPC] Finra: Do it again?
+[NPC Internal] Yes, I am here to serve.
+[NPC] Finra: Good!
+[NPC] Finra: Finra needs a gift!
+[NPC] Finra: It must be amazing.
+[NPC] Finra: There is no gift like this gift.
+[NPC] Finra: Go to Charisa Malod and ask her about gifts, she'll know!
+[NPC] Finra: Go, please, Kran.
+
+[To] Charisa Malod
+
+[NPC Internal] I was told you know all about gifts.
+[NPC] Charisa: You want to know about gifts?
+[NPC] Charisa: Gifts for a lady, perhaps?
+[NPC Narrate] -Charisa smiles fondly.-
+[NPC] Charisa: Most of the jewellery my husband gives me comes from…
+[NPC Narrate] -Charisa looks around carefully making sure nobody can overhear.-
+[NPC] Charisa: Trasok Starhammer.
+[NPC] Charisa: He makes some pretty things in his free time.
+[NPC] Charisa: Most women would love something pretty.
+[NPC Narrate] -Charisa looks you up and down.-
+[NPC] Charisa: You aren't embarrassed, so I imagine you are asking for a friend then?
+[NPC] Charisa: No matter, just tell whoever it is to use Trasok…can't go wrong that way.
+
+[To] Finra Neticlo
+
+[NPC Internal] Charisa recommends Trasok for all your gifting needs.
+[NPC] Finra: Oh, Finra has heard of that!
+[NPC] Finra: Yes, it will be perfect.
+[NPC] Finra: Go to Trasok, get one for Finra.
+[NPC] Finra: Please. Finra will reward you well.
+[NPC] Finra: Finra wants necklace.
+[NPC] Finra: Ask Trasok about it for Finra.
+
+[To] Trasok Starhammer
+
+[NPC Internal] I am looking for a necklace please.
+[NPC Narrate] -Trasok gets a decidedly sour look on his face.-
+[NPC] Trasok: Aye, I make necklaces, but don't let the word get around, y'hear?
+[NPC Narrate] -Trasok's look brightens a bit.-
+[NPC] Trasok: Let's see…I've been working on one of real beauty but, I'll need your help to get the rest of the material I'll need to finish it.
+[NPC] Trasok: First, I'll need a lump of iron ore and a gold ore as well.
+[NPC] Trasok: Last I'll need a diamond.
+[NPC] Trasok: Got that?
+[NPC] Trasok: Bring those to me and I'll give it to you for free.
+[NPC] Trasok: Can't have it lying around here.
+[NPC Internal] gives Trasok one iron ore.
+[NPC] Trasok: Aye, this'll do nicely.
+[NPC] Trasok: You have the gold?
+[NPC Internal] gives Trasok one gold ore.
+[NPC] Trasok: Fragile stuff, but the women love it.
+[NPC] Trasok: I personally prefer silver…
+[NPC] Trasok: Oh, and the diamond?
+[NPC Internal] gives Trasok one diamond crystal.
+[NPC] Trasok: There we go, that should do it.
+[NPC] Trasok: Hmm, I should get to work…
+[NPC] Trasok: This is going to be beautiful!
+[NPC Narrate] -Trasok unlocks a small drawer and pulls out the necklace. Turning around he shields it from sight with his body as he puts on the finishing touches. After a few moments he hands it to you.-
+[NPC] Trasok: I've been working on it for a while.
+[NPC] Trasok: I just sent you to get the raw materials for my next masterpiece.
+[NPC] Trasok: Hope ya don't mind.
+[NPC Narrate] -Trasok laughs.-
+[NPC] Trasok: Either way, here's the trinket.
+[NPC] Trasok: Now you keep your mouth shut about this!
+
+[To] Finra Neticlo
+
+[NPC Internal] gives Finra the necklace that Trasok made.
+[NPC] Finra: It's perfect.
+[NPC] Finra: Finra is well pleased!
+[NPC] Finra: Thank you, Kran.
+[NPC] Finra: Finra heard your name was YOU.
+[NPC Narrate] -Finra smiles lightly.-
+[NPC] Finra: Finra hears things.
+[NPC] Finra: Thank you, YOU, here you go.
+[NPC] Finra: Finra will see you later, Finra is sure.
+
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Cabal of Whispers; 
+

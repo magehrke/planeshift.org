@@ -1,0 +1,97 @@
+[Questname] Crystal Way Glyph Training
+[NPC Name] Sharven Xant-Areth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 1, Crystal Way Apprentice's Wand; [Skill] 30, Crystal Way; [Item] 1, Energy glyph
+
+[Info] You get the glyph back.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Please accept my Way Wand as proof of being a student.
+[NPC] Sharven: Welcome back YOU.
+[NPC] Sharven: I can sense you have progressed well in your skills.
+[NPC] Sharven: I'm very busy, but I think we can't again postpone your training.
+[NPC Narrate] -Sharven gives you a friendly smile.-
+[NPC] Sharven: I trust you are ready for your single spell glyph test?
+[NPC] Sharven: Please show me the glyph that is used to cast Life Infusion.
+[NPC Internal] Here is the energy glyph you have asked for.
+[NPC] Sharven: Yes, this is one of the most special and widely used glyphs of the Way.
+[NPC] Sharven: Not only does it produce Life Infusion on its own, but you will also combine it with many other glyphs to produce more powerful spells.
+[NPC] Sharven: You will want to keep it with you at all times.
+[NPC] Sharven: Now, I would like to tell you about the Life Glyph.
+[NPC] Sharven: Do you have one?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] Yes, I come prepared.
+[NPC] Sharven: Good, very good.
+[NPC] Sharven: You are obviously on top of your studies.
+[NPC] Sharven: We will have to make this quick, though, as I am waiting for an important package.
+[NPC] Sharven: Please show me your Life Glyph so that I may inspect it.
+[NPC Narrate] -Sharven awaits the glyph.-
+[NPC Internal] Here is the Life glyph.
+[NPC Narrate] -Sharven turns the Glyph over in his hands, then hands it back to you after nodding.-
+[NPC] Sharven: It seems to be in very good condition.
+[NPC] Sharven: I like a Enkidukai that knows how to care for glyphs.
+[NPC] Sharven: Congratulations YOU, you have passed this first part my training.
+[NPC] Sharven: I would give you your just reward but, embarrassingly, it has not arrived yet.
+[NPC] Sharven: I beg your forgiveness, but Amidison hasn't sent the package I need.
+[NPC] Sharven: Please go and ask her about it.
+[NPC] Sharven: She will know exactly what you are looking for.
+
+[To] Amidison Stronghand
+
+[NPC Internal] Sharven was asking about his package.
+[NPC] Amidison: Yes, I was about to have it sent to him.
+[NPC Narrate] -Amidison gaze points to you, and she seems to study you carefully for some moments. Then she points to a package next to her.-
+[NPC] Amidison: He has a few items in here, as per his request.
+[NPC] Amidison: Some of them are urgent, so you had better get it to him quickly.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Here is the package you requested.
+[NPC] Sharven: Good!
+[NPC] Sharven: It has arrived.
+[NPC Narrate] -Sharven opens the package to remove a few cloth wrapped items and a set of bracers.-
+[NPC] Sharven: I have to go now, urgently so I can't give these to you with the proper ceremony you deserve.
+[NPC] Sharven: These are your bracers to prove you have passed this section of the training.
+[NPC] Sharven: Hand them to me next time when you have gained sufficiently more skill in the Crystal Way and are ready for your next test.
+[NPC Narrate] -Sharven pushes the bracers into your hands and busies himself with inspecting the cloth-wrapped bundle.-
+
+[Way] 2
+
+[NPC Internal] No, I was unable to obtain one.
+[NPC] Sharven: Not to fear, I know they are not so easy to get.
+[NPC Narrate] -Sharven wipes his brow with his forearm.-
+[NPC] Sharven: I do not have one, but I know some of them were once given to Amidison, the now Vigesimi of Hydlaa.
+[NPC] Sharven: I suggest asking her, hopefully she has not become too important for the Crystal Way.
+
+[To] Amidison Stronghand
+
+[NPC Internal] I need a Life Glyph, do you have one?
+[NPC] Amidison: Oh, here it is another student of the Crystal Way.
+[NPC Narrate] -Amidison gaze points to you, and she seems to study you carefully for some moments. Then she points to a package next to her.-
+[NPC] Amidison: I need that package taken to Sharven.
+[NPC] Amidison: In return for this favor I will give you the Life Glyph.
+[NPC] Amidison: The package is for Sharven anyways and I assume this is for your testing, so you might as well give them both.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Here is the package and the glyph.
+[NPC] Sharven: This Life Glyph casts Invigoration to restore some of your health.
+[NPC Narrate] -Sharven returns your glyph, then takes the package and reads the note stuck to it.-
+[NPC] Sharven: Why thank you, YOU.
+[NPC] Sharven: I was about to inquire on its whereabouts.
+[NPC Narrate] -Sharven opens the package to remove a few cloth-wrapped items and a set of bracers.-
+[NPC] Sharven: There are so many new students who needs their pair of these.
+[NPC] Sharven: Here are your bracers to prove you have passed this section of the training.
+[NPC] Sharven: Hand them to me next time when you have gained sufficiently more skill in the Crystal Way and are ready for your next test.
+[NPC Narrate] -Sharven pushes the bracers into your hands and busies himself with inspecting the cloth-wrapped bundle.-
+
+[Reward] [Way 1] [XP] 10800; [Item] 1, Apprentice's Crystal Way Bracers; [Faction] 1, Crystal Order
+[Reward] [Way 2] [Item] 1, Life glyph; [Item] 1, Apprentice's Crystal Way Bracers
+

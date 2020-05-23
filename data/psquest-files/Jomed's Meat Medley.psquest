@@ -1,0 +1,131 @@
+[Questname] Jomed's Meat Medley
+[NPC Name] Jomed Parcen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning to Cook; [Skill] 10, Cooking
+
+[To] Jomed Parcen
+
+[NPC Internal] Hello again Jomed, I hear you need help?
+[NPC] Jomed: Hi, yes…
+[NPC Narrate] -Jomed turns round to face you with his hands full of some sort of meat.-
+[NPC] Jomed: Ye want ta help me experiment?
+[NPC Internal] Sure, sounds like fun.
+[NPC] Jomed: Ha, great.
+[NPC Narrate] -Jomed turns back and stars hitting the meat with a mallet.-
+[NPC Narrate] -He says over his shoulder to you.-
+[NPC] Jomed: Allelia gets a nice flow of animal parts, not sure why she likes getting her hands so dirty.
+[NPC Narrate] -Jomed shrugs.-
+[NPC] Jomed: Anyway, that means that if I can make some tasty recipes I can get a steady flow of ingredients.
+[NPC Internal] What do you need help with then?
+[NPC] Jomed: What I be needin' are fresh ingredients.
+[NPC] Jomed: Ta make sure I have the best items so I know exactly what these recipes a mine will taste like when done right.
+[NPC] Jomed: Last thing I want is ta work with something gone off or half chewed up by some beast and just trimmed ta look good.
+[NPC Narrate] -Jomed turns round and places his mallet down.-
+[NPC] Jomed: Don't want the food coming back up and ending in a bucket after spending time cooking it.
+[NPC Internal] So what do you need first?
+[NPC] Jomed: With that there attitude I think you'll make a fine cook.
+[NPC] Jomed: So…
+[NPC] Jomed: What I need ye ta get is this.
+[NPC] Jomed: Five of them trepor wiggly feelers, five pieces of clacker meat and five clacker legs.
+[NPC] Jomed: Then I'll have some fun using some of this stuff ta go with ma recipes.
+[NPC Narrate] -Jomed smiles.-
+[NPC] Jomed: Might even get ye to help.
+[NPC Internal] So I got what you asked for, I think this stuff is still fresh enough.
+[NPC Narrate] -Jomed tosses a book at you.-
+[NPC] Jomed: Read that.
+[NPC] Jomed: I've wasted thirteen of these egg sacs trying to make the perfect omelette, but they all taste nasty.
+[NPC Narrate] -He then goes back to cooking.-
+[NPC Internal] I've had a look at it, now what?
+[NPC] Jomed: What I need is for ye ta make some items from the book for me.
+[NPC] Jomed: I need ta work out how ta make this omelette taste better.
+[NPC] Jomed: So, those clacker legs I asked ye ta get.
+[NPC] Jomed: I need you ta make some steamed clacker legs, should be in the book somewhere.
+[NPC] Jomed: Then I'll make the omelette and then we, well you, will take it ta someone ta taste it.
+[NPC] Jomed: This should be a great dish.
+[NPC Internal] Here, I've made the clacker legs for you.
+[NPC Narrate] -Jomed dusts his hands off.-
+[NPC] Jomed: Great, let me have a look.
+[NPC Narrate] -Jomed takes the food and examines it.-
+[NPC] Jomed: This is really good, it smells great.
+[NPC] Jomed: I've managed to make what I think is a great Omelette.
+[NPC] Jomed: When eaten with ye legs it should be even better.
+[NPC] Jomed: Here, I'd like ye ta take it ta Gregori.
+[NPC] Jomed: With everything he does in the arena I'm sure he will appreciate this..
+[NPC] Jomed: lovely meal.
+
+[To] Gregori Stevald
+
+[NPC Internal] Here, this is from Jomed and I.
+[NPC Narrate] -Gregori seems annoyed with something as he turns and looks at you.-
+[NPC] Gregori: What…
+[NPC Narrate] -He takes the package and opens it.-
+[NPC Narrate] -He immediately smiles as he smells the contents before he starts to eat with his fingers.-
+[NPC] Gregori: This is good, I really like these clacker legs, and it seems Jomed has been using his magic seasoning again.
+[NPC] Gregori: This isn't the first thing he has sent me, must know I get hungry.
+[NPC Narrate] -Gregori picks up a scrap of paper and scribbles some notes on it.-
+[NPC] Gregori: My thoughts on the food, for Jomed.
+
+[To] Jomed Parcen
+
+[NPC Internal] Gregori gave me a list of his thoughts on the food.
+[NPC Narrate] -Jomed quickly takes the list and reads it over.-
+[NPC] Jomed: Umm…
+[NPC] Jomed: Nicely cooked legs and eggs, nice seasoning…
+[NPC] Jomed: Uh…
+[NPC] Jomed: I would have said it was better than that.
+[NPC Narrate] -Jomed tosses the note onto the grill.-
+[NPC] Jomed: So just a few little things I'd like ye ta help me make and then I'm done for now.
+[NPC] Jomed: Cooking this much is tiring.
+[NPC] Jomed: It seems someone downstairs just asked for some Cheesy Succulent Stew and I guess ye can help, if ye want.
+[NPC Internal] I have the skill to help with all of it, the recipe looks easy.
+[NPC] Jomed: Well in that case I challenge ye ta cook off.
+[NPC] Jomed: Are you willing?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] I think after the legs I'm done cooking for now.
+[NPC] Jomed: Well I guess I can do this all by myself.
+[NPC] Jomed: Thanks for your help cooking and carrying.
+[NPC] Jomed: Be sure to keep training with me.
+[NPC] Jomed: If ye like, ye could go and check on Burdess Quirain near the plaza.
+[NPC] Jomed: I should have a fish delivery from her.
+[NPC] Jomed: Maybe something is holding her up ye could help with.
+[NPC] Jomed: Then just keep practicin'.
+[NPC] Jomed: Once ye are able to make both a Meat and Egg Omellete and a Wriggly Roll, ye might want to pop back over and see Archilaya.
+[NPC] Jomed: Eventually, she'll have another book for ye.
+
+[Way] 2
+
+[NPC Internal] I accept your challenge.
+[NPC] Jomed: Ok then, these are the rules.
+[NPC] Jomed: Whoever makes the best Cheesy Succulent Stew wins.
+[NPC Narrate] -Jomed turns round and begins to make his dish.-
+
+[Give] Jomed Parcen; 1, Cheesy Succulent Stew
+
+[NPC Narrate] -Jomed turns to face you looking rather confident.-
+[NPC] Jomed: Now let's see who made the best quality dish.
+[NPC Narrate] -Jomed begins to eat your dish and compare it against the one he made himself.-
+[NPC] Jomed: …
+[NPC Narrate] -Some time passes as he tries every bit and checks every ingredient.-
+[NPC] Jomed: It tastes…
+[NPC] Jomed: Very good, almost as good as mine.
+[NPC] Jomed: But mine is still clearly better.
+[NPC Narrate] -Jomed smiles proudly as he turns back the rest of his dish in the grill.-
+[NPC] Jomed: Thank you very much for everything you have helped me with today.
+[NPC] Jomed: I'm sure at some point I might have some more cooking you could help me with so check back some time later…
+[NPC] Jomed: Now, for your help I would like you to keep the cooking book and for trying to beat me I would also like to give you some of my winning stew.
+[NPC] Jomed: If ye like, ye could go and check on Burdess Quirain near the plaza.
+[NPC] Jomed: I should have a fish delivery from her.
+[NPC] Jomed: Maybe something is holding her up ye could help with.
+[NPC] Jomed: Then just keep practicin'.
+[NPC] Jomed: Once ye are able to make both a Meat and Egg Omellete and a Wriggly Roll, ye might want to pop back over and see Archilaya.
+[NPC] Jomed: Eventually, she'll have another book for ye.
+
+[Reward] [Way 1] [Money] 3391; [XP] 12200; [Item] 1, Meat; [Item] 1, Stew Recipes; [Faction] 20, Food Association
+[Reward] [Way 2] [Money] 5130; [XP] 13600; [Item] 1, Meat; [Item] 1, Stew Recipes; [Item] 1, Cheesy Succulent Stew; [Faction] 25, Food Association
+

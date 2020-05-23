@@ -1,0 +1,48 @@
+[Questname] Taemian Yangnk Needs an Anvil Moved
+[NPC Name] Taemian Yangnk
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Skill] 135, Strength
+
+[Info] Some quest is required to obtain this quest.
+
+[To] Taemian Yangnk
+
+[NPC Internal] Hello, I am looking for some work.
+[NPC] Taemian: I am a merchant, and you look like a traveler.
+[NPC] Taemian: We may be able to work together.
+[NPC] Taemian: I need a very heavy anvil moved from here to Harnquist and I do not wish to carry it myself.
+[NPC] Taemian: I get sweaty enough as it is.
+[NPC] Taemian: Do you care to hear more?
+[NPC Internal] Sure.
+[NPC] Taemian: Wonderful.
+[NPC] Taemian: If you bring this item to Harnquist he will give you an Assurance Note.
+[NPC] Taemian: Now I have to warn you, this anvil weighs 200 kilograms, so don't accept this task unless you are strong enough to handle it.
+[NPC] Taemian: Can you move this item for me?
+[NPC Internal] Sure, I can move that!
+[NPC] Taemian: Okay then, here is the anvil.
+[NPC] Taemian: Tell Harnquist I sent you so he knows who it's from, and he will give you an assurance note.
+[NPC] Taemian: Return with that note and give it to me.
+[NPC] Taemian: Careful; this anvil's heavy.
+[NPC Narrate] -Taemian wipes sweaty hands on his tunic again.-
+
+[To] Harnquist
+
+[NPC Internal] Taemian sent me, I have your anvil.
+[NPC] Harnquist: I have been waiting for that anvil from Taemian for a while; let me see it.
+[NPC Narrate] -Harnquist holds out his hands for the anvil.-
+[NPC Internal] It's all yours, be careful though, it's mighty heavy.
+[NPC] Harnquist: Oh my!
+[NPC] Harnquist: That is heavy.
+[NPC] Harnquist: Here is the Assurance Note for Taemian and a little extra from me.
+
+[To] Taemian Yangnk
+
+[NPC Internal] Here is the assurance letter from Harnquist, the anvil has been delivered.
+[NPC] Taemian: Great work.
+[NPC] Taemian: You did not strain yourself I hope?
+[NPC] Taemian: Well, here is your reward.
+
+[Reward] [Money] 7310; [XP] 15000; [Item] 1, Master Crafted Hammer
+

@@ -1,0 +1,97 @@
+[Questname] Tyrus Broke a String
+[NPC Name] Tyrus Beaut
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Gobble Legacy
+
+[To] Tyrus Beaut
+
+[NPC Internal] Hello again, do you have any jobs that need doing?
+[NPC] Tyrus: Greetings, Diaboli.
+[NPC] Tyrus: I do have need of you.
+[NPC] Tyrus: My harp has broken a string.
+[NPC] Tyrus: This is typical, even with the strongest of harps.
+[NPC] Tyrus: However, I have but one more string with which to repair it, so I require a spare.
+[NPC] Tyrus: I will reward your efforts.
+[NPC] Tyrus: Will you agree to fetch me one?
+[NPC Internal] Yes, where can i get one.
+[NPC] Tyrus: Please see Hirenn Darmeth.
+[NPC] Tyrus: He trades in animal hides and might be able to help.
+[NPC] Tyrus: Ask him about ulbernaut sinew.
+[NPC] Tyrus: My harp holds court often, so only the strongest strings have any chance of lasting any length of time.
+
+[To] Hirenn Darmeth
+
+[NPC Internal] I am looking for ulbernaut sinew, do you have any?
+[NPC] Hirenn: That, YOU, is a very difficult item to find.
+[NPC] Hirenn: I only get two or three pieces every few weeks, and I have just sold out.
+[NPC] Hirenn: The Mikana Trading company is a much bigger operation; you might want to ask Jirosh about it.
+
+[To] Jirosh Mikana
+
+[NPC Internal] I am looking for ulbernaut sinew, do you have any?
+[NPC Narrate] -Jirosh shakes his head.-
+[NPC] Jirosh: Sorry, Sir, I do have five of them, but they're spoken for by Brado.
+[NPC] Jirosh: I just haven't delivered them yet.
+[NPC] Jirosh: You might try asking him if he'll sell you one of his.
+
+[To] Brado
+
+[NPC Internal] I am looking for Ulbernaut sinew for Tyrus Beaut.
+[NPC Narrate] -Brado leans further forward, looking excited.-
+[NPC] Brado: Isn't that the Kran who put my granddam's old Serpent and Eagle tale to music?
+[NPC] Brado: I have been wanting to hear that, but this tavern would get torn to bits the minute I left, so I can't travel to hear it.
+[NPC Narrate] -Brado gets a calculating gleam in his eye.-
+[NPC] Brado: Having Tyrus Beaut perform that song in Ojaveda might get some of these young Enkidukai interested in something besides hunting, trading and causing trouble after a few too many drinks.
+[NPC] Brado: Tell you what, if you get the bard agree to play 'Serpent and Eagle' here, I'll give Tyrus a sinew for free, along with the usual performance fee.
+[NPC] Brado: Just ask the Kran if we have a deal.
+
+[To] Tyrus Beaut
+
+[NPC Internal] I can get a sinew but Brado requests you perform Serpent and Eagle in return.
+[NPC Narrate] -Tyrus ponders for a moment and then nods.-
+[NPC] Tyrus: An excellent arrangement!
+[NPC] Tyrus: That tale means a great deal to me.
+[NPC] Tyrus: I will be glad to share it with those who don't know it.
+[NPC] Tyrus: All Enkidukai should cherish their history, and it behooves me to help them do so.
+[NPC] Tyrus: Besides, Brado's offer is most generous.
+[NPC] Tyrus: Tell him I accept.
+
+[To] Brado
+
+[NPC Internal] Tyrus accepts your offer.
+[NPC] Brado: Hah!
+[NPC] Brado: This place'll be packed!
+[NPC] Brado: I'd best get the word out, and get a chair built for Tyrus.
+[NPC Narrate] -Brado winks and pulls a piece of parchment and a quill from within his desk and quickly pens a short note.-
+[NPC] Brado: Take this note to Jirosh and he'll give you one of my sinews.
+[NPC] Brado: Then you can take it straight to Tyrus.
+[NPC] Brado: That Kran's a professional; not one to skip out on an agreement.
+[NPC Narrate] -Brado smiles and waves goodbye.-
+[NPC] Brado: May your path be lit!
+
+[To] Jirosh Mikana
+
+[NPC Internal] Jirosh said I could have one sinew for Tyrus and gave me this to give you.
+[NPC Narrate] -Jirosh scans the note quickly.-
+[NPC] Jirosh: Interesting…
+[NPC] Jirosh: why just one sinew?
+[NPC Narrate] -Jirosh shakes his head.-
+[NPC] Jirosh: I will never understand artists.
+[NPC] Jirosh: I'll make sure to order more specifically for Tyrus with my next shipment; I bet kra will have use for them sooner or later.
+[NPC Narrate] -Jirosh rummages around in one of the many crates behind his counter and pulls out a tightly wrapped bundle, which he then hands to you.-
+[NPC] Jirosh: That's all in order.
+[NPC] Jirosh: Here's the sinew, and a good day to you.
+
+[To] Tyrus Beaut
+
+[NPC Internal] Finally, I have returned with your sinew!
+[NPC] Tyrus: A relief indeed!
+[NPC] Tyrus: While a bard might make due without an instrument in a pinch, I prefer to give this performance my very best.
+[NPC] Tyrus: I hope you will come take in the tale.
+[NPC Narrate] -Tyrus gives you a few coins.-
+[NPC] Tyrus: Have your well-earned reward, and take care, my good Diaboli.
+
+[Reward] [Money] 7310; [XP] 15000; [Faction] 30, Artists Association
+

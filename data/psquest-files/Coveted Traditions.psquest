@@ -1,0 +1,83 @@
+[Questname] Coveted Traditions
+[NPC Name] Relliom
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Finra's Feast
+
+[To] Relliom
+
+[NPC Internal] Anything for me to do?
+[NPC] Relliom: You came all the way down here to ask for work?
+[NPC] Relliom: Not many would brave such a filthy place.
+[NPC] Relliom: Unfortunately, I don't have anything for you presently.
+[NPC Internal] You should have got a note from Finra.
+[NPC Narrate] -Relliom brow creases in thought.-
+[NPC] Relliom: Ah, you are then.
+[NPC] Relliom: Ok, one of my friends could use your aid.
+[NPC] Relliom: But this should stay between us only, ok?
+[NPC Internal] Yes, who is it?
+[NPC Narrate] -Relliom smiles.-
+[NPC] Relliom: Things move apace, just as I would wish.
+[NPC] Relliom: Go to Edrich Sultov and tell him you are there to pick up the delivery.
+[NPC] Relliom: You are an individual I am sure I can…
+[NPC Narrate] -Relliom smile widens as he seems to savor his next words.-
+[NPC] Relliom: …trust with this valuable delivery.
+
+[To] Edrich Sultov
+
+[NPC Internal] I am here to pickup the delivery.
+[NPC Narrate] -Edrich nods in understanding.-
+[NPC] Edrich: Yes.
+[NPC] Edrich: I was expecting Relliom to send someone.
+[NPC] Edrich: He is very generous in his gifts.
+[NPC] Edrich: He sends these figurines to Hirenn Darmeth in Ojaveda for one of the traditional Enkidukai ceremonies.
+[NPC] Edrich: They are of great value, so mind that you keep it close to you.
+[NPC] Edrich: I would not want it to get stolen.
+[NPC] Edrich: Ervin Fromaad has already offered a lot of money to get one, but it is meant for a good cause, not for greedy folks.
+[NPC] Edrich: See that it gets to Ojaveda safely.
+
+[Possible Ways] 2
+
+[Way] 1
+
+[To] Hirenn Darmeth
+
+[NPC Internal] gives Hirenn the jade enkidukai figurine.
+[NPC Narrate] -Hirenn caresses the figurine with widened eyes and careful hands.-
+[NPC] Hirenn: Oh!
+[NPC] Hirenn: Would you look at that!
+[NPC] Hirenn: I am stunned every time I lay eyes on one of these beauties.
+[NPC] Hirenn: My family takes care of preparing them for our pack's ceremonies.
+[NPC] Hirenn: They are a link to our past, you see.
+[NPC] Hirenn: Thank you so much.
+[NPC Narrate] -Hirenn bows.-
+
+[Way] 2
+
+[To] Ervin Fromaad
+
+[NPC Internal] Have you seen the jade figurine?
+[NPC] Ervin: Yes, I am very interested in acquiring that figurine to add to my collection.
+[NPC] Ervin: I will pay a lot for it.
+[NPC] Ervin: Are you considering selling it?
+[NPC Internal] Yes, why not.
+[NPC Narrate] -Ervin ignores the figurine in your hands and stares deeply into your eyes.-
+[NPC] Ervin: All that remains now is for you to hand me the figurine.
+[NPC] Ervin: Do so, and you will gain what your heart wishes.
+[NPC Narrate] -Ervin stands still with one hand outstretched.-
+[NPC Internal] gives Ervin the jade enkidukai figurine.
+[NPC] Ervin: Interesting…
+[NPC Narrate] -Ervin spares a glance at the figurine.-
+[NPC] Ervin: …it seems someone's priorities have changed in my favour.
+[NPC Narrate] -Ervin tucks the figurine out of sight.-
+[NPC] Ervin: Well, it is mine now so we need not dwell.
+[NPC] Ervin: Here is the payment.
+[NPC] Ervin: Oh…
+[NPC] Ervin: and Relliom might want to see this as well.
+[NPC Narrate] -Ervin hands you some coins and a small note.-
+
+[Reward] [Money] 2107; [XP] 10800
+[Reward] [Way 1] [Faction] 15, Enkidukai
+[Reward] [Way 2] [Item] 1, Bird Note; [Faction] 20, Cabal of Whispers
+

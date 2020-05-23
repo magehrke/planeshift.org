@@ -1,0 +1,108 @@
+[Questname] Trasok's Ancient Sword
+[NPC Name] Trasok Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Trasok Special Axe; [Item] 4, Trepor Hearts
+
+[To] Trasok Starhammer
+
+[NPC Internal] Need help with anything?
+[NPC] Trasok: Some time ago, an adventurer returned from the Stone Labyrinths with treasure, including magical items.
+[NPC] Trasok: I managed to identify and fix them all except one: a magical sword.
+[NPC] Trasok: It seems to be resilient to normal identification, and I need someone to find out more about it.
+[NPC] Trasok: Can you help me?
+[NPC Internal] Yes, it sounds like a challenge.
+[NPC] Trasok: Very good.
+[NPC] Trasok: I think that the best person to help you with this is Grok Idon.
+[NPC] Trasok: Kra is a merchant and an alchemist of some repute that can usually be found on the road between Hydlaa and the Eagle Bronze Doors.
+[NPC] Trasok: Please find kra and give kra this sword.
+
+[To] Grok Idon
+
+[NPC Internal] Can you identify this sword?
+[NPC Narrate] -Grok takes the sword and twists the blade in the light.-
+[NPC] Grok: This looks like a very interesting weapon.
+[NPC] Grok: Who needs it identified?
+[NPC Internal] Trasok Starhammer sent me to see you.
+[NPC] Grok: Ah, Trasok, I've made some good deals with him.
+[NPC] Grok: So let’s get at it, I will try my best to understand the nature of this sword.
+[NPC Narrate] -Grok rubs the top of an opal ring on a finger on kras left hand.-
+[NPC Narrate] -The sword starts to tremble.-
+[NPC Narrate] -It escapes Grok's hands and slashes at kra in a wide arc.-
+[NPC Narrate] -It seems to have little effect on kras stone body. After the slash, the sword drops to the ground, and remains still.-
+[NPC] Grok: What in the name of Talad was that?
+[NPC] Grok: The sword attacked me!
+[NPC] Grok: It seems to have a will of its own!
+[NPC] Grok: Was that a trick by you?
+[NPC Internal] No, I am as surprised as you are.
+[NPC] Grok: Very well, I trust you.
+[NPC] Grok: There is one thing I felt during the process.
+[NPC] Grok: Even if it may sound strange, the sword tried to interrupt the identification.
+[NPC] Grok: It tried to slash me so the identification would fail for lack of concentration.
+[NPC] Grok: The problem now is, how can we continue with this?
+[NPC] Grok: The only person that can help is probably Levrus Dahrenn.
+[NPC] Grok: Go to him and tell him about the ancient sword.
+[NPC] Grok: There's a chance that he can help you.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I have something to tell you about a sword.
+[NPC] Levrus: Let me hear your story about this sword.
+[NPC Narrate] -Levrus listens, his eyebrows twitching as he does so.-
+[NPC] Levrus: Seems very interesting.
+[NPC] Levrus: Intelligent weapons are extremely rare, but clearly possible.
+[NPC] Levrus: I've encountered some in my career.
+[NPC] Levrus: This one seems to have a strong will and some magical protection to avoid full identification.
+[NPC] Levrus: Is it very important to know more about this sword?
+[NPC Internal] Yes, it is a task I have to see through.
+[NPC] Levrus: Well, if you really care, then I can think of but one possibility.
+[NPC] Levrus: What I suggest is you somehow take the sword to the Death Realm, where all magic is different, so that perhaps the sword's enchantment will not hold.
+[NPC] Levrus: Surely one of its denizens will know of it.
+[NPC] Levrus: I wish you luck, and hope to see you alive again one day.
+
+[To] Oriven Thamel
+
+[NPC Internal] I have a story about a sword.
+[NPC] Oriven: I see.
+[NPC Narrate] -Oriven listens patiently.-
+[NPC] Oriven: That's quite a tale.
+[NPC] Oriven: So you want me to identify it?
+[NPC Internal] Yes please, it is important.
+[NPC] Oriven: This information will not come without a price.
+[NPC] Oriven: Bring me four Trepor hearts, and I will identify the weapon for you.
+[NPC Internal] The hearts you requested.
+[NPC] Oriven: Great, that's exactly what I needed for my next experiment.
+[NPC] Oriven: I can identify the sword for you now.
+[NPC] Oriven: Give me the sword.
+[NPC Internal] Here's the sword.
+[NPC] Oriven: A few minutes, now be quiet.
+[NPC Narrate] -Oriven starts casting a spell. Some time passes.-
+[NPC] Oriven: Yes, I've learned a lot about it.
+[NPC] Oriven: The sword is indeed intelligent, and it seems to be currently sleeping or dead, possibly because of the Dark Crystal's presence.
+[NPC] Oriven: I was thus able to scan its inner magic.
+[NPC] Oriven: I can tell you that the name of the sword is 'Heenarty,' which means 'Black Horizon.' The sword is surely evil, and I will not suggest any mortal hold it for more than few hours, lest it corrupt his or her soul.
+[NPC Narrate] -Oriven frowns, then continues.-
+[NPC] Oriven: I've also learned that the magic word 'Kluutarius' seems to activate a spell on the wielder, making him reveal his inner thoughts.
+[NPC] Oriven: That's the reason why I'm handling it from the edge!
+[NPC] Oriven: Take the sword, and do with it what you will.
+
+[To] Trasok Starhammer
+
+[NPC Internal] The swords name is Heenarty.
+[NPC] Trasok: I see.
+[NPC] Trasok: That's an interesting name for a sword.
+[NPC] Trasok: Sounds ancient.
+[NPC] Trasok: Is the sword good, evil, or neutral?
+[NPC Internal] Evil, with a heart as black as an eclipse.
+[NPC] Trasok: Ah, that's what I was thinking, and your finding is very important to me.
+[NPC] Trasok: I don't want to keep any evil weapons around me or my shop.
+[NPC] Trasok: Keep it.
+[NPC] Trasok: Perhaps in your travels you'll find someone who can purify, disenchant, or destroy it safely.
+[NPC] Trasok: Take this item as well.
+[NPC] Trasok: It was given to me by the one who found the sword.
+[NPC] Trasok: It is likely evil as well.
+[NPC] Trasok: Thanks again!
+
+[Reward] [XP] 15000; [Item] 1, Darkness glyph; [Item] 1, Ancient Sword; [Faction] 30, Smith Association
+

@@ -1,0 +1,96 @@
+[Questname] The Crystal Way Apprentice
+[NPC Name] Sharven Xant-Areth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Govell Mihdren Needs Tattoo Ink; [Item] 1, Apprentice's Crystal Way Wand; [Skill] 30, Crystal Way
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Please have my Way Wand as proof of being a student.
+[NPC] Sharven: A new student?
+[NPC] Sharven: Welcome.
+[NPC] Sharven: I am very busy, but will be the first Circle member to oversee your training.
+[NPC Narrate] -Sharven nods, giving you back the wand.-
+[NPC] Sharven: I may need you to do small tasks for me from time to time during your training so I don't fall behind in my other works.
+[NPC] Sharven: The first thing I need from you is to give a message to Trasok Starhammer.
+[NPC Internal] What is the message?
+[NPC] Sharven: Wait a second, I have a lesson for you.
+[NPC] Sharven: The Crystal Way Order helps people.
+[NPC] Sharven: And I mean every one.
+[NPC] Sharven: So if you ever find anyone in need, even a Dark Way member, help him.
+[NPC] Sharven: We will fight only if someone is directly harming someone.
+[NPC] Sharven: Understood?
+[NPC Internal] Yes I understand.
+[NPC] Sharven: Very well, because you will bring the message to one member of the Red Way order.
+[NPC] Sharven: To Trasok Starhammer.
+[NPC] Sharven: Tell him that I'll be glad to help him.
+[NPC] Sharven: I'm waiting for him here.
+[NPC] Sharven: And return here when you're done.
+
+[To] Trasok Starhammer
+
+[NPC Internal] Sharven wants to help you, he is waiting for you at his place.
+[NPC] Trasok: What?
+[NPC Narrate] -Trasok eyes opens wide.-
+[NPC] Trasok: He dares to summon me?
+[NPC Narrate] -Trasok stares you, angrily.-
+[NPC] Trasok: And he sent you!
+[NPC] Trasok: A student?
+[NPC Narrate] -Trasok grinds his' teeth. Then he takes a long breath.-
+[NPC] Trasok: Very well.
+[NPC] Trasok: Tell to him that he is an hypocrite.
+[NPC] Trasok: I am the one who was waiting for him to come.
+[NPC] Trasok: And what did he do?
+[NPC] Trasok: He summons me!
+[NPC] Trasok: Return to him and tell Sharven to come.
+[NPC Internal] What is the problem?
+[NPC] Trasok: The problem is deep and unforgivable hipocrisy.
+[NPC Narrate] -Trasok growls, slowly.-
+[NPC] Trasok: I have headache and I have difficult to sleep these days.
+[NPC] Trasok: Nothing serious, but I'd like some easy healing.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Trasok says that he want you to go there and help him.
+[NPC Narrate] -Sharven smiles, sadly.-
+[NPC] Sharven: I thought he changed from the last time, but he is the same.
+[NPC] Sharven: Nevermind.
+[NPC] Sharven: Do not think about him anymore.
+[NPC] Sharven: If you have nothing else to report, I'd like you to meet our Archmaster.
+[NPC Internal] Is Trasok your friend?
+[NPC] Sharven: Did he tell you so?
+[NPC Narrate] -Sharven sobs.-
+[NPC] Sharven: Yes.
+[NPC] Sharven: It is true.
+[NPC] Sharven: We took different paths but we use to know each other.
+[NPC] Sharven: He is older and he thinks I owe him obedience.
+[NPC Internal] Are you going to help Trasok?
+[NPC] Sharven: I am glad you asked me this.
+[NPC Narrate] -Sharven nods, proudly.-
+[NPC] Sharven: Remember this lesson.
+[NPC] Sharven: You can help people only if they help themselves first.
+[NPC] Sharven: Otherwise your deeds will be vain.
+[NPC] Sharven: Trasok suffers no serous injury, and if he really wanted my help he should come here.
+[NPC Internal] I have nothing else to report.
+[NPC Narrate] -Sharven removes a sheet from under his notes.-
+[NPC] Sharven: Deliver this report to our Archmage Govell Mihdren.
+[NPC] Sharven: I am certain he would like to introduce you to the Crystal Way.
+[NPC] Sharven: You may return and continue to assist me with some tasks when you have finished with Govell.
+[NPC] Sharven: You will also need few more Glyphs for your next tests.
+[NPC] Sharven: If I recall correctly, Jardet Forsil has one that you will need.
+[NPC] Sharven: I suggest helping him until he thinks you are worthy of the gift.
+
+[To] Govell Mihdren
+
+[NPC Internal] Here is the report as requested from Sharven.
+[NPC] Govell: Always a pleasure to meet a new student of the Crystal Way.
+[NPC Narrate] -Govell sets the report aside.-
+[NPC] Govell: I do not have any task for you at this time.
+[NPC] Govell: You may return to Sharven.
+[NPC] Govell: You are required to hand him your Crystal Way wand to show that you are ready.
+[NPC] Govell: You must have sufficient training before he may give you your next test, though.
+[NPC] Govell: You might like to also go and see Gregori, he needs some help with getting enchanted gems.
+
+[Reward] [XP] 9400; [Faction] 10, Crystal Order
+

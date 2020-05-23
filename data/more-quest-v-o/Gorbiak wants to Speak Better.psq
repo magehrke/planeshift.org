@@ -1,0 +1,116 @@
+[Questname] Gorbiak wants to Speak Better
+[NPC Name] Gorbiak
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Gorbiak Disease; [Money] 300; [Item] 5, Meat
+
+[Info] You can purchase the meat from Jomed.
+
+[To] Gorbiak
+
+[NPC Internal] Gertas lent olaat?
+[NPC] Gorbiak: Lent raol…speak you-talk…grobta…find way me how!
+[NPC] Gorbiak: Grubba…ask common book?
+[NPC] Gorbiak: Laareg!
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I am looking for the Gobble Common Book.
+[NPC] Levrus: I don't have any books to help gobbles communicate in common.
+[NPC] Levrus: I doubt they can even read.
+[NPC] Levrus: If you can provide me such a text, I can enchant it so that merely holding it will impart its secrets as if it was read.
+[NPC] Levrus: I'm not sure why you're consorting with gobbles, but it is possible and will cost three hundred tria.
+[NPC] Levrus: You can give me the book in advance.
+
+[To] Lori Tryllyn
+
+[NPC Internal] I am looking for a Gobble to Common translation Book.
+[NPC] Lori: I don't know of any books that could help a gobble speak common.
+[NPC] Lori: Talisa Tamariss is a translator, why not ask her?
+
+[To] Talisa Tamariss
+
+[NPC Internal] I am looking for a book of Yliakum common for gobbles.
+[NPC] Talisa: A book of Yliakum common for gobbles?
+[NPC] Talisa: What a concept!
+[NPC] Talisa: But I've never been one to back down from a challenge.
+[NPC] Talisa: Why, I'll even do it for the price of lunch!
+[NPC] Talisa: Get me five hunks of meat from the tavern, and we'll call it price paid.
+[NPC Internal] Lunch is served, Miss Tamariss.
+
+[Possible Ways] 2
+
+[Way] 1
+[Info] This part is optional
+
+[NPC Narrate] You want raw meat?
+[NPC] Talisa Tamariss ponders.
+[NPC] Talisa Tamariss: You’re right, that doesn’t sound appetizing does it?
+[NPC] Talisa Tamariss: Please ask Jomed to grill some meat and make me five sandwiches.
+[NPC] Talisa Tamariss: I’ll have one or two now and save the rest for later.
+[NPC] Talisa Tamariss: Yes, that sounds great.
+[NPC] Talisa Tamariss: In the mean time, I’ll get started.
+
+[To] Jomed Parcen
+
+[NPC Internal] Talisa wants 5 grilled meat sandwiches.
+[NPC] Jomed Parcen: Ah yes, Talisa.
+[NPC] Jomed Parcen: Five?
+[NPC] Jomed Parcen chuckles.
+[NPC] Jomed Parcen: She must me hungrier’n’a starvin’ consumer.
+[NPC] Jomed Parcen: Comin’ right up.
+[NPC] Jomed Parcen: Just wait here a moment.
+[NPC] Jomed Parcen takes five chunks of meat and sets them on the grill. He slices some bread as they sizzle up. After a few minutes he puts them on the bread, adds some trimmings, wraps them up, and puts them in a sack.
+[NPC] Jomed Parcen: Thar ye go!
+[NPC] Jomed Parcen: Let’s see, each sandwich is about 15 tria, so that’ll be 75 tria ‘n all.
+[NPC Internal] [You hand Jomed 75 tria.]
+[NPC] Jomed Parcen hands you the sack.
+[NPC] Jomed Parcen: Enjoy…’er rather hope Talisa enjoys.
+
+[To] Talisa Tamariss
+
+[NPC Internal] Lunch is served, Miss Tamariss.
+[NPC] Talisa Tamariss takes the sack and smiles.
+[NPC] Talisa Tamariss: Mmmmm, this smells great.
+[NPC] Talisa Tamariss: Jomed is a fantastic cook.
+[NPC] Talisa Tamariss can hardly wait as she rushes to unwrap a sandwich and bite into it.
+[NPC] Talisa Tamariss: Much better…I was so hungry I didn’t get much done yet.
+
+[Way] All
+
+[NPC] Talisa: Alright.
+[NPC] Talisa: Now let me think.
+[NPC Narrate] -Talisa pulls out a blank book and an inkwell, and begins scrawling down words and phrases with lightning speed as she eats.-
+[NPC] Talisa: It's a tome worthy of any literate gobble.
+[NPC] Talisa: Are there any?
+[NPC] Talisa: Would they need a magic book?
+[NPC] Talisa: All the same, take it with Talad's blessing.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I've brought the book. Will you enchant it for me?
+[NPC] Levrus: Fascinating.
+[NPC] Levrus: And now, the three hundred tria fee.
+[NPC Internal] I have your payment ready.
+[NPC] Levrus: Very well.
+[NPC] Levrus: Let the enchantment commence!
+[NPC Narrate] -Levrus pulls out a glyph and waves it over the tome, chanting. The book glows a soft red for a brief moment.-
+[NPC] Levrus: It is complete.
+[NPC] Levrus: Now anyone will be able to speak gobble, or any gobble speak common.
+
+[To] Gorbiak
+
+[NPC Internal] Can you understand me now?
+[NPC] Gorbiak: Ah?
+[NPC Narrate] -Gorbiak takes the book and his expression brightens.-
+[NPC] Gorbiak: Good.
+[NPC] Gorbiak: I speak good now?
+[NPC] Gorbiak: I see I do.
+[NPC] Gorbiak: You friend!
+[NPC] Gorbiak: Thank you!
+[NPC] Gorbiak: You speak common to me now?
+[NPC] Gorbiak: You take!
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Seeds of Wildwood
+

@@ -1,0 +1,64 @@
+[Questname] Murago Puntjal's Quick Favour
+[NPC Name] Murago Puntjal
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Money] 50
+
+[To] Murago Puntjal
+
+[NPC Internal] May I do something for you?
+[NPC] Murago: My copy of 'Symbols of Talad' has worn thin from too much reading.
+[NPC] Murago: However, I can't go without such an important book for my studies.
+[NPC] Murago: Kindly ask the librarian for a new copy.
+[NPC] Murago: I'll reimburse you when it's in hand.
+[NPC] Murago: Can you do that for me?
+[NPC Internal] Yes, I have time I can do it.
+[NPC] Murago: Thank you.
+[NPC] Murago: The library's not far; ask for the book by name.
+[NPC] Murago: It shouldn't take long.
+[NPC] Murago: I'll be right here.
+
+[Info] This part is optional. You can talk to Lori directly.
+
+[To] Jayose
+
+[NPC Internal] Hello, can I get a copy of the book 'Symbols of Talad'.
+[NPC] Jayose: Ask my assistant, please.
+[NPC] Jayose: I'm a busy man.
+[NPC Narrate] -Jayose points upward.-
+
+[To] Lori Tryllyn
+
+[NPC Internal] Can I get a copy of the book 'Symbols of Talad'.
+[NPC] Lori: Normally, I'd lend it to you and you can pay Jayose to copy it, but the only copy has been lent to a Kran named Kimlorm.
+[NPC] Lori: Come to think of it, it's due today.
+[NPC] Lori: If you see Kimlorm, you might be able to retrieve it.
+
+[To] Kimlorm
+
+[NPC Internal] Hi, you've got a book, 'Symbols of Talad', I'm here to pick it up for Lori.
+[NPC] Kimlorm: It's due?
+[NPC] Kimlorm: I can't make it on time.
+[NPC] Kimlorm: By all means, take the book.
+[NPC] Kimlorm: Thanks for the reminder.
+
+[To] Jayose
+
+[NPC Internal] I went and picked up the book as Lori asked, here you go.
+[NPC] Jayose: Thank you for returning this.
+[NPC] Jayose: If you'd like a copy, there's a fifty Tria processing fee.
+[NPC Internal] YOU gives Jayose fifty tria.
+[NPC Narrate] -Jayose holds up a glyph over the book and a blank book, muttering an incantation. One of the quills animates and writes a copy of the book incredibly quickly.-
+[NPC] Jayose: And there it is.
+[NPC] Jayose: Please come again.
+
+[To] Murago Puntjal
+
+[NPC Internal] Okay, here is your copy of the book.
+[NPC] Murago: Ah, yes, in excellent condition no less.
+[NPC] Murago: Talad's blessing upon you.
+[NPC] Murago: Kindly take this.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Conclave of the Glyphs
+

@@ -1,0 +1,83 @@
+[Questname] Helping Aydken
+[NPC Name] Aydken
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Gorbiak wants to Speak Better
+
+[To] Aydken
+
+[NPC Internal] You look like you could use some help.
+[NPC Narrate] -Aydken looks at you askance, then speaks quickly and in bursts, hesitating often over even the simplest of words.-
+[NPC] Aydken: You-want to help-me?
+[NPC Narrate] -Aydken eyes light up with glee and he bounces lightly on the spot.-
+[NPC] Aydken: Aydken-is-smart Gobble.
+[NPC] Aydken: Masters behave Aydken good, gives-him-snacks.
+[NPC] Aydken: Masters-has needs, makes Aydken do-stuff.
+[NPC] Aydken: Enkidukai does stuff instead?
+[NPC] Aydken: Aydken gives shinies he found.
+[NPC Internal] I'll see what I can do.
+[NPC Narrate] -Aydken smiles happily then bounces lightly.-
+[NPC] Aydken: Good thanks, Enkidukai.
+[NPC] Aydken: Masters wants Aydken to-go-to Boralis.
+[NPC] Aydken: Needs pickup dagger-fluid shipment.
+[NPC] Aydken: Says-say 'Brew of Brews' to Boralis.
+[NPC Narrate] -Aydken smiles innocently and holds up a few coins.-
+[NPC] Aydken: Aydken gives these to Enkidukai if Enkidukai gives stuff to Aydken.
+
+[To] Boralis Voladrand
+
+[NPC Internal] I'm here to pick up the Brew of Brews.
+[NPC Narrate] -Boralis looks at you curiously.-
+[NPC] Boralis: You are new…
+[NPC] Boralis: doesn't matter.
+[NPC] Boralis: Look, the stuff is in Hydlaa but I can't give it to you here.
+[NPC] Boralis: If you hadn't realized we're surrounded by guards.
+[NPC] Boralis: I gave it to a friend of mine, Darven.
+[NPC] Boralis: Tell him what you told me and he'll give it to you.
+[NPC] Boralis: Probably after making you play a stupid game.
+[NPC Narrate] -Boralis give a small sigh and shakes his head.-
+[NPC] Boralis: He's a good friend just a little..
+[NPC] Boralis: hard to deal with.
+[NPC] Boralis: Just go, hurry up.
+
+[To] Darven Bounash
+
+[NPC Internal] I was sent to fetch the Brew of Brews.
+[NPC] Darven: Ah, yes, Boralis said somebody would come to pick this up.
+[NPC Narrate] -Darven looks you up and down then grins lightly.-
+[NPC] Darven: You look like a smart one …
+[NPC] Darven: Besides, I need to make sure you are clever enough not to mess this up, right?
+[NPC] Darven: Of course, I do.
+[NPC] Darven: Hmm.
+[NPC Narrate] -Darven rubs his chin as he looks at you. After a moment or two he grins and snaps his fingers.-
+[NPC] Darven: I've got it, a riddle!
+[NPC] Darven: Are you ready?
+[NPC Internal] Go ahead, I'm ready.
+[NPC] Darven: Here it is then.
+[NPC Narrate] -Daven clears his throat.-
+[NPC] Darven: If three is to ten then the number of me is to eleven.
+[NPC] Darven: In order to make use of me you must have a gift from a god.
+[NPC Narrate] -Daven grins at you.-
+[NPC] Darven: Guess away.
+[NPC Internal] magic ways
+[NPC] Darven: Exactly!
+[NPC] Darven: Great isn't it?
+[NPC] Darven: I love word games…
+[NPC] Darven: three letters in ten, six letters in eleven, six ways of magic.
+[NPC] Darven: And you need to have a glyph to be able to use it and they are surely gifts from the great Talad.
+[NPC] Darven: Anyways, here you go, Sir, and something for playing my little game as well.
+[NPC Narrate] -Darven hands you a small box and a few coins.-
+[NPC] Darven: Farewell.
+
+[To] Aydken
+
+[NPC Internal] I ran that errand. You were right; I did have to play a game to get it.
+[NPC] Aydken: Goodgood!
+[NPC Narrate] -Aydken grabs the box from you and bounces slightly.-
+[NPC] Aydken: Here are shinies!
+[NPC Narrate] -Aydken gives you a handful of coins.-
+[NPC] Aydken: Master Rook is-want-to talk to-you.
+
+[Reward] [Money] 4391; [XP] 12200; [Faction] 1, Seeds of Wildwood
+

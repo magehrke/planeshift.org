@@ -1,0 +1,48 @@
+[Questname] Forging Platinum Steel Blades
+[NPC Name] Harnquist
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Working with Rare Metals; [Item] 1, Platinum Steel Stock
+
+[To] Harnquist
+
+[NPC Internal] Hi! I have learned much since the last time!
+[NPC] Harnquist: Hey YOU.
+[NPC] Harnquist: Good to see you.
+[NPC] Harnquist: I'm proud of you then, but what exactly did you learn?
+[NPC Internal] I learned how to create special metals! Unique ones.
+[NPC] Harnquist: Oh, you went further that I thought then.
+[NPC] Harnquist: Very interesting indeed.
+[NPC] Harnquist: I have some knowledge of rare metals, those are very expensive, but extremely powerful.
+[NPC] Harnquist: Their hardness is giving unique properties to the weapons and armors forged.
+[NPC Internal] I need a book to learn how to forge those metals into useful items, can you help me?
+[NPC] Harnquist: I can help you, but I need some of those metals for myself in return.
+[NPC] Harnquist: Alright?
+[NPC Internal] Alright, we can discuss how many you need.
+[NPC] Harnquist: Perfect!
+[NPC] Harnquist: Then I will share with you some of my knowledge on this.
+[NPC Internal] How many minerals you need?
+[NPC] Harnquist: I have to forge a pretty large sword for the Vigesimi, he will use it mainly as display in tournaments, and for that I need two platinum steel stocks.
+[NPC] Harnquist: I have one already, but I'm missing the second one.
+[NPC] Harnquist: I can provide you the book and all information to create a platinum steel weapons if you bring me one platinum steel stock.
+[NPC] Harnquist: Remember a stock and not an ingot!
+[NPC Internal] That's a pretty expensive request. It will take me some time to collect it, but I really want that book and knowledge, so it's a deal!
+[NPC] Harnquist: Great!
+[NPC] Harnquist: Just hand over to me the platinum steel stock when you have it.
+[NPC Internal] I've forged the rare stock! Here it is.
+[NPC] Harnquist: Perfect timing, I can use it for the Vigesimi order.
+[NPC] Harnquist: Now here is your book.
+[NPC Internal] Can you summarize for me how it works?
+[NPC] Harnquist: Sure.
+[NPC] Harnquist: It's simpler than you think.
+[NPC] Harnquist: If you want to create a longsword, you have to heat the stock as usual, and then shape it with the hammer into an alpha blade.
+[NPC Internal] Anything else you can tell me?
+[NPC] Harnquist: The rare metals are more difficult to work with, so be sure to practice a lot and get good training.
+[NPC] Harnquist: Then with hammering and heating you go through beta and delta blades.
+[NPC] Harnquist: Then to the assembly phase.
+[NPC] Harnquist: The handle is the same as a normal sword, just the blade is made of rare metals usually.
+[NPC] Harnquist: The best way is really to try it yourself!
+
+[Reward] [Money] 12958; [XP] 17800; [Item] 1, Forging Platinum Steel Blades; [Faction] 75, Smith Association
+

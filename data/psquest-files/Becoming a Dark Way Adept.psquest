@@ -1,0 +1,39 @@
+[Questname] Becoming a Dark Way Adept
+[NPC Name] Oriven Thamel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Dark Way Glyph Training; [Item] 1, Dark Way Apprentice's Bracers; [Skill] 30, Dark Way; [Item] 10, circles; [Item] 1, Mind glyph
+
+[Info] You get the glyph back.
+
+[To] Oriven Thamel
+
+[NPC Internal] Please except my Way Bracers as proof of being a student.
+[NPC] Oriven: And so the mortal student returns.
+[NPC] Oriven: Hand me the Dark Way glyph called Negate.
+[NPC Narrate] -Oriven awaits your glyph.-
+[NPC] Oriven: You do have the glyph, don't you?
+[NPC] Oriven: If not hand me ten circles and I will give you mine.
+[NPC Internal] One, two, three, …, ten.
+[NPC Narrate] -Oriven shakes his head.-
+[NPC] Oriven: You come here so ill prepared?
+[NPC Narrate] -Oriven hands you your glyph.-
+[NPC] Oriven: Now purify it and hand it back.
+[NPC Narrate] -YOU purify Negate-
+[NPC Internal] I come prepared, one Negate glyph.
+[NPC Narrate] -Oriven nods.-
+[NPC] Oriven: Now bring me the glyph that combines with this one to create the spell that drains the target's mental abilities and lends them to the caster.
+[NPC Narrate] -Oriven hands the Negate Glyph back and awaits the requested glyph.-
+[NPC] Oriven: I will give you a hint, it is not a Dark Way Glyph.
+
+[Give] Oriven Thamel; 1, Mind Glyph
+
+[NPC Internal] I have that glyph right here.
+[NPC] Oriven: Not bad for a mortal, you have past this part of your training.
+[NPC] Oriven: Here is your robe to complete your set.
+[NPC] Oriven: Show me this robe when I no longer offer training.
+[NPC] Oriven: And go and see that dwarf Thorian, I keep hearing he is pestering our way for some enchanted crystals.
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Negate glyph; [Item] 1, Apprentice's Dark Way Robe; [Faction] 20, Dark Order
+

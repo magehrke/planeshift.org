@@ -1,0 +1,72 @@
+[Questname] Apprenticeship Approval
+[NPC Name] Reffitia Thamal
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Apprenticeship Test; [Skill] 30, Cooking
+
+[Info] Rank 30 in Cooking is uncertain.
+
+[To] Reffitia Thamal
+
+[NPC Internal] Am I ready to become your apprentice?
+[NPC] Reffitia: Well…
+[NPC Narrate] -Reffitia looks at you with some hesitation, then smiles and nods.-
+[NPC] Reffitia: Yes, I think so, YOU.
+[NPC] Reffitia: But there's one more thing I need you to help me with.
+[NPC] Reffitia: Do you think you are ready?
+[NPC Internal] Sure, I am ready, what do you need?
+[NPC] Reffitia: Good, then let us proceed.
+[NPC] Reffitia: The Vigesimi is throwing a big fish fry, but my supplies are starting to run low.
+[NPC] Reffitia: Your first task will not be cooking related, but to actually go get me some fish.
+[NPC] Reffitia: Now if you're not the fisher type, you can just buy some from someone you know.
+[NPC] Reffitia: But if you have a fishing pole and some skill, it will be faster to just catch them yourself.
+[NPC] Reffitia: I'd need ten carp and five trout.
+[NPC] Reffitia: You can find them in the Irifon River, which you cross as you head back towards Hydlaa.
+[NPC] Reffitia: If you catch any crayfish, orfe, or dace, I'd keep those in storage.
+[NPC] Reffitia: You can make dishes with them with higher skill.
+[NPC] Reffitia: Return with the fish and we will continue.
+[NPC Internal] Here's your fish.
+[NPC Narrate] -Reffitia stops stirring a pot and looks at the fish with some embarrasment.-
+[NPC] Reffitia: Sorry I had you do that.
+[NPC] Reffitia: It looks like a good catch, but I with all this work I forgot I had a delivery due and it just came in while you were gone.
+[NPC] Reffitia: It's good though, you can use those fish for your next task.
+[NPC] Reffitia: I need you to make Carp Delight and Trout Delight.
+[NPC] Reffitia: I'll give you a special cook book for preparing fish and walk you through the process if you like.
+[NPC Narrate] -Reffitia gives you a new looking book.-
+[NPC] Reffitia: I'd like you to make one Carp Delight and one Trout Delight.
+[NPC] Reffitia: You should be able to figure out how to get ingredients and work a recipe by now but let me know if you need some help.
+[NPC Internal] I am done.
+[NPC] Reffitia: Very good.
+[NPC] Reffitia: Let's start with the Carp Delight.
+[NPC] Reffitia: This is for the Vigesimi, remember.
+[NPC] Reffitia: So give me your best Carp Delight.
+
+[Give] Reffitia Thamal; 1, Carp Delight
+
+[NPC Narrate] -Reffitia looks it over and sniffs a bit, looking pleased.-
+[NPC Narrate] -She takes a bite, chews it a bit and grins widely.-
+[NPC] Reffitia: Hey, this is really good, YOU.
+[NPC] Reffitia: You are coming along very well.
+[NPC] Reffitia: And now the Trout Delight?
+
+[Give] Reffitia Thamal; 1, Trout Delight
+
+[NPC Narrate] -Reffitia looks it over and sniffs a bit, looking pleased.-
+[NPC Narrate] -She takes a bite, chews it a bit and grins widely.-
+[NPC] Reffitia: Hey, once again this is really good, YOU.
+[NPC] Reffitia: You are a very good cook.
+[NPC] Reffitia: I think you have more than met the requirements now for your apprenticeship.
+[NPC] Reffitia: You should now have four recipe books in all.
+[NPC] Reffitia: Continue to go through them and try new recipes.
+[NPC] Reffitia: That's the best way to keep getting better.
+[NPC Internal] Is there anything else I need to know?
+[NPC] Reffitia: I'm sure by now you have met all the merchants who sell various ingredients and tools.
+[NPC] Reffitia: If not, it would help to know where to get everything you'll need to make any dish you want.
+[NPC] Reffitia: You may continue to get cooking training from me as well as baking training from Orchibaly.
+[NPC] Reffitia: Thank you for sharing your time with me and helping me with the Vigesimi's party.
+[NPC] Reffitia: I think they're going to like the Carp and Trout Delights.
+[NPC] Reffitia: And take this tria for your efforts.
+
+[Reward] [Money] 16411; [XP] 19200; [Item] 1, Dishes with Fishes; [Faction] 45, Food Association
+

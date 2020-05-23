@@ -1,0 +1,113 @@
+[Questname] Fixing the Broken
+[NPC Name] Gardr Keck
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Gardr Trust; [Item] 9, Iron Ores; [Item] 1, Coal Lump
+
+[To] Gardr Keck
+
+[NPC Internal] Do you have any jobs I can do?
+[NPC Narrate] -Gardr looks at you with a distant expression.-
+[NPC] Gardr: I was just going through my mentor's old things and I stumbled across a note from Gurgus Dahnik.
+[NPC] Gardr: Appears Malco's broken another warhammer…
+[NPC Narrate] -Gardr head shakes in disbelief.-
+[NPC] Gardr: My mentor was always fixing those things for kra.
+[NPC] Gardr: Can you pick up the hammer up from Malco while I finish going through these things?
+[NPC Internal] Yes, I can go and see kra now.
+[NPC] Gardr: Thank you, you should be able to find Malco…
+[NPC Narrate] -Gardr looks thoughtful.-
+[NPC] Gardr: hmm…
+[NPC] Gardr: well…
+[NPC] Gardr: somewhere in Gugrontid.
+[NPC] Gardr: Kra moves about so much.
+[NPC] Gardr: When you find Malco, ask kra to give you the warhammer.
+
+[To] Malco Mokkar
+
+[NPC Internal] I'm here to collect your warhammer for Gardr.
+[NPC] Malco: Take care of.
+[NPC] Malco: Malco like hammer.
+[NPC] Malco: Want back soon.
+
+[To] Gardr Keck
+
+[NPC Internal] Here you go Gemma.
+[NPC] Gardr: My trepor feet!
+[NPC] Gardr: What has kra been hitting with this thing?
+[NPC] Gardr: Go ask kra what happened to cause so much damage, I am curious.
+[NPC] Gardr: Come back once you know.
+
+[To] Malco Mokkar
+
+[NPC Internal] Gardr would like to know what caused all that damage.
+[NPC Narrate] -Malco makes a displeased sound.-
+[NPC] Malco: Malco hit ulbernaut.
+[NPC] Malco: Malco smash ulbernaut.
+[NPC] Malco: Malco keep village safe.
+[NPC Narrate] -Malco beams proudly and then turns and scans the horizon, ending the discussion.-
+[NPC] Malco: Malco keep village safe.
+
+[To] Gardr Keck
+
+[NPC Internal] Malco hit an ulbernaut.
+[NPC Narrate] -Gardr stumbles and looks at you quickly.-
+[NPC] Gardr: An ulbernaut!
+[NPC Narrate] -Gardr's expression shows great distress.-
+[NPC] Gardr: Are you curious how I came to be the smith here?
+[NPC Internal] Now that you mention it, yes I am.
+[NPC] Gardr: Because we are so close to the Bronze Doors region we are often attacked by creatures from that region.
+[NPC] Gardr: During the last attack a small pack of ulbernauts rampaged through the Lower Village.
+[NPC Narrate] -Gardr entire frame shudders.-
+[NPC] Gardr: My mentor was killed in the attack.
+[NPC] Gardr: I was the apprentice then, a simple miner, working my way up…and now I am the smith.
+[NPC] Gardr: Kra taught me well!
+[NPC Narrate] -Gardr stands proud.-
+[NPC] Gardr: I have a thought for a special weapon that might stop them, but I need more information.
+[NPC] Gardr: Will you help me research these creatures?
+[NPC Internal] Yes, I’d be happy to look into them for you.
+[NPC] Gardr: I am glad you are willing to help, it has been years since I have been to the library.
+[NPC Narrate] -Gardr gestures a hand in the direction of Hydlaa.-
+[NPC] Gardr: Go to the city of Hydlaa, to the library there, and find a book about ulbernauts.
+[NPC] Gardr: I need to know the average weight of an ulbernaut.
+[NPC] Gardr: Once you know, come back and tell me.
+[NPC Internal] 600 kg
+[NPC Narrate] -Gardr grins.-
+[NPC] Gardr: I was only about fifty kilograms off…
+[NPC] Gardr: my plan might work after all.
+[NPC Narrate] -Gardr realizes you are still there.-
+[NPC] Gardr: Oh!
+[NPC] Gardr: Thank you…
+[NPC] Gardr: Would you do me one more favour to help fix this warhammer then?
+[NPC Internal] Yes I’ll help, what do you need?
+[NPC] Gardr: What I need to fix this…
+[NPC Narrate] -Gardr looks at the warhammer.-
+[NPC] Gardr: I have what I need on hand, but I will need to replenish my stocks or I will not be able to fill my next order for the guard.
+[NPC] Gardr: Go and bring me nine pieces of iron ore and one lump of coal.
+[NPC] Gardr: I will work on repairing this while you are mining.
+[NPC] Gardr: Return once you have them all, but be sure to give the iron ore first, this very important.
+[NPC Narrate] -Gardr pauses for a moment and then gives you several hexa.-
+[NPC] Gardr: And take this, an early start on your reward.
+[NPC Internal] Here are the iron ore.
+[NPC] Gardr: Thank you, now the coal.
+[NPC Internal] …and the coal lump.
+[NPC] Gardr: Thank you again, Kran.
+[NPC] Gardr: I have managed to fix the warhammer while you were gone; it is good as new.
+[NPC Narrate] -Gardr grins and gives you the repaired hammer.-
+[NPC] Gardr: Nay, it is better then new!
+[NPC] Gardr: Take this now, and return it to Malco, I am sure kra misses it.
+
+[To] Malco Mokkar
+
+[NPC Internal] Here you go Malco, good as new!
+[NPC Narrate] -Malco accepts the warhammer and takes an excited practice swing.-
+[NPC] Malco: Malco like.
+[NPC] Malco: Make Malco happy.
+[NPC] Malco: Malco thank Gemma.
+[NPC Narrate] -Malco picks up a war club and hands it to you and then digs in a purse for several coins and passes those to you as well.-
+[NPC] Malco: Malco not need.
+[NPC] Malco: Malco give.
+[NPC] Malco: Fare well.
+
+[Reward] [Money] 4214; [XP] 30000; [Item] 1, Wheel Shield Diagram; [Item] 1, War Club; [Faction] 30, Smith Association
+

@@ -1,0 +1,37 @@
+package utilities;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+
+public class Constants {
+	
+	/*
+	 * Change if someone else does send you files.
+	 */
+	public final static String FIRSTNAME = "Huarwar";
+	public final static String LASTNAME = "Eruera";
+	
+	//public final static String PATHforSQLoutput = "C:\\Users\\zimtx\\Google Drive\\kov-java";
+	//public final static String PATHforPHPoutput = "C:\\Users\\zimtx\\Google Drive\\kingdomofvalour.de";
+	
+	// ########## MAC ########### //
+	public final static String PATHforSQLoutput = "/Users/maxalex/Google Drive/planeshift.org/data";
+	public final static String PATHtoTRIALquestFILES  = PATHforSQLoutput + "/quest-details-trial/";
+	public final static String PATHtoQUESTfiles  = PATHforSQLoutput + "/quest-details/";
+	
+	public final static String PATHtoPSExtRAW = PATHforSQLoutput + "/quest-details-psext-raw/";
+	public final static String PATHtoPSExtPSQ = PATHforSQLoutput + "/quest-details-psext-psq/";
+
+
+	public final static String PATHtoPHPoutput = "/Users/maxalex/Google Drive/planeshift.org";
+	public final static String PATHtoPHPdetailsOLD = PATHtoPHPoutput + "/quests/detailsOld/";
+	public final static String PATHtoPHPdetails = PATHtoPHPoutput + "/quests/details/";
+	
+	public final static String PATHtoQUESTSonSERVER = "/quests/details/"; // Path on the server to the quests
+	
+
+}

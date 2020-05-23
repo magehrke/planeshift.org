@@ -1,0 +1,12 @@
+
+# Ignore MAC System files
+*.DS_STORE
+
+# Ignore all logs
+*.log
+
+# Ignore Sublime Text
+sftp-config.json
+
+# Ignore Atom sftp
+.remote-sync.json

@@ -1,0 +1,158 @@
+[Questname] Ritual of Remembrance
+[NPC Name] Lyrus Lospur
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Ring of Radiance; [Item] 10, Emerald Crystal
+
+[To] Lyrus Lospur
+
+[NPC Internal] You look a little unhappy. Is there something you need?
+[NPC] Lyrus: Ah my friend, it's good to see you again.
+[NPC] Lyrus: You shouldn't worry about me; it's nothing serious.
+[NPC Narrate] -She hesitates slightly.-
+[NPC] Lyrus: But I can tell you more if you have the time.
+[NPC] Lyrus: I might need some help.
+[NPC Internal] I can try to help.
+[NPC] Lyrus: It's just that the time for me to perform the Ritual of Remembrance is almost here and I am still unable to focus.
+[NPC Internal] Ritual of Remembrance? What is this?
+[NPC] Lyrus: Forgive me.
+[NPC] Lyrus: I should explain myself better.
+[NPC Narrate] -She steps back a little and studies you carefully.-
+[NPC] Lyrus: Perhaps, due to living up here, it's something you wouldn't know?
+[NPC] Lyrus: It's an old nolthrir custom.
+[NPC] Lyrus: You see, even generations ago when we still walked and swam on Dermoria, it was normal for the tides to draw families apart and we were just like those tides, ever changing.
+[NPC] Lyrus: It's one of the few things from the old life that has stayed with us.
+[NPC] Lyrus: It's not in our nature to make many permanent connections, so families split; couples part and our children are young when they make their own way in the world.
+[NPC Narrate] -She smiles slightly.-
+[NPC] Lyrus: We are always keen to meet others, you see, and to move on, but this doesn't mean we are willing to forget those who have been dear to us.
+[NPC] Lyrus: This is what the ritual is for; on the anniversary of the day each of us left our families we set aside time to remember.
+[NPC Internal] So you wish to perform the ritual in memory of your family?
+[NPC] Lyrus: I was still young when I left my mother on the Lower Field.
+[NPC] Lyrus: I was younger still when my father left us, so in memory of them and old friends, yes.
+[NPC Narrate] -She sighs.-
+[NPC] Lyrus: I do miss all those old faces.
+[NPC] Lyrus: I wish to use the ritual to look back and reflect on those I've been parted from.
+[NPC] Lyrus: I don't need to see them again, but I do need to remember them, so it feels it would be good to take part.
+[NPC Internal] But you said you can't focus on the ritual?
+[NPC] Lyrus: I came to Gugrontid for the kran's expertise working with precious stones, but there is nothing of the nolthrir here other than myself.
+[NPC] Lyrus: Perhaps if I had some memento of my home I could take part.
+[NPC Internal] Do you know where we could find a memento for you?
+[NPC] Lyrus: There is one thing I can think of.
+[NPC Narrate] -She smiles at you much more naturally now and with real warmth.-
+[NPC] Lyrus: We have adapted so many of our old rituals since turning to Xiosia.
+[NPC] Lyrus: You could perhaps seek out the Seeds of Wildwood, perhaps Jardet, in the garden in Hydlaa?
+[NPC] Lyrus: I'm sure he'd be able to suggest something that will help me.
+
+[To] Jardet Forsill
+
+[NPC Internal] Hello Jardet. Lyrus needs a memento for the Ritual of Remembrance.
+[NPC] Jardet: The Ritual of Remembrance?
+[NPC] Jardet: Yes, I'd forgotten that Lyrus would be performing the ritual soon.
+[NPC] Jardet: It's quite common for nolthrir to turn to us for help with this.
+[NPC Narrate] -He looks around the garden slowly as though thinking.-
+[NPC] Jardet: I do not have anything prepared.
+[NPC] Jardet: It's hard to keep track of when each nolthrir will perform the ritual, but Levrus told me that Niala recently ordered a shipment of deep emeralds.
+[NPC] Jardet: These can only be found close to Mielthis, the nolthrir's home city.
+[NPC] Jardet: They form in the waters there; no one really understands why.
+[NPC] Jardet: It's said they have the exact same colour as crystals found on Dermoria, so perhaps they are a blessing from Xiosia herself?
+[NPC] Jardet: If Niala would part with one and enchant it with the blue way magic most nolthrir favour, I could then prepare it in a suitable way.
+[NPC Narrate] -He smiles.-
+[NPC] Jardet: Please go and speak to Levrus.
+[NPC] Jardet: He could arrange a meeting.
+[NPC] Jardet: Just don't be surprised if he wants something first.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I'm looking for a deep emerald. Jardet told me you could arrange a meeting with Niala.
+[NPC] Levrus: He did, did he?
+[NPC] Levrus: That…
+[NPC Narrate] -He lifts his fist without looking up from his book and shakes it toward the stairs.-
+[NPC] Levrus: That nolthrir mentioned that others might want those, but she'd have us believe she's very busy.
+[NPC Narrate] -He raises his eyes and stares at you meaningfully.-
+[NPC] Levrus: And she is not the only one.
+[NPC] Levrus: A deep emerald is worth at least three of the ones that can be mined here in the Dome.
+[NPC] Levrus: My time is worth at least the same.
+[NPC] Levrus: Will you be expecting that witch to enchant the emerald for you as well?
+[NPC Internal] With blue way magic.
+[NPC] Levrus: Then I suggest you bring me at least ten emeralds in total.
+[NPC] Levrus: I'll pass some of those up to the monster and set up a meeting for you.
+[NPC] Levrus: If you are serious, then this shouldn't be too much to ask.
+[NPC Narrate] -He turns back to his book and mutters quietly.-
+[NPC] Levrus: Why anyone would want to see 'her' for anything I don't understand…
+[NPC Internal] I have the emeralds you asked for.
+[NPC] Levrus: I suppose they look adequate.
+[NPC Narrate] -He accepts them, looks at them blankly as though uncertain what he really thinks, then counts them into a box next to his desk.-
+[NPC] Levrus: Well then, I suppose you had best go and speak to her.
+[NPC Narrate] -He rummages deeper in the box and pulls out a simple looking wand. He stares at it for a moment, seeming distracted.-
+[NPC] Levrus: I keep finding these things.
+[NPC] Levrus: Oh, what are you waiting for?
+[NPC] Levrus: I'll make sure the monster possessed water-breathing witch knows you are on your way up.
+[NPC Narrate] -He points to the stairs at the back of the shop and then clambers up onto his counter, wand still in hand.-
+[NPC] Levrus: That way.
+[NPC] Levrus: And please, if you have never been up there before, don't disturb anything!
+[NPC] Levrus: She's bad enough without that provocation!
+[NPC Narrate] -He raises the wand and thuds it into the ceiling. You hear him calling something indecipherable at the top of his voice between the bangs as you head for the stairs.-
+
+[To] Niala Xanao
+
+[NPC Internal] Levrus told me you could enchant a deep emerald for Lyrus.
+[NPC] Niala: He said you left some emeralds with him for me, so I could yes, but you must promise not to disturb the workers here.
+[NPC Narrate] -She looks at you critically.-
+[NPC] Niala: And unless you know what you are doing, please don't touch anything.
+[NPC] Niala: Do you understand?
+[NPC Internal] I won't cause any trouble.
+[NPC] Niala: Good.
+[NPC] Niala: In that case you may watch.
+[NPC Narrate] -She walks to a small crate near the wall and opens it carefully. She lifts out a beautiful, dark green stone that seems to catch the light slightly differently from how a normal emerald would.-
+[NPC] Niala: Beautiful, yes?
+[NPC Narrate] -She walks to the enchanter. Her lips move slightly and blue way magic begins to crawl from her fingers across the surface of the stone. After some minutes she moves back to you and holds it out for you to take.-
+[NPC] Niala: It's done.
+[NPC Narrate] -Her smile is faint, but filled with satisfaction.-
+[NPC] Niala: Of all the ways, this is the easiest for my kind to use, and is most fitting for a stone found so close to our home city.
+[NPC] Niala: Please see that it reaches Lyrus safely, though it will need something more first.
+[NPC] Niala: You should go to Jardet.
+
+[To] Jardet Forsill
+
+[NPC Internal] I have the emerald you asked for.
+[NPC] Jardet: Let me see.
+[NPC Narrate] -He takes it and holds it up to the light, then smiles.-
+[NPC] Jardet: Niala's work is always impressive, but blue way magic in a stone from the nolthrir's city is not quite enough for the ritual by itself.
+[NPC] Jardet: Most nolthrir revere Xiosia and Lyrus will need a way to wear this as well.
+[NPC] Jardet: This is something I can provide.
+[NPC Internal] What will you need to complete this?
+[NPC] Jardet: This is the question, indeed.
+[NPC Narrate] -He looks up from the stone and after a moment nods his head.-
+[NPC] Jardet: Lyrus has never faltered in her relation with the Seeds of Wildwood.
+[NPC] Jardet: If you promise to take this to her safely, then there is no charge for my work.
+[NPC] Jardet: Do you agree?
+[NPC Internal] Of course I will.
+[NPC] Jardet: Then very well.
+[NPC Narrate] -He moves to the water and kneels before it.-
+[NPC] Jardet: Like the nolthrir, we hold the water sacred, but my magic comes from the earth.
+[NPC Narrate] -As he speaks, the stems of the plants in front of him begin to weave together into a circle.-
+[NPC] Jardet: This emerald will serve as a connection to both Lyrus's home and to Xiosia, to help her focus on the memories of those she was once close to.
+[NPC Narrate] -He positions the emerald at the edge of the circle and the stems wrap around it, securing it in place. He lifts the finished piece, a tiara woven from stems and fine branches, and hands it to you.-
+[NPC] Jardet: Give her this with Xiosia's blessing.
+
+[To] Lyrus Lospur
+
+[NPC Internal] Lyrus, I think I have found a good memento.
+[NPC] Lyrus: What is this?
+[NPC Narrate] -She frowns slightly, but reaches out to take the tiara from you. She gazes into the stone and the frown quickly melts away.-
+[NPC] Lyrus: But this is beautiful.
+[NPC] Lyrus: I didn't think that…
+[NPC Narrate] -Her smile widens as she trails off, her words silenced by sudden, relieved laughter.-
+[NPC] Lyrus: This will be perfect.
+[NPC] Lyrus: We have so many old rituals that let us explore what we feel and it has been so long since I was able to participate in one.
+[NPC] Lyrus: This isn't much, but here, please take this.
+[NPC Narrate] -She hands you a small bag then lifts the tiara, positioning it on her head.-
+[NPC] Lyrus: Using this, I should be able to reach the right state of mind.
+[NPC] Lyrus: If you are as knowledgeable about the nolthrir as it seems, perhaps you should go and speak to one the guards in the dungeon in Hydlaa.
+[NPC] Lyrus: I heard there was something he wished to learn.
+[NPC Narrate] -She smiles again.-
+[NPC] Lyrus: If you'll forgive me now, I need to prepare for the ritual.
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Nolthrir
+

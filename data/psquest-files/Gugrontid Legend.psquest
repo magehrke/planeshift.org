@@ -1,0 +1,47 @@
+[Questname] Gugrontid Legend
+[NPC Name] Belcor Krakko
+[Checkup] 2019-01-01
+[Authors] Haviland
+[Repeatable] No
+
+[To] Belcor Krakko
+
+[NPC Internal] Hey Belcor, how's the tavern doing?
+[NPC] Belcor Krakko: Hello there!!
+[NPC] Belcor Krakko: Did you hear about Stalg?!
+[NPC] Belcor Krakko: Rumour has it that the big beast is back and has been pursuing and chewing up imago consumers not too far from the city gate.
+[NPC] Belcor Krakko: It has been quite some time since rumours about old Stalg have passed around this old Stone Head.
+[NPC Internal] Stalg? Who is Stalg?!
+[NPC] Belcor Krakko: Yeah, Stalg is a big ol' marfusang, so big he's as big as a stone house!
+[NPC] Belcor Krakko: When rumours start spreading that he has been seen, they also say he is not far from here.
+[NPC] Belcor Krakko: If you stand at the bottom of the Keep ramp, last time he was seen he was over the hills to the left.
+[NPC] Belcor Krakko: Past where the pterosaur is.
+[NPC Internal] Did you say Stalg has been seen chewing an imago consumer!?
+[NPC] Belcor Krakko nods while munching some diamond crumbs.
+[NPC] Belcor Krakko: There are always stories about how big Stalg likes consumers, apparently a lot...
+[NPC Narrate] Belcor Krakko smiles.
+[NPC] Belcor Krakko: Almost as much as I like these gems.
+[NPC] Belcor Krakko: Lucky enough I've never heard about him eating a Kran.
+[NPC] Belcor Krakko: I suppose he helps us by keeping these nasty consumer beasts far from our city.
+[NPC] Belcor Krakko: Actually, he's so much bigger than everything else he seems to keep many other dangerous beasts away from here.
+[NPC] Belcor Krakko: Be careful if you get too close, he might mistake you for a small snack!
+[NPC Internal] Why did you call a big marfusang Stalg?
+[NPC] Belcor Krakko: The name is a kind of joke.
+[NPC] Belcor Krakko: The beast is so big its two claws resemble two big stalactites.
+[NPC] Belcor Krakko: The last time he was about Malco started calling it stalg-meat, poor Kran never got the difference between a stalactite and a stalagmite.
+[NPC] Belcor Krakko: If you want to know more about Stalg you might ask Malco.
+
+[To] Malco Mokkar
+
+[NPC Internal] Good day Malco. Belcor told me you can tell me more about Stalg.
+[NPC] Malco Mokkar: Stalg?
+[NPC] Malco Mokkar: What Stalg?
+[NPC Narrate] Malco Mokkar scratches kra heads.
+[NPC] Malco Mokkar: Ah Stalg-meat...
+[NPC] Malco Mokkar: Malco likes to see Stalg-meat hunt.
+[NPC] Malco Mokkar: If you want to see it go over the hill, past the consumer fields.
+[NPC Narrate] Malco Mokkar points towards Gurrak and the hills behind kra.
+[NPC] Malco Mokkar: Malco suggest you go with a friend.
+[NPC] Malco Mokkar: If Stalg is hungry, Stalg eats what he sees.
+
+[Info] Find Stalg: Quest completed

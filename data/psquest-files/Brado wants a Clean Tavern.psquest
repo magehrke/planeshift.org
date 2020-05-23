@@ -1,0 +1,26 @@
+[Questname] Brado wants a Clean Tavern
+[NPC Name] Brado
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Vresa's New Sword; [Item] 2, Rat Eyes
+
+[To] Brado
+
+[NPC Internal] Was that a rat?
+[NPC] Brado: Believe it or not, it happened again!
+[NPC] Brado: I saw some rats in my tavern, and I'm really ashamed of that.
+[NPC] Brado: I do my best to keep this place very clean, but it seems these rats get in from the outside at night, so there is little I can do.
+[NPC] Brado: Can you please help me?
+[NPC Internal] Let me at them!
+[NPC] Brado: Hey, thanks!
+[NPC] Brado: Please bring me two rat eyes and I will reward you.
+[NPC Internal] Here are your rat eyes.
+[NPC] Brado: Ah, so you caught them!
+[NPC] Brado: Good!
+[NPC] Brado: I hope they will not return too fast.
+[NPC] Brado: Here is your reward.
+
+[Reward] [Money] 1000; [XP] 8000; 
+

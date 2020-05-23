@@ -1,0 +1,117 @@
+[Questname] Dealing with Young Engineers
+[NPC Name] Martiana Zeth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] His Brother's Riddle
+
+[To] Martiana Zeth
+
+[NPC Internal] Got any work for a wayward adventurer?
+[NPC] Martiana: Ah, I've been looking all over for some help.
+[NPC] Martiana: I need to do two things at once, and I'm hoping that if you can help me with one, I can do the other more efficiently.
+[NPC] Martiana: Can you help me out, please?
+[NPC Internal] I'm glad to have the work.
+[NPC] Martiana: Splendid.
+[NPC] Martiana: I'll start replenishing the lights.
+[NPC] Martiana: You'll need to get Noxdar's engineering proposal.
+[NPC] Martiana: He's a trainee engineer with some interesting ideas, but I need to make sure he's on the right track.
+[NPC] Martiana: Just tell him I sent you, or ask him to give you the proposal.
+[NPC] Martiana: He should be able to infer why and hand it over.
+[NPC] Martiana: He's most likely in the Winch area somewhere; he likes to work in out-of-the-way areas though, so search around.
+[NPC] Martiana: Bring the proposal back to me once you have it in hand.
+[NPC] Martiana: Thanks again.
+
+[To] Noxdar Darmeth
+
+[NPC Internal] Martiana Zeth wanted me to fetch some papers from you.
+[NPC] Noxdar: Martiana sent you for the engineering proposal, did she?
+[NPC] Noxdar: She's quite eager; I just got them finished last night.
+[NPC] Noxdar: I'd have finished them earlier, but I've had some, uh, personal things to sort out.
+[NPC Narrate] -Noxdar idly fingers his chipped fang.-
+[NPC] Noxdar: I shouldn't delay you: By all means, take them.
+[NPC Narrate] -Noxdar gives you a set of rumpled papers.-
+[NPC] Noxdar: I think you'll find Martiana will be most pleased with them.
+[NPC] Noxdar: Farewell, Tabei.
+
+[To] Martiana Zeth
+
+[NPC Internal] I have a delivery for you.
+[NPC] Martiana: I didn't see Hakik offering to do the lights.
+[NPC] Martiana: No, let's ask the engineer.
+[NPC Narrate] -Martiana grumbles as she works on the lights. She looks at you briefly.-
+[NPC] Martiana: Oh, sorry, I need to do this.
+[NPC] Martiana: Hand them to me a bit later, would you please?
+[NPC] Martiana: Thanks.
+
+[To] Martiana Zeth
+
+[NPC Internal] Are you ready to receive that delivery now?
+[NPC] Martiana: Sorry about that.
+[NPC] Martiana: Okay, let's see what we have here.
+[NPC Narrate] -Martiana flips back and forth between the pages, nodding her head quickly and running a finger along the lines of the equations.-
+[NPC] Martiana: The mechanics are good; Noxdar has some promise.
+[NPC] Martiana: But he seems to have made the same mistake I did as a trainee engineer: he did not account enough for the magic.
+[NPC] Martiana: Now, a lot of the magic used in the winch mechanisms is Blue Way.
+[NPC Narrate] -Martiana cocks her head to one side.-
+[NPC] Martiana: There's a Blue Way practitioner in the library district of Hydlaa, I believe.
+[NPC] Martiana: Do you know his name?
+[NPC Internal] I have heard of him, yes.
+[NPC] Martiana: Oh good, what is his name?
+[NPC Internal] Ah, yes! I think Barrin Dhorod is the person you mean.
+[NPC] Martiana: Barrin!
+[NPC] Martiana: That's it.
+[NPC] Martiana: All right, take this proposal to Barrin and answer to the best of your knowledge if he asks anything.
+[NPC] Martiana: He'll probably be able to fix these equations and save us some coin.
+[NPC] Martiana: Bring it back to me when you're done.
+[NPC] Martiana: Thanks again.
+
+[To] Barrin Dhorod
+
+[NPC Internal] I have some documents that Martiana Zeth would like you to examine.
+[NPC] Barrin: Yes, I know.
+[NPC] Barrin: The proposal, please.
+[NPC Internal] jumps a bit then hands over the proposal.
+[NPC] Barrin: I see that my reputation precedes me as you knew who I was, YOU.
+[NPC] Barrin: Oh, don't act so surprised.
+[NPC] Barrin: You know I'm proficient in the Blue Way, and therefore with divination.
+[NPC] Barrin: But enough of that.
+[NPC] Barrin: Allow me to peruse this proposal.
+[NPC Narrate] -Barrin studiously examines the document, the fingers on his free hand flickering with apparent mental calculation. Finally, he draws a quill and begins making some corrections.-
+[NPC] Barrin: You can probably decrease the weight of the chains by twelve percent, perhaps even fifteen but that might be risky.
+[NPC] Barrin: It will ease the burden on the goujahs, and provide other benefits.
+[NPC] Barrin: You may want to consider handing the document to another engineer to check the mechanical equations, just in case.
+[NPC] Barrin: Here you go, YOU.
+
+[To] Warinn Klumdt
+
+[NPC Internal] I'm hoping you can check these equations for me.
+[NPC] Warinn: So, some young engineer has new ideas for the Hydlaa Winch, huh?
+[NPC] Warinn: All right.
+[NPC Narrate] -Warinn reads the proposal, lips moving silently as he mouths the equations.-
+[NPC] Warinn: Aha!
+[NPC] Warinn: Look here.
+[NPC] Warinn: A seven was transposed onto the next line as a one.
+[NPC] Warinn: It's the kind of error that gets made when you stay up too late working or you have to finish quickly.
+[NPC] Warinn: It won't affect too much, but it's always best to hand something in without careless errors.
+[NPC] Warinn: The rest is top-notch work.
+[NPC] Warinn: You can have it back now.
+
+[To] Martiana Zeth
+
+[NPC Internal] pulls the document from his pouch and gives it to Martiana.
+[NPC] Martiana: You found Barrin?
+[NPC] Martiana: Great.
+[NPC Narrate] -Martiana quickly looks at the document.-
+[NPC] Martiana: I'm impressed.
+[NPC] Martiana: I don't think I could have done a better job.
+[NPC] Martiana: Lerok will be over the dome with excitement.
+[NPC] Martiana: Noxdar will make a fine engineer one day.
+[NPC] Martiana: But now I'll have to work all the harder to make sure he doesn't take my job!
+[NPC Narrate] -Martiana grumbles a bit.-
+[NPC] Martiana: Still, you saved me a lot of time, so take this.
+[NPC Narrate] -Martiana gives you some golden circles.-
+[NPC] Martiana: Thank you very much for lending a hand.
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Object glyph
+

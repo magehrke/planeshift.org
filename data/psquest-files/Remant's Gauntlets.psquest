@@ -1,0 +1,70 @@
+[Questname] Remant's Gauntlets
+[NPC Name] Remant Tovere
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] Nothing
+
+[To] Remant Tovere
+
+[NPC Internal] You look troubled?
+[NPC] Remant: Bellieve it or not, I lost my gauntlets again!
+[NPC] Remant: I usually remove the gauntlets every time I do some manual work, and given the good weather I often forget to put them back on.
+[NPC] Remant: It's a problem though, because my captain is very rigid about clothing.
+[NPC] Remant: I fear he will punish me.
+[NPC] Remant: Can you help me?
+[NPC Internal] Yes, I can help, where should I start?
+[NPC] Remant: Thanks.
+[NPC] Remant: I suggest you to look it the most common places, like the tavern, library or temple.
+[NPC] Remant: I'm a follower of Laanx, and I'm often there.
+[NPC Internal] I'll go and have an ask round right now.
+[NPC] Remant: Good luck finding them, I'm sorry to have to ask you to look.
+[NPC] Remant: It's likely a worker in one of those places I mentioned picked them up, so be sure to ask them about the gauntlets.
+
+[Possible Ways] 4
+
+[Way] 1
+
+[To] Lori Tryllyn
+
+[NPC Internal] Do you know if Remant left his gauntlets here?
+[NPC] Lori: Ah, I found a pair of gauntlets similar to the ones used by the guards.
+[NPC Narrate] -Lori opens a drawer and picks up the gauntlets.-
+[NPC] Lori: These are probably Remant's.
+[NPC] Lori: They were left here the other day.
+[NPC] Lori: Take them.
+
+[Way] 2
+
+[To] Durok Rrecrok
+
+[NPC Internal] Do you know if Remant left his gauntlets here?
+[NPC Narrate] -Durok turns and faces you.-
+[NPC] Durok: I did find some not too long ago.
+[NPC Narrate] -Kra looks around for a few moments.-
+[NPC] Durok: Here we are, you must mean these.
+
+[Way] 3
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Do you know if Remant left his gauntlets here?
+[NPC] Sharven: Actually I have then right here, he must have taken them off while he was sat down praying and must have gotten up and left without them.
+
+[Way] 4
+
+[To] Aleena Arlavin
+
+[Way] All
+
+[To] Remant Tovere
+
+[NPC Internal] I found your gauntlets.
+[NPC] Remant: Oh!
+[NPC] Remant: You found them.
+[NPC] Remant: Well done, and thank you!
+[NPC] Remant: Take this as a small reward.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Guard; 
+

@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author: Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* jobs/lockpicking CSS Script */
+
+.guildranks_main_table {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 0px;
+	padding-right: 30px;
+	padding-bottom: 20px;
+	padding-left: 15px;
+
+}
+
+	.guildranks_main_table td {
+		text-align: center;
+		border-bottom: 1px solid #FFF;
+		border-right: 1px solid #FFF;
+		padding: 5px;
+	}
+	.guildranks_main_table th {
+		text-align: center;
+		border-bottom: 1px solid #FFF;
+		border-right: 1px solid #FFF;
+	}
+
+	.border_on_left {
+		border-left: 1px solid #FFF;
+	}
+
+	.border_on_top {
+		border-top: 1px solid #FFF;
+	}

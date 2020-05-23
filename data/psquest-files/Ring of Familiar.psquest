@@ -1,0 +1,44 @@
+[Questname] Ring of Familiar
+[NPC Name] Levrus Dahrenn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 10, Diamond Crystal; [Item] 1, Golden Ring
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Hello, is there anything I can do for you today?
+[NPC] Levrus: I have a special task for you, if you're interested.
+[NPC] Levrus: A few years ago, I modified an old Diaboli spell to summon animals.
+[NPC] Levrus: I used that to bring forth the big snake you see in this shop.
+[NPC] Levrus: Don't worry, he is currently frozen in time, so he won't wake up.
+[NPC] Levrus: I can empower a precious object with this spell, if you like.
+[NPC] Levrus: Are you interested?
+[NPC Internal] Are you kidding, of course I am interested.
+[NPC] Levrus: Right, it's a very interesting field of research, but it costs a lot of money to perform.
+[NPC] Levrus: The spell requires a number of crystals as reagents, and a golden ring.
+[NPC] Levrus: If you bring me the ingredients, I will perform the spell and you will keep the ring.
+[NPC] Levrus: Is it a deal?
+[NPC Internal] Yes, I'd be happy to get you what you need.
+[NPC] Levrus: Very good.
+[NPC] Levrus: The first thing I need is a golden ring.
+[NPC] Levrus: Bring one to me and I will start the spell.
+[NPC Internal] give Levrus a golden ring.
+[NPC] Levrus: The ring is of fine quality; exactly what I needed.
+[NPC] Levrus: I will start the purifying process.
+[NPC] Levrus: In the meantime, you can gather the reagents.
+[NPC] Levrus: I need ten diamond crystals.
+[NPC] Levrus: They aren't easy to find these days, but you can probably ask Trasok about them and he will help you.
+[NPC] Levrus: Tell him I've sent you if he asks.
+[NPC Internal] Here are your ten diamond crystals.
+[NPC] Levrus: Wow, you found them!
+[NPC] Levrus: I've finished the first part of the spell, and everything is ready for the next stage.
+[NPC] Levrus: Now let me add these crystals.
+[NPC Narrate] -Levrus starts casting a spell.-
+[NPC] Levrus: Yes!
+[NPC] Levrus: It worked.
+[NPC] Levrus: The ring is ready.
+[NPC] Levrus: It's yours.
+
+[Reward] [XP] 9400; [Item] 1, Ring of Summon Familiar; [Faction] 10, Crafting Association; [Faction] 10, Crystal Order
+

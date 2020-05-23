@@ -1,0 +1,29 @@
+[Questname] Deliveries for Seduna
+[NPC Name] Seduna Secut
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] Yes
+
+[Info] You need to be maybe level 10 in cooking
+[Info] You are required to craft different foods for different recipients
+
+[To] Seduna Secut
+
+[NPC Internal] I'm looking for a small job to practice my cooking and baking.
+[NPC Narrate] Seduna Secut dusts her hand off as she turns to face you.
+[NPC] Seduna Secut: I've been very busy at the moment and I have some outstanding food orders I need to make up.
+[NPC] Seduna Secut: If you want you can make one of them for me and make sure it gets to the right person?
+[NPC Internal] Sounds like a good use of my skill, I'm happy to help.
+[NPC] Seduna Secut: I really need you to help make bread with terevan berry jam, a macca jam biscuit, trout delight, and some fried honey dough.
+[NPC] Seduna Secut: And they need to go to Vetasor.
+
+
+[To] Vetasor Knemal
+
+[NPC Internal] Here you are Vetasor, I hope you enjoy.
+[NPC Narrate] Vetasor Knemal nods as he takes the selection of food.
+[NPC] Vetasor Knemal: I suppose you aren't that late.
+[NPC Narrate] Vetasor Knemal hands you some tria.
+[NPC] Vetasor Knemal: Thanks I guess.
+
+[Reward] [Skill] +1, cooking; [XP] ?; [Money] ?;

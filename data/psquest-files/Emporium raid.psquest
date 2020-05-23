@@ -1,0 +1,106 @@
+[Questname] Emporium raid
+[NPC Name] Rinna Voladrand
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Wax for Tarela
+
+[To] Rinna Voladrand
+
+[NPC Internal] How are you?
+[NPC] Rinna: As you may know, we had a raid at our Emporium shop some time ago.
+[NPC] Rinna: We never found the thieves.
+[NPC] Rinna: Maybe you can help me to discover a bit more.
+[NPC] Rinna: Are you interested?
+[NPC Internal] Alright.
+[NPC] Rinna: Great!
+[NPC] Rinna: I will tell you a secret about it.
+[NPC] Rinna: The night before the attack, I heard a strange noise come from the common room.
+[NPC] Rinna: I went to check and found a note written in an odd language.
+[NPC] Rinna: I…
+[NPC] Rinna: I have no heart to tell Boralis my discovery.
+[NPC] Rinna: I do not wish him to go on a fit of revenge.
+[NPC] Rinna: My only fear now is that if we don't find the outlaws, they will turn against us again in the future.
+[NPC] Rinna: I will give you the note.
+[NPC] Rinna: Seek out anyone who might know about thievery.
+[NPC] Rinna: Return to me when you have gained any information.
+
+[To] Zak
+
+[NPC Internal] What do you know about this note?
+[NPC] Zak: Hey, what's this?
+[NPC] Zak: These are dangerous words…
+[NPC] Zak: More than you realize.
+[NPC] Zak: I will not tell you anything about it.
+[NPC] Zak: I have nothing to fear from you.
+[NPC] Zak: You've got nothing on me.
+[NPC] Zak: What are you going to do?
+[NPC Internal] I am sure the guards would like to know you are down here.
+[NPC] Zak: Hey, I do not wish to be tortured for what my head holds.
+[NPC] Zak: I've done nothing wrong!
+[NPC Narrate] -Zak looks around nervously.-
+[NPC] Zak: Ok, 'Leeshaile shold saardh' is Rogue tongue for, 'You have been marked.' Press me no more: I wish to stay away from such dirty business.
+
+[To] Rinna Voladrand
+
+[NPC Internal] It seems you have been marked.
+[NPC] Rinna: Oh my…
+[NPC] Rinna: Sweet, merciful…
+[NPC] Rinna: 'Leeshaile shol saardh' means 'You have been marked?' Thank you for this bit of information.
+[NPC] Rinna: This means we are in real trouble!
+[NPC] Rinna: I need to know who they are.
+[NPC] Rinna: Please, return to your source and hand them the note, asking them who wrote the note.
+[NPC] Rinna: I must know.
+[NPC] Rinna: It is the only way to aid my husband.
+
+[To] Zak
+
+[NPC Internal] I need more information.
+[NPC] Zak: Again?
+[NPC] Zak: Hey what you want this time?
+[NPC Internal] Who wrote this note?
+[NPC] Zak: Let me look at it.
+[NPC Narrate] -Zak inspects the note carefully.-
+[NPC] Zak: Mmmmm…
+[NPC] Zak: I think I know who wrote it, but disclosing that to you seems not a good idea if it's not for someone I care.
+[NPC] Zak: Who received that note?
+[NPC Internal] Rinna and Boralis Voladrand
+[NPC] Zak: Ah, Rinna and Boralis.
+[NPC] Zak: They sell me stuff and don't judge me when I keep my face concealed.
+[NPC] Zak: Very well, I will tell you then.
+[NPC] Zak: My guess would be that the Onyx Dagger wrote this note.
+[NPC] Zak: They are the only active group in the Hydlaa region who uses this dialect of Rogue tongue.
+[NPC] Zak: I have answered as you wished; now leave me be.
+
+[To] Rinna Voladrand
+
+[NPC Internal] It seems that the Onyx dagger is behind the raid.
+[NPC] Rinna: So the Bandits are named 'Onyx Dagger!'
+[NPC] Rinna: I shall remember that.
+[NPC] Rinna: Thank you for finding this out.
+[NPC] Rinna: I would certainly feel safer if you spoke with my friend, the guard Rabartus about the Onyx Dagger group so they can be punished.
+[NPC] Rinna: He may even reward you.
+[NPC] Rinna: Would you do this for me?
+[NPC Internal] Yes, I would be happy to deliver the message.
+[NPC] Rinna: Thank you very much.
+[NPC] Rinna: That relieves my mind.
+
+[To] Rabartus Livrandar
+
+[NPC Internal] The Onyx dagger is responsible for the raid on Rinna and Boralis's Emporium.
+[NPC] Rabartus: Yes, what of it?
+[NPC Narrate] -Rabartus listens to the tale.-
+[NPC] Rabartus: The Onyx Dagger?
+[NPC] Rabartus: Ah!
+[NPC] Rabartus: That's a good lead, but I know little about you.
+[NPC] Rabartus: How I can trust you?
+[NPC] Rabartus: Do you have any evidence to support what you are saying?
+[NPC] Rabartus: If so, I'll take it now.
+[NPC Internal] I have this note that they left behind.
+[NPC] Rabartus: That's great.
+[NPC] Rabartus: now that we have evidence we can investigate.
+[NPC] Rabartus: Thanks for your help, citizen; this city needs more people like you.
+[NPC] Rabartus: Take this as a reward.
+
+[Reward] [Money] 2107; [XP] 10800; [Faction] 15, Crafting Association
+

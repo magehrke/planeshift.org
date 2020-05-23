@@ -1,0 +1,190 @@
+[Questname] The Cursed Hammer
+[NPC Name] Kethzun Guthazik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning Shield Working; [Money] 1000
+
+[To] Kethzun Guthazik
+
+[NPC Internal] You look troubled, can I help?
+[NPC] Kethzun: Do I?
+[NPC] Kethzun: I guess I do.
+[NPC Narrate] -Kethzun looks proud as he speaks.-
+[NPC] Kethzun: I'm considered as one of the best crafters around, but, alas!
+[NPC Narrate] -His proud demeanor falters, and his headfin lowers a bit.-
+[NPC] Kethzun: I'm in big trouble now.
+[NPC] Kethzun: It seems I've been cursed…
+[NPC] Kethzun: Could you help me, please, Sir?
+[NPC Internal] Of course I will help you.
+[NPC] Kethzun: Thanks, Enkidukai!
+[NPC] Kethzun: You're indeed a gift from the gods.
+[NPC] Kethzun: It seems I have an enemy and he, she or kra has been enchanting my tools to make my job harder.
+[NPC] Kethzun: Let me tell you more, will you?
+[NPC Internal] Do tell me more about it, please.
+[NPC] Kethzun: Look, I have this hammer.
+[NPC Narrate] -Kethzun waves a hammer, holding it carefully.-
+[NPC] Kethzun: But every time I try to hammer anything with it, it shocks me!
+[NPC] Kethzun: I can't use it, and it's my favorite hammer.
+[NPC] Kethzun: I'd be very grateful if you could identify what kind of hex it might have, and have it removed.
+[NPC] Kethzun: I think Levrus is the best option to start with.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Kethzun needs you to find what's wrong with this hammer.
+[NPC] Levrus: Well, let's see, let's see…
+[NPC Narrate] -Levrus hits his table lightly with the hammerhead. A soft 'brzap!' sound can be heard, and the mage lets the hammer drop on the table, shaking his hand.-
+[NPC] Levrus: What was that?
+[NPC] Levrus: It tried to zap me!
+[NPC Narrate] -Then he picks it up and hammers it again.-
+[NPC] Levrus: “Brzzzzp!”
+[NPC Narrate] -Inexplicably, he hits the hammer again, this time with a zap, it recoils and hits him in the head.-
+[NPC Narrate] -He rubs his head while looking at the hammer closely and then shakes it.-
+[NPC] Levrus: Hmmm, I am not sure, but it might be that the hammer has been cursed with a Lightning glyph…
+[NPC Narrate] -Levrus looks up at you.-
+[NPC] Levrus: I can dispell it for one thousand tria, what do you say?
+[NPC Internal] Here, the tria. Kethzun sounded very worried.
+[NPC Narrate] -Levrus takes the coins and starts casting some spells on the hammer, murmuring some unintelligible words.-
+[NPC Narrate] -The hammer starts trembling and glowing red, doing this for a minute. Then stops, making a 'brzsssh…' sound and letting out a puff of smoke.-
+[NPC Narrate] -Levrus takes the hammer and hits his table a bit, making sure it's harmless.-
+[NPC] Levrus: Here, your hammer is ready to be used again.
+[NPC] Levrus: See you soon.
+
+[To] Kethzun Guthazik
+
+[NPC Internal] Here you go, your hammer is operative again!
+[NPC] Kethzun: Oh, that's excellent.
+[NPC] Kethzun: Here, let me give you something for your time, oh, and reimburse you too.
+[NPC Narrate] -Kethzun hands you a book and some coins.-
+[NPC] Kethzun: Use them wisely, it pays off.
+[NPC Narrate] -Kethzun pauses in thought.-
+[NPC] Kethzun: Still, I am curious who could have done this.
+[NPC] Kethzun: I'm just happy I have my hammer back, you've done plenty already, but do you think you'd be interested in investigating further for me?
+[NPC Internal] Sure, I'll help you try to figure it out.
+[NPC] Kethzun: Oh wonderful!
+[NPC] Kethzun: I'm afraid I don't know where to begin though.
+[NPC Internal] Did you leave it unattended or did someone borrow it?
+[NPC] Kethzun: No, though there was this dwarf last week that borrowed a hammer, but I gave him a spare.
+[NPC] Kethzun: At least I thought I did.
+[NPC] Kethzun: Now I'm not so sure.
+[NPC] Kethzun: I don't know his name, though.
+[NPC] Kethzun: He was trying to sell beer.
+[NPC] Kethzun: I saw him talking with Njormik Carpenter.
+[NPC] Kethzun: Maybe he knows him.
+
+[To] Njormik Carpenter
+
+[NPC Internal] Did you speak with a dwarf last week?
+[NPC] Njormik: Last week?
+[NPC] Njormik: I meet a lot of people.
+[NPC] Njormik: Can you tell me about him?
+[NPC Internal] Kethzun said he was selling beer.
+[NPC] Njormik: That kind of describes lots of dwarves.
+[NPC Narrate] -Njormik smiles.-
+[NPC] Njormik: Ah, but I think I know who you're talking about.
+[NPC] Njormik: I'm afraid I don't know his name, but I saw him go into the tavern.
+[NPC] Njormik: Maybe Jarda would know.
+[NPC] Njormik: He works at the tavern here in town.
+[NPC] Njormik: Hey, interested in one of my wares?
+[NPC] Njormik: I've got great deals on custom furniture.
+[NPC Narrate] -Njormik grins.-
+
+[To] Jarda Ynarow
+
+[NPC Internal] Did you speak with a dwarf selling beer last week?
+[NPC] Jarda: Hmm, perhaps.
+[NPC] Jarda: Lots of brewers come in here thinking they have the greatest brew ever.
+[NPC Narrate] -Jarda raises his eyebrows.-
+[NPC] Jarda: Now that I think about it, yes, there was a dwarf who came in here last week who stands out.
+[NPC] Jarda: Why do you ask?
+[NPC Internal] He may have borrowed Kethzun's hammer.
+[NPC] Jarda: Oh?
+[NPC] Jarda: Kethzun's favorite hammer?
+[NPC] Jarda: He loves that hammer.
+[NPC Narrate] -Jarda ponders for a bit then snaps his fingers.-
+[NPC] Jarda: Yes, he was selling beer.
+[NPC] Jarda: He ordered a mug and remarked that his was better.
+[NPC] Jarda: Of course that's what they all say.
+[NPC] Jarda: What was his name…?
+[NPC] Jarda: Normind?
+[NPC] Jarda: Narwig?
+[NPC] Jarda: Something like that.
+[NPC] Jarda: He was headed to Hydlaa.
+
+[To] Narwin Molstagh
+
+[NPC Internal] Did you borrow Kethzun's hammer?
+[NPC] Narwin: The smithy in Amdeneir?
+[NPC] Narwin: Yes, he gave me a hammer.
+[NPC] Narwin: I was working there for a bit but forgot my hammer.
+[NPC] Narwin: He gave me one but it wasn't very good.
+[NPC] Narwin: I told him I needed to take it to Hydlaa to finish my work and that I'd bring it right back.
+[NPC] Narwin: As I was leaving I saw another just laying there.
+[NPC] Narwin: I decided to switch it.
+[NPC] Narwin: It was only for awhile and I didn't think anyone would even notice.
+[NPC] Narwin: Anyway, I returned it, so what's the problem?
+[NPC Internal] It was cursed with a spell.
+[NPC Narrate] -Narwin raises his thick eyebrows.-
+[NPC] Narwin: Well it wasn't me, I don't deal with magic.
+[NPC] Narwin: It did go missing for a bit.
+[NPC] Narwin: I got worried that it had been stolen, but it turned up a few minutes later.
+[NPC] Narwin: Ask Harnquist about it.
+[NPC] Narwin: Come to think of it, I did get a jolt from it.
+[NPC] Narwin: I thought it was the anvil, but I was really done anyway so that's when I took a quick pterosaur trip to Amdeneir and returned it.
+[NPC] Narwin: I put it back exactly where I found it.
+
+[To] Harnquist
+
+[NPC Internal] Did you see Narwin working here last week?
+[NPC] Harnquist: Why yes, he was here.
+[NPC] Harnquist: I remember because there was a disturbance.
+[NPC] Harnquist: Narwin has a tendency to hum while he works and it apparently annoyed another.
+[NPC] Harnquist: I believe it was Hamel.
+[NPC] Harnquist: The two had words and I had to break it up.
+
+[To] Hamel Warson
+
+[NPC Internal] You had an argument with Narwin last week?
+[NPC] Hamel: Ah that trepor kissin'…
+[NPC] Hamel: He may be revered for his great stories of adventure, but I told him to shut up while we were working.
+[NPC] Hamel: Always with the humming.
+[NPC] Hamel: I couldn't take it any more so we had words.
+[NPC Internal] Did you mess with his hammer?
+[NPC Narrate] -Hamel snickers.-
+[NPC] Hamel: I bet that showed him.
+[NPC Narrate] -Hamel laughs.-
+[NPC] Hamel: Serves him right for leaving his hammer unattended.
+[NPC] Hamel: I just put a little jump to his work.
+[NPC Narrate] -Hamel snickers again.-
+[NPC] Hamel: I'm sure he was shocked.
+[NPC Narrate] -Hamel laughs and slaps his knee.-
+[NPC Internal] The hammer was borrowed.
+[NPC Narrate] -Hamel slaps his forehead.-
+[NPC] Hamel: Ugh!
+[NPC] Hamel: The clacker lover doesn't even have the decency to use his own equipment.
+[NPC] Hamel: I apologize for any inconvenience.
+[NPC] Hamel: Had I known it was someone else's…
+[NPC] Hamel: Was the spell removed at least?
+[NPC Internal] The hammer is back to normal.
+[NPC] Hamel: Ah good.
+[NPC] Hamel: Apologize to the owner for me.
+[NPC] Hamel: It was a silly thing to do.
+[NPC] Hamel: I never meant to cause trouble for anyone else.
+
+[To] Kethzun Guthazik
+
+[NPC Internal] [You tell Kethzun the story.]
+[NPC] Kethzun: Ah interesting.
+[NPC] Kethzun: So the dwarf took my hammer without me knowing about it.
+[NPC] Kethzun: I was called away for a bit and when I returned, the hammer was on the table here.
+[NPC] Kethzun: I never knew it was gone.
+[NPC] Kethzun: You've helped me tremendously, Enkidukai.
+[NPC] Kethzun: At least now I know I wasn't the intended target.
+[NPC] Kethzun: Here, take this.
+[NPC Narrate] -Kethzun grabs a tia pouch and hands it to you.-
+[NPC] Kethzun: And you can have this other shield manual.
+[NPC] Kethzun: With the other one, it should help expand one's shield making experiences nicely.
+[NPC Narrate] -Kethzun hands you a war shield manual.-
+
+[Reward] [Money] 4391; [XP] 23000; [Item] 1, Warrior Shield Diagram; [Item] 1, War Shield Diagram; [Faction] 25, Crafting Association
+

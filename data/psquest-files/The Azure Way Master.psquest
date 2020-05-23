@@ -1,0 +1,99 @@
+[Questname] The Azure Way Master
+[NPC Name] Menita
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge and Practical of the Azure Way Master; [Item] 1, Master's Azure Way Wand; [Item] 1, Master's Crystal Way Bracers; [Item] 1, Master's Red Way Bracers; [Skill] 150, Azure Way; [Item] 1, Adept's Azure Way Robe
+
+[To] Menita
+
+[NPC Internal] Please take these items as a proof of my dedication to Azure Way.
+[NPC] Menita: Dedication, and perseverance.
+[NPC] Menita: They give you balance.
+[NPC Narrate] -Menita raises your wand, and gives it a long glance. She takes a long and slow breath, before giving you back the items.-
+[NPC] Menita: Return the items to their owners, as soon as you can.
+[NPC] Menita: They will need them.
+[NPC Narrate] -Her eyes become watery, for only a moment.-
+[NPC] Menita: You reached a point where I can give you no more.
+[NPC] Menita: Only the world now can teach you new lessons.
+[NPC] Menita: You are a full Master of the Azure Way now.
+[NPC] Menita: Give me your last adept item, please.
+[NPC Internal] Here is my cloak, as requested.
+[NPC Narrate] -Menita folds the cloak, while her gaze continues to point at you.-
+[NPC] Menita: As a Master of the Azure Circle you have to know some of the secrets of the order, something about our history.
+[NPC Narrate] -Menita stares at you, waiting.-
+[NPC Internal] Continue please, I will listen.
+[NPC] Menita: Your mind is like a pool.
+[NPC] Menita: You and you only, may decide its depth.
+[NPC] Menita: Would you like to know our history, or our secrets?
+[NPC Internal] I'd like to know about history.
+[NPC Narrate] -The lips of Menita hold steady. Her eyes became glassy.-
+[NPC] Menita: It is not the time, yet.
+[NPC] Menita: When you are ready you will find this knowledge.
+[NPC Internal] Please, tell me about secrets.
+[NPC] Menita: Secrets conceal dangers.
+[NPC] Menita: Only people who proved themselves can manage to keep a secret like the one I'm going to tell you.
+[NPC] Menita: The danger in it can harm many lives, not only your own.
+[NPC] Menita: So you are allowed to talk about it only with the highest levels of the Circles, full masters of every Way.
+[NPC Narrate] -Menita tightens her lips, making a short pause.-
+[NPC] Menita: The texts in the Sanctuary hold knowledge about all the Ways, about artifacts of power…
+[NPC] Menita: And it contains the complete version of this secret too.
+[NPC] Menita: The position, even the existence of the Sanctuary, is closed to the citizen.
+[NPC] Menita: Secrets are hidden in other secrets.
+[NPC] Menita: I need your word.
+[NPC] Menita: Promise me you will never share what I am going to tell you.
+[NPC Internal] I promise, I will keep these secrets.
+[NPC] Menita: The first secret is the Seventh Way.
+[NPC] Menita: Until now, I assume, you know only six Ways, but there is a Seventh.
+[NPC] Menita: The Seventh is the essence of all the other Ways, but is also none of them.
+[NPC] Menita: It is magic without the glyphs created by Talad.
+[NPC] Menita: This is 'Wild' magic, something outside the rules of the Gods.
+[NPC] Menita: Diaboli used it, since they are the only race who cast magic before arriving in Yliakum.
+[NPC Narrate] -The tone of Menita grows harder, and colder.-
+[NPC] Menita: Be careful, and pay special attention to my next words.
+[NPC] Menita: Your level of power will give you sense of the existence of the Seventh Way.
+[NPC] Menita: Temptation will strike you.
+[NPC] Menita: And you have to contrast it.
+[NPC] Menita: Otherwise 'Wild' magic will wipe out your very soul.
+[NPC] Menita: You will be put to True Death if the Seventh Way does not destroy you first.
+[NPC] Menita: Is this understood?
+[NPC Internal] Yes, Mistress Menita.
+[NPC] Menita: The danger bursting out from the Seventh Way overreaches imagination of mortals.
+[NPC] Menita: Two mages attempted to master it until now, and they suffered a fate I would wish on no one.
+[NPC Narrate] -Menita pauses, closing her eyes for a moment.-
+[NPC] Menita: Now, I have to tell you about another hidden knowledge.
+[NPC] Menita: Something not even I wish to know, a threat to the existence itself.
+[NPC] Menita: The Circles, especially the Masters, are fighting a war against this Dark entity.
+[NPC] Menita: These battles are hidden to the eye of the people of Yliakum, but you have to know.
+[NPC] Menita: Our enemy is called the BlackFlame.
+[NPC] Menita: Have you ever heard about it?
+[NPC Internal] No, never.
+[NPC] Menita: I wish to fill the pool of your knowledge.
+[NPC] Menita: But my information could be only a raindrop in the abyss.
+[NPC] Menita: None knows for sure what the BlackFlame is.
+[NPC] Menita: Someone supposes it is a God.
+[NPC] Menita: While others believe it is a force of destruction.
+[NPC] Menita: I haven't the answer to what is the BlackFlame, but I can say that its touch infects and deprives the creations of the other Ways.
+[NPC] Menita: Your path will surely teach you more about this, maybe it will grant you access to the Vault of Ages in Arden.
+[NPC] Menita: Even I had that privilege only once.
+[NPC] Menita: I was allowed to catch a glimpse of what is kept in the Vault of Ages, no more.
+[NPC] Menita: That day I discovered…
+[NPC Narrate] -Menita lowers her eyebrows for a moment. When she opens them again her eyes glance with a icy light.-
+[NPC] Menita: Much of the past is hidden, and I did not know why, until my visit in Arden.
+[NPC Narrate] -Menita takes a long breath.-
+[NPC] Menita: You will understand, for yourself.
+[NPC] Menita: Not today, but when your time will come.
+[NPC] Menita: So you need only one last thing.
+[NPC] Menita: Proofs hold truth.
+[NPC] Menita: This cloak is a proof, and the truth is you.
+[NPC] Menita: YOU.
+[NPC] Menita: *Your name*, filling it with a new mean.
+[NPC] Menita: A Master.
+[NPC Narrate] -Menita puts away the old cloak and opens a sack, taking out a new cloak. She offers it to you.-
+[NPC] Menita: A new cloak for you, a new master.
+[NPC] Menita: Your path now goes beyond me.
+[NPC Narrate] -She hands you an amulet.-
+[NPC] Menita: Take this to Levrus, so you will complete this stage of growth.
+
+[Reward] [XP] 20600; [Item] 1, Master's Azure Way Robe; [Item] 1, Master of Ways Amulet; [Faction] 50, Azure Order
+

@@ -1,0 +1,114 @@
+[Questname] Dizzy Bevon
+[NPC Name] Bevon Damerr
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Bjorid Needs Hiccup Help
+
+[To] Bevon Damerr
+
+[NPC Internal] Could you use some help?
+[NPC] Bevon: Oh, you wanna help me?
+[NPC] Bevon: Great, I need some stuff from Charisa.
+[NPC] Bevon: If ya could go'n get it that'd be great.
+[NPC] Bevon: I reckon I'll pay ya, so what d'ya say?
+[NPC Internal] Sounds simple enough. Sure.
+[NPC] Bevon: I knew I could count on ya.
+[NPC] Bevon: Go tell 'er that Bevs needs his medicine.
+[NPC] Bevon: Thank ya kindly.
+
+[To] Charisa Malod
+
+[NPC Internal] I'm supposed to tell you that “Bevs” needs his medicine.
+[NPC] Charisa: Ah yes, Bevs.
+[NPC] Charisa: Hmm, let us see…
+[NPC Narrate] -Charisa looks through a sack full of vials and other assorted containers.-
+[NPC] Charisa: Here's the one.
+[NPC] Charisa: It's a pity poor Bevs gets so dizzy.
+[NPC] Charisa: Every week I give him this and every time it has less effect.
+[NPC] Charisa: If it keeps up like this, I may have to look into more potent and dangerous means of helping him.
+[NPC] Charisa: Let's hope it doesn't come to that.
+[NPC] Charisa: Poor lad has enough to worry about, what with that pterosaur.
+[NPC Narrate] -Charisa pulls out a vial from her sack.-
+[NPC] Charisa: Ah, here it is, give this to Bevs and make sure he takes it.
+[NPC] Charisa: Should last him a while.
+
+[To] Bevon Damerr
+
+[NPC Internal] I've brought medicine from Charisa, and I'm to make sure that you take it.
+[NPC] Bevon: Thank'ya, Enkidukai.
+[NPC Narrate] -Bevon slowly plays with the vial in his hand.-
+[NPC] Bevon: You know, it wasn't always dis bad.
+[NPC] Bevon: Used ta be tolerable.
+[NPC Narrate] -Bevon Damerr's is shaking lightly with a forced smile on his face.-
+[NPC] Bevon: Live with what life gives ya, friend.
+[NPC] Bevon: Speaking of which, I owe Charisa.
+[NPC] Bevon: Hey, could you take something to Charisa for me?
+[NPC Internal] I can do that.
+[NPC] Bevon: You really are a friend, y'know?
+[NPC] Bevon: Here's the tria.
+[NPC] Bevon: The sack is secure.
+[NPC] Bevon: Just in case you done get robbed, y'see.
+[NPC Narrate] -Bevon smiles lightly.-
+[NPC] Bevon: Troublin' times and all.
+[NPC] Bevon: Thanks again, pal.
+
+[To] Charisa Malod
+
+[NPC Internal] I've brought payment from Bevon.
+[NPC] Charisa: Oh, thank Laanx you are here!
+[NPC Narrate] -Charisa takes the offered sack without really paying attention to it.-
+[NPC] Charisa: I just got a message that Bevs collapsed.
+[NPC] Charisa: I'm going there now.
+[NPC] Charisa: Something about a wheezing sound and a pterosaur.
+[NPC] Charisa: He has a brother called Pevrin Damerr in the Winch.
+[NPC] Charisa: I know something about the pterosaur but if you ask his brother about it, I'm sure he could shed some light.
+[NPC] Charisa: Can you enter that area?
+[NPC Internal] I've been there lots. It's quite pretty.
+[NPC] Charisa: I thought you could.
+[NPC] Charisa: Now off you go to ask Pevrin about pterosaurs.
+
+[To] Pevrin Damerr
+
+[NPC Internal] So, will you tell me a bit about pterosaurs?
+[NPC] Pevrin: Oh, they're great beasts, these pterosaurs, but they can be dangerous.
+[NPC] Pevrin: My brother Bevon, for instance, had a terrible experience with a pterosaur…
+[NPC] Pevrin: come to think of it, the pterosaur had a terrible time with my brother, too.
+[NPC] Pevrin: Y'see a couple years ago my brother and I were eating lunch together around my pterosaurs and Bevon points at this large one and asks about 'im.
+[NPC] Pevrin: I say that he's an interesting pterosaur and that he's great fun to fly on.
+[NPC] Pevrin: Bevon backs down a bit but, in the end, I get him to fly.
+[NPC] Pevrin: Now, Bevon has this thing with dizziness.
+[NPC] Pevrin: He gets it a lot and he got it while flying which scared him halfway to the Death Realm.
+[NPC] Pevrin: So he grabs real tight round the pterosaur's neck.
+[NPC] Pevrin: It panics and lands, he scrambles away and me and ten of my guys restrain the pterosaur.
+[NPC] Pevrin: It kept wheezing ever after that.
+[NPC] Pevrin: Oh…
+[NPC] Pevrin: hey…
+[NPC] Pevrin: why are you here?
+[NPC] Pevrin: Who sent you?
+[NPC Internal] Charisa and I were talkin' about your brother.
+[NPC] Pevrin: Is Bevon alright?
+[NPC] Pevrin: Does this by any chance have to do with the pterosaur?
+[NPC Internal] It very well could, yes.
+[NPC] Pevrin: Ho-hey, that's great, 'ere ya go.
+[NPC] Pevrin: This'll please him.
+[NPC Narrate] -Pevrin passes you a piece of paper.-
+[NPC] Pevrin: The pterosaur that Bevon is so afraid of died a few days ago.
+[NPC] Pevrin: I just got the report now.
+[NPC] Pevrin: You should give it to Bevon to see if it soothes his nerves.
+[NPC] Pevrin: Perhaps some good can come of the poor creature's death.
+
+[To] Bevon Damerr
+
+[NPC Internal] Your brother thought this might calm you a bit.
+[NPC Narrate] -Bevon looks at you oddly as you wake him up to give him the report. He reads it slowly, a smile gracing his face as he finishes it.-
+[NPC] Bevon: I hate to celebrate the death of anything but…
+[NPC] Bevon: but this is great news.
+[NPC] Bevon: Thank ya, pal, you've made mah life much better.
+[NPC] Bevon: Here, take this!
+[NPC] Bevon: And this.
+[NPC] Bevon: You really are a pal.
+[NPC] Bevon: I still hate them pterosaurs, though, an' I reckon I always will.
+
+[Reward] [Money] 7310; [XP] 15000; [Item] 1, Dagger; [Faction] 30, Science Association
+

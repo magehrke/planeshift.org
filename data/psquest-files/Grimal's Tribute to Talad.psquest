@@ -1,0 +1,300 @@
+[Questname] Grimal's Tribute to Talad
+[NPC Name] Grimal Bloodaxe
+[Checkup] 2017-03-30
+[Authors] Huarwar Eruera
+
+[Need] [Quest] None; [Item] 2, Beer Mug; [Money] 450
+
+[Give] Grimal Bloodaxe; 1, Beer Mug
+
+[Info] You have to do it manually since there is no dialogue.
+
+[NPC ME] Grimal Bloodaxe eagerly takes the mug and sips from the beer.
+[NPC] Grimal: Ahhh, now that hit the spot.
+[NPC] Grimal: My thanks, Klyros.
+[NPC ME] Grimal Bloodaxe takes another sip.
+[NPC] Grimal: You seem to be of the helpful sort.
+[NPC] Grimal: Will you help an old dwarf strengthen his ties with Talad?
+[NPC Internal] Of course I will help.
+[NPC ME] Grimal Bloodaxe nods, then takes another sip from the beer, as he wipes the foam from his beard he looks at you with fixed eyes.
+[NPC] Grimal: Let me know when you are ready to start.
+[NPC Internal] Now is as good as ever.
+[NPC ME] Grimal Bloodaxe glances towards the red iron temple, then refocuses his gaze on you.
+[NPC] Grimal: Talad has been good to me.
+[NPC] Grimal: During my time as a member of the Sunshine Squadron, I have been in many a battle.
+[NPC ME] Grimal Bloodaxe pauses for a moment and rubs his face with both hands.
+[NPC] Grimal: I know Talad held his protective hand over me many times.
+[NPC] Grimal: But I have rarely thanked Him properly for doing so.
+[NPC] Grimal: I need you to help me to give proper thanks to Talad for all He has done.
+[NPC ME] Grimal Bloodaxe picks up his axe and runs a thumb down the edge.
+[NPC] Grimal: Now that I am retired, I have more than enough time to give thanks.
+[NPC ME] Grimal Bloodaxe returns the axe to his side.
+[NPC] Grimal: I hear there is a servant of Talad in Gugrontid.
+[NPC] Grimal: Go and tell Kra I want to thank Talad, I'm sure he can think of some way for me to do that properly.
+[NPC ME] Grimal Bloodaxe takes another sip from his beer.
+
+[To] Quasus Adyum
+
+[NPC Internal] Hello, Grimal would like help with giving thanks to Talad.
+[NPC ME] Quasus Adyum listens intently as you tell him Grimal's plan.
+[NPC] Quasus: I see...
+[NPC] Quasus: Well Klyros, I would suggest that your friend should write a book as a tribute to Talad.
+[NPC] Quasus: He could perhaps write about how he spoke to Talad and how Talad then kept him safe during his battles.
+[NPC] Quasus: This way everyone will know what a great warrior he was and what a caring God Talad is for keeping him safe through all those horrific battles...
+[NPC ME] Quasus Adyum nods.
+[NPC] Quasus: Yes, I would say a book is the way to go.
+[NPC ME] Quasus Adyum stares at the crystal for a few seconds.
+[NPC] Quasus: If your friend finishes his book, bring a copy to me and I will take it to Talad's main temple.
+[NPC] Quasus: It would not hurt to take another copy to Ojaveda to be placed at their shrine.
+[NPC ME] Quasus Adyum smiles at you.
+[NPC] Quasus: I eagerly await your return with the book.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Quasus suggests that you write a book explaining how Talad helped you.
+[NPC ME] Grimal Bloodaxe rubs the top of his head and looks at you with a raised eyebrow.
+[NPC] Grimal: I must write a book you say.
+[NPC] Grimal: Hmm...
+[NPC] Grimal: This is not quite what I had in mind, but if the priest told you so, then I will do it.
+[NPC ME] Grimal Bloodaxe looks to the ground, then back to you.
+[NPC] Grimal: I will require some help with this.
+[NPC] Grimal: Will you help me again?
+[NPC Internal] I have time to help, what do you need?
+[NPC ME] Grimal Bloodaxe gives a sigh of relief.
+[NPC] Grimal: You are warming this old dwarf's heart, friend.
+[NPC] Grimal: Let's see, I will need lots of ink and paper, would you be so kind as to fetch me two.
+[NPC] Grimal: This will give me some time to reflect over what I want to write about Talad.
+[NPC ME] Grimal Bloodaxe starts swinging his axe at his side.
+[NPC] Grimal: What to write...
+[NPC] Grimal: What to write...
+[NPC] Grimal: Think Grimal think.
+
+[To] Jayose
+
+[NPC] Jayose: Welcome to Jayose's Librams and Codexes. I hope your visit is an enlightening one.
+[NPC Internal] Could I have two pieces of ink and paper?
+[NPC ME] Jayose glances up at you over a pile of papers.
+[NPC] Jayose: Have, No.
+[NPC] Jayose: But you can buy two from me for 50 tria each.
+
+[Give] Jayose; 100, Tria
+
+[NPC Internal] Here are your tria.
+[NPC] Jayose: And here are your two Ink and Paper.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] I have the ink and paper.
+[NPC ME] Grimal Bloodaxe only realises you're standing there as you hand him the ink and paper.
+[NPC] Grimal: Back so soon?
+[NPC] Grimal: Thanks for getting them for me, but I was unable to come up with an idea for the book.
+[NPC ME] Grimal Bloodaxe looks out over Hydlaa.
+[NPC] Grimal: What I need is a muse.
+[NPC ME] Grimal Bloodaxe ponders for a few minutes, then gives a big smile.
+[NPC] Grimal: A nice big frothy muse...
+[NPC] Grimal: Bring me another beer, that will do the trick.
+[NPC] Grimal: Lubricate this ol' brain of mine.
+
+[Give] Grimal Bloodaxe; 1, Beer Mug
+
+[NPC Internal] Here is your beer.
+[NPC ME] Grimal Bloodaxe takes a long sip from the beer.
+[NPC] Grimal: Now I'm ready to write this book.
+[NPC] Grimal: Come back and ask me if I am done in a few days, I might be done by then.
+[NPC ME] Grimal Bloodaxe takes another sip of beer.
+
+[Time] Wait 5 minutes
+
+[NPC Internal] Are you done yet?
+[NPC ME] Grimal Bloodaxe glares at you.
+[NPC] Grimal: Ah, what a joke, funny Klyros.
+[NPC] Grimal: I am only just starting the book now.
+[NPC] Grimal: I needed another muse...
+[NPC] Grimal: or two, before I could start.
+[NPC ME] Grimal Bloodaxe chuckles softly.
+[NPC] Grimal: Come back in a few more days.
+
+[Time] Wait 5 minutes
+
+[NPC Internal] Are You done now?
+[NPC ME] Grimal Bloodaxe looks at you.
+[NPC Narrate] -His hands and face are covered in ink-stains.-
+[NPC Narrate] -His face is filled with a deep look of despair.-
+[NPC] Grimal: Almost, young one.
+[NPC] Grimal: Just give me a few more days.
+
+[Time] Wait 5 minutes
+
+[NPC Internal] What about now, you must be done?
+[NPC ME] Grimal Bloodaxe smiles broadly.
+[NPC] Grimal: Huarwar, my friend.
+[NPC] Grimal: I am finally done.
+[NPC ME] Grimal Bloodaxe sighs in relief.
+[NPC] Grimal: The only problem is that my spelling is absolutely terrible, so I would like to have it read and corrected by a much more able person than I.
+[NPC] Grimal: Will you help me find a good scribe to do so?
+
+[NPC Internal] Yes I can do that.
+
+[NPC MY] Grimal Bloodaxe's smile widens further.
+[NPC] Grimal: That is marvellous news.
+[NPC] Grimal: Here take this and find a scribe.
+[NPC ME] Grimal Bloodaxe goes to hand you his book but pauses.
+[NPC] Grimal: Actually...
+[NPC] Grimal: Would you like to hear some of what I wrote, I would hate for it not to be worthy of Talad.
+
+[NPC Internal] Yes, I'd love to hear what Talad did for you.
+
+[NPC Narrate] -The old wrinkled face of Grimal smiles as you speak.-
+[NPC] Grimal: I was hoping you would.
+[NPC Narrate] -He opens the small book and picks a passage to read for you.-
+[NPC] Grimal: Ok, let me read you this...
+[NPC] Grimal: As I was accepted in to the Sunshine Squadron I knew this was what Talad had wanted of me.
+[NPC] Grimal: Feeling his presence behind me during all of my trials and tribulations my faith was rewarded, all of my prayers were answered with the bestowing of the Squadron's badge.
+[NPC] Grimal: To celebrate my acceptance I had an axe made, one that I had spent a long time designing; it was a perfect embodiment of all I felt of Talad.
+[NPC] Grimal: Though all that I had asked of him was little compared to what he would soon put me thought to test my faith...
+[NPC ME] Grimal Bloodaxe closes the book.
+[NPC] Grimal: Do you like it?
+[NPC] Grimal: Of course you do.
+[NPC] Grimal: Here, you can take this to get checked over now.
+
+[To] Talisa Tamariss
+
+[NPC Internal] Can you take a look at this?
+[NPC ME] Talisa Tamariss inspects the book.
+[NPC] Talisa: What would you like me to do with this?
+[NPC Internal] Can you check all the spelling for me?
+[NPC ME] Talisa Tamariss nods.
+[NPC] Talisa: I see...
+[NPC] Talisa: Very well.
+[NPC Narrate] -She then flips through the book.-
+[NPC] Talisa: It will probably take me a few hours to completely correct the spelling in this one, quite bumpy handwriting.
+[NPC] Talisa: And it's going to cost you, say, 100 tria.
+[NPC] Talisa: Just ask me if I am done in a few hours.
+[NPC ME] Talisa Tamariss removes an empty book from her backpack and starts to work.
+
+[Time] Wait 5 minutes
+
+[NPC Internal] Have you finished?
+[NPC ME] Talisa Tamariss smiles as she holds out the books in front of you.
+[NPC] Talisa: Yes, I am.
+[NPC] Talisa: Do you have the money?
+[NPC ME] Talisa Tamariss holds out her other hand.
+
+[Give] Talisa Tamariss; 100, Tria
+
+[NPC Internal] Here you are Talisa.
+[NPC ME] Talisa Tamariss hands you the books.
+[NPC] Talisa: Pleasure doing business with you, Sir.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Here is your corrected draft.
+[NPC ME] Grimal Bloodaxe quickly flips through the corrected book and laughs.
+[NPC] Grimal: You never really know how bad your writing is until someone fixes it all for you.
+[NPC] Grimal: This looks really nice...
+[NPC] Grimal: Thank you friend!
+[NPC] Grimal: You have helped me once again.
+[NPC] Grimal: I'm afraid I have one more favour to ask of you.
+[NPC] Grimal: Would you be so kind as to take this book to Jayose and have him make some copies of it?
+[NPC Internal] Sure, I can help you out again.
+[NPC ME] Grimal Bloodaxe smiles.
+[NPC] Grimal: You are too kind.
+[NPC] Grimal: I require two copies of this one.
+[NPC ME] Grimal Bloodaxe hands you a book.
+[NPC] Grimal: You can hand them to me at the same time.
+
+[To] Jayose
+
+[NPC Internal] I was told to give you this.
+[NPC ME] Jayose takes the book and studies it.
+[NPC] Jayose: This is not one of my books.
+[NPC] Jayose: What do you need doing with it?
+[NPC Internal] I need two copies made.
+[NPC ME] Jayose gives an annoyed smile.
+[NPC] Jayose: It would be my pleasure, I guess...
+[NPC ME] Jayose nods as he removes two empty books and a glyph from a drawer.
+[NPC Narrate] -He performs his copy book spell twice and nods at you as he returns the glyph to the drawer.-
+[NPC] Jayose: There we go.
+[NPC] Jayose: It will cost you 250 tria.
+[NPC ME] Jayose taps his fingers on the table as he waits for the money.
+
+[Give] Jayose; 250, Tria
+
+[NPC Internal] Here is your tria.
+[NPC ME] Jayose slides the books towards you and takes the money.
+[NPC] Jayose: Please call again.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Here are your books.
+[NPC ME] Grimal Bloodaxe applauds as you give him the books.
+[NPC] Grimal: Well done, Klyros.
+[NPC] Grimal: I have one last favour to ask of you.
+[NPC] Grimal: Would you deliver a book to Toda in Ojaveda and after one to Quasus in Gugrontid for me?
+[NPC Internal] I think I can do that.
+[NPC ME] Grimal Bloodaxe smiles with glee.
+[NPC] Grimal: You are truly being amazing to me, kind Klyros.
+[NPC] Grimal: You can take this first book to Toda.
+[NPC] Grimal: If she asks what it is for just tell her about me.
+[NPC ME] Grimal Bloodaxe hands you a book.
+[NPC] Grimal: And this one is for Quasus.
+[NPC Narrate] -He then hands you another book.-
+[NPC] Grimal: Let me know when you are done.
+
+[To] Toda Ombretis
+
+[NPC Internal] I have this book for you.
+[NPC ME] Toda Ombretis looks at you with confusion.
+[NPC] Toda: What is this all about?
+[NPC Internal] It is from Grimal Bloodaxe.
+[NPC ME] Toda Ombretis looks at the book and nods, smiling at you.
+[NPC Narrate] -She opens it and reads over a few of the pages.-
+[NPC] Toda: Oh, it's a book to give thanks to Talad.
+[NPC] Toda: What a great idea.
+[NPC] Toda: I don't think I've seen anything like this before.
+[NPC] Toda: People normally bring items precious to them.
+[NPC] Toda: I will place this at Talad's shrine for all to read.
+[NPC] Toda: A safe journey to you friend and may Talad bless you.
+
+[To] Quasus Adyum
+
+[NPC Internal] I am back with the book you suggested.
+[NPC ME] Quasus Adyum seems amazed as you give kra the book.
+[NPC] Quasus: I had given up hope that you would return with a copy for me.
+[NPC] Quasus: It has been many days since you asked for my help.
+[NPC] Quasus: I am glad your friend was able to complete the book.
+[NPC] Quasus: Let me have a quick peek.
+[NPC ME] Quasus Adyum quickly flips through the book.
+[NPC] Quasus: Very nice, very nice indeed...
+[NPC] Quasus: Ah I see it is from Grimal.
+[NPC] Quasus: A long time devout Talad follower.
+[NPC] Quasus: Would you be interested in hearing what he thinks of Talad?
+[NPC Internal] I'd love to hear some of what he has to say.
+[NPC ME] Quasus Adyum nods.
+[NPC Narrate] -Kra then flicks though the book a picks a passage before kra begins to speak.-
+[NPC] Quasus: This seems to be a passage about one of Grimal's first expeditions...
+[NPC] Quasus: We had been trudging though the labyrinth for two weeks, tracing back a group of creatures which had tried to break though the Bronze doors.
+[NPC] Quasus: There had been a few little fights but nothing we couldn't handle.
+[NPC] Quasus: When we finally caught up with them the battle was vicious, many of my new friends were torn to pieces.
+[NPC] Quasus: All of the rest of us were injured, me and few others badly.
+[NPC] Quasus: I could hear many of those lying in their own blood just pleading to be saved, just waiting for a healer to reach them.
+[NPC] Quasus: I sat praying silently to Talad, praying for him to give me strength to live until help found us.
+[NPC] Quasus: I spent my energy in prayer before fatigue overcame me.
+[NPC] Quasus: During the following night as the patrol was recovering and waiting for help the creatures came and took many of the weakest.
+[NPC] Quasus: Destroying them as they did.
+[NPC] Quasus: I, despite being among the worst off, was left unharmed as those round me were taken.
+[NPC] Quasus: I could only thank Talad when I awoke to see what had happened and felt truly blessed from that day that Talad listened to my prayers.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] I've delivered your books.
+[NPC ME] Grimal Bloodaxe shakes his head.
+[NPC] Grimal: You are so fast, my legs would not allow me travel that fast any more.
+[NPC ME] Grimal Bloodaxe smiles warmly at you.
+[NPC] Grimal: You have done this old dwarf a great service.
+[NPC] Grimal: I am honoured to call you my friend, Huarwar.
+[NPC] Grimal: Please accept these as a token of my gratitude.
+[NPC] Grimal: Don't be shy, come around again in the future and we can have a beer or two together.
+[NPC ME] Grimal Bloodaxe waves to you then starts playing with his axe.
+
+[Reward] [XP] 12200; [Money] 3391

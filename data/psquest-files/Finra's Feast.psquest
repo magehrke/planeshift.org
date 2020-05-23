@@ -1,0 +1,76 @@
+[Questname] Finra's Feast
+[NPC Name] Finra Neticlo
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Bead of Sanity; [Money] 10
+
+[To] Finra Neticlo
+
+[NPC Internal] Can I help with something?
+[NPC] Finra: You wish to help Finra.
+[NPC] Finra: Helping Finra means sometimes undoing, sometimes generating chaos, sometimes destruction…
+[NPC Narrate] -Finra pauses as if giving careful thought to his words.-
+[NPC] Finra: Do you still wish to help Finra?
+[NPC Internal] Yeah, sure.
+[NPC Narrate] -Finra graces you with an oily smile.-
+[NPC] Finra: Good.
+[NPC] Finra: Finra needs food!
+[NPC] Finra: Much food.
+[NPC] Finra: Before the ritual we must feast!
+[NPC] Finra: Go to Kada-El's, they have Finra's food.
+[NPC] Finra: Ask for Xilatorig's food, just a random name
+[NPC Narrate] -laughs-
+
+[To] Allelia Symiestra
+
+[NPC Internal] I was sent for Xilatorig's food.
+[NPC] Allelia: Ah yes.
+[NPC] Allelia: I have an order right here under the name of Xilatorig, an interesting name for interesting food.
+[NPC] Allelia: That'll be two hexas, please.
+[NPC Narrate] -Allelia holds out her hand.-
+[NPC Internal] Here are your hexa.
+[NPC] Allelia: Thank you and here you go.
+[NPC Narrate] -Allelia hands you a large box.-
+[NPC] Allelia: All the food is in there, from the bread to the pickled rat liver…
+[NPC Narrate] -Allelia gives the box a distasteful glance as her voice trails off.-
+[NPC] Allelia: I see there are no drinks ordered, I hope that's ok.
+
+[To] Finra Neticlo
+
+[NPC Internal] Here is your order.
+[NPC] Finra: Good good, Finra thanks you, Kran.
+[NPC Narrate] -Finra looks you up and down.-
+[NPC] Finra: There is more, Finra wanted to see if he could trust you.
+[NPC] Finra: Finra can!
+[NPC] Finra: Go to Brado and get Finra's drinks.
+[NPC] Finra: Bring them to Finra and you will be rewarded.
+[NPC Narrate] -Finra hands you some coins.-
+[NPC] Finra: To pay for Finra's things.
+
+[To] Brado
+
+[NPC Internal] I was sent for Xilatorig's drinks.
+[NPC] Brado: Aye, took me some time to find out those drinks and
+[NPC Narrate] -he tries to find the right word-
+[NPC] Brado: liquids.
+[NPC] Brado: Here you go.
+[NPC] Brado: Be careful you don't spill any on yourself or you will smell for days!
+[NPC Narrate] -Brado puts a large box on the counter and holds out a hand for payment.-
+[NPC] Brado: That'll be two hexas.
+[NPC Internal] Here are your hexa.
+[NPC] Brado: Thank you kindly, Kran.
+[NPC] Brado: Have a good day now.
+[NPC Narrate] -Brado hands you the large box.-
+
+[To] Finra Neticlo
+
+[NPC Internal] Here is your other order.
+[NPC] Finra: Great!
+[NPC] Finra: Thank you, Kran.
+[NPC] Finra: Finra will not forget you…
+[NPC] Finra: You may leave for now, and have this.
+[NPC] Finra: I will send a note to Relliom saying you helped me.
+
+[Reward] [Money] 2107; [XP] 10800; [Faction] 15, Cabal of Whispers
+

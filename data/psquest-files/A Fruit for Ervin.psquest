@@ -1,0 +1,38 @@
+[Questname] A Fruit for Ervin
+[NPC Name] Ervin Fromaad
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Introduction to Xiosia
+
+[To] Ervin Fromaad
+
+[NPC Internal] Hello, I'm looking for a job to do.
+[NPC Narrate] -Ervin examines you for a moment-
+[NPC] Ervin: I await a ruqua fruit from Jardet Forsill.
+[NPC] Ervin: It is a delicacy, and rumored to carry the blessings of Xiosia for those who eat it.
+[NPC Narrate] -Ervin smiles.-
+[NPC] Ervin: I can use all the blessings I can get, so I can't wait to taste it.
+[NPC] Ervin: Could you pick it up for me?
+[NPC Internal] Sure, sounds simple enough.
+[NPC Narrate] -Ervin nods.-
+[NPC] Ervin: Then hurry; I am hungry.
+
+[To] Jardet Forsill
+
+[NPC Internal] I need a ruqua fruit.
+[NPC] Jardet: Xiosia produces wonderful things, doesn't she?
+[NPC Narrate] -Jardet hands you a ruqua fruit.-
+[NPC] Jardet: Enjoy it: it tastes wonderful.
+
+[To] Ervin Fromaad
+
+[NPC Internal] Here you go, one blessin in the form of a ruqua fruit.
+[NPC Narrate] -Ervin grins.-
+[NPC] Ervin: Thanks, RACE
+[NPC Narrate] -Ervin bites into the fruit. An astonished look crosses his face.-
+[NPC] Ervin: This is even better than I imagined!
+[NPC] Ervin: Please come to me, when next you need work.
+
+[Reward] [XP] 9400; [Faction] 10, Seeds of Wildwood
+

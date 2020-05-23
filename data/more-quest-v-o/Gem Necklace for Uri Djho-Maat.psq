@@ -1,0 +1,165 @@
+[Questname] Gem Necklace for Uri Djho-Maat
+[NPC Name] Trasok Starhammer
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] No
+
+[Need] [Quest] Toda Needs Gold Rings; [Skill] 40, jewelry making; [Item] 3, diamonds; [Item] 5, sapphires; [Item] 6, emeralds; [Item] 2, rubies;
+
+[To] Trasok Starhammer
+
+[NPC Internal] I'm back to learn more about making jewelry.
+[NPC Narrate] Trasok Starhammer looks up from a scrap of paper.
+[NPC] Trasok Starhammer: So I see.
+[NPC] Trasok Starhammer: Well, I suppose it's as good a time as ever.
+[NPC] Trasok Starhammer: I have a job I've been asked to fill, you can help me and learn as we go.
+[NPC] Trasok Starhammer: As I don't really have time to work out what all of these bits mean.
+[NPC] Trasok Starhammer: Sound fair?
+[NPC Internal] Yes, you have a deal.
+[NPC] Trasok Starhammer: Good.
+[NPC] Trasok Starhammer: Uri Djho-Maat sent over an order for a fancy new necklace, but I can't quite make out what gems he wants where.
+[NPC] Trasok Starhammer: If ye go find out what he wants and bring back the necessary gems, I'll show ye how to add gems to jewelry.
+[NPC Internal] I'll do it.
+[NPC Narrate] Trasok Starhammer looks over the order again and sighs.
+[NPC] Trasok Starhammer: Some of this looks rather intricate, so the gems will have to be specially cut.
+[NPC] Trasok Starhammer: Make sure ye talk to Ondren Torr once ye're clear on what Sir Djho-Maat wants.
+[NPC] Trasok Starhammer: Kra is probably the best gem cutter in the Dome.
+
+
+[To] Uri Djho-Maat
+
+
+[NPC Internal] Trasok had some questions about your necklace order.
+[NPC] Uri Djho-Maat: I thought I was quite clear with what I wanted...
+[NPC Narrate] Uri Djho-Maat sighs.
+[NPC] Uri Djho-Maat: I suppose I should be thankful he asked instead of guessing wrong.
+[NPC] Uri Djho-Maat: Give it to me and I'll make it so even he can figure out what I want.
+[NPC Internal] Here you are. [You give Uri the order.]
+[NPC Narrate] Uri Djho-Maat makes some additional notes on the paper before handing it back to you.
+[NPC] Uri Djho-Maat: There...
+[NPC] Uri Djho-Maat: That should be clear enough for him.
+
+
+[To] Ondren Torr
+
+
+[NPC Internal] I need some gems cut for a special necklace. Trasok said you could help.
+[NPC] Ondren Torr: Did he now?
+[NPC] Ondren Torr: Well, not a bad guess.
+[NPC] Ondren Torr: What do you need?
+[NPC Internal] This is the design. [You hand Ondren the order.]
+[NPC Narrate] Ondren Torr studies the order.
+[NPC] Ondren Torr: I see.
+[NPC] Ondren Torr: This is indeed some intricate work.
+[NPC Narrate] Ondren Torr looks at you.
+[NPC] Ondren Torr: I don't have enough of the right gems at the moment.
+[NPC] Ondren Torr: If you get them for me I'll only bill Trasok for the cutting.
+[NPC] Ondren Torr: Or I can add them to my next order, but you'll have to pay for the gems in advance and it will take time to get them.
+[NPC Internal] I'll get them for you. What do you need?
+[NPC] Ondren Torr: I'll need three diamonds, four sapphires, six emeralds, and two rubies.
+[NPC Internal] Here are the gems you asked for. [You give Ondren the assortment of gems.]
+[NPC] Ondren Torr: Thank you.
+[NPC Narrate] Ondren Torr begins cutting the gems.
+[NPC Narrate] -Kra works for several minutes when suddenly kra frowns.-
+[NPC] Ondren Torr: Oh, dear.
+[NPC Internal] What is it?
+[NPC Narrate] >Ondren Torr doesn't pay attention to you.
+[NPC Internal] What is it?
+[NPC Narrate] Ondren Torr holds out kras hand to show you a shattered sapphire.
+[NPC] Ondren Torr: This happens sometimes when there's an imperfection in the gem.
+[NPC] Ondren Torr: Instead of cutting along the plane I want, the gem shatters along the flaw, leaving a pile of fragments.
+[NPC] Ondren Torr pops some of the fragments into kras mouth.
+[NPC] Ondren Torr: It doesn't affect the taste any, fortunately.
+[NPC] Ondren Torr: I'm afraid you'll need to get another sapphire while I work on the remaining gems.
+[NPC Internal] Here is the extra sapphire. [You give Ondren one more sapphire.]
+[NPC] Ondren Torr: Excellent.
+[NPC] Ondren Torr: I was able to complete cutting the other gems without incident.
+[NPC Narrate] Ondren Torr cuts the sapphire and adds it to a sack with the other gems.
+[NPC] Ondren Torr: Here are the cut gems and my bill for Trasok, along with the original order.
+
+
+[To] Trasok Starhammer
+
+
+[NPC Internal] I have the cut gems for Uri's necklace.
+[NPC] Trasok Starhammer: Ah, good.
+[NPC Narrate] Trasok Starhammer coughs.
+[NPC] Trasok Starhammer: I trust ye also have the updated necklace order from Sir Djho-Maat and the bill from Ondren?
+[NPC Internal] Yes, it's all here.
+[NPC] Trasok Starhammer: Ok, hand them over.
+[NPC Internal] [You give Trasok the sack of gems, the bill, and the clarified order.]
+[NPC Narrate] Trasok Starhammer looks at Ondren's bill before pouring the gems into his hand.
+[NPC Narrate] -He holds one of the cut gems up to the light.-
+[NPC] Trasok Starhammer: Ondren's skills don't come cheap, but kra sure does fin...
+[NPC Narrate] -He pauses.-
+[NPC] Trasok Starhammer: Doesn't really matter to me since I'll just add kras bill to the one I send to Uri.
+[NPC Internal] Will you show me how to add gems to jewelry now?
+[NPC Narrate] Trasok Starhammer looks at you.
+[NPC] Trasok Starhammer: Guess I should since ye held up your end of the bargain.
+[NPC] Trasok Starhammer: I made the necklace while ye were away.
+[NPC Narrate] Trasok Starhammer points to an unpolished platinum necklace.
+[NPC] Trasok Starhammer: Now for the socket to hold the gem.
+[NPC] Trasok Starhammer: First, ye need to make some wire of the same metal as the piece of jewelry.
+[NPC Narrate] Trasok Starhammer picks up a wire mold and steps over to the forge where he pours in a small amount of molten platinum.
+[NPC] Trasok Starhammer: Once ye have the wire, cut it into four strands.
+[NPC Narrate] Trasok Starhammer continues assembling Uri's necklace as he describes the process.
+[NPC] Trasok Starhammer: Use two strands to make the socket.
+[NPC] Trasok Starhammer: Next, take the socket and the piece of unpolished jewelry and put them together into a kit.
+[NPC] Trasok Starhammer: Of course at this point y'll need to have a good amount of skill in metallurgy...enough ta melt platinum.
+[NPC] Trasok Starhammer: If ye don't ye can always work with someone who does and get molten platinum that way.
+[NPC Internal] Can I attach a socket to a finished piece of jewelry I already have?
+[NPC] Trasok Starhammer: No, that won't work.
+[NPC] Trasok Starhammer: And make sure ye don't polish the jewelry before trying to attach the socket.
+[NPC] Trasok Starhammer: Ye set the gem in the socket -then- polish the piece up.
+[NPC Narrate] Trasok Starhammer finishes setting the gems and polishes the necklace until it almost glows.
+[NPC] Trasok Starhammer: A fine piece if I do say so myself.
+[NPC Narrate] Trasok Starhammer carefully wraps the necklace in a clean piece of cloth and hands it to you along with the bill.
+[NPC] Trasok Starhammer: Take this necklace and the bill to Uri.
+[NPC] Trasok Starhammer: When ye get back, I'll answer any further questions ye might have about making gemstone jewelry.
+
+
+[To] Uri Djho-Maat
+
+
+[NPC Internal] Here is your necklace. [You give him the necklace.]
+[NPC Narrate] Uri Djho-Maat unwraps and inspects the necklace.
+[NPC] Uri Djho-Maat: Trasok lives up to his secret reputation, he doesn't like people talking about his skill at jewelry making.
+[NPC] Uri Djho-Maat: This will be a most suitable gift.
+[NPC Narrate] Uri Djho-Maat looks at you.
+[NPC] Uri Djho-Maat: I suppose he sent a bill as well?
+[NPC Internal] Here it is. [You give Uri the bill.]
+[NPC Narrate] Uri Djho-Maat gives a quick glance at the bill and casually throws a large handful of coins in a pouch.
+[NPC] Uri Djho-Maat: Yes, yes, here you go.
+[NPC] Uri Djho-Maat: Since Trasok trusted you to deliver this, I will assume I can trust you to return with his payment.
+[NPC Narrate] Uri Djho-Maat hands you a pouch full of tria as he continues admiring the necklace.
+
+
+[To] Trasok Starhammer
+
+
+[NPC Internal] Here is Uri's payment for the necklace. He seemed quite pleased.
+[NPC] Trasok Starhammer: That's good to hear.
+[NPC] Trasok Starhammer: Happy customers are more likely to be repeat customers.
+[NPC] Trasok Starhammer: So do ya have any questions about jewelry making?
+[NPC Internal] Do you have the instructions written down for making this kind of jewelry?
+[NPC Narrate] Trasok Starhammer looks around and picks up a book from a corner.
+[NPC] Trasok Starhammer: Ah of course, almost forgot.
+[NPC] Trasok Starhammer: Ye can use this book to help remember the process.
+[NPC Internal] Will I eventually be able to make jewelry like the necklace you made for Uri?
+[NPC] Trasok Starhammer: The book I just gave you only covers how to set a single gem on a piece of jewelry.
+[NPC] Trasok Starhammer: I'm not going to give away all my crafting secrets.
+[NPC] Trasok Starhammer: However, this also means ye don't need to worry about learning how to cut gems.
+[NPC Internal] What about enchanted jewelry?
+[NPC] Trasok Starhammer: I don't deal with enchanted gems meself, but the process is the same except you use a gem enchanted by a mage.
+[NPC] Trasok Starhammer: As for the effect of the enchantment, y'll have to fig'er that out yerself.
+[NPC Internal] I think that answers all my questions. Thanks, Trasok.
+[NPC Narrate] Trasok Starhammer counts the coins from Uri and raises his eyebrows.
+[NPC] Trasok Starhammer: This is a lot of tria.
+[NPC] Trasok Starhammer: That guy loves throwing it around.
+[NPC] Trasok Starhammer: Here, since ye did a lot of the running around, take a share.
+[NPC Narrate] -He hands you a pouch of tria.-
+[NPC] Trasok Starhammer: Good, that's done.
+[NPC] Trasok Starhammer: Maybe now I can get some work done around here.
+
+
+[Reward] [Money] 3391; [XP] 10800; [Skill] +10, Faction with Smith Association; [Skill] +2, Jewelry Making; [Item] "Gemstone Jewelry";

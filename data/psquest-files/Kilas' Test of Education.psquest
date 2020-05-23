@@ -1,0 +1,46 @@
+[Questname] Kilas' Test of Education
+[NPC Name] Kilas Tungse
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Kilas wants his Abacus Back
+
+[To] Kilas Tungse
+
+[NPC Internal] Hello.
+[NPC] Kilas: Ah, my new Nolthrir friend.
+[NPC] Kilas: I've asked around about you, and they tell me your name is YOU.
+[NPC] Kilas: I'd like to see if you're as good at gaining knowledge as I am.
+[NPC] Kilas: Think you're up to it?
+[NPC Internal] Yes.
+[NPC] Kilas: Very well.
+[NPC] Kilas: Then let the test of education commence!
+[NPC] Kilas: The answers to my questions can be found in books, by examining items, or talking to townsfolk.
+[NPC] Kilas: Question the first: What species sits down as a gesture of friendship?
+[NPC] Kilas: Come back to me when you know.
+[NPC] Kilas: The answer should be the next thing you say to me.
+[NPC Internal] biorlitrosan
+[NPC] Kilas: That's the correct answer.
+[NPC] Kilas: Question the second: How many Vigesimi are there in total?
+[NPC Internal] 20 vigesimi
+[NPC] Kilas: There are 20 Vigesimi on each level. Did you want to know about one in particular?
+[NPC Internal] 160
+[NPC] Kilas: Good job.
+[NPC] Kilas: That's correct.
+[NPC] Kilas: Question the third: Which race is considered the first to use burial wells?
+[NPC Internal] lemur
+[NPC] Kilas: Impressive.
+[NPC] Kilas: That's correct.
+[NPC] Kilas: Question the fourth: The Kada-El Tavern has very soft beds.
+[NPC] Kilas: With what are they stuffed?
+[NPC Internal] sponge
+[NPC] Kilas: Very well done.
+[NPC] Kilas: You're almost there.
+[NPC] Kilas: This is your final question: Which town on the first level is closest to the Cups of Laanx?
+[NPC Internal] sarpendil
+[NPC] Kilas: That's correct.
+[NPC] Kilas: You are truly an expert information gatherer.
+[NPC] Kilas: Take this - I've been working on it for some time, and you may find it of interest.
+
+[Reward] [XP] 9400; [Item] 1, Hydlaa Housing Layout; [Faction] 10, Science Association
+

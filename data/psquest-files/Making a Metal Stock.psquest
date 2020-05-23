@@ -1,0 +1,37 @@
+[Questname] Making a Metal Stock
+[NPC Name] Harnquist
+[Checkup] 2017-04-11
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Learning Metal Working; [Money] 100
+
+[To] Harnquist
+
+[NPC Internal] How do you make metal stocks?
+[NPC] Harnquist: If you are interested in learning more about metal working, I can teach you.
+[NPC] Harnquist: Are you interested?
+[NPC] Harnquist: It will cost you one hundred tria.
+[NPC Internal] Yes, I'd be willing to pay that.
+[NPC] Harnquist: It seems that you're starting to like this job!
+[NPC] Harnquist: Give me one hundred tria and I will teach you a bit more about metal working.
+[NPC] Harnquist: I'm sorry to charge you money for this, but you are becoming a potential competitor!
+[NPC ME] Harnquist smiles.
+
+[Give] Harnquist; 100, Tria
+
+[NPC Internal] Here is your one hundred tria.
+[NPC] Harnquist: Ah, good.
+[NPC] Harnquist: You have to know that an ingot is just one of many materials needed to make real items.
+[NPC] Harnquist: To be more specific, you need a metal stock.
+[NPC] Harnquist: They are made of either 5 or 10 molten pieces depending on the different metals you use.
+[NPC] Harnquist: You've made a few ingots?
+[NPC] Harnquist: No problems!
+[NPC] Harnquist: Once you've made an ingot, you can turn it back to molten metal just by using the furnace.
+[NPC] Harnquist: Do you want to hear more?
+[NPC Internal] Yes, I would like to hear more.
+[NPC] Harnquist: Great!
+[NPC] Harnquist: To make metal stock, you have to place 10 molten pieces into the same stock casting slot.
+[NPC] Harnquist: So if you place one molten piece, you get an ingot; if you place ten, you get a stock.
+[NPC] Harnquist: If you find that too complicated, I think you'll just have to learn a different trade, my friend!
+
+[Reward] [XP] 10800; [Money] 2107; [Faction] 15, Smith Association

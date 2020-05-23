@@ -1,0 +1,81 @@
+[Questname] Book Delivery for Kelicha
+[NPC Name] Kelicha Anijiel
+[Checkup] 2017-09-10
+[Authors] Elito
+
+[Need] [Quest] Deadly Talons for Kelicha
+
+[To] Kelicha Anijiel
+
+[NPC Internal] Hi, may I do something else for you?
+[NPC] Kelicha: Humph?
+[NPC Narrate] -Stares at you clearly annoyed.-
+[NPC] Kelicha: You…
+[NPC] Kelicha: again…
+[NPC] Kelicha: well, at least, you can get the job done…
+[NPC] Kelicha: I have been asked by that Dilechi a certain book as he had some problems during his work…
+[NPC] Kelicha: However…
+[NPC] Kelicha: I am too busy to deliver it…
+[NPC] Kelicha: I have to stay here to operate my station.
+[NPC] Kelicha: I cannot leave my duties.
+[NPC] Kelicha: Would you care to delivery this book for me?
+[NPC Internal] Yes. Immediately!
+[NPC] Kelicha: Good…
+[NPC] Kelicha: just delivery this book to him.
+[NPC] Kelicha: Be careful it is a bit heavy.
+[NPC Narrate] -Kelicha gives you a heavy book she has on the floor and turns back to her work.-
+
+[To] Lerok Dilechi
+
+[NPC Internal] Kelicha told me to give you this.
+[NPC] Lerok: Are you sure good Kran?
+[NPC] Lerok: I don't remember asking her for anything...
+[NPC Narrate] -Lerok Dilechi seems to be thinking about something.-
+[NPC] Lerok: Maybe you are looking for my brother Hiacheius?
+[NPC] Lerok: He works at the Eagle Bronze Doors fortress.
+[NPC] Lerok: Uh...
+[NPC] Lerok: good luck with his riddles.
+[NPC Narrate] -Lerok Dilechi laughs and waves at you.-
+[NPC] Lerok: Farewell.
+
+
+[To] Hiacheius Dilechi
+
+[NPC Internal] Kelicha told me to give you this.
+[NPC Narrate] -Hiacheius Dilechi takes a look at the book and browses through it.-
+[NPC] Hiacheius: N-N-No this isn't g-g-good for me.
+[NPC] Hiacheius: I-I-I need something s-s-specific a-a-about water-wheels because I can't find the topic I needed here.
+[NPC] Hiacheius: Please a-a-sk K-K-Kelicha for the right one g-g-good Kran.
+[NPC] Hiacheius: I'll a-w-w-ait your return.
+
+[To] Kelicha Anijiel
+
+[NPC Internal] Hiacheius said that he needed a book specific on waterwheels: he couldn't find what he needed.
+[NPC Narrate] -Kelicha Anijiel takes the book back.-
+[NPC] Kelicha: I wonder what it was missing?
+[NPC] Kelicha: Oh well let me look...
+[NPC Narrate] -Kelicha Anijiel takes out a new book quite a bit smaller than the previous one and gives it to you.-
+[NPC] Kelicha: That's what he wanted.
+[NPC] Kelicha: I hope it has what he is looking for.
+
+[To] Hiacheius Dilechi
+
+[NPC Internal] Here is the book you've requested.
+[NPC] Hiacheius: Thanks G-G-Good Kran.
+[NPC Narrate] -Hiacheius Dilechi Searches the topic of his interest in the book and shows a smile.-
+[NPC] Hiacheius: H-H-Here is what I needed!
+[NPC] Hiacheius: T-T-Thanks again!
+[NPC] Hiacheius: P-P-Please thank Kelicha on my b-b-behalf, I will r-r-return her book later!
+[NPC Narrate] -Hiacheius Dilechi fumbles through a pouch and hands you some circles.-
+
+[To] Kelicha Anijiel
+
+[NPC Internal] He said to thank you and that he will return it to you later.
+[NPC] Kelicha: Good job.
+[NPC] Kelicha: Thanks for helping me on this but I've to return to work immediately.
+[NPC] Kelicha: Take these in exchange for your work.
+[NPC Narrate] -Kelicha goes back to work and doesn't look at you anymore.-
+
+[Reward] [Money] 12958; [XP] 17800; [Item] 1, Helms of Darmeth; [Faction] 20, Klyros; 
+[Reward] [Skill] 2, Armor Making;
+

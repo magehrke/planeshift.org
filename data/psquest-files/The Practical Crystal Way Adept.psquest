@@ -1,0 +1,99 @@
+[Questname] The Practical Crystal Way Adept
+[NPC Name] Tarmeen Alecheech
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge of the Crystal Way Adept; [Item] 1, Adept's Crystal Way Wand; [Item] 1, Apprentice's Crystal Way Robe; [Skill] 90, Crystal Way
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Please except my Way Wand as proof of being a student.
+[NPC] Tarmeen: As our time is coming to an end, I must admit that you have been a very good student.
+[NPC] Tarmeen: You have proven well your applied knowledge, YOU.
+[NPC] Tarmeen: It has not been easy to keep my faith from coloring your training, but I believe I have done so up to now.
+[NPC] Tarmeen: The Circles try to remain separate from the religions, as each Circle contains worshipers of all gods.
+[NPC] Tarmeen: In saying that, I need your help on a matter.
+[NPC Narrate] -Tarmeen hands back the wand.-
+[NPC] Tarmeen: Zhaomal of the Shadowcasters at the Eagle Bronze Doors has put in an urgent request, I need you to go there and let him know you are there to help.
+
+[To] Zhaomal Shehan
+
+[NPC Internal] Tarmeen sent me.
+[NPC] Zhaomal: Finally…
+[NPC Narrate] -Zhaomal looks at you with some curiosity.-
+[NPC] Zhaomal: Correct me if I am wrong, but you appear to be a dedicated student of the Crystal Way, not a simple follower of Laanx.
+[NPC] Zhaomal: No matter.
+[NPC] Zhaomal: I requested Tarmeen's aid because this is a matter of Laanx, not because he or any of his students are better in Crystal Way than what I am, as if that was possible.
+[NPC Narrate] -Zhaomal taps his chin.-
+[NPC] Zhaomal: I will give you the benefit of the doubt.
+[NPC] Zhaomal: The family of a young shadowcaster residing in Sarpendil is very ill.
+[NPC] Zhaomal: We tried potions, Life Infusion even the top realm Healing Flash all to no avail.
+[NPC] Zhaomal: I have realized that they were once avid worshippers of Laanx, but have since begun to grow lax in their practices.
+[NPC] Zhaomal: Though they have begun to worship in earnest again, and are improving, it does not seem as if their faith is strong enough.
+[NPC] Zhaomal: So Sir Crystal Way Adept, do you think there's a spell to cure them?
+[NPC] Zhaomal: Tell me the spell name.
+[NPC Internal] Cast curing Faith.
+[NPC Narrate] -Zhaomal opens his eyes in excitement.-
+[NPC] Zhaomal: Of course, cure someone by manipulating their faith.
+[NPC] Zhaomal: I was so stuck in my combination glyph spells I failed to see the single glyph, single way spell.
+[NPC] Zhaomal: I can see why Tarmeen sent you.
+[NPC] Zhaomal: Sometimes it takes a more simple mind to see the simple solutions.
+[NPC Narrate] -Zhaomal removes a Faith Glyph from his glyph sack, then pulls out another type of glyph.-
+[NPC] Zhaomal: Look at that.
+[NPC] Zhaomal: It seems I have an extra glyph here.
+[NPC] Zhaomal: Even I do not need more than one of each glyph.
+[NPC Narrate] -Zhaomal shakes his head.-
+[NPC] Zhaomal: You know what, you may have this glyph for helping.
+[NPC] Zhaomal: Perhaps you will consider joining the Shadowcasters in time.
+[NPC] Zhaomal: You do not need to join now, nor do I think you have enough talent.
+[NPC] Zhaomal: For that, you must achieve Adept status in all Way Circles, and Master in none.
+[NPC] Zhaomal: I only ask you consider it if that time comes.
+[NPC] Zhaomal: One more thing.
+[NPC] Zhaomal: Do say thank you to Tarmeen for sending such a talented Enkidukai.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Zhaomal sends his thanks.
+[NPC] Tarmeen: Well done, always interesting trying to break through that Shadowcaster's arrogance.
+[NPC] Tarmeen: Once you have, he is not so bad.
+[NPC Narrate] -Tarmeen gives a warm smile.-
+[NPC] Tarmeen: That robe you carry is no longer suitable for one of your skill.
+[NPC] Tarmeen: Please give it to me now.
+[NPC Internal] Here is the robe.
+[NPC] Tarmeen: As with the bracers, this no longer belongs to you.
+[NPC] Tarmeen: Now for your last question.
+[NPC] Tarmeen: This one is very important, as it will affect what you choose to do next.
+[NPC] Tarmeen: Tell me what Way directly opposes the Crystal Way.
+[NPC Internal] dark
+[NPC] Tarmeen: Correct again.
+[NPC] Tarmeen: You have proven your knowledge of the Crystal Way to me.
+[NPC] Tarmeen: I am honored to present you with your new robe, Adept of the Crystal Way.
+[NPC Narrate] -Tarmeen hands you a neatly folded robe.-
+[NPC] Tarmeen: I am sure Zhaomal tried to convince you to consider joining the Shadowcasters.
+[NPC] Tarmeen: If you are considering it, your last chance will soon be upon you.
+[NPC] Tarmeen: Take your new robe and show it to Govell.
+[NPC] Tarmeen: He will tell you of the choices you have to make.
+
+[To] Govell Mihdren
+
+[NPC Internal] Here is my new robe.
+[NPC] Govell: Tarmeen has approved of you.
+[NPC] Govell: Good.
+[NPC] Govell: Now you have to make a choice.
+[NPC] Govell: This is the last test before you will no longer be allowed to change your chosen Way of study.
+[NPC] Govell: Let me be very clear on this.
+[NPC] Govell: If you continue on the path to Way Master in the Crystal Way Circle you will not be able to advance beyond Adept, the rank you are now in the Dark Way Circle.
+[NPC] Govell: You will also not be able to advance beyond Adept in the Brown and Red Way Circles.
+[NPC] Govell: You will, as it is safe to be allowed to advance past the first Master's rank in Blue and Azure Way Circles, as they complement the power you will use as an Crystl Way mage.
+[NPC] Govell: Do you understand this?
+[NPC Internal] Yes, I believe I do.
+[NPC] Govell: Very well.
+[NPC] Govell: If you wish to follow the Crystal Way to the pinnacle of its majesty, you will need to finish your training to the extent of Tarmeen's abilities.
+[NPC] Govell: Then you may come to me and give me your wand together with another Adept's Crystal Way Wand and one Apprentice's Crystal Way Wand which also may be borrowed from a fellow student.
+[NPC] Govell: This is to prove you have the respect and trust of your Adept peers, as well as the Apprentices.
+[NPC] Govell: Remember, once you bring these three wands to me, there will be no turning back.
+[NPC] Govell: Think long and hard before you make this choice.
+[NPC] Govell: I am sure I will see you soon, YOU.
+
+[Reward] [XP] 16400; [Item] 1, Door glyph; [Item] 1, Adept's Crystal Way Robe; [Faction] 35, Crystal Order
+

@@ -1,0 +1,49 @@
+[Questname] Gardr Trust
+[NPC Name] Gardr Keck
+[Checkup] 2017-04-11
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Introduction to Special Metals
+
+[To] Gardr Keck
+
+[NPC Internal] Good day gemma, I'm an apprentice blacksmith and I would like to learn more.
+[NPC] Gardr: It's not easy for me to dedicate time to new apprentices and at the same time complete my work.
+[NPC Internal] Well, Trasok sent me.
+[NPC] Gardr: Ah, Trasok is a good friend of mine.
+[NPC] Gardr: I guess he had something in mind.
+[NPC Internal] Yes, Trasok told me you have lot of knowledge in rare and special metals, I want to learn more about this!
+[NPC] Gardr: Eh!
+[NPC ME] Gardr Keck shows you kras palms, raising kras hands
+[NPC] Gardr: I'm sorry Sir, but I cannot provide this special knowledge to anyone coming here and telling me Trasok sent him.
+[NPC] Gardr: May I ask why you need it?
+[NPC Internal] I need it because Trasok said we needed it to face... [You try to recall the tip from Trasok.]
+[NPC] Gardr: mmm...
+[NPC] Gardr: to face what?
+
+[Info] You have to write 'Invasions'.
+
+[NPC Internal] Invasions
+[NPC Narrate] -A dark shade passes in the eyes of Gardr-
+[NPC] Gardr: Invasions...
+[NPC] Gardr: those have been devastating our lands for long time, and seems we cannot put an end to this.
+[NPC] Gardr: Creatures in need of food hunt peaceful animals, villagers, and anyone these days!
+[NPC] Gardr: People are scared of even going outside the main cities.
+[NPC] Gardr: Is this a way to live?
+[NPC ME] Gardr Keck closes kras hand in a fist, shaking it
+[NPC] Gardr: ...
+[NPC] Gardr: But what has this to do with you?
+[NPC Internal] Exactly! I want to learn how to craft special weapons to be used against those creatures! And I need your help for this!
+[NPC] Gardr: Somehow you are right, but I've seen intelligent races help those creatures, even organizing them...
+[NPC] Gardr: how can I be sure that you will not use this knowledge in a wrong way?
+[NPC Internal] Tell me what I have to do to prove my good faith.
+[NPC ME] Gardr Keck smiles.
+[NPC] Gardr: I can surely use your help, but I cannot guarantee you that I will give you some knowledge in return.
+[NPC Internal] You are known in Gugrontid and beyond, so I trust your judgment on this choice. Let me prove I'm worthy of that knowledge!
+[NPC ME] Gardr Keck thinks for quite some time, looking straight into your eyes...
+[NPC] Gardr: Ok, it's a deal.
+[NPC Narrate] -Kra gives you kras right hand.-
+[NPC Internal] [You shake kras hand.] Deal!
+[NPC] Gardr: There is a lot to do and learn.
+
+[Reward] [XP] 15000; [Money] 7310; [Faction] 30, Smith Association

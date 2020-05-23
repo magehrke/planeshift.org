@@ -1,0 +1,117 @@
+[Questname] The Gobble Legacy
+[NPC Name] Tyrus Beaut
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Inviting Talent
+
+[To] Tyrus Beaut
+
+[NPC Internal] Could you use some help?
+[NPC] Tyrus: I do wish you to help me, if you would.
+[NPC] Tyrus: I have heard tell of two tribes of gobbles outside of Ojaveda.
+[NPC] Tyrus: I long to know more, in order to better record the lore of all creatures of Yliakum.
+[NPC] Tyrus: A bard's duty is not simply to the noteworthy, but to the history of all the land.
+[NPC] Tyrus: May I gain your aid?
+[NPC Internal] I'd love to help gather information for your tale.
+[NPC] Tyrus: Many thanks, traveller.
+[NPC] Tyrus: Please, speak to the Enkidukai of Ojaveda about gobbles.
+[NPC] Tyrus: One among them may know more.
+[NPC] Tyrus: I will grant you a gift of stones on your return with the story.
+
+[To] Hirenn Darmeth
+
+[NPC Internal] Can you help me learn more about gobbles?
+[NPC Narrate] -Hirenn looks up a moment from his work.-
+[NPC] Hirenn: Ahh, I'm between orders now, and have a bit of time.
+[NPC] Hirenn: Yes, I know a bit about them.
+[NPC] Hirenn: There are two tribes of gobbles in these parts, as I understand: the Eagle gobbles and the Serpent gobbles.
+[NPC] Hirenn: I trade in their parts sometimes.
+[NPC] Hirenn: That is all I know.
+[NPC] Hirenn: Jirosh Mikana trades goods all over Yliakum and may have heard more.
+[NPC] Hirenn: Try asking him about Eagle gobbles or Serpent gobbles.
+[NPC Narrate] -Hirenn turns back to his work.-
+[NPC] Hirenn: Good day to you.
+
+[To] Jirosh Mikana
+
+[NPC Internal] What can you tell me about Eagle and Serpent gobbles?
+[NPC] Jirosh: Eagle gobbles and Serpent gobbles?
+[NPC] Jirosh: I don't have much cause to run around fighting creatures.
+[NPC] Jirosh: It's bad for business, you know.
+[NPC] Jirosh: But…
+[NPC Narrate] -His face creases in concentration.-
+[NPC] Jirosh: Eagles and serpents, eagle and serpent…
+[NPC] Jirosh: Aha!
+[NPC Narrate] -Jirosh laughs ruefully.-
+[NPC] Jirosh: Right in front of my face, it was.
+[NPC] Jirosh: The dsar doors here in Ojaveda are all decorated with a serpent and eagle emblem.
+[NPC] Jirosh: But those doors were made long ago, so I don't know why that image was chosen, or what it may have to do with gobbles, if anything.
+[NPC] Jirosh: You might want to ask Brado about the Ojaveda doors.
+[NPC] Jirosh: He collects such tidbits to entertain his customers.
+
+[To] Brado
+
+[NPC Internal] Do you know why the entries are decorated like that?
+[NPC] Brado: 'Course I know about that!
+[NPC] Brado: My granddam used to tell me the story when I couldn't sleep as a cub.
+[NPC] Brado: She was training be a lore mistress when she was younger, but ended up raising a family instead.
+[NPC] Brado: No one wants to hear that old tale at the bar, though.
+[NPC] Brado: These younger Enkidukai don't seem to care about the city's history.
+[NPC] Brado: Or maybe I care too much.
+[NPC Narrate] -Brado shrugs.-
+[NPC] Brado: Never mind that, though.
+[NPC] Brado: I'd love to hear it told well, so I'll write it down for you.
+[NPC Narrate] -Brado licks his lips and takes a scroll from below the counter and rapidly writes upon it, keeping an eye on you and the tavern door.-
+[NPC] Brado: It warms my heart knowing there are still people out there that is interested in our history.
+[NPC] Brado: And yes, the gobbles do have something to do with it, but I won't tell you the tale just now, it's all written down here for you to read at your own leisure.
+[NPC Narrate] -Brado smiles and rolls the scroll before passing it to you.-
+[NPC] Brado: Safe journey to you.
+
+[To] Tyrus Beaut
+
+[NPC Internal] I got some information that might be of some help to you.
+[NPC Narrate] -Tyrus Beaut carefully reads the scroll and then nods slowly.-
+[NPC] Tyrus: Yes, this tale is what I wished for.
+[NPC] Tyrus: Good stone builds a strong home.
+[NPC] Tyrus: Seat yourself, and I will begin.
+[NPC Narrate] -Tyrus Beaut bows kras head in thought and absently strums the harp.-
+[NPC Narrate] -After a good while, Tyrus looks at you and runs kras fingers down each of the strings, catching your wandering attention.-
+[NPC] Tyrus: Ready, are you?
+[NPC Internal] Please play. I am looking forward to hearing this.
+[NPC Narrate] -Tyrus Beaut begins to play an adventurous tune with a walking sort of rhythm.-
+[NPC] Tyrus: Noble Eagle reaches the river; espies a Serpent, seeking to cross.
+[NPC] Tyrus: Serpent asks her 'Carry me, winged one!'
+[NPC Narrate] -Tyrus Beaut smiles and changes chords.-
+[NPC] Tyrus: Eagle screeches 'Your breed I don't trust.
+[NPC] Tyrus: You will bite me, and I'll die flying!' Snake cries to her, 'Faith, and none are lost.'
+[NPC Narrate] -Tyrus Beaut harp shifts to a slow rhythm.-
+[NPC] Tyrus: Winged one grabs Serpent, talons gentle.
+[NPC] Tyrus: They fly over sky, 'til cry fills air.
+[NPC Narrate] -Tyrus Beaut plays a jarring chord and changes key.-
+[NPC] Tyrus: Bird, bitten, screams 'Why did you do so?
+[NPC] Tyrus: Voyage was over, safety so near!' Snake says 'Eagle, I am as I am.
+[NPC] Tyrus: And you were fool to believe me more.' Serpent then squirms, striving for freedom,
+[NPC Narrate] -Tyrus Beaut harp begins a slowly repeating series of ascending chords.-
+[NPC] Tyrus: But Eagle goes higher, towards the Sun.
+[NPC] Tyrus: 'Eagle will teach you to keep your word.' Serpent seeks ground, but Eagle flies on…'til wings stiffen, then both bodies…
+[NPC] Tyrus: fall to the land.
+[NPC] Tyrus: Now that tale is done.
+[NPC Narrate] -Tyrus Beaut pauses, kras harp still singing but only gently. The tune gradually grows stronger, repeating the beginning phrases of the tune.-
+[NPC] Tyrus: But bards say 'Tale's end just starts the next.' And this tale lives on, gobbles prove it.
+[NPC] Tyrus: Seek ye the river, Eagles you'll see; Snakes too, so called by the Enkidukai wit.
+[NPC] Tyrus: Since each gobble tribe mirrors the life…
+[NPC] Tyrus: of Serpent or Eagle.
+[NPC] Tyrus: So be it!
+[NPC Narrate] -Tyrus Beaut smiles and strums a closing phrase.-
+[NPC] Tyrus: There.
+[NPC] Tyrus: Is it worthy?
+[NPC Internal] It was wonderful! I want to hear it again.
+[NPC Narrate] -A slow smile creeps across Tyrus' face.-
+[NPC] Tyrus: This poem pleases me, as well.
+[NPC] Tyrus: I hope to locate the proper place to perform it.
+[NPC Narrate] -Tyrus Beaut sets the harp aside and hands you some tria.-
+[NPC] Tyrus: I give you these things with my thanks.
+
+[Reward] [Money] 7310; [XP] 15000; [Item] 1, Diamond Crystal; [Item] 1, Ruby Crystal; [Item] 1, Emerald Crystal; [Faction] 30, Artists Association
+

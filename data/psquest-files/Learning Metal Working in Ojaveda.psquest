@@ -1,0 +1,56 @@
+[Questname] Learning Metal Working in Ojaveda
+[NPC Name] Trasok Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests
+
+[To] Trasok Starhammer
+
+[NPC Internal] I would like to learn how to work with metal.
+[NPC] Trasok: It's about time you learn a job!
+[NPC] Trasok: You ready to learn now?
+[NPC Internal] Yes.
+[NPC] Trasok: Good.
+[NPC] Trasok: I can teach you part of my job, starting from the very basics.
+[NPC] Trasok: Everything starts with raw materials like iron ore.
+[NPC] Trasok: Bring me two iron ores and I will teach you more.
+[NPC] Trasok: I do not care if you mine them or buy them.
+[NPC Internal] Here are your iron ores.
+[NPC] Trasok: Ah good, you found some.
+[NPC] Trasok: This material can be formed into stock that a blacksmith can use to make armor and weapons!
+[NPC] Trasok: You have to place the ore inside the furnace.
+[NPC] Trasok: The furnace will refine it.
+[NPC] Trasok: Then use the stock casting to create the iron ingot from the molten ore.
+[NPC] Trasok: I can give you what you need to get started in exchange for a pair of leather gloves.
+[NPC Internal] Here are your gloves.
+[NPC] Trasok: Great job.
+[NPC] Trasok: Okay, listen carefully now.
+[NPC] Trasok: Get one or more iron ores and place those in the furnace located upstairs.
+[NPC] Trasok: Wait some time and you will see it melt; do not leave it too long or it will become unusable.
+[NPC] Trasok: Then remove the molten iron from the furnace and put it into the stock casting.
+[NPC] Trasok: After some time, you will have an iron ingot!
+[NPC] Trasok: You will need some metallurgy skill to even get started.
+[NPC] Trasok: Be sure to take some training in metallurgy from me before trying this yourself.
+[NPC] Trasok: Also you must 'keep in mind' the book I will give you now.
+[NPC] Trasok: Good luck.
+[NPC Internal] How do you make stock?
+[NPC] Trasok: If you are interested in learning more about metal working, I can teach you.
+[NPC] Trasok: Are you interested?
+[NPC] Trasok: It will cost you one hundred tria.
+[NPC Internal] Yes.
+[NPC] Trasok: Give me one hundred tria and I will teach you a bit more about metal working.
+[NPC Internal] Here is your one hundred tria.
+[NPC] Trasok: Great.
+[NPC] Trasok: An ingot is just a small part of what is needed to make a piece of metal stock.
+[NPC] Trasok: Stock is made of ten molten pieces.
+[NPC] Trasok: Once you've made an ingot, you can turn it back to molten metal just by using the furnace again.
+[NPC] Trasok: Do you want to hear more?
+[NPC Internal] Yes.
+[NPC] Trasok: Great!
+[NPC] Trasok: To make one piece of metal stock, you have to place ten molten pieces of ore into the same stock casting slot.
+[NPC] Trasok: So one molten piece will make an ingot, and ten pieces will make a bar of metal stock.
+[NPC] Trasok: Good luck!
+
+[Reward] 
+

@@ -1,0 +1,97 @@
+[Questname] The Practical Azure Way Adept
+[NPC Name] Axomir
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge of the Azure Way Adept; [Item] 1, Adept's Azure Way Wand; [Item] 1, Apprentice's Azure Way Robe; [Skill] 90, Azure Way
+
+[To] Axomir
+
+[NPC Internal] Please accept my Way Wand as proof of being a student.
+[NPC] Axomir: I must commend you on your skills and dedication, Jilare.
+[NPC] Axomir: It is nearly time for you to begin your Master level testing.
+[NPC] Axomir: Time does fly.
+[NPC] Axomir: It seems like such a short time ago that you first came to me.
+[NPC Narrate] -Axomir shakes head then hands back the wand.-
+[NPC] Axomir: I need you to go to the Eagle Bronze Doors for me.
+[NPC] Axomir: Zhaomal of the Shadowcasters has requested advice on an Azure Way matter.
+[NPC] Axomir: Let him know you are there to help.
+
+[To] Zhaomal Shehan
+
+[NPC Internal] What can I help you with?
+[NPC] Zhaomal: You are not Axomir.
+[NPC Narrate] -Zhaomal looks at you with some curiosity.-
+[NPC] Zhaomal: He sends an Adept of the Azure Way in his stead, I assume.
+[NPC] Zhaomal: I would be insulted if I was in great need of aid.
+[NPC] Zhaomal: This is a minor matter, though, so I shall let it pass.
+[NPC Narrate] -Zhaomal taps his chin.-
+[NPC] Zhaomal: Let's see what you know.
+[NPC] Zhaomal: A young Shadowcaster residing in Sarpendil is violently ill.
+[NPC] Zhaomal: We tried potions, Life Infusion even the top realm Healing Flash all with no avail.
+[NPC] Zhaomal: I have realized that she is fighting the potions and spells and we might need to put her in a deep slumber before attempting it again.
+[NPC] Zhaomal: I have the Sleep glyph but it does not work on anyone but the caster.
+[NPC] Zhaomal: I am sure a combination is what is needed.
+[NPC] Zhaomal: So Sir Azure Way Adept, what glyph do you suggest I combine with Sleep?
+[NPC Internal] humanoid
+[NPC Narrate] -Zhaomal nods while thinking.-
+[NPC] Zhaomal: That should work.
+[NPC Narrate] -Zhaomal removes a Humanoid Glyph from his glyph sack, then pulls out another type of glyph.-
+[NPC] Zhaomal: Look at that.
+[NPC] Zhaomal: It seems I have an extra glyph here.
+[NPC] Zhaomal: Even I do not need more than one of each glyph.
+[NPC Narrate] -Zhaomal shakes his head.-
+[NPC] Zhaomal: You know what, you may have this glyph for your advice.
+[NPC] Zhaomal: Perhaps you will consider joining the Shadowcasters in time.
+[NPC] Zhaomal: You need not join now, nor do I think you have enough talent.
+[NPC] Zhaomal: For that, you must achieve Adept status in all Way Circles, and Master in none.
+[NPC] Zhaomal: I only ask you consider it if that time comes.
+[NPC] Zhaomal: One more thing.
+[NPC] Zhaomal: Do say thank you to Axomir for sending such a talented Enkidukai.
+
+[To] Axomir
+
+[NPC Internal] Zhaomal sends thanks.
+[NPC] Axomir: He thanks me, does he?
+[NPC] Axomir: I wonder if he really needed help at all, or was just checking up on our newest Azure Circle members.
+[NPC] Axomir: The Shadowcasters are always looking for the most talented practitioners in all six Ways to join them.
+[NPC Narrate] -Axomir shrugs.-
+[NPC] Axomir: That is your choice to make.
+[NPC] Axomir: The robe you carry belongs to an apprentice, which you are clearly no longer.
+[NPC] Axomir: Please give it to me now.
+[NPC Internal] Here is my Robe.
+[NPC] Axomir: Yes, you will no longer use this robe.
+[NPC] Axomir: I must ask you one last question.
+[NPC] Axomir: This one is very important, as it will affect what you choose to do next.
+[NPC] Axomir: Tell me what Way directly opposes the Azure Way.
+[NPC Internal] brown
+[NPC] Axomir: Correct again.
+[NPC] Axomir: You have proven your knowledge of the Azure Way to me.
+[NPC] Axomir: I am honored to present you with your new robe, Adept of the Azure Way.
+[NPC Narrate] -Axomir hands you a neatly folded robe.-
+[NPC] Axomir: I am sure Zhaomal tried to convince you to consider joining the Shadowcasters.
+[NPC] Axomir: Your last chance to do so will soon be upon you.
+[NPC] Axomir: Take your new robe and show it to Archmaster Menita.
+[NPC] Axomir: She will tell you of the choices you have to make.
+
+[To] Menita
+
+[NPC Internal] Here is my Robe, as requested by Axomir.
+[NPC Narrate] -Menita speaks without looking at you, her tone flat and without emotion.-
+[NPC] Menita: Axomir has approved of you.
+[NPC] Menita: A choice is now before you.
+[NPC] Menita: This is the last test before you will no longer be allowed to change your chosen Way of study.
+[NPC] Menita: If you continue on the path to rank of Way Master in the Azure Way Circle, you will not be able to advance beyond Adept, the rank you are now in the Brown Way Circle.
+[NPC] Menita: You will also not be able to advance beyond Adept in the Blue and Dark Way Circles.
+[NPC] Menita: You will however be allowed to advance past the first Master's rank in Crystal and Red Way Circles, as they complement the power you will use as an Azure Way mage.
+[NPC] Menita: Do you understand this?
+[NPC Internal] Yes, as clear as Azure.
+[NPC] Menita: Very well.
+[NPC] Menita: If your wishes bring you to follow the Azure Way to full mastery, you will need to finish your training to the extent of Axomir's abilities.
+[NPC] Menita: Then you may come to me and give me your wand together with another Adept's Azure Way Wand and one Apprentice's Azure Way Robe, which also may be borrowed from a fellow student.
+[NPC] Menita: This is to prove you have gained the respect and trust of your Adept peers, as well as the Apprentices.
+[NPC] Menita: Remember, once you bring these three items to me, there will be no turning back.
+[NPC] Menita: Think long and hard before you make this choice, Jilare.
+
+[Reward] [XP] 12200; [Item] 1, Bond glyph; [Item] 1, Adept's Azure Way Robe; [Faction] 20, Azure Order
+

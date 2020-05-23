@@ -1,0 +1,188 @@
+[Questname] The Arrivals
+[NPC Name] Raithen
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[Need] [Item] 2, Diamonds [Item] 1, riverling skull [Item] 1, riverling tooth [Item] 2, niters [Item] 2, oil of vitriol [Item] 2, common salts [Item] 5, wragberries.
+
+[To] Raithen
+
+[NPC Internal] Excuse me, commander Raithen?
+[NPC Narrate] Raithen scowls at you as he looks from the view over the canyon to you.
+[NPC] Raithen: You...
+[NPC] Raithen: You're going to help me.
+[NPC Internal] Yes of course.
+[NPC] Raithen: Good!
+[NPC] Raithen: Now go and find out what all the commotion on the far side of the canyon is.
+
+[To] Kimlorm
+
+[NPC Internal] What do you know of the trouble on this side of the canyon?
+[NPC Narrate] -Kra is looking off towards the end of the left edge of the canyon.-
+[NPC] Kimlorm: Chrosor and I were the first to meet the two brutes, we have just returned.
+[NPC] Kimlorm: I've never seen any creatures like those two lavvars as close to the fortress before, and neither have I had to fight anything like them.
+[NPC] Kimlorm: I could hardly get close without feeling their heat begin to scold and singe my clothing and armour.
+[NPC Internal] A lavvar?
+[NPC] Kimlorm: Yes, a molten rock filled, giant, two legged, two armed, fiery beast.
+[NPC] Kimlorm: Please go and tell commander Raithen that lavvar have begun approaching the Fortress.
+[NPC] Kimlorm: It will be important to gather necessary supplies to fight them.
+
+[To] Raithen
+
+[NPC Internal] Lavvars have been making their way towards the Fortress.
+[NPC Narrate] Raithen nods as his bulky figure turns towards you.
+[NPC] Raithen: I had imagined it would be.
+[NPC] Raithen: The stench of molten flesh has begun reaching me.
+[NPC] Raithen: Unfortunately they are difficult beasts to deal with using conventional weapons.
+[NPC] Raithen: I am ordering you to go and find out where they are coming from, it can't be far from the fortress.
+[NPC] Raithen: The more you are able to find out the better your reward will be, I do not expect it to be easy.
+[NPC] Raithen: Now go.
+[NPC Internal] Where was I to go?
+[NPC] Raithen: Am I really to explain myself again!
+[NPC] Raithen: Find where the lavvars are coming from!
+[Info] Go to the lava cave
+[Info] I went to the cave and fell off of the magic stones. I went to Raithen to report. Not sure, what the dialog is if you pass the cave at once.
+
+[To] Raithen
+
+[NPC Internal] [You tell Raithen about the cave entrance.]
+[NPC] Raithen: At the small cave you say...
+[NPC] Raithen: I had always wondered why you could walk along what is clearly a path all the way to the end.
+[NPC] Raithen: None of my advisers had told me of the sealed cave there; it must be very old.
+[NPC] Raithen: Is there anything else of importance in the cave to tell me about?
+[NPC Internal] [Tell Raithen about the cogs and magic stones.]
+[NPC] Raithen: There must be an impressive magic at work there to be able to maintain those rocks as they are.
+[NPC] Raithen: I would not be surprised if it was on par to those used in the winches.
+[NPC] Raithen: This is very valuable information.
+[NPC] Raithen: I will contact those who require to know immediately.
+[NPC] Raithen: Was there anything else of note to tell me of?
+[NPC Internal] I will return once more to see what I can find.
+[NPC] Raithen: Good.
+[NPC] Raithen: I expect nothing less of you now, find something or don't return.
+[Info] Now I passed the cave completly and went gack to Raithen.
+[NPC Internal] [You tell Raithen about the door you found.]
+[NPC] Raithen: A door with some sort of puzzle on it.
+[NPC] Raithen: In an seemingly abandoned cave populated by lavvars and pterosaurs.
+[NPC] Raithen: Which contains giant rocks you can move by some sort of magic.
+[NPC] Raithen: Which protect a door lock with a magic puzzle.
+[NPC] Raithen: I have not heard such a tale for a long time.
+[NPC] Raithen: If I did not know the lavvar were coming from that cave I would not believe you.
+[NPC] Raithen: You are lucky that I do.
+[NPC] Raithen: I will organise a full exploration of the caves for later.
+[NPC Internal] What's the next step?
+[NPC] Raithen: There is much needed to ensure we can resist an onslaught from lavvars.
+[NPC] Raithen: A combination of enchanted weapons and alchemical concoctions alongside the fortitude of my warriors will ensure they easily survive.
+[NPC] Raithen: Go to the blue way Archmaster, and the Alchemist in Ojaveda...the old woman in Dsar Kore.
+[NPC] Raithen: I anticipated you would do as much as you have and I have sent word to Rorwien to give you permission to use the Fortress' pterosaur.
+[NPC] Raithen: I'm giving you six travel tokens, if you use them up before you are done you will have to pay your way yourself.
+
+[To] Barrin Dhorod
+
+[NPC Internal] Raithen sent me to see if you can help with a lavvar problem he is having.
+[NPC] Barrin Dhorod: A lavvar you say...
+[NPC] Barrin Dhorod: I was sent to deal with some of those during my early years as a Blue Circle member.
+[NPC] Barrin Dhorod: Many of the Blue Way spells were as affective as you would think.
+[NPC] Barrin Dhorod: But it was a specially enchanted Iced blade which was most deadly to them.
+[NPC] Barrin Dhorod: Unfortunately the downside was you had to get very close to use it.
+[NPC] Barrin Dhorod: And the last blade I saw was destroyed during the battles with them.
+[NPC Internal] What are the chances of finding another?
+[NPC Narrate] Barrin Dhorod smiles.
+[NPC] Barrin Dhorod: Finding..?
+[NPC] Barrin Dhorod: Probably zero.
+[NPC] Barrin Dhorod: Though I have often thought about trying to recreate the blade, or a blade with a similar proficiency for killing things like lavvars.
+[NPC Internal] What can I do to help?
+[NPC] Barrin Dhorod: You can get me two diamonds.
+[NPC] Barrin Dhorod: I will think about which blade would be best used to lay the enchanted diamonds into, they should offer enough resistance to Red Way and protect the blade while being used against lavvars.
+[NPC Internal] Here are the crystals.
+[NPC] Barrin Dhorod: Thank you, YOU.
+[NPC] Barrin Dhorod: I have been thinking about the blade.
+[NPC] Barrin Dhorod: I can think that only a platinum steel blade would have the strength to maintain the magic within that I am hoping it would.
+[NPC] Barrin Dhorod: Go and see Gardr, I suspect kra might be willing to help you get one.
+
+[To] Chired Idelall
+
+[NPC Internal] Hello, Raithen sent me.
+[NPC] Chired Idelall: Raithen?
+[NPC] Chired Idelall: From the Eagle Fortress?
+[NPC] Chired Idelall: What does he want from me?
+[NPC Internal] They need a way to fight lavvars. Do you have any alchemical suggestions?
+[NPC Narrate] Chired Idelall smiles.
+[NPC] Chired Idelall: I can think of a few concoctions which might prove useful.
+[NPC] Chired Idelall: There is a potion called an alchemist freezer.
+[NPC] Chired Idelall: These are thrown weapons which will hurt whoever you throw them at, similar to some Blue Way spells.
+[NPC] Chired Idelall: I'm sure these should be useful against a creature like a lavvar.
+[NPC] Chired Idelall: But I've never spoken to anyone who has tried it so I might be wrong.
+[NPC Internal] I'm not really sure what those are, can you help me?
+[NPC] Chired Idelall: Ah, well.
+[NPC] Chired Idelall: In this case I suppose I will have to offer to make them for you.
+[NPC] Chired Idelall: I will need one riverling skull, one riverling tooth, two niters, two oil of vitriol, two common salts, and five wragberries.
+[NPC] Chired Idelall: Once you have those return and I will start making the alchemist freezers.
+[NPC Internal] Here are the items you need.
+[NPC Narrate] Chired Idelall yawns as she turns to face you.
+[NPC] Chired Idelall: Sorry, I've had a long day.
+[NPC] Chired Idelall: I'll get started on these soon, check back with me in a little while.
+[Info] You have to wait for 5 minutes
+[NPC Internal] Are the concoctions ready yet?
+[NPC Narrate] Chired Idelall lets out a small sigh.
+[NPC] Chired Idelall: There was much more to these than I remembered.
+[NPC] Chired Idelall: But yes, they are done.
+[NPC] Chired Idelall: Here you are.
+[NPC] Chired Idelall: Just take them up to Raithen.
+[NPC] Chired Idelall: He should be happy.
+
+[To] Gadr Keck
+
+[NPC Internal] Hello Gardr, I need a platinum steel blade.
+[NPC] Gardr Keck: You do?
+[NPC] Gardr Keck: For what?
+[NPC] Gardr Keck: Just coming and asking for something like that is a big ask.
+[NPC] Gardr Keck: Any blade made of that metal is expensive.
+[NPC Internal] Barrin suggested I speak to you to obtain one for fighting lavvars.
+[NPC Narrate] Gardr Keck nods.
+[NPC] Gardr Keck: Well, he has done lots for me recently.
+[NPC] Gardr Keck: I suppose I could make the blade for him in repayment.
+[NPC] Gardr Keck: You'll need to come back in a while so I can take time to make one for you.
+[Info] you have to wait until it's finished
+[NPC Internal] Is it ready yet?
+[NPC] Gardr Keck: Yes it is.
+[NPC] Gardr Keck: One of my more favoured crafting items.
+[NPC] Gardr Keck: Here you are.
+
+[To] Barrin Dhorod
+
+[NPC Internal] I've gotten you a sword you should be able to use.
+[NPC Narrate] Barrin Dhorod takes the sword.
+[NPC] Barrin Dhorod: Excellent...
+[NPC] Barrin Dhorod: This looks very much like the one I used previously, though a different design..
+[NPC] Barrin Dhorod: But it's a sword.
+[NPC Internal] What next?
+[NPC] Barrin Dhorod: Good question.
+[NPC] Barrin Dhorod: This is up for me to do.
+[NPC] Barrin Dhorod: First the gems you obtained will need enchanting.
+[NPC] Barrin Dhorod: I have yet to decide exactly which glyphs I will be using.
+[NPC] Barrin Dhorod: Once I have decided I will proceed to readying the weapon.
+[NPC] Barrin Dhorod: Please leave me and let me work.
+[Info] You have to wait for 10 minutes.
+[NPC Internal] Are you done now?
+[NPC] Barrin Dhorod: Yes...
+[NPC] Barrin Dhorod: Yes I am.
+[NPC Narrate] Barrin Dhorod is holding the blade which seems to have a new blue hue to it.
+[NPC] Barrin Dhorod: It is behaving exactly like I had hoped.
+[NPC] Barrin Dhorod: It very much reminds me of the blade I mentioned to you.
+[NPC] Barrin Dhorod: Please take it and be careful.
+
+[To] Raithen
+
+[NPC Internal] Here are four alchemist freezers from Chired and an enchanted sword from Barrin.
+[NPC] Raithen: Good.
+[NPC] Raithen: Thank you.
+[NPC] Raithen: These better be worth my time.
+[NPC] Raithen: I will not be pleased if they turn out to be useless.
+[NPC Narrate] Raithen stands looking at you for a while.
+[NPC] Raithen: ...
+[NPC] Raithen: However, you did make a significant effort to assist my forces and I.
+[NPC] Raithen: My team has recently arrived back and has confirmed all you said.
+[NPC] Raithen: Due to this I will allow you to travel up to this fortress by pterosaur until such time I no longer wish to see you here.
+
+[Reward] [Money] 5130; [XP] 13600; [Item] 1, Shadow Shield;

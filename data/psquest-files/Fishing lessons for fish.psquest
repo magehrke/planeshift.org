@@ -1,0 +1,22 @@
+[Questname] Fishing lessons for fish
+[NPC Name] Kzavu Gilnet
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] Yes
+
+[Need] [Item] 6 Daces; [Item] 6 Perches; [Item] 3, Coppernoses
+
+[To] Kzavu Gilnet
+
+[NPC Internal] Hello, is there any thing you need help with?
+[NPC] Kzavu Gilnet: Yes there is actually...
+[NPC] Kzavu Gilnet: I'm running low on some fish and could really do with you getting me some specific ones.
+[NPC Internal] Of course, what do you need?
+[NPC] Kzavu Gilnet cheers happily.
+[NPC] Kzavu Gilnet: Fantastic!
+[NPC] Kzavu Gilnet: I want you to catch six daces, six perches and three coppernoses, bring them to me as fast as you can.
+[NPC Internal] Here are the fish.
+[NPC] Kzavu Gilnet: Oh fantastic!
+[NPC] Kzavu Gilnet: Thank you very much, I think I can use your help again in the future.
+
+[Reward] [Skill] 1, Fishing

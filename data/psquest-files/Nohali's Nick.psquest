@@ -1,0 +1,53 @@
+[Questname] Nohali's Nick
+[NPC Name] Nohali Mirdasu
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Jolik's Letter; [Item] 1, Weapon Repair Kit
+
+[To] Nohali Mirdasu
+
+[NPC Internal] Is there something I can do for you?
+[NPC Narrate] -Nohali looks up from admiring her claymore. Her eyes are cool and calm.-
+[NPC] Nohali: Yes?
+[NPC] Nohali: You wish to do something for me?
+[NPC] Nohali: Oh no.
+[NPC] Nohali: I have everything I need right here.
+[NPC Narrate] -Nohali caresses her claymore as if it is a child, and wipes a tiny smudge of grime off its otherwise spotless blade with a corner of her ragged shirt.-
+[NPC] Nohali: What is this?
+[NPC Narrate] -Nohali stops and looks closer as her eyes go wide with panic.-
+[NPC] Nohali: A…
+[NPC] Nohali: a…
+[NPC] Nohali: a nick?
+[NPC] Nohali: No…
+[NPC] Nohali: this can't be.
+[NPC] Nohali: I have to fix it.
+[NPC] Nohali: Have to make him perfect.
+[NPC] Nohali: A smith!
+[NPC] Nohali: I need to buy a…
+[NPC] Nohali: no…
+[NPC] Nohali: can't go in the light.
+[NPC] Nohali: The whisper does not allow it…
+[NPC] Nohali: You!
+[NPC] Nohali: You can help me, right?
+[NPC Internal] Yes, I will help.
+[NPC] Nohali: Thank the whisper!
+[NPC] Nohali: Quick, get me a repair kit quick as a rivnak.
+[NPC Narrate] -Nohali turns her attention back to her claymore with worried eyes.-
+[NPC] Nohali: Don't worry.
+[NPC] Nohali: Help is coming soon.
+[NPC] Nohali: It will be all right.
+[NPC Internal] gives Nohali a weapons repair kit.
+[NPC Narrate] -Nohali grabs the repair kit from your hands and starts working the strop across her blade, rocking back and forth as she does so and whispering to herself.-
+[NPC] Nohali: It will be all right…
+[NPC] Nohali: it will be all right…
+[NPC] Nohali: it will be all right…
+[NPC] Nohali: Done!
+[NPC Narrate] -Nohali smiles and hugs the blade close to herself, the thin cut it leaves on her cheek going unnoticed. Her manner changes completely in an instant, once again becoming calm.-
+[NPC] Nohali: Thank you.
+[NPC] Nohali: You have surely been sent by the whisper to bless me this day.
+[NPC] Nohali: I will remember this.
+[NPC] Nohali: Take this, and do not spend it all in one place.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Cabal of Whispers
+

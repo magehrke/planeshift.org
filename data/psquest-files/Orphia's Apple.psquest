@@ -1,0 +1,156 @@
+[Questname] Orphia's Apple
+[NPC Name] Orphia Eldri
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Ibhaar's Battle
+
+[To] Orphia Eldri
+
+[NPC Internal] Hello, are you Orphia?
+[NPC] Orphia: The use of Azure Way magic to control the air, linked to, oh no.
+[NPC] Orphia: That can't be the reason…
+[NPC Narrate] -Orphia trails off mid-sentence and smiles pleasantly as she notices your presence.-
+[NPC] Orphia: I'm sorry, I didn't see you for a moment.
+[NPC] Orphia: I've been engaged in a little magical experimentation, but never mind that.
+[NPC] Orphia: You must be one of the new arrivals?
+[NPC Narrate] -Orphia holds up a hand to stop you from answering.-
+[NPC] Orphia: No, don't tell me; Ibhaar sent you on your way towards me with some form of insult or profanity against my craft?
+[NPC] Orphia: Am I correct?
+[NPC Internal] So you really are a mage as he said?
+[NPC] Orphia: I'm unsure if I am whatever names he may have called me, but I certainly am a mage.
+[NPC] Orphia: I have studied at least the basics in each of the six Ways of magic.
+[NPC] Orphia: That's why I was chosen as the Octarchy's representative to welcome any potential students of the Ways to Hydlaa.
+[NPC Internal] And you know enough to be able to teach about the Ways?
+[NPC Narrate] -Orphia spreads her arms to move your attention to the tables nearby.-
+[NPC] Orphia: As you can see from my collection of artefacts, I do have some experience.
+[NPC Narrate] -She nods while studying you.-
+[NPC] Orphia: But I shouldn't let items on tables speak for me.
+[NPC] Orphia: Magic can be dangerous to learn and so my ability, not words, should be what acts to reassure you.
+[NPC Narrate] -Orphia points carefully.-
+[NPC] Orphia: Have you noticed the apple, just behind me floating above my enchanter?
+[NPC Internal] It's floating?
+[NPC] Orphia: Yes, it really is.
+[NPC Narrate] -Orphia smiles pleasantly.-
+[NPC] Orphia: I was using Azure Way magic to cause it to levitate, but it's given me a little trouble since I managed that.
+[NPC Internal] What sort of trouble?
+[NPC] Orphia: It is better to observe than merely to tell.
+[NPC] Orphia: Please, pick up the apple and pass it here to me.
+
+[Info] To pick up an item, right click it and select the hand icon. The item will go into your inventory and a message will appear in the system tab indicating you have done so.
+
+[NPC Internal] Here's the apple.
+[NPC Narrate] -Orphia balances the apple on the palm of her hand for a moment.-
+[NPC] Orphia: Good.
+[NPC] Orphia: Now watch it carefully because…
+[NPC Narrate] -She waits and then closes her fingers around it. After some moments the apple shimmers slightly with faint azure light and then a second apple appears in the air where the first one was to begin with.-
+[NPC] Orphia: Now that I told the magic to hold the apple in the air, the magic seems unhappy if the apple is taken away.
+[NPC] Orphia: It seems that it creates another apple instead to make up for this.
+[NPC Narrate] -Orphia takes a bite from the apple she is holding and then drops her hand back to her side.-
+[NPC] Orphia: I'm hoping to develop this further in time to see if I can find out where the new apples come from.
+[NPC Narrate] -She smiles once again.-
+[NPC] Orphia: Now, perhaps having seen the progress of my research, entrusted to me by the Circles, is providing, you will trust in my ability to teach you as well.
+[NPC Internal] Okay, I think I could learn from you.
+[NPC] Orphia: Then I think I can teach you.
+[NPC] Orphia: If you could tell me which Way you are most interested in learning about, I could certainly try to answer any questions you might have.
+[NPC Internal] I don't know enough to choose one.
+[NPC] Orphia: I would suspect the choice is a difficult one for many, but I can tell you which Ways you have to choose between.
+[NPC] Orphia: Let me see.
+[NPC Narrate] -Orphia reaches for the glyph sack which hangs at her side and pulls out several glyphs. She holds a new glyph up to show you with each Way that she mentions.-
+[NPC] Orphia: The ways are Crystal, Dark, Red, Blue, Brown, and Azure.
+[NPC] Orphia: Each one has its own strengths.
+[NPC Narrate] -She nods reassuringly.-
+[NPC] Orphia: I know it's a lot to take in, but we really should only focus on one of the Ways for the time being.
+[NPC Internal] But what if I want to study other Ways as well?
+[NPC] Orphia: You can change your mind after reaching Hydlaa and study another then, but which would you like us to look at for today?
+[NPC] Orphia: Perhaps you would like me to tell you more about some of the Ways first.
+[NPC] Orphia: If so, just tell me which you'd like to hear about.
+
+[Info] You need to use the free text box to learn about at least one magic Way. You can choose between Red Way, Blue Way, Dark Way, Crystal Way, Azure Way, or Brown Way.
+
+[NPC Internal] red way
+[NPC] Orphia: No one can dispute that Red Way magic is very popular here in the Dome; it is powerful, strong, and attuned with fire.
+[NPC] Orphia: It has many powerful attacking spells most involving heat, this is also why smiths usually study it to some degree.
+[NPC] Orphia: The opposing Way of Red Way is Blue Way, so it is advisable not to study both of these at the same time.
+[NPC Internal] blue way
+[NPC] Orphia: Blue Way magic is linked to water and time and anything that flows.
+[NPC] Orphia: It is in opposition to the fire of the Red Way, and is more aligned with protection and can even be used to heal people.
+[NPC] Orphia: Its link to all that flows can also let you sense the magic which flows though items which can be useful.
+[NPC Internal] I've made my choice.
+[NPC] Orphia: Are you sure?
+[NPC] Orphia: You can still ask about any other Ways or I can go over a Way again if it will help you decide.
+[NPC] Orphia: You just need to ask.
+[NPC Internal] azure way
+[NPC] Orphia: Azure Way is the magic of the air and of the mind, with which you might find yourself able to eventually influence the thoughts of others.
+[NPC Narrate] -Orphia pauses and smiles slightly, looking back toward the floating apple again.-
+[NPC] Orphia: Or with which you might cause apples to levitate.
+[NPC] Orphia: It is opposed to the Brown Way, so these two should not be mixed.
+[NPC Internal] brown way
+[NPC] Orphia: The magic of the Brown Way focuses on the stones and the earth and on protection and using nature.
+[NPC] Orphia: You can use it to create armour for yourself or to shake the ground beneath the feet of one who would harm you.
+[NPC] Orphia: It is also opposed to Azure Way magic, but can work in harmony with other Ways.
+[NPC Internal] crystal way
+[NPC] Orphia: The Crystal Way is about light and life and energy.
+[NPC] Orphia: It is pure and famed for its use in healing.
+[NPC] Orphia: You should avoid learning too much of the Dark Way if you are interested in Crystal Way magic, as they do not mix well together.
+[NPC Internal] dark way
+[NPC] Orphia: Dark Way magic opposes the magic of the Crystal Way.
+[NPC] Orphia: It isn't evil as some might have you believe, but it draws its energy from death and entropy.
+[NPC] Orphia: It can be used to spread illness or to manipulate shadows into turning against their owners.
+[NPC] Orphia: It is these things that can be used by evil people, but does not make the magic, itself, evil.
+[NPC] Orphia: I have heard that to advance far you must not be afraid to seek your own death as well.
+[NPC Internal] Yes, I'm sure, I have made my choice.
+[NPC Narrate] -Orphia nods slightly and shows you the small collection of glyphs once again.-
+[NPC] Orphia: Then tell me your choice.
+[NPC Internal] crystal way
+[NPC] Orphia: Very well then.
+[NPC] Orphia: It is a good enough choice, though of course all choices are good.
+[NPC] Orphia: All Ways are worth the time to learn about.
+[NPC Narrate] -Orphia selects a glyph and hands it across to you.-
+[NPC] Orphia: You must begin by learning to purify this.
+[NPC Internal] How do I purify the glyph?
+[NPC] Orphia: Talad created the glyphs so we could use magic, but to use a glyph you must first connect it to yourself.
+[NPC] Orphia: Focus on it carefully and try to catch hold of the energy it is connected to.
+
+[Info] For help on using glyphs and magic click on the 'HELP' icon in the toolbar and in the 'START HERE SECTION' read the heading 'MAGIC, GLYPHS, and SPELLS'.
+
+[Info] Simply, in the tool bar open the 'SPELL BOOK', then click on 'RESEARCH MAGIC'. You must now PURIFY the glyph you received, to do this click to pick it up and then drop it onto the PURIFY icon in the bottom left corner. Once purified you should see a new background behind the glyph icon. To find a spell place the glyph in the first of the four 'ASSEMBLE SLOTs' then click the 'RESEARCH MAGIC BUTTON. You may have to click many times before you find the spell. Once you have found the spell it will appear in your spell book. To cast you need to pick a target for an attack spell and click the spell name and click cast, for a self casting spell just click the spell name and click cast.
+
+[NPC Internal] And then I can learn spells?
+[NPC Narrate] -Orphia lowers her head gracefully to hide a wide smile.-
+[NPC] Orphia: It is good to see you are so eager, but yes, then you can begin to learn spells.
+[NPC] Orphia: Over time you will find more powerful spells can be cast by combining different glyphs, but for now you have just one glyph and so you must use that alone to find the most simple spell in your chosen way.
+[NPC] Orphia: Now once you have purified it, you should be able to sense the energy it connects to and use that connection to control it in a small way.
+[NPC Narrate] -Orphia motions toward your hands and the glyph she just passed you.-
+[NPC] Orphia: Go on, try.
+[NPC Internal] And what should I cast this spell on?
+[NPC] Orphia: Well, I have studied the lower spells in all of the ways, and considering your choice…
+[NPC Narrate] -Orphia lowers her voice slightly.-
+[NPC] Orphia: Ibhaar would not like it, but you could always go back and practice against one of those horrible rats that seem to terrorise that area.
+[NPC] Orphia: Otherwise I'd recommend waiting until you enter the main part of the city and investigating the arena for a place to practice.
+[NPC Internal] After practicing, where can I learn more?
+[NPC] Orphia: There are many people through Hydlaa and the Dome who can teach you more, but the best person to begin learning from is Levrus.
+[NPC] Orphia: He can be a little long winded, but he will teach you much if you show willing and he will be able to tell you about the Circles and how to gain membership of one.
+[NPC Narrate] -Orphia moves slightly, looking toward the floating apple again as she continues to speak.-
+[NPC] Orphia: You can usually find him in his magic shop just outside Hydlaa.
+[NPC Internal] I might speak to Levrus then. Is there anything else I should know?
+[NPC] Orphia: Well, he will perhaps sell you some other simple glyphs as well, though you have to realise that casting spells with glyphs is not the only aspect of magic.
+[NPC Narrate] -Orphia turns to look at you again.-
+[NPC] Orphia: The crafts of herbalism and alchemy are often connected to the Ways and can even improve your use of the Ways as well.
+[NPC Internal] How would I learn more about them?
+[NPC] Orphia: Oh, Aleena often sets out a work bench on the roof of the tavern.
+[NPC] Orphia: She'd be the one to ask about the use of herbs, and you need to learn the basics of herbalism before you should think about progressing to alchemy.
+[NPC] Orphia: You could also think about seeing Durok, a Kran often found in the library.
+[NPC] Orphia: Kra will introduce you to the Science Association which herbalists and alchemists belong to.
+[NPC Internal] Thank you. I will remember.
+[NPC] Orphia: Good.
+[NPC] Orphia: One last thing then.
+[NPC] Orphia: Head down the steps just on from here.
+[NPC] Orphia: You should speak to Telzanna before you move on to the city proper.
+[NPC] Orphia: She might have some supplies you could barter for.
+[NPC Narrate] -Orphia smiles.-
+[NPC] Orphia: And please, take an apple.
+[NPC] Orphia: Wherever it is they come from, they really do taste rather nice.
+
+[Reward] [Special] A glyph in a Way of choice
+

@@ -1,0 +1,176 @@
+[Questname] Botany of the Deeps
+[NPC Name] Crosh Dunehammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Ritual of Remembrance; [Money] 50
+
+[To] Crosh Dunehammer
+
+[NPC Internal] Do you need any help down here?
+[NPC] Crosh: You again?
+[NPC] Crosh: Look at this!
+[NPC Narrate] -Crosh studies you carefully then upends his mug. His face falls.-
+[NPC] Crosh: Empty.
+[NPC] Crosh: Why are the mugs so small?
+[NPC] Crosh: I've been here under Hydlaa now for…
+[NPC] Crosh: for…
+[NPC Narrate] -Crosh scratches his head.-
+[NPC] Crosh: I don't really know anymore.
+[NPC] Crosh: But I still can't leave here.
+[NPC] Crosh: On duty.
+[NPC] Crosh: No sign of any relief for me, oh no.
+[NPC Narrate] -He starts banging his free hand against the bottom of the mug.-
+[NPC] Crosh: Maybe you can help a hard pressed guard?
+[NPC] Crosh: For the good of the city, y'know.
+[NPC] Crosh: What do you say?
+[NPC Internal] Sure, I can help you out.
+[NPC] Crosh: Well then, I was told something 'bout deep places.
+[NPC] Crosh: Was told them nolthrir farm these weird submerged trees down in the lower levels or something, y'see?
+[NPC] Crosh: Maybe I should get me some fruit from those to brew somethin' good.
+[NPC] Crosh: Great taste, so I was told.
+[NPC] Crosh: I think you should get it for me.
+[NPC Internal] You'll have to tell me more about this fruit.
+[NPC] Crosh: More?
+[NPC] Crosh: What do you need me to tell you more for?
+[NPC Narrate] -He stares at you for a few seconds, but then his eyes dart back to the mug once again.-
+[NPC] Crosh: Herbalists use it I think.
+[NPC] Crosh: No idea why.
+[NPC] Crosh: Not even sure o' the name.
+[NPC] Crosh: Some cure or something.
+[NPC] Crosh: Seems they're the only ones who can import it from the lower levels.
+[NPC] Crosh: Limited availability!
+[NPC Narrate] -He lets out a really loud sigh.-
+[NPC] Crosh: You'd best be finding one of them to speak to.
+[NPC] Crosh: Now off with you!
+[NPC] Crosh: And remember, you better be careful and not say why you want it.
+[NPC] Crosh: They can get awfully sensitive about their ingredients those fussy plant people can.
+
+[To] Aleena Arlavin
+
+[NPC Internal] Hello, I'm trying to find out about a fruit herbalists use. I was told the nolthrir grow it on the lower levels.
+[NPC] Aleena: A fruit grown by the nolthrir?
+[NPC Narrate] -She looks up from chopping some leaves.-
+[NPC] Aleena: What an odd request.
+[NPC] Aleena: Most outside of our trade wouldn't have any idea that we import ingredients from the nolthrir.
+[NPC] Aleena: But with that said, they are experts at cultivating some quite unusual plants under the water there.
+[NPC] Aleena: It's nice to meet someone who is aware of this, but I must ask, why do you need such a thing?
+[NPC Internal] Uhm, a friend of mine is ill. An apprentice herbalist in Ojaveda said the fruit could help, but he didn't know the name.
+[NPC] Aleena: An apprentice?
+[NPC Narrate] -She looks up at you sharply, as though studying your face to spot if you are lying.-
+[NPC] Aleena: I suppose he has not kept up to date with his lessons then, but the enkidukai do seem to have a certain resilience to the maladies the fruit can cure.
+[NPC] Aleena: It's a quite rare thing and hard to get hold of as well.
+[NPC Narrate] -She puts down her knife and counts with her fingers as she speaks.-
+[NPC] Aleena: Delicate.
+[NPC] Aleena: Spoils easily.
+[NPC] Aleena: Tough growing conditions.
+[NPC] Aleena: Expensive to import.
+[NPC] Aleena: Only a small crop each year.
+[NPC] Aleena: The plant is called the deep tree and I hear it's quite beautiful, not that a dermorian could ever dive down to see them in their splendour.
+[NPC Internal] Do you know how I could get hold of it?
+[NPC] Aleena: Not easily.
+[NPC Narrate] -She looks out over the rooftops in thought.-
+[NPC] Aleena: But a group of nolthrir traders did come up through the Winch a short while ago.
+[NPC] Aleena: Jashoky mentioned to me that she hoped to buy some supplies from them, so you might be in luck if you can find her.
+[NPC] Aleena: She won't be in Hydlaa though.
+[NPC] Aleena: Check out along the road to Ojaveda.
+
+[To] Jashoky Dakarn
+
+[NPC Internal] Hello. I'm trying to get hold of a deep tree fruit to help treat a friend's illness.
+[NPC] Jashoky: Well there's an odd thing.
+[NPC] Jashoky: I just got a few in from some traders yesterday.
+[NPC] Jashoky: Somethin' special about these fruits there is.
+[NPC Narrate] -She grins broadly.-
+[NPC] Jashoky: I was just about to start preparin' some for use, but trade with nolthrirs made me think about a few things.
+[NPC] Jashoky: There's a lot we have in common, dermorians and nolthrir that is.
+[NPC] Jashoky: We came from the same world, the same home.
+[NPC Narrate] -She looks a little lost in her thoughts as she continues.-
+[NPC] Jashoky: We dermorians didn't have a chance to bring anything with us, but the nolthrir did.
+[NPC] Jashoky: They brought the plants they wanted and carried them through the portal.
+[NPC] Jashoky: Things like the deep tree fruit are little pieces of Dermoria now, but you'll get your hands on it soon enough if you will help me with something.
+[NPC Internal] Just tell me what you need.
+[NPC] Jashoky: Well, all these connections between dermorians and nolthrir and their plants got me wonderin' about the plants they have which we don't ever really see up here in the Dome.
+[NPC] Jashoky: I been told the nolthrir are such good swimmers, not just because they got webbed toes and gills, but 'cause they practice so much as children.
+[NPC Narrate] -She laughs and starts taking a few things out from her pack.-
+[NPC] Jashoky: There's this game they play, weavin' in and out of some plant, swimming through tunnels made out of its branches, but I just can't remember the name of the thing.
+[NPC] Jashoky: So you can go back into Hydlaa and check for the name at the library.
+[NPC Narrate] -She looks up toward the crystal to judge the time.-
+[NPC] Jashoky: If you don't wander off doing other things, you should be gettin' back just as I have this ready for you.
+[NPC Internal] twisty
+[NPC] Jashoky: Twisty?
+[NPC] Jashoky: Well, that does sound about right.
+[NPC Narrate] -She treats you to a huge smile.-
+[NPC] Jashoky: I just finished up with the juice as well.
+[NPC] Jashoky: Look at the colour of this!
+[NPC Narrate] -She holds up a jar for you to see.-
+[NPC] Jashoky: It brewed perfectly.
+[NPC] Jashoky: A few doses of this should help your friend.
+[NPC Narrate] -She hands you the juice.-
+
+[To] Crosh Dunehammer
+
+[NPC Internal] I managed to find some deep tree juice for you.
+[NPC] Crosh: Some…
+[NPC] Crosh: What's that y'say?
+[NPC Narrate] -He leans forward to stare at the jar.-
+[NPC] Crosh: Juice?!
+[NPC] Crosh: No no no no.
+[NPC] Crosh: I’m not going to drink that.
+[NPC] Crosh: What use is 'juice' to me?
+[NPC] Crosh: Go and find something to mix it with.
+[NPC] Crosh: Cider would be about right I think.
+[NPC Narrate] -He waves his empty mug at you.-
+[NPC] Crosh: Go on, back to the place that sells the drinks again.
+[NPC] Crosh: Speak to Alell-something.
+[NPC] Crosh: Or whatever her name was.
+[NPC] Crosh: Unless you know somewhere else to find me some!
+
+[To] Allelia Symiestra
+
+[NPC Internal] Hello. I'm looking to purchase some cider.
+[NPC] Allelia: Cider?
+[NPC] Allelia: It's not something I often stock.
+[NPC] Allelia: I hear Brado usually stores some though, so I suggest you check in Ojaveda.
+[NPC Narrate] -She stops wiping a glass and smiles at you.-
+[NPC] Allelia: Unless you have some special reason for coming to me anyway.
+[NPC Internal] I was looking for a cider I can flavour with nolthrir grown ingredients.
+[NPC] Allelia: So you have something special in mind then?
+[NPC] Allelia: Well I suppose Brado's stock would serve, but I have something here that might as well.
+[NPC] Allelia: It will cost you fifty tria though.
+[NPC Internal] Here's your tria.
+[NPC] Allelia: Thank you.
+[NPC] Allelia: Now be careful not to spill this.
+
+[To] Crosh Dunehammer
+
+[NPC Internal] I have both the juice and some cider now.
+[NPC] Crosh: Took you long enough.
+[NPC] Crosh: Let me see.
+[NPC Narrate] -He sniffs at the juice.-
+[NPC] Crosh: Not much of it is there?
+[NPC Narrate] -He shrugs and empties it into the cider mug.-
+[NPC] Crosh: Well, let's find out if it's any good then.
+[NPC Narrate] -He tips back the mug and gulps down several mouthfuls.-
+[NPC] Crosh: Hmm.
+[NPC] Crosh: I guess you might call it…
+[NPC] Crosh: Interesting.
+[NPC] Crosh: It's not bad, but I expected more of a kick.
+[NPC Narrate] -He finishes the rest of the mug then scratches at his chin.-
+[NPC] Crosh: I wonder…
+[NPC Internal] You wonder..?
+[NPC] Crosh: How was I to know how a drink made from things those nolthrir farm would taste?
+[NPC] Crosh: I'm going to have to think about it for a while.
+[NPC Narrate] -He stares down into the now empty mug.-
+[NPC] Crosh: A really long while.
+[NPC] Crosh: I've heard they're good with watery magic too you see, as well as farming these things.
+[NPC] Crosh: Heard they can use it to divine the nature of things.
+[NPC Narrate] -He runs a finger round inside the mug, hunting for a few last drips of cider, then licks them from his fingertip.-
+[NPC] Crosh: Think that maybe that magic could have let someone know what this would taste like before it was drunk.
+[NPC] Crosh: Hard to tell for me since all I do is guard down here, but maybe you should find out about it.
+[NPC] Crosh: I'm sure there'd be someone at that magic shop just outside town who would know a thing or two.
+[NPC Narrate] -He uses his free hand to wave you away.-
+[NPC] Crosh: But I'm just going to have to think lots.
+[NPC] Crosh: Best you leave me to me thinking.
+[NPC Narrate] -He tosses you a few coins.-
+[NPC] Crosh: And to me guarding of course!

@@ -1,0 +1,158 @@
+[Questname] Singing the Octarch’s Praises
+[NPC Name] Tyrus Beaut
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Inviting Talent
+
+[To] Tyrus Beaut
+
+[NPC Internal] Hello, I thought I would stop by and see what is going on.
+[NPC] Tyrus: Rumour spreads that a certain citizen of Hydlaa wishes to offer an ode in honour of the Octarch of the Dome.
+[NPC] Tyrus: I am able, of course, but want more information.
+[NPC] Tyrus: Please go to Loren Chama and ask him about the poem, or perhaps just mentioning my name would be enough to get him thinking, then return to me.
+[NPC] Tyrus: Will you do so?
+[NPC Internal] Sure, I can do that. Might learn something interesting.
+[NPC] Tyrus: Many thanks, good Madam.
+[NPC] Tyrus: I await your return.
+[NPC Narrate] -Tyrus starts humming quietly while gently plucking at kra's harp.-
+
+[To] Loren Chama
+
+[NPC Internal] Tyrus Beaut sent me to learn of the poem you wish to present to the Octarch.
+[NPC] Loren: That name is indeed familiar, and I would not object to commissioning some work from this Kran.
+[NPC] Loren: While I do adore the statue you procured for me for the Octarch's birthday, I feel I need to do a bit more to make the gift stand out.
+[NPC] Loren: I'm sure you understand.
+[NPC] Loren: Well, I recently heard that not only has this Tyrus Beaut character recently acquired a new harp to accompany kra's little ditties, but that word of this Kran's masterful verse has already reached the Octarch's ears.
+[NPC] Loren: I wonder…
+[NPC] Loren: what if it were I who got this Beaut fellow to write a tribute honouring the Octarch?
+[NPC Narrate] -Loren's eyes glaze over as he continues.-
+[NPC] Loren: I could read it while giving the Octarch his statue!
+[NPC] Loren: It would be rather stirring, and I'm sure that it would cause my name to be remembered.
+[NPC Narrate] -Loren pauses slightly as his eyes focus back on you.-
+[NPC] Loren: Please, go inform Tyrus Beaut that I wish to commission a tribute to the Octarch.
+[NPC] Loren: I'll make sure you're compensated, as usual.
+
+[To] Tyrus Beaut
+
+[NPC Internal] Loren wishes to commission you to do the tribute poem.
+[NPC] Tyrus: I would be very pleased to do so.
+[NPC] Tyrus: To be fair, my fee is usually five octa for such works.
+[NPC] Tyrus: Tell Loren this, and see if he will agree.
+[NPC] Tyrus: While almost nothing would please me more than having one of my works performed in front of the Octarch, I must eat.
+
+[To] Loren Chama
+
+[NPC Internal] Tyrus requires five octa for the commission of the poem.
+[NPC] Loren: Oh, dear.
+[NPC Narrate] -Loren shakes his head.-
+[NPC] Loren: That's quite high.
+[NPC] Loren: Five octa is a bit much for me to part with right now.
+[NPC] Loren: You see, I am saving my coin to buy the most lovely pterosaur.
+[NPC] Loren: It's really the next step to ensure my welcome amongst the well-to-do of Hydlaa.
+[NPC] Loren: Shall I send you to bargain with Tyrus Beaut on my behalf?
+
+[Possible Ways] 3
+
+[Way] 1
+
+[NPC Internal] I cannot haggle!.
+[NPC] Loren: Yes, it would be embarrassing for one of my station to allow a lowly street performer to dictate terms to me…
+[NPC] Loren: and such outrageous terms at that!
+[NPC] Loren: I will not be bullied into such a ridiculous arrangement.
+[NPC] Loren: Well, then, tell that ambitious Kran I offer fifty tria.
+[NPC] Loren: I'll not go higher.
+[NPC] Loren: Here they are.
+
+[To] Tyrus Beaut
+
+[NPC Internal] hands Tyrus the purse of tria.
+[NPC Narrate] -Tyrus counts out the coins.-
+[NPC] Tyrus: That is a fifth of what I ask for!
+[NPC Narrate] -The Kran's eyes start to flash like precious stones in the light.-
+[NPC] Tyrus: Very well.
+[NPC] Tyrus: Never let it be said that I refuse to write.
+[NPC] Tyrus: The man shall have his poem.
+[NPC] Tyrus: Stay near, I will finish quickly.
+[NPC Narrate] -Tyrus begins making furious notes on a piece of parchment.-
+[NPC Narrate] -Occasionally, the quill bites so hard into the sheet that it makes a small hole.-
+[NPC Narrate] -Tyrus finishes with an irritated flourish.-
+[NPC] Tyrus: There, my tale is told.
+[NPC Narrate] -Tyrus gives a tight smile… whether the tightness is from anger or a result of the Kran's stony face, you cannot tell.-
+[NPC] Tyrus: The nobles think that all of Yliakum owes them dues.
+[NPC] Tyrus: Here is his poem.
+[NPC Narrate] -Tyrus Beaut thrusts the sheet of parchment into your hands.-
+[NPC] Tyrus: May the words choke him.
+
+[To] Loren Chama
+
+[NPC Internal] Here is your poem.
+[NPC] Loren: I knew you would convince that Beaut character to see sense!
+[NPC] Loren: I'm anxious to see what this Kran has come up with.
+[NPC Narrate] -Loren opens the parchment and starts reading; his face grows visibly paler as the seconds go by.-
+[NPC Narrate] -Loren finishes reading and he looks up at you, his face suddenly purple.-
+[NPC] Loren: This is outrageous!
+[NPC] Loren: Just…
+[NPC] Loren: just listen to this nonsense!
+[NPC Narrate] -Loren Chama begins reading.-
+[NPC] Loren: -Salikarios, champion of Hydlaa!-
+[NPC] Loren: -Keeper of parties, eater of dainty treats!-
+[NPC] Loren: -Give him a pretty gift, witness him beaming!-
+[NPC] Loren: -Eagle eyes, feastmates, let us see whom he greets.-
+[NPC] Loren: -Everyone present kens, Octarch included…-
+[NPC] Loren: -That ambition, not tribute, impels such fetes!-
+[NPC Narrate] -Loren Chama looks distraught.-
+[NPC] Loren: I'd be launched headfirst into the Azure Sun if I presented this!
+[NPC] Loren: It's dreadful!
+[NPC Narrate] -Loren sighs.-
+[NPC] Loren: It's not your fault, however.
+[NPC] Loren: The blame lies solely with that upstart Kran.
+[NPC Narrate] -Loren gives you some tria.-
+[NPC] Loren: So please, take this with my thanks for your efforts.
+
+[Reward] [Money] 2107; [XP] 10800
+
+[Way] 2, 3
+
+[NPC Internal] Sure, I can give it a try.
+[NPC] Loren: Excellent!
+[NPC] Loren: Please, ask Tyrus Beaut if one hundred tria is enough.
+[NPC] Loren: I will give it to you in advance in case negotiations go well.
+[NPC Narrate] -Loren hands you a sack of 100 tria.-
+
+[To] Tyrus Beaut
+
+[NPC Internal] Is 100 tria enough?
+[NPC Narrate] -Tyrus looks up at you.-
+[NPC] Tyrus: My good Madam, there are many who pay me more for my efforts.
+[NPC] Tyrus: Such customers come first, and other work needs must suffer for it.
+[NPC] Tyrus: If Loren Chama pays the full five octa, then I can take the time to give this verse its due with my integrity intact.
+[NPC] Tyrus: Can Loren give more tria?
+
+[Way] 2
+
+[NPC Internal] no
+[NPC] Tyrus: Well then.
+[NPC] Tyrus: I am sorry I have not more time to honour the Octarch properly, I have a ballad that simply must be completed by tomorrow.
+[NPC] Tyrus: So, I must pen it now and pray it does justice to the Octarch.
+[NPC] Tyrus: Hold here, it will soon be done.
+[NPC Narrate] -Tyrus takes a seat before you, and starts writing.-
+[NPC Narrate] -Tyrus frowns and crosses out a few words, changes some others.-
+[NPC Narrate] -Tyrus copies the poem to a fresh sheet of parchment.-
+[NPC] Tyrus: My best effort, given the amount of time allowed.
+[NPC] Tyrus: Give me the tria, and Loren shall have his song of praise.
+
+[To] Tyrus Beaut
+
+[To] Loren Chama
+
+[NPC] Loren: I see that you are a skilful negotiator.
+[NPC] Loren: Let us see what our bard has come up with.
+[NPC Narrate] -Loren unfolds the parchment and begins reading.-
+[NPC] Loren: Yes, yes, this will do quite nicely.
+[NPC] Loren: A very pleasant little compliment to the Octarch, I think.
+[NPC Narrate] -Loren gives you three hexa.-
+[NPC] Loren: Thank you for your trouble.
+
+[Reward] 
+

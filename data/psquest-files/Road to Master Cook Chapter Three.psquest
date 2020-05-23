@@ -1,0 +1,95 @@
+[Questname] Road to Master Cook Chapter Three
+[NPC Name] Mirra Houphen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Road to Master Cook Chapter Two; [Item] 12, Lake Mushrooms
+
+[To] Mirra Houphen
+
+[NPC Internal] Hi Mirra, you need help with anything?
+[NPC] Mirra: Are you ready to go find the next world famous recipe?
+[NPC Internal] Sounds like fun, where are you sending me now?
+[NPC] Mirra: Prepare yourself for a long walk then!
+[NPC] Mirra: The guards from the Sunshine Squadron seem to be well-fed and very fit!
+[NPC] Mirra: That's because they get fed only the best…
+[NPC] Mirra: Lake Mushroom Stew!
+[NPC] Mirra: It might not be the best-tasting recipe ever, but it sure is nutritious!
+[NPC] Mirra: I bet it would sell well!
+[NPC] Mirra: Please bring me the Lake Mushroom Stew recipe.
+[NPC] Mirra: There is just one problem: I have no clue who has it.
+
+[To] Beniua Busuka
+
+[NPC Internal] I am in search of the Lake Mushroom Stew recipe.
+[NPC] Beniua: You are referring to the Lake Mushroom Stew, yes?
+[NPC Narrate] -Beniua smiles.-
+[NPC] Beniua: Of course you are, it's what keeps our Squadron in good shape.
+[NPC] Beniua: It keeps their energy up in battle, keeps their minds focused on their task, and is very healthy.
+[NPC] Beniua: It is low in fat and well currently…
+[NPC] Beniua: low on mushrooms as well.
+[NPC] Beniua: I take it you want to know how it's prepared?
+[NPC Internal] That would be great, thanks.
+[NPC] Beniua: Not a problem…
+[NPC] Beniua: I'll give you the recipe.
+[NPC] Beniua: However, you have to do a few things for me.
+[NPC] Beniua: First you must get me…
+[NPC] Beniua: let's say…
+[NPC] Beniua: one dozen Lake Mushrooms.
+[NPC Internal] give Beniua the mushrooms.
+[NPC] Beniua: Great job.
+[NPC] Beniua: One more task and you will have the recipe.
+[NPC] Beniua: I just received this crate.
+[NPC] Beniua: It contains some potions that are very valuable here at the fortress, but they can potentially be dangerous.
+[NPC] Beniua: It has a three digit combination lock on it.
+[NPC] Beniua: The merchant from Hydlaa was supposed to send the combination on a piece of paper ahead of time so that when the crate came I could open it.
+[NPC] Beniua: However, it looks as if he wrote it in code in fear of bandits and rogues looting it on the way here.
+[NPC] Beniua: Will you help me decipher it?
+[NPC Internal] Yes.
+[NPC] Beniua: The code reads: 'One: Arena entrance steps.
+[NPC] Beniua: Two: Men holding the roof.
+[NPC] Beniua: Three.'
+[NPC Narrate] -Beniua stares at the piece of paper looking rather confused. She turns the paper over and over repeatedly then stops and looks at you.-
+[NPC] Beniua: But wait, there is nothing after the number three, what do you think that means?
+[NPC Narrate] -Beniua thinks for a moment.-
+[NPC] Beniua: I get it!
+[NPC] Beniua: The three is the third number.
+[NPC] Beniua: There was no need for a clue because it is the number.
+[NPC] Beniua: Anyone who stole the paper might think like I did, that there was something missing.
+[NPC] Beniua: Great, so the last number is three.
+[NPC] Beniua: It's hopeless!
+[NPC] Beniua: I don't know how many steps are on the way into the arena, and what do they mean by men holding the roof?
+[NPC] Beniua: What will I do?
+[NPC Narrate] -Beniua pauses for a moment, looks at the slip of paper and then back at you.-
+[NPC] Beniua: Ehh, you'll figure it out, please come back when you have the code figured out.
+[NPC] Beniua: If memory serves me correctly, the Arena is somewhere near Harnquist; it is a magnificent building.
+[NPC] Beniua: Return to me when you know the code.
+[NPC Internal] I figured out the code.
+[NPC] Beniua: Give me the numbers.
+[NPC] Beniua: Remember, the steps come first, then the number of men.
+[NPC] Beniua: Add the number three at the end.
+[NPC] Beniua: 983
+[NPC] Beniua: Let me try.
+[NPC Narrate] -She enters the code and click can be heard as it opens.-
+[NPC] Beniua: Ah great!
+[NPC] Beniua: It seems you solved it.
+[NPC] Beniua: Well, here you go, one recipe for my stew as promised.
+
+[To] Mirra Houphen
+
+[NPC Internal] [YOU hands over the recipe.]
+[NPC] Mirra: Hooray!
+[NPC] Mirra: That seems like the one we were looking for!
+[NPC] Mirra: Here is your reward.
+[NPC Narrate] -Mirra hands you a small coin purse with a few coins in it.-
+[NPC] Mirra: Also, here is a little something extra for the hard work you did, I wanted to order some fancy knives, to go with my fancy silver plates and I thought it was my lucky day.
+[NPC] Mirra: A travelling merchant, who happened to be wandering through Hydlaa at the exact same time, told me that he had exactly what I needed and so I bought a whole bunch of them.
+[NPC] Mirra: He told me they would cut through anything I cooked no matter how tough the meat.
+[NPC] Mirra: I was so excited I paid the man right away.
+[NPC] Mirra: He told me that he would have them delivered from his caravan that afternoon.
+[NPC] Mirra: Well, when the box showed up, this is what I ended up with.
+[NPC] Mirra: I think it will do you more good than it will me.
+[NPC] Mirra: I can't imagine someone buttering their bread or cutting their steak with a sabre.
+
+[Reward] [Money] 12958; [XP] 17800; [Item] 1, Golden Sabre; [Faction] 40, Food Association
+

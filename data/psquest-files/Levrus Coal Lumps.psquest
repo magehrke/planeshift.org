@@ -1,0 +1,30 @@
+[Questname] Levrus Coal Lumps
+[NPC Name] Levrus Dahrenn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 10, Coal Lumps
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Can I help you?
+[NPC] Levrus: Yes?
+[NPC] Levrus: Oh, yes.
+[NPC] Levrus: I need coal, my friend, COAL.
+[NPC] Levrus: 'Tis the blackness that attenuates nicely with the brine, or so they say.
+[NPC] Levrus: Can you bring me coal lumps, naturally found?
+[NPC Internal] Yes.
+[NPC] Levrus: Whee, excellent!
+[NPC] Levrus: I need ten lumps of coal.
+[NPC] Levrus: To fuel my fires for potion-making, you see.
+[NPC] Levrus: I shall anticipate your return with bated breath.
+[NPC] Levrus: Do it quickly now, and there'll be a bonus!
+[NPC Internal] Here are your ten coal lumps.
+[NPC] Levrus: Ooh, here it is, the lovely coal!
+[NPC] Levrus: How it wanes my very vision.
+[NPC] Levrus: Here, this is for you.
+[NPC] Levrus: And lots extra for being so quick about it!
+[NPC] Levrus: I'm almost always in the need for ingredients of some kind, so if you want extra work, ask me!
+
+[Reward] [Money] 1297; [XP] 8000
+

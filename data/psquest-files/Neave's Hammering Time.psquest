@@ -1,0 +1,141 @@
+[Questname] Neave's Hammering Time
+[NPC Name] Neave Besetun
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Abelia's Welcome; [Item] 1, Lunch Pack
+
+[Info] You get the Lunch Pack from the Abelia's Welcome quest.
+
+[To] Neave Besetun
+
+[NPC Internal] Hello, are you Neave?
+[NPC] Neave: Why yes, that's right.
+[NPC Narrate] -Neave's tears her eyes from the unfinished blades propped against the side of the anvil, sets down her hammer, and smiles.-
+[NPC] Neave: I'm the local smith in this part of the city; been asked to work on weapons for the warriors coming though here before they head back out to fight against the invasions.
+[NPC] Neave: I'm here so the city's main blacksmith doesn't get buried under everything.
+[NPC] Neave: He has a lot to do after all, working in the centre of Hydlaa just off the plaza.
+[NPC Narrate] -She sniffs suddenly.-
+[NPC] Neave: Hold on.
+[NPC Narrate] -Neave's narrows her eyes looking directly at you.-
+[NPC] Neave: Is that smell what I think it is!?
+[NPC Internal] Uhm, I know I've been on the road for a while getting here, but do I really smell that bad?
+[NPC] Neave: Oh dear!
+[NPC Narrate] -Neave chuckles softly.-
+[NPC] Neave: Did I make you worry for a moment then?
+[NPC] Neave: I meant the scent of Abelia's delicious cooking; she is in my opinion the finest cook and baker in the whole of the city of Hydlaa.
+[NPC] Neave: Am I right that she sent you to bring my lunch over to me?
+[NPC Internal] That's right. Here's the lunch pack she made for you.
+[NPC] Neave: Oh, well look at that!
+[NPC Narrate] -Neave takes the pack carefully.-
+[NPC] Neave: She knows how hard Ibhaar has me working, what with all those blades he keeps wanting repaired for all his troops and the shields he's got me making.
+[NPC Narrate] -Neave drops her voice slightly.-
+[NPC] Neave: Nothing here is ever quite good enough for him and he's determined everyone passing through proves they can use a weapon to some extent, so always has me making sure there are lots of different weapons available!
+[NPC] Neave: With the invasions, the Octarchy is quite keen on it as well, making sure all its citizens can fight and defend themselves that is.
+[NPC] Neave: That’s actually one of the laws of the land; if you want to read the rest you could find a copy of the Decree in…
+[NPC] Neave: Uh…
+[NPC] Neave: Jayose’s Library.
+[NPC Narrate] -Neave becomes a little distracted as she starts unwrapping her food.-
+[NPC Internal] So do you just repair things for Ibhaar?
+[NPC] Neave: Well, I'm the smith here so that is generally my job.
+[NPC Narrate] -Neave takes a big bite of her lunch.-
+[NPC] Neave: But if you’re interested I can tell you a little bit about the different kinds of smithy crafts you’re likely to run into in Hydlaa.
+[NPC] Neave: Maybe tell you about how to start out in metal working and blacksmithing, the same things I started out with, if it takes your fancy.
+[NPC Internal] So what sorts of crafts are there?
+[NPC] Neave: Well, all sorts.
+[NPC] Neave: You will be able to learn to make many different weapons and many different pieces of armour and lots of different shields.
+[NPC Narrate] -Neave smiles warmly as she continues to eat her lunch.-
+[NPC] Neave: Just look behind me to the table over there.
+[NPC] Neave: I've been working on a few new shields, and then there's these half finished swords I have.
+[NPC Narrate] -Neave points down to the blades resting against her anvil.-
+[NPC] Neave: Of course, as a good smith I can also work on armour, but I don’t very much.
+[NPC] Neave: Chainmail gloves and good sturdy plate helms.
+[NPC] Neave: Maybe it's something you should think about trying?
+[NPC] Neave: You'll see that being a smith is a very diverse skill with lots to learn beyond how to simply work with metal.
+[NPC Internal] And how should I start to learn?
+[NPC] Neave: Well, you'd best start looking for master Harnquist just off the Hydlaa plaza.
+[NPC] Neave: He owns the smithy there and he's always happy to help out anyone looking to start training their arm with a hammer.
+[NPC] Neave: He is also the starting point for anyone looking to join the Crafting Association.
+[NPC] Neave: After you talk to him about that he will probably have a few little jobs you can help him with, like fetching some ore or maybe bringing him something to eat while he works; it's a good way to make some quick tria as well.
+[NPC Narrate] -Neave grins around another mouthful.-
+[NPC] Neave: He likes his food as much as I do.
+[NPC] Neave: And if you keep helping people in the association you will be taught how to make metal stocks from ores, then how to make bladed weapons like axes and swords, and then eventually to make many different shields.
+[NPC] Neave: Harnquist will tell you all you need to know.
+[NPC Internal] What about other armour?
+[NPC] Neave: Good question.
+[NPC] Neave: Shields are possible to make, like I said, as are light, medium and heavy helms.
+[NPC] Neave: And then you can make light armour made of leather and medium armour made of chain mail.
+[NPC] Neave: But if you are interested in making leather armour you will need to take a slightly different path.
+[NPC] Neave: You'll first need to learn how to work with leather, not really something you will learn from a blacksmith.
+[NPC] Neave: From what I know you will have to learn to tan hides and to sew and shape the leather.
+[NPC] Neave: If you ever take a trip to the Enkidukai city of Ojaveda, there is an Enkidukai there named Hirenn and I'm sure he will be able to help you get started with the leather working skill.
+[NPC Internal] Do you think I could have a go at something simple?
+[NPC] Neave: Well maybe you could…
+[NPC Narrate] -Neave moves over to her pile of ores and carefully looks them over while talking.-
+[NPC] Neave: One of the simplest things to do is to turn ore into metal ingots or stocks which you can then use in crafting.
+[NPC Internal] Where would I find ore?
+[NPC Narrate] -Neave chuckles.-
+[NPC] Neave: By mining of course!
+[NPC Narrate] -She gestures at the pile of different ores stacked next to her.-
+[NPC] Neave: Many, many different types of ore and gem can be mined out of the ground.
+[NPC] Neave: You just need a sturdy pick and a bit of determination, but it's probably best to ask around near the smithy to see if someone can show you where to try and mine until you know where to go.
+[NPC Narrate] -She frowns a little, but the expression quickly changes to a grin.-
+[NPC] Neave: But mining ore is only good if you then learn to turn it into ingots and metal stock of course!
+[NPC] Neave: You could use my furnace to try the very first step of that process; that step is melting some iron ore into molten iron.
+[NPC Narrate] -She steps back to her anvil after picking up a few pieces of iron ore.-
+[NPC Internal] I'd love to try.
+[NPC] Neave: Perfect!
+[NPC] Neave: Just step up to the furnace behind me then and pop one ore at a time inside.
+[NPC] Neave: Just wait it out and you should see the metal turning molten.
+[NPC] Neave: But if you leave it in the furnace for too long it will be ruined and useless, so make sure you pay attention.
+[NPC Narrate] -Neave hands you three pieces of ore.-
+[NPC] Neave: Here, try with these.
+
+[Info] To learn about using containers click on the 'HELP' icon in the toolbar and in the 'START HERE SECTION' read the heading 'CRAFTING CONTAINERS'.
+
+[Info] Simply, you need to right click and open the interaction menu for the furnace, then select 'EXAMINE' which will open the container window for the furnace. Then you need to move the iron ore from your inventory to the container. Wait about 90 seconds and the iron ore will transform into molten iron ore which you can move back to your inventory and give to Neave.
+
+[NPC Internal] I gave it a try; here's the molten ore.
+[NPC] Neave: Well, let me see then.
+[NPC Narrate] -Neave moves to take a look before nodding approvingly.-
+[NPC] Neave: It's a very good start.
+[NPC] Neave: If you really start to train to be a smith you will do the same thing a lot.
+[NPC] Neave: Just make sure you speak to Harnquist later on if you want to learn about what to do next.
+[NPC] Neave: He is a good trainer for getting started in skills like mining, blacksmithing, and metallurgy.
+[NPC] Neave: Is there anything else I can help you with for now?
+[NPC Internal] Neave..there is a giant heart on top of your ores?
+[NPC Narrate] -Neave turns her head to look at it as though surprised and then chuckles.-
+[NPC] Neave: Why yes, yes there is!
+[NPC Narrate] -Neave pauses for a moment and gives you a rather serious look.-
+[NPC] Neave: There are certain metals, ones only the most experienced metallurgists can produce, and well…
+[NPC Narrate] -Neave blushes slightly.-
+[NPC] Neave: I'm hoping to learn how to make them myself soon, but they do require some rather strange ingredients, like a giant ulbernaut heart.
+[NPC Internal] I can't think of anything else to ask you.
+[NPC] Neave: Hmm, well, okay then.
+[NPC] Neave: Perhaps in this case I could ask a little favour of you instead?
+[NPC Narrate] -Neave moves over toward the forge and carefully lifts a sword that was hidden there.-
+[NPC] Neave: Ibhaar asked me to repair this for him.
+[NPC] Neave: He is always taking so little care of his weapons and sending them back to me ruined, that I'm beginning to think he uses them to hammer arrows into trees instead of shooting the arrows like he should.
+[NPC Narrate] -She shakes her head sadly.-
+[NPC] Neave: I really wonder about him sometimes, but then Diaboli are known to be a little, well, sort of odd.
+[NPC] Neave: I'd really appreciate it if you could run this sword over to him for me and I'm sure he'll hand you a little something for your time.
+[NPC Internal] I'll take him the sword.
+[NPC] Neave: Perfect then!
+[NPC] Neave: Thank you very much for your help with this!
+[NPC Narrate] -Neave carefully hands you a broadsword which shows the signs of heavy reworking on its blade.-
+[NPC] Neave: Just continue to follow along the road and you will find him nearby.
+[NPC] Neave: And…
+[NPC] Neave: One more thing as well.
+[NPC Internal] Yes?
+[NPC] Neave: If you start to make or use weapons yourself, you might want to also learn how to repair them; it's another skill you will have a chance to learn more about in Hydlaa.
+[NPC] Neave: There might be many people like Ibhaar that need help repairing their armour or weapons.
+[NPC] Neave: Just, take this as a small gift as well.
+[NPC] Neave: Once you pick up a weapon, you should take better care of it than Ibhaar does of his by learning to do repairs.
+[NPC Narrate] -Neave hands you a small repair kit, which includes several things you might be able to use to improve a damaged weapon.-
+[NPC] Neave: Take care of yourself.
+[NPC Narrate] -She waves you toward the road and turns back to her anvil.-
+[NPC] Neave: Right, it's hammering time.
+[NPC Narrate] -She begins to whistle a somewhat recognisable tune as she picks up her hammer and starts hammering again.-
+
+[Reward] [Item] 3, Iron Ore; [Item] 1, Ibhaar's Broadsword; [Item] 1, Weapons Repair Kit
+

@@ -1,0 +1,106 @@
+[Questname] Insects in the Garden
+[NPC Name] Jardet Forsill
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Jardet Wants Lake Mushrooms; [Item] 3, Consumer Antennae
+
+[To] Jardet Forsill
+
+[NPC Internal] Greetings Jardet, need help with anything today?
+[NPC] Jardet: You've come at the right time.
+[NPC] Jardet: YOU , is it?
+[NPC] Jardet: I need some more help.
+[NPC] Jardet: It would seem a peculiar insect has moved from eating the grass to a rare flower.
+[NPC] Jardet: I fear for the flower's survival if this continues.
+[NPC] Jardet: Can you help me with this issue?
+[NPC Internal] I need to save the flowers immediately, what must I do?
+[NPC] Jardet: Thanks again.
+[NPC] Jardet: First I need to identify the insect.
+[NPC] Jardet: Take this drawing I've made of it and find an insect expert to tell you what it is, then return to me.
+
+[To] Durok Rrecrok
+
+[NPC Internal] Would you be able to identify this insect?
+[NPC] Durok: Yes, I'm…
+[NPC] Durok: mmmm…
+[NPC] Durok: familiar with this.
+[NPC] Durok: It is a…
+[NPC] Durok: errr…
+[NPC] Durok: a barn bouncetail, not rare, but uncommon.
+[NPC Narrate] -Durok nods.-
+[NPC] Durok: It arrives from The Barn, or the second level.
+[NPC] Durok: Come….
+[NPC] Durok: mmm…
+[NPC] Durok: back to me if you need any more help, yes.
+
+[To] Jardet Forsill
+
+[NPC Internal] I discovered that the insect is a barn bouncetail.
+[NPC] Jardet: A barn bouncetaill you say?
+[NPC] Jardet: That's a start.
+[NPC] Jardet: Now what I require is something to repel the insects away from the flowers, but not kill them.
+[NPC] Jardet: These bouncetails are nature's creations too.
+[NPC] Jardet: I trust you'll be able to find some sort of bouncetail repellant.
+[NPC] Jardet: Ask around.
+[NPC] Jardet: Good luck.
+
+[To] Durok Rrecrok
+
+[NPC Internal] Do you know of any natural repellent for the barn boucetail?
+[NPC] Durok: Err..
+[NPC] Durok: umm..
+[NPC] Durok: I wrote a book about insects, you know.
+[NPC] Durok: I don't remember that…
+[NPC] Durok: mmmm…
+[NPC] Durok: information…
+[NPC] Durok: offhand, but I know I did write it down.
+[NPC] Durok: I gave the book to…
+[NPC] Durok: errr…
+[NPC] Durok: Arion Fildar…
+[NPC] Durok: mmm….
+[NPC] Durok: so he could study the complexities of the Kran language.
+[NPC] Durok: You should speak to him.
+
+[To] Arion Fildar
+
+[NPC Internal] Do you know of any natural repellent for the barn boucetail.
+[NPC] Arion: Let me just consult this book on insects.
+[NPC Narrate] -He begins flipping pages rapidly.-
+[NPC] Arion: It says here that the bouncetail's natural enemy is the consumer, which eats wingless insects in addition to carrion.
+[NPC] Arion: If you got your hands on some consumer pheromone, that should prompt the insects to move away.
+[NPC] Arion: I'll wager any alchemist could help you with that.
+
+[To] Liera Zireti
+
+[NPC Internal] I am looking for consumer pheromone. Do you sell any?
+[NPC] Liera: Consumer pheromone?
+[NPC] Liera: You got it.
+[NPC Narrate] -Liera looks through the shelves.-
+[NPC] Liera: Oh dear, I'm all out.
+[NPC] Liera: I can extract it if you provide me with some consumer antennae, and I'll even give you some for free.
+[NPC] Liera: Can you do that?
+[NPC Internal] I will be right back with some antennae.
+[NPC] Liera: Great.
+[NPC] Liera: Three consumer antennae should be plenty.
+[NPC Internal] Here are the antennas.
+[NPC] Liera: Wonderful.
+[NPC] Liera: Now let me just get going on this.
+[NPC Narrate] -Liera smashes the antennae with a mortar and pestle, then sends it through a distiller, collecting some clear liquid in a jar.-
+[NPC] Liera: Careful with this.
+[NPC] Liera: It's nearly impossible to get the pheromone out of clothes if you spill it on yourself, and you'll be a walking consumer magnet.
+[NPC] Liera: Trust me, I know from experience.
+
+[To] Jardet Forsill
+
+[NPC Internal] I have just what you need to repel the barn bouncetails.
+[NPC] Jardet: Here goes nothing…
+[NPC Narrate] -Jardet pours the pheromone on the flowers.-
+[NPC] Jardet: It's working!
+[NPC] Jardet: The bouncetails are retreating to the grass!
+[NPC] Jardet: Thank you, YOU .
+[NPC] Jardet: Take these as a token of my appreciation.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Seeds of Wildwood; 
+

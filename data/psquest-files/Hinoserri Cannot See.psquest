@@ -1,0 +1,113 @@
+[Questname] Hinoserri Cannot See
+[NPC Name] Hinoserri
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 10, Carrots; [Item] 1, Diamond Crystal; [Item] 1, Gold Ore
+
+[To] Hinoserri
+
+[NPC Internal] Greetings, do you require anything to be done, with which I can help?
+[NPC] Hinoserri: Good morrow.
+[NPC] Hinoserri: You want something to do, you say.
+[NPC] Hinoserri: Well, I am a member of the Shadow Squadron and I was placed on watch duty.
+[NPC] Hinoserri: What a disgrace.
+[NPC] Hinoserri: I don’t want to say what I need.
+[NPC] Hinoserri: If Raithen ever finds out, he will probably feed me to the pterosaurs..
+[NPC] Hinoserri: I cannot tell you unless you promise never to say anything..
+[NPC] Hinoserri: Do you promise?
+[NPC Internal] I promise.
+[NPC] Hinoserri: Erm…
+[NPC] Hinoserri: Well…
+[NPC] Hinoserri: I erm…
+[NPC Narrate] -Hinoserri sighs.-
+[NPC] Hinoserri: Oh alright!
+[NPC] Hinoserri: I will tell you since you push me so much and swear not to rat on me.
+[NPC] Hinoserri: I am a terribly good guard, I really am.
+[NPC] Hinoserri: But…
+[NPC] Hinoserri: my eyesight ain’t so well….
+[NPC] Hinoserri: I cannot even see what is on yonder bridge!
+[NPC] Hinoserri: When danger approaches, I will be too late to respond.
+[NPC] Hinoserri: If only, something could be done about it.
+[NPC] Hinoserri: I heard once that carrot juice might be good for someone’s eyesight.
+[NPC] Hinoserri: Thing is, I don’t know where to get some and I can’t really leave my post.
+[NPC] Hinoserri: So I need you to find and get me some.
+[NPC] Hinoserri: Will you do this for me?
+[NPC Internal] Sure, I will help you.
+[NPC] Hinoserri: Good luck!
+[NPC] Hinoserri: I’ll stay here and wait for you to return.
+
+[To] Jomed Parcen
+
+[NPC Internal] Do you sell carrot juice?
+[NPC] Jomed: I've heard that carrot juice be the answer to helpin' someone's vision.
+[NPC Narrate] -Jomed rummages around the kitchen.-
+[NPC] Jomed: Aye, I've the ingredients needed, but that be the last of me carrots.
+[NPC] Jomed: If you want this juice, you'll have to bring some carrots to me to replace the ones I will use for your juice.
+[NPC] Jomed: Ten carrots should be enough to see me through.
+[NPC Internal] You give Jomed ten carrots.
+[NPC] Jomed: There yeh be, here is your carrot juice.
+
+[To] Hinoserri
+
+[NPC Internal] I found some carrot juice for you.
+[NPC] Hinoserri: What’s this?
+[NPC] Hinoserri: Carrot juice?
+[NPC] Hinoserri: Oh my!
+[NPC] Hinoserri: I hope it actually helps!
+[NPC] Hinoserri: Legend says, it is good for your eyes!
+[NPC] Hinoserri: Did you go all the way to Hydlaa to get this for me?
+[NPC] Hinoserri: How nice of you.
+[NPC] Hinoserri: I am truly impressed!
+[NPC] Hinoserri: Now I will try out this magical juice.
+[NPC Narrate] -Hinoserri drinks the carrot juice and squints into the distance.-
+[NPC] Hinoserri: Hmm.
+[NPC] Hinoserri: It did not seem to do anything.
+[NPC] Hinoserri: I am so disappointed.
+[NPC] Hinoserri: I wish there was something else to do to help my vision.
+[NPC] Hinoserri: Wait!
+[NPC] Hinoserri: I am sure I saw someone near here with spectacles.
+[NPC] Hinoserri: If you can find out who that is and ask whomever it is where they got their spectacles, that would be a big help.
+[NPC] Hinoserri: Will you try?
+[NPC Internal] I'll find some spectacles for you.
+[NPC] Hinoserri: Thank you ever so much.
+[NPC] Hinoserri: I am certain it was someone I saw recently who had the spectacles, so while I’m sure some Hydlaans or Ojavedans wear them, I would stick to this area.
+[NPC] Hinoserri: Good luck finding them.
+
+[To] Hiacheius Dilechi
+
+[NPC Internal] Greetings, can you tell me where you got those spectacles?
+[NPC] Hiacheius: Oh these?
+[NPC] Hiacheius: I erg er umm made them myself: an an an Inv in inv invention of s-s-s-orts.
+[NPC] Hiacheius: They helped me see up close until I made them b-b-better.
+[NPC] Hiacheius: Now I can s-s-s-see far away too.
+[NPC] Hiacheius: My eyes are old and t-t-t-tired.
+[NPC] Hiacheius: Are you B-b-blind too?
+[NPC] Hiacheius: I could make you a p-p-pair, if you want them.
+[NPC] Hiacheius: You have to tell folks t-t-they came from m-m-me though.
+[NPC] Hiacheius: Oh, and I will n-n-n-eed a diamond crystal to cut the glass, amd a l-l-l-ump of g-g-gold ore to make a f-frame for them.
+[NPC Internal] Here are the items as requested, one gold ore and one diamond crystal.
+[NPC] Hiacheius: Oh, back so s-s-soon?
+[NPC] Hiacheius: You work fast.
+[NPC] Hiacheius: I will n-n-n-eed some time to work.
+[NPC] Hiacheius: I'll give you a riddle, you ponder about it while I work and when you come b-b-b-ack with the right answer I will give you the glasses f-f-f-ree.
+[NPC] Hiacheius: If not, they w-w-will cost you two thousand tria.
+[NPC] Hiacheius: Here is your riddle: M-m-m-egaras are the largest flying creatures in Yliakum.
+[NPC] Hiacheius: What were the largest flying creatures in Yliakum before Megaras were discovered?
+[NPC Internal] Megaras
+[NPC] Hiacheius: That is true!
+[NPC] Hiacheius: Haha you-you’re not as d-dumb as you look, good Ynnwn!
+
+[To] Hinoserri
+
+[NPC Internal] I got you a pair of spectacles.
+[NPC] Hinoserri: Here goes nothing.
+[NPC Narrate] -Hinoserri puts on the eyewear.-
+[NPC] Hinoserri: By the gods, it is a miracle!
+[NPC] Hinoserri: I can see fine now, and way past the bridge!
+[NPC] Hinoserri: I hope whatever devil you had to bargain with did not require too much of you.
+[NPC] Hinoserri: These could never compensate for what you have given me, but you might find use for them.
+[NPC Narrate] -Hinoserri hands over a small coin sack.-
+
+[Reward] [Money] 9922; [XP] 12200; [Item] 1, Sunshine Squadron Badge
+

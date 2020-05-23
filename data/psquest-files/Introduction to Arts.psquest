@@ -1,0 +1,37 @@
+[Questname] Introduction to Arts
+[NPC Name] Yonda Axebow
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Yonda Axebow
+
+[NPC Internal] Someone told me you are a talented artist!
+[NPC] Yonda: Oh, you are too kind
+[NPC Narrate] -blushes-
+[NPC] Yonda: …
+[NPC] Yonda: Are you interested in arts?
+[NPC Internal] Yes!.
+[NPC] Yonda: Great to hear!
+[NPC] Yonda: Art is one of the most exciting wonders of Yliakum!
+[NPC] Yonda: Please ask me any question you may have.
+[NPC Internal] What type of artists are present in Hydlaa?
+[NPC] Yonda: So many I cannot even list them all, some of the most important are: musicians, painters, sculptors, potters, jewelers and gem cutters, glassblowers and plenty more.
+[NPC Internal] Do artists gather into a single organization?
+[NPC] Yonda: Definitely!
+[NPC] Yonda: It's because we like getting to know each other, and some gather under the Artists Association.
+[NPC] Yonda: The main purpose of the association is to keep track of all arts, and to spread the knowledge of new talents.
+[NPC Narrate] -Yonda Axebow smiles at YOU.-
+[NPC] Yonda: It also provides some organization for events and gatherings to allow people to display new pieces of work.
+[NPC Internal] I would like to participate!
+[NPC] Yonda: Ah, that's good.
+[NPC] Yonda: What I suggest you is to first of all is get to know some of the artists here in Hydlaa.
+[NPC] Yonda: One of the easiest ways is to do some small jobs for them.
+[NPC Internal] Where can I find some artists?
+[NPC] Yonda: Just look around and ask them about themselves and their job.
+[NPC] Yonda: There is a group of artist which usually gather near Jayose Library, like Dhalia and Serevim Colat.
+[NPC] Yonda: Have fun!
+
+[Reward] [XP] 8000; [Faction] 5, Artists Association
+

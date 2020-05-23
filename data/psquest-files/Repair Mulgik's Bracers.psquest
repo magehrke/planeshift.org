@@ -1,0 +1,183 @@
+[Questname] Repair Mulgik's Bracers
+[NPC Name] Mulgik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Brown Way Knowledge
+
+[To] Mulgik
+
+[NPC Internal] I thought I'd stop by and see if you needed anything else.
+[NPC] Mulgik: You have been Xiosian sent.
+[NPC] Mulgik: I must thank her.
+[NPC Narrate] -Mulgik looks to the ground and incants strange sounds.-
+[NPC Narrate] -Mulgik looks at you.-
+[NPC] Mulgik: Sit, Enkidukai.
+[NPC] Mulgik: I ask of you a very special task.
+[NPC] Mulgik: 'Tis not to be lightly taken.
+[NPC] Mulgik: Xiosia trusts you to help me in my time of need.
+[NPC] Mulgik: Will you take on this task?
+[NPC Internal] Yeah, what is it xiosia needs.
+[NPC] Mulgik: Xiosia give me strength.
+[NPC Narrate] -Mulgik face saddens and kra holds out two old leather bracers held in kras big stone hands.-
+[NPC Narrate] -Mulgik slowly begins to speak.-
+[NPC] Mulgik: These…
+[NPC] Mulgik: these…
+[NPC Narrate] -Mulgik sniffs.-
+[NPC] Mulgik: These belonged once to my elder, Nevixeuphon.
+[NPC] Mulgik: From stone to stone, flesh to flesh, life was given to me.
+[NPC Narrate] -Mulgik pauses for a moment.-
+[NPC] Mulgik: I fear that I have worn them thin.
+[NPC] Mulgik: Do you know of Jeyarp of Hydlaa?
+[NPC Internal] Yes, I know Jeyarp.
+[NPC] Mulgik: This means much.
+[NPC] Mulgik: Repair them please.
+[NPC Narrate] -Mulgik stares at the bracers and then to you, it seems as if an inner struggle rages through Mulgik.-
+[NPC] Mulgik: Xiosia says I must trust.
+[NPC Narrate] -Mulgik hands you the bracers.-
+[NPC] Mulgik: Return me these after repair.
+[NPC] Mulgik: I will pay well for good work.
+[NPC Narrate] -Mulgik begins to meditate.-
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] Can you take a look at these bracers?
+[NPC] Jeyarp: Dear gods, these bracers have seen the true meaning of battle.
+[NPC] Jeyarp: What should I do with them?
+[NPC Internal] I need them repaired.
+[NPC] Jeyarp: I could fix them, but there is no guarantee that they won't break again and from the looks of it this could happen again soon.
+[NPC] Jeyarp: It truly looks as if the owner should replace them.
+[NPC] Jeyarp: It can be hard to give up something one is attached to.
+[NPC] Jeyarp: However, new ones will last longer between repairs.
+[NPC] Jeyarp: I could sell you a new pair very similar to these; would you like to buy them instead?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] Yes, new ones would be better.
+[NPC] Jeyarp: I shall give you a fair trade.
+[NPC] Jeyarp: I shall keep these bracers and use them as scraps and patches.
+[NPC] Jeyarp: In return I will sell you this new pair for one hundred tria; that is fifty tria less then you will find them elsewhere!
+[NPC Internal] One hundred tria, that's not too bad. Here you go.
+[NPC] Jeyarp: Sir, I thank you for your business.
+[NPC Narrate] -Jeyarp gives you a set of ornate new bracers.-
+[NPC] Jeyarp: Take care.
+
+[To] Mulgik
+
+[NPC Internal] YOU give Mulgik the new bracers.
+[NPC] Mulgik: Enkidukai…
+[NPC Narrate] -Mulgik eyes open wide.-
+[NPC] Mulgik: You have faithfully served me.
+[NPC] Mulgik: This task has served you well.
+[NPC Narrate] -Mulgik puts the bracers on and a look of dread washes over kras face.-
+[NPC] Mulgik: These bracers are wrong.
+[NPC] Mulgik: Mine held the harmony of my elder.
+[NPC] Mulgik: Bring to me, my bracers.
+[NPC] Mulgik: Xiosia have mercy on you.
+[NPC Narrate] -The clouds overhead suddenly look ominous.-
+[NPC] Mulgik: Take these back.
+[NPC Narrate] -Mulgik takes the bracers off and throws them to you.-
+[NPC] Mulgik: Remember, one shall only truly be fooled once.
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] : Here, here! Take these back!
+[NPC] Jeyarp: What am I to do with these?
+[NPC] Jeyarp: Am I to understand that they were not suitable?
+[NPC] Jeyarp: Do you want those other bracers back?
+[NPC Internal] Yes, I need the others back now!
+[NPC] Jeyarp: Very well.
+[NPC Narrate] -Jeyarp rubs his head.-
+[NPC] Jeyarp: While you have been gone I did repair the other bracers you gave me…
+[NPC] Jeyarp: for some reason I just could not bear to see them discarded.
+[NPC] Jeyarp: You are just in time, as I have had a few people ask about them in your absence.
+[NPC] Jeyarp: However, this is going to cost you, as these are no ordinary bracers; a customer told me of their value.
+[NPC] Jeyarp: I shall keep the one hundred tria for the new bracers and you owe me one hundred and fifty tria more for the repaired set.
+[NPC Internal] Here is the extra one hundred and fifty tria.
+[NPC] Jeyarp: It is a shame to see them sold for so little, even in the shape they are in.
+[NPC Narrate] -Jeyarp gives you Mulgik's bracers. They have been repaired with a few new pieces of leather stitched in.-
+[NPC] Jeyarp: Ah well. So be it, and farewell to you, Sir.
+
+[To] Mulgik
+
+[NPC Internal] give Mulgik the repaired bracers.
+[NPC Narrate] -Mulgik takes the bracers from you and examines them thoroughly.-
+[NPC] Mulgik: Yes, at last.
+[NPC Narrate] -Mulgik looks at you with a worried sort of frown.-
+[NPC] Mulgik: You have done that which I asked.
+[NPC] Mulgik: Your loyalty lies however to yourself.
+[NPC] Mulgik: The Brown Way… we defend and preserve what we value, we seek not to replace it.
+[NPC] Mulgik: Take these coins and seek harmony.
+[NPC] Mulgik: Remember that you have much to learn.
+[NPC Narrate] -Mulgik tosses you some loose coins.-
+
+[Way] 2
+
+[NPC Internal] No, I need them fixed.
+[NPC] Mulgik: Then I shall fix these, however, I will need supplies from the Mikana company in Ojaveda.
+[NPC] Mulgik: I will need you to bring me back three bone needles from Jirosh Mikana.
+
+[To] Jirosh Mikana
+
+[NPC Internal] I am looking to purchase some bone needles.
+[NPC] Jirosh: Yes, yes, now let me see.
+[NPC Narrate] -Jirosh opens a small book of records and checks a figure.-
+[NPC] Jirosh: A terrible shame, I seem to be out of bone needles at present.
+[NPC] Jirosh: It seems though that this day Talad has brought good fortune upon you.
+[NPC] Jirosh: I happen to have a new item in today: needles made of copper.
+[NPC] Jirosh: They are stronger than bone, and they will not chip.
+[NPC] Jirosh: You can even sharpen them when they lose their point.
+[NPC] Jirosh: It is all that I have in stock, and I am not expecting a new shipment of bone needles any time soon.
+[NPC Narrate] -Jirosh thinks for a moment.-
+[NPC] Jirosh: Tell you what good Madam, because it is not what you wanted, I will give you a deal.
+[NPC] Jirosh: I shall sell you the needles at half price.
+[NPC] Jirosh: How many did you say you needed?
+[NPC Internal] I need three.
+[NPC] Jirosh: Normally they are four tria each, as I said, I shall let them go for half price which is two tria apiece.
+[NPC] Jirosh: That will be six tria, please.
+[NPC Internal] Here you go, six tria.
+[NPC Narrate] -Jirosh smiles and gives you the three copper needles.-
+[NPC] Jirosh: Here are your needles.
+[NPC] Jirosh: It was a pleasure, tabei.
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] I've brought you your needles.
+[NPC Narrate] -Jeyarp takes the needles and looks at them.-
+[NPC] Jeyarp: These are not bone needles like I asked for.
+[NPC Narrate] -Jeyarp takes a longer look at them.-
+[NPC] Jeyarp: Interesting.
+[NPC] Jeyarp: Copper I believe, and
+[NPC Narrate] -Jeyarp pricks his finger.-
+[NPC] Jeyarp: sharp too…
+[NPC] Jeyarp: very strong.
+[NPC] Jeyarp: I can see where these will come in handy.
+[NPC] Jeyarp: I shall repair your bracers.
+[NPC Narrate] -Jeyarp takes the bracers and begins to thread leather cord through the holes already carefully placed by Jeyarp's skilled hands.-
+[NPC] Jeyarp: Good needles.
+[NPC] Jeyarp: Hmm…
+[NPC] Jeyarp: I'll charge you just twenty tria for the repairs.
+[NPC Internal] gives Jeyarp twenty tria.
+[NPC] Jeyarp: Thank you very much, Madam.
+[NPC Narrate] -Jeyarp tucks the coins away and finishes his stitching, tying off the leather cord with a focussed expression on his face.-
+[NPC] Jeyarp: Should be good now, aye.
+[NPC Narrate] -Jeyarp hands the bracers to you.-
+[NPC] Jeyarp: Be gentle with them, and they'll hold up for a while yet.
+
+[To] Mulgik
+
+[NPC Internal] gives Mulgik the repaired bracers.
+[NPC] Mulgik: Enkidukai…
+[NPC Narrate] -Mulgik eyes open wide.-
+[NPC] Mulgik: You have faithfully served me.
+[NPC] Mulgik: This task has served you well.
+[NPC Narrate] -Mulgik puts the bracers on and breathes a sigh of relief. Kras skin seems to shine like polished stone, and kras eyes brighten.-
+[NPC] Mulgik: Xiosia smiles on you, Madam.
+[NPC Narrate] -Mulgik hands you some coin and a ring in return.-
+[NPC] Mulgik: A reward for those who are loyal to the Brown Way.
+
+[Reward] [Way 1] [Money] 3391; [XP] 12200; [Faction] 10, Crafting Association; [Faction] -10, Seeds of Wildwood; [Faction] -10, Kran
+[Reward] [Way 2] [Money] 3391; [XP] 12200; [Item] 1, Brown Way Ring; [Faction] 20, Crafting Association; [Faction] 10, Seeds of Wildwood
+

@@ -1,0 +1,69 @@
+(13:42:27) [NPC Internal] Huarwar says: I thought I'd stop by, see if you needed anything.
+(13:42:27) [NPC ME] Malco Mokkar waves a stone handle at you.
+(13:42:27) [NPC] Malco Mokkar says: Sir came back!
+(13:42:27) [NPC] Malco Mokkar says: Malco need help.
+(13:42:27) [NPC] Malco Mokkar says: Malco smash Malco hammer.
+(13:42:27) [NPC ME] Malco Mokkar looks at you, kra's head slightly tilted.
+(13:42:27) [NPC] Malco Mokkar says: Sir help Malco?
+(13:42:29) [NPC Internal] Huarwar says: Yes, I can try and help.
+(13:42:29) [NPC ME] Malco Mokkar hands you the stone handle and a hammer head.
+(13:42:29) [NPC] Malco Mokkar says: Sir go.
+(13:42:29) [NPC] Malco Mokkar says: Find smith.
+(13:42:29) [NPC] Malco Mokkar says: Fix Malco hammer.
+(13:42:59) [NPC Internal] Huarwar says: I would like a Pterosaur ride.
+(13:42:59) [NPC] Gurrak Qualor says: Greetings Sir if you want to ride a pterosaur for faster travel you are in the right place!
+(13:42:59) [NPC] Gurrak Qualor says: Where can I take you?
+(13:43:01) [NPC Internal] Huarwar says: I'd like to travel to the Enkidukai city, Ojaveda.
+(13:43:01) [NPC] Gurrak Qualor says: Ok, to reach the Enkidukai city of Ojaveda by pterosaur will be 2500 tria, or a travel token, please hand either to me.
+(13:43:19) [NPC Internal] Huarwar says: Here are the tria to go to Ojaveda.
+(13:43:19) [NPC] Gurrak Qualor says: Perfect!
+(13:43:19) [NPC] Gurrak Qualor says: Jump on board, and we go!
+(13:44:58) [NPC] Trasok Starhammer says: Welcome! This forge is my home.
+(13:45:09) [NPC Internal] Huarwar says: Can you repair this?
+(13:45:10) [NPC ME] Trasok Starhammer looks at the parts, and then pushes them back towards you.
+(13:45:10) [NPC] Trasok Starhammer says: I am a smith, not a stonemason.
+(13:45:10) [NPC ME] Trasok Starhammer pulls a red-hot metal bar out of the forge, and hits it a few times with his hammer, sending sparks flying before placing it back in the coals.
+(13:45:10) [NPC] Trasok Starhammer says: Look in the village of Gugrontid if you need a stonemason.
+(13:45:10) [NPC] Trasok Starhammer says: It's quite a ways from here.
+(13:45:10) [NPC] Trasok Starhammer says: Probably have to go past the road to Hydlaa you will.
+(13:46:05) [NPC Internal] Huarwar says: I would like a Pterosaur ride.
+(13:46:05) [NPC] Ereneid Dhusho says: Greetings Sir if you want to ride a pterosaur for faster travel you are in the right place!
+(13:46:05) [NPC] Ereneid Dhusho says: Where would you like to go?
+(13:46:10) [NPC Internal] Huarwar says: I'd like to go to the Kran city of Gugrontid.
+(13:46:10) [NPC] Ereneid Dhusho says: Ok, to reach the Kran city by pterosaur I need 2500 tria, or a travel token, please hand either to me.
+(13:46:15) [NPC Internal] Huarwar says: Here are the tria to go to Gugrontid.
+(13:46:15) [NPC] Ereneid Dhusho says: Perfect!
+(13:46:15) [NPC] Ereneid Dhusho says: Jump on board, and we go!
+(13:47:10) [NPC Internal] Huarwar says: Can you repair this?
+(13:47:10) [NPC ME] Gardr Keck takes one look at the parts and sighs.
+(13:47:10) [NPC] Gardr Keck says: Malco sent you, didn't kra?
+(13:47:19) [NPC Internal] Huarwar says: Yes its Malco's hammer.
+(13:47:19) [NPC ME] Gardr Keck smiles slightly.
+(13:47:19) [NPC] Gardr Keck says: I make more tria fixing that incompetent guard's hammer...
+(13:47:19) [NPC ME] Gardr Keck lets kra's voice trail off.
+(13:47:19) [NPC] Gardr Keck says: It's a good thing that nobody really likes to bother us here.
+(13:47:19) [NPC] Gardr Keck says: Go tell Malco that I will need one hundred tria to fix kras hammer.
+(13:47:44) [NPC Internal] Huarwar says: [You give Gardr one hundred tria.]
+(13:47:44) [NPC ME] Gardr Keck takes the coins, and puts them the pocket of kras apron.
+(13:47:44) [NPC] Gardr Keck says: I was expecting a promissory note from the guards, same as last time, but it does not matter.
+(13:47:44) [NPC ME] Gardr Keck gives you a stone-handled war hammer.
+(13:47:44) [NPC] Gardr Keck says: Here you go, Malco's hammer, as good as new...
+(13:47:44) [NPC] Gardr Keck says: again.
+(13:47:44) [NPC] Gardr Keck says: It has been a pleasure doing business with you, Sir.
+(13:48:10) [NPC Internal] Huarwar says: Here you go, it's as good as new.
+(13:48:10) [NPC ME] Malco Mokkar takes the hammer from your hands, and examines it.
+(13:48:10) [NPC] Malco Mokkar says: Sir make Malco happy.
+(13:48:10) [NPC ME] Malco Mokkar drops the hammer with a clang and throws kras arms around you.
+(13:48:10) [NPC] Malco Mokkar says: Malco not know what Malco do with no hammer.
+(13:48:10) [NPC] Malco Mokkar says: Malco pay Sir for help.
+(13:48:10) [NPC ME] Malco Mokkar digs out a few coins and drops them into your hands.
+(13:48:10) [NPC] Malco Mokkar says: Hammer good now!
+(13:48:10) [NPC] Malco Mokkar says: Sir see Gurgus now.
+
+(13:47:44) [System] >You have received a Malco's War Hammer.
+(13:47:44) [System] >Trade complete
+(13:48:10) [System] >You received 8 circle, 2 octa, 0 hexa and 7 tria.
+(13:48:10) [System] >You gained 10800 experience points and 54 progression points!
+(13:48:10) [System] >Quest Completed!
+(13:48:10) [System] >You have completed the Malco Broke Hammer quest!
+(13:48:10) [System] >Trade complete

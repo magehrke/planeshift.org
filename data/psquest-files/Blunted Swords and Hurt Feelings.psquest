@@ -1,0 +1,63 @@
+[Questname] Blunted Swords and Hurt Feelings
+[NPC Name] Bhurral Varsheen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Bhurral Watches for Trouble
+
+[To] Bhurral Varsheen
+
+[NPC Internal] Do you have any more work for me?
+[NPC] Bhurral: Hello again RACE.
+[NPC] Bhurral: I have an errand that needs running.
+[NPC] Bhurral: Will you do it?
+[NPC Internal] Yes, I could use the work.
+[NPC] Bhurral: I have gotten every smith on this level to sharpen my blades for me, and the swords never come back as sharp as I want.
+[NPC] Bhurral: I am going to purchase a sharpening stone and take care of the job myself.
+[NPC] Bhurral: Unfortunately, my guard duty ends after Trasok Starhammer closes his shop for the night.
+[NPC] Bhurral: I need you to give this promise of payment to him and pick up my whetstone.
+[NPC Narrate] -Bhurral hands you a small note.-
+
+[To] Trasok Starhammer
+
+[NPC Internal] give Traosk a small note.
+[NPC Narrate] -Trasok reads over the note and begins to sputter.-
+[NPC] Trasok: That…
+[NPC] Trasok: that…
+[NPC] Trasok: obnoxious mangy-furred Grendol spawn!
+[NPC] Trasok: Thinks she can sharpen a blade better, does she?
+[NPC] Trasok: I hope the chilly little menace gets a crook in her tail!
+[NPC] Trasok: Not only does she want to deprive me of work, she wants me to give her the tools to do it!
+[NPC Narrate] -Trasok shakes his head.-
+[NPC] Trasok: Never thought I'd see the day that someone in service to the city would be so rude to an honest local merchant.
+[NPC] Trasok: Well, you can just go back and tell that haughty young miss she gets no stone.
+[NPC Narrate] -Trasok tears the note into very tiny pieces.-
+
+[To] Bhurral Varsheen
+
+[NPC Internal] Trasok said he wouldn't sell you a whetstone.
+[NPC Narrate] -Bhurral shrugs.-
+[NPC] Bhurral: It's a pity that Trasok believes himself to be the only one in Yliakum who sells sharpening stones.
+[NPC] Bhurral: Take this note to Harnquist; perhaps he won't be so difficult.
+[NPC Narrate] -Bhurral hands you a small note.-
+
+[To] Harnquist
+
+[NPC] Harnquist: A whetstone?
+[NPC] Harnquist: I have several in stock that I am willing to part with.
+[NPC] Harnquist: If she wants to try sharpening her own weapons, much luck to her.
+[NPC] Harnquist: It's still tria in my pocket.
+[NPC] Harnquist: Please take this back to her.
+[NPC Narrate] -Harnquist hands you a flat, oblong grey stone that is rough to the touch.-
+[NPC] Harnquist: Thanks for the business.
+
+[To] Bhurral Varsheen
+
+[NPC] Bhurral: Thank you.
+[NPC] Bhurral: Glad to see that you are somewhat trustworthy.
+[NPC] Bhurral: I might have further use for you, so check in with me from time to time.
+[NPC] Bhurral: Take this for your trouble.
+[NPC Narrate] -Bhurral hands you a few tria.-
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Guard
+

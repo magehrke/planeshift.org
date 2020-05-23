@@ -1,0 +1,108 @@
+[Questname] Get Grimal Out of Retirement
+[NPC Name] Raerul Bloodaxe
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Pinayet Misses His Friend; [Item] 2, Molten Iron; [Money] 100
+
+[To] Raerul Bloodaxe
+
+[NPC Internal] I could use some work. Do you have anything that needs doing?
+[NPC] Raerul: Ah, my father, Grimal Bloodaxe.
+[NPC] Raerul: Quite a fierce warrior in his day, and still is as a matter of fact.
+[NPC] Raerul: He used to charge into the Stone Labyrinths with his axe swinging, and he didn't care what might happen.
+[NPC] Raerul: Come to think of it, we could use that kind of attitude in the Sunshine Squadron.
+[NPC] Raerul: Do you think you could do me a favour?
+[NPC Internal] Sure, I'm game.
+[NPC] Raerul: I knew I could count on you.
+[NPC] Raerul: My father usually spends his days in Hydlaa now.
+[NPC] Raerul: Ask him to join the Sunshine Squadron, would you?
+[NPC] Raerul: Use my name if you have to.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Would you consider joining the Sunshine Squadron?
+[NPC] Grimal: What is going on at the Bronze Doors?
+[NPC] Grimal: Who put you up to this?
+[NPC Internal] Your son, Raerul Bloodaxe.
+[NPC] Grimal: Oh, that's right.
+[NPC] Grimal: My son is indeed a member of the Sunshine Squadron.
+[NPC] Grimal: I'd forgotten in my old age.
+[NPC] Grimal: Well, since you're asking on his behalf, I'll have to consider it, won't I?
+[NPC] Grimal: Now let's see.
+[NPC] Grimal: The Shadow Squadron has offered me some tria as well as paying off my debts.
+[NPC] Grimal: But an old man has no real use for such things.
+[NPC] Grimal: I want a legacy.
+[NPC] Grimal: Something to make people remember me.
+[NPC] Grimal: Oh, I know!
+[NPC] Grimal: Tell Raerul I want a statue.
+[NPC] Grimal: Yes, a statue of myself for all of Yliakum to see!
+[NPC] Grimal: And if he agrees, come back and we'll talk.
+
+[To] Raerul Bloodaxe
+
+[NPC Internal] Grimal says he wants a statue made in his honor.
+[NPC] Raerul: My father's always been self-centered.
+[NPC] Raerul: However, he is still an important figure in adventuring circles, so Commander Strongwill likely won't have trouble with it.
+[NPC] Raerul: Tell my father that the Sunshine Squadron agrees.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] The Sunshine Squadron has agreed to commission a statue for you.
+[NPC] Grimal: Ha ha, excellent!
+[NPC] Grimal: Now all I need is a miniature statue so I know what it will look like, and if I like it, then I will agree.
+[NPC] Grimal: I know just the dwarf for the job too: Yonda Axebow is an expert sculptor.
+[NPC] Grimal: She could probably do it.
+[NPC] Grimal: Why not ask her to make you a statue?
+[NPC] Grimal: I'll wait here.
+
+[To] Yonda Axebow
+
+[NPC Internal] Can you make me a statue? I've heard tell that you're an excellent sculptor.
+[NPC] Yonda: A statue?
+[NPC] Yonda: Of who?
+[NPC Internal] The famed fighter Grimal Bloodaxe.
+[NPC] Yonda: Oh, Grimal!
+[NPC] Yonda: I could do that by heart.
+[NPC] Yonda: I'll start on it right now, and while you wait, why not bring me two clumps of molten iron?
+[NPC] Yonda: We'll cover it.
+[NPC] Yonda: Make it like a miniature metal statue.
+[NPC] Yonda: This will be great.
+[NPC] Yonda: Also, get one hundred tria ready - that's my fee.
+[NPC Internal] I've brought the metal you need for your statue.
+[NPC] Yonda: Here goes nothing.
+[NPC Narrate] -Yonda spreads the iron over the wooden statue with a tool.-
+[NPC] Yonda: Look at that, looks just like him, wrinkles and battle scars and all!
+[NPC] Yonda: One of my best yet.
+[NPC] Yonda: One hundred tria, please.
+[NPC Internal] Here is your fee.
+[NPC] Yonda: I hope you enjoy it.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Look, your statue is done!
+[NPC Narrate] -Grimal looks at the statue incredulously.-
+[NPC] Grimal: What?
+[NPC] Grimal: Is that how I look?
+[NPC] Grimal: I must be…I…I was…
+[NPC] Grimal: No, this is the truth.
+[NPC] Grimal: I am indeed a wrinkled old man and I would be a fool to go back into battle.
+[NPC] Grimal: Let people remember me in their minds for who I was, not who I am.
+[NPC] Grimal: I won't accept the offers of either the Shadow Squadron or the Sunshine Squadron.
+[NPC] Grimal: Tell my son that I will stay retired.
+[NPC] Grimal: Have a circle; it's for the statue and the lesson.
+
+[To] Raerul Bloodaxe
+
+[NPC Internal] Your father has decided to remain in retirement.
+[NPC] Raerul: Is that so?
+[NPC] Raerul: Perhaps it's for the best.
+[NPC] Raerul: It was probably a silly idea anyway.
+[NPC] Raerul: Have some circles; it's for the errand and the lesson.
+[NPC] Raerul: Heh, listen to me!
+[NPC] Raerul: I sound like my father.
+[NPC] Raerul: He used to say that all the time.
+[NPC] Raerul: But thanks.
+
+[Reward] [Money] 10172; [XP] 16400
+

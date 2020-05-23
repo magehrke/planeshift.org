@@ -1,0 +1,37 @@
+[Questname] A Hammer for Hamel
+[NPC Name] Harnquist
+[Checkup] 2017-04-11
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Introduction to Crafting; [Item] 1, Hammer
+
+[To] Harnquist
+
+[NPC Internal] Well, I can go and visit some of your customers and see if they need anything. Do you think that's a good idea?
+[NPC] Harnquist: I don't have anything specific for you at the moment, you may search here in the main Hydlaa plaza.
+[NPC] Harnquist: Fighters, gladiators, mercenaries, and merchants are usually my clients!
+[NPC ME] Harnquist snaps his fingers.
+[NPC] Harnquist: Oh wait...I did mention something about Hamel Warson, didn't I?
+[NPC] Harnquist: I'd start with him.
+
+[To] Hamel Warson
+
+[NPC Internal] Good day sir, I'm a new apprentice of Harnquist's and I'm checking to see if any of his clients need anything.
+[NPC ME] Hamel Warson pulls on his beard.
+[NPC] Hamel: Well, I think I can take the opportunity to change my chipped hammer.
+[NPC] Hamel: Can't fix things without a hammer and I can't leave this place now.
+[NPC] Hamel: I will pay you well.
+[NPC] Hamel: Could you fetch me a new one?
+[NPC Internal] Sure, I'll get you one.
+[NPC] Hamel: Business awaits, so be quick.
+
+[Give] Hamel Warson; 1, Hammer
+
+[NPC Internal] I found you a hammer.
+[NPC ME] Hamel Warson examines the hammer and nods in satisfaction.
+[NPC] Hamel: Nice; seems to be of good quality.
+[NPC] Hamel: Perhaps you got it from Harnquist?
+[NPC] Hamel: Eh, it doesn't matter, but if you're interested in learning things, he often has plenty of work.
+[NPC] Hamel: Here's some coin for you.
+
+[Reward] [XP] 9400; [Money] 1297; [Faction] 10, Smith Association

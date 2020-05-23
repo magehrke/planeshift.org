@@ -1,0 +1,266 @@
+[Questname] Lost Artifacts
+[NPC Name] Kerryk Cor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Time For Reading; [Money] 5000
+
+[To] Kerryk Cor
+
+[NPC Internal] Hi Kerryk how are you?
+[NPC] Kerryk: You are here, good.
+[NPC] Kerryk: I need someone I can trust.
+[NPC Narrate] -Kerryk smiles somewhat nervously.-
+[NPC] Kerryk: I do need your help, Gemma Kran.
+[NPC] Kerryk: You see, I told you about the thieves a little while ago, did I not?
+[NPC] Kerryk: Yes, of course I did.
+[NPC] Kerryk: It seems they returned last night and this time important things are missing!
+[NPC] Kerryk: Can you help me with this?
+[NPC] Kerryk: I will be pleased to reward you well!
+[NPC Internal] Sure, I have some free time to spare.
+[NPC] Kerryk: Thank you!
+[NPC] Kerryk: Thank you!
+[NPC] Kerryk: Here is my problem: I haven't any idea who would have wanted to take them, or how they even knew they were here.
+[NPC] Kerryk: Perhaps the village guards might know something about last night.
+[NPC] Kerryk: Maybe they saw something?
+[NPC Narrate] -Kerryk anxiously taps kras fingers together.-
+[NPC] Kerryk: I do not know…
+[NPC] Kerryk: this is all so troubling!
+[NPC] Kerryk: These thieves have taken some of the artifacts that my friend on the Stronghold recently sent to me, and it is important that they not be lost or damaged…
+[NPC] Kerryk: so much knowledge could be destroyed.
+[NPC] Kerryk: I hope that you can learn something of what happened.
+[NPC] Kerryk: I must have those artifacts back!
+[NPC] Kerryk: Hurry quick.
+
+[To] Malco Mokkar
+
+[NPC Internal] Some thieves stole some stuff from Kerryk last night, have you seen anything?
+[NPC] Malco: Malco not know.
+[NPC] Malco: Malco sleep night.
+[NPC Narrate] -Malco rubs kras helmet with his large hand and suddenly remembers something.-
+[NPC] Malco: Urr…
+[NPC] Malco: Malco find!
+[NPC] Malco: By Kerryk house.
+[NPC Narrate] -Malco looks through kras gear and takes out a dirty leather case that contains a silver drinking flask. Kra stuffs it into your hand.-
+[NPC] Malco: Find on way home.
+[NPC] Malco: Give Gurgus.
+[NPC] Malco: Maybe Gurgus know.
+[NPC] Malco: Go Now.
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Have you ever seen this flask?
+[NPC] Gurgus: Hmm…
+[NPC Narrate] -Gurgus turns the object in kras hands, inspecting it.-
+[NPC] Gurgus: What is the story behind this?
+[NPC Internal] Malco found it near Kerryk's house last night.
+[NPC] Gurgus: I have never seen it before.
+[NPC Narrate] -Gurgus opens the flask and peers inside.-
+[NPC] Gurgus: Nothing left in there.
+[NPC Narrate] -Gurgus takes the flask from the case and studies it.-
+[NPC] Gurgus: Hmm.
+[NPC] Gurgus: This flask is engraved.
+[NPC] Gurgus: Maybe these can help you find the owner.
+[NPC Narrate] -Gurgus puts the flask back in the case and hands it to you.-
+[NPC] Gurgus: Good luck with your investigation, Gemma.
+[NPC] Gurgus: I will visit Malco and see if I may learn more.
+
+[To] Crosh Dunehammer
+
+[NPC Internal] Have you ever seen this flask?
+[NPC] Crosh: Ah, there she is!
+[NPC] Crosh: Yes, thank you Gemma.
+[NPC] Crosh: It's very kind of you to bring her back home again.
+[NPC Narrate] -Crosh smiles happily and tucks the flask out of sight under his breastplate. He brushes his hands quickly against each other.-
+[NPC] Crosh: It was a pair of clot-headed bandits was down here the other day, and they thought hassling a lone soldier tryin' to do his duty would be a bit of fun.
+[NPC] Crosh: Think they were workin' for that creepy fellow that lives down there.
+[NPC Narrate] -Crosh turns his head and spits.-
+[NPC] Crosh: The one who calls himself 'Zak.' What kind of name is that supposed to be?
+[NPC] Crosh: Huh.
+[NPC Narrate] -Crosh shakes his head.-
+[NPC] Crosh: Some day that fellow's enemies are going to catch up with him, they are.
+
+[To] Zak
+
+[NPC Internal] What do you know about some stolen artifacts from Kerryk's last night?
+[NPC] Zak: Artifacts?
+[NPC] Zak: I might know something about that.
+[NPC Narrate] -Zak smiles.-
+[NPC] Zak: I heard that some old archivist misplaced some records, pity that.
+[NPC Narrate] -Zak looks you over quickly.-
+[NPC] Zak: You seem like the able sort, you found your way down here to bother me.
+[NPC] Zak: Tell you what, help me put together a deal, and we'll split the profits.
+[NPC] Zak: If you are not interested, then you had best be getting on your way.
+[NPC] Zak: That archivist friend of yours might need help rewriting some things if he's not careful.
+[NPC] Zak: So what'll it be?
+[NPC] Zak: You going to help me or run home to your tome-trepor?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] I don't deal with people like you.
+[NPC] Zak: Ha, fair enough.
+[NPC] Zak: Go tell your friend you failed.
+
+[To] Kerryk Cor
+
+[NPC Internal] I was unable to locate the artifacts.
+[NPC] Kerryk: What do you mean?
+[NPC Narrate] -Kerryk looks disappointed.-
+[NPC] Kerryk: Did you find out who it was?
+[NPC Internal] Zak, under the Laanx temple mentioned them.
+[NPC] Kerryk: Zak?
+[NPC Narrate] -Kerryk looks angry.-
+[NPC] Kerryk: So that is his name.
+[NPC] Kerryk: That…
+[NPC] Kerryk: cantankerous criminal…
+[NPC] Kerryk: that bumbling brute….
+[NPC] Kerryk: that ruthless rogue…
+[NPC] Kerryk: He will stop at nothing, and I mean nothing.
+[NPC] Kerryk: This Zook or Zak or whatever his name was will just keep on if something doesn't happen.
+[NPC] Kerryk: Go talk to Levrus and then Grimal Bloodaxe, and tell them that this Zak is the one who has been causing the problems.
+[NPC Narrate] -Kerryk mutters something under kras breath.-
+[NPC] Kerryk: I am sure they will agree it is time we put a stop to this.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Zak is causing all the problems.
+[NPC] Levrus: Zak?
+[NPC] Levrus: Hmm…
+[NPC] Levrus: I have heard rumors of such a rogue who lives hidden here in Hydlaa, and Kerryk believes that this is who has been causing our problems?
+[NPC] Levrus: It seems the thievery is being uncovered!
+[NPC] Levrus: Yes, I think there is something, something I can do to help!
+[NPC Narrate] -Levrus giggles. He offers you a potion.-
+[NPC] Levrus: Drink this potion.
+[NPC] Levrus: Wait..
+[NPC] Levrus: no, no, that won't help.
+[NPC Narrate] -Levrus puts the potion back.-
+[NPC] Levrus: Hmm.
+[NPC] Levrus: Confuse him…
+[NPC] Levrus: amuse him…
+[NPC] Levrus: confound…
+[NPC] Levrus: confounded.
+[NPC] Levrus: Frighten him?
+[NPC] Levrus: Oh, yes, yes!
+[NPC Narrate] -Levrus reaches into his desk and pulls out a piece of parchment and chuckles as he hurriedly writes in a sprawling hand.-
+[NPC] Levrus: Here, take this to Grimal Bloodaxe and let him read it; he should understand.
+[NPC Narrate] -Levrus gives you the parchment.-
+[NPC] Levrus: This will be amusing after all.
+[NPC] Levrus: I have left a bit of room if Grimal thinks there needs to be anything added.
+[NPC Narrate] -Levrus chuckles to himself.-
+[NPC] Levrus: You had best be on your way.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Levrus thought you might want to add something.
+[NPC] Grimal: Huh, what's this?
+[NPC Narrate] -Grimal reads the note and raises an eyebrow. He laughs.-
+[NPC] Grimal: I see, so it is Zak who has been our problem.
+[NPC Narrate] -Grimal slaps his axe with his palm and grins.-
+[NPC] Grimal: I'll scare the fight out of that lowly rogue!
+[NPC Narrate] -Grimal adds a message of his own to the parchment, scowling ferociously as he writes in large letters with a piece of charcoal.-
+[NPC] Grimal: Here you go.
+[NPC Narrate] -Grimal hands you back the parchment.-
+[NPC] Grimal: Give that to Zak, he'll be thinking twice about giving us trouble!
+
+[To] Zak
+
+[NPC Internal] This is for you.
+[NPC] Zak: What is this?
+[NPC Narrate] -Zak opens the note and begins to read.-
+[NPC] Zak: Levrus…!
+[NPC] Zak: Grimal..!
+[NPC] Zak: Magic I can't even comprehend…
+[NPC] Zak: head off my neck…
+[NPC Narrate] -Zak puts the note down, and looks at you, his tone sarcastic as he speaks.-
+[NPC] Zak: By the gods, what welcome news.
+[NPC] Zak: If this is how you wish to play the game, then know this, you either pay me ten circles or I can guarantee that those precious artifacts you seek will be worthless.
+[NPC Narrate] -Zak levels his gaze on you.-
+[NPC] Zak: So what will it be, pay or take your chances?
+[NPC Internal] Ok, I'll pay.
+
+[Info] If you choose to take your chances, Zak will break the artifact and you won't have the glyph in reward, you will just have 60 octas and +10 education factions.
+
+[NPC] Zak: Good thinking.
+[NPC] Zak: Give me the twenty circles.
+[NPC Internal] Here's your money.
+[NPC Narrate] -Zak takes the coins with a smile before retrieving a small box and handing it to you.-
+[NPC] Zak: Can't say it's been a pleasure, but here are your precious artifacts.
+[NPC] Zak: Go now, before I change my mind.
+
+[To] Kerryk Cor
+
+[NPC Internal] I have recovered your artifacts.
+[NPC] Kerryk: You found them!
+[NPC] Kerryk: I owe you more than you understand.
+[NPC] Kerryk: Here, take this!
+[NPC Narrate] -Kerryk hands you a large handful of coins.-
+[NPC] Kerryk: And this!
+[NPC Narrate] -Kerryk hands you a glyph.-
+[NPC] Kerryk: Thank you so much.
+[NPC] Kerryk: Please, come back again, you will always be welcome here, YOU.
+[NPC] Kerryk: And one other thing, if you're ever in Ojaveda, you might want to visit the herbal shop there.
+[NPC] Kerryk: Vladovic is a fine fellow and may have some things for you to do.
+[NPC] Kerryk: In fact, last I heard he was trying to help some Enki named Bjorid.
+
+[Way] 2
+
+[NPC Internal] yes
+[NPC] Kerryk: Wise choice.
+[NPC Narrate] -Zak smirks.-
+[NPC] Kerryk: I got some of the artifacts, but not the best one: The Head of Talad.
+[NPC] Kerryk: It's actually just a sculpture of his head, but a buyer seems to think it is magical or something and is ready to spend some good tria on it.
+[NPC] Kerryk: If you get it for me, I'll split the deal, I'll give you fifty percent of whatever the buyer pays me.
+[NPC] Kerryk: You in?
+[NPC Internal] yes
+[NPC] Kerryk: Good, good.
+[NPC] Kerryk: We need to get kra to give up the head.
+[NPC Narrate] -Zak thinks a moment-
+[NPC] Kerryk: Tell Kerryk you need the other artifacts.
+[NPC] Kerryk: If kra asks why, say it's for the investigation.
+
+[To] Kerryk Cor
+
+[NPC Internal] give me artifacts
+[NPC] Kerryk: Hmm, what do you need them for?
+[NPC Internal] investigation
+[NPC] Kerryk: Oh, right.
+[NPC] Kerryk: I hope you are getting somewhere.
+[NPC] Kerryk: I really need those artifacts back; the knowledge they hold…
+[NPC Narrate] -Kerryk's voice trails off as kra retrieves the last of the artifacts and hands them to you in a small box.-
+[NPC] Kerryk: Here you go, please be careful with them!
+
+[To] Zak
+
+[NPC Narrate] -Zak opens the small box-
+[NPC] Zak: Ah, excellent.
+[NPC] Zak: Here is the head.
+[NPC Narrate] -Zak takes out a small sculpted head and continues looking through the box.-
+[NPC] Zak: Huh.
+[NPC] Zak: The rest of this is of no use to me.
+[NPC] Zak: Take this other stuff back to the Kran.
+[NPC] Zak: If he asks tell kra Rogues stole the head.
+[NPC Narrate] -Zak sneers-
+[NPC] Zak: Got it?
+
+[To] Kerryk Cor
+
+[NPC Narrate] -Kerryk opens the box quickly and then looks at you.-
+[NPC] Kerryk: What happened to the head?
+[NPC] Kerryk: The head of Talad is missing.
+[NPC] Kerryk: I entrusted you with a very valuable item, where is it?
+[NPC Internal] Rogues stole the head
+[NPC Narrate] -Kerryk frowns.-
+[NPC] Kerryk: How unfortunate.
+[NPC] Kerryk: I hope you are all right.
+[NPC Narrate] -Kerryk looks inside the box again and sighs quietly.-
+[NPC] Kerryk: Well.
+[NPC] Kerryk: I suppose I will have to see what I can do: I can not put you in that kind of danger again.
+[NPC Narrate] -Kerryk gives you a few coins.-
+[NPC] Kerryk: Thank you for making an effort, Gemma.
+
+[Reward] [Way 1] [Money] 5130; [XP] 13600; [Item] 1, Weight glyph; [Faction] 25, Science Association
+
+[Reward] [Way 2] [Item] 1, Weight glyph; [Money] 200; [XP] 3000; [Faction] -1, Kran; [Faction] 5, Hammerwielder
+

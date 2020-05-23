@@ -1,0 +1,106 @@
+[Questname] Interview Sunshine Squadron Applicants
+[NPC Name] Rylour Awnnys
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Pinayet Misses His Friend
+
+[To] Rylour Awnnys
+
+[NPC Internal] Hail Rylour, what are you up to?
+[NPC] Rylour: I am on duty right now, but if you could help me conduct some interviews, I would be grateful.
+[NPC] Rylour: What say you?
+[NPC Internal] Sure, I'll do the interviews for you.
+[NPC] Rylour: Three people have asked me about joining the Sunshine Squadron: Zak, Sinto Gheshd, and Taulim Wilaal.
+[NPC] Rylour: Let them know I sent you, collect their application forms, and ask them the following questions: Why did you apply?
+[NPC] Rylour: What are your skills?
+[NPC] Rylour: Can you use swords?
+[NPC] Rylour: Then return to me and hand me their forms.
+
+[To] Zak
+
+[NPC Internal] I was sent by Rylour to interview you.
+[NPC] Zak: So you're the Stonehammer who's here to interview me?
+[NPC] Zak: Yeah.
+[NPC] Zak: Go on.
+[NPC] Zak: This should be…
+[NPC] Zak: entertaining.
+[NPC Internal] Tell me, why did you apply to become part of the Sunshine Squadron.
+[NPC] Zak: Because it pays well.
+[NPC] Zak: Yeah, I hear the Sunshine Squadron's got quite a nice treasury.
+[NPC] Zak: So I was thinking getting close to the Sunshine Squadron's serious Tria.
+[NPC Narrate] -Zak winks.-
+[NPC Internal] And what skills can you offer to the squadron?
+[NPC] Zak: Daggers.
+[NPC] Zak: Sleight-of-hand.
+[NPC] Zak: And if you ever need someone to slit someone's throat in their sleep without making a sound?
+[NPC] Zak: Let's just say I haven't had any complaints.
+[NPC Internal] Do you know how to use a sword in battle?
+[NPC] Zak: Well, not really.
+[NPC] Zak: I prefer daggers.
+[NPC] Zak: More easily concealable.
+[NPC] Zak: But if it was a short sword or something, I could probably do okay.
+[NPC] Zak: Here's my application.
+[NPC] Zak: I really hope you consider me.
+[NPC] Zak: It would be a shame if I'm not recommended.
+[NPC] Zak: A real shame.
+[NPC Narrate] -Zak glares at you.-
+[NPC] Zak: I hope I don't have to be any clearer.
+
+[To] Sinto Gheshd
+
+[NPC Internal] I was sent by Rylour to interview you.
+[NPC] Sinto: Ah, the Sunshine Squadron has answered me at last.
+[NPC] Sinto: By all means, ask your questions, Sir.
+[NPC Internal] Tell me, why did you apply to become part of the Sunshine Squadron.
+[NPC] Sinto: I know that the Sunshine Squadron always needs good people.
+[NPC] Sinto: I also know that my services would benefit them.
+[NPC Internal] And what skills can you offer to the squadron?
+[NPC] Sinto: I'm a martial artist by profession.
+[NPC] Sinto: I can counter any enemy in hand-to-hand.
+[NPC Internal] Do you know how to use a sword in battle?
+[NPC] Sinto: Oh, my, no.
+[NPC] Sinto: My martial arts are empty-handed.
+[NPC] Sinto: I will never use a sword.
+[NPC] Sinto: By the way, here is my application form.
+[NPC] Sinto: Thanks for your consideration.
+
+[To] Taulim Wilaal
+
+[NPC Internal] I was sent by Rylour to interview you.
+[NPC] Taulim: I've been expecting a representative from the Sunshine Squadron.
+[NPC] Taulim: Interview away.
+[NPC Internal] Tell me, why did you apply to become part of the Sunshine Squadron.
+[NPC] Taulim: While I have much respect for the Hydlaa guard, I know that the Bronze Doors are a much more important guarding position.
+[NPC] Taulim: We need more on the first line of defense.
+[NPC] Taulim: I feel as if by guarding the Bronze Doors, I can guard more than just Hydlaa, but all of Yliakum.
+[NPC Internal] And what skills can you offer to the squadron?
+[NPC] Taulim: I'm trained in military discipline and strategy, I have guarding experience, and having grown up on a farm, I do have some hunting and tracking abilities - finding lost animals and so forth.
+[NPC Internal] Do you know how to use a sword in battle?
+[NPC] Taulim: Absolutely.
+[NPC] Taulim: I've been using swords for about six years now.
+[NPC] Taulim: Short, long or great, I've used them all.
+[NPC] Taulim: I believe now is the time when I hand you my application.
+[NPC] Taulim: Here.
+[NPC] Taulim: And thanks.
+[NPC] Taulim: I hope to hear from you soon.
+
+[To] Rylour Awnnys
+
+[NPC Internal] I have completed the interviews and have their application forms.
+[NPC] Rylour: Alright.
+[NPC] Rylour: You've interviewed all three applicants.
+[NPC] Rylour: If you had to pick only one, who would you say is best suited to the Sunshine Squadron?
+[NPC Internal] I would say Taulim Wilaal is the best candidate out of the three.
+[NPC] Rylour: Taulim, you say?
+[NPC] Rylour: I must admit upon meeting him, he seemed like the top choice as well.
+[NPC] Rylour: I suppose if I had any concerns about him, it would be that he is not being loyal to the Hydlaa guard.
+[NPC] Rylour: I will think on it.
+[NPC] Rylour: At any rate, I will take your opinion into consideration.
+[NPC] Rylour: Here is a consulting fee.
+[NPC] Rylour: If you are interested you should see our commander, Raithen.
+[NPC] Rylour: Word has it he is looking for someone to do a task for him.
+
+[Reward] [Money] 7310; [XP] 15000; [Faction] 30, Guard; 
+

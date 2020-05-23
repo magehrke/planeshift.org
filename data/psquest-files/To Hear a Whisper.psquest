@@ -1,0 +1,164 @@
+[Questname] To Hear a Whisper
+[NPC Name] Relliom
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Relliom's Commodities
+
+[To] Relliom
+
+[NPC Internal] Anything else I can do?
+[NPC] Relliom: My my.
+[NPC] Relliom: Such a thirst for power in your eyes.
+[NPC] Relliom: I am truly amazed that you have not flinched once in the tasks you have performed for me.
+[NPC] Relliom: Or perhaps I should call them tests.
+[NPC] Relliom: Yes, tests would be a far better word.
+[NPC] Relliom: You see, you have been set up from the very start.
+[NPC] Relliom: We have been watching you for some time now, Torol, and it has been decided to allow you to take the final step into greatness.
+[NPC] Relliom: Will you take that step?
+[NPC] Relliom: Will you take your rightful place within the Hand of your new Master?
+[NPC Internal] Yes, ready and willing.
+[NPC] Relliom: Such passion!
+[NPC] Relliom: A rare find you are turning out to be.
+[NPC Narrate] -Relliom grins.-
+[NPC] Relliom: You have proven that you will steal, lie, destroy lives, and even kill to get what you wish.
+[NPC] Relliom: You have also proven to be very obedient and clever.
+[NPC] Relliom: All very useful traits.
+[NPC] Relliom: Now you will find out what happens to those who fail to impress us.
+[NPC] Relliom: Go to Kisatol Gathoji in Ojaveda.
+[NPC] Relliom: Tell him these exact words, 'I am a thirsty clacker.'
+
+[To] Kisatol Gathoji
+
+[NPC Internal] I am a thirsty clacker.
+[NPC] Kisatol: Are you now?
+[NPC] Kisatol: You look more like a worthless goujah to me.
+[NPC] Kisatol: I don't have any use for goujahs.
+[NPC Narrate] -Kisatol leans close, dropping something in your hand, and whispers 'Viscarina'. He then wrinkles his nose as if smelling something bad.-
+[NPC] Kisatol: You even smell like a goujah!
+[NPC] Kisatol: Now get out of here before I split you open just to see if you taste as bad as they do!
+[NPC] Kisatol: Worthless scum.
+
+[To] Viscarina Shardis
+
+[NPC Internal] gives Viscarina the tlorate potion.
+[NPC] Viscarina: Greetings, Kran.
+[NPC] Viscarina: The whisper has guided you to me at an opportune time…
+[NPC Narrate] -Viscarina holds up the potion.-
+[NPC] Viscarina: Ah, excellent.
+[NPC] Viscarina: You brought it.
+[NPC] Viscarina: Of all those who follow the whisper, only a few can truly hear it.
+[NPC] Viscarina: In order to keep the others placated we must find means of keeping them…
+[NPC] Viscarina: ignorant to the silence in their mind.
+[NPC Narrate] -Viscarina starts diluting the potion and separating it into vials.-
+[NPC] Viscarina: Not many make it past the Shadowcaster's test.
+[NPC] Viscarina: Entering a person's mind has…
+[NPC] Viscarina: detrimental effects on the weak willed.
+[NPC] Viscarina: I envy her talent.
+[NPC] Viscarina: Oh, what horrible wonders I could create in a man's mind if I could do as she does.
+[NPC Narrate] -Viscarina smiles as she hands you the vials, then notices the look on your face.-
+[NPC] Viscarina: Relliom did not tell you?
+[NPC] Viscarina: What a tricksome man he is.
+[NPC] Viscarina: Ask Sysial Shillor about her gift, if you must know.
+[NPC] Viscarina: In the meantime, give one of these to each of the others, starting with Serana.
+[NPC] Viscarina: The others love to think they are following a strict structure, so do as they say and make sure you give them all out.
+[NPC] Viscarina: Afterwards, go to Relliom.
+[NPC] Viscarina: I am sure he has a few…
+[NPC] Viscarina: things to talk with you about.
+
+[To] Serana Tuvi
+
+[NPC Internal] gives Serana a vial of diluted tlorate potion.
+[NPC] Serana: Ah, YOU I take it?
+[NPC] Serana: Of course you are, who else would have the vials…
+[NPC] Serana: I do feel the presence of the Whisper on you…
+[NPC] Serana: Like with Relliom.
+[NPC] Serana: You will be great if you so choose, YOU.
+[NPC Narrate] -Serana gives you a cold grin.-
+[NPC] Serana: I shall enjoy watching you…
+[NPC] Serana: Give the next to Musanulos.
+
+[To] Musanulos Terfanis
+
+[NPC] Musanulos: The vials!
+[NPC] Musanulos: Thank you, YOU…
+[NPC] Musanulos: Yes, we all know your name here.
+[NPC Narrate] -Musanulos quickly drinks down the contents of the vial.-
+[NPC] Musanulos: We are the lowest of the Whisper's faithful, YOU.
+[NPC] Musanulos: You, though, you may become great.
+[NPC] Musanulos: Jolik Huevan gets the next vial.
+
+[To] Jolik Huevan
+
+[NPC Narrate] -takes the Vial from you and dumps the contents down his throat.-
+[NPC] Jolik: Oo tho vool, bron tho noxt to N'holoee.
+
+[To] Nohali Mirdasu
+
+[NPC] Nohali: Greetings, YOU.
+[NPC] Nohali: Nice to see you around…
+[NPC Narrate] -Nohali takes the vial and places it next to another one on her belt which is only half finished.-
+[NPC] Nohali: Will you make the right decision?
+[NPC] Nohali: I'm sure you will.
+[NPC] Nohali: Bring the next to Jirris Athano.
+
+[To] Jirris Athano
+
+[NPC] Jirris: YOU!
+[NPC] Jirris: You..
+[NPC] Jirris: vials!
+[NPC Narrate] -Jirris greedily grabs his vial and downs it.-
+[NPC] Jirris: Good, wel…
+[NPC] Jirris: welcome.
+[NPC] Jirris: That is …
+[NPC] Jirris: if you j-join!
+[NPC] Jirris: …
+[NPC] Jirris: You should..
+[NPC] Jirris: The greatness is…
+[NPC] Jirris: awesome…
+[NPC] Jirris: To Finra you go…
+[NPC] Jirris: bring vial.
+
+[To] Finra Neticlo
+
+[NPC Internal] YOU gives Finra a vial of diluted tlorate potion.
+[NPC Narrate] -Finra gently takes the vial from you and slowly sips it down.-
+[NPC] Finra: The time is coming, YOU!
+[NPC] Finra: It is near.
+[NPC] Finra: Go quickly to Relliom.
+[NPC] Finra: He will tell you things!
+[NPC] Finra: Things of great wonder!
+[NPC] Finra: Run to him.
+[NPC] Finra: Tell him that you wish to hear!
+
+[To] Relliom
+
+[NPC Internal] I wish to hear more.
+[NPC] Relliom: I see you've talked to the Used.
+[NPC] Relliom: It's what we call those mindless lumps of flesh.
+[NPC] Relliom: Finra, Jirris, Fordanot, Nohali, Jolik, Musanulos…
+[NPC] Relliom: all used.
+[NPC] Relliom: Each one failed one of the tests you have taken.
+[NPC] Relliom: Serana passed them all, but knows a different lie, so is given to acting in an arrogant manner.
+[NPC] Relliom: She is unaware that she is just another stone on the board to be moved as I please.
+[NPC] Relliom: The truth is not what she believes.
+[NPC] Relliom: I'm offering you the chance to know the one true truth, YOU, and be raised above those worms of the sewers.
+[NPC] Relliom: This chance will never come again.
+[NPC] Relliom: It may cost you your very soul to hear it.
+[NPC] Relliom: So…
+[NPC] Relliom: do you want to know the truth?
+[NPC Internal] Yes, I am ready.
+[NPC] Relliom: Excellent.
+[NPC] Relliom: You will never be allowed to serve another God, YOU, for you are now being ushered into the circle of the Whisper.
+[NPC] Relliom: I can not tell you more.
+[NPC] Relliom: The Whisper has much wealth, YOU.
+[NPC Narrate] -Relliom hands you a few coins.-
+[NPC] Relliom: This gift is only the beginning of your future power and wealth.
+[NPC] Relliom: From this day forth you may drink from the goblet at my side, and someone will then bring you to the altar.
+[NPC] Relliom: But, the first visit…
+[NPC Narrate] -Relliom grins at you as his dagger slips between your ribs.-
+[NPC] Relliom: The first visit is more violent.
+[NPC] Relliom: Farewell…
+
+[Reward] [Money] 12958; [XP] 17800; [Special] teleport to Black Flame; [Faction] 40, Cabal of Whispers
+

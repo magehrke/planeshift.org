@@ -1,0 +1,40 @@
+[Questname] Stocking the Armory
+[NPC Name] Veja Pontor
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] No
+
+[To] Veja Pontor
+
+[NPC Internal] Veja, do you need help with something?
+[NPC Narrate] Veja Pontor looks up from her work. Her ears are slanted back and there's some soot in her fur, making her look somewhat harried.
+[NPC] Veja Pontor: What?
+[NPC] Veja Pontor: Oh, YOU.
+[NPC] Veja Pontor: Yes, I absolutely could use your help!
+[NPC Narrate] Veja Pontor gestures around herself at the stacks of metal on the ground.
+[NPC] Veja Pontor: On top of my duties to the Arena I've now got additional orders from the Eagle Fortress, and I could use a hand getting it all done.
+[NPC] Veja Pontor: You'll need to provide your own materials, but I can pay you for your work.
+[NPC] Veja Pontor: You up for helping me?
+[NPC Internal] Sure, I've got some time.
+[NPC] Veja Pontor sighs with relief, her ears relaxing somewhat.
+[NPC] Veja Pontor: Glad to hear it.
+[NPC] Veja Pontor: Can't lose business from either.
+[NPC Internal] So what do you need me to make?
+[NPC] Veja Pontor: Well, you're new to this so I'll keep it simple.
+[NPC] Veja Pontor: Make me a single shortsword and that will be good for now.
+[NPC] Veja Pontor: If you have any trouble, check your book.
+[NPC] Veja Pontor: All of the instructions are in there.
+
+[To] Veja Pontor
+
+[NPC Internal] Here are the blades you asked for.
+[NPC] Veja Pontor: You’re done?
+[NPC] Veja Pontor: Let me take a look at those.
+[NPC Narrate] Veja Pontor gives the swords a long look before nodding and setting them down behind her counter.
+[NPC] Veja Pontor: These look good.
+[NPC] Veja Pontor: You’re making progress.
+[NPC] Veja Pontor: That’s all I need for now, but come back later if you like and I might have more work for you.
+[NPC] Veja Pontor: Here, take some tria to cover your costs, and I think I can show you something new about affixing hilts to the blades.
+[NPC Narrate] Veja Pontor shows you how to ensure that the hilts fit snugly with no room to wiggle.
+
+[Reward] [Skill] +1, Blades Making; [Money] 1297; [XP] 9400;

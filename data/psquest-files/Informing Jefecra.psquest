@@ -1,0 +1,42 @@
+[Questname] Informing Jefecra
+[NPC Name] Jefecra Harcrit
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Helping Hand for Kisatol; [Special] Don't start this quest before doing Unlawful Undertakings for Ukabnu
+
+[To] Jefecra Harcrit
+
+[NPC Internal] Ukabnu has Ceanara.
+[NPC] Jefecra: What!?
+[NPC Narrate] -Jefecra's eyes widen.-
+[NPC] Jefecra: She does?
+[NPC] Jefecra: How did you learn this?
+[NPC Internal] Ukabnu told me so.
+[NPC Narrate] -Jefecra growls.-
+[NPC] Jefecra: You'd better not be telling me stories.
+[NPC] Jefecra: Did you find her near the road to the Eagle Bronze Doors?
+[NPC Internal] nods 'I did.'
+[NPC Narrate] -Jefecra mutters curses under his breath in Enkien.-
+[NPC] Jefecra: That trepor-spawn!
+[NPC] Jefecra: We must try to keep any more people from being victims of those criminals.
+[NPC] Jefecra: If you learn more about her doings, please let me know!
+[NPC] Jefecra: Will you do that?
+[NPC Internal] Yeah, sure I'll help.
+[NPC] Jefecra: I will meet with my superiors immediately, we must take action.
+[NPC] Jefecra: Be sure to tell me anything else you have uncovered about her gang!
+[NPC Internal] I also know that Ukabnu gave Ceanara's hand to Kisatol.
+[NPC] Jefecra: W-what?!?
+[NPC Narrate] -Jefecra pales under his fur.-
+[NPC] Jefecra: Oh, dear Gods, please protect her.
+[NPC] Jefecra: Do you have any other news for me?
+[NPC Internal] I know one more thing for sure.
+[NPC] Jefecra: Tell, me please!
+[NPC Internal] Ukabnu has ordered some weapon repair kits.
+[NPC] Jefecra: I see!
+[NPC] Jefecra: Maybe she is having trouble resupplying of late.
+[NPC] Jefecra: Thank you for the report, my good Stonehammer.
+[NPC] Jefecra: We will do everything we can to stop her!
+
+[Reward] [Money] 2107; [XP] 10800; [Faction] 15, Guard
+

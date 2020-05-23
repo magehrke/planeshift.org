@@ -1,0 +1,286 @@
+[Questname] The Gemming
+[NPC Name] Gurgus Dahnik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Frilaa's_Lost_Husband; [Item] 10, Emerald Crystals; [Item] 10, Gold Ores; [Item] 5, Ruby Crystals; [Item] 5, Silver Ores; [Money] 500
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Do you have any errands that need doing?
+[NPC] Gurgus: Hello again, Kran.
+[NPC Narrate] -Gurgus smiles.-
+[NPC] Gurgus: Or should I say, hello YOU?
+[NPC] Gurgus: Yes, I have been asking around the village about you.
+[NPC] Gurgus: You have been so helpful to me so far and I wonder if I might impose, rather mightily, once more?
+[NPC Internal] I would be happy to.
+[NPC] Gurgus: That is so wonderful!
+[NPC] Gurgus: All right, here is the thing…
+[NPC Narrate] -Gurgus looks around, motioning you closer as kra lowers kra's voice.-
+[NPC] Gurgus: There has been something on my mind lately that I feel I must do.
+[NPC] Gurgus: The time has come for me to create new life, to undergo the Gemming.
+[NPC] Gurgus: To do this, I must ingest a large amount of rare gems and precious metals.
+[NPC] Gurgus: I will need ten emerald crystals, ten chunks of gold, five ruby crystals, five silver ores, and five hundred tria.
+[NPC] Gurgus: Be sure it is all tria, please, not any other coin.
+[NPC] Gurgus: Just give them to me on your return, please.
+[NPC Internal] Here are the gems, metals and Tria you wanted.
+[NPC] Gurgus: Yes, yes, these look quite good.
+[NPC] Gurgus: Heheheh…yes, these will make a great snack to nibble in the middle of the night.
+[NPC Narrate] -Gurgus laughs and winks, popping a gem into kras mouth and sucking on it.-
+[NPC] Gurgus: Special cravings, you know.
+[NPC] Gurgus: It is so very kind of you to gather all this for me!
+[NPC] Gurgus: However, this was not all that I need.
+[NPC] Gurgus: I must arrange my leave time with my superiors.
+[NPC] Gurgus: While I attend to that, can you do me another favor?
+[NPC Internal] Tell me what you need and I'll do my best.
+[NPC] Gurgus: Thank you so much, Sir YOU.
+[NPC] Gurgus: I knew an old gemma in my youth who mentored me and taught me the value of honor.
+[NPC] Gurgus: It is a lesson I hold dear to this day.
+[NPC] Gurgus: Kra's name was Korethsa and kra was the guardian of my friend Malco Mokkar.
+[NPC] Gurgus: Please find Malco and ask if I may give Korethsa a namesake.
+
+[To] Malco Mokkar
+
+[NPC Internal] Gurgus Dahnik is Gemming. Kra would like to name the offspring after Korethsa. Do you agree?
+[NPC] Malco: Gurgus name little Kran for Korethsa?
+[NPC Narrate] -Malco grins with the simple joy of a child.-
+[NPC] Malco: Malco think that very good!
+[NPC] Malco: Tell kra Malco happy!
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Malco thinks it's a wonderful idea.
+[NPC Narrate] -Gurgus already seems heavier and looks to be moving slower than before.-
+[NPC] Gurgus: Welcome back, YOU.
+[NPC] Gurgus: Excellent!
+[NPC] Gurgus: You really are being a most helpful friend, YOU.
+[NPC Narrate] -Gurgus heaves a rumbling sigh.-
+[NPC] Gurgus: One last matter, and it is too far to travel for me in my…condition.
+[NPC Narrate] -Gurgus smiles and gently pats kras chest.-
+[NPC] Gurgus: Would you be willing to help me one last time?
+[NPC Internal] Absolutely; I enjoy working for you.
+[NPC] Gurgus: I am so glad, thank you.
+[NPC] Gurgus: You see, in my early days in the guard, it was often one of my duties to attend to the needs of visiting merchants.
+[NPC] Gurgus: Watch over them, find them accommodations; things like that.
+[NPC] Gurgus: Anyway, one of these merchants was an up and coming Enkidukai named Jalar Bhundri.
+[NPC] Gurgus: I heard he found a wife some years back.
+[NPC] Gurgus: A pretty little thing, she was.
+[NPC] Gurgus: Frilaa is her name.
+[NPC] Gurgus: Please visit them and tell Jalar I sent you; then ask if he and his wife would be willing to act as guardians to my child at times.
+[NPC] Gurgus: One cannot have too much assistance in raising a child!
+
+[To] Frilaa Bhundri
+
+[NPC Internal] Gurgus has a favour to ask of you.
+[NPC Narrate] -Frilaa looks at you with eyes filled with a heart-wrenching sorrow.-
+[NPC] Frilaa: Whom did you say?
+[NPC] Frilaa: Gurgus?
+[NPC Narrate] -Frilaa pauses for a moment…-
+[NPC] Frilaa: My, but that is a name I have not heard in so very long.
+[NPC] Frilaa: Gurgus is a good Gemma; my husband likes kra very much.
+[NPC] Frilaa: What does Gurgus wish of us?
+[NPC Internal] Kra would like you to help bring up kras offspring.
+[NPC Narrate] -Frilaa smiles prettily, a paw resting lightly above her heart.-
+[NPC] Frilaa: How delightful!
+[NPC] Frilaa: But alas, I should speak with my husband and he is still missing.
+[NPC Narrate] -Frilaa pauses, looking as though she is fighting back tears.-
+[NPC] Frilaa: I am sorry, what was I saying?
+[NPC] Frilaa: Oh, yes, terrible business that.
+[NPC] Frilaa: Nor is that my only worry of late.
+[NPC] Frilaa: I do not wish to burden you with my troubles, but I must ask someone for help.
+[NPC] Frilaa: Will you hear my tale?
+[NPC Internal] I am listening.
+[NPC] Frilaa: Oh, Talad bless you.
+[NPC] Frilaa: You see, I have a friend, a very good friend, whom I have not seen in several weeks.
+[NPC] Frilaa: When last we had spoken, she was seeming more and more distant, withdrawn and moody.
+[NPC] Frilaa: Normally, she is a very forthright and stolid woman, but something has changed for her recently.
+[NPC] Frilaa: The problem is she is a messenger and travels all over, yet I know she is in Hydlaa now.
+[NPC] Frilaa: Poor, poor Tarela.
+[NPC] Frilaa: Why does she avoid me when she is here?
+[NPC] Frilaa: I fear for her so.
+[NPC] Frilaa: Please, could you possibly find her?
+[NPC] Frilaa: Tell her I am worried and I wish to see her.
+[NPC Narrate] -Frilaa looks a bit distant and wistful.-
+[NPC] Frilaa: I miss her so.
+
+[To] Tarela Girshon
+
+[NPC Internal] Frilaa is distressed and most anxious to see you.
+[NPC] Tarela: Frilaa?
+[NPC] Tarela: Frilaa Bhundri?
+[NPC] Tarela: No, no!
+[NPC] Tarela: I cannot see her, I will not!
+[NPC Narrate] -Tarela looks around the plaza a bit nervously, then sighs.-
+[NPC] Tarela: I know it isn't fair to her.
+[NPC] Tarela: She is indeed a good friend.
+[NPC Narrate] -Tarela's eyes mist over, taking on a far-away musing expression.-
+[NPC] Tarela: Yes..
+[NPC] Tarela: No!
+[NPC] Tarela: I will not go.
+[NPC] Tarela: But…whatever can I do?
+[NPC] Tarela: To see her now will only cause strife.
+[NPC] Tarela: Yet I want to see my friend once more.
+[NPC Narrate] -Tarela finally looks at you, her head tilted quizzically.-
+[NPC] Tarela: But why do I burden you with this?
+[NPC] Tarela: I long to answer, my duties be hanged!
+[NPC Narrate] -Tarela bursts into angry tears.-
+[NPC] Tarela: Tell her I cannot, or stay and I will tell you why…
+[NPC] Tarela: w-which one will it be?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] I will pass on your refusal.
+[NPC Narrate] -Tarela sniffs and tries to compose herself with a cold expression.-
+[NPC] Tarela: Thank you, Klyros.
+[NPC] Tarela: I anxiously await your return.
+
+[To] Frilaa Bhundri
+
+[NPC Internal] Tarela cannot come visit you.
+[NPC] Frilaa: Why that's absurd!
+[NPC] Frilaa: This is so unlike her.
+[NPC] Frilaa: Did she tell you why?
+[NPC Internal] I thought it would be wrong to pry.
+[NPC Narrate] -Frilaa sobs.-
+[NPC] Frilaa: I cannot believe that she would abandon me in my greatest time of need without a word of explanation.
+[NPC] Frilaa: Whatever could I have done that she could treat me so?
+[NPC] Frilaa: Please, I am begging you Sir, return to her and find out what vexes her.
+[NPC] Frilaa: Will you do this?
+[NPC Internal] I will ask; I cannot guarantee she will answer.
+[NPC] Frilaa: Good, thank you, helpful Klyros.
+[NPC] Frilaa: Tell her I want to know!
+[NPC] Frilaa: Return to me when you have her answer.
+
+[To] Tarela Girshon
+
+[NPC Internal] Frilaa is concerned and wants to know what troubles you.
+[NPC] Tarela: How can I possibly tell you, a stranger, my feelings?
+[NPC] Tarela: How can I describe to you this loneliness and anger?
+[NPC Narrate] -Tarela looks deep into your eyes, her gaze piercing and cold.-
+[NPC] Tarela: Have you ever felt love, Madam?
+[NPC] Tarela: If you have, then you understand this despair I feel for having my heart cleft in twain by her.
+[NPC] Tarela: For years we have been friends, Frilaa and I, since I was a cub and she was a young Enki.
+[NPC] Tarela: How could she not know what I felt?
+[NPC] Tarela: Imagine my relief at the announcement of her marriage to that merchant.
+[NPC] Tarela: He could give Frilaa a good life and some strong cubs.
+[NPC] Tarela: Then the buffoon gets himself missing and who does lovely Frilaa turn to?
+[NPC] Tarela: Noxdar, the one man she knew I had my eyes on!
+[NPC Narrate] -Tarela giggles a bit hysterically.-
+[NPC] Tarela: Yes, dear Frilaa goes to cry on -his- shoulders, and dashes all my hopes of his courting me.
+[NPC] Tarela: Doesn't she know better than to toy with people's emotions?
+[NPC] Tarela: I need not go on, but suffice to say she stole Noxdar away!
+[NPC] Tarela: And that is why; you may tell her as such yourself.
+
+[To] Frilaa Bhundri
+
+[NPC Internal] You stole Noxdar from Tarela.
+[NPC] Frilaa: Stole him away?
+[NPC] Frilaa: I don't…
+[NPC Narrate] -Frilaa looks perplexed for a moment.-
+[NPC] Frilaa: Oh, no!
+[NPC] Frilaa: She knows!
+[NPC] Frilaa: Good gracious, I did not imagine she actually cared for him.
+[NPC] Frilaa: I mean, of course I thought she did at first; I teased her about it, but Tarela always denied it.
+[NPC] Frilaa: She knows well that I am married, possibly tragic though it is now.
+[NPC] Frilaa: I…oh, oh dear.
+[NPC] Frilaa: Now I do understand why she has been avoiding me.
+[NPC] Frilaa: She must think I'm some terrible harlot!
+[NPC] Frilaa: I should make it up to her with a formal apology and a promise to make amends.
+[NPC Narrate] -Frilaa writes a letter on a piece of pink paper, seals it, and hands it to you.-
+[NPC] Frilaa: See that this gets to her safely, please, Madam.
+
+[To] Tarela Girshon
+
+[NPC Internal] Frilaa sent you this.
+[NPC] Tarela: A letter from Frilaa?
+[NPC] Tarela: What is this?
+[NPC Narrate] -Tarela blinks slowly, nearly in disbelief.-
+[NPC] Tarela: Could she not face me like an honourable woman?
+[NPC] Tarela: Ha!
+[NPC] Tarela: Of course not.
+[NPC] Tarela: Nothing honourable about her.
+[NPC Narrate] -Tarela opens the letter and begins reading. She mutters as she does.-
+[NPC] Tarela: …
+[NPC] Tarela: truly sorry …
+[NPC] Tarela: did not know …
+[NPC] Tarela: beg forgiveness …
+[NPC] Tarela: promise to make amends …
+[NPC] Tarela: start by helping you find a strong husband.
+[NPC] Tarela: Hmm.
+[NPC Narrate] -Tarela looks up at you.-
+[NPC] Tarela: She seems sincere, and yet…oh, I do not know.
+[NPC] Tarela: Were you in my place, would you forgive Frilaa and accept this offer?
+[NPC Internal] It seems sad to lose a good friend over a bit of heartache. Forgive her.
+[NPC Narrate] -Tarela smiles as she tucks the letter away.-
+[NPC] Tarela: I see that you understand the true nature of friendship; you are a wise Klyros.
+[NPC] Tarela: No mere man can break the bonds of friendship forged between two women!
+[NPC] Tarela: And besides, if Noxdar is willing to be with a married woman, he has proven himself weak and unsuitable of my affection.
+[NPC] Tarela: Tell Frilaa I forgive her and accept.
+[NPC] Tarela: I thank you for helping me realize what to do.
+
+[To] Frilaa Bhundri
+
+[NPC Internal] Tarela accepts your apology.
+[NPC] Frilaa: Oh, such wonderful news!
+[NPC] Frilaa: At last I can work on patching up my friendship while the search for my husband goes on.
+[NPC] Frilaa: With such a light heart, I can only say yes to Gurgus!
+[NPC] Frilaa: Please tell him I said yes, and hurry!
+[NPC] Frilaa: Thank you for all your help, Madam.
+[NPC Narrate] -Frilaa smiles.-
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Frilaa would be honoured.
+[NPC Narrate] -Gurgus looks far heavier and slower than the last time you saw kra.-
+[NPC] Gurgus: Oh, that is very good news!
+[NPC] Gurgus: I do hope Frilaa and Jalar will be coming soon so see the child.
+[NPC Narrate] -Gurgus gives you several golden circles and a Brown Way glyph.-
+[NPC] Gurgus: Please, take this with my thanks!
+
+[Way] 2
+
+[NPC Internal] I think I should hear your reasons.
+[NPC] Gurgus: Ah, a collector of tales are you?
+[NPC] Gurgus: Well here is one for you.
+[NPC Narrate] -Tarela turns and leans casually against a nearby stone block.-
+[NPC] Gurgus: It so happens that Frilaa was my best friend.
+[NPC] Gurgus: It is heartbreaking to hear of her husband's disappearance.
+[NPC] Gurgus: Oh, you know about that?
+[NPC] Gurgus: Good.
+[NPC] Gurgus: Then you should know that I have been using every contact I have to try to find him.
+[NPC] Gurgus: Yet all my efforts have been to no avail.
+[NPC Narrate] -Tarela gazes over your shoulder at a passing Klyros.-
+[NPC] Gurgus: Between you and me, I secretly hope that he -isn't- found.
+[NPC] Gurgus: I have my reasons, and there is no reason for Frilaa to know that, so don't you go telling her.
+[NPC] Gurgus: And before you go asking weird questions, no, I had nothing to do with Jalar going missing.
+[NPC] Gurgus: You know what?
+[NPC] Gurgus: I've changed my mind.
+[NPC] Gurgus: You don't really need to know why.
+[NPC Narrate] -Tarela gives you a letter addressed to Frilaa and turns away from you.-
+[NPC] Gurgus: Just take this and go.
+
+[To] Frilaa Bhundri
+
+[NPC Internal] Tarela gave me this for you.
+[NPC Narrate] -Frilaa takes the note and opens it to read it.-
+[NPC] Frilaa: I do not believe this.
+[NPC] Frilaa: She will no longer be my friend.
+[NPC Narrate] -Frilaa sighs-
+[NPC] Frilaa: Well, it seems I must struggle on alone.
+[NPC] Frilaa: Please tell Gurgus that my answer is no.
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Frilaa is not able to help you now.
+[NPC Narrate] -Gurgus looks far heavier and slower than the last time you saw kra.-
+[NPC] Gurgus: Oh, that is really too bad.
+[NPC] Gurgus: Nothing to do about it now, as it will be time for me to gemmate very soon.
+[NPC] Gurgus: In any case, you have been of great help to me.
+[NPC Narrate] -Gurgus gives you a pouch of coins.-
+[NPC] Gurgus: Please take this as my thanks.
+
+[Reward] [Way 1] [Money] 5130; [XP] 13600; [Item] 1, Creature glyph; [Faction] 25, Artists Association
+[Reward] [Way 2] [Money] 5130; [XP] 13600; [Faction] 25, Artists Association
+

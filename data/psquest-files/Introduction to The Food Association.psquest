@@ -1,0 +1,104 @@
+[Questname] Introduction to The Food Association
+[NPC Name] Jomed Parcen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 12, Night Mushrooms
+
+[To] Jomed Parcen
+
+[NPC Internal] A friend sent me to you to learn more about food services here in town. Do you mind if I ask you about it?
+[NPC] Jomed: Hi, and nice to meet ye!
+[NPC] Jomed: Ye came to the right place, this is the hearth of Hydlaa and the best place to get information about the food association in town.
+[NPC] Jomed: I'm Jomed, the cook here at Kada-El's tavern.
+[NPC] Jomed: I am passionate about my work and am always open to discuss it.
+[NPC Internal] Ok, great. You spoke about an association, is that like a guild?
+[NPC] Jomed: Yes, kind of.
+[NPC Narrate] -He reaches for a jar and smells it-
+[NPC] Jomed: Let's say that is very common in Hydlaa to help the people who are doing the same kind of job as you.
+[NPC] Jomed: It's not a very formal guild, but pretty much all members of the same field know each other.
+[NPC] Jomed: The same goes for other arts.
+[NPC] Jomed: Anyway if you want to know more just let me know.
+[NPC Internal] Please tell me more about it.
+[NPC] Jomed: The are a lot of beautiful professions!
+[NPC] Jomed: Have you ever dreamed of working in a brewery and selecting the finest ingredients to create different beverages every month?
+[NPC] Jomed: Or to fish in rivers and lakes of the land by becoming an expert fisher?
+[NPC] Jomed: Or maybe work with Mother Nature herself, and be a farmer?
+[NPC] Jomed: I have plenty of friends who are butchers as well, but surely the best friend to have is a bartender!
+[NPC Narrate] -Jomed laughs.-
+[NPC Internal] Well, I thought cook was the best one. [You smile.]
+[NPC] Jomed: Eh, surely it is, because it's the one where ye can really combine all the ingredients, it's not exactly like being an alchemist, but pretty close!
+[NPC] Jomed: With the difference, I try not to make anything explode.
+[NPC Narrate] -Jomed smiles.-
+[NPC Internal] Should I choose one job and focus on it?
+[NPC] Jomed: Eh, is not that easy!
+[NPC] Jomed: Ye cannot just start in one job without knowing who can help ye.
+[NPC] Jomed: If ye really want to get started I suggest ye to do a small job for me first, and then come to know some of the other people in town.
+[NPC] Jomed: The more ye help our association, the more opportunities ye will have to get into yer own business in it.
+[NPC Internal] Depends, what do you need?
+[NPC] Jomed: Well, I got just the thing for ye, if you've got two sturdy legs and a good eye.
+[NPC] Jomed: Bring me a dozen night mushrooms, and I'll give you a dozen coins, how's that sound?
+[NPC] Jomed: Will ye do it?
+[NPC Internal] Yes, I will do it.
+[NPC] Jomed: Ah good!
+[NPC] Jomed: A place to look for 'em is out by that magic-fellow's place in the forest.
+[NPC] Jomed: Try not to get the really old ones, they'll not be of much use.
+[NPC] Jomed: To reach that place ye should exit from the northern exit of the city, and then turn right in the forest.
+[NPC] Jomed: Keep yer eyes open, ye might even find some along the way.
+
+[To] Jomed Parcen
+
+[NPC Internal] I got all the mushrooms you need.
+[NPC] Jomed: Thank ye.
+[NPC Narrate] -Jomed sets the mushrooms on a table and sorts through them. He weeds out a pair that are a bit past their prime and tosses them in to a barrel half-filled with other food scraps. He puts the remaining good mushrooms into a sack.-
+[NPC] Jomed: Maybe I could ask ye to do a little favor for me?
+[NPC] Jomed: This bag of mushrooms, they are for Sharven over to the temple.
+[NPC] Jomed: I was goin' to run them over meself, but them downstairs have got me tied to the grill now and I ain't goin' to make it over to the temple any time soon.
+[NPC] Jomed: Oops, can't let those burn!
+[NPC Narrate] -Jomed turns quickly to the grill and tends to some cooking meat, calling 'will ye do it for me?' over his shoulder.-
+[NPC Internal] Yes, I will.
+[NPC] Jomed: Ah, good.
+[NPC] Jomed: Very kind of ye.
+[NPC] Jomed: Just tell him I sent ye, and give him the sack.
+[NPC] Jomed: Should be easy, long as he's not busy.
+[NPC Narrate] -Jomed wipes his hands on a rag and picks up the sack to tie it closed. He gives it to you.-
+[NPC] Jomed: Come back to see me after and I'll give ye your coins.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Jomed Parcen sent me.
+[NPC] Sharven: Ah, yes, a good man, Jomed.
+[NPC] Sharven: I hope it's about those night mushrooms.
+[NPC Internal] Yes it is, these are for you.
+[NPC] Sharven: Oh?
+[NPC Narrate] -Sharven opens the sack and looks inside. He smiles.-
+[NPC] Sharven: Ah, excellent.
+[NPC] Sharven: We have been needing these for prayer rituals.
+[NPC] Sharven: Please tell Jomed that I said thank you, and give him this.
+[NPC Narrate] -Sharven gives you a small aromatic candle.-
+[NPC] Sharven: May Laanx frighten the shadow from your path.
+
+[To] Jomed Parcen
+
+[NPC Internal] Sharven says thank you.
+[NPC] Jomed: Ah, ye're back.
+[NPC] Jomed: That's good.
+[NPC] Jomed: I expect he gave ye somethin' in return to bring me, did he not?
+[NPC Internal] Yes, he did.
+[NPC] Jomed: Good.
+[NPC] Jomed: Let's have it here, if ye please.
+[NPC Narrate] -Jomed holds out his hand.-
+[NPC Internal] Here's the candle.
+[NPC] Jomed: Ah, that's it indeed.
+[NPC Narrate] -Jomed lifts the candle to his nose and breathes in deeply.-
+[NPC] Jomed: Mmm.
+[NPC] Jomed: That's Landas!
+[NPC] Jomed: Hard to find any Landas mushrooms hereabouts.
+[NPC] Jomed: Not like the night mushrooms, but I guess with the grace of the gods, it all works out, eh?
+[NPC Narrate] -Jomed places the candle on a shelf and takes a few coins out of a box under the counter. He pauses and then sets a wooden spoon by the coins.-
+[NPC] Jomed: There.
+[NPC] Jomed: I ended up with more of them spoons than I was needin', so go ahead and take it wi' those coins, it's all for helping me with this.
+[NPC] Jomed: Oh, I remember Allelia was in need of something, can you please check with her if you haven't already?.
+
+[Reward] [Money] 1297; [XP] 8000; [Item] 1, Wooden Spoon; [Faction] 5, Food Association
+

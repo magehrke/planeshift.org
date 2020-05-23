@@ -1,0 +1,53 @@
+[Questname] The Great Manure Giveaway
+[NPC Name] Pawprech Forsill
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes
+
+[To] Pawprech Forsill
+
+[NPC Internal] Greetings, I am in search of a quest.
+[NPC] Pawprech: I'd hardly call it a “quest,” but I do have something you could do.
+[NPC] Pawprech: It's a mite smelly, though.
+[NPC] Pawprech: Care to get your hands dirty?
+[NPC Internal] Bring on the dirt!
+[NPC] Pawprech: That's the spirit.
+[NPC] Pawprech: As a gesture of kindness, I give away free sacks of manure produced by my goujahs to people who might be able to use it.
+[NPC] Pawprech: It might not sound like a good gift, but it's surprisingly useful.
+[NPC] Pawprech: If you're not sure who'd appreciate it, just ask me about the uses of dung.
+[NPC] Pawprech: Think carefully about people to whom you might want to give these, and take these sacks.
+[NPC] Pawprech: One per person please, and return the empty sacks when you're done.
+[NPC] Pawprech: I always re-use my sacks.
+[NPC] Pawprech: Good luck, and spread the good will!
+
+[Give] Harnquist; 1, Sack of Manure
+
+[NPC] Harnquist: It is so nice of Pawprech to give away sacks of manure.
+[NPC] Harnquist: It is also very nice of you to consider me when giving them away.
+[NPC] Harnquist: They're ideal for the furnaces.
+[NPC] Harnquist: Thank you.
+[NPC] Harnquist: You may have the empty sack: I'll be emptying it into the furnace right now.
+[NPC Narrate] -Harnquist upends the sack into the furnace, which roars its approval.-
+
+[Give] Jardet Forsill; 1, Sack of Manure
+
+[NPC] Jardet: My brother is ever kind.
+[NPC] Jardet: May the spirits of nature ever bless you, as well.
+[NPC] Jardet: My garden will flourish with this addition to the soil.
+
+[Give] Durok Rrecrok; 1, Sack of Manure
+
+[NPC] Durok: Manure is invaluable in my studies of insects, but rare are the times people actually give me any.
+[NPC] Durok: Your donation is most appreciated, Sir.
+[NPC] Durok: I shall not easily forget this.
+
+[To] Pawprech Forsill
+
+[NPC] Pawprech: All done spreading the goodwill?
+[NPC] Pawprech: I hope you've made some friends along the way.
+[NPC] Pawprech: Here, take these to show my gratitude: someone who handles manure can never have too many pairs.
+[NPC] Pawprech: Goodbye for now!
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Leather Gloves
+

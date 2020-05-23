@@ -1,0 +1,35 @@
+[Questname] Polyuntri Needs a Key
+[NPC Name] Polyuntri Stevald
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Vaieund and a Book on Octarch Chess; [Item] 1, Keyhandled Dagger
+
+[Info] You get the Keyhandled Dagger from the Vaieund and a Book on Octarch Chess quest.
+
+[To] Polyuntri Stevald
+
+[NPC Internal] Hail, I am in search of a task.
+[NPC] Polyuntri: I have something I require, though it is of a personal nature.
+[NPC] Polyuntri: You will have to do something for me to show your commitment.
+[NPC] Polyuntri: I have this box I found: it has an oddly shaped keyhole and I cannot find a key that fits it.
+[NPC] Polyuntri: If you can find me the key, I may have another task for you.
+[NPC] Polyuntri: Do you accept?
+[NPC Internal] I accept.
+[NPC] Polyuntri: Glad to see the world is not rife with the lazy.
+[NPC] Polyuntri: Return when you have found a key that might fit this box; there is a dagger carved in it if that helps you.
+[NPC] Polyuntri: If you find the key, come and give it to me.
+[NPC Internal] I have found the key.
+[NPC] Polyuntri: This is an odd looking key indeed; praise Laanx, it just might work.
+[NPC Narrate] -Polyuntri tries the key on the box. It opens with a 'snick' sound.-
+[NPC] Polyuntri: Ah, good!
+[NPC] Polyuntri: What do we have here?
+[NPC] Polyuntri: Looks like glyphs.
+[NPC] Polyuntri: We have two here: Light and Darkness.
+[NPC] Polyuntri: You may have the one you want.
+[NPC] Polyuntri: Give me some time alone and come back later.
+[NPC] Polyuntri: I may have another job for you.
+[NPC] Polyuntri: Thanks again.
+
+[Reward] [OR Begin] [Item] 1, Light glyph [OR] [Item] 1, Darkness glyph [OR End]
+

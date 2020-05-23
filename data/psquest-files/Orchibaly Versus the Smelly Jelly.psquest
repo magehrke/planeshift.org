@@ -1,0 +1,114 @@
+[Questname] Orchibaly Versus the Smelly Jelly
+[NPC Name] Orchibaly Gurpleferd
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Masked Mistress
+
+[To] Orchibaly Gurpleferd
+
+[NPC Internal] I'm looking for work.
+[NPC] Orchibaly: Hmm.
+[NPC] Orchibaly: I am not sure I need anything right now, Tabei, but thank you for offering!
+[NPC Narrate] -Orchibaly flips through a rumpled recipe booklet and nods.-
+[NPC Narrate] -He goes to a shelf and takes down a large jar and opens it. He sniffs, and his nose wrinkles and his ears turn back.-
+[NPC] Orchibaly: Ugh, smelly jelly!
+[NPC] Orchibaly: Smelly smelly!
+[NPC] Orchibaly: Phew!
+[NPC Narrate] -Orchibaly flaps a paw in front of his nose.-
+[NPC] Orchibaly: Oh dear, this will not do at all.
+[NPC] Orchibaly: There is a fancy ballroom dance coming up in Hydlaa, you know.
+[NPC] Orchibaly: I have been asked to make some special treats for it and for that I need special jelly!
+[NPC Narrate] -Orchibaly turns to look at you.-
+[NPC] Orchibaly: You know, if you want to help, you could go off to Hydlaa and fetch me some!
+[NPC] Orchibaly: Yes..Yes!
+[NPC] Orchibaly: Would you like to do that for me?
+[NPC Internal] I'll ask around and see what I find.
+[NPC] Orchibaly: Oh, most excellent!
+[NPC] Orchibaly: Smashing and superior!
+[NPC] Orchibaly: Miss Mirra Houphen in East Hydlaa is the one to go to; she is a fine, first-rate cook.
+[NPC] Orchibaly: Let me copy the recipe in case she needs it.
+[NPC Narrate] -Orchibaly quickly scribes out a copy in a scribbly and loopy script and passes it to you.-
+[NPC] Orchibaly: There, give her that and tell her Orchibaly Gurpleferd sent you.
+[NPC] Orchibaly: Four jars' worth will be a good amount, if she can do it.
+[NPC] Orchibaly: Bon shdrah!
+[NPC Narrate] -Orchibaly cheerily waves a paw goodbye.-
+
+[To] Mirra Houphen
+
+[NPC Internal] I have a delivery for you.
+[NPC] Mirra: What's this?
+[NPC] Mirra: A recipe?
+[NPC Narrate] -Mirra reads through the messy writing.-
+[NPC] Mirra: Joopiner Berry Jelly…
+[NPC] Mirra: hmm.
+[NPC Narrate] -Mirra looks at you.-
+[NPC] Mirra: Did someone send you to me?
+[NPC Internal] This recipe comes from the cookbook of Orchibaly Gurpleferd.
+[NPC] Mirra: Oh, good old Orchibaly!
+[NPC Narrate] -Mirra smiles.-
+[NPC] Mirra: How is he?
+[NPC] Mirra: He can be such a fluffhead sometimes but he is entertaining and a great baker to boot!
+[NPC] Mirra: I suppose he wants some of this jelly.
+[NPC] Mirra: Did he say how much he needs?
+[NPC Internal] I believe he requested four jars.
+[NPC] Mirra: Oh, so much!
+[NPC] Mirra: I can only manage about half that with the berries I have right now.
+[NPC] Mirra: How about I get cooking, and you go see if you can get a sack of joopiner berries from Jomed up at Kada-El's.
+[NPC] Mirra: I bet he has some sitting around that he could spare.
+[NPC] Mirra: If he tries to charge you, just give him these.
+[NPC] Mirra: That should be plenty.
+[NPC Narrate] -Mirra takes four Hexa from her purse and gives them to you.-
+
+[To] Jomed Parcen
+
+[NPC Internal] I'd like some joopiner berries.
+[NPC] Jomed: Joopiner berries, now those are expensive, ye know.
+[NPC] Jomed: Not much call for them either though, so I suppose I could part with what I got, for a price.
+[NPC] Jomed: I'll give you a sack of them for three Hexa.
+[NPC] Jomed: It's a fair deal, I assure ye.
+[NPC Internal] [You hand Jomed the coins.]
+[NPC] Jomed: Thank ye.
+[NPC Narrate] -Jomed pockets the coin and digs a clay container out from under the counter. He pours all of the small oval blue berries from the container and into a sack. He fastens the sack closed and gives it to you.-
+[NPC] Jomed: Here ye go!
+[NPC] Jomed: Happy eatin'.
+
+[To] Mirra Houphen
+
+[NPC Internal] Here are the berries you wanted.
+[NPC] Mirra: Ah, um, thank you.
+[NPC] Mirra: I feel silly.
+[NPC] Mirra: I found I had many more berries in the cupboard than I thought, so here are the jars, all ready for you!
+[NPC] Mirra: I even made one extra for you to keep for yourself.
+[NPC Narrate] -Mirra winks.-
+[NPC] Mirra: Be careful though, they are still a bit hot!
+[NPC] Mirra: Oh, and here is a receipt for Orchibaly.
+[NPC] Mirra: I've put it all on his tab.
+[NPC Narrate] -Mirra gives you five toasty-hot clay jugs and a small paper receipt.-
+[NPC] Mirra: Thank you and Orchibaly for the business!
+[NPC] Mirra: Take care, Sir!
+[NPC] Mirra: Mirra Houphen waves goodbye.
+
+[To] Orchibaly Gurpleferd
+
+[NPC Internal] I have your jelly. It's freshly made.
+[NPC] Orchibaly: Oooh, special joopiner jelly!
+[NPC] Orchibaly: Thank you, thank you!
+[NPC] Orchibaly: Did Mirra give you some kind of receipt?
+[NPC] Orchibaly: She likes to do that.
+[NPC Internal] [You put the receipt into Orchibaly's outstretched hand.]
+[NPC] Orchibaly: Ah, there it is, thank you.
+[NPC Narrate] -Orchibaly tosses the receipt into a barrel and opens one of the jelly jars. He sniffs at the blue jelly and smiles.-
+[NPC] Orchibaly: Mmmm!
+[NPC] Orchibaly: This is such fantasti-licious stuff.
+[NPC] Orchibaly: Now I can get to baking!
+[NPC] Orchibaly: Oh, but first, I should give you something nice for your helping me, shouldn't I?
+[NPC] Orchibaly: Right right!
+[NPC Narrate] -Orchibaly rubs his paws on his apron, pauses, and then looks down at it.-
+[NPC] Orchibaly: Aha!
+[NPC] Orchibaly: Just the thing.
+[NPC] Orchibaly: Someone traded me this earlier today for a cake, but I have no use for it.
+[NPC] Orchibaly: Perhaps you will!
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Joopiner Jelly Jar; [Item] 1, Potion of Azure Sun Affinity; [Faction] 35, Food Association
+

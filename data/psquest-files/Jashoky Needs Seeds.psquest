@@ -1,0 +1,49 @@
+[Questname] Jashoky Needs Seeds
+[NPC Name] Jashoky Dakarn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Introduction to Xiosia; [Item] 1, Jar of Corium Seed
+
+[Info] You can purchase the Jar of Corium Seed from Grok.
+
+[To] Jashoky Dakarn
+
+[NPC Internal] Is there something I can do?
+[NPC Narrate] -Jashoky turns a jar upside down and shakes it.-
+[NPC] Jashoky: Aghh, no more seeds.
+[NPC Narrate] -Jashoky looks at you.-
+[NPC] Jashoky: Hmmm, greetings.
+[NPC] Jashoky: Did I hear aright, are you looking for a job?
+[NPC Internal] Yes, I want to help.
+[NPC Narrate] -Jashoky smiles broadly.-
+[NPC] Jashoky: That's just grand!
+[NPC Narrate] -Jashoky looks at the jar then back at you.-
+[NPC] Jashoky: I've done run out of Corium seeds.
+[NPC Narrate] -Jashoky lifts the jar slightly, as if showing how empty it is.-
+[NPC] Jashoky: Would you be so kind as to find me another jar?
+[NPC Narrate] -Jashoky removes a bag from her apron and shakes it in front of you. The sound of coins hitting one another resounds from the bag.-
+[NPC] Jashoky: I can for sure pay you for 'em.
+[NPC Internal] Yes, any ideas where I can start.
+[NPC Narrate] -Jashoky bobs her head with happiness and returns the bag to her apron.-
+[NPC] Jashoky: That just about makes my day, Sir.
+[NPC] Jashoky: I believe there's a merchant in the wilds that sells them.
+[NPC] Jashoky: If I remember rightly, kra is usually close to Hydlaa.
+[NPC Internal] Can you tell me more about this merchant?
+[NPC Narrate] -Jashoky looks up at the dome a moment.-
+[NPC] Jashoky: Grok…
+[NPC] Jashoky: I think kra said.
+[NPC] Jashoky: I'm sure you can find kra.
+[NPC] Jashoky: It ain't like the road to Hydlaa is full up with kran merchants or somethin'.
+[NPC Narrate] -Jashoky smiles happily.-
+[NPC Internal] I have the seeds.
+[NPC Narrate] -Jashoky takes the jar and opens it up, picking out one seed and inspecting it. After some time she returns the seed to the jar.-
+[NPC] Jashoky: Mighty kind of you, Stonehammer.
+[NPC] Jashoky: These are for the seeds and your time.
+[NPC Narrate] -Jashoky removes a few coins from the bag.-
+[NPC] Jashoky: If you ever pass by again, please feel free to come 'round.
+[NPC] Jashoky: I might need your help again.
+
+[Reward] [Money] 2107; [XP] 10800; [Faction] 10, Seeds of Wildwood; 
+

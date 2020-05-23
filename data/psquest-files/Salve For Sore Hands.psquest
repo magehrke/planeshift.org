@@ -1,0 +1,45 @@
+[Questname] Salve For Sore Hands
+[NPC Name] Sinto Gheshd
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Interview Sunshine Squadron Applicants; [Money] 100
+
+[To] Sinto Gheshd
+
+[NPC Internal] Hi, what seems to be the matter?
+[NPC Narrate] -Sinto bows slighty before you.-
+[NPC] Sinto: Greetings, Sir.
+[NPC Narrate] -Sinto rubs his hands gently. his face twiches now and then as he continues to rub his hand.-
+[NPC] Sinto: As you can see, my hands are bruised after some intensze martial arts training.
+[NPC] Sinto: These are the most important tools I own, and I must take good care of them.
+[NPC] Sinto: Would you be so kind as to obtain a vial of salve for my hands?
+[NPC] Sinto: I will be more then willing to compensate you for your trouble.
+[NPC Internal] I will help you.
+[NPC Narrate] -Sinto gives a quick smile before twitching again.-
+[NPC] Sinto: You have no idea how much this means to me.
+[NPC] Sinto: I heard there is an herbalist whose shop is on the Roof of Kada-El's.
+[NPC] Sinto: Just ask for healing slave.
+
+[To] Aleena Arlavin
+
+[NPC Internal] I need some healing salve, please.
+[NPC] Aleena: Greetings, Sir.
+[NPC] Aleena: I do indeed have some freshly made healing salve.
+[NPC] Aleena: It will cost you one hundred tria.
+[NPC Internal] pays the tria.
+[NPC Narrate] -Aleena searches through her bag full of vials.-
+[NPC] Aleena: Here we go, a vial of healing salve.
+
+[To] Sinto Gheshd
+
+[NPC Internal] hands Sinto the vial.
+[NPC Narrate] -Sinto eagerly rubs the salve on his hands.-
+[NPC] Sinto: This is wonderful.
+[NPC] Sinto: Thank you so much for getting it for me.
+[NPC] Sinto: As promised, here are a few coins for the trouble.
+[NPC Narrate] -Sinto hands you a few coins.-
+
+[Reward] [Money] 1000; [XP] 8000
+

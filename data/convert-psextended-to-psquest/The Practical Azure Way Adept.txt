@@ -1,0 +1,80 @@
+Need: Knowledge of the Azure Way Adept quest, Rank 90 Azure Way, 1 Adept's Azure Way Wand, 1 Apprentice's Azure Way Robe.
+
+Info: You will get the Adept's Azure Way Wand back.
+
+You say: Please accept my Way Staff as proof of being a student.
+Axomir says: I must commend you on your skills and dedication, Huarwar.
+Axomir says: It is nearly time for you to begin your Master level testing.
+Axomir says: Time does fly.
+Axomir says: It seems like such a short time ago that you first came to me.
+Axomir shakes head then hands back the staff.
+Axomir says: I need you to go to the Eagle Bronze Doors for me.
+Axomir says: Zhaomal of the Shadowcasters has requested advice on an Azure Way matter.
+Axomir says: Let him know you are there to help.
+You say: What can I help you with?
+Zhaomal Shehan says: You are not Axomir.
+Zhaomal Shehan looks at you with some curiosity.
+Zhaomal Shehan says: He sends an Adept of the Azure Way in his stead, I assume.
+Zhaomal Shehan says: I would be insulted if I was in great need of aid.
+Zhaomal Shehan says: This is a minor matter, though, so I shall let it pass.
+Zhaomal Shehan taps his chin.
+Zhaomal Shehan says: Let's see what you know.
+Zhaomal Shehan says: A young Shadowcaster residing in Sarpendil is violently ill.
+Zhaomal Shehan says: We tried potions, Life Infusion even the top realm Healing Flash all with no avail.
+Zhaomal Shehan says: I have realized that she is fighting the potions and spells and we might need to put her in a deep slumber before attempting it again.
+Zhaomal Shehan says: I have the Sleep glyph but it does not work on anyone but the caster.
+Zhaomal Shehan says: I am sure a combination is what is needed.
+Zhaomal Shehan says: So Sir Azure Way Adept, what glyph do you suggest I combine with Sleep?
+You say: Humanoid
+Zhaomal Shehan nods while thinking.
+Zhaomal Shehan says: That should work.
+Zhaomal Shehan removes a Humanoid Glyph from his glyph sack, then pulls out another type of glyph.
+Zhaomal Shehan says: Look at that.
+Zhaomal Shehan says: It seems I have an extra glyph here.
+Zhaomal Shehan says: Even I do not need more than one of each glyph.
+Zhaomal Shehan shakes his head.
+Zhaomal Shehan says: You know what, you may have this glyph for your advice.
+Zhaomal Shehan says: Perhaps you will consider joining the Shadowcasters in time.
+Zhaomal Shehan says: You need not join now, nor do I think you have enough talent.
+Zhaomal Shehan says: For that, you must achieve Adept status in all Way Circles, and Master in none.
+Zhaomal Shehan says: I only ask you consider it if that time comes.
+Zhaomal Shehan says: One more thing.
+Zhaomal Shehan says: Do say thank you to Axomir for sending such a talented Klyros.
+You say: Zhaomal sends thanks.
+Axomir says: He thanks me, does he?
+Axomir says: I wonder if he really needed help at all, or was just checking up on our newest Azure Circle members.
+Axomir says: The Shadowcasters are always looking for the most talented practitioners in all six Ways to join them.
+Axomir shrugs.
+Axomir says: That is your choice to make.
+Axomir says: The robe you carry belongs to an apprentice, which you are clearly no longer.
+Axomir says: Please give it to me now.
+You say: Here is my Robe.
+Axomir says: Yes, you will no longer use this robe.
+Axomir says: I must ask you one last question.
+Axomir says: This one is very important, as it will affect what you choose to do next.
+Axomir says: Tell me what Way directly opposes the Azure Way.
+You say: Here is my Robe, as requested by Axomir.
+Menita speaks without looking at you, her tone flat and without emotion.
+Menita says: Axomir has approved of you.
+Menita says: A choice is now before you.
+Menita says: This is the last test before you will no longer be allowed to change your chosen Way of study.
+Menita says: If you continue on the path to rank of Way Master in the Azure Way Circle, you will not be able to advance beyond Adept, the rank you are now in the Brown Way Circle.
+Menita says: You will also not be able to advance beyond Adept in the Blue and Dark Way Circles.
+Menita says: You will however be allowed to advance past the first Master's rank in Crystal and Red Way Circles, as they complement the power you will use as an Azure Way mage.
+Menita says: Do you understand this?
+You say: Yes, as clear as Azure.
+Menita says: Very well.
+Menita says: If your wishes bring you to follow the Azure Way to full mastery.
+Menita says: Then you may come to me once you have proceeded a Realm of skill past that needed for Realm five spells and give me your staff together with another Adept's Azure Way Staff and one Apprentice's Azure Way Robe, which also may be borrowed from a fellow student.
+Menita says: This is to prove you have gained the respect and trust of your Adept peers, as well as the Apprentices.
+Menita says: Remember, once you bring these three items to me, there will be no turning back.
+Menita says: Think long and hard before you make this choice, Huarwar.
+Menita says: I am also pleased to say you have progressed to the rank of full Adept of the Practical Way and your new robe attests.
+
+(15:22:48) [System] >You have received a Bond Glyph.
+(15:31:49) [System] >You have received an Adept's Azure Way Robe.
+(15:31:49) [System] >You gained 12200 experience points and 61 progression points!
+(15:31:49) [System] >Your faction with Azure Order has improved by 25.
+(15:31:49) [System] >Your Azure Way skill has increased by 2 point!
+(15:31:49) [System] >Quest Completed!
+(15:31:49) [System] >You have completed the The Practical Azure Way Adept quest!

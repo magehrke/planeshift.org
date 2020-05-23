@@ -1,0 +1,71 @@
+[Questname] Sending a Letter Home
+[NPC Name] Pinayet Ullavin
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Pinayet has a Dented Shield; [Money] 75
+
+[To] Pinayet Ullavin
+
+[NPC Internal] Do you happen to have any more work for me?
+[NPC] Pinayet: Gracious, yes!
+[NPC] Pinayet: I could use some help again, if you could use a few tria.
+[NPC] Pinayet: Would you be willing to find something out for me?
+[NPC Internal] It would be my pleasure.
+[NPC] Pinayet: I'm glad to hear that.
+[NPC] Pinayet: You see, my family lives on the Far Ground, and I send them letters pretty regular-like.
+[NPC] Pinayet: That is, I did until the messenger I used got married and moved off.
+[NPC] Pinayet: Now, I don't know who to use.
+[NPC] Pinayet: Could you maybe ask Jirosh Mikana which messenger he uses?
+[NPC] Pinayet: He's a big merchant and sends things all over Yliakum, so he must know of someone.
+[NPC] Pinayet: Here, take my letter for my family and give it to the messenger when you find him.
+[NPC] Pinayet: When the messenger has the letter, just come back and tell me that you are all done, and I'll get you your payment.
+[NPC Narrate] -Pinayet hands you a tidily folded letter.-
+
+[To] Jirosh Mikana
+
+[NPC Internal] Do you know of any trustworthy messengers I could use?
+[NPC] Jirosh: Oh, I use Tarela Girshon for sending such things as promises of payment and contracts.
+[NPC] Jirosh: She's quick and reliable.
+[NPC] Jirosh: I believe she's in Hydlaa right now, if you need her services.
+[NPC] Jirosh: Just ask her to deliver your letter and she'll be off before you know it.
+
+[To] Tarela Girshon
+
+[NPC Internal] I'd like you to deliver a letter for me.
+[NPC] Tarela: I'd be happy to do that, Maddam.
+[NPC] Tarela: I need to know the recipient's name and which level they are on so I can charge you properly.
+[NPC] Tarela: What is the recipient's last name?
+[NPC Internal] The family name is Ullavin.
+[NPC Narrate] -Tarela appears to think for a moment.-
+[NPC] Tarela: Yes…that name sounds familiar.
+[NPC] Tarela: What level?
+[NPC Internal] They are on the third level.
+[NPC] Tarela: My fee will be seventy five tria.
+[NPC Narrate] -Tarela holds out a paw.-
+[NPC Internal] Here is your fee.
+[NPC] Tarela: Thank you.
+[NPC] Tarela: I'll take that letter now.
+[NPC Narrate] -Tarela looks at you expectantly.-
+[NPC Internal] Here you go. Safe journey.
+[NPC] Tarela: I should have this delivered shortly.
+[NPC] Tarela: I appreciate the business.
+
+[To] Pinayet Ullavin
+
+[NPC Internal] Your letter is on its way.
+[NPC Narrate] -Pinayet smiles broadly.-
+[NPC] Pinayet: Well, that's a relief.
+[NPC] Pinayet: What was the name of the messenger, so I can use him again?
+[NPC Internal] SHE is called Tarela Girshon.
+[NPC] Pinayet: Oh, thank you!
+[NPC] Pinayet: You said Tarela?
+[NPC] Pinayet: Yes, I know her.
+[NPC] Pinayet: I guess I should not have said to give -him- the letter.
+[NPC Narrate] -Pinayet laughs.-
+[NPC] Pinayet: You have been a big help.
+[NPC] Pinayet: Please, take your reward and many thanks!
+[NPC Narrate] -Pinayet hands you a few coins.-
+
+[Reward] [Money] 7310; [XP] 15000; [Faction] 30, Guard
+

@@ -1,0 +1,135 @@
+[Questname] The Gronk Merchant Syndicate
+[NPC Name] Thorian Gronk
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[Info] This quest is part of at least one way to gain winch access. There are some required quests which you have to do beforehand.
+
+[To] Thorian Gronk
+
+[NPC Internal] So, do you have anything a Enkidukai like myself can do?
+[NPC] Thorian: Oh, it's you, NAME.
+[NPC] Thorian: Your name has been passed around the mercantile district lately.
+[NPC] Thorian: I think I can count on a Enkidukai like you to help me with some business.
+[NPC] Thorian: If you say yes my competition, say someone like Jirosh, he won't like it and will not let you work for his syndicate.
+[NPC] Thorian: And to sweeten the pot, I'll even make sure you get access to the Winch area.
+[NPC Narrate] -Thorian licks his lips.-
+[NPC] Thorian: Is that a sweet enough fruit for you?
+[NPC Internal] Sounds as good as a freshly baked Apple pie.
+[NPC] Thorian: Ah, wonderful.
+[NPC] Thorian: The merchants from the lower levels have been charging insufferable prices for far too long.
+[NPC] Thorian: It's time for us to begin to treat them in kind.
+[NPC] Thorian: I'm proposing a merchant syndicate dedicated to price collusion and maximum profit.
+[NPC Narrate] -Thorian rubs his hands together.-
+[NPC] Thorian: All you have to do is collect some personal merchant seals.
+[NPC] Thorian: These seals are different colours to show a merchants allegiance to various syndicates.
+[NPC] Thorian: For example, mine is very dark shade of grey, black you might even say.
+[NPC Narrate] -Thorian pauses a bit, before nosily clearing his throat preparing to explain further.-
+[NPC] Thorian: I need five black seals to make it official.
+[NPC] Thorian: Ask any of the merchants in Hydlaa, Ojaveda, Gugrontid or that Klyros city to join the me.
+[NPC] Thorian: Use any means: coercion, bribery, deception, anything.
+[NPC] Thorian: Oh, and -don't- talk to Jirosh Mikana about this syndicate.
+[NPC] Thorian: I'll be waiting round here somewhere for the black seals.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] Hi, do you want to join a Merchant's Syndicate?
+[NPC Narrate] -Kaiman looks you over as he stands sack in hand.-
+[NPC] Kaiman: Are you here on behalf of Thorian?
+[NPC Internal] Yes it's for Thorian's Syndicate.
+[NPC] Kaiman: He sent you?
+[NPC] Kaiman: Great, I wonder what he promised you?
+[NPC Narrate] -Kaiman digs about in one of the many sacs he has with him.-
+[NPC] Kaiman: Here we go, you can have this seal.
+[NPC Narrate] -Kaiman pauses before handing the seal over.-
+[NPC] Kaiman: You know, I'm very interested in this syndicate.
+[NPC] Kaiman: I didn't move up from the Far Ground for reasons other than profit.
+[NPC Narrate] -Kaiman winks and waits.-
+[NPC Internal] Would a Circle help?
+[NPC Narrate] -Kaiman tosses the seal at NAME.-
+[NPC] Kaiman: Yes, here you go.
+
+[To] Boralis Voladrand
+
+[NPC Internal] Hello, would you like to join a Merchant Syndicate?
+[NPC] Boralis: A syndicate, you say?
+[NPC] Boralis: Let me say that I don't trust the Mikana Company at all, so don't even try to convince me to join them.
+[NPC] Boralis: As for Thorian, I'm not sure about an alliance with him, but a few circles might change my mind.
+[NPC Internal] It's a good thing I'm here on behalf of Thorian then, isn't it.
+[NPC Narrate] -Boralis takes the coin and quickly pockets it.-
+[NPC] Boralis: Thank you.
+[NPC] Boralis: It's been a pleasure.
+[NPC] Boralis: And this is for you.
+
+[To] Rinna Voladrand
+
+[NPC Internal] Would you like to join a Merchant Syndicate?
+[NPC] Rinna: Have you spoken to my husband about this already?
+[NPC Internal] Yes, I have.
+[NPC Narrate] -Rinna nods with a smile on her face.-
+[NPC] Rinna: Well I do have a personal merchant seal, truth be told, but I will let him speak for both of us.
+[NPC] Rinna: Thank you for asking me though.
+
+[To] Yonda Axebow
+
+[NPC Internal] Do you want to join a Merchant Syndicate?
+[NPC] Yonda: A syndicate?
+[NPC] Yonda: I'd never thought about it.
+[NPC Narrate] -Yonda stands with her hands on her hips and looks up thoughtfully.-
+[NPC] Yonda: Yes, I think it's a good idea.
+[NPC] Yonda: I will join a single syndicate.
+[NPC] Yonda: Who do you represent?
+[NPC Internal] The NAME Trading company.
+[NPC Narrate] -Yonda laughs.-
+[NPC] Yonda: I guess that would be you then.
+[NPC] Yonda: I somehow don't think you’re serious, who is it really?
+[NPC Internal] Thorian Gronk's syndicate.
+[NPC] Yonda: Alright, you tell this Thorian person that I'd be happy to join.
+[NPC] Yonda: And I'll colour this wax black, and here's my seal.
+
+[To] Edrich Sultov
+
+[NPC Internal] Will you join Thorian's Merchant Syndicate?
+[NPC] Edrich: I hope to one day form my own syndicate, so right now, I shall not be joining any.
+[NPC] Edrich: Thanks all the same.
+[NPC Narrate] -Edrich pauses before saying.-
+[NPC] Edrich: However, for five hundred Tria I could give you a forged merchant seal.
+[NPC Narrate] -Edrich holds out a hand.-
+[NPC] Edrich: If that interests you?
+[NPC Internal] That's too much for a fake!
+[NPC] Edrich: It's too bad you think that.
+[NPC] Edrich: It's two circles or nothing.
+[NPC Internal] Fine then, here is your Tria.
+[NPC] Edrich: Good choice.
+[NPC] Edrich: Here you go.
+
+[To] Ervin Fromaad
+
+[NPC Internal] Hi, are you interested in joining a Merchant Syndicate?
+[NPC] Ervin: I'm always interested in joining syndicates.
+[NPC] Ervin: I'm already a member of several.
+[NPC] Ervin: Who are you representing?
+[NPC Internal] Thorian Gronk.
+[NPC] Ervin: Thorian, really.
+[NPC] Ervin: Sounds like a good opportunity to make some profit.
+[NPC] Ervin: You can take this to him.
+
+[To] Thorian Gronk
+
+[NPC Internal] I've collected all the seals you needed.
+[NPC] Thorian: You've done it!
+[NPC] Thorian: HA!
+[NPC] Thorian: Did you manage to get any extra?
+[NPC Internal] I only got the five you asked for.
+[NPC] Thorian: Very good, I knew I could count on you, NAME.
+[NPC Narrate] -Thorian beaded face smiles.-
+[NPC] Thorian: Congratulations, you're now an honorary member of Thorian Gronk's merchant syndicate.
+[NPC] Thorian: And as promised with all mercantile winch access privileges.
+[NPC] Thorian: Give this paper to Percival Hawthorne.
+[NPC] Thorian: He ought to let you enter the winch from then on.
+[NPC] Thorian: Thanks again.
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Mercantile Winch Access Paper
+

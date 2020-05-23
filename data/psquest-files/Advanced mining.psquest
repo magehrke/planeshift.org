@@ -1,0 +1,58 @@
+[Questname] Advanced mining
+[NPC Name] Selisar Zeinifa
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Basics of mining; [Money] 5500
+
+[Info] You don't have to pay for the information, if you don't want to.
+
+[To] Selisar Zeinifa
+
+[NPC Internal] Hi, I would like to learn some of your knowledge, can you help me?
+[NPC] Selisar: Ah, well, knowledge is power, and power doesn't come for free usually.
+[NPC] Selisar: Are you willing to pay for the information I can provide you?
+[NPC Internal] Yes I will pay..
+[NPC] Selisar: Smart decision, the money you may spend with me, it's nothing compared to the gains you will make with this knowledge.
+[NPC Internal] Please tell me more about mining tools.
+[NPC] Selisar: I can give you this information for free.
+[NPC] Selisar: The basic tool is a rock pick, which is used to break the rocks and find the best veins of minerals.
+[NPC] Selisar: You can use it as an extension of your arm really, to dig into the debris and seek good ores.
+[NPC] Selisar: A good rock pick is essential to mining.
+[NPC] Selisar: Rock picks differs for quality and materials used.
+[NPC] Selisar: The ones you find in shops are usually good for mining.
+[NPC Internal] Please tell me where I can find some Lumium mines.
+[NPC] Selisar: This information will cost you 2000 trias.
+[NPC] Selisar: Please give those to me, and I will give you some hints to find Lumium.
+[NPC Internal] Ok, here is your money. [You hand the tria to Selizar]
+[NPC] Selisar: Great.
+[NPC] Selisar: Lumium is very rare, and also hard to collect.
+[NPC] Selisar: One of the locations I know is in Gugrontid, around the main rock where the city is built.
+[NPC] Selisar: I cannot give you more details or I will have issues with my guild.
+[NPC Internal] Do you know the location of some silver mines?
+[NPC] Selisar: This information will cost you 1500 trias.
+[NPC] Selisar: Please give those to me, and I will give you some hints to find silver.
+[NPC Internal] Ok, here is your money. [You hand the tria to Selizar]
+[NPC] Selisar: Thanks.
+[NPC] Selisar: In Ojaveda we are pretty lucky because we have many mines close to us.
+[NPC] Selisar: Silver is actually found outside the city, just after the big hollow mountain.
+[NPC Internal] Do you know the location of some gold mines?
+[NPC] Selisar: This information will cost you 2000 trias.
+[NPC] Selisar: Please give those to me, and I will give you some hints to find gold.
+[NPC Internal] Ok, here is your money. [You hand the tria to Selizar]
+[NPC] Selisar: Very wise, gold is a beautiful metal, and can be used in multiple ways to make our life better!
+[NPC] Selisar: Gifts, ornaments and such.
+[NPC] Selisar: To find gold walk outside Ojaveda, and then follow the road up to the Irifon river.
+[NPC] Selisar: The gold can be found before the river, not too much.
+[NPC Internal] I'm searching for some iron and coal, can you give me an hint?
+[NPC] Selisar: I can tell you where to find coal and iron for 1500 trias.
+[NPC Internal] Ok, here is your money. [You hand the tria to Selizar]
+[NPC] Selisar: Thanks.
+[NPC] Selisar: Coal and iron are very useful minerals, because they can be smelted to create steel, the base for most weapons and armors.
+[NPC] Selisar: There is one place where you can actually find both.
+[NPC] Selisar: Exit from Ojaveda, then search the northern side, not too far from the city.
+[NPC Internal] Ok, I got all the information I needed from you, thanks. I have nothing more I want to ask about these minerals, I know them all.
+[NPC] Selisar: Goodbye and I wish you luck in finding good mineral veins!
+
+[Reward] [XP] 9400; [Faction] 10, Crafting Association
+

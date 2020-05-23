@@ -1,0 +1,121 @@
+[Questname] Items Can Break a Friendship
+[NPC Name] Nevis Revori
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Nevis Revori
+
+[NPC Internal] Hello! I am looking for an epic quest to bring excitement to my day!
+[NPC] Nevis: Ah, quests!
+[NPC] Nevis: The last time I was on a quest I had a very bad surprise…
+[NPC] Nevis: so I will not get myself into anything like that any time soon!
+[NPC] Nevis: I leave those kinds of things to other people!
+[NPC Internal] Oh! Do tell about this surprise…
+[NPC] Nevis: Eh, it's a bit personal, but since you ask I will tell you.
+[NPC] Nevis: I was travelling in the Stone Labyrinth with an EX-friend and we were assaulted by a big pack of Trepors.
+[NPC] Nevis: We managed to defeat them all and we reached a place we had never seen before, just a bit further on past the Trepors' lair.
+[NPC] Nevis: The place was a sort of outpost for adventurers, but it seems that fate was not good for the last ones there: they were all dead.
+[NPC] Nevis: We searched their bodies and we found a number of items.
+[NPC] Nevis: We decided to keep only the magical ones: a dagger and a pair of bracers.
+[NPC] Nevis: But then I think my EX-friend tricked me.
+[NPC Internal] How cruel! How did this ex-friend trick you?
+[NPC] Nevis: The fact is that I used a scroll made by him to identify the items, and just those two were magical.
+[NPC] Nevis: After we exited from the caves, he decided to keep the dagger and leave me the bracers.
+[NPC] Nevis: But the bracers aren't magical any more!
+[NPC] Nevis: It's evident that the scroll he gave me was faked in some way, so he could keep the only magical item for himself, leaving me with a normal pair of bracers.
+[NPC] Nevis: I'm very angry with him for doing such a thing, and I will never speak with him again.
+[NPC] Nevis: If you really want to know more, his name is Moren.
+
+[To] Moren Findel
+
+[NPC Internal] You're Moren right? Nevis told me some interesting things about you.
+[NPC] Moren: Mmm…you know that old story?
+[NPC] Moren: Looks like that worthless reprobate continues to spread slanderous rumors about me to the whole city!
+[NPC] Moren: I think we are speaking of the same person…
+[NPC] Moren: Nevis Revori, right?
+[NPC Internal] Yes, it was Nevis Revori.
+[NPC] Moren: Right, that reprobate tricked me!
+[NPC] Moren: We were exploring the caves and we found a few nice items.
+[NPC] Moren: We decided to only keep the magic ones, so I provided the needed scroll.
+[NPC] Moren: I paid for it and all!
+[NPC] Moren: Anyhow, Nevis cast the spell.
+[NPC] Moren: The liar told me that both items were magical, so I picked the dagger, the most interesting item to me.
+[NPC] Moren: At home I identified the item again to learn more about it, and the result was a simple dagger with no magical properties!
+[NPC] Moren: He lied to me, so I will never speak with him again!
+[NPC] Moren: His bracers are magical!
+[NPC Internal] You are mistaken; the bracers are not magical either.
+[NPC] Moren: What?
+[NPC Narrate] -Moren listens as you explain.-
+[NPC] Moren: That sounds very strange; he is most probably lying again!
+[NPC] Moren: But I can't live with this burden: he was my best friend.
+[NPC] Moren: Let's do it this way.
+[NPC] Moren: I will give you the dagger and you will try to learn more about it.
+[NPC Narrate] -Moren hands you the dagger.-
+[NPC] Moren: Take this and bring me some news.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Excuse me, I have this dagger I need identified.
+[NPC Narrate] -Levrus takes the dagger and looks it over.-
+[NPC] Levrus: Give me a few minutes.
+[NPC Narrate] -Levrus casts a spell over the dagger and examines it carefully.-
+[NPC] Levrus: That's quite interesting.
+[NPC] Levrus: There is no active magic on the item, but there is some dormant magic in a state of potential magical energy.
+[NPC] Levrus: My best guess is that there is another item needed to trigger the energy.
+[NPC] Levrus: If you find it, please bring it to me.
+[NPC] Levrus: For now I will keep this item to study it more.
+
+[To] Nevis Revori
+
+[NPC Internal] Nevis, I need you to give me the bracers.
+[NPC] Nevis: Hey, why do you need my bracers?
+[NPC] Nevis: I suppose they aren't worth anything anyway, and they just remind me of that bad day.
+[NPC] Nevis: Keep them.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] These bracers may be what you are looking for, they were found together.
+[NPC] Levrus: You think that these bracers might help us with the dagger because they were found together?
+[NPC] Levrus: Sounds logical.
+[NPC] Levrus: I will investigate.
+[NPC Narrate] -Levrus casts a spell over the bracers and examines both items.-
+[NPC] Levrus: Oh Yes!
+[NPC] Levrus: There's a big difference now that the two items are together.
+[NPC] Levrus: It seems that one item is triggering the magic of the other, so when they are separated, the two items do not have any magical effect!
+[NPC] Levrus: Here is your mystery unveiled.
+[NPC Narrate] -Levrus hands both items back.-
+
+[To] Nevis Revori
+
+[NPC Internal] Both items must be together for their magics to activate.
+[NPC Narrate] -Nevis listens to the story you learned from Levrus, opening his eyes with surprise.-
+[NPC] Nevis: Oh, what a relief!
+[NPC] Nevis: So he was not lying!
+[NPC] Nevis: I'm very happy with this discovery.
+[NPC] Nevis: How stupid I was to think he lied.
+[NPC] Nevis: Thanks a lot for the effort!
+[NPC] Nevis: Please give me back the bracers.
+[NPC Internal] Of course, here are your bracers.
+[NPC] Nevis: Thanks.
+[NPC] Nevis: Take this as a reward.
+[NPC] Nevis: I'm very happy now.
+
+[To] Moren Findel
+
+[NPC Internal] Both items must be together for their magics to activate.
+[NPC Narrate] -Moren listens to the story you learned from Levrus, thrilled about the discovery-
+[NPC] Moren: Incredible!
+[NPC] Moren: That's why the items seemed normal after we split them up!
+[NPC] Moren: Thanks a lot for finding this out.
+[NPC] Moren: I can finally speak to my old friend again.
+[NPC] Moren: Can you please give me back the dagger?
+[NPC Internal] I couldn't keep it, not with it meaning so much to you. Here you go.
+[NPC] Moren: Thanks.
+[NPC] Moren: I still can't believe I didn't speak to Nevis for all this time over this problem.
+[NPC] Moren: I have a special item for you as a reward.
+[NPC Narrate] -Moren takes out a glyph from his small glyph sack and hands it over-
+
+[Reward] [Money] 3391; [XP] 20200; [Item] 1, Might glyph
+

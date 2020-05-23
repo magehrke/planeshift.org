@@ -1,0 +1,126 @@
+[Questname] Lost Winch Shipment
+[NPC Name] Axomir
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes
+
+[To] Axomir
+
+[NPC Internal] Greetings. May I be of assistance to you?
+[NPC Narrate] -Axomir looks down into the loading bay, back at his schedule and then again down to the loading bay.-
+[NPC] Axomir: What am I to do, if that shipment does not arrive in time, our schedule will be thrown off.
+[NPC] Axomir: It is due to be shipped mid morning tomorrow.
+[NPC Narrate] -Axomir begins muttering to himself.-
+[NPC] Axomir: I could move the afternoon shipment from later on tomorrow into that spot, and perhaps switch these two.
+[NPC] Axomir: Ah, but it is no use.
+[NPC Narrate] -Axomir looks up to you.-
+[NPC] Axomir: I do have something for you to do.
+[NPC] Axomir: You have proved to me that you can be trusted.
+[NPC] Axomir: I need to find the missing shipment.
+[NPC] Axomir: I must know what happened to it.
+[NPC] Axomir: I have never lost a shipment yet and today is not going to be the day to change that.
+[NPC] Axomir: Will you help me track down the shipment?
+[NPC Internal] Consider it done.
+[NPC Narrate] -Axomir looks at his schedule.-
+[NPC] Axomir: It seems to be a shipment from the Mikana Trading Company.
+[NPC] Axomir: Please quickly seek out Phanejor Mikana: ask him if the shipment has arrived yet.
+[NPC] Axomir: He knows of its importance.
+[NPC] Axomir: Go quickly; we must not hold up the winch.
+
+[To] Phanejor Mikana
+
+[NPC Internal] It seems that a shipment from your company has gone missing. Have you heard anything of its whereabouts?
+[NPC] Phanejor: The shipment was sent by my brother Jirosh a bit ago.
+[NPC] Phanejor: It should have already been delivered to the winch.
+[NPC] Phanejor: I am rather worried about it…
+[NPC] Phanejor: ah, but perhaps it is just a miscommunication.
+[NPC] Phanejor: Perhaps Jirosh needed to receive a shipment before he could fill this order.
+[NPC] Phanejor: Perhaps he had to send it out late.
+[NPC] Phanejor: There are so many possibilities, would you go and please check to see if the shipment has been sent?
+[NPC] Phanejor: If he does not know which shipment it is you are speaking of, as we do much business here, tell him it is to take care of pests.
+
+[To] Jirosh Mikana
+
+[NPC Internal] One of your shipments did not arrive on time. Do you know where it is?
+[NPC] Jirosh: What is this about a shipment, do you realize how many shipments come in here on a daily basis?
+[NPC] Jirosh: Could you be a bit more specific, or else i dont know how much help i shall be.
+[NPC Internal] Your brother told me the shipment contained items to remove pests.
+[NPC Narrate] -Jirosh chuckles loudly.-
+[NPC] Jirosh: Yes, I know the one you speak of, I sent that on time to Phanejor for express shipment through the winch.
+[NPC] Jirosh: I can't imagine what could have befallen the caravan on its way to Hydlaa.
+[NPC] Jirosh: The roads though, are riddled with rogues, I can not begin to imagine what would happen if they came across this shipment.
+[NPC Narrate] -Jirosh begins to chuckle again.-
+[NPC] Jirosh: Check with Edrich in Hydlaa, he was the one who carried this shipment in one of his regularly scheduled caravans.
+[NPC] Jirosh: Which was lucky, as no one else would deliver the shipment due to its potential risks.
+
+[To] Edrich Sultov
+
+[NPC Internal] Have you heard anything about one of your caravans being lost?
+[NPC] Edrich: Yes, I just received word that one of my caravans has gone missing.
+[NPC] Edrich: It was lucky, however, as the only shipment that was on it was one from the Mikana Trading Company that wasn't worth much in the way of value.
+[NPC] Edrich: It seems rogues attacked and stole the shipment.
+[NPC] Edrich: Boy would I have loved to have seen their faces when they saw what they got!
+[NPC] Edrich: Alas, I need to let Jirosh know what happened.
+[NPC] Edrich: Here is a written statement of the events as told to me by my sources, I believe this will be worth having to refill that order.
+[NPC] Edrich: I have a caravan coming through tomorrow, which by my calculations will still get the shipment to the winch in time.
+[NPC Narrate] -Edrich chuckles and begins muttering to himself.-
+[NPC] Edrich: To see the looks on their faces, ah to have been there in person…
+
+[To] Jirosh Mikana
+
+[NPC Internal] I have a document for you from Edrich Sultov.
+[NPC Narrate] -Jirosh opens the statement and stares in disbelief.-
+[NPC] Jirosh: This is no joke.
+[NPC] Jirosh: It was truly stolen?
+[NPC Narrate] -Jirosh begins to read, as he reads his eyes become wide.-
+[NPC] Jirosh: But how could this happen, and why, of all the caravans to rob, would they rob this one?
+[NPC Narrate] -Jirosh continues to read, and begins to laugh, a little at first but continues until his eyes begin to water, he is laughing so hard.-
+[NPC Narrate] -Jirosh manages to say a few words.-
+[NPC] Jirosh: Begging your pardon, but it all seems rather funny to me.
+[NPC Internal] Would you read the note to me, please? I have become very curious.
+[NPC] Jirosh: Ah dear YOU, I would love to share this news with you.
+[NPC] Jirosh: I hope you find it as entertaining as I do.
+[NPC Narrate] -Jirosh begins to read directly from the statement.-
+[NPC] Jirosh: 'I had snuck off to relieve myself in a clump of shrubs when the rogues attacked.
+[NPC] Jirosh: I watched from afar as the rogues descended on the caravan.
+[NPC] Jirosh: Knowing as I did what cargo sat in those crates, I had no desire to go and save it.
+[NPC] Jirosh: The rogues tied the pack animals and tethered them to the trees, they then bound the remainder of those traveling with the caravan together, before unloading the crates.'
+[NPC Narrate] -Jirosh stifles a chuckle.-
+[NPC] Jirosh: 'They emptied the crates into sacks; it was rather dark and they did not stop to read the labels, or I am rather sure they would have run screaming.
+[NPC] Jirosh: Well, one of the rogues thought he should open one to see what it was they had come in possession of.
+[NPC] Jirosh: That rogue took one whiff and dropped the bottle rather quickly as the stench quickly wafted through the open air, and it seemed in a matter of minutes that every ulbernaut on the dome level was traveling post haste to find its mate.
+[NPC] Jirosh: The rogues scurried to leave and in the process broke a few more bottles: they were covered.
+[NPC] Jirosh: I don't think that they will be trying anything anytime soon.
+[NPC] Jirosh: Unfortunately, I did not go back to retrieve the wagon, nor did I go back to salvage what was left of the shipment as I got our crew and left before the ulbernauts came.'
+[NPC Narrate] -Jirosh stops reading and looks at you with eyes full of tears.-
+[NPC Internal] I'm not getting the joke, it seems.
+[NPC] Jirosh: You see, the shipment is bound for Poricet on the Far Ground, for they have been infested with a certain insect that is repelled only by ulbernaut pheromones.
+[NPC] Jirosh: It is a repellent only made here on the Dome.
+[NPC] Jirosh: Very potent stuff, not something you want to fool around with.
+[NPC] Jirosh: If you spill just one drop, every ulbernaut within twenty kilometers will be at your door wanting to have children with you.
+[NPC] Jirosh: Now think, if a drop can do that, what would spilling multiple bottles do?
+[NPC] Jirosh: Please tell Axomir that the shipment will arrive tomorrow morning with time to spare for its trip to the winch.
+
+[To] Axomir
+
+[NPC Internal] The shipment should arrive tomorrow in time to make its scheduled move.
+[NPC Narrate] -Axomir looks at you.-
+[NPC] Axomir: That is cutting it rather close.
+[NPC] Axomir: I will have to prepare and make sure that everyone is aware that this will be a close one, and that all hands will need to be available for this move.
+[NPC] Axomir: I want nothing to happen to that shipment in my care.
+[NPC] Axomir: Oh heavens, imagine the problems that could occur if it spilled.
+[NPC Narrate] -Axomir looks worried.-
+[NPC] Axomir: Tomorrow will be a rather busy day.
+[NPC] Axomir: Thank you for your help.
+[NPC] Axomir: I am sure to need your help again in the future.
+[NPC] Axomir: There is always work to be done here at the winch.
+[NPC] Axomir: I just hope that the shipment arrives on time.
+[NPC Narrate] -Axomir takes out a small sack and meticulously counts and places some coin into your hand.-
+[NPC] Axomir: Thank you for your help.
+[NPC] Axomir: Ah, and one more thing: as a Mover, the Azure way is rather important.
+[NPC] Axomir: If you wish to become more involved with the moving of the winch, you must train your azure way skill.
+[NPC] Axomir: This glyph should help you on your way.
+
+[Reward] [Money] 3000; [Item] 1, Bow glyph
+

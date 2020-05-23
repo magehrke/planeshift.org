@@ -1,0 +1,42 @@
+[Questname] Brown Way Knowledge
+[NPC Name] Mulgik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Boralis needs Neyehbes; [Item] 1, Armor glyph
+
+[Info] You can purchase the armor glyph from Levrus at the magic shop and you get it back from Mulgik.
+
+[To] Mulgik
+
+[NPC Internal] Hi, is there anything I can do for you?
+[NPC Narrate] -Mulgik looks at you and begins to speak slowly.-
+[NPC] Mulgik: Have a seat, relax, take in your surroundings and then ask me about enlightenment.
+[NPC Internal] Ummm, can you tell me about enlightenment?
+[NPC] Mulgik: First.
+[NPC] Mulgik: We sit and ponder.
+[NPC Narrate] -Mulgik remains seated and the Kran's eyes begin to close.-
+[NPC Narrate] -A strange sound, like that of a ringing anvil recently struck by a hammer, emanates from Mulgik.-
+[NPC] Mulgik: I sense that nature is vigorous within you, Stonehammer.
+[NPC] Mulgik: Do you wish to learn more of enlightenment and attunement with the nature of all things around you?
+[NPC Internal] Yes, I feel very attuned.
+[NPC Narrate] -A smile brightens Mulgik's face.-
+[NPC] Mulgik: Xiosia speaks; I listen.
+[NPC Narrate] -Mulgik eyes close and kras trance deepens.-
+[NPC Narrate] -The world around you seems to slow and becomes very still.-
+[NPC Narrate] -All around you there is an eerie yet peaceful silence.-
+[NPC Narrate] -Mulgik focus relaxes and kras eyes open.-
+[NPC] Mulgik: I see good things in you, Sir Stonehammer.
+[NPC] Mulgik: A basic lesson in understanding the way: Bring to me that glyph which one may use to cast a spell to protect one's skin.
+[NPC] Mulgik: Go now, Stonehammer, and may Xiosia be with you.
+[NPC Internal] Here is the item you asked for.
+[NPC] Mulgik: Nature protects those who listen.
+[NPC] Mulgik: Those who may purify glyphs may listen; those who have skill may understand.
+[NPC Narrate] -Mulgik holds the glyph up high and the Kran's eyes close again.-
+[NPC Narrate] -Mulgik lets out a string of sounds that seem to vibrate and echo through the world around you.-
+[NPC] Mulgik: Yes, Stonehammer, this will do.
+[NPC] Mulgik: May rock protect you, the harmony of Nature surround you, and Xiosia guide you.
+[NPC Narrate] -Mulgik returns the glyph to you and begins to meditate again.-
+
+[Reward] [XP] 12200; [Faction] 20, Crafting Association
+

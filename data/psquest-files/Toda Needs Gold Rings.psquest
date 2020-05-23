@@ -1,0 +1,119 @@
+[Questname] Toda Needs Gold Rings
+[NPC Name] Toda Ombretis
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[Need] [Quest] Golden Ring; [OR Begin] [Quest] Learning Metal Working [OR] [Quest] Learning Metal Working in Ojaveda [OR End]; [Item] 10, gold ores;
+
+[To] Toda Ombretis
+
+[NPC Internal] Hello, Toda. Is there anything you need help with?
+[NPC] Toda Ombretis: It's good of you to ask, tabei.
+[NPC] Toda Ombretis: Actually, my supply of gold rings is running low.
+[NPC Narrate] Toda Ombretis opens a small chest behind the counter containing only a couple gold rings.
+[NPC] Toda Ombretis: I usually get them from Trasok.
+[NPC] Toda Ombretis: Would you be willing to take my order to him?
+[NPC Internal] Sure, I will happily help.
+[NPC Narrate] Toda Ombretis smiles.
+[NPC] Toda Ombretis: Thank you so much.
+[NPC Narrate] Toda Ombretis writes a quick note.
+[NPC] Toda Ombretis: Please give this ring order to him.
+[NPC] Toda Ombretis: If you are lucky he may even show you how he makes them.
+[NPC Narrate] Toda Ombretis winks.
+
+[To] Trasok Starhammer
+
+[NPC Internal] This is from Toda.
+[NPC Narrate] Trasok Starhammer wipes his hands on a cloth.
+[NPC] Trasok Starhammer: Lets see, what can I do for her?
+[NPC Narrate] Trasok Starhammer takes the order and sighs.
+[NPC] Trasok Starhammer: She's running out again!
+[NPC] Trasok Starhammer: What is she doing with them?!
+[NPC Narrate] Trasok Starhammer shrugs.
+[NPC] Trasok Starhammer: It doesn't take too long, and I suppose I can drop them off before I head to the tavern later.
+[NPC Narrate] Trasok Starhammer turns away and starts gathering the things he needs as he grumbles something about not liking jewelry making.
+[NPC Narrate] -He looks up and sees you.-
+[NPC] Trasok Starhammer: What, you're still here?
+[NPC Internal] I was hoping you would teach me how to make jewelry.
+[NPC Narrate] Trasok Starhammer looks at you with a stern expression.
+[NPC] Trasok Starhammer: Hmph.
+[NPC] Trasok Starhammer: Why?
+[NPC] Trasok Starhammer: Why would you want to learn to work with such fiddly little pieces of metal when you can make a sword?
+[NPC Narrate] Trasok Starhammer thinks for a while.
+[NPC] Trasok Starhammer: Well, if I'm going to have to waste my time training you I'm going to need to get something out of it.
+[NPC] Trasok Starhammer: This order for Toda is going to use up the last of my gold.
+[NPC] Trasok Starhammer: Bring me ten gold ores and I'll teach you the basics of jewelry making.
+[NPC Internal] Here you go. Ten gold ores.
+[NPC Narrate] Trasok Starhammer looks up from his forge.
+[NPC] Trasok Starhammer: You made it back just in time.
+[NPC] Trasok Starhammer: I'm about to make the last ring for Toda's order.
+[NPC Narrate] Trasok Starhammer seems to be taking more care making the simple ring than his previous comments would suggest.
+[NPC Internal] Right, so how do I start making jewelry?
+[NPC Narrate] Trasok Starhammer scratches his head.
+[NPC] Trasok Starhammer: There really isn't much to it.
+[NPC] Trasok Starhammer: A standard ingot is too large, so the first step is to cast molten metal into special jewelry ingots.
+[NPC Internal] Ok, how small do they need to be? And what do you do with them?
+[NPC] Trasok Starhammer: Each standard ingot makes five jewelry ingots.
+[NPC] Trasok Starhammer: Then ye melt down the smaller ingot and pour it into a ring mold at the forge.
+[NPC] Trasok Starhammer: Once it cools, you can remove it from the mold.
+[NPC] Trasok Starhammer: Watch.
+[NPC Narrate] Trasok Starhammer pours the molten gold into a ring mold.
+[NPC Internal] How long do you have to leave it in the mold?
+[NPC] Trasok Starhammer: Hold on.
+[NPC Narrate] Trasok Starhammer waits for it to cool, and pops the ring out into his glove.
+[NPC] Trasok Starhammer: Just a few moments until it is cool enough to handle.
+[NPC Narrate] Trasok Starhammer works on cleaning up and finishing off the ring a little.
+[NPC Internal] Now what do I do? It looks rather dull, is that normal?
+[NPC Narrate] Trasok Starhammer nods as he peers closely at the ring in his hand.
+[NPC] Trasok Starhammer: Yes, they tend to be rather dull just out of the mold.
+[NPC] Trasok Starhammer: Next y'll want to polish them up to a nice shine.
+[NPC] Trasok Starhammer: Watch...like this, if you're careful you can do a wonderful job.
+[NPC Narrate] Trasok Starhammer picks up a brush and polishes the ring so it gleams.
+[NPC Internal] What type of brush do you use?
+[NPC] Trasok Starhammer: See?
+[NPC] Trasok Starhammer: Not much to it.
+[NPC] Trasok Starhammer: Nice shine to it now, lovely...well, I mean it will do...
+[NPC Narrate] Trasok Starhammer puts the ring down.
+[NPC] Trasok Starhammer: Oh, it is a polishing brush.
+[NPC Narrate] Trasok Starhammer drops the ring into a bag and ties it shut.
+[NPC Internal] Why use a polishing brush? Also where can I get one?
+[NPC] Trasok Starhammer: What other kind are ye going to use, a hair brush?
+[NPC Narrate] Trasok Starhammer snorts.
+[NPC] Trasok Starhammer: I have a few lying about, so ye can have one.
+[NPC Narrate] Trasok Starhammer gives you the brush he is holding.
+[NPC] Trasok Starhammer: Ye can take these rings ta Toda along with the bill.
+[NPC] Trasok Starhammer: She can pay at her convenience.
+[NPC Narrate] Trasok Starhammer hands you a bag of gold rings and his bill for them.
+[NPC Internal] I was wondering, do you have a spare guide or a manual that I could use?
+[NPC] Trasok Starhammer: Here.
+[NPC Narrate] Trasok Starhammer hands you a worn book.
+[NPC] Trasok Starhammer: You can keep this.
+[NPC] Trasok Starhammer: I could probably do this in my sleep, so I don't need..
+[NPC] Trasok Starhammer: want it any more.
+[NPC] Trasok Starhammer: I'll even give you this old ring mold.
+[NPC] Trasok Starhammer: I have several lying around cluttering up the place.
+[NPC Narrate] Trasok Starhammer then hands you a ring mold.
+[NPC] Trasok Starhammer: Before you go do you have any questions?
+[NPC] Trasok Starhammer: I'd rather you didn't come back bothering me about this.
+[NPC Internal] What other kinds of jewelry can be made?
+[NPC] Trasok Starhammer: In addition to rings?
+[NPC] Trasok Starhammer: The book contains the instructions for bracers and necklaces.
+[NPC] Trasok Starhammer: The processes for bracers and necklaces are a bit more complicated, but, if you are reasonably intelligent ye should be able to fig'er 'em out.
+[NPC] Trasok Starhammer: Ye can use silver to get started and work up to gold and platinum when ye're skilled enough.
+[NPC Internal] What about adding gems to jewelry?
+[NPC] Trasok Starhammer: Come back and talk to me when you're able to make gold bracers and maybe I'll show you how to do that, if I feel like it.
+[NPC] Trasok Starhammer: Now off with ye, I have work to do.
+[NPC] Trasok Starhammer: And you have an order to deliver.
+
+[To] Toda Ombretis
+
+[NPC Internal] Here is your new supply of gold rings.
+[NPC] Toda Ombretis: Wonderful.
+[NPC] Toda Ombretis: Did Trasok send a bill as well?
+[NPC Internal] Here it is. [You hand Toda the bill.] He said you could pay at your convenience.
+[NPC] Toda Ombretis: Thank you.
+[NPC] Toda Ombretis: And here is something for your time.
+
+[Reward] [Money] 1297; [XP] 9400; [Item] 1, Polishing Brush; [Item] 1, Ring Mold; [Item] 1,Basic Jewelry Making; [Faction] 10, Smith Association; [Skill] +2 Jewelry Making;
+

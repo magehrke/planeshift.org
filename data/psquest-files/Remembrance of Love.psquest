@@ -1,0 +1,122 @@
+[Questname] Remembrance of Love
+[NPC Name] Fholen Medraa
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Money] 1000
+
+[To] Fholen Medraa
+
+[NPC Internal] Why do you seem so deep in thought?
+[NPC] Fholen: Well…
+[NPC Narrate] -Fholen looks at you for a long, thoughtful moment.-
+[NPC] Fholen: Have you ever loved and lost?
+[NPC] Fholen: I have.
+[NPC] Fholen: In my youth, I fell for a merchant's daughter, Mirlene.
+[NPC] Fholen: She had skin as soft as a child's, but with eyes that held the wisdom of the ages.
+[NPC] Fholen: I was poor, but I was in love.
+[NPC Narrate] -Fholen seems lost in his words and appears to forget about you for a few moments before continuing.-
+[NPC] Fholen: I found a cave filled with a fortune in jade.
+[NPC] Fholen: I carved out a huge piece of jade; the largest I ever saw.
+[NPC] Fholen: I sold it to her father, Jogar Fromaad, to prove I could provide.
+[NPC] Fholen: We were married and together for a happy time, but I lost her many years ago.
+[NPC] Fholen: Lately I have been wondering what became of that piece of jade that helped bring me so much happiness.
+[NPC] Fholen: Could you try to find out for me?
+[NPC Internal] Ok, I’ll see what I can do.
+[NPC] Fholen: Thank you.
+[NPC] Fholen: I really don't have all that much to go on, except that I sold the jade to Mirlene's father.
+
+[To] Ervin Fromaad
+
+[NPC Internal] Do you have information regarding a huge jade piece Fholen sold years ago.
+[NPC] Ervin: Oh yes!
+[NPC] Ervin: I remember that very well.
+[NPC] Ervin: Fholen had the biggest piece of jade I ever saw.
+[NPC] Ervin: He gave it to my father to prove he could support my sister.
+[NPC] Ervin: But my family fell on hard times later, and my father had to sell the jade.
+[NPC] Ervin: I think he sold it to the Master Blades in Ojaveda.
+[NPC Narrate] -Ervin shakes his head a bit sadly.-
+[NPC] Ervin: It was a shame.
+[NPC] Ervin: I bet I could have turned a pretty profit with something so rare.
+
+[To] Trasok Starhammer
+
+[NPC Internal] Do you have information regarding a huge jade piece Fholen sold years ago.
+[NPC] Trasok: Of course I remember that jade Jogar brought in.
+[NPC] Trasok: It was the biggest I ever laid eyes on.
+[NPC] Trasok: Poor fellow had some sentimental attachment to it, so I gave him fair value, I did.
+[NPC] Trasok: I had it cut to a few nice shapes and sold it.
+[NPC] Trasok: Fattened my purse nicely, I do say.
+[NPC] Trasok: It's hard to come by such a great deal today.
+[NPC Internal] To whom did you sell the jade?
+[NPC] Trasok: Who did I sell the cut pieces to?
+[NPC] Trasok: Why?
+[NPC] Trasok: You planning to rob him?
+[NPC Narrate] -Trasok looks at you suspiciously.-
+[NPC] Trasok: Nahh, I don't think you don't quite look the sort.
+[NPC] Trasok: Doesn't matter.
+[NPC Narrate] -Trasok shrugs.-
+[NPC] Trasok: Edrich Sultov took the jade pieces to Hydlaa for trade.
+[NPC] Trasok: Ask him if he remembers them.
+
+[To] Edrich Sultov
+
+[NPC Internal] Do you remember the jade piece Trasok sold you?
+[NPC] Edrich: Ah, yes, those bits of jade from Trasok.
+[NPC] Edrich: Yes, I took those to Kaiman Jilatt and I am sure he remembers them.
+[NPC] Edrich: He bought that jade hoping to resell it for more, but I don't remember it turning out well for him.
+[NPC] Edrich: Those were not the best years for selling such stones in Hydlaa.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] Do you remember the jade piece that Edrich brought to you?
+[NPC] Kaiman: Bah, do not remind me!
+[NPC] Kaiman: That was the worst deal I ever made.
+[NPC] Kaiman: If I had sold it back in Poricet, I could have made a decent profit, but not here, not back then.
+[NPC Narrate] -Kaiman shakes his head, smiling wryly.-
+[NPC] Kaiman: My business sense is much better now than it used to be!
+[NPC] Kaiman: I ended up having the jade set into a leather headband.
+[NPC] Kaiman: Those were very fashionable where I hail from.
+[NPC] Kaiman: I sold it as a loss to a Kran merchant named Grok.
+[NPC] Kaiman: A pity.
+[NPC] Kaiman: I am sure the Kran still has it, too.
+
+[To] Grok Idon
+
+[NPC Internal] I heard you bought a jade headband, do you still have it?
+[NPC] Grok: So you are interested in that old jade headband, hmmm?
+[NPC] Grok: It was a hideous-looking thing.
+[NPC] Grok: I bought it for just for the jade, and I tried to craft it into some magical weapons.
+[NPC Narrate] -Grok makes a rumbling sound and shrugs slowly.-
+[NPC] Grok: That did not work out.
+[NPC] Grok: I think Kaiman and I both lost out on that deal.
+[NPC] Grok: I sold off the smallest pieces, but I still have the largest.
+[NPC] Grok: I will sell it to you at a very reduced price, if you are interested.
+[NPC] Grok: Say, four circles?
+[NPC] Grok: Hmmmm.
+[NPC Narrate] -Grok looks to the sky with a thoughtful expression for a moment and then nods.-
+[NPC] Grok: Yes, one thousand tria, that would be fair.
+
+[Give] Grok Idon; 1000, tria
+
+[NPC] Grok: Thank you, my good Madam.
+[NPC Narrate] -Grok counts the coins and nods before reaching into a bag and removing a leather strap with a large jade gem attached. Grok pries the stone loose and hands it to you.-
+[NPC] Grok: Here you go.
+[NPC] Grok: May it bring greater fortune to you than it has for me.
+
+[To] Fholen Medraa
+
+[NPC Internal] I was able to regain your jade piece.
+[NPC] Fholen: By the gods!
+[NPC] Fholen: This looks like it's from my old stone!
+[NPC Narrate] -Fholen looks closely at the piece of jade and grins.-
+[NPC] Fholen: Yes, yes it is, I remember this corner.
+[NPC Narrate] -Fholen smiles broadly at you.-
+[NPC] Fholen: You have made an old miner very happy.
+[NPC] Fholen: Thank you so very much!
+[NPC] Fholen: Please accept a few coins in return for your help.
+[NPC] Fholen: I don't need the money like I did when I was younger.
+[NPC Narrate] -Fholen gives you several coins and holds the jade up to the light of the Crystal, gazing at it in wonder and memory.-
+
+[Reward] [Money] 2107; [XP] 10800
+

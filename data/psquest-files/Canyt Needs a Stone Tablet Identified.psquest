@@ -1,0 +1,79 @@
+[Questname] Canyt Needs a Stone Tablet Identified
+[NPC Name] Canyt Klannarr
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Mysterious Derghir Skull; [Item] 1, Golden Ring
+
+[To] Canyt Klannarr
+
+[NPC Internal] Do you have any errands you need done? I'm looking to pick up some tria.
+[NPC] Canyt: I am very glad you asked.
+[NPC] Canyt: I was just heading out to do this myself, but since you are here the task is yours.
+[NPC] Canyt: I search this area for ancient items, items people drop, and information lost to history.
+[NPC] Canyt: I need help for a certain item I found.
+[NPC] Canyt: I know my sister Nyshyn has a book that could be of help in this matter.
+[NPC] Canyt: It would be nice of you if you could bring her this artifact and ask her to identify it for me.
+[NPC] Canyt: It should not be difficult, but she may ask you for help in return.
+[NPC] Canyt: As a reward, I can give you something someone 'lost'…
+[NPC Narrate] -Canyt Klannarr winks.-
+[NPC] Canyt: …not so long ago.
+[NPC] Canyt: Yes?
+[NPC] Canyt: No?
+[NPC Internal] Sounds easy enough.
+[NPC] Canyt: Great!
+[NPC] Canyt: Here is the Stone Tablet and a note.
+[NPC] Canyt: Tell her I sent you and give her the letter and the artifact; she will know what to do.
+[NPC] Canyt: As I said, you will find her at the ruins near Hydlaa.
+[NPC] Canyt: Farewell and good luck!
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] I'm here on behalf of your sister, Canyt.
+[NPC] Nyshyn: My sister again?
+[NPC] Nyshyn: What is it this time?
+[NPC] Nyshyn: Did she send anything with you?
+[NPC Internal] She sent a couple of things, actually. Here they are.
+[NPC] Nyshyn: Ah good.
+[NPC Narrate] -Nyshyn reads the letter, then turns the tablet over in her hands.-
+[NPC] Nyshyn: Do you have this stone tablet for me? »> give it.
+[NPC] Nyshyn: Hmm, this does not look too difficult to identify.
+[NPC] Nyshyn: Should not take too long, but I would like you do something for me in the meanwhile.
+[NPC] Nyshyn: I was just on my way to my old acquaintance, Trasok Starhammer, the smithy in Dsar Akkaio.
+[NPC] Nyshyn: I wanted to ask him to inscribe some things I wrote into a ring.
+[NPC] Nyshyn: You should find someone who can give you a ring in Dsar Akkaio, I forget who though.
+[NPC] Nyshyn: Just go around asking about a golden ring until you find out who has one.
+[NPC] Nyshyn: Once you get the ring, find Trasok Starhammer and give him the ring along with this.
+[NPC Narrate] -Nyshyn hands forth a note.-
+[NPC] Nyshyn: Return to me with the completed ring, and I will give you the information I gather about this stone tablet.
+
+[To] Trasok Starhammer
+
+[NPC Internal] I have a commission for you.
+[NPC] Trasok: Ah, for Nyshyn.
+[NPC] Trasok: I owe her a favor, so you don't have to pay for it.
+[NPC] Trasok: I will have it fixed up momentarily.
+[NPC Narrate] -Trasok tinkers on the ring for some time with a number of small tools.-
+[NPC] Trasok: Aha, there we are, 'samota de puntijholo mo tabei,' just as she wished.
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] The ring shines in the light as YOU gives it to Nyshyn.
+[NPC] Nyshyn: Good work, this is most pleasing.
+[NPC] Nyshyn: Here is the stone tablet and a note for my sister with my findings..
+[NPC] Nyshyn: It is a strange piece indeed: it seems to prophesy some sort of apocalyptic event during the crystal eclipse.
+[NPC] Nyshyn: Anyway, just give my sister the tablet when you see her.
+
+[To] Canyt Klannarr
+
+[NPC Internal] The translation is complete.
+[NPC] Canyt: I'm so curious as to what she found out!
+[NPC Narrate] -Canyt reads the note and smirks.-
+[NPC] Canyt: Great!
+[NPC] Canyt: I might have struck upon something both valuable and dangerous with this tablet!
+[NPC] Canyt: Here, come.
+[NPC Narrate] -Canyt reaches into a sack.-
+[NPC] Canyt: I, ahem, 'found' this a few weeks ago but I do not really have a use for it.
+[NPC] Canyt: You might have a use for it; if not, sell it to someone who does.
+[NPC] Canyt: Thanks again for your help.
+[NPC] Canyt: Good luck on your travels!

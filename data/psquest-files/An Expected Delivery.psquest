@@ -1,0 +1,129 @@
+[Questname] An Expected Delivery
+[NPC Name] Gurgus Dahnik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Inviting Talent; [Item] 4, circles
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Do you have any work I can do?
+[NPC] Gurgus: Ah, a young Kran in search of glory and fortune, eh?
+[NPC] Gurgus: Excellent!
+[NPC Narrate] -Gurgus looks thoughtful for a moment, looking you over with a critical eye.-
+[NPC] Gurgus: It just so happens I may have a rather important task for you.
+[NPC] Gurgus: The Vigesimi of this village is hosting a party in a few days and almost all of the items for the feast have arrived.
+[NPC Narrate] -Gurgus eyes you carefully, slightly amused.-
+[NPC] Gurgus: You are willing to work on this with me?
+[NPC Internal] A party! Sounds like fun.
+[NPC] Gurgus: Excellent.
+[NPC] Gurgus: Yes, young Kran, I do like your spirit.
+[NPC] Gurgus: Very well, here is my first test of your mind!
+[NPC] Gurgus: A simple question: We are little creatures; all of us have different features.
+[NPC] Gurgus: One of us in glass is set; one of us you'll find in jest.
+[NPC] Gurgus: Another you may see in tin, and the fourth is boxed within.
+[NPC] Gurgus: If the fifth you should pursue, it can never fly from you.
+[NPC] Gurgus: What are we?
+[NPC] Gurgus: You will have but one chance to answer my tests correctly, so please think -very- carefully on this.
+[NPC] Gurgus: When you think you know, come and tell me your answer.
+[NPC] Gurgus: It should be simple, and just one word.
+[NPC Internal] vowels
+[NPC Narrate] -Gurgus laughs.-
+[NPC] Gurgus: Yes, they are all there are they not?
+[NPC Narrate] -Gurgus laughs.-
+[NPC] Gurgus: Now for my second test: No sooner spoken than broken.
+[NPC] Gurgus: What is it?
+[NPC] Gurgus: Once more, return when you think you know the answer and tell me.
+[NPC] Gurgus: I remind you, there is only one chance.
+[NPC] Gurgus: Think very carefully!
+[NPC Internal] secret
+[NPC Narrate] -Gurgus smiles.-
+[NPC] Gurgus: Indeed it is, for secrets are meant to be kept.
+[NPC] Gurgus: Do you understand?
+[NPC Narrate] -Gurgus looks at you and nods deeply without waiting for a response.-
+[NPC] Gurgus: Now we can get down to the business at hand.
+[NPC] Gurgus: As I said before, there are some items for the feast that are missing.
+[NPC] Gurgus: Now ordinarily, Jirosh is quite reliable, but this is intolerable.
+[NPC] Gurgus: Take this and visit Jirosh in Ojaveda.
+[NPC] Gurgus: Make sure to give him this list, he will not work with you otherwise.
+[NPC] Gurgus: Very particular, that one, especially when he's done wrong.
+
+[To] Jirosh Mikana
+
+[NPC Internal] hands Jirosh the inventory list.
+[NPC] Jirosh: What, what's this?
+[NPC Narrate] -Jirosh reads the list, his eyes widening with each line.-
+[NPC] Jirosh: Talad's eyes, I sent these things a week ago!
+[NPC Narrate] -Jirosh frowns at the list and then sighs with a bit of a growl.-
+[NPC] Jirosh: It wasn't my fault, I swear!
+[NPC] Jirosh: It is a long way from here to Gugrontid and much can happen.
+[NPC] Jirosh: Please, tabei, will you help me?
+[NPC Internal] Very well, I can help you.
+[NPC] Jirosh: Oh, thank you, tabei!
+[NPC Narrate] -Jirosh sighs and leans on the counter, his head in his paws.-
+[NPC] Jirosh: The Vigesimi would have my merchant's license for this mix-up.
+[NPC] Jirosh: As you might have guessed, this is not the first time it has happened.
+[NPC] Jirosh: I have been having some trouble with shipments disappearing along that road.
+[NPC Narrate] -Jirosh glances around quickly before continuing in a hushed voice.-
+[NPC] Jirosh: I have heard rumours of bandits working in the area, but I don't know much more than that.
+[NPC] Jirosh: If you talk to Finara Plund in Hydlaa, she may be able to tell you more.
+[NPC] Jirosh: Just tell her that I sent you and she will know what it is about.
+[NPC Narrate] -Jirosh stands up straight again and looks around. A sense of relief is evident on his face.-
+
+[To] Finara Plund
+
+[NPC Internal] Jirosh sent me to see you.
+[NPC] Finara: I see.
+[NPC Narrate] -Finara nods.-
+[NPC] Finara: So, you are the one he has sent to look into his shipping problems?
+[NPC] Finara: Hmph.
+[NPC] Finara: You look a bit scrawny, but I suppose you'll do.
+[NPC Narrate] -Finara chuckles before turning to more serious business.-
+[NPC] Finara: Well, it is true that there seems to be an elusive batch of bandits plaguing the road between here and Gugrontid.
+[NPC] Finara: I heard they are led by a Dermorian woman.
+[NPC] Finara: Rumour has it they are lurking somewhere on the road beyond the forest.
+[NPC] Finara: Perhaps you could look there.
+[NPC Narrate] -Finara laughs cheerfully.-
+[NPC] Finara: Good hunting, Kran, and don't lose your head!
+
+[To] Ukabnu
+
+[NPC Internal] Can you tell me about Jirosh's missing shipments?
+[NPC Narrate] -Ukabnu laughs.-
+[NPC] Ukabnu: You must be kidding, dung-breath.
+[NPC] Ukabnu: That old menki Jirosh and his people have no idea what they are talking about.
+[NPC Narrate] -Ukabnu smirks, her visage a mask of menacing confidence-
+[NPC] Ukabnu: No one would dare speak against me.
+[NPC] Ukabnu: This is -my- road, little ulber-toe.
+[NPC] Ukabnu: What makes you think I know anything about some shipment?
+[NPC] Ukabnu: You had better have yourself off before I decide to take what little you have to offer me.
+[NPC Internal] Finara told me.
+[NPC] Ukabnu: That interfering wench…!
+[NPC Narrate] -Ukabnu chuckles quietly and looks toward Hydlaa for a moment with an crooked smile. She turns back to you with a shrug.-
+[NPC] Ukabnu: Fine, it's true.
+[NPC] Ukabnu: We raided that shipment and kept a few things.
+[NPC] Ukabnu: We have to eat too, you know?
+[NPC] Ukabnu: Tell you what: I'll make a deal with you, little fool.
+[NPC] Ukabnu: I know what we took.
+[NPC] Ukabnu: Four circles for the lot, non-negotiable.
+[NPC] Ukabnu: Come back when you have it and not before, or I'll have my friends here give you a good talking to.
+[NPC] Ukabnu: Got it?
+[NPC Narrate] -Ukabnu turns away without waiting for your answer.-
+[NPC Internal] gives Ukabnu one thousand tria.
+[NPC] Ukabnu: Heh.
+[NPC] Ukabnu: Good job, little Kran.
+[NPC Narrate] -Ukabnu retrieves a small crate from behind a tree, and tosses it towards you.-
+[NPC] Ukabnu: Here, take this stuff and get out of my face.
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Here are your items.
+[NPC Narrate] -Gurgus opens the crate, and looks through it quickly.-
+[NPC] Gurgus: Thank you, my good Kran!
+[NPC] Gurgus: The Vigesimi will be very pleased to have these for the feast.
+[NPC] Gurgus: You have done very, very well.
+[NPC Narrate] -Gurgus takes a few coins out of a pouch and hands them to you.-
+[NPC] Gurgus: Please take this with our thanks, and see me again if you need more work.
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Artists Association
+

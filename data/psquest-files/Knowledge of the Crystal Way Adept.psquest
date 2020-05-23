@@ -1,0 +1,62 @@
+[Questname] Knowledge of the Crystal Way Adept
+[NPC Name] Tarmeen Alecheech
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Crystal Way Adept; [Item] 1, Adept's Crystal Way Wand; [Item] 1, Apprentice's Crystal Way Bracers; [Skill] 70, Crystal Way
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Please except my Way Wand as proof of being a student.
+[NPC] Tarmeen: We have no time to waste.
+[NPC] Tarmeen: Pawprech's herd is still in trouble and we can get back to your training after.
+[NPC] Tarmeen: I need you to head over there straight away and help Pawprech.
+[NPC] Tarmeen: Tell him that you are there to help him.
+
+[To] Pawprech Forsill
+
+[NPC Internal] Tarmeen sent me to help.
+[NPC] Pawprech: Finally, I have been waiting for Tarmeen to send me a Crystal Way Adept to help.
+[NPC Narrate] -Pawprech points to his goujah.-
+[NPC] Pawprech: It seems as if the feed we gave to my animals had some sort of magical toxin in it that has made them all blind, and, alas, it's not the first time.
+[NPC] Pawprech: I already know that Life Infusion don't work on the poor things, and we realized Crystal Magic had the opposite effect.
+[NPC] Pawprech: We always give them some healing potion, sometimes work, but not this time.
+[NPC Narrate] -Pawprech shakes his head.-
+[NPC] Pawprech: If they can not see, they can not work.
+[NPC] Pawprech: Is there a Glyph or Glyph combination that you might suggest?
+[NPC Internal] Light and Sight.
+[NPC Narrate] -Pawprech opens his eyes in excitement.-
+[NPC] Pawprech: Of cause, Dazzling Light blinds the opponent, so should restore the sight.
+[NPC Narrate] -Pawprech starts the spell on the nearest goujah, which responds by opening its eyes and bellowing.-
+[NPC] Pawprech: We have done it!
+[NPC] Pawprech: This is wonderful.
+[NPC] Pawprech: I must reward you for your help.
+[NPC Narrate] -Pawprech removes some glyphs from his Glyph sack. After sorting through them extends his hand with a glyph.-
+[NPC] Pawprech: I have a spare glyph you might need for your training, and give Tarmeen my thanks.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Pawprech says thank you.
+[NPC] Tarmeen: You did well then, as I knew you would.
+[NPC] Tarmeen: As you might have surmised, that was also part of your training.
+[NPC Narrate] -Tarmeen gives a warm smile.-
+[NPC] Tarmeen: Now hand me your bracers please.
+[NPC Internal] Here you are.
+[NPC] Tarmeen: These no longer belong to you.
+[NPC] Tarmeen: Now, before we move on I must ask you a question.
+[NPC] Tarmeen: Each Way of magic has One Way that opposes it.
+[NPC] Tarmeen: Glyphs of these two Ways are very difficult and dangerous to attempt to combine.
+[NPC] Tarmeen: Once started in a Way, you will not be allowed to join the opposing Way Circle for safety reasons.
+[NPC] Tarmeen: Each Way also has two Ways that support it, combining easily and with little danger.
+[NPC] Tarmeen: For your test of knowledge, answer what two other Ways of magic support the Crystal Way.
+[NPC Internal] Blue and Azure.
+[NPC] Tarmeen: Correct.
+[NPC Narrate] -Tarmeen removes a set of bracers from a bag and hands them.-
+[NPC] Tarmeen: These are your new bracers, also stronger and more powerful than the Apprentice item.
+[NPC] Tarmeen: Return to me again with your wand later, and when I think you are ready we will have your final test for this section of your testing.
+[NPC Narrate] -Tarmeen takes a breath.-
+[NPC] Tarmeen: When you find yourself in the dark you might need some Light, but beware too much light reduces Sight…
+[NPC] Tarmeen: because the eyes are nothing but windows to the soul only Faith will open the Door.
+
+[Reward] [XP] 15000; [Item] 1, Faith glyph; [Item] 1, Adept's Crystal Way Bracers; [Faction] 30, Crystal Order
+

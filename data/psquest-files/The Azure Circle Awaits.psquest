@@ -1,0 +1,79 @@
+[Questname] The Azure Circle Awaits
+[NPC Name] Jayose
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Azure Way; [Item] 1, Apprentice's Azure Way Wand; [Skill] 30, Azure Way; [Item] 5, Consumer Antennae
+
+[To] Jayose
+
+[NPC Internal] Here is my Azure Way Wand, I want to learn more.
+[NPC] Jayose: Ah!
+[NPC] Jayose: You are an expert now!
+[NPC] Jayose: I taught you as much as I know.
+[NPC Narrate] -Jayose smiles in a friendly manner.-
+[NPC] Jayose: But you need my reference to meet the Archmaster of the Azure Way.
+[NPC] Jayose: Do you think you have earned it?
+[NPC Internal] Yes, sure.
+[NPC] Jayose: Is this confidence or arrogance?
+[NPC Narrate] -Jayose blinks.-
+[NPC] Jayose: Let's say that yes, you earned enough of my trust.
+[NPC] Jayose: But I need one last task from you, I'm studying minds and communication of some creatures.
+[NPC] Jayose: And now I need materials to study it.
+[NPC] Jayose: So, to make it short, I need five consumer antennae.
+[NPC Internal] Fine, I'm going to get them.
+[NPC] Jayose: I like your goal oriented attitude.
+[NPC] Jayose: You will find the antennae on Consumers.
+[NPC] Jayose: They are monsters, you can search for them in the wilderness.
+[NPC] Jayose: Look in their bodies and tear up their antennae.
+[NPC] Jayose: It could be gruesome, but I need them to analyze minds of strange creatures.
+[NPC Internal] Here are the antennae, I hope you will enjoy them.
+[NPC] Jayose: Ah, that wasn't hard I hope.
+[NPC Narrate] -Jayose smiles, taking the antennae.-
+[NPC] Jayose: Now it's time to meet the Archmaster of the Azure Circle, so you can become an official Apprentice.
+[NPC] Jayose: Are you ready to know her?
+[NPC Internal] I'm ready.
+[NPC] Jayose: The Archmaster will lead you to greater knowledge.
+[NPC] Jayose: She will show the path to become a real member, unlike me.
+[NPC] Jayose: I am only an intermediary, and now your path goes beyond me.
+[NPC] Jayose: Your knowledge and your powers grant you access to the next step.
+[NPC] Jayose: When you are ready, go and talk to Menita.
+[NPC] Jayose: She travels much, but I think you can find her in Dsar Kore of Ojaveda.
+[NPC] Jayose: No more chatting now.
+[NPC] Jayose: She is waiting for you.
+
+[To] Menita
+
+[NPC Internal] Please take this Way Wand as proof of my dedication to Azure Way.
+[NPC Narrate] -Menita gazes upon you for long seconds.-
+[NPC Narrate] -Her pupils glow with cold light, they seem to became bigger and bigger.-
+[NPC Narrate] -Then she half closes her eyes, and, slowly, she hands back your wand.-
+[NPC Internal] Did I fail in something?
+[NPC Narrate] -Menita raises one finger, and moves it in front of her lips. Slowly. No expression.-
+[NPC Narrate] -Her face looks relaxed, while she seems to look you from far away.-
+[NPC] Menita: Clear your mind.
+[NPC Narrate] -Her voice is firm. Her body looks like an ice statue, not even breathing.-
+[NPC] Menita: I can feel your desires, YOU.
+[NPC] Menita: Your struggles.
+[NPC Narrate] -Menita lowers her finger, taking a deep breath.-
+[NPC] Menita: You come here with a goal, a desire to follow a path.
+[NPC] Menita: Our path.
+[NPC] Menita: But your mind is still heavy; you need focus to gain mastery.
+[NPC] Menita: Drop away the unnecessary.
+[NPC Narrate] -Her eyes close, her head tips.-
+[NPC Narrate] -You are unsure, maybe you see a faint smile. But it vanishes when her eyes open again, two windows showing a distant world.-
+[NPC] Menita: Your spirit is full of questions, and your mind has some answers.
+[NPC] Menita: Are they really necessary?
+[NPC] Menita: You built balance, power and knowledge until now, trying to follow your path.
+[NPC] Menita: And the road is still long.
+[NPC Narrate] -She pauses, the faint smile arises again.-
+[NPC] Menita: I cannot say if you will fail, or succeed.
+[NPC] Menita: This is interesting, and perhaps dangerous.
+[NPC Narrate] -She hands you a glyph.-
+[NPC] Menita: Take it, so you can increase your power and knowledge.
+[NPC Narrate] -Menita closes her eyes, remaining silent.-
+[NPC] Menita: Your path now leads to Vorigna Tassen here in Dsar Kore, show her your Azure wand.
+[NPC] Menita: She is expecting you.
+
+[Reward] [XP] 8000; [Item] 1, Sound glyph; [Faction] 10, Azure Order
+

@@ -1,0 +1,64 @@
+Required: 2 Adept's Red Way Staff, 1 Apprentice's Red Way Staff
+
+Info: Remember once we begin you will not be able to be a Master in Blue way or past the first Masters rank in Crystal or Brown Ways.
+
+You say: The three staves you requested as proof of my dedication.
+Ferryd Shillor says: So you have decided to continue with your training and have gathered the items, very well, from this point forward you have begun down the point to becoming a Master of the Red Way.
+Ferryd Shillor says: I thought you might.
+Ferryd Shillor says: You have the look of a Red Way Master to me.
+Ferryd Shillor says: You may return these staffs to their owners.
+Ferryd Shillor hands you back two staves, but keeps yours and puts it aside.
+Ferryd Shillor says: You have proven your knowledge and dedication to the Red Way Circle and to your previous trainers.
+Ferryd Shillor says: You also know of and about the supporting and opposing Ways to the Red Way, this is very important knowledge and you should always keep it in mind.
+Ferryd Shillor says: This knowledge is important for your masters training.
+Ferryd Shillor says: My suggestion is to begin speaking to practitioners and students from the supporting Ways and making allies.
+Ferryd Shillor says: These bonds will become important in the coming tests.
+You say: What comes first?
+Ferryd Shillor says: The first is a test of your ability, I want you to present me with two glyphs.
+Ferryd Shillor says: I'm not going to tell you what they are, but I will give you hints and maybe what I feel about them and then you must work out which I mean.
+Ferryd Shillor says: They are from the Magic Ways which support ours, to give you a little hint.
+Ferryd Shillor says: The first glyph will test your intelligence and the other will make you scream with confusion.
+Ferryd Shillor says: Good luck.
+You say: Here are the glyphs as requested.
+Ferryd Shillor says: Well done I'm glad you could work out which glyphs I wanted.
+Ferryd Shillor says: In combining spells, you might need glyphs from the Dark and Azure Ways.
+Ferryd Shillor says: On their own, every Way is limited in power.
+Ferryd Shillor says: You will find that the truly powerful spells are a product of your own Way, improved by those that support it.
+Ferryd Shillor hands back the glyphs.
+Ferryd Shillor says: Although Red Way is the most powerful Way, drawing its power from Chaos, no Way of magic is complete without the other Ways.
+Ferryd Shillor looks you in the eyes to make sure you are listening.
+Ferryd Shillor says: This includes supporting Ways, neutral, and opposing.
+Ferryd Shillor says: Crystal and Brown Way are neutral, neither greatly aiding or impeding the Red Way.
+Ferryd Shillor says: You have just shown me you know of the supporting Ways.
+Ferryd Shillor says: Finally, there is the single Way that mirrors the Red Way.
+Ferryd Shillor says: This is the Blue Way.
+Ferryd Shillor says: For your last task today I will ask you to bring me the Blue Way Glyph that Levrus sells.
+You say: And that will be Cold, right
+Ferryd Shillor nods and hands it back quickly.
+Ferryd Shillor says: This is very important.
+Ferryd Shillor says: Red and Blue Way Circles are not enemies...
+Ferryd Shillor says: Well except for Barrin having no humor.
+Ferryd Shillor chuckles.
+Ferryd Shillor says: Trying to combine opposing Ways is possible -just- but will always be very very dangerous.
+Ferryd Shillor says: You may train the supporting ways within a realm or so of Red Way, but if you train too high in the Blue Way, you risk being removed from the Red Way Circle for everyone's safety.
+Ferryd Shillor frowns.
+Ferryd Shillor says: Mages have burned all magical abilities from themselves by trying to master all Ways.
+Ferryd Shillor says: You should visit the large hole in the top of a hill out towards Ojaveda if you wish to know what happens when you lose control when combining too many Ways.
+Ferryd Shillor says: That hill was once much taller.
+Ferryd Shillor shakes his head.
+Ferryd Shillor says: But good and honest magic can be powerful too.
+Ferryd Shillor says: I want you to see an example.
+Ferryd Shillor says: The elevator of the winch is located between two big towers.
+Ferryd Shillor says: These two towers are on the stable ground.
+Ferryd Shillor says: Go and check, then return here and tell me what their use is.
+You say: Always have been.
+Ferryd Shillor laughs.
+Ferryd Shillor says: I guess I really didn't need to ask.
+Ferryd Shillor says: This is your brand new Master's Red Way Staff, and with it you may call yourself by the rank of Master of the Red Way.
+Ferryd Shillor says: You will show it to me every time you are ready for your next test session while you continue training in the usual manner.
+Ferryd Shillor says: I also want you to have this as a personal gift from me.
+Ferryd Shillor says: Even though it is a Brown Way glyph, neutral to Red Way, it can be used and combined with a Red Way glyph for great protection.
+Ferryd Shillor says: I will leave it up to you to discover the spell for yourself.
+Ferryd Shillor says: Also, you may now show your Master's Staff to Willam Chorind.
+Ferryd Shillor says: Becoming a Master in the Circle comes with certain...
+Ferryd Shillor says: Rewards.

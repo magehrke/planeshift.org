@@ -1,0 +1,300 @@
+[Questname] Thorian's Order
+[NPC Name] Thorian Gronk
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 5, Diamond Crystal; [Item] 5, Emerald Crystal; [Item] 5, Ruby Crystal; [Item] 5, Sapphire Crystal; [Money] 50; [OR Begin] [Skill] 30, Dark Way [OR] [Skill] 30, Red Way [OR] [Skill] 30, Azure Way [OR End]
+
+[Info] The rank in Red Way is uncertain
+
+[To] Thorian Gronk
+
+[NPC Internal] So, you need any help?
+[NPC Narrate] -The Dwarf looks up at you as he finishes eating some roast kikiri before speaking.-
+[NPC] Thorian: So I guess you're the Enkidukai one of the Circles sent to help me.
+[NPC Narrate] -Thorian chuckles a little.-
+[NPC] Thorian: Of course you are.
+[NPC Narrate] -Thorian then just smiles.-
+[NPC Internal] So what can I do for you?
+[NPC] Thorian: Right to business, good, I can appreciate that.
+[NPC Narrate] -Thorian smirks, and wiggling his trousers around his waist with his hands he continues.-
+[NPC] Thorian: There is a tournament coming up and an…
+[NPC] Thorian: Acquaintance…
+[NPC] Thorian: Of mine is taking part.
+[NPC] Thorian: I wanted to get him a good luck present so he has better…
+[NPC] Thorian: Odds.
+[NPC] Thorian: So, I need some crystals enchanted.
+[NPC] Thorian: And that's where you come in.
+[NPC Internal] Where can I get the enchanted crystals?
+[NPC] Thorian: You're the little kikiri from the Magic Way.
+[NPC Narrate] -Thorian smirks.-
+[NPC] Thorian: Tell me which you belong to and I'll tell you how to find out.
+
+[Possible Ways] 3
+
+[Way] 1
+
+[NPC Internal] I belong to the Red Circle.
+[NPC] Thorian: Oh so you'll need to go see your fearsome wanna-be clown of an Arch Mage.
+[NPC] Thorian: I've had one of his packages before; tell him I'm cooking up a special package for him as we speak.
+[NPC] Thorian: Oh, and here are the crystals I need, you'll need to take this list with you.
+
+[To] Ferryd Shillor
+
+[NPC Internal] Can you help me get these?
+[NPC Narrate] -Ferryd takes the order and reads it over.-
+[NPC] Ferryd: Well now, that funny little dwarf needs some crystals enchanting.
+[NPC] Ferryd: I hate to think what he's going to do with them.
+[NPC Narrate] -Ferryd smiles, handing you back the note.-
+[NPC] Ferryd: I just hope it isn't to repay a small package I sent him a few days ago, did he mention it?
+[NPC Internal] He said he was cooking something up especially for you.
+[NPC Narrate] -Ferryd half smiles, half laughs.-
+[NPC] Ferryd: I bet he did.
+[NPC] Ferryd: I look forward to seeing it, now about these crystals.
+[NPC Narrate] -Ferryd lifts his head and looks you over as he ponders his next comment.-
+[NPC] Ferryd: Ummm…
+[NPC] Ferryd: Well…
+[NPC] Ferryd: I think you might be ready to enter The House of the Spirit.
+[NPC] Ferryd: You might be interested to know.
+[NPC] Ferryd: This is a very special place and one of great power.
+[NPC] Ferryd: Not just for our Way, but also to those of the Azure and Dark Circles.
+[NPC] Ferryd: It was officially discovered not long after the founding of the Ways, but I have my suspicions that it had been used long before that.
+[NPC] Ferryd: There is a lot to learn about this place, but that will come with time and visiting there.
+[NPC] Ferryd: For now you need to know that not everyone is allowed to enter this place, only those of certain Ways and those of enough skill and promise are allowed entrance.
+[NPC Narrate] -Ferryd breathes deeply and looks you over once more and thinks about if he should allow you in.-
+[NPC Narrate] -He twitches the corner of his mouth as he makes his decision.-
+[NPC] Ferryd: And unfortunately I do not think that I will ever be able to allow you to set foot upon the ground of the House of the Spirit, I am very sorry.
+[NPC Internal] Why not? Did I do something wrong?
+[NPC Narrate] -Ferryd can hardly contain his laughter as he pursed lips splutter and laughter rolls out.-
+[NPC] Ferryd: N…
+[NPC] Ferryd: No, no, no you didn't.
+[NPC] Ferryd: But I had you going didn't I?
+[NPC Narrate] -Ferryd takes a few deep breaths and composes himself.-
+[NPC] Ferryd: Ok, I'll write you a letter of admittance to the House.
+[NPC] Ferryd: You don't happen to have any ink and paper do you?
+
+[To] Jayose
+
+[NPC Internal] Could I have some ink and paper?
+[NPC Narrate] -Jayose glances up at you over a pile of papers.-
+[NPC] Jayose: Yes, 50 tria please.
+[NPC Internal] Here you are, Jayose.
+[NPC] Jayose: Thank you, and here you go.
+
+[To] Ferryd Shillor
+
+[NPC Internal] Here you are Arch Mage.
+[NPC] Ferryd: Arch Mage, well, yes, quite right I am.
+[NPC] Ferryd: Nice of you to remember.
+[NPC] Ferryd: Now give me a few moments and I'll write this for you.
+[NPC Narrate] -Ferryd quickly turns round and channelling some magic, a mark draws itself onto the paper after which he writes a few lines of text.-
+[NPC] Ferryd: There, done.
+[NPC] Ferryd: Now you'll need to take this to The House of the Spirit and show it to the Enchanter who oversees the house.
+[NPC] Ferryd: And as to where it is, you must know where Gugrontid is by now…
+[NPC] Ferryd: Well, if you don't I am tasking you with first finding out where the Kran city of Gugrontid is.
+[NPC] Ferryd: Once you have found the path to the city though the stone cliff, with that path to your back walk away from Gugrontid.
+[NPC] Ferryd: You will pass the lake and Cutthroats Bane.
+[NPC] Ferryd: If you keep walking you will find the House, look for a cave and you will have found it.
+[NPC] Ferryd: And you will now find you will be able to enter.
+[NPC Narrate] -As Ferryd says that a pulse of reddish light emanates from the end of his staff.-
+
+[To] Thalus Lau
+
+[NPC Internal] Ferryd gave me this letter of admittance.
+[NPC] Thalus: That frumpy old Red Mage decided to let you in did he?
+[NPC Narrate] -Thalus stares at you, obviously disappointed with what he is seeing.-
+[NPC] Thalus: So what did he do that for?
+
+[Way] 2
+
+[NPC Internal] I belong to the Azure Circle.
+[NPC Narrate] -Thorian laughs heavily and then sniggers a little.-
+[NPC] Thalus: So you're a wanna-be Azure mage and you had to ask me all these questions to work out what I want and where to get it?
+[NPC] Thalus: Ok, well as you're an Azure mage I'd ask your Arch-mistress, that lass in Ojaveda.
+[NPC Narrate] -Thorian then sniggers as he looks at you.-
+[NPC] Thalus: Do you know what I'm going to say next?
+[NPC] Thalus: No…
+[NPC Narrate] -Thorian smirks again and holds up a piece of paper.-
+[NPC] Thalus: It's the list of crystals I need; you should take this with you.
+
+[To] Menita
+
+[NPC Internal] Could you help me with getting some crystals enchanted?
+[NPC Narrate] -The Dermorian replaces a pot she has in her hand and turns, looking at you with her clear blue eyes.-
+[NPC] Menita: Welcome back Enkidukai.
+[NPC Narrate] -She then sits, crosses her legs and tilts her head looking not at, but just past you…-
+[NPC] Menita: I knew you were coming so have prepared this letter of admittance to The House of the Spirit.
+[NPC Narrate] -She closes her eyes and begins to sit silently.-
+[NPC Internal] Arch-mistress?
+[NPC Narrate] -Menita holds up two fingers of one hand as if to command you to be silent…-
+[NPC Narrate] -Some time passes before she looks up to you again.-
+[NPC] Menita: You should not be in a rush Enkidukai you may miss much if you do not pay attention and take your time.
+[NPC Narrate] -Menita lifts a hand and passes you a small note.-
+[NPC Narrate] -As you take the note a flash of Azure Magic jumps from the letter and dances about before settling to nothing.-
+[NPC] Menita: The place you will now be visiting is called The House of the Spirit.
+[NPC] Menita: The energies which pass though this place are able to enhance the enchanting process, along with a few other things.
+[NPC] Menita: It has been a place of great power for a long time and you will be just the latest of a long line of mediocre, and great Mages to have passed through the halls.
+[NPC] Menita: These mages belong to not just the Azure Way, but also Dark and Red.
+[NPC] Menita: Be careful when you are present there, as there is the possibility for much anger between the mages.
+[NPC] Menita: For now let me finish by saying that not everyone is allowed to enter this place, only those of the three Ways, and of those, only one with enough skill are allowed entrance.
+[NPC Internal] Where is the House?
+[NPC Narrate] -Menita seems to hardly move any part of her as she communicates with you.-
+[NPC Narrate] -Stand with your back to the cliff entrance to Gugrontid.-
+[NPC Narrate] -Keeping the lake to your left and Cutthroats Bane to your right, turn slightly left after and walk as straight as you can and you will find an old cave entrance.-
+[NPC Narrate] -Menita smiles up at you as you leave.-
+
+[To] Thalus Lau
+
+[NPC Internal] Menita gave me this letter of admittance.
+[NPC] Thalus: Really?
+[NPC] Thalus: She normally has better taste, let's see the letter then.
+[NPC Narrate] -Thalus takes it and glances it over.-
+[NPC] Thalus: So what is it you need?
+
+[Way] 3
+
+[NPC Internal] I belong to the Dark Circle.
+[NPC] Thalus: Dark Way…
+[NPC] Thalus: Well then you will need to go see, the lovely Evelyn.
+[NPC Narrate] -Thorian forces a smile.-
+[NPC] Thalus: Here are the crystals I need; you'll need to take this list with you.
+[NPC] Thalus: Good luck.
+
+[To] Evelyn
+
+[NPC Internal] Would you be able to help me obtain these?
+[NPC Narrate] -Evelyn takes the order and reads it over.-
+[NPC Narrate] -Her long eyelashes bat a few times as her rich eyes dance along the lines of text…-
+[NPC Narrate] -Evelyn smiles sweetly as her hands lower and swing gracefully behind her back.-
+[NPC] Evelyn: So it seems you're in need of some enchanted crystals, YOU.
+[NPC] Evelyn: I have heard some interesting things about you.
+[NPC] Evelyn: Do you think you deserve to be allowed to know about how to make these powerful items?
+[NPC Narrate] -A coy little smile drifts out of the corner of her mouth.-
+[NPC Narrate] -She hands the note back and waits.-
+[NPC Internal] Yes, I think I deserve to know.
+[NPC Narrate] -Evelyn smiles along with hearing your answer.-
+[NPC] Evelyn: That is a fair assumption and from what I have heard I agree, for the most part.
+[NPC Narrate] -Her dress catches in a light breeze as she continues to talk.-
+[NPC] Evelyn: You will soon be gaining entrance to The House of the Spirit.
+[NPC] Evelyn: This is a place of great power to which every Mage wants to be allowed entrance.
+[NPC] Evelyn: The energies which pass though its location are able to fuel not just our Way, but also those of the Azure and Red Way.
+[NPC] Evelyn: Similar as our Ways are.
+[NPC] Evelyn: It has been a place of great power for a long time and you will be just the latest of a long line of, mediocre and great Mages to have passed through the halls.
+[NPC] Evelyn: There is a lot to learn about this place, and that will come with time, and visiting there.
+[NPC] Evelyn: For now you need to know that not everyone is allowed to enter this place, only those of the three Ways and of those of enough skill are allowed entrance.
+[NPC Narrate] -Evelyn breaths lightly and smiles with her intoxicating eyes.-
+[NPC] Evelyn: You will not gain entrance to the House of the Spirit until you have an admittance letter from me.
+[NPC Internal] Do you need some ink and paper to write it?
+[NPC Narrate] -Evelyn steps away shaking her head.-
+[NPC] Evelyn: No I do not.
+[NPC Narrate] -She picks up a scrap from the table next her and holds it against the wall.-
+[NPC Narrate] -With her other hand she conjures Dark magic which spill into the paper.-
+[NPC Narrate] -The paper quickly absorbs the energies and words begin to form on the parchment.-
+[NPC Narrate] -Evelyn turns and hands the parchment to you.-
+[NPC] Evelyn: With this in your possession you will be able to gain access to The House of the Spirit within which you will find what you need.
+[NPC] Evelyn: To find the entrance, stand with your back to the cliff entrance to Gugrontid and walk.
+[NPC] Evelyn: Pass the lake and cutthroats bane to the right.
+[NPC] Evelyn: Follow the paths though the hills and you will find it.
+[NPC] Evelyn: It will be a rock formation and if you look closely, you'll find a small entrance.
+[NPC Narrate] -With yet another breathless smile Evelyn signals for you to leave, tired by your presence.-
+
+[To] Thalus Lau
+
+[NPC Internal] Evelyn gave me this letter of admittance.
+[NPC Narrate] -Thalus scowls a little as he takes the letter.-
+[NPC] Thalus: Fine.
+[NPC] Thalus: What do you want?
+
+[Way] All
+
+[NPC Internal] The Arch Mage felt I was ready to enter The House of the Spirit.
+[NPC] Thalus: Well of course or you wouldn't be here, but is there anything you need?
+[NPC Internal] I have this order from Thorian.
+[NPC Narrate] -Thalus quickly reads the order over before crumpling up the paper and tossing it on the floor.-
+[NPC] Thalus: Right, I'll make these crystals.
+[NPC] Thalus: But I'm not using mine.
+[NPC] Thalus: Get me five diamond, emerald, ruby and sapphire crystals.
+[NPC] Thalus: That will be enough to make all the ones that dwarf wants.
+[NPC] Thalus: You should be able to get them all in the Laanx dungeon.
+[NPC Narrate] -Thalus turns away and starts sorting though some glyphs.-
+[NPC Internal] Here are your crystals.
+[NPC] Thalus: Good, so you do have at least one use…
+[NPC Narrate] -Thalus grunts a little and places the crystals on a table.-
+[NPC Narrate] -He then rolls his shoulders and looks at you.-
+[NPC] Thalus: So I guess I should get on with enchanting these.
+[NPC Narrate] -Thalus sniffs noisily as he picks up and book on enchanting gems and flicks though it.-
+[NPC Narrate] -Thalus lifts his eyes from the book looking at you.-
+[NPC] Thalus: You should pay attention to this, I'm not likely to show you again.
+[NPC Narrate] -Thalus drops the book heavily onto the same table as the gems.-
+[NPC Narrate] -He picks up a crystal and a glyph, choosing an Emerald crystal and a might glyph and steps over to a nearby enchanter…-
+[NPC Narrate] -The Emerald crystal chimes as it's dropped into the enchanter…-
+[NPC Narrate] -Holding the glyph in his right hand Thalus steps up to the enchanter and begins channelling Red Way energies…-
+[NPC Narrate] -The glyph begins to glow as the energies flow round Thalus' hand and cascade off the glyph into the enchanter below.-
+[NPC Narrate] -The crystal begins to glow and hum slightly as the energies gather within it…-
+[NPC Narrate] -Finally, as a bright flash passes across the crystal Thalus pulls his hand away from the enchanter and drops the glyph onto the table…-
+[NPC] Thalus: One down, four to go.
+[NPC Narrate] -Thalus repeats the process with different glyphs and different crystals each time, making a selection of enchanted crystals…-
+[NPC] Thalus: Right, done.
+[NPC Narrate] -Thalus finally hands you a sack of enchanted crystals.-
+[NPC] Thalus: Anything else?
+[NPC Internal] I do have some Questions.
+[NPC] Thalus: In the name of the Gods…
+[NPC] Thalus: Spit it out then.
+[NPC Narrate] -Thalus spits on the floor.-
+[NPC Internal] What crystals can be enchanted?
+[NPC] Thalus: Well any you can get your hands on, obviously.
+[NPC] Thalus: Different crystals are able to contain more or less power and give greater or lesser effects.
+[NPC] Thalus: Rubies contain the least and Diamonds the largest amount of energy and strongest effects.
+[NPC Internal] Which glyphs can I use?
+[NPC] Thalus: Almost all of them, just pick one up and try it.
+[NPC] Thalus: But not every glyph can be used to enchant every crystal.
+[NPC] Thalus: Most are in the book I gave you.
+[NPC] Thalus: But you won't be able to use every combination until you are experienced enough and powerful enough in the Way's glyphs, which looking at you will take be a long…
+[NPC] Thalus: long…
+[NPC] Thalus: time from now.
+[NPC Internal] What are the effects of the enchanted gems?
+[NPC Narrate] -Thalus shrugs and turns from you to start placing a crystal in the enchanter.-
+[NPC] Thalus: I don't care about that, you'll have to work it out yourself.
+[NPC] Thalus: Go pester some armourer to test them out with…
+[NPC] Thalus: But let me tell you this, the Way you enchant a crystal with will give you resistance against the opposing Way.
+[NPC] Thalus: So a Dark Way glyph used to enchant a crystal will give resistance to Crystal Way magic.
+[NPC] Thalus: And so on and so on, you get the idea.
+[NPC] Thalus: There are some other not so obvious effects, but, well, work them out yourself.
+[NPC Internal] Can I enchant gems and crystals from the other three Ways?
+[NPC Narrate] -Thalus laughs at you.-
+[NPC] Thalus: Here, of course not.
+[NPC Narrate] -He turns to face you a bit as he continues.-
+[NPC] Thalus: They can be enchanted, but only Dark, Red and Azure glyphs can be used within the walls of the House of the Spirit.
+[NPC] Thalus: You will have to find another place of power to enchant the other Ways' glyphs.
+[NPC Internal] Thank you for enchanting the crystals. Would it be possible for me to get an instruction book?
+[NPC] Thalus: Sure, fine, if it means you can stop bothering me.
+[NPC Narrate] -Thalus reaches over and takes a copy of Enchanting Gems and tosses it at you.-
+[NPC] Thalus: Have funnnn…
+[NPC Narrate] -He says patronizingly.-
+[NPC Internal] I've no more questions.
+[NPC] Thalus: Great, now get lost and give those gems to Thorian.
+
+[To] Thorian Gronk
+
+[NPC Internal] Here are your enchanted Crystals.
+[NPC Narrate] -Thorian is scratching his beard with both hands as he looks over to you.-
+[NPC] Thorian: Do you have any idea how itchy these things can get!?
+[NPC Internal] No, not really.
+[NPC] Thorian: Well I can't expect a Enkidukai to understand what it's like to have such a fantastically groomed piece of excellence.
+[NPC Narrate] -Thorian sniffs noisily and straightens his beard out.-
+[NPC] Thorian: So, you've finally managed to get the list of items I was after?
+[NPC Narrate] -He looks up at you clearly anticipating your answer.-
+[NPC Internal] Yes I did, and here they are.
+[NPC Narrate] -Thorian claps his hands together.-
+[NPC] Thorian: Excellent…excellent!
+[NPC Narrate] -Thorian pulls open the sack and peers in side.-
+[NPC] Thorian: One, two, three, four and five.
+[NPC] Thorian: Good.
+[NPC] Thorian: I'm so excited to get the energies in these fixed onto a decent piece of armor.
+[NPC] Thorian: Then we will see who is the best fighter, the odds will certainly be in my favor this time.
+[NPC] Thorian: Thanks very much…
+[NPC Narrate] -Thorian stares at you for a while.-
+[NPC] Thorian: Whatever your name is.
+
+[Reward] [XP] 12200; [Item] 1, Enchanting Gems of Spirit
+

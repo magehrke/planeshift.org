@@ -1,0 +1,109 @@
+[Questname] Learning to Make Chain Mail
+[NPC Name] Kethzun Guthazik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Making Leather Armor; [Item] 50, Steel Ingots; [Item] 1, Steel Wire
+
+[To] Kethzun Guthazik
+
+[NPC Internal] Can you teach me how to make chain mail?
+[NPC Narrate] -Kethzun stops what he is doing and turns his attention to you.-
+[NPC] Kethzun: Oh, you want to learn about making chain mail armor, eh?
+[NPC] Kethzun: It is an intricate process and it takes much time to make just one armor piece.
+[NPC] Kethzun: I can teach you what you need to know, but I need to know you're committed to it.
+[NPC] Kethzun: What do you say?
+[NPC Internal] Oh yes, I'm ready to make some chain mail.
+[NPC] Kethzun: Good, good.
+[NPC] Kethzun: First thing I need to know is your current skills.
+[NPC] Kethzun: Do you have much experience in blacksmithing and armor making?
+[NPC Internal] I have a bit of blacksmithing and armor making skill.
+[NPC] Kethzun: Alright, good.
+[NPC] Kethzun: Nonetheless, we'll start with some basics.
+[NPC] Kethzun: The first step is gathering raw materials.
+[NPC] Kethzun: Chain mail uses a lot of metal.
+[NPC] Kethzun: Go get me fifty steel ingots.
+[NPC] Kethzun: I know that's a lot but I need to know you are serious here.
+[NPC Internal] I have the ingots, what now?
+[NPC] Kethzun: Good, let me explain what chain mail is.
+[NPC] Kethzun: It all starts with steel.
+[NPC] Kethzun: Steel makes wire; wire makes coils; coils make rings; rings make patterns; patterns make strips; and finally strips make chain mail pieces.
+[NPC] Kethzun: Those pieces are then used to make armor.
+[NPC Narrate] -He smirks.-
+[NPC] Kethzun: Are you with me so far?
+[NPC Internal] Sounds complicated. How do I start?
+[NPC] Kethzun: Start with making steel rings.
+[NPC] Kethzun: I'm going to give you a book called Making Chainmail Armor.
+[NPC] Kethzun: You'll also need some tools.
+[NPC] Kethzun: I'll give you your first tool.
+[NPC] Kethzun: It's a mold used to make steel wire.
+[NPC Narrate] -Kethzun hands you a Wire Mold along with a book.-
+[NPC] Kethzun: Since you have some experience, we'll move this along.
+[NPC] Kethzun: Holding the mold and using a forge, pour some molten ore into the mold.
+[NPC] Kethzun: Molten steel made from one ore will make a wire.
+[NPC] Kethzun: Go try it out.
+[NPC] Kethzun: Return once you've made a wire and I'll show you how to what to do next.
+[NPC Internal] Quite easy.
+[NPC] Kethzun: Yes, making steel wire is easy.
+[NPC] Kethzun: Next you'll need two more tools: a mandrel and a cutter.
+[NPC] Kethzun: In short, at the smith table around back, use the mandrel with wire to make coils, and then cut those with the cutter to make rings.
+[NPC] Kethzun: After that combine the rings into a pattern using four open rings and one closed.
+[NPC] Kethzun: Turn open rings to closed using a hammer at the anvil.
+[NPC] Kethzun: Three such patterns make a strip.
+[NPC] Kethzun: The book will tell you how many strips you need to make pieces and how many pieces you need to make the armor.
+[NPC] Kethzun: From the book you'll also see there are various patterns.
+[NPC Narrate] -Kethzun coughs and looks at you expectantly.-
+[NPC] Kethzun: Of course, I do sell mandrels and cutters.
+[NPC] Kethzun: Give things a try and feel free to ask questions before we wrap things up.
+[NPC Internal] How much skill do I need to make different things?
+[NPC] Kethzun: Anyone can make rings and strips.
+[NPC] Kethzun: Even a beginner can make a pair of gloves.
+[NPC] Kethzun: For medium pieces and boots, you'll need about twenty lessons in both blacksmithing and armor making.
+[NPC] Kethzun: Forty to make riveted patterns and finally eighty lessons to make the rest of the chain mail armor set.
+[NPC] Kethzun: I know it's a lot but this is some tough work.
+[NPC] Kethzun: You don't want to give a guard your armor only to have it fall apart with one swipe of an ulber's claw, do you?
+[NPC Narrate] -He grins.-
+[NPC Internal] How do you use the wire mold?
+[NPC] Kethzun: It's not difficult.
+[NPC] Kethzun: First have some molten steel.
+[NPC] Kethzun: I hope you have a Working With Stock book on you.
+[NPC] Kethzun: You'll need it to smelt the ore.
+[NPC] Kethzun: Then using a forge put molten steel made from one ore into the wire mold and it will make a steel wire.
+[NPC Internal] How do I make rings and how many should I make?
+[NPC] Kethzun: Once you have steel wire, go to any smith table and use your mandrel to make steel coil.
+[NPC] Kethzun: Hold your mandrel, then put the wire on the table and make coils.
+[NPC] Kethzun: Once you have a coil, hold your cutter and again on the smith table, cut them into open rings.
+[NPC] Kethzun: One steel coil should make ten dozen rings.
+[NPC Internal] Explain the different patterns and how to make them.
+[NPC] Kethzun: Sure.
+[NPC] Kethzun: Cutting coils will make open rings.
+[NPC] Kethzun: Take some of those and using an anvil, hammer them closed.
+[NPC] Kethzun: You make patterns by combining rings at a smith table.
+[NPC] Kethzun: Combine four open rings with one closed one to make a four-in-one pattern.
+[NPC] Kethzun: You can also use two extra open rings and make a six-in-one pattern.
+[NPC] Kethzun: Naturally it is stronger but you will need more skill to make one.
+[NPC] Kethzun: You can also rivet those using a riveter.
+[NPC] Kethzun: That will make even stronger patterns.
+[NPC] Kethzun: You will need a good amount of skill to make those.
+[NPC] Kethzun: Riveted patterns make higher quality armor.
+[NPC Internal] Do different patterns make different strips?
+[NPC] Kethzun: Once you have made a pattern, use three of them to make one strip.
+[NPC] Kethzun: All patterns make a strip; the difference is in the quality.
+[NPC] Kethzun: Six-in-one patterns tend to make better quality strips than four-in-one, and riveted patterns tend to make even better quality strips.
+[NPC Internal] How exactly do I get from strips to armor?
+[NPC] Kethzun: Good question.
+[NPC] Kethzun: Once you've made some strips, combine three side by side on the smith table, making small chain mail parts.
+[NPC] Kethzun: Six strips will make medium parts and nine strips make large parts.
+[NPC] Kethzun: Once you have the parts, again use the smith table to make them into a piece.
+[NPC] Kethzun: You then combine the pieces to make what we call a kit.
+[NPC] Kethzun: The book tells you the amount of pieces you'll need.
+[NPC] Kethzun: Finally make armor from the kits.
+[NPC] Kethzun: All using the smith table.
+[NPC Internal] I think I've got it. You are very knowledgeable, thanks Kethzun.
+[NPC] Kethzun: Oh, my pleasure.
+[NPC] Kethzun: Good luck to you.
+[NPC] Kethzun: I hope you don't become too much of a competitor.
+[NPC Narrate] -Kethzun winks and gives you a farewell wave.-
+
+[Reward] [XP] 12200; [Item] 1, Wire Mold; [Item] 1, Making Chainmail Armor; [Faction] 20, Crafting Association
+

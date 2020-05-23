@@ -1,0 +1,43 @@
+[Questname] The Most Essential Supplies
+[NPC Name] Edrich Sultov
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] Yes
+
+[Needed] [Skill] 10?,  Brewing;
+
+[Info] you are requested to brew different drinks for different acceptors
+
+[To] Edrich Sultov
+
+[NPC Internal] I smell hops and fermenting fruit, and it reminds me of a brewery. Any particular reason for that?
+[NPC] Edrich Sultov: Ha!
+[NPC] Edrich Sultov: I like you, random stranger.
+[NPC] Edrich Sultov: I am Edrich Sultov, and as you can smell I've been visiting brewers.
+[NPC] Edrich Sultov: I'm looking to set up trade routes to transport various libations, and I'm still looking for suppliers.
+[NPC] Edrich Sultov: If you do any brewing yourself - and I suspect you do from your fine sense of smell, person-with-no-name - I have an offer for you.
+[NPC Internal] It's ME, Edrich, and I don't object to the thought of earning some tria. What do you have in mind?
+[NPC] Edrich Sultov: It's quite simple, really.
+[NPC] Edrich Sultov: I've set up some customers already, and if you can produce the various kegs and barrels they require you can keep all but the advance deposit they have already paid.
+[NPC] Edrich Sultov: You brew the brews, take the lovely little things to their new homes, and pocket the tria.
+[NPC] Edrich Sultov: Sound fair?
+[NPC Internal] It does indeed. What orders currently need filling?
+[NPC] Edrich Sultov: One of our more respected residents has put in an order.
+[NPC] Edrich Sultov: Grimal Bloodaxe wants two beer kegs each of lager, stout, and bitter.
+[NPC] Edrich Sultov: You know who he is, right?
+[NPC] Edrich Sultov: Make sure he gets the good stuff.
+
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Edrich Sultov sent me to deliver these kegs of beer. I have two lager, two stout, and two bitter.
+[NPC] Grimal Bloodaxe: Ah, that's a good kid.
+[NPC] Grimal Bloodaxe: Roll those up here and let me get your pay.
+[NPC] Grimal Bloodaxe pulls out a pouch of tria and tosses it to you.
+[NPC] Grimal Bloodaxe: Not all for me, if yer wondering.
+[NPC] Grimal Bloodaxe: This will be heading out to the Sunshine Squadron shortly.
+[NPC] Grimal Bloodaxe: Well, most of it will.
+[NPC] Grimal Bloodaxe pulls out one of the barrels of stout and begins searching his pockets for a tap.
+
+[Reward] [Skill] 1, Brewing
+

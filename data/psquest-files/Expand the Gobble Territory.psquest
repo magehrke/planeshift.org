@@ -1,0 +1,72 @@
+[Questname] Expand the Gobble Territory
+[NPC Name] Gorbiak
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The value of Gobble Ears; [Item] 1, Rockpick; [Item] 1, Tefusang Claw; [Item] 3, Black Glass Beads
+
+[To] Gorbiak
+
+[NPC Internal] Hi Gorbiak, how are you?
+[NPC] Gorbiak: Gobble friend is back!
+[NPC] Gorbiak: I need help in gobble home.
+[NPC] Gorbiak: You help, yes?
+[NPC Internal] Yes, I'll help you.
+[NPC] Gorbiak: Thank you, gobble friend.
+[NPC] Gorbiak: More gobbles born, need more space for home.
+[NPC] Gorbiak: Give me rock pick so I can cut more rock from home and make bigger.
+[NPC] Gorbiak: Then me tell more.
+[NPC] Gorbiak: Also, NO TELL GUARDS ABOUT ME!
+[NPC] Gorbiak: Guards no like gobbles.
+[NPC] Gorbiak: Always hurt gobbles!
+[NPC Narrate] -Gorbiak stomps his foot.-
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] I brought you a rock pick.
+[NPC] Gorbiak: Yes!
+[NPC] Gorbiak: Good, gobble friend!
+[NPC] Gorbiak: More help from you before I give reward.
+[NPC] Gorbiak: There is tefusang in sewers!
+[NPC] Gorbiak: Nasty and eats gobbles!
+[NPC] Gorbiak: You kill for me and bring claw.
+
+[Give] Gorbiak; 1, Tefusang Claw
+
+[NPC Internal] And here is the claw.
+[NPC] Gorbiak: Very good!
+[NPC] Gorbiak: You big gobble friend.
+[NPC] Gorbiak: One last thing.
+[NPC] Gorbiak: Creepy people in sewers do weird singing.
+[NPC] Gorbiak: Gobbles no like and stay away.
+[NPC] Gorbiak: You kill and bring three black shinies to show.
+[NPC] Gorbiak: Then you done and big reward, yes!
+[NPC] Gorbiak: BUT NO TELL CREEPY SEWER PEOPLE ABOUT ME!
+
+[Give] Gorbiak; 3, Black Glass Beads
+
+[NPC Internal] gives Gorbiak the glass beads.
+[NPC] Gorbiak: You did it!
+[NPC] Gorbiak: I so happy!
+[NPC] Gorbiak: Now gobbles can live better in more space!
+[NPC] Gorbiak: You very good gobble friend and you no tell about me!
+[NPC] Gorbiak: I give you good reward yes!
+
+[Way] 2
+
+[To] Percival Hawthorne
+
+[NPC Internal] about gorbiak
+[NPC] Percival: The gobbles are planning what?!
+[NPC] Percival: Expanding their territory?
+[NPC] Percival: This spells bad news for all the surface Hydlaans.
+[NPC] Percival: They could cause sinkholes!
+[NPC] Percival: I'll send a team to stop them right away.
+[NPC] Percival: Thanks for your help, citizen.
+[NPC] Percival: Here, take these with the appreciation of the Hydlaa guard.
+
+[Reward] [Way 1] [Money] 16411; [XP] 19200; [Item] 1, Fear glyph; [Faction] 25, Seeds of Wildwood
+[Reward] [Way 2] [XP] 1500; [Item] 1, Three Rivet Shield; [Faction] 1, Guards
+

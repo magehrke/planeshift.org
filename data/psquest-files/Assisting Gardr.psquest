@@ -1,0 +1,45 @@
+[Questname] Assisting Gardr
+[NPC Name] Gardr Keck
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] Yes
+
+[Need] [Item] 2, Maces
+
+[To] Gardr Keck
+
+[NPC Internal] Gardr, do you have any work I can help with?
+[NPC] Gardr Keck: YOU, I would like you to assist me with an order.
+[NPC] Gardr Keck: If you feel you can spare the time, Madam.
+[NPC] Gardr Keck: I've always got orders to fill.
+[NPC] Gardr Keck: You know what it's like with the impending invasions.
+[NPC] Gardr Keck: Obviously I will pay you for the work you do.
+[NPC] Gardr Keck: You will have to get your own raw materials though, as I don't have any to spare.
+[NPC Internal] Of course. Which order do you want me to help fill?
+[NPC] Gardr Keck looks at a list and smiles.
+[NPC] Gardr Keck: Nevis must want the Hydlaa guard to use more maces.
+[NPC] Gardr Keck: Seems you did a good job before.
+[NPC] Gardr Keck: Can you make two for me to finish this order?
+[NPC Internal] Erm. Sorry, what do I need again?
+[NPC] Gardr Keck smiles.
+[NPC] Gardr Keck: You need to remember basic orders, YOU, if you ever want to be more than a novice.
+[NPC] Gardr Keck: You need two maces.
+[NPC Internal] I have your two maces, Gardr. Here you go.
+[NPC] Gardr Keck: You have the maces done?
+[NPC] Gardr Keck: Let me see.
+[NPC] Gardr Keck takes the maces.
+[NPC Narrate] -Kra then examines them.-
+[NPC] Gardr Keck chucks them into a crate.
+[NPC] Gardr Keck: Hmm.
+[NPC] Gardr Keck looks at you with a curious look.
+[NPC] Gardr Keck: Yes?
+[NPC] Gardr Keck: Can I help you?
+[NPC] Gardr Keck pauses.
+[NPC] Gardr Keck: Oh.
+[NPC] Gardr Keck: You will want to be paid.
+[NPC] Gardr Keck smiles.
+[NPC] Gardr Keck: These are nice maces, YOU.
+[NPC] Gardr Keck hands you some circles.
+[NPC] Gardr Keck: I look forward to you helping me again.
+
+[Reward] [Money] 3000; [XP] 10800; [Skill] 1, Mace Making;

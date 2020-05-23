@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* CSS Script for way training section */
+
+.way_training_main_table {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 0px;
+	padding-left: 70px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+
+}
+
+	.waytraining_rank_header {
+		width: 100px;
+	}
+
+	.waytraining_npc_header {
+		width: 150px;
+	}
+
+	.waytraining_quest_header {
+		width: 300px;
+	}
+
+	.waytraining_table_headers {
+		margin-left: 30px;
+	}
+
+	.way_training_main_table img {
+		height: 30px;
+	}

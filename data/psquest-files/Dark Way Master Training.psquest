@@ -1,0 +1,84 @@
+[Questname] Dark Way Master Training
+[NPC Name] Evelyn
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Only the Dark; [Item] 2, Adept's Dark Way Wand; [Item] 1, Apprentice's Dark Way Wand; [Item] 1, Fire glyph; [Item] 1, Armor glyph; [Item] 1, Arrow glyph
+
+[Info] You get the glyphs back.
+
+[To] Londris Kolaim
+
+[Info] Text is missing due to quest changes.
+
+[To] Evelyn
+
+[NPC Internal] Take this wand, it proves my commitment to the Dark Way.
+[NPC Narrate] -Evelyn eyelashes flutter as her eyes close and open again, slowly. Her hip wiggles slightly while she reaches you, taking the wand.-
+[NPC] Evelyn: I am Evelyn, and you, YOU…
+[NPC Narrate] -Evelyn stops talking, and stares in your eyes, her mouth faintly open.-
+[NPC] Evelyn: You are a Master in the Dark Way Circle, and my new pupil.
+[NPC Narrate] -Evelyn fingers flow on your wand, like an idle caress. Then she closes the hand, her black lacquered nails on the wand.-
+[NPC] Evelyn: Your skills, your power, pleases me.
+[NPC] Evelyn: Is your wish to please me?
+[NPC Internal] Yes, my wish is to please you.
+[NPC] Evelyn: What a delightful answer.
+[NPC Narrate] -Evelyn puts your wand in a pouch, then she languidly raises the hands, showing her wrist.-
+[NPC] Evelyn: Now, tell me.
+[NPC] Evelyn: Which is the most powerful amongst the Ways?
+[NPC Internal] Dark Way.
+[NPC Narrate] -Evelyn laughs, her white and sharp teeth appear behind her lips.-
+[NPC] Evelyn: It could be a pleasure to understand if you really believe in your answer.
+[NPC] Evelyn: But, for now, I would be pleased if you show me your bracers.
+[NPC Internal] Here are my bracers, Archmistress.
+[NPC Narrate] -Evelyn takes the bracers, one for every hand.-
+[NPC] Evelyn: The Dark Way is powerful, but so are the other Ways.
+[NPC] Evelyn: Items like yours are owned by Adepts of each of the Circles.
+[NPC] Evelyn: Remember it, you will need this knowledge.
+[NPC] Evelyn: You know which of other Ways support our own.
+[NPC] Evelyn: Meet members of these Ways, speak with them and gain their trust.
+[NPC] Evelyn: You will need it for the coming tests.
+[NPC Narrate] -Evelyn leans forward, slowly.-
+[NPC] Evelyn: There's also a Way who opposes ours.
+[NPC] Evelyn: But, for now, go to Levrus and buy all the glyphs he sells.
+[NPC] Evelyn: On your return give me the glyphs of the Ways that support us.
+[NPC Internal] These two are the glyphs of the Ways supporting us.
+[NPC Narrate] -Evelyn nods, examining the glyphs. Then she gives them back.-
+[NPC] Evelyn: Combined spells are the most powerful.
+[NPC] Evelyn: The Dark Way is seductive, and elegant, but, like every magic, can be improved when used together with other Ways.
+[NPC Narrate] -Evelyn smiles, tilting her head.-
+[NPC] Evelyn: You can use supporting Ways, neutral, and opposing too.
+[NPC] Evelyn: Azure and Blue Ways are neutral to Dark, and many times Dark Way glyphs are used to temper some of their combines.
+[NPC] Evelyn: The opposite of Dark is the Crystal Way.
+[NPC] Evelyn: Give me the Crystal Way glyph you bought from Levrus.
+[NPC Internal] Do you mean Arrow, Archmistress?
+[NPC Narrate] -Evelyn looks at the glyph. She doesn't take it and pushes back your hands.-
+[NPC] Evelyn: Keep it.
+[NPC] Evelyn: Crystal and Dark Way can be combined, but it is dangerous.
+[NPC] Evelyn: These two Ways may collide, even cause death to the unwise magician who tries to use both.
+[NPC] Evelyn: You are allowed to learn the supporting ways, within a realm or so from the Dark Way.
+[NPC] Evelyn: But, if you decide to be trained in Crystal Way, pay special attention.
+[NPC] Evelyn: If you train too high in Crystal Way you may be banned from the Dark Way.
+[NPC Narrate] -Evelyn's pupils grow wider and wider, looking into your eyes.-
+[NPC] Evelyn: There is no epitaph for the foolish mage who challenged the gods, combining all magics.
+[NPC] Evelyn: His grave is a tall hill, with a crater, the last remembrance left of his madness.
+[NPC] Evelyn: Do not ask further questions about this, for now.
+[NPC] Evelyn: Instead let's talk about spells.
+[NPC] Evelyn: Combine your Daemon and Arrow Glyphs, and then tell me the name of the result.
+[NPC Internal] daemon arrows
+[NPC] Evelyn: Good work.
+[NPC] Evelyn: You learned one of the rare exceptions to the rule of opposing ways.
+[NPC] Evelyn: If you search you will discover others of them.
+[NPC] Evelyn: Life and death could merge…
+[NPC Narrate] -Evelyn's tongue sweeps across her lips as she slowly closes her eyes.-
+[NPC] Evelyn: …
+[NPC] Evelyn: becoming so gorgeous sometime.
+[NPC Narrate] -Evelyn digs a hand in a pouch, and takes out a wand.-
+[NPC] Evelyn: Take you bracers, as well as your new Master's wand.
+[NPC] Evelyn: This new wand will be your proof, show me it when you will be ready for the next lessons.
+[NPC] Evelyn: And, to emphasize my pleasure, I want to offer you a personal gift.
+[NPC Narrate] -Evelyn gives you a glyph. Her fingers touch your hand for some seconds, warmer than normal.-
+[NPC] Evelyn: Continue to train with me, until you become ready for the next test.
+[NPC] Evelyn: We can learn so much, from each other.
+
+[Reward] [XP] 17800; [Item] 1, Shadow glyph; [Item] 1, Master's Dark Way Staff; [Faction] 40, Dark Order

@@ -1,0 +1,9 @@
+package questTextObjects;
+
+public class QuesttextAction extends Questtext {
+	
+	public QuesttextAction(String text) {
+		super(text);
+	}
+
+}

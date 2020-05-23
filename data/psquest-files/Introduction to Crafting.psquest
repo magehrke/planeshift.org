@@ -1,0 +1,44 @@
+[Questname] Introduction to Crafting
+[NPC Name] Harnquist
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Harnquist
+
+[NPC Internal] Good day sir. I have a friend's letter which tells me you are the person to ask about crafting.
+[NPC] Harnquist: Oh, greetings!
+[NPC] Harnquist: I don't remember your face, so you must be new in town!
+[NPC] Harnquist: Welcome.
+[NPC] Harnquist: If your friend spoke about me, then he surely is knowledgeable about our city, Hydlaa.
+[NPC] Harnquist: I'm the main point of contact for everyone interested in approaching the beautiful art of crafting, a fine art with plenty of possibilities!
+[NPC] Harnquist: Now me, I'm a blacksmith and I can say …
+[NPC] Harnquist: quite an expert.
+[NPC Narrate] -Harnquist smiles-
+[NPC] Harnquist: Some of my weapons have been used by very famous people, like the vigesimi and the most honorable guards.
+[NPC] Harnquist: Anyway if you want to know more, just tell me!
+[NPC Internal] Sure, please tell me a bit more about crafting in general.
+[NPC] Harnquist: Good to hear you are interested, I guess it's definitely for my speech …
+[NPC Narrate] -Harnquist laughs-
+[NPC] Harnquist: well, usually I don't speak too much.
+[NPC] Harnquist: Having a shop in the main plaza of the city has his drawbacks, too much work!!
+[NPC] Harnquist: Coming back to your question.
+[NPC] Harnquist: All the crafters of the city are somehow friends and we try to support each other, sharing lore, clients, materials, and even with some financial support at times.
+[NPC] Harnquist: The more people you will get in contact with and become friend of in the crafting association, the more you will get discounts on our goods and you will have access to our knowledge.
+[NPC] Harnquist: Many will be interested in teaching you our art, and you can then find yourself making money and learning a job!
+[NPC] Harnquist: What's better than this?
+[NPC Internal] More crafting!
+[NPC] Harnquist: Ah, now that's music for my ears.
+[NPC] Harnquist: To become a good crafter you need strong arms, a bit of precision in your hands, some memory and creativity.
+[NPC] Harnquist: I can point you to the right people for starting your crafting journey.
+[NPC] Harnquist: Are you interested?
+[NPC Internal] Sure.
+[NPC] Harnquist: Alright, if you want to learn more about becoming a Smith or anyway learning how to craft weapons, it's best to help me in my job.
+[NPC] Harnquist: I can give you all the information needed, or direct you to the right people.
+[NPC] Harnquist: If you want to become a more generic crafter or just help more our association, then you should speak with Nalri Grimtorr, I remember she was in need of something, but I coudn't help her.
+[NPC] Harnquist: Now I really have to go back to work!
+[NPC] Harnquist: Farewell.
+
+[Reward] [XP] 8000; [Faction] 5, Crafting Association
+

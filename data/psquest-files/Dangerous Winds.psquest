@@ -1,0 +1,49 @@
+[Questname] Dangerous Winds
+[NPC Name] Raithen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Dark Circle Hunt
+
+[To] Raithen
+
+[NPC Internal] reporting for duty, sir!
+[NPC] Raithen: Your services for my guards has been exemplary, citizen.
+[NPC] Raithen: It has been decided that you are the one who will handle a mission of extreme urgency.
+[NPC] Raithen: Many think the Sunshine and Shadow squadron are at odds, and it is true to an extent.
+[NPC] Raithen: But we are united in the cause of protection of Yliakum, and when situations are dire, we are quite capable of working together seemlessly under the direction of the Vigesimi.
+[NPC] Raithen: If you are to take this mission, report to Aerayau Strongwill and ask about your orders.
+[NPC] Raithen: Do you have the courage to face this mission?
+[NPC Internal] Sir, yes sir.
+[NPC] Raithen: Maybe you will surprise me yet, citizen.
+[NPC] Raithen: May Laanx guide you.
+
+[To] Aerayau Strongwill
+
+[NPC Internal] Requesting orders, sir!
+[NPC] Aerayau: I have something I need done very urgently, but I cannot let just anyone take this task for me.
+[NPC] Aerayau: Word about your deeds here in the Eagle has reached me, and Raithen and I have decided you are the one to handle this mission.
+[NPC] Aerayau: This mission is very important to all of Yliakum.
+[NPC] Aerayau: I cannot give you all the details here, as we believe this area has been compromised by magical means.
+[NPC] Aerayau: If you believe you can handle this task, go to Hydlaa and speak with Amidison Stronghand.
+[NPC] Aerayau: Are you prepared to face this trial?
+[NPC Internal] Prepared and ready.
+[NPC] Aerayau: Excellent, you are a brave soul.
+[NPC] Aerayau: Go to Amidison tell her I sent you to ask her about Nodramok.
+
+[To] Amidison Stronghand
+
+[NPC Internal] Aerayau sent me regarding Nodramok.
+[NPC] Amidison: Finally, Raithen and Aerayau have found someone for the task.
+[NPC] Amidison: We cannot use someone who is known for this mission.
+[NPC] Amidison: If you accept, you will be given access to the winch region to conduct your investigation.
+[NPC] Amidison: We need to know what Nodramok plans for the coming eclipse.
+[NPC] Amidison: This mission is vital to the security of the winch and all of the Dome level of Yliakum.
+[NPC] Amidison: There is much personal risk involved, however.
+[NPC] Amidison: Will you aid your government in this fashion?
+[NPC Internal] I shall, what are my orders.
+[NPC] Amidison: You are to report to Datal Allavium, the Vigesimi of the Hydlaa winch region and inter-level affairs, as soon as you can.
+[NPC] Amidison: Here is a note for him.
+
+[Reward] [XP] 17800; [Special] Winch access
+

@@ -1,0 +1,68 @@
+[Questname] A Different Drink for Aleena
+[NPC Name] Allelia Symiestra
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Introduction to The Food Association
+
+[To] Allelia Symiestra
+
+[NPC Internal] Hello, Jomed said that you might have a little job I could do?
+[NPC] Allelia: Well, yes, actually!
+[NPC Narrate] -Allelia smiles cheerfully at you.-
+[NPC] Allelia: Aleena wanted me to mix up a new drink for her, so I've made her this one with some sweet joopiner juice from the kitchen upstairs and some of this tangy cider from Brado's in Ojaveda.
+[NPC] Allelia: Doesn't that sound good?
+[NPC] Allelia: I think it tastes lovely.
+[NPC] Allelia: Maybe you'd be a good heart and take it up to her for me?
+[NPC Internal] Sure, I can run it right up.
+[NPC] Allelia: Marvelous!
+[NPC] Allelia: She's normally right up on the roof deck of the tavern.
+[NPC] Allelia: Just give it to her, then let her know I sent you.
+[NPC Narrate] -Allelia passes you the drink and then leans forward on the bar and lowers her voice.-
+[NPC] Allelia: There's a coin in for you if you come back and tell what she thought!
+[NPC Narrate] -Allelia winks at you and turns to wipe some mugs with a rag.-
+
+[To] Aleena Arlavin
+
+[NPC Internal] I have something for you.
+[NPC] Aleena: Hmm, what's this, Enkidukai?
+[NPC Narrate] -Aleena frowns slightly and sniffs at the mug, her expression brightening somewhat as she decides she likes what she smells.-
+[NPC] Aleena: Smells good.
+[NPC Internal] Allelia sent me to bring it up to you.
+[NPC] Aleena: Oh, I see.
+[NPC] Aleena: This must be the new concoction she promised.
+[NPC Narrate] -Aleena lifts the mug and takes a cautious sip.-
+[NPC] Aleena: Hmm, not bad, not bad at all.
+[NPC Narrate] -Aleena tries the drink again.-
+[NPC] Aleena: Yes, I like it.
+[NPC Narrate] -Aleena makes a small smile and flips a hexa to you.-
+[NPC] Aleena: Thanks for delivering it.
+
+[To] Allelia Symiestra
+
+[NPC Internal] Aleena liked the drink.
+[NPC] Allelia: Really?
+[NPC] Allelia: Lovely!
+[NPC Narrate] -Allelia smiles happily.-
+[NPC] Allelia: Maybe I'll have some other folk try it and if enough of them like it, I can add it to the menu.
+[NPC] Allelia: Thank you for taking that to her, Madam!
+[NPC Internal] I know you are part of a sort of association or guild called the Food Association.
+[NPC] Allelia: Yes!
+[NPC] Allelia: It's an alliance between all the people working on the food business here in Hydlaa.
+[NPC] Allelia: We very frequently share knowledge and resources as well if the times are bad.
+[NPC Internal] Can you point me to other members of the association?
+[NPC] Allelia: Not everyone selling or working with food is a member, but the majority are.
+[NPC] Allelia: Archilaya Gurpleferd is a baker over at the arena.
+[NPC] Allelia: In fact, I think she has a delivery for us.
+[NPC] Allelia: Plus, if you help her out, she might be inclined to teach you how to cook if you're interested.
+[NPC] Allelia: She will train you as well.
+[NPC] Allelia: You've already met Jomed upstairs…he's a great cook and trainer, too.
+[NPC] Allelia: I think everyone should have at least a little cooking or baking experience.
+[NPC] Allelia: Later, you might also want to speak with Burdess Quirain or Mirra Houphen.
+[NPC Narrate] -Allelia smiles at you as she speaks.-
+[NPC] Allelia: Now let me give you these for helping me.
+[NPC Narrate] -Allelia slides some Tria across the bar to you.-
+[NPC] Allelia: There you are.
+[NPC] Allelia: Have a wonderful day!
+
+[Reward] [Money] 1347; [XP] 9400; [Faction] 10, Food Association

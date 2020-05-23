@@ -1,0 +1,39 @@
+[Questname] Paper for Charisa
+[NPC Name] Charisa Malod
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Money] 150
+
+[To] Charisa Malod
+
+[NPC Internal] May I assist you my lady?
+[NPC Narrate] -Charisa appears absent-minded as you speak to her.-
+[NPC] Charisa: Oh, sorry.
+[NPC] Charisa: I was thinking about my beloved husband.
+[NPC Narrate] -Charisa wipes a single tear from her cheek with a delicate handkerchief.-
+[NPC] Charisa: Can you do something for me?
+[NPC Internal] I would be happy to help ease your distress.
+[NPC Narrate] -Charisa smiles sweetly at you.-
+[NPC] Charisa: That is nice of you, thank you.
+[NPC] Charisa: If you could get me some ink and paper so I could write him a letter?
+[NPC] Charisa: I seem to have run short.
+[NPC] Charisa: Three lots should be sufficient.
+
+[To] Jayose
+
+[NPC Internal] I need some ink and paper to send a letter, three lots please.
+[NPC] Jayose: Give me a hundred and fifty trias, and you shall have your three lots.
+[NPC Internal] A hundred and fifty you say? I think it is a fair price.
+[NPC] Jayose: Very well, give me a moment.
+[NPC Narrate] -Jayose takes some sheets of paper from a near pile, then opens a drawer and picks up the ink.-
+[NPC] Jayose: Here is the ink and paper, as requested.
+
+[To] Charisa Malod
+
+[NPC Internal] Here, now you can send your husband a lovely letter.
+[NPC Narrate] -Charisa's eyes brighten.-
+[NPC] Charisa: Thank you so much!
+[NPC] Charisa: I can not wait to write to him again!
+[NPC] Charisa: Please, take some reagents for your kindness.

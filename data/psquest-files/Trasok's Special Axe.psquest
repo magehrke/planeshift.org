@@ -1,0 +1,34 @@
+[Questname] Trasok's Special Axe
+[NPC Name] Trasok Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Teeth for Trasok; [Item] 1, Small Battle Axe; [Item] 2, Coamti Blood
+
+[To] Trasok Starhammer
+
+[NPC Internal] I'm here for the small battle axe you asked me to create.
+[NPC] Trasok: Ah, great.
+[NPC] Trasok: Did you manage to make one with the equipment I have upstairs?
+[NPC Internal] Yes! I made it! Maybe you can check if it's good enough.
+[NPC] Trasok: Wow, you are a fast learner!
+[NPC] Trasok: Then please give me the axe, so I can inspect it.
+[NPC Internal] Here it is.
+[NPC Narrate] -Trasok looks at the blade resting on his anvil with an expert eye, then hits it with a hammer and listens to the sound it makes.-
+[NPC] Trasok: Not too bad!
+[NPC] Trasok: You still have a long way to be an expert crafter, but it's great to see you making progress!
+[NPC] Trasok: Congratulations.
+[NPC Internal] How is your axe project proceeding?
+[NPC] Trasok: Good you asked.
+[NPC] Trasok: My friend used your Tefusang teeth and said those were very useful, but looks like few other pieces are missing.
+[NPC] Trasok: I know it's risky to chase and kill monsters, I really would do it myself but i don't like leaving my shop empty, so I have to rely on your help here.
+[NPC] Trasok: The next thing, and hopefully last thing I need are two vials of Coamti blood.
+[NPC] Trasok: Those will be used in the process of hardening the weapon.
+[NPC] Trasok: Please get those to me and I will reward you well!
+[NPC Internal] Coamti are quite rare! But I managed to find what you asked.
+[NPC] Trasok: Great!
+[NPC] Trasok: Just in time, my wizard friend will be visiting in few hours.
+[NPC] Trasok: Thanks for all your help, here is your reward.
+
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Smith Association
+

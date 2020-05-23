@@ -1,0 +1,72 @@
+[Questname] Knowledge and Practical of the Crystal Way Master
+[NPC Name] Govell Mihdren
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Crystal Way Master Training; [Item] 1, Master's Crystal Way Wand; [Item] 1, Adept's Crystal Way Bracers; [Skill] 130, Crystal Way; [Item] 1, Life glyph; [Item] 1, Crystal glyph; [Item] 1, Energy glyph; [Item] 1, Light glyph; [Item] 1, Sight glyph
+
+[Info] You get the glyphs back.
+
+[To] Govell Mihdren
+
+[NPC Internal] Please except my Way Wand as proof of being a student.
+[NPC] Govell: YOU!
+[NPC Narrate] -Govell gives you a warm smile.-
+[NPC] Govell: You have made amazing progress.
+[NPC] Govell: Although Practice is good, without the right knowledge it will go to waste.
+[NPC Narrate] -Govell tugs on his robes.-
+[NPC] Govell: It for this reason that I decided to share some Glyph Magic secrets with you.
+[NPC] Govell: Give me your Life Glyph.
+[NPC Internal] Here it is.
+[NPC Narrate] -Govell begins purifying it as he speaks.-
+[NPC] Govell: Now give me your Crystal Glyph.
+[NPC Internal] Here it is.
+[NPC Narrate] -Govell repeats the purifying on the glyph.-
+[NPC] Govell: Finally, give me your Energy Glyph.
+[NPC Internal] Here it is.
+[NPC Narrate] -Govell purifies it the same as the others.-
+[NPC] Govell: We will just wait a short while while cleansing completes.
+[NPC Narrate] -Govell looks at the three glyphs and smiles.-
+[NPC] Govell: There, they are purified.
+[NPC] Govell: Now we order them in the correct manner.
+[NPC] Govell: This is the important part, and the hard part.
+[NPC Narrate] -Govell places Life, then Crystal, then Energy and starts a quick ritual.-
+[NPC] Govell: And here it comes.
+[NPC Narrate] -Energy starts flowing from the Crystal and appear to wash over and through Govell and his tattoos starts to shine bright.-
+[NPC] Govell: You have to love the Crystal Way.
+[NPC Narrate] -Govell hands back your glyphs.-
+[NPC] Govell: So that was in the order of Life, Crystal, Energy.
+[NPC] Govell: You can cast it on your self or on a target, give it a try.
+[NPC] Govell: Now, I want you to research the equivalent spell for a group rather than one target.
+[NPC Narrate] -Govell admires his tattoos still glowing brightly.-
+[NPC] Govell: Hand me the glyphs responsible for that spell when you figure it out.
+[NPC Internal] Here they are.
+[NPC Narrate] -Govell nods.-
+[NPC] Govell: Indeed!
+[NPC] Govell: You have done well.
+[NPC Narrate] -Govell hands them back.-
+[NPC] Govell: The Crystal Way has many of these multiple glyph combination spells.
+[NPC] Govell: Many will never discover these spells because of the fact that spells will only reveal themselves if your skill levels are high enough, you learn the order in which they are combined, and a few other factors.
+[NPC] Govell: Even then, they will most likely not reveal themselves the first few times.
+[NPC Narrate] -Govell tattoos starts to fade again slightly, and his face grows sad.-
+[NPC] Govell: I have the greatest of all glyph mages to thank for teaching me that.
+[NPC] Govell: Most of the Archmasters alive today have that very same person to thank for our lives.
+[NPC] Govell: I am not talking about being cast into the trials of the Death Realm; I speak of the True Death.
+[NPC] Govell: Ah, but that is a story for another time.
+[NPC] Govell: I don't think you are quite ready for such a tale.
+[NPC Narrate] -Govell holds out his hand.-
+[NPC] Govell: Your bracers please.
+[NPC Internal] My Adept's Bracers as requested.
+[NPC Narrate] -Govell in return hands you another.-
+[NPC] Govell: Gilayall, go out and finalize your Crystal Way training.
+[NPC] Govell: Only once you reach your limit will I give you your final test.
+[NPC] Govell: Handing me your wand as per usual will indicate your readiness.
+[NPC] Govell: However, it is not going to be so easy this time.
+[NPC] Govell: If you recall, I mentioned some time ago that you should mingle with practitioners of the two Ways that support your own.
+[NPC] Govell: I need for you to also bring me one Master's Set of Bracers from each of those two Ways, and give all three to me all at once.
+[NPC] Govell: So, you will bring me your own wand, and one Master's Bracer from the Blue and Azure Ways.
+[NPC] Govell: This is to prove you have gained respect and support from the Circles that support your own.
+[NPC] Govell: Good luck.
+
+[Reward] [XP] 19200; [Item] 1, Master's Crystal Way Bracers; [Faction] 45, Crystal Order
+

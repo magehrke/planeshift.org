@@ -1,0 +1,97 @@
+[Questname] The Blue Way Master
+[NPC Name] Barrin Dhorod
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge and Practical of the Blue Way Master; [Item] 1, Master's Blue Way Wand; [Item] 1, Master's Brown Way Bracers; [Item] 1, Master's Crystal Way Bracers; [Skill] 150, Blue Way; [Item] 1, Adept's Blue Way Robe
+
+[To] Barrin Dhorod
+
+[NPC Internal] The Bracers as requested, sir.
+[NPC] Barrin: Dedication and perseverance gave you wisdom.
+[NPC] Barrin: You have reached a point where I can give you no more.
+[NPC] Barrin: Only the world now can teach you more lessons.
+[NPC] Barrin: You are a full Master of the Blue Way.
+[NPC Narrate] -Barrin takes the Brown Way bracers and examines them carefully. Then he nods, slowly.-
+[NPC] Barrin: I chose to become a mage because I heard many stories.
+[NPC] Barrin: Tales about the greatest Blue Way Master ever lived.
+[NPC] Barrin: You know?
+[NPC] Barrin: Sometimes I think about what I'd become otherwise.
+[NPC Narrate] -Barrin takes a long and slow breath, before giving you back the items.-
+[NPC] Barrin: Return these to their owners, as soon as you can.
+[NPC] Barrin: They will need them.
+[NPC] Barrin: Give me your last Adept item, please.
+[NPC Internal] My robe as requested, sir.
+[NPC Narrate] -Barrin folds the robe, while his eyes look in yours.-
+[NPC] Barrin: As a Master of the Blue Circle you are allowed to learn about our history and our secrets.
+[NPC] Barrin: Are you interested to hear them?
+[NPC Internal] Yes, please.
+[NPC] Barrin: Very well.
+[NPC] Barrin: I was sure of your interest.
+[NPC] Barrin: Would you like to talk about our history?
+[NPC Narrate] -Barrin half closes his eyes-
+[NPC] Barrin: …
+[NPC] Barrin: or about our secrets?
+[NPC Internal] Tell me about the secrets.
+[NPC] Barrin: The secrets I want to tell are for your ears, and for very few others.
+[NPC] Barrin: Only people who proved themselves can manage to keep a secret like the one I'm going to tell you.
+[NPC] Barrin: The danger in it can harm many lives, not only your own.
+[NPC] Barrin: So you are allowed to discuss them only with the highest levels of the Circles.
+[NPC] Barrin: Full masters of every Way.
+[NPC Narrate] -Barrin pauses, looking in your eyes.-
+[NPC] Barrin: The texts in the Sanctuary hold knowledge about all the Ways, about artifacts of power…
+[NPC] Barrin: And it contains the complete version of this secret too.
+[NPC] Barrin: The position, even the existence of the Sanctuary, is closed to the citizen.
+[NPC] Barrin: Secrets hidden in other secrets.
+[NPC] Barrin: I need your word.
+[NPC] Barrin: Tell me you will never share this knowledge outside the Masters of the Circles.
+[NPC Internal] Yes, sir.
+[NPC] Barrin: The first secret is the Seventh Way.
+[NPC] Barrin: Until now I assume you know only six Ways, but there is a Seventh.
+[NPC] Barrin: The Seventh is the essence of all the other Ways, but is also none of them.
+[NPC] Barrin: It is magic without the glyphs created by Talad.
+[NPC] Barrin: This is 'Wild' magic, something outside the rules of the gods.
+[NPC] Barrin: Diaboli used it, since they are the only race who cast magic before arriving in Yliakum.
+[NPC Narrate] -The tone of Barrin grows stern.-
+[NPC] Barrin: Be careful, and pay special attention to my next words.
+[NPC] Barrin: Your level of power will give you sense of the existence of the Seventh Way.
+[NPC] Barrin: Temptation will strike you.
+[NPC] Barrin: And you have to fight it.
+[NPC] Barrin: Otherwise 'Wild' magic will wipe out your very soul.
+[NPC] Barrin: You will be put to True Death if the Seventh Way does not destroy you first.
+[NPC] Barrin: Is this understood?
+[NPC Internal] Yes, Sir.
+[NPC] Barrin: The dangers of the Seventh Way go beyond your imagination.
+[NPC] Barrin: Two mages have attempted to master it up until today, and they suffered a fate I would wish on no one.
+[NPC Narrate] -Barrin pauses, his gaze is firm.-
+[NPC] Barrin: Now, I have to tell you about another hidden knowledge.
+[NPC] Barrin: Something not even I wish to know, a threat to existence itself.
+[NPC] Barrin: The Circles, especially the Masters, are fighting a war against this Dark entity.
+[NPC] Barrin: These battles are hidden to the eye of the people of Yliakum, but you have to know.
+[NPC] Barrin: Our enemy is called the BlackFlame.
+[NPC] Barrin: Have you ever heard about it?
+[NPC Internal] Not even a clue.
+[NPC] Barrin: I wish to fill the pool of your knowledge.
+[NPC] Barrin: None knows for sure what is the BlackFlame.
+[NPC] Barrin: Someone supposes it is a god.
+[NPC] Barrin: While others assume it is a force of destruction.
+[NPC] Barrin: I have not the answer to what is the BlackFlame, but I can say that its touch infects and deprives the creations of the other Ways.
+[NPC] Barrin: Your path will surely teach you more about this, maybe it will grant you access to the Vault of Ages in Arden.
+[NPC] Barrin: Even I had that privilege only once.
+[NPC] Barrin: I was allowed to catch a glimpse of what is kept in the Vault of Ages, no more.
+[NPC] Barrin: That day I discovered…
+[NPC Narrate] -Barrin closes his eyes for some second.-
+[NPC] Barrin: Much of the past is hidden, and I did not know why, until my visit in Arden.
+[NPC Narrate] -Barrin takes a long breath.-
+[NPC] Barrin: You will understand, for yourself.
+[NPC] Barrin: Not today, but when your time will come.
+[NPC] Barrin: Well then, one last formality.
+[NPC Narrate] -Barrin puts away the old robe and opens a sack, taking out a new robe. He offers it to you.-
+[NPC] Barrin: This will prove the mastery you gained in the Blue Way.
+[NPC] Barrin: Make a good use of it, Daceane.
+[NPC] Barrin: And take this.
+[NPC Narrate] -Barrin hands you an amulet.-
+[NPC] Barrin: Bring it to Levrus, one final lesson awaits you there.
+
+[Reward] [XP] 20600; [Item] 1, Master's Blue Way Robe; [Item] 1, Master of Ways Amulet; [Faction] 50, Blue Order
+

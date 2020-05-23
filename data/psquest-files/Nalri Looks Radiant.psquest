@@ -1,0 +1,235 @@
+[Questname] Nalri Looks Radiant
+[NPC Name] Nalri Grimtorr
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning Shield Working
+
+[To] Nalri Grimtorr
+
+[NPC Internal] You look radiant.
+[NPC Narrate] -Nalri smiles and blushes a bit, which makes her glow even more.-
+[NPC] Nalri: Oh, you're too kind.
+[NPC Internal] No, I mean you're actually glowing. What happened?
+[NPC] Nalri: Hmm, actually you're not the first to tell me that.
+[NPC] Nalri: I'm not sure what's going on.
+[NPC] Nalri: Do you want to help me figure it out?
+[NPC Internal] Sure, I'll help.
+[NPC Narrate] -Nalri smiles.-
+[NPC] Nalri: Great!
+[NPC] Nalri: I just can't figure out why this is happening.
+[NPC] Nalri: Do you have any ideas?
+[NPC Internal] Is it magic?
+[NPC] Nalri: You think someone has cast a spell on me?
+[NPC] Nalri: Who would do such a thing?
+[NPC Internal] Have you had any disagreements with anyone recently?
+[NPC] Nalri: No, I've gotten along with every…
+[NPC Narrate] -Nalri pauses as she considers something.-
+[NPC] Nalri: Wait.
+[NPC] Nalri: It couldn't be…
+[NPC] Nalri: He wouldn't…
+[NPC] Nalri: I had some harsh dealings with Narwin Molstagh not too long ago.
+[NPC] Nalri: I won't go into details, but I thought we had smoothed things over.
+[NPC] Nalri: Maybe you can discretely ask him if he is still angry with me and if he had taken steps to get even.
+[NPC Narrate] -Nalri pauses in thought again.-
+[NPC] Nalri: In fact, he owes me some gear.
+[NPC] Nalri: See what you can get from him and pick up my order for me.
+[NPC] Nalri: Then we can test it to see if there is any magic associated with it.
+
+[To] Narwin Molstagh
+
+[NPC Internal] Nalri sent me to get her gear.
+[NPC Narrate] -Narwin briefly shows fear on his face but quickly collects himself.-
+[NPC] Narwin: What does the wh – um, wench want?
+[NPC] Narwin: Oh, yes, I do have something for her.
+[NPC] Narwin: Hold on.
+[NPC Narrate] -Narwin reaches in a bag and pulls out a package loosely wrapped in cloth.-
+[NPC] Narwin: These are the shield parts she requested.
+[NPC Narrate] -Narwin Molstagh hands you the package.-
+[NPC] Narwin: Here you go.
+[NPC Internal] So, umm, have you been working with magic lately?
+[NPC Narrate] -Narwin looks up and raises his eyebrows.-
+[NPC] Narwin: Hmm?
+[NPC] Narwin: Magic?
+[NPC] Narwin: No, I don't use the art of magic meself.
+[NPC] Narwin: Why do you ask?
+[NPC Internal] Seems someone has cast magic on Nalri.
+[NPC Narrate] -Narwin Molstagh looks alarmed.-
+[NPC] Narwin: Well it wasn't me.
+[NPC] Narwin: Look, I have enough troubles so I don't need to go lookin' for any with – her.
+[NPC] Narwin: We've had our differences but we're square now.
+
+[To] Nalri Grimtorr
+
+[NPC Internal] Have you been doing anything else new recently?
+[NPC] Nalri: Aha, well, yes, I have been expanding my skills recently and working on these shields.
+[NPC] Nalri: They are called radiant shields.
+[NPC] Nalri: I can explain the process if you like.
+[NPC Internal] Yes, I'd like to hear how it's done.
+[NPC] Nalri: First we need the following items: A shield handle, six bronze bands, a bronze circle, a round shield shape, and either a round wooden shield core or a wicker shield core.
+[NPC] Nalri: You can buy those cores from a merchant.
+[NPC] Nalri: Gardr in Gugrontid sells some, I believe.
+[NPC] Nalri: Then you just put all of them together to make a radiant shield kit and use a riveter to assemble it.
+[NPC] Nalri: You'll need a good amount of skill in both shield making and blacksmithing to be able to make everything.
+[NPC] Nalri: About fifteen lessons or so in each should do.
+[NPC Internal] Maybe one of those items has magic energy?
+[NPC] Nalri: Hmm, could be.
+[NPC] Nalri: The ingots for the items I used should be fine, I smelted those myself.
+[NPC] Nalri: Here, take these to Levrus and see if he can detect any magic properties.
+[NPC] Nalri: These are bands made from seven bronze ingots.
+[NPC Narrate] -Nalri hands you three bronze shield bands.-
+[NPC] Nalri: Well this is three bands, but you'd need six to make the shield.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Can you check these bands for magic properties?
+[NPC Narrate] -Levrus attention is elsewhere as he closes his eyes and mutters something, waving his hand over a small decorative box.-
+[NPC Narrate] -Suddenly it begins to glow bright blue.-
+[NPC Narrate] -Levrus opens the box and a plume of smoke rises up into his face.-
+[NPC] Levrus: Hmm?
+[NPC] Levrus: Oh, I'm sorry.
+[NPC] Levrus: That shouldn't have happened.
+[NPC] Levrus: Oh well, I will try again later.
+[NPC Narrate] -Levrus looks at you.-
+[NPC] Levrus: Magic properties you say?
+[NPC] Levrus: Let's take a look.
+[NPC Narrate] -Levrus takes the bronze bands and slowly examines each one, holding them right up to his eyes, shaking them, and even smelling them.-
+[NPC Narrate] -He then takes one and licks it.-
+[NPC] Levrus: Yep, there's magic in there alright.
+[NPC Narrate] -He chants something, waving his hands over them.-
+[NPC Narrate] -The bands begin to vibrate and glow bright red.-
+[NPC] Levrus: Red way it seems.
+[NPC] Levrus: These should be handled with much care.
+[NPC] Levrus: I'm not sure what might happen with long exposure.
+[NPC Narrate] -Levrus rubs dry the band he licked and hands all of them back to you casually.-
+[NPC Internal] They seem to be making Nalri glow.
+[NPC Narrate] -Levrus chuckles.-
+[NPC] Levrus: Well, I suppose if that's all this is, it's not too bad.
+[NPC] Levrus: Perhaps even helpful if going to dark places.
+[NPC] Levrus: It doesn't sound like it does much harm otherwise.
+[NPC] Levrus: The effects should wear off after spending some time away from the affected items.
+[NPC] Levrus: If you like, I can remove their magic for you.
+[NPC Internal] No thanks, I'll bring these back to Nalri.
+[NPC] Levrus: Very well.
+[NPC] Levrus: You can tell this Nalri to see me and I'll remove the magic energy from all the items she has.
+[NPC] Levrus: Herself too.
+[NPC Narrate] -Levrus smiles, gives you back the bronze bands, and turns his attention once again to the ornate box.-
+[NPC] Levrus: Now, what are we going to do with you?
+
+[To] Nalri Grimtorr
+
+[NPC Internal] The bands have red way magic.
+[NPC] Nalri: So it's the bands.
+[NPC] Nalri: Hmm, I made them myself.
+[NPC] Nalri: I refined the ore, too.
+[NPC] Nalri: Unless, well, if it's red way, maybe the magic remains even through intense heat.
+[NPC] Nalri: After all, red way is based on the element of fire.
+[NPC] Nalri: I got the ore from…
+[NPC Narrate] -Nalri eyes narrow.-
+[NPC] Nalri: Wait.
+[NPC] Nalri: It couldn't be.
+[NPC] Nalri: He wouldn't.
+[NPC] Nalri: I had some harsh dealings with Narwin Molstagh not too long ago.
+[NPC] Nalri: I won't go into details, but I thought we had smoothed things over.
+[NPC] Nalri: Maybe you can discretely ask him if he is still angry with me and if he has taken steps to get even.
+[NPC Narrate] -Nalri pauses in thought.-
+[NPC] Nalri: In fact, he owes me some gear anyway.
+[NPC] Nalri: I hope that doesn't contain magic, too.
+[NPC] Nalri: See what you can get from him and pick up my order for me.
+[NPC] Nalri: You can find Narwin near the plaza.
+
+[To] Narwin Molstagh
+
+[NPC Internal] Nalri sent me to get her gear.
+[NPC Narrate] -Narwin briefly shows fear on his face but quickly collects himself.-
+[NPC] Narwin: What does the wh – um, wench want?
+[NPC] Narwin: Oh, yes, I do have something for her.
+[NPC] Narwin: Hold on.
+[NPC Narrate] -Narwin reaches in a bag and pulls out a package loosely wrapped in cloth.-
+[NPC] Narwin: These are the shield parts she requested.
+[NPC Narrate] -Narwin hands you the package.-
+[NPC] Narwin: Here you go.
+[NPC Internal] So, umm, have you been working with magic lately?
+[NPC Narrate] -Narwin looks up and raises his eyebrows.-
+[NPC] Narwin: Hmm?
+[NPC] Narwin: Magic?
+[NPC] Narwin: No, I don't use the art of magic meself.
+[NPC] Narwin: Why do you ask?
+[NPC Internal] Seems someone has cast magic on Nalri.
+[NPC Narrate] -Narwin looks alarmed.-
+[NPC] Narwin: Well it wasn't me.
+[NPC] Narwin: Look, I have enough troubles so I don't need to go lookin' for any with – her.
+[NPC] Narwin: We've had our differences but we're square now.
+[NPC] Narwin: So don't be causin' no trouble.
+
+[To] Nalri Grimtorr
+
+[NPC Internal] Your package.
+[NPC Narrate] -Nalri opens the cloth slightly and peeks in.-
+[NPC] Nalri: Yep, looks good.
+[NPC] Nalri: So what did you learn about Narwin?
+[NPC Internal] Narwin says he doesn't deal with magic.
+[NPC] Nalri: Hmm, maybe it wasn't him.
+[NPC Narrate] -Nalri ponders.-
+[NPC] Nalri: Please return to him and see if you can find out where that ore came from.
+[NPC] Nalri: And do apologize on my behalf.
+[NPC] Nalri: I did not mean to accuse him of anything, though he may not be off the hook yet.
+[NPC] Nalri: We shall see.
+
+[To] Narwin Molstagh
+
+[NPC Internal] The ore you gave Nalri has red way magic.
+[NPC Narrate] -Narwin looks up and raises his eyebrows.-
+[NPC] Narwin: What?
+[NPC] Narwin: You know this for sure?
+[NPC] Narwin: Well it wasn't me.
+[NPC] Narwin: Like I said, I don't use magic.
+[NPC] Narwin: I got the ore in a deal with Thorian Gronk.
+[NPC] Narwin: You'll have to ask him where he got it.
+[NPC Internal] Nalri said to apologize. She didn't mean to accuse you.
+[NPC Narrate] -Narwin raises his eyebrows then smiles a bit.-
+[NPC] Narwin: Aww, well that's surprisingly kind of her.
+[NPC] Narwin: I didn't know she had it in her.
+[NPC Narrate] -Narwin grins.-
+[NPC] Narwin: Here, take this shield part.
+[NPC] Narwin: It holds a shield together.
+[NPC] Narwin: You may find a use for it.
+[NPC Narrate] -Narwin hands you a wicker shield core.-
+
+[To] Thorian Gronk
+
+[NPC Internal] You sold Narwin some ore and it contained magic energy.
+[NPC Narrate] -Thorian narrows his eyes.-
+[NPC] Thorian: So?
+[NPC] Thorian: I'm sure it's harmless.
+[NPC] Thorian: The ore is perfectly fine.
+[NPC] Thorian: Why, is someone complaining?
+[NPC Internal] The red way magic is making Nalri Grimtorr glow.
+[NPC Narrate] -Thorian pauses a bit, then chuckles.-
+[NPC] Thorian: Eheheh, sounds like an improvement.
+[NPC] Thorian: Look, here's what happened: I was in a bit of a, umm, time sensitive situation.
+[NPC] Thorian: I had lots of orders for ore, but very little time to get it.
+[NPC] Thorian: There was this Lemur who offered to help.
+[NPC] Thorian: He didn't look like the mining type and he had one of those fancy red way wands, so maybe he blasted it out.
+[NPC] Thorian: I suppose one could use red way magic for that.
+
+[To] Nalri Grimtorr
+
+[NPC Internal] Red way magic was likely used to get the ore. It was not Narwin.
+[NPC] Nalri: I see.
+[NPC] Nalri: Thank you for getting to the bottom of this.
+[NPC] Nalri: I'm glad it was not Narwin.
+[NPC] Nalri: What can I do to make this go away?
+[NPC Internal] You must see Levrus. He will remove the magic for you.
+[NPC] Nalri: Ah wonderful.
+[NPC] Nalri: Thank you so much for your help.
+[NPC] Nalri: Now maybe folks will stop looking at me funny.
+[NPC Narrate] -Nalri smiles.-
+[NPC] Nalri: You know what?
+[NPC] Nalri: I think I have had enough with crafting these shields.
+[NPC] Nalri: Here, take this diagram.
+[NPC] Nalri: Maybe you can make use of it, or know someone who can.
+[NPC Narrate] -Nalri hands you a shield diagram along with some coins.-
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Wicker Shield Core; [Item] 1, Radiant Shield Diagram
+

@@ -1,0 +1,56 @@
+[Questname] Getting to know Mirra
+[NPC Name] Mirra Houphen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Helping Mirra
+
+[To] Mirra Houphen
+
+[NPC Internal] Hi Mirra, why do you look so down?
+[NPC] Mirra: Well…
+[NPC] Mirra: You see…
+[NPC] Mirra: I…
+[NPC] Mirra: I may be a world famous cook as I have stated in the past.
+[NPC] Mirra: However, all I make tends to involve apples.
+[NPC] Mirra: If you want something with apples, I'm your cook.
+[NPC] Mirra: Every time I try to cook something else, whether it be meat or vegetables, it turns out to be a disaster.
+[NPC] Mirra: I want to be a master cook and cook with other foods!
+[NPC] Mirra: My father was a master cook and EVERYONE loved him.
+[NPC] Mirra: He could cook anything and it would taste wonderful.
+[NPC] Mirra: If only I could follow in his footsteps!
+[NPC] Mirra: Would you help me out?
+[NPC Internal] Of course I will help you.
+[NPC] Mirra: You would?
+[NPC] Mirra: Oh that is wonderful!
+[NPC] Mirra: Let's get started on our long road to becoming a master cook then!
+[NPC] Mirra: I'd like to gather some world famous recipes to try!
+[NPC] Mirra: Let's start of with 'Caramel of Kada El'!
+[NPC] Mirra: The tavern's cook should have it.
+
+[To] Jomed Parcen
+
+[NPC Internal] I am looking for the Caramel of Kada El recipe.
+[NPC] Jomed: Aye, ye be talking about me World Famous 'Caramel of Kada El'?
+[NPC Internal] That's correct.
+[NPC] Jomed: Aye, it is bein' time to make me recipe public.
+[NPC] Jomed: I'll give yeh it for a smile an, oh let's be callin' it fifty tria.
+[NPC] Jomed: Is that fair?
+[NPC Internal] Sounds like a fair price.
+[NPC] Jomed: Aye, I'll no' be cheating ye for me recipe.
+[NPC] Jomed: All ye need do is pay fer it, and I'll be handin' it over to yeh.
+[NPC Internal] [You pays Jomed the tria.]
+[NPC] Jomed: Thank yeh, I be a man o' me word, here it be, the recipe for me 'Caramel of Kada El'
+
+[To] Mirra Houphen
+
+[NPC Internal] YOU gives Mirra the recipe.
+[NPC] Mirra: Hooray!
+[NPC] Mirra: That's it!
+[NPC] Mirra: Wonderful!
+[NPC] Mirra: I must try this out at once.
+[NPC] Mirra: I will be busy for some time with all those recipes, but surely there's more for us to do in the future, come to visit me again.
+[NPC] Mirra: Take these as a reward.
+
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Food Association
+

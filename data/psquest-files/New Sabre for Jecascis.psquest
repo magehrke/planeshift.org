@@ -1,0 +1,66 @@
+[Questname] New Sabre for Jecascis
+[NPC Name] Jecascis Airiskel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Jecascis wants a ruby; [Item] 1, Sabre Blade; [Item] 1, Sword Handle
+
+[To] Jecascis Airiskel
+
+[NPC Internal] Hi, may I do anything for you?
+[NPC Narrate] -Jecascis looks at you with a slight smile.-
+[NPC] Jecascis: Sure.
+[NPC] Jecascis: As I've already told you the last time you've helped me, I like improving my skills in the Arena…
+[NPC] Jecascis: So, I'd like to try a new weapon.
+[NPC] Jecascis: I see many go around the arena with sabres, so why not asking someone to make me one?
+[NPC] Jecascis: As you were able to find for me something I couldn't last time, and I'm still in duty, I'm sure it will be a joke for you to find me a crafter to make me a pair of those!
+[NPC] Jecascis: Maybe I'm even so lucky that you are actually one!
+[NPC Narrate] -Jecascis does a broad smile.-
+[NPC] Jecascis: So, what do you say good Enkidukai?
+[NPC] Jecascis: Will you help me?
+[NPC Internal] Yes, Sure. I've just in mind who might be able to make you one.
+[NPC] Jecascis: Oh, great.
+[NPC] Jecascis: Then, ask this person you know to make me one.
+[NPC Narrate] -Jecascis looks on the floor and just one second after looks again at you.-
+[NPC] Jecascis: Oh, one last thing…
+[NPC] Jecascis: I'd like to see the quality of the blade and of the handle before it's assembled!
+[NPC] Jecascis: I hope that person won't mind about this.
+[NPC Narrate] -Jecascis smiles.-
+[NPC] Jecascis: So…
+[NPC] Jecascis: I'm looking forward for your return.
+[NPC Internal] Here you are what you wanted to see.
+[NPC] Jecascis: Sorry, good Enkidukai, but I can't see the blade and the handle where are they?
+[NPC] Jecascis: It's enough if you hold them in your hands, so I can have a look.
+[NPC Internal] Here you are what you wanted to see.
+[NPC Narrate] -Jecascis looks with attention to the handle and the blade you are holding.-
+[NPC] Jecascis: Alright.
+[NPC] Jecascis: They seem to look fine…
+[NPC] Jecascis: Thanks good Enkidukai for allowing me to see them.
+[NPC] Jecascis: Then, I will be waiting your return with those pieces assembled!
+[NPC] Jecascis: Please try to be fast!
+[NPC] Jecascis: I'd like to try it as soon as I'm off duty.
+[NPC] Jecascis: I really can't wait to have my new sabre in my hand!
+[NPC Narrate] -Jecascis smiles and waves at you.-
+[NPC] Jecascis: I hope you'll be back soon!
+[NPC Internal] Here you are the sabre you have requested.
+[NPC Narrate] -Jecascis takes the sabre and looks with attention at it.-
+[NPC] Jecascis: It looks good…
+[NPC] Jecascis: let's see…
+[NPC Narrate] -Jecascis brandishes the sabre and swings it.-
+[NPC] Jecascis: It seems to work also fine.
+[NPC] Jecascis: Thank you ever so much!
+[NPC] Jecascis: I'm really looking forward to try it on the arena ground as soon as I'm off duty!
+[NPC] Jecascis: Talking about arena ground…
+[NPC] Jecascis: Just the other day I've found this book.
+[NPC Narrate] -Jecascis takes out a book and shows it to you.-
+[NPC] Jecascis: It seems to say something about making some swords.
+[NPC] Jecascis: As you have helped me a lot, I'd like to donate it to you.
+[NPC] Jecascis: Maybe it could be helpful to you…
+[NPC Narrate] -Jecascis takes out some circles.-
+[NPC] Jecascis: In addition, I will also give you some circles for your great work.
+[NPC Narrate] -Jecascis waves at you.-
+[NPC] Jecascis: Farewell good Enkidukai.
+[NPC Narrate] -Jecascis diverts his attention from you and looks at his new sabre with a broad smile.-
+
+[Reward] [Money] 12500; [XP] 6000; [Item] 1, Superior Sword Parchment
+

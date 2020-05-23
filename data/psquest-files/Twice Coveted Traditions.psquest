@@ -1,0 +1,50 @@
+[Questname] Twice Coveted Traditions
+[NPC Name] Relliom
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Coveted Traditions; [Special] Complete Relliom's quest by giving the Jade Enkidukai Figurine to Hirenn
+
+[To] Relliom
+
+[NPC Internal] Is there something else I can do?
+[NPC] Relliom: I must say I am slightly disappointed in your actions.
+[NPC] Relliom: Not at all what I expected.
+[NPC] Relliom: But in light of my forgiving nature, I feel moved to offer you another chance.
+[NPC] Relliom: Do you wish to accept my kindness?
+[NPC Internal] Yes.
+[NPC Narrate] -Relliom smiles, a slight flare around his cold eyes.-
+[NPC] Relliom: Edrich Sultov has another figurine I need delivered.
+[NPC] Relliom: Go and tell him you are there to pick up that delivery.
+[NPC] Relliom: I know what you did with that item last time.
+[NPC] Relliom: I trust your judgment to be in line with my will.
+[NPC] Relliom: The birds will surely sing if you please me.
+
+[To] Edrich Sultov
+
+[NPC Internal] I was sent to pick the delivery.
+[NPC Narrate] -Edrich nods in understanding.-
+[NPC] Edrich: It is odd that another figurine arrived for Relliom so soon.
+[NPC] Edrich: It was rushed to me just moments before you came.
+[NPC] Edrich: There must be a lot of those Enkidukai ceremonies going on.
+[NPC] Edrich: Please take it to Hirenn Darmeth in Ojaveda again.
+[NPC Narrate] -Edrich pauses, looking uncertain.-
+[NPC] Edrich: Ervin Fromaad dropped by not too long ago as well.
+[NPC] Edrich: He doubled his offer if I could get him one of those figurines.
+[NPC] Edrich: But I am an honest man.
+[NPC] Edrich: I am sure you are just as honest.
+[NPC] Edrich: It seems Relliom almost always sends a new face every time he wants one of these sent.
+[NPC] Edrich: It makes me wonder.
+[NPC] Edrich: Never mind me.
+[NPC] Edrich: Just a touch fretful paranoid, I suppose.
+[NPC] Edrich: Be careful on your way to Ojaveda.
+
+[To] Ervin Fromaad
+
+[NPC Internal] gives Ervin the jade enkidukai figurine.
+[NPC Narrate] -Ervin drops the figurine unceremoniously in a pocket.-
+[NPC] Ervin: I seem to be short of tria today, but I think this should more than cover the expenses.
+[NPC Narrate] -Ervin smirks and hands you a familiar-looking note.-
+
+[Reward] [XP] 12200; [Item] 1, Bird Note; [Faction] 20, Cabal of Whispers
+

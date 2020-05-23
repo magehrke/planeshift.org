@@ -1,0 +1,108 @@
+[Questname] Govell Mihdren Needs Tattoo Ink
+[NPC Name] Govell Mihdren
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Know the Crystal Way; [Item] 1, Iron Ore; [Item] 2, Diamond Crystals
+
+[To] Govell Mihdren
+
+[NPC Internal] I wish to learn more from you. Is there anything you need?
+[NPC] Govell: Ah, it is my Enkidukai acquaintance who wishes to follow the path of the Crystal Way.
+[NPC] Govell: It is not all about magic, however.
+[NPC] Govell: Could you run an errand for me?
+[NPC Internal] Of course I will!
+[NPC] Govell: Good.
+[NPC] Govell: I require some more tattoo ink.
+[NPC Narrate] -Govell points to the tattoo of a crystal on his arm.-
+[NPC] Govell: All members of the Order of the Crystal Way get tattoos to show their devotion.
+[NPC] Govell: Levrus Dahrenn knows how to make the ink.
+[NPC] Govell: Make haste to his shop and let him know that I need some more tattoo ink.
+[NPC] Govell: You should look for me around here if you need me.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I'm looking to get some tattoo ink. An associate told me you might have some.
+[NPC] Levrus: I usually have tattoo ink available but I dropped my last batch yesterday and it ruined a perfectly good robe.
+[NPC Narrate] -Levrus Dahrenn frowns a bit as he remembers it.-
+[NPC] Levrus: Anywhoo…
+[NPC] Levrus: If you can get me the ingredients, I'll give you a fresh bottle for free.
+[NPC] Levrus: Does that sound all right?
+[NPC Internal] You have a deal.
+[NPC Narrate] -Levurs claps his hands together and a puff of dust come off them.-
+[NPC] Levrus: Great, this is what I need, you better write it down.
+[NPC] Levrus: One clump of iron ore to produce iron salts.
+[NPC] Levrus: One bottle of tannin.
+[NPC] Levrus: Some green dye.
+[NPC] Levrus: And last and least powdered diamond crystal, fresh powdered diamond crystal.
+[NPC] Levrus: If you don't know where to find them, you should ask me about any of the ingredients.
+
+[To] Ondren Torr
+
+[NPC Internal] Could you provide me with some powdered diamond crystal?
+[NPC] Ondren: Making diamond dust is simple for me with my equipment.
+[NPC] Ondren: I already have plenty of powder made.
+[NPC] Ondren: If you give me two diamond crystals, and I will swap it for the powder.
+[NPC Internal] Here are the two Diamond crystals.
+[NPC] Ondren: Oh, thank you.
+[NPC Narrate] -Ondren tosses one of the crystals into his mouth and begins crunching it.-
+[NPC] Ondren: I have a bag of powdered diamond ready for you.
+[NPC] Ondren: Thank you for the snack.
+[NPC] Ondren: Here you go.
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] I have heard that you sell tannin. May I purchase some from you?
+[NPC] Jeyarp: My wife handles requests of that sort.
+[NPC] Jeyarp: Please ask her.
+
+[To] Gayla Grotemey
+
+[NPC Internal] Jeyarp said you're responsible for tannin sales. Can I buy some from you?
+[NPC Narrate] -Gayla smiles at you.-
+[NPC] Gayla: Yes, of course you can.
+[NPC] Gayla: Bottles of tannin are fifty tria each.
+[NPC Internal] The coins clink together as YOU hands them to Gayla.
+[NPC Narrate] -Gayla Grotemey turns round and searches though a few sacks before pulling out a small bottle and turning back to face you.-
+[NPC Narrate] -She then hands you the bottle.-
+[NPC] Gayla: One bottle of tannin, as requested.
+[NPC] Gayla: Come back if you have any problems with it.
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] Do you have any extra green dye for sale?
+[NPC] Brintec: Green dye is hard to come by these days, what with the Mills area inaccessible.
+[NPC] Brintec: I can't let it go for any less than one hundred and fifty tria.
+[NPC Internal] Here is the Tria.
+[NPC Narrate] -Brintec takes the coins and counts them.-
+[NPC] Brintec: Perfect.
+[NPC] Brintec: Another bargain struck and here you are.
+[NPC Narrate] -He turns round and picks up a small bottle before handing it to you.-
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I have collected all the ingredients you requested.
+[NPC] Levrus: I'll be back with you shortly.
+[NPC Narrate] -Levrus takes the ingredients and turns towards his workbench.-
+[NPC Narrate] -Puffs of black and orange smoke and a foul smell start to fill his shop.-
+[NPC Narrate] -He turns back to you with a smile on his face.-
+[NPC] Levrus: Success!
+[NPC] Levrus: This will keep me stocked in tattoo ink for some time.
+[NPC] Levrus: Here's your fresh, Levrus approved, bottle as a reward.
+
+[To] Govell Mihdren
+
+[NPC Internal] Here's one bottle of freshly-made tattoo ink.
+[NPC Narrate] -Govell holds the bottle up and inspects it.-
+[NPC] Govell: Nice job, this will do perfectly.
+[NPC] Govell: I hope it wasn't too much trouble.
+[NPC Narrate] -Govell puts his free hand into his pocket and take out a small ring.-
+[NPC] Govell: Take this.
+[NPC Narrate] -He passes the ring to you.-
+[NPC] Govell: That ring has been enchanted to improve its wearer's ability with Crystal Way magic.
+[NPC] Govell: You should take it, along with any Crystal Way glyphs you might have to Levrus and learn and practice everything he is willing to teach you.
+[NPC] Govell: Once you have completed your studies with him in the Crystal Way, you should proceed to Sharven and show him your Crystal Way Wand and he will being your teachings in the Crystal Way.
+[NPC] Govell: I look forward to seeing you again soon, YOU.
+
+[Reward] [XP] 9400; [Item] 1, Crystal Ring; [Faction] 20, Crystal Order
+

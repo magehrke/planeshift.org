@@ -1,0 +1,101 @@
+[Questname] A Mysterious Disease
+[NPC Name] Quasus Adyum
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Little White Lies
+
+[To] Quasus Adyum
+
+[NPC Internal] I was wondering if you had any jobs that you needed done?
+[NPC Narrate] -Quasus stares deep into your eyes for a moment before speaking.-
+[NPC] Quasus: I will tell you a story, my child.
+[NPC Narrate] -Quasus motions for you to sit near kra.-
+[NPC] Quasus: In the early days of the Octarchy, a retiring general was asked by his commanding Vigesimi to find a suitable replacement for himself.
+[NPC] Quasus: To the Vigesimi's great confusion, the general chose his worst enemy as his successor.
+[NPC] Quasus: When queried about his decision, the general explained that he was asked to find the most suitable person for the job, not someone whom he liked personally.
+[NPC Narrate] -Quasus again looks silently into your eyes.-
+[NPC] Quasus: Now…
+[NPC] Quasus: you want to do something for me, yes?
+[NPC] Quasus: Well you have arrived at an appropriate time.
+[NPC] Quasus: A friend of Talad has been struck by a rare and life-threatening disease.
+[NPC] Quasus: His best chance of survival lies with a Xacha known as Vladovic Chel-Astra who resides in Ojaveda.
+[NPC] Quasus: Will you help save a life?
+[NPC Internal] Of course, I can't stand by and not doing anything after hearing that.
+[NPC] Quasus: Then take this letter straight to Vladovic and please, show expediency…
+[NPC] Quasus: for the life of another rests in your hands.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Quasus sent me to give you this letter, it is most urgent.
+[NPC] Vladovic: What's this?
+[NPC Narrate] -Vladovic turns the letter over in his hands before carefully opening it.-
+[NPC] Vladovic: I see..
+[NPC] Vladovic: yes…
+[NPC] Vladovic: I have heard of this condition before.
+[NPC] Vladovic: It is becoming more common amongst those returning from the Stone Labyrinths.
+[NPC] Vladovic: I have a potion here that may help.
+[NPC] Vladovic: It is quite expensive though; six hundred tria actually.
+[NPC Narrate] -Vladovic eyes widen suddenly.-
+[NPC] Vladovic: Oh my!
+[NPC] Vladovic: I've just remembered, I need to get this package up to the Shadowcasters at the Eagle Bronze Doors.
+[NPC] Vladovic: It is of the utmost importance: I risk breaching my contract and losing thousands of tria if it is not delivered on time.
+[NPC] Vladovic: If you deliver it for me immediately, on your return I will pay you one thousand tria and you can have the potion for free.
+[NPC] Vladovic: Will you help?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] No no, I must get the potion first, a life hangs in the balance.
+[NPC Narrate] -Vladovic looks deflated for a moment.-
+[NPC] Vladovic: Oh well…
+[NPC] Vladovic: I'm sure that your current task is much more important anyway.
+[NPC] Vladovic: Just give me the six hundred tria and you can take the potion.
+[NPC Internal] Here are the tria for the potion.
+[NPC] Vladovic: I hope the patient has a rapid recovery.
+[NPC] Vladovic: Farewell, Madam.
+
+[To] Quasus Adyum
+
+[NPC Internal] I am back with the potion!
+[NPC Narrate] -As you approach Quasus, a soothing blue light fills the room.-
+[NPC] Quasus: Talad's light doth shine upon you, child.
+[NPC] Quasus: Take this and bask in the light for a moment.
+
+[Way] 2
+
+[NPC Internal] Of course, we can't have your name ruined.
+[NPC] Quasus: Sensational!
+[NPC] Quasus: Take this package to Zhaomal and return the receipt to me.
+[NPC Narrate] -Vladovic bows.-
+
+[To] Zhaomal Shehan
+
+[NPC Internal] Here is your package from Vladovic.
+[NPC Narrate] -Zhaomal lets a tiny smirk slip.-
+[NPC] Zhaomal: I see Vladovic finally got around to filling our order.
+[NPC Narrate] -Zhaomal cuts open the box with a dagger and, after checking its contents, grins widely.-
+[NPC] Zhaomal: Satisfactory effort, Enkidukai.
+[NPC] Zhaomal: Now take this note of assurance and give it to Vladovic.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Success! Here you go, one note from Zhaomal.
+[NPC Narrate] -A relieved expression crosses Vladovic's face.-
+[NPC] Vladovic: Thank you so much, YOU.
+[NPC] Vladovic: The loss of that contract would have been devastating for my business.
+[NPC] Vladovic: Here is your payment and the potion you required.
+
+[To] Quasus Adyum
+
+[NPC Internal] I am back with the potion!
+[NPC Narrate] -A strange darkness descends upon the room as Quasus speaks to you with a tone of despair.-
+[NPC] Quasus: Unfortunately, it is too late.
+[NPC] Quasus: The afflicted died several hours ago.
+[NPC] Quasus: Leave the temple now, but come back another time and remember…
+[NPC] Quasus: do not take everything as gold that shines like gold.
+
+[Reward] [Way 1] [Money] 3391; [XP] 12200; [Item] 1, Figurine of Talad; [Faction] 20, Conclave of the Glyphs
+[Reward] [Way 2] [Money] 4391; [XP] 12200; [Faction] -20, Conclave of the Glyphs
+

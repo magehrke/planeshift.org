@@ -1,0 +1,287 @@
+[Questname] Its Gone Bad
+[NPC Name] Jirosh Mikana
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests
+
+[To] Jirosh Mikana
+
+[NPC Internal] You look troubled. Is there anything I can help you with?
+[NPC Narrate] -Jirosh stops rigorously polishing the top of his counter long enough to look you in the eye, before continuing his work.-
+[NPC] Jirosh: I had hoped that I was not so transparent.
+[NPC Narrate] -Jirosh sighs, his ears flattening against his head as he scratches away at a particularly pesky stain with an extended claw.-
+[NPC] Jirosh: Brado and I have been in business for some time.
+[NPC] Jirosh: I supply him with food and wares, and we settle the profits together.
+[NPC] Jirosh: But lately, some of his customers have been complaining about nausea and claiming that his food is bad.
+[NPC] Jirosh: You get that on occasion, everybody likes a free meal.
+[NPC Internal] But you don't think this is a bunch of people wanting food on the cheap?
+[NPC Narrate] -Jirosh grunts and slaps his cloth against the counter animatedly.-
+[NPC] Jirosh: No.
+[NPC] Jirosh: Not even close.
+[NPC] Jirosh: Brado's starting to suspect I'm trying to sink his business, which makes no sense.
+[NPC] Jirosh: But what else could it be?
+[NPC Narrate] -Jirosh leans towards you suddenly, taking a peek over your shoulder before lowering his voice and whispering conspiratorially.-
+[NPC] Jirosh: I'll tell you what I think it is.
+[NPC] Jirosh: There's only two people that handle all the food during its trip from farm to plate, and that's me, or Reffitia.
+[NPC] Jirosh: I heard them arguing outside the other day, her and Brado, about how he never pays her enough for her services.
+[NPC] Jirosh: There's your poisoner, not me.
+[NPC] Jirosh: She's even stopped buying certain goods from me recently, and not soon after, this all started up!
+[NPC] Jirosh: I tried telling Brado that, but he wouldn't listen.
+[NPC Internal] That does sound rather suspicious.
+[NPC Narrate] -Jirosh slams his fist against the counter and nods his head enthusiastically.-
+[NPC] Jirosh: That's precisely what I thought.
+[NPC] Jirosh: Precisely!
+[NPC] Jirosh: Say…
+[NPC] Jirosh: I don't imagine you'd be willing to talk to her for me?
+[NPC] Jirosh: Maybe try to get the information out of her…tell her you don't think Brado's being fair or something.
+[NPC] Jirosh: I'm sure she'd open up to you!
+[NPC Internal] That doesn't sound too hard.
+[NPC Narrate] -Jirosh grins from ear to furry ear.-
+[NPC] Jirosh: Excellent!
+[NPC] Jirosh: You'll have my eternal gratitude.
+
+[To] Reffitia Thamal
+
+[NPC Internal] That looks like rather backbreaking work.
+[NPC Narrate] -Reffitia hauls a large pot up onto the stove and begins ladling water into it from a barrel beside her.-
+[NPC Narrate] -She doesn't turn around as she answers you.-
+[NPC] Reffitia: Yes, yes, always busy around here.
+[NPC] Reffitia: If you've got something to say, say it.
+[NPC] Reffitia: If you want to order, place your demands with Brado.
+[NPC] Reffitia: That's not in my job description, and I'm much too busy for small talk.
+[NPC Internal] I bet Brado pays you quite handsomely for all your efforts.
+[NPC Narrate] -Reffitia laughs dryly, wiping her hands on her apron before turning and digging some flour out of a sack.-
+[NPC Narrate] -She sprinkles it into the water and then begins smacking her hands together to try and get the rest off, making a little cloud of white powder. Her answer comes amidst a barrage of resulting sneezes.-
+[NPC] Reffitia: That cheap…Enkidukai…barely gives enough to…keep the shelves in this place well-stocked.
+[NPC] Reffitia: I had to…start getting my spices for my recipes from…some fellow in Amdeneir just to make up the deficit.
+[NPC Internal] How recently did you start doing this?
+[NPC Narrate] -Reffitia sniffs and takes a pinch of some dried green plant hanging above her head, sprinkling it into her simmering stew. She makes a face before plunging a large wooden spoon into it and beginning to stir.-
+[NPC] Reffitia: Oh, a few months ago I guess.
+[NPC] Reffitia: He offered, I accepted.
+[NPC] Reffitia: I don't turn away a good price.
+[NPC] Reffitia: Some of us have a little business sense!
+[NPC Narrate] -Reffitia adds loud emphasis to this last part, turning her head towards the doorway pointedly.-
+[NPC Narrate] -Her shoulders sag at the lack of obvious reaction from the barkeep on the other side of the wall.-
+[NPC Narrate] -Heaving another exaggerated sigh, she returns to dutifully stirring her stew.-
+[NPC] Reffitia: Look, just go bug someone else, alright?
+[NPC] Reffitia: And don't tell Brado about any of this, I don't want him reducing my pay even further.
+[NPC] Reffitia: I don't remember the fellow's name, but he told me he supplies for Jarda too.
+[NPC] Reffitia: He runs a tavern there.
+[NPC] Reffitia: Now buzz off already and let me get back to my work.
+
+[To] Jarda Ynarow
+
+[NPC Internal] Can you tell me who supplies your spices?
+[NPC Narrate] -The Ynnwn turns from stacking mugs, holding the piled collection precariously before setting it down and looking at you.-
+[NPC Narrate] -His expression is one of vague confusion. One of his brows raises in silent query, wordlessly asking you to elaborate.-
+[NPC Internal] I'm trying to figure out how you get your meals to taste so good!
+[NPC Narrate] -Jarda looks at you rather suspiciously.-
+[NPC Narrate] -His scraggly brows curve down and his lips follow suit, until he looks on the verge of a scowl.-
+[NPC Narrate] -It's clear he doesn't believe the fib, and moves his fingers at you indicatively, effectively gesticulating, “out with it.”-
+[NPC Internal] Reffitia claims that you share a supplier. People have been getting sick, and I need to know who it is so I can figure out why.
+[NPC Narrate] -Jarda relaxes his expression, and he makes a shrug of his massive shoulders before he begins casually wiping the mug out with a cloth.-
+[NPC Narrate] -He takes his time with it, watching you as if you decide how much to tell you.-
+[NPC Narrate] -When he finishes, he sets the mug down with a thump and reaches beneath the bar to pull out a sheet of paper.-
+[NPC Narrate] -He smoothes it carefully for your perusal, and you see that he's been getting his supplies from the same family for about four cycles.-
+[NPC Narrate] -The deliveries have been consistent and, judging by the way he's shaking his head at you, he's never had any issue with quality.-
+[NPC Internal] Has anyone come in here offering you a deal on cheaper goods?
+[NPC Narrate] -Jarda leans forward over the bar, casually flipping the voucher over to its blank back.-
+[NPC Narrate] -He begins writing out a description and explanation, his course letters are bulky but legible.-
+[NPC Narrate] -The text reads.-
+[NPC Narrate] -Text - Some strange fellow came wandering by the other day.-
+[NPC Narrate] -Text - Dwarf, older fellow.-
+[NPC Narrate] -Text - He was dressed nicely enough, and looked like he'd been recently scrubbed up and polished.-
+[NPC Narrate] -Text - But there was something about him that was…off.-
+[NPC Narrate] -Text - His eye kept twitching, and if you leaned in close enough there was a faint whiff of something foul.-
+[NPC Narrate] -Text - Like waste. Like he went trekking through the sewers.-
+[NPC Internal] Are there open sewers in Amdeneir?
+[NPC Narrate] -Jarda shakes his head and shrugs lightly.-
+[NPC Narrate] -His gaze finds its way back to the door before he returns it to you, obviously checking to make sure nobody came in while he was distracted.-
+[NPC Narrate] -He continues to write.-
+[NPC Narrate] -Text - He offered to start selling me herbs at a decent price.-
+[NPC Narrate] -Text - More than decent actually, it was downright cheap.-
+[NPC Narrate] -Text - I couldn't figure out how he thought to make a profit out of it.-
+[NPC Narrate] -Text - I started getting suspicious when he grew more and more agitated at my refusal.-
+[NPC Narrate] -Text - Finally, he shouted that I was a dung eating tloke and stormed out of my tavern.-
+[NPC Narrate] -Jarda Ynarow leans back again and lounges against the wall behind him, folding his arms over his chest and fixing you with a twinkle in his eye.-
+[NPC Narrate] -His hand moves in a vague shooing motion, and then he casually slides the paper back beneath the bar and out of sight.-
+[NPC Internal] Thank you for your help.
+[NPC Narrate] -Jarda winks at you and returns to his work.-
+
+[To] Finra Neticlo
+
+[NPC Internal] You look a bit nervous. I'm sure it has nothing to do with your surroundings.
+[NPC Narrate] -Finra glares pointedly at you, scratching some dirt off of his worn armour and making a crude gesture with his hands.-
+[NPC Narrate] -His left eye gives a tellingly sporadic twitch.-
+[NPC Internal] Not very talkative? I was hoping you could shed a little light on a situation for me. Sure I can't buy your words?
+[NPC Narrate] -Finra hesitates at the mention of tria. His expression becomes hungry, and his shifty eyes move left and right, inspecting the long darkness in either direction, before he licks his dry lips eagerly.-
+[NPC] Finra: What're ya wantin' and what're ya offerin'?
+[NPC Internal] A circle for a story. Tell me, are you the fellow that's been running around offering spices to people?
+[NPC Narrate] -Finra pales beneath his beard. He bristles, frustrated huffing noises coming forth as he puffs out his chest.-
+[NPC Narrate] -His hands clench and it looks like he might take a swipe at you, but seemingly at the recollection that a shiny coin hangs in the balance, he seems to calm.-
+[NPC Narrate] -He beckons for you to come closer with his finger, his repulsive odour getting stronger by the second with proximity.-
+[NPC] Finra: Wasn't me that had the idea.
+[NPC] Finra: Jes' someone who paid me for it.
+[NPC] Finra: Meals and all, you know?
+[NPC] Finra: Heh.
+[NPC] Finra: Anyway.
+[NPC] Finra: He dressed me up nice and good and told me to wander into them bars and offer cheap goods.
+[NPC] Finra: Why not?
+[NPC] Finra: Easy bit o' money, that.
+[NPC Internal] Do you know who this was?
+[NPC] Finra: These types don't give names.
+[NPC Narrate] -Finra mutters something about needing to find a better hiding place in the sewers, eyeing you beadily for a moment.-
+[NPC] Finra: But I can tell ya what I know.
+[NPC] Finra: He found me wandering around behind some houses in East Hydlaa, some rogue fellow, big tough guy.
+[NPC] Finra: He didn't seem ta like it 'ere that much.
+[NPC] Finra: Some out of citierist.
+[NPC Internal] Thank you. That will do.
+[NPC Narrate] -Finra glares at you, fire in his dark eyes as his hand dances over the hilt of his weapon agitatedly.-
+[NPC] Finra: I was promised a price for waggin' my tongue.
+[NPC] Finra: I'm going to need it by the time this is all said and done.
+[NPC] Finra: Or you ain' going anywhere.
+[NPC Internal] Of course, here.
+[NPC Narrate] -Finra relaxes and a lazy smile spreads across his face.-
+[NPC Narrate] -He bites into the coin with yellowed teeth, and then pockets it once satisfied with its legitimacy.-
+[NPC] Finra: Careful not to get yerself stabbed in the back.
+
+[To] Kisatol Gathoji
+
+[NPC Internal] I hear you might have something to do with the bad food at Brado's lately.
+[NPC Narrate] -Kisatol looks at you through his mask, and his eyes crinkle as though he's sporting a wolfish smile beneath it.-
+[NPC Narrate] -He slowly brings his hands together in a dramatic series of claps, mocking you.-
+[NPC] Kisatol: Well, well done little Enkidukai.
+[NPC] Kisatol: You have done some very admirable sleuthing.
+[NPC] Kisatol: I have an urge to pat you on the back.
+[NPC Internal] So you have something good going, I'm in or I'm outing your plans!
+[NPC Narrate] -Kisatol looks shocked, if his widening eyes is any indication.-
+[NPC Narrate] -Then he laughs again, and spreads his arms in an inclusive gesture.-
+[NPC] Kisatol: I wouldn't have taken you for the type!
+[NPC] Kisatol: So you want to help with my scheme, eh?
+[NPC] Kisatol: Impressive.
+[NPC] Kisatol: Tell me, have you figured out the 'why' of it yet?
+[NPC Internal] You're supplying cheap damaged goods.
+[NPC] Kisatol: Ha!
+[NPC Narrate] -Kisatol pats at a pouch on his side.-
+[NPC] Kisatol: It's simple economics, really.
+[NPC] Kisatol: No, don't look so surprised.
+[NPC] Kisatol: Even a crook knows how to turn the money.
+[NPC] Kisatol: Let's just say my band and I needed a reputable source to sell our wares from, and Jirosh is doing some…excluding…based upon appearance.
+[NPC Narrate] -Kisatol pulls a glyph from the pouch and lets it dance around between his fingers.-
+[NPC] Kisatol: A merchant needs good repute.
+[NPC] Kisatol: So in exchange for refusing our offer to go into business together, I decided it would be a good idea to start sullying his name around town.
+[NPC] Kisatol: After all, if fewer people trust your wares, you have less tria to circulate.
+[NPC] Kisatol: And if you have less tria to circulate, you need to find more…lucrative suppliers.
+[NPC Internal] So you went to all the trouble to get Reffitia and Jarda involved?
+[NPC] Kisatol: A tactical move.
+[NPC] Kisatol: Reffitia was easier to fool than I'd hoped; I merely hired a grunt to do the work of vending my wares, so to speak.
+[NPC] Kisatol: I figured she'd have actually checked with Jarda before buying willy nilly, but apparently Enkidukai are more stupid than I thought.
+[NPC] Kisatol: Jarda's cooperation turned out to not be needed.
+[NPC Internal] And now all that's left…?
+[NPC] Kisatol: Is to finish the framing.
+[NPC] Kisatol: Yes, that's right.
+[NPC] Kisatol: And if you do that for me, I'll reward you quite handsomely indeed.
+[NPC] Kisatol: All you have to do is deliver this pouch to Reffitia.
+[NPC Narrate] -Kisatol holds up a brown leather parcel. An odd odour wafts from it, a sickly sweet scent that isn't natural.-
+[NPC] Kisatol: Show it to her, and tell her you saw Jirosh snooping around her shipment.
+[NPC] Kisatol: Then return to me.
+
+[To] Reffitia Thamal
+
+[NPC Internal] Reffitia, I've got some news for you.
+[NPC Narrate] -Reffitia's hands are a blur as she washes plates, and she gives you an annoyed look at the interruption.-
+[NPC] Reffitia: What?
+[NPC] Reffitia: What?
+[NPC] Reffitia: What is it?
+[NPC] Reffitia: Spit it out, then.
+[NPC Internal] Jirosh has been tampering with your spices. I found him putting some of this inside some bags which were part of your next shipment.
+[NPC Narrate] -Reffitia sniffs at the air, and then pads towards you and takes a powerful whiff of the stuff.-
+[NPC Narrate] -Her eyes tear up and she puts her hands over her nose.-
+[NPC] Reffitia: Well!
+[NPC] Reffitia: That little scoundrel!
+[NPC] Reffitia: I can't believe he'd do such a thing, but I suppose money makes folks go crazy sometimes.
+[NPC] Reffitia: He's just mad that I found someone willing to sell to me at a more reasonable price!
+[NPC Narrate] -Reffitia's whiskers quiver, and she puts her hands on her hips with an angry huff.-
+[NPC] Reffitia: Rest assured Brado will hear all about this!
+[NPC] Reffitia: We're going to have a long talk with Jirosh, he and I!
+
+[To] Kisatol Gathoji
+
+[NPC Internal] I've done as you requested.
+[NPC Narrate] -Kisatol tosses a small round object into the air, and then extends his hand towards you.-
+[NPC] Kisatol: So I heard.
+[NPC] Kisatol: I'm sure Brado and Jirosh will be arguing long into the night.
+[NPC] Kisatol: I might even go over to listen in.
+[NPC Narrate] -Kisatol chuckles.-
+[NPC] Kisatol: But that merchant's repute won't soon recover from this.
+[NPC] Kisatol: You've done well.
+[NPC Narrate] -Kisatol puts the object into your hand with a knowing laugh.-
+[NPC] Kisatol: I'm willing to bet you'll get into quite a bit of trouble with this little trinket.
+[NPC] Kisatol: I'm eager to see what nefarious things you can come up with.
+[NPC] Kisatol: As a matter of fact, I'm so appreciative of your skill, I was wondering if you might undertake a little more for me?
+[NPC] Kisatol: Split the earnings of course.
+[NPC] Kisatol: Mostly just to see if I could stir up a little trouble.
+[NPC Internal] What kind of trouble were you thinking about?
+[NPC Narrate] -Kisatol is practically brimming with excitement; it's easy to tell by the way his fingers start to twitch and he begins to move from one foot to the other.-
+[NPC] Kisatol: Can you think of how much upset it would cause of Allelia got even a little bit of doctored spices in her wares?
+[NPC] Kisatol: Oh, the number of upset tummies.
+[NPC] Kisatol: Oh, the potential for trickery and blackmail!
+[NPC Internal] Sounds like a good time. What do I need to do?
+[NPC Narrate] -Kisatol reaches out to clap your shoulder roughly, though the gesture was probably meant to be companionable and not violent.-
+[NPC] Kisatol: That's the spirit!
+[NPC] Kisatol: Just head on over to Allelia's place and work a little magic on those barrels of hers!
+[NPC] Kisatol: Be careful you don't get caught, though.
+[NPC] Kisatol: Hah!
+[NPC] Kisatol: I can see it now, a bunch of nauseated dwarves!
+[NPC] Kisatol: It'll be quite the spectacle.
+[NPC Narrate] -Kisatol slaps his knee and lets out an enthusiastic guffaw.-
+[NPC] Kisatol: Just run on back when you're finished, and I'll sprinkle your pockets with a little extra coin.
+[NPC Narrate] -Kisatol sticks a hand in his pocket and pulls out a glyph.-
+[NPC] Kisatol: Use this, I'm sure you will be able to make use of it.
+
+[To] Allelia Symiestra
+
+[NPC Internal] Allelia, I think there might be a problem. Have you seen the cracks in the barrels downstairs. About ready to burst!
+[NPC Narrate] -Allelia glances behind her, and then heaves a long-suffering sigh.-
+[NPC] Allelia: Yes, yes, I know, I first saw them a few weeks back, but I hoped they would be alright.
+[NPC] Allelia: And you've managed to come at a quite time considering what's been going on.
+[NPC] Allelia: I should probably get the blasted things patched, but I really don't have the time for it, to be honest.
+[NPC Narrate] -She looks at you with scrutiny.-
+[NPC] Allelia: Actually…I have the paste for it, I just can't really handle it and drinks at the same time.
+[NPC] Allelia: Get funny looks, you know?
+[NPC] Allelia: I don't suppose…you could do it for me?
+[NPC Internal] Of course I can do that, sure thing! You do a lot of work, you deserve a little help!
+[NPC Narrate] -Allelia smiles at you, her expression full of gratitude. She leans out enough to pluck a jar from one of the shelves above the bar, and then slides it smoothly down to you. The gooey paste inside doesn't look all too pleasant.-
+[NPC] Allelia: That should seal any of the cracks we've got!
+[NPC] Allelia: Thanks again for taking care of that for me.
+[NPC Narrate] -TIP – to complete this part of the quest you have to go downstairs and use, which means right click on, the barrels to apply the paste and poison the contents.-
+[NPC Internal] Not a problem at all I'm already done. All finished up!
+[NPC Narrate] -Allelia heads downstairs and opens the spigot and pours some of the contaminated drink inside, passing it to a customer who requested it.-
+[NPC] Allelia: Thanks a lot!
+[NPC] Allelia: You're a lifesaver.
+
+[To] Kisatol Gathoji
+
+[NPC Internal] I've done as requested. There'll be many an upset drunkard in Hydlaa tonight.
+[NPC Narrate] -Kisatol brings his hands together in a loud, slightly comical applause.-
+[NPC Narrate] -Then he reaches over to swat you in the back of the head. It's too light to do any damage, thankfully.-
+[NPC] Kisatol: I like you!
+[NPC] Kisatol: I like you quite a lot, I've got to say.
+[NPC] Kisatol: Got..
+[NPC] Kisatol: to..
+[NPC] Kisatol: say!
+[NPC] Kisatol: We should make this a regular thing, you and I.
+[NPC] Kisatol: You could become part of our merry little band someday!
+[NPC Narrate] -He barks laughter at you, and then abruptly sobers.-
+[NPC] Kisatol: Not yet though.
+[NPC] Kisatol: I don't think you're quite ready for that kind of commitment, do you?
+[NPC Internal] It's such a big responsibility, I'm probably not ready for it yet.
+[NPC Narrate] -Kisatol just shakes his head at you, though his hand moves to his belt and he tosses the promised tria onto the top of a barrel.-
+[NPC] Kisatol: Reward, as promised.
+[NPC] Kisatol: Don't you forget about us now, hm?
+[NPC] Kisatol: Can always use a grunt with a head on their shoulders.
+[NPC] Kisatol: Now get out of my sight before I wring your neck for the fun of it.
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Poison glyph; [Faction] -20, Enkidukai; [Faction] -20, Guard; [Faction] 20, Thieves Organization
+

@@ -1,0 +1,121 @@
+[Questname] Drinks in the deep
+[NPC Name] Crosh Dunehammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 7, Red Liquors; [Money] 250
+
+[To] Crosh Dunehammer
+
+[NPC Internal] Could you use some help?
+[NPC] Crosh: Ah, reinforcements!
+[NPC] Crosh: All right!
+[NPC Narrate] -Crosh claps his hands together excitedly.-
+[NPC] Crosh: Now, let's have you watch that way there…
+[NPC Narrate] -Crosh points across the chasm to the doorway one can't reach without flying.-
+[NPC] Crosh: And I'll watch, uh, this way.
+[NPC] Crosh: All right.
+[NPC Narrate] -Crosh turns and vigilantly stares at one of the other arched passages.-
+[NPC ME] Time passes.
+[NPC Narrate] -Crosh mutters something nearly inaudible.-
+[NPC ME] More time passes.
+[NPC Internal] What exactly am I looking for?
+[NPC] Crosh: N-no, I don't want more fish, ma.
+[NPC Narrate] -Crosh mumbles something else too garbled to make out, and then begins to snore quietly.-
+[NPC Internal] I think you're drooling on your armour.
+[NPC] Crosh: Hu-Wha?
+[NPC ME] Crosh jumps and looks around with a stern frown.
+[NPC] Crosh: Did you see something?
+[NPC] Crosh: Are they coming?
+[NPC] Crosh: Hmm…
+[NPC] Crosh: I don't see anything.
+[NPC Narrate] -Crosh puts a hand to his ear, listening intently for a minute.-
+[NPC] Crosh: Maybe it's just one of them miners.
+[NPC] Crosh: Always coming down here, they are.
+[NPC] Crosh: Never understood the appeal, myself.
+[NPC Narrate] -Crosh yawns, stretches and then smacks his lips together thoughtfully.-
+[NPC] Crosh: Y'know, I could really go for a few drinks right now.
+[NPC] Crosh: Like three or four…
+[NPC Narrate] -Crosh looks at you and smiles as an idea strikes him.-
+[NPC] Crosh: I got it!
+[NPC] Crosh: I can't leave here, because I've been assigned, you know.
+[NPC] Crosh: But if you're here to help me, then you got to follow my orders.
+[NPC] Crosh: I hereby order you, Sir Reinforcement Nolthrir What's-yer-name to bring me four- no, no, let's do this right…
+[NPC] Crosh: bring me seven mugs of red liquor.
+[NPC Narrate] -Crosh winks at you.-
+[NPC] Crosh: I'll give you something decent to make it worth your while afterward.
+[NPC Internal] YOU hands over the mugs, trying not to spill them.
+[NPC] Crosh: Aah, these'll hit the spot indeed, thanks!
+[NPC Narrate] -Crosh glances around, his arms full of mugs.-
+[NPC] Crosh: No upper officers in sight, heheh.
+[NPC Narrate] -Crosh drinks greedily at the first mug and burps loudly.-
+[NPC] Crosh: Mmmm….
+[NPC] Crosh: been toooo long since I had some of this.
+[NPC Narrate] -Crosh glances around once more and pulls at the mug again, quickly finishing the liquor.-
+[NPC] Crosh: Yaar!
+[NPC] Crosh: Now, let's see.
+[NPC Narrate] -Crosh sets the mugs down, keeping a full one in his hand, while the other fishes in his purse for a bit before taking out three lumps of silver ore.-
+[NPC] Crosh: Found these down here the other day, I did.
+[NPC] Crosh: Talad knows where it came from; maybe it fell out of one of them miner's pockets.
+[NPC Narrate] -Crosh shrugs and pushes it into your hand.-
+[NPC] Crosh: All yours now, soldier.
+[NPC Narrate] -Crosh quickly polishes off a second mug and tosses it into the chasm, listening for the clatter of it hitting the bottom.-
+[NPC] Crosh: Pretty deep hole, that is, eh?
+[NPC] Crosh: You seen that creepy fellow that lurks around down there?
+[NPC Internal] tell me more about this person.
+[NPC] Crosh: Calls himself 'Zak' he does, you know?
+[NPC Narrate] -Crosh takes up a third mug and sips at it.-
+[NPC] Crosh: But I'll…
+[NPC] Crosh: I'll tell you something.
+[NPC] Crosh: That's not his real name.
+[NPC] Crosh: Not at all.
+[NPC Narrate] -Crosh waves the mug gently in the air before taking a long drink from it.-
+[NPC] Crosh: Aah, excellent stuff.
+[NPC] Crosh: Thank you for again for fetching it, Sir.
+[NPC Narrate] -Crosh suddenly stops moving and looks around intently.-
+[NPC] Crosh: I thought I heard something.
+[NPC Internal] So, what is his real name?
+[NPC] Crosh: Ahh, now that I can't tell you.
+[NPC Narrate] -Crosh finishes his third mug and tosses it over, pausing to wait for the smash.-
+[NPC] Crosh: I don't know.
+[NPC] Crosh: I just happened to overhear him having a conversation down there with this Dermorian lady one day.
+[NPC Narrate] -Crosh shrugs, burps, and takes up another mug. He sips at it as he looks around, squinting off into the passageways.-
+[NPC] Crosh: Real creepy fellow.
+[NPC] Crosh: Gotta be, to spend all your time down here, eh?
+[NPC Narrate] -Crosh laughs a while, perhaps too long.-
+[NPC Internal] What did the Dermorian lady say?
+[NPC] Crosh: Oh bosh, I wouldn't know!
+[NPC] Crosh: Do I look like some kind of eavesdropper to you?
+[NPC Narrate] -Crosh frowns at you and looks away, lifting his fourth mug for a series of sizeable swallows.-
+[NPC] Crosh: Recruits these days, I don't know what's going to become of the army.
+[NPC Narrate] -Crosh peers into the mug, sighs, and tosses it downward, the last bit of liquor spraying outward as the mug tumbles against the stone walls and down into the void.-
+[NPC Narrate] -Crosh takes up another mug and stands holding it for a moment, studying you.-
+[NPC] Crosh: I shouldn't have mentioned that.
+[NPC] Crosh: That fellow is bad news, soldier.
+[NPC Narrate] -Crosh glances around and lowers his voice.-
+[NPC] Crosh: I might tell you, for a golden circle.
+[NPC Narrate] -Crosh nods once and drinks from his mug.-
+[NPC Internal] Here's your money. Tell me your tale.
+[NPC] Crosh: Thank you kindly.
+[NPC Narrate] -Crosh leans down and stuffs the coin into his boot. He straightens and looks around before whispering to you.-
+[NPC] Crosh: So, I was a little bit off-duty, looking for some grubs, and I come round a corner, and I see them people down below and I hear them talking.
+[NPC] Crosh: The lady said something like 'your mum would not approve' and he says 'if she did, I wouldn't have to be spending so much time down here with the madmen and the monsters.'
+[NPC Narrate] -Crosh rubs his head with his hand and chews on his beard a moment before drinking from his mug. He continues quietly talking.-
+[NPC] Crosh: I don't know about the 'madmen' part, mostly it's just me and the miners down here…
+[NPC] Crosh: anyway, so she says, uh, she says 'I'll take care of it, don't worry,' um, yeah.
+[NPC] Crosh: That's where he said something about his name, he did.
+[NPC Narrate] -Crosh nods for a while, looking as though his drinking is beginning to affect him.-
+[NPC Internal] Quit nattering and tell me his real name!
+[NPC] Crosh: Ohh.
+[NPC Narrate] -Crosh gently shakes his head.-
+[NPC] Crosh: No, no, that's secret information, soldier.
+[NPC] Crosh: I mean, I didn't hear it anyway.
+[NPC] Crosh: I didn't want to: I left, you know.
+[NPC] Crosh: Safer that way.
+[NPC Narrate] -Crosh takes a sizable sip from the mug.-
+[NPC] Crosh: Maybe you should call it a day.
+[NPC] Crosh: I'm sure that I can handle it a bit longer here, now that I've had this bit of fortifying.
+[NPC Narrate] -Crosh burps again.-
+[NPC] Crosh: Yeah, that's it: Soldier, you are relieved.
+[NPC Narrate] -Crosh sketches a salute with his mug.-
+[NPC] Crosh: Careful on the stairs now, and keep an sharp eye out for the enemy.

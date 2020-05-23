@@ -1,0 +1,68 @@
+[Questname] Deadly Talons for Kelicha
+[NPC Name] Kelicha Anijiel
+[Checkup] 2017-03-30
+[Authors] Huarwar Eruera
+
+[Need] [Quest] None; [Item] 10, Maulbernaut Talon; [Winch] Yes
+
+
+[To] Kelicha Anijiel
+
+[NPC Internal] Do you have a little work for a hungry adventurer?
+
+[NPC] Kelicha: Hmph?
+[NPC MY] Kelicha Anijiel's shoulders slump as she turns to you with an exasperated sigh.
+[NPC] Kelicha: Don't I look busy?
+[NPC] Kelicha: Okay, fine, you want work?
+[NPC] Kelicha: I have work for you, but you need to be a good fighter.
+[NPC] Kelicha: eally good.
+[NPC] Kelicha: Are you?
+
+[NPC Internal] Why yes I am!
+
+[NPC] Kelicha: Terrific.
+[NPC] Kelicha: Go on the road to the nearest Bronze Doors.
+[NPC] Kelicha: You know, the Eagle?
+[NPC] Kelicha: As soon as you exit the mountain pass, veer to the left.
+[NPC] Kelicha: There will be some rocks and an maulbernaut encampment.
+[NPC] Kelicha: I want you to clear it out.
+[NPC] Kelicha: Bring me back five of their talons.
+[NPC] Kelicha: Five.
+[NPC] Kelicha: I'll be waiting.
+[NPC ME] Kelicha Anijiel turns back to the mechanisms.
+
+[NPC Internal] I have brought you the claws, as I promised.
+
+[Give] Kelicha Anijiel; 5, Maulbernaut Talons
+
+[NPC] Kelicha: Back so soon?
+[NPC] Kelicha: Oh, did I say five?
+[NPC] Kelicha: I meant eight.
+[NPC] Kelicha: Go get me three more.
+[NPC] Kelicha: If you'll excuse me, I need to work.
+
+[Give] Kelicha Anijiel; 3, Maulbernaut Talons
+
+[NPC Internal] Here are three more claws. My goodness, my sword arm aches!
+
+[NPC] Kelicha: Already?
+[NPC] Kelicha: Er...let's make it an even ten.
+[NPC] Kelicha: Go and get me two more, please.
+[NPC Narrate] -She turns quickly back to the mechanisms.-
+[NPC] Kelicha: Please.
+
+[Give] Kelicha Anijiel; 2, Maulbernaut Talons
+
+[NPC Internal] Huarwar sighs and rubs his sword arm as Kelicha picks up the claws.
+[NPC] Kelicha: Okay, I can see you're obviously better than I thought.
+[NPC] Kelicha: Frankly, I thought you would give up and leave me alone so I could work.
+[NPC] Kelicha: Alas, you're as persistent as that eager junior engineer Martiana.
+[NPC] Kelicha: I don't even need these claws, 
+[NPC ME] Kelicha Anijiel puts them down to one side.
+[NPC] Kelicha: But I wanted to test your patience and persistence, so I can assign you more important tasks.
+[NPC] Kelicha: I guess you wanted a reward?
+[NPC] Kelicha: I have one item you might like.
+[NPC ME] Kelicha Anijiel hands it to you as she rubs her wings together in anticipation.
+[NPC] Kelicha: Fare you well.
+
+[Reward] [XP] 16400; [Money] 9922; [Item] 1, Net Glyph

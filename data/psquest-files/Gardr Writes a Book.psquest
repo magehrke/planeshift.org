@@ -1,0 +1,104 @@
+[Questname] Gardr Writes a Book
+[NPC Name] Gardr Keck
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning Shield Working; [Money] 250
+
+[To] Gardr Keck
+
+[NPC Internal] Hello, Gardr, need some help?
+[NPC] Gardr: Hmmmm?
+[NPC] Gardr: Oh, oh yes, I would love some help.
+[NPC] Gardr: I wrote a book, but I want to know if, hmm…
+[NPC Narrate] -Gardr looks thoughtful and then nods slowly to kraself.-
+[NPC] Gardr: Yes, I need to know if it's good enough.
+[NPC] Gardr: Can you help?
+[NPC Internal] Sure, I will, hand it over.
+[NPC] Gardr: Bring this to…
+[NPC] Gardr: What's kras name…
+[NPC] Gardr: I know kra can help you correct the mistakes on the book.
+[NPC] Gardr: Bring it to kra.
+
+[To] Kerryk Cor
+
+[NPC Internal] Gardr needs you to correct the mistakes.
+[NPC] Kerryk: Does kra, now?
+[NPC] Kerryk: Let's see.
+[NPC Narrate] -Kerryk starts reading the book, frowning a bit at the horrible calligraphy.-
+[NPC] Kerryk: Someone must teach kra how to write straight…
+[NPC Narrate] -Kra starts scribbling on the book, correcting the mistakes.-
+[NPC] Kerryk: Here, take it back to Gardr, please.
+[NPC] Kerryk: Though not sure why kra insists on making this in native Kran rather than Common.
+[NPC] Kerryk: Ah well, kras business.
+
+[To] Gardr Keck
+
+[NPC Internal] Here, corrected as you asked.
+[NPC] Gardr: Thank you, Enkidukai.
+[NPC] Gardr: But now I need someone to, uhm, translate it.
+[NPC] Gardr: There is, ah…
+[NPC] Gardr: Yes, the librarian's helper.
+[NPC] Gardr: Ask Jayose.
+[NPC] Gardr: No, ask his helper.
+[NPC] Gardr: Need to translate it to Common.
+[NPC] Gardr: And then ask the Fenki, in the Arena.
+[NPC] Gardr: She knows how to draw.
+[NPC] Gardr: Jayose will copy the book.
+[NPC] Gardr: Make two, no three, no, make it five copies.
+[NPC] Gardr: Yes five copies.
+[NPC] Gardr: Translate then draw then copy.
+[NPC] Gardr: Quick.
+
+[To] Arion Fildar
+
+[NPC Internal] Please, translate this book for Gardr.
+[NPC] Arion: Fine, fine!
+[NPC] Arion: I will.
+[NPC] Arion: But it will be a round circle for the job.
+[NPC Narrate] -Arion holds out his hand.-
+[NPC Internal] Here you go, a circle.
+[NPC] Arion: Give me a minute.
+[NPC] Arion: Lucky for you I just happen to have my book on the Kran language.
+[NPC] Arion: I could probably do it from memory but it helps to confirm things.
+[NPC Narrate] -Arion starts scribbling frantically on a blank book, reading Gardr's draft every now and then and checking his Kran book.-
+[NPC] Arion: Finished, that was easy.
+[NPC] Arion: Here, your book!
+
+[To] Veja Pontor
+
+[NPC Internal] Gardr needs you to draw kras shield designs.
+[NPC] Veja: Ugh, these are really ugly…but I know what to draw.
+[NPC] Veja: Wait a bit.
+[NPC Narrate] -Veja takes a piece of charcoal and some parchment and starts drawing quickly, using Gardr's drawings as a reference.-
+[NPC] Veja: Done.
+[NPC] Veja: There you go.
+
+[To] Jayose
+
+[NPC Internal] Gardr needs you to copy some books. Five copies please.
+[NPC] Jayose: Five?
+[NPC Narrate] -Jayose looks at the materials for a minute.-
+[NPC] Jayose: Ah I see, take the manual and drawings to a single book, then make five copies.
+[NPC] Jayose: Got it.
+[NPC] Jayose: That will be quite expensive, but I'll send kra the price later.
+[NPC] Jayose: Give me some minutes.
+[NPC Narrate] -Jayose starts fiddling around his desk, murmuring words and placing blank books over it. He puts the translated manual and the drawings over the pile of books and starts casting a spell.-
+[NPC] Jayose: Wait a bit, please.
+[NPC Narrate] -Some minutes pass…-
+[NPC Narrate] -Jayose checks on a book then rolls his eyes and mumbles.-
+[NPC] Jayose: …like I'm some sort of copy making machine.
+[NPC Narrate] -Jayose checks again and nods.-
+[NPC] Jayose: Alright, done.
+[NPC] Jayose: You can bring these to Gardr.
+
+[To] Gardr Keck
+
+[NPC] Gardr: Good books.
+[NPC] Gardr: You helped me a lot.
+[NPC] Gardr: I want you to have one of them.
+[NPC] Gardr: Try to make a shield with it.
+[NPC] Gardr: Thank you, Enkidukai.
+
+[Reward] [XP] 13600; [Item] 1, Protector Shield Diagram; [Faction] 25, Crafting Association
+

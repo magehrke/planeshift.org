@@ -1,0 +1,147 @@
+[Questname] Becoming a Red Way Adept
+[NPC Name] Ferryd Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Knowledge of the Red Way Adept; [Item] 1, Adept's Red Way Bracers; [Item] 1, Apprentice's Red Way Robe; [Skill] 90, Red Way
+
+[To] Ferryd Shillor
+
+[NPC Internal] I have returned, Bracers in hand.
+[NPC] Ferryd: You are nearing the end of this stage of your testing, Enkidukai.
+[NPC] Ferryd: I must admit that you have not been to a shabby student.
+[NPC] Ferryd: But you have proven your knowledge, YOU.
+[NPC] Ferryd: You have even kept me amused.
+[NPC Narrate] -Ferryd grins.-
+[NPC] Ferryd: Training is not all about advancing yourself, though.
+[NPC] Ferryd: Sometimes you must offer your aid to others.
+[NPC Narrate] -Ferryd hands back your Bracers.-
+[NPC] Ferryd: Zhaomal of the Shadowcasters at the Eagle Bronze Doors has sent a message about some rare Red Way glyph or another.
+[NPC] Ferryd: As I think you are ready to identify glyphs, I need you to go there and let him know you are there to help.
+[NPC] Ferryd: Don't worry, it is not a prank this time.
+[NPC Narrate] -Ferryd winks.-
+[NPC] Ferryd: …
+[NPC] Ferryd: Honest.
+
+[To] Zhaomal Shehan
+
+[NPC Internal] Ferryd Shillor sent me.
+[NPC] Zhaomal: Finally…
+[NPC Narrate] -Zhaomal looks at you with some curiosity but mostly doubt.-
+[NPC] Zhaomal: You must be a student of the Red Way…
+[NPC] Zhaomal: Ferryd sent you?
+[NPC] Zhaomal: I wanted his aid because this is a matter for a Red Way Archmaster, not any of his students.
+[NPC Narrate] -Zhaomal taps his chin.-
+[NPC] Zhaomal: Very well.
+[NPC] Zhaomal: If Ferryd thinks you are worthy, then who am I to argue.
+[NPC Narrate] -Zhaomal brings out two identical glyphs.-
+[NPC] Zhaomal: I have come across these glyphs in my travels, where and how is…
+[NPC] Zhaomal: not important.
+[NPC Narrate] -Zhaomal hands you one of the two.-
+[NPC] Zhaomal: First prove to me that you can at least master basic skills.
+[NPC] Zhaomal: So, Sir of the Red Way, what spell can you cast with just that glyph.
+[NPC Internal] lava pit
+[NPC Narrate] -Zhaomal nods, though looks unimpressed.-
+[NPC] Zhaomal: Of course it is, now the part I am having difficulty with.
+[NPC] Zhaomal: I am aware there is a spell that allows you, as the caster, to summon a giant fist made of hot, bubbling lava that strikes the opponent ruthlessly…
+[NPC Narrate] -Zhaomal shrugs.-
+[NPC] Zhaomal: Or at least that was what Ferryd told me once long ago.
+[NPC] Zhaomal: I hope it was not another of his pranks.
+[NPC] Zhaomal: I am not in the mood to feel the backlash of failed combinations.
+[NPC Narrate] -Zhaomal grins.-
+[NPC] Zhaomal: That is what you are for.
+[NPC] Zhaomal: You're to work out the glyphs used in combination with Lava to form this spell.
+[NPC Internal] Hand Glyph.
+[NPC Narrate] -Zhaomal attempts to combind the glyphs, and is successful. He then turns to you with slight surprise.-
+[NPC] Zhaomal: Not bad at all.
+[NPC] Zhaomal: I would have thought it would be a much higher level glyph than 'Hand'.
+[NPC] Zhaomal: I can see why Ferryd send you.
+[NPC] Zhaomal: Sometimes it takes a more simple mind to see the simple solutions.
+[NPC] Zhaomal: What is a Fist but a closed Hand I should have seen it.
+[NPC Narrate] -Zhaomal looks at his the Lava glyph he still holds.-
+[NPC] Zhaomal: It seems I have an extra glyph here.
+[NPC] Zhaomal: Even I do not need more than one of each glyph.
+[NPC Narrate] -Zhaomal shakes his head.-
+[NPC] Zhaomal: You may keep the glyph I gave you earlier for helping me.
+[NPC] Zhaomal: Perhaps you will consider joining the Shadowcasters in time.
+[NPC] Zhaomal: You do not need to join now, nor do I think you have enough talent.
+[NPC] Zhaomal: For that, you must achieve Adept status in all Way Circles, but Master in none.
+[NPC] Zhaomal: I only ask you consider it if that time comes.
+[NPC] Zhaomal: One more thing.
+[NPC] Zhaomal: Do say thank you to Ferryd for sending such a talented Enkidukai.
+
+[To] Ferryd Shillor
+
+[NPC Internal] Zhaomal sends his thanks.
+[NPC Narrate] -Ferryd chuckles.-
+[NPC] Ferryd: Almost tripped on his own feet, did he Well, that is a lesson to you as well.
+[NPC] Ferryd: Never forget the simple things, for it is the pebble that will trip you, not the hill.
+[NPC] Ferryd: Did you get anything from him for your troubles?
+[NPC Internal] Yes, a Lava Glyph.
+[NPC Narrate] -Ferryd smiles pleased.-
+[NPC] Ferryd: Quite the reward indeed, if you ever find out where he comes across these items, be a good Enkidukai and let me know.
+[NPC Narrate] -Ferry whinks.-
+[NPC] Ferryd: Now, seeing as you have that glyph, like before I want to know how you interpret how the energies make you feel when you use it.
+[NPC] Ferryd: It's always important to understand the magics you use and not to just use them.
+[NPC Internal] heat
+[NPC] Ferryd: Yes, heat, powerful heat.
+[NPC] Ferryd: Rock melting heat.
+[NPC] Ferryd: But be careful thought as trying to conjurer too much power though the red way is only for the most experienced, not necessarily the most powerful Red Way Mage.
+[NPC] Ferryd: Even I know my the limits of my experience.
+[NPC Internal] liquid
+[NPC] Ferryd: Yes, very good, liquid.
+[NPC] Ferryd: The energy you put into stone or metal to melt it allows it to turn to liquid to be more easily manipulated and toyed with.
+[NPC] Ferryd: The same can be said about the magic used with this glyph.
+[NPC Narrate] -Ferryd places a finger to his lips and whispers.-
+[NPC] Ferryd: Always remember to only act within your self or you will find yourself turning to liquid.
+[NPC] Ferryd: And I don't have a Enkidukai shaped mold to put you back together.
+[NPC Internal] lava
+[NPC] Ferryd: I would imagine that you could interpret a Lava glyph as Lava, that hardly takes any skill, concentrate and tell me something else.
+[NPC Internal] volcano
+[NPC] Ferryd: OF COURSE!!!
+[NPC] Ferryd: Lava with out a Volcano, how boring.
+[NPC Narrate] -Ferryd chuckles.-
+[NPC] Ferryd: But you are not likely to see one in Ylaikum any time soon.
+[NPC] Ferryd: But again its another interpretation of the unrelenting devastation that a Red Way mage can unleash and be made to release if they lose control.
+[NPC Internal] slow
+[NPC] Ferryd: Yes, that is something that many people don't feel.
+[NPC] Ferryd: Creating that much power can slow you down, drain you…
+[NPC] Ferryd: The power can also be used to slow down someone or something else.
+[NPC] Ferryd: I'm impressed.
+[NPC Internal] That is everything I can get from the glyph.
+[NPC] Ferryd: You did very well, I'm pleased you got that glyph you are clearly ready for it.
+[NPC] Ferryd: And so You have come to the crest of this 'hill' in your training.
+[NPC] Ferryd: Please give me your final apprentice's article now.
+[NPC Internal] My robe, as requested.
+[NPC] Ferryd: This is now beneath you.
+[NPC Narrate] -He then tosses the robe to the ground.-
+[NPC] Ferryd: Literally.
+[NPC] Ferryd: You are no longer in any way an apprentice.
+[NPC] Ferryd: One question remains before you may be given your final Adept's article.
+[NPC] Ferryd: The answer to this question is very important, as it will give you insight into your next decision.
+[NPC] Ferryd: What Way directly opposes the Red Way.
+[NPC Internal] blue
+[NPC] Ferryd: Correct, of course!
+[NPC] Ferryd: You have proven your knowledge of the Red Way to me.
+[NPC] Ferryd: I am honored to present you with your new robe, Adept of the Red Way.
+[NPC Narrate] -Ferryd hands you a neatly folded robe.-
+[NPC] Ferryd: Zhaomal mentioned joining the Shadowcasters, did he not?
+[NPC] Ferryd: Of course he did.
+[NPC] Ferryd: You now have a choice before you, YOU.
+[NPC] Ferryd: This is the last chance to change your mind in your chosen Way.
+[NPC] Ferryd: Let me be very clear on this.
+[NPC] Ferryd: If you continue on the path to the rank of Way Master in the Red Way Circle, you will not be able to advance beyond Adept, the level you are now in the Blue Way Circle.
+[NPC] Ferryd: Nor will you be able to advance beyond Adept in the Brown and Crystal Way Circles.
+[NPC] Ferryd: You will be allowed to advance past the first Master level in Azure and Dark Way Circles, as they complement the power you will use as a Red Way mage.
+[NPC] Ferryd: Do you understand this?
+[NPC Internal] Yes, I understand.
+[NPC] Ferryd: Very well.
+[NPC] Ferryd: If you wish to continue on to become a Red Way Master, you will continue your training with me until I have nothing left to teach you.
+[NPC] Ferryd: But to continue you will have to show me your Adept's wand together with another Adept's Red Way Wand and one Apprentice's Red Way Wand.
+[NPC] Ferryd: This is to prove you have not only the respect and trust of your Adept peers, but that of the Apprentices below you as well.
+[NPC] Ferryd: Remember, once you bring these three wands to me, there will be no turning back from the Red Way Master path.
+[NPC] Ferryd: Think long and hard before you make this choice.
+[NPC] Ferryd: I am sure I will see you soon, YOU.
+
+[Reward] [XP] 16400; [Item] 1, Lava glyph; [Item] 1, Adept's Red Way Robe; [Faction] 35, Red Order
+

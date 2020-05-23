@@ -1,0 +1,282 @@
+[Questname] Seeking Guidance II
+[NPC Name] Rulayne Ogrin
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] No
+
+[Needed] [Quest] Seeking Guidance I
+
+[To] Rulayne Ogrin
+
+
+[NPC Internal] Hi. I am searching for the legendary weapons that belonged to Lerivia Smare. I need information about a Diaboli who is said to have had the items, Perg Zrar.
+[NPC] Rulayne Ogrin doesn't show any sign of interest.
+[NPC] -He begins to talk as if he already knows all about your enquiries.-
+[NPC] Rulayne Ogrin: Tisd isn't a Diaboli or Dermorian affair.
+[NPC] Rulayne Ogrin: Tisd is Ynnwn.
+[NPC] Rulayne Ogrin: Why are you wasting my time by bothering me?
+[NPC Internal] I need to know if Perg Zrar or his daughter Mzapt still possessed the famous weapons when rejoining the Death Realm.
+[NPC] Rulayne Ogrin: Dakkru doesn't bother with such details, and neither do I.
+[NPC] Rulayne Ogrin now speaks as if he witnessed what he speaks of himself.
+[NPC] Rulayne Ogrin: The Diaboli got rid of the unholy items, to a Ynnwn from Lerivia's circle of acquaintances.
+[NPC Internal] I see. Thanks. Do you know who that was?
+[NPC] Rulayne Ogrin: You step in the Goddess's waters.
+[NPC] Rulayne Ogrin: Nevertheless, you are asking the wrong coven.
+[NPC] Rulayne Ogrin: But doesn't everyone end in Dakkru's embrace?
+[NPC] Rulayne Ogrin smirks or what looks like it.
+[NPC] -The two dark holes of his eyes glimmer dark purple light.-
+[NPC] Rulayne Ogrin: Menlil Toresun will surely like to spend his time in futility.
+[NPC] Rulayne Ogrin: Go ask him.
+
+
+[To] Menlil Toresun
+
+
+[NPC Internal] Good Day, Menlil. [You tell Menlil about your research.] I have been told to ask you about the Ynnwn.
+[NPC] Menlil Toresun: Laanx bless you, <strong>YOU</strong>.
+[NPC] Menlil Toresun: I heard of your investigations.
+[NPC] Menlil Toresun: You see, despite most races, Ynnwn don't have an evident attraction or aversion toward any god.
+[NPC] Menlil Toresun: Such freedom can be intoxicating, sometimes even troubling as paths and choices can be too vast.
+[NPC] Menlil Toresun: Even unconsciously, our race searches for guidance.
+[NPC] Menlil Toresun: One such as Rulayne found it in Dakkru as for me, it is Laanx.
+[NPC] Menlil Toresun: It can be wholesome.
+[NPC Internal] I understand, Menlil. But can you tell me about this Ynnwn? Do you know where the weapons are?
+[NPC] Menlil Toresun chuckles, he nods as if he knows exactly where they are.
+[NPC] Menlil Toresun: They are in each of us.
+[NPC] Menlil Toresun: Tisd relates very little to what came after Lerivia's death.
+[NPC] Menlil Toresun: In fact, everything you heard about her and them is myth and legend, traditions for the most recent stories.
+[NPC] Menlil Toresun: The Diaboli of Tisd confided "Defiance" and "Confidence" to his daughter Mzapt, who was an Ynnwn.
+[NPC] Menlil Toresun: Mzapt joined the cause and brought more with her.
+[NPC] Menlil Toresun: Though, Mzapt was a radical.
+[NPC] Menlil Toresun: She developed a wild hate toward Dermorians, probably linked to her mother.
+[NPC] Menlil Toresun: She had quite a number of disciples.
+[NPC] Menlil Toresun: She slowly pushed the Ynnwn out of Dermorian influence while the Diaboli were on their way to disappearing into the Death Realm.
+[NPC] Menlil Toresun: With hindsight, we could say that she contributed to forging the Ynnwn a proper identity.
+[NPC Internal] Ah! That's interesting. Thank you, Menlil. Any ideas what she did then? Where are the weapons today?
+[NPC] Menlil Toresun continues talking as if you said nothing.
+[NPC] Menlil Toresun: But a character with such a furious personality would never end well, in a legend.
+[NPC] Menlil Toresun: Ynnwn are a peaceful people, they melt in the population they meet, in their culture, they adapt.
+[NPC] Menlil Toresun pauses and then speaks slowly.
+[NPC] Menlil Toresun: A mage marginalized Mzapt, convincing the community that she was a clear danger they should fear.
+[NPC] Menlil Toresun: A riot is said to have taken place and Mzapt had to give up Lerivia's weapons to a charismatic mage.
+[NPC] Menlil Toresun: And he went off with them, preaching his ideal of peace and unity.
+[NPC Internal] A mage... Who was he? To which Way Circle did he belong?
+[NPC] Menlil Toresun: Hum.
+[NPC] Menlil Toresun takes some time to remember.
+[NPC] Menlil Toresun: The legend calls him Daxosh Morona, if I recall.
+[NPC] Menlil Toresun: I believe he belonged to the Crystal Way Circle.
+[NPC] Menlil Toresun smiles as you thank him and walk away.
+[NPC] Menlil Toresun: May Laanx frighten the shadow from your path.
+
+[To] Govell Mihdren
+
+[NPC Internal] Hello Archmage. Could you tell me what you know of a mage called Daxosh Morona?
+[NPC] Govell Mihdren: Ah.
+[NPC] Govell Mihdren: You are the Klyros searching for "Defiance" and "Confidence".
+[NPC] Govell Mihdren: I know the tale of this mage well.
+[NPC] Govell Mihdren: The Circle often uses it to illustrate to our apprentices the various manners to use Crystal Way.
+[NPC] Govell Mihdren pauses then explains on in a confident tone.
+[NPC] Govell Mihdren: In fact, Daxosh was extraordinarily bad at magic.
+[NPC] Govell Mihdren: He couldn't even summon a proper energy arrow or cast the most basic healing spell.
+[NPC] Govell Mihdren: Despite this evident fact, he became one of the most respected members of the Circle.
+[NPC Internal] And I suppose it's because he was wielding "Defiance" and "Confidence"?
+[NPC] Govell Mihdren looks at you, a slightly worried yet benevolent expression develops.
+[NPC] Govell Mihdren: Daxosh was endowed of a very rare talent for persuasive rhetoric.
+[NPC] Govell Mihdren: He could convince anyone of anything or the opposite in a minute.
+[NPC] Govell Mihdren: He was able to gather people together, from different religions, races, motivations...
+[NPC] Govell Mihdren: In fact, he was extremely charismatic.
+[NPC] Govell Mihdren: Not exactly the most intelligent being, but kind hearted.
+[NPC] Govell Mihdren: The fact he supposedly wielded the weapons certainly contributed to the influence of his ideas.
+[NPC Internal] Why "supposedly"? I thought he took them from Mzapt. And why do you teach your apprentices about Daxosh if he couldn't even cast any Crystal Way spells?
+[NPC] Govell Mihdren: Because they are a myth, <strong>YOU</strong> as much as is Daxosh Morona.
+[NPC] Govell Mihdren: Also, he is the most brilliant representation of the famous "Crystal Aura".
+[NPC] Govell Mihdren: A spell isn't simply a mechanic, a technique.
+[NPC] Govell Mihdren: It's mostly what you make of it.
+[NPC Internal] "A myth", that's all I've heard since I started this research. I have the strong feeling that I've been conned this whole time.
+[NPC] Govell Mihdren: It's probably because it's true, <strong>YOU</strong>.
+[NPC] Govell Mihdren: You are on a quest.
+[NPC] Govell Mihdren: And its purpose is truly important.
+[NPC] Govell Mihdren: You must continue.
+[NPC] Govell Mihdren: Who knows, you might just find these weapons.
+[NPC Internal] If they are a myth, then how could I find them? I wish everyone would start to play fair.
+[NPC] Govell Mihdren: Play?
+[NPC] Govell Mihdren: This is not a game.
+[NPC] Govell Mihdren: Most Ynnwn, wonder about their culture at some point.
+[NPC] Govell Mihdren: To which culture do we belong, to which race do we feel a strong identity?
+[NPC] Govell Mihdren: Which races' past forged who we are now?
+[NPC] Govell Mihdren: Do we feel Ynnwn or do we feel like a simple fruit of a Dermorian and a Diaboli?
+[NPC] Govell Mihdren: What is being a Ynnwn?
+[NPC] Govell Mihdren: These are questions that many Ynnwn crave to answer.
+[NPC] Govell Mihdren: We don't feel diminished by it, but we are curious.
+[NPC] Govell Mihdren: It's the most positive attitude one can have, I think.
+[NPC] Govell Mihdren: We are proud people; it's our way to stand.
+[NPC] Govell Mihdren pauses, and asks gently.
+[NPC] Govell Mihdren: Now, do you wish to know more about "Defiance" and "Confidence"?
+[NPC Internal] Sure...
+[NPC] Govell Mihdren: The shield "Defiance" was given to Lerivia by her Dermorian father; the sword "Confidence" by her Diaboli mother.
+[NPC] Govell Mihdren: Lerivia's pure will to forge herself and her siblings an independent identity is said to have imbued the weapons with a kind of spiritual power.
+[NPC] Govell Mihdren: Or a magical power, I can't tell you which.
+[NPC] Govell Mihdren: Supposedly working like the Crystal Aura; on a greater scale, of course.
+[NPC Internal] That's why you teach about Daxosh and his use of this spell?
+[NPC] Govell Mihdren: Definitively, yes.
+[NPC] Govell Mihdren: It's a typical Ynnwn spell if you dare to push the argument that far.
+[NPC] Govell Mihdren smiles.
+[NPC] Govell Mihdren: Daxosh Morona was first based in Listarindel but preaching involved travelling in his great plan.
+[NPC] Govell Mihdren: The goal was to spread the word, to kindly present and support the existence and uniqueness of the Ynnwn race.
+[NPC] Govell Mihdren: He traversed the dome travelling to all the major cities including Ojaveda, Hydlaa, Gugrontid, Amdeneir and all seven of the Bronze Doors.
+[NPC] Govell Mihdren: He settled near the Eagle Bronze doors to be near to as many of the major cites as possible, this is where he stayed until passing to Dakkru.
+[NPC Internal] And that's where I shall go now, I suppose? The Eagle Bronze Doors?
+[NPC] Govell Mihdren: Most certainly.
+[NPC] Govell Mihdren: You could start by questioning the administrator at the fortress, Beniua Busuka.
+[NPC] Govell Mihdren insists, gravely.
+[NPC] Govell Mihdren: Remember who you are working for, <strong>YOU</strong>.
+
+
+[To] Beniua Busuka
+
+
+[NPC Internal] Good day, Miss Busuka. Do you have a minute? I am seeking information about the whereabouts of a mage called Daxosh Morona. I know he died not too far from here.
+[NPC] Beniua Busuka smiles, taking you gently to a more discreet corner of the room, not far from Aerayau Strongwill.
+[NPC] Beniua Busuka: Yes, <strong>YOU</strong>, I was waiting for you.
+[NPC] Beniua Busuka: I've made an effort to try and remember precisely what I've heard about it.
+[NPC] Beniua Busuka: As far as I recall, the weapons never left the fortress area.
+[NPC] Beniua Busuka: But it has no importance anymore now.
+[NPC] Beniua Busuka smiles.
+[NPC] Beniua Busuka: You've completed your quest already largely, I think.
+[NPC Internal] No, I haven't. I am searching for the weapons and I will continue do so until I find them or until I find proof that they never were anything but a myth.
+[NPC] Beniua Busuka: They ARE a myth.
+[NPC Internal] Is Lerivia Smare a myth then, as well?
+[NPC] Beniua Busuka: No, of course, not.
+[NPC] Beniua Busuka: Lerivia is history.
+[NPC] Beniua Busuka: She was as real as you and I.
+[NPC Internal] Then nothing proves that the weapons weren't real too?
+[NPC] Beniua Busuka seems speechless for a while then nods.
+[NPC] Beniua Busuka: You are right, nothing proves it.
+[NPC] Beniua Busuka: But in fact it doesn't really matter.
+[NPC] Beniua Busuka: What does matter is the "Ynnwn principle" itself, how alive it is.
+[NPC Internal] Without offence, Miss Busuka, I would be glad if the "Ynnwn principle" would cooperate more directly. I am working for Vigesimi Stronghand.
+[NPC] Beniua Busuka looks down, embarrassed. She then proposes.
+[NPC] Beniua Busuka: Let's say that it's true.
+[NPC] Beniua Busuka: That Lerivia really wielded "Defiance" and "Confidence", that those weapons were real.
+[NPC Internal] Let's say that, yes.
+[NPC] Beniua Busuka: Daxosh arrived here and most certainly came up to the fortress, at least to find a refuge.
+[NPC] Beniua Busuka: He could continue with his teachings in the surrounding villages and cities while being based here.
+[NPC] Beniua Busuka: His death must have occurred not so long ago, knowing that a Ynnwn can live around 130 cycles.
+[NPC] Beniua Busuka: Our race was already well integrated and seen positively in Yliakum.
+[NPC] Beniua Busuka: The weapons would likely have become useless, evidence a Ynnwn could achieve their goal without magical help.
+[NPC] Beniua Busuka: They fulfilled their and Lerivia's original goal.
+[NPC Internal] I understand your idea. But, for historic note, couldn't he have entrusted the items to someone?
+[NPC] Beniua Busuka: Could be.
+[NPC] Beniua Busuka: If that is the case, it would obviously be to an Ynnwn.
+[NPC] Beniua Busuka: I am sure.
+[NPC] Beniua Busuka: I have access to the fortress archives, I will go and dig there and try and get some names.
+[NPC] Beniua Busuka: Please, wait for me here, take a seat.
+[NPC] Beniua Busuka disappears off to look through the fortress records. As she does, you see Aerayau Strongwill motioning for you to approach him.
+
+
+[To] Aerayau Strongwill
+
+
+[NPC Internal] Commander Strongwill?
+[NPC] Aerayau Strongwill: <strong>YOU</strong>, apologies but I overheard your conversation with Miss Busuka.
+[NPC] Aerayau Strongwill: You are working for Vigesimi Stronghand?
+[NPC Internal] Yes, Commander Strongwill.
+[NPC] Aerayau Strongwill: Right.
+[NPC] Aerayau Strongwill: Please, assure the Vigesimi of my support.
+[NPC] Aerayau Strongwill then announces, almost excited.
+[NPC] Aerayau Strongwill: I might be able to contribute more concretely to her "project".
+[NPC] Aerayau Strongwill: The things you said to Beniua remind me of a Dermorian poem called "Spreading Roots".
+[NPC] Aerayau Strongwill: It's a metaphorical piece of text or so I thought, speaking of the fortress squadrons...
+[NPC] Aerayau Strongwill: I never made the link with Tisd until today!
+[NPC Internal] That's very interesting! Is there any information in this poem?
+[NPC] Aerayau Strongwill nods, looking to your left, blinking as he struggles to remember the text.
+[NPC] Aerayau Strongwill: Ah.
+[NPC] Aerayau Strongwill: I will try to write the poem down, it will come more easily then, I guess.
+[NPC] Aerayau Strongwill struggles some more, scribbling on a piece of parchment that he finally hands to you.
+[NPC] Aerayau Strongwill: There it is and...
+[NPC] Aerayau Strongwill: Ah!
+[NPC] Aerayau Strongwill: Miss Busuka is back.
+[NPC] Aerayau Strongwill: Remember, report my support to the Vigesimi, <strong>YOU</strong>, will you?
+[NPC] >You have received an Aerayau's Dermorian Poem.
+
+
+[To] Beniua Busuka
+
+
+[NPC Internal] Welcome back Beniua. And thank you. What did you find?
+[NPC] -She waves a folder filled of old paper in front of you, proudly.-
+[NPC] -Her forehead is covered with dust and she coughs some.-
+[NPC] Beniua Busuka: I quickly browsed those documents.
+[NPC] Beniua Busuka: Unfortunately there were very few Ynnwn in the fortress and they were all soldiers.
+[NPC] Beniua Busuka: Maybe that's a good thing...fewer people to track down.
+[NPC] Beniua Busuka: Maybe one of them is the right one, but all were stationed deeper in the surrounding caves or at outposts.
+[NPC Internal] And Dermorians?
+[NPC] Beniua Busuka: Dermorians?
+[NPC] Beniua Busuka: Why Der...
+[NPC] Beniua Busuka interrupts herself as if she just understood.
+[NPC] Beniua Busuka: Ohh!
+[NPC] Beniua Busuka: Yes!
+[NPC] Beniua Busuka: Why not?
+[NPC] Beniua Busuka: It would fit with Daxosh's idea of unity and peace.
+[NPC] Beniua Busuka: Indeed.
+[NPC] Beniua Busuka: Let me check...
+[NPC] -She opens the folder and reads a bit in silence then pokes a line.-
+[NPC] Beniua Busuka: There.
+[NPC] Beniua Busuka: Four were listed...
+[NPC] Beniua Busuka: Hmm, soldier...
+[NPC] Beniua Busuka: Hmm.
+[NPC] Beniua Busuka: Ah.
+[NPC] Beniua Busuka: This one was an officer, Dalantai Seorin...
+[NPC] Beniua Busuka: Ah, no, pardon me, he's 60 years old and still alive.
+[NPC] Beniua Busuka: A bit young for Daxosh, I believe...
+[NPC] Beniua Busuka: Wait.
+[NPC] Beniua Busuka: This one was responsible of the civilian barracks.
+[NPC] Beniua Busuka: It's a woman, Bayarma Falarill.
+[NPC] Beniua Busuka: The approximate dates fit, as well as her activity...
+[NPC] Beniua Busuka looks at you expectantly as much proud as curious in unexpected hope.
+[NPC Internal] Please, read this. [You hand Beniua the poem Aerayau Strongwill gave you.]
+[NPC] Beniua Busuka reads, clearly impressed.
+[NPC] Beniua Busuka: By Laanx!
+[NPC] Beniua Busuka: Braid my hairs and call me a rivnak, I never even imagined this could be!
+[NPC] Beniua Busuka's now speechless, hands you a token to take the pterosaur back to Hydlaa.
+[NPC] Beniua Busuka: Use if you can to get back faster.
+[NPC] Beniua Busuka: Thank you, <strong>YOU</strong>.
+[NPC] Beniua Busuka: I believe that now, we have a conclusion.
+
+
+[To] Amidison Stronghand
+
+
+[NPC Internal] Vigesimi Stronghand, I think I solved the great "riddle" you assigned to me. I can't tell for sure if it's all a myth or true history, but the fact remains. [You summarize the information you gathered for Amidison and give her the poem.]
+[NPC] Amidison Stronghand: And so the brave soul is back from her journey.
+[NPC] Amidison Stronghand puts a hand on your shoulder after reading the poem.
+[NPC] -You can feel her emotion.-
+[NPC] Amidison Stronghand: <strong>YOU</strong>, what you accomplished these past few days was, is, truly a gift for the Ynnwn people.
+[NPC] Amidison Stronghand: You probably realized it by now but you renewed the link that unifies us all.
+[NPC] Amidison Stronghand: This is the strength of our people, to be able to gather everyone under a cause, be it good or bad, it is our purpose.
+[NPC] Amidison Stronghand: This is why we prefer to live in cities and this is why we are imbued of other races culture.
+[NPC] Amidison Stronghand: We are a binding.
+[NPC Internal] The Crystal Aura of Daxosh...
+[NPC] Amidison Stronghand nods, laughing, probably out of nervousness or simply joy.
+[NPC] Amidison Stronghand: Exactly!
+[NPC] Amidison Stronghand: To be perfectly honest though, I ignored the existence of this poem and the possible link to "Defiance" and "Confidence" with the Shadow and Sunshine squadrons.
+[NPC] Amidison Stronghand: The "challenge" and "audacity" of the poem surely refer to them.
+[NPC] Amidison Stronghand: This is incredible.
+[NPC] Amidison Stronghand: Truly is.
+[NPC] Amidison Stronghand: You went beyond all my expectations and I can't thank you enough.
+[NPC] Amidison Stronghand: I'm sorry for not laying all my cards on the table at the beginning.
+[NPC] Amidison Stronghand: I wanted to avoid influencing you in any way.
+[NPC] Amidison Stronghand: You more than deserve these crafting manuals as a reward.
+[NPC] Amidison Stronghand: It seems pale now compared to the joy I feel.
+[NPC] Amidison Stronghand: Here you go.
+[NPC] Amidison Stronghand hands you two books.
+[NPC] Amidison Stronghand: There are two of them...one for light shields and one for heavy shields.
+[NPC] Amidison Stronghand: You probably have enough of these books by now to fill a library.
+[NPC] Amidison Stronghand: I guess there was too much information for just a single book, so they made two.
+[NPC Internal] Thank you Vigesimi Stronghand, I truly appreciate it. This will be put to good use. Oh, by the way, Aerayau Strongwill assures you of his unstinting support.
+[NPC] Amidison Stronghand looks into the distance, her eyes shining with a renewed pride.
+[NPC] -She even seems taller, her calm assurance almost palpable.-
+[NPC] Amidison Stronghand: We can be proud now.
+
+[Reward] [Item] 1, Enchanting Light Shields; [Item] 1, Enchanting Heavy Shields; [Faction] x, with Ynnwn; [XP] 15000;
+

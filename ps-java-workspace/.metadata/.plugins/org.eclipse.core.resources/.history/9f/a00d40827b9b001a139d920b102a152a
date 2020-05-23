@@ -1,0 +1,10 @@
+package questTextObjects;
+
+public class QuesttextNpcNarrate extends Questtext {
+	
+	public QuesttextNpcNarrate(String text) {
+		super(text);
+	}
+
+
+}

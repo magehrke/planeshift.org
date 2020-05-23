@@ -1,0 +1,195 @@
+[Questname] Gulm Ossoe and the Broken Legs
+[NPC Name] Gulm Ossoe
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Gulm Ossoe Needs Gems
+
+[To] Gulm Ossoe
+
+[NPC Internal] Is there anything I can do for you? A small job perhaps?
+[NPC] Gulm: YOU! I am so glad to see you!
+[NPC Narrate] -Gulm blinks.-
+[NPC] Gulm: Huh?
+[NPC] Gulm: What…oh don't look so surprised I know your name.
+[NPC Narrate] -Gulm laughs.-
+[NPC] Gulm: When someone works as hard as you have been working, word travels fast.
+[NPC] Gulm: I have also had much good to say about you.
+[NPC Narrate] -Gulm frantically looks around.-
+[NPC] Gulm: But I am forgetting already!
+[NPC] Gulm: I need your help most importantly.
+[NPC Narrate] -Gulm nods.-
+[NPC] Gulm: Much to do, much to do!
+[NPC] Gulm: Can you help?
+[NPC Narrate] -Gulm looks hopeful.-
+[NPC] Gulm: The reward will be worth your time.
+[NPC Internal] Of course, you said the magic word…reward.
+[NPC Narrate] -Gulm nearly jumps with joy.-
+[NPC] Gulm: Thank you, YOU.
+[NPC] Gulm: Much good this is!
+[NPC Narrate] -Gulm reaches around and grabs a statue and points to the statue's legs, which have been broken off.-
+[NPC] Gulm: Look at this!
+[NPC] Gulm: How can you have an Enkidukai without legs?!
+[NPC] Gulm: How?!
+[NPC] Gulm: I need to fix this…and…
+[NPC Narrate] -Gulm looks embarrassed.-
+[NPC] Gulm: …do some more research on the subject so I can fill in the details.
+[NPC Narrate] -Gulm gently sets the statue down, careful not to cause any more damage. Gulm looks at you with a serious expression.-
+[NPC] Gulm: What I need is someone to run some errands for me so I can focus on the sculpting itself.
+[NPC] Gulm: First thing, go to Fholen Medraa; he is in Hydlaa.
+[NPC] Gulm: Retired miner he is.
+[NPC] Gulm: He has a drawing sketched out for me with some details we could not agree on.
+[NPC] Gulm: I need it.
+[NPC] Gulm: When you find Fholen, tell him I sent you, and he should give you the drawing.
+[NPC Narrate] -Gulm waves as you depart.-
+
+[To] Fholen Medraa
+
+[NPC Internal] Hello. Gulm Ossoe sent me for a drawing.
+[NPC] Fholen: Gulm Ossoe you say…
+[NPC Narrate] -Fholen nods.-
+[NPC] Fholen: Sent you for that sketch?
+[NPC Narrate] -Fholen leans towards you, giving you a good once over.-
+[NPC] Fholen: Here you go.
+[NPC Narrate] -Fholen hands you a rolled parchment.-
+[NPC] Fholen: Make sure you give this to Gulm.
+[NPC] Fholen: I don't want any mistakes in my sculpture.
+
+[To] Gulm Ossoe
+
+[NPC Internal] I have your drawing.
+[NPC Narrate] -Gulm carefully unbinds the parchment and rolls it out.-
+[NPC] Gulm: Oh…
+[NPC] Gulm: lovely.
+[NPC Narrate] -Gulm carefully rolls the parchment back up and tucks it out of harm's way.-
+[NPC] Gulm: One thing down.
+[NPC] Gulm: Thank you, YOU.
+[NPC Narrate] -Gulm looks around thoughtfully and then spots the broken-legged statue. Gulm looks back at you with a worried expression on kra's face.-
+[NPC] Gulm: I need more clay, but my normal supplier is out!
+[NPC] Gulm: She said her shipment is not due to arrive for many days.
+[NPC Narrate] -Gulm looks at you.-
+[NPC] Gulm: I have heard of someone else…
+[NPC] Gulm: not met him have I…
+[NPC] Gulm: but I have a good description.
+[NPC] Gulm: Think you can track him down for me?
+[NPC Internal] Sure I can try and find this mystery man.
+[NPC] Gulm: Good good.
+[NPC] Gulm: From what hear, he is a male Stonebreaker.
+[NPC] Gulm: He wears some heavy clothes, good for travelling I 'spect.
+[NPC Narrate] -Gulm looks thoughtful.-
+[NPC] Gulm: Oh yes, he is often seen carrying a big set of rolled up ropes on his shoulders while he's working in Hydlaa.
+[NPC] Gulm: Find him and ask him about the clay.
+[NPC Narrate] -Gulm waves.-
+[NPC] Gulm: Good luck.
+
+[To] Edrich Sultov
+
+[NPC Internal] Hello, I'd like to buy some clay. I heard you had some for sale.
+[NPC] Edrich: What's that?
+[NPC] Edrich: Clay you said?
+[NPC Narrate] -Edrich looks at you curiously and checks his notes.-
+[NPC] Edrich: Eh, I have some due in the next caravan.
+[NPC Narrate] -Edrich adjusts the ropes on his shoulders.-
+[NPC] Edrich: Tell ya what.
+[NPC] Edrich: I can sell ya the last of what I have for six circles, or you can do me a favour.
+[NPC Narrate] -Edrich smiles broadly.-
+[NPC] Edrich: So which will it be, buy or help?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] I'm in a hurry, so I'll just buy it.
+[NPC Narrate] -Edrich Sultov nods.-
+[NPC] Edrich: That'll be six circles.
+[NPC] Edrich: Hand 'em over.
+[NPC Internal] Here you go, six circles.
+[NPC Narrate] -Edrich writes up a quick receipt and hands it to you.-
+[NPC] Edrich: Pleasure doin' business with ya.
+[NPC] Edrich: Give that to Gulm and one o'my guys will be by with the clay shortly.
+
+[Way] 2
+
+[NPC Internal] I'll be glad to help.
+[NPC Narrate] -Edrich nods.-
+[NPC] Edrich: Not one to waste a tria, I see.
+[NPC Narrate] -Edrich laughs.-
+[NPC] Edrich: Only works to my benefit, ya see.
+[NPC] Edrich: There's this couple, the Colats.
+[NPC] Edrich: Serevim and Dhalia to be exact.
+[NPC] Edrich: I owe them a bit for a performance they did.
+[NPC Narrate] -Edrich holds up a pouch and then tosses it to you.-
+[NPC] Edrich: Give this to Serevim.
+[NPC] Edrich: If he asks who it is from, make sure you tell him it is from Edrich.
+[NPC] Edrich: I should have the shipment in by the time you get back.
+[NPC Narrate] -Edrich speaks as you turn to leave.-
+[NPC] Edrich: Remind me about the clay when you finish, and it'll be yours.
+
+[To] Serevim Colat
+
+[NPC Internal] Hello, Edrich sent me to give you this.
+[NPC Narrate] -Serevim opens the pouch.-
+[NPC] Serevim: Our payment from Edrich.
+[NPC Narrate] -Serevim bows to you and hands the pouch to Dhalia.-
+[NPC] Serevim: Thank you, Gemma.
+
+[To] Edrich Sultov
+
+[NPC Internal] Delivery done, I'm back for the clay.
+[NPC Narrate] -Edrich smiles.-
+[NPC] Edrich: Ah yes.
+[NPC] Edrich: That was quick!
+[NPC Narrate] -Edrich picks up a sturdy crate and carefully hands it to you.-
+[NPC] Edrich: Here you go!
+[NPC] Edrich: Take care now, it's heavy.
+
+[Way] 1, 2
+
+[To] Gulm Ossoe
+
+[NPC Internal] gives Gulm the crate of clay.
+[NPC Narrate] -Gulm takes the crate.-
+[NPC] Gulm: I am impressed!
+[NPC Narrate] -Gulm gives you a sly wink.-
+[NPC] Gulm: Much good work.
+[NPC] Gulm: You have proved yourself very dependable YOU.
+[NPC Narrate] -Gulm grins.-
+[NPC] Gulm: You got it in you for one more errand?
+[NPC Internal] Yes, I have time to help you once more.
+[NPC Narrate] -Gulm nods.-
+[NPC] Gulm: Last task that I need help with.
+[NPC] Gulm: There is a historian in Hydlaa who came to visit me the other day.
+[NPC] Gulm: She promised me some more information on my subject if I would just come and get it.
+[NPC Narrate] -Gulm looks embarrassed.-
+[NPC] Gulm: I forgot her name with all the activity.
+[NPC] Gulm: She is a Stonebreaker.
+[NPC] Gulm: I noticed one of them eye things…monocles I think it's called…hanging from her shirt.
+[NPC Narrate] -Gulm looks at you.-
+[NPC] Gulm: Find her and tell her I sent you.
+[NPC] Gulm: She should give you a packet of information.
+[NPC Narrate] -Gulm bows.-
+
+[To] Aliress Doomforge
+
+[NPC Internal] Hello! Gulm sent me to see you.
+[NPC] Aliress: Gulm Ossoe, ah yes.
+[NPC Narrate] -Aliress giggles softly.-
+[NPC] Aliress: Such a lovely Kran.
+[NPC Narrate] -Aliress hands you a small packet of information.-
+[NPC] Aliress: This is for Gulm, it contains some drawings, a few stories I have heard over the years, and some notes I took when interviewing her father.
+
+[To] Gulm Ossoe
+
+[NPC Internal] Here is your information.
+[NPC] Gulm: Much good!
+[NPC] Gulm: Much good!
+[NPC Narrate] -Gulm puts the packet away.-
+[NPC] Gulm: You have been much help YOU.
+[NPC Narrate] -Gulm hands you a small pouch with many coins inside.-
+[NPC] Gulm: These are for you.
+[NPC Narrate] -Gulm then pulls out two weapons.-
+[NPC] Gulm: I have no use for these…please take the one that you prefer and I hope to see you again in our village.
+[NPC] Gulm: Thank you again for everything you have done for me.
+
+[Reward] [Money] 9922; [XP] 16400; [OR Begin] [Item] 1, Balanced Dagger of Gulm [OR] [Item] 1, Platinum Sabre [OR End]; [Faction] 35, Artists Association
+

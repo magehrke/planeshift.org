@@ -1,0 +1,248 @@
+[Questname] A Dwarf's Wish
+[NPC Name] Grimal Bloodaxe
+[Checkup] 2017-03-31
+
+[Authors] Huarwar Eruera
+[Comments] Details from duduandlele from 2014 say that you get either the Rain or the Water Glyph. But when I did it 2017, I got the purify glyph.
+
+[Need] [Quest] Grimal's Tribute to Talad; [Money] 200; [Item] 2, Platinum Stock; [Item] 2, Bronze Stock; [Item] 10, Coal Lump
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Hello again, Grimal.
+[NPC] Grimal: Nice to see you back, Huarwar!
+[NPC] Grimal: Now that my thanks to Talad have been said, surely he will be pleased.
+[NPC] Grimal: Now, I feel rested and I have achieved most of what I wanted in my lifetime.
+[NPC ME] Grimal Bloodaxe grins and points at himself.
+[NPC] Grimal: However, this old dwarf feels like going on another adventure, a real adventure.
+[NPC] Grimal: I would like to venture into the Stone Labyrinths once more, would you help me prepare for that?
+[NPC Internal] Yes, I think I can help you.
+[NPC ME] Grimal Bloodaxe smirks.
+[NPC] Grimal: I'd have bet my beard that you'd help me.
+[NPC] Grimal: First of all, I'd like my old axe back, it has been in my family since we arrived in Yliakum.
+[NPC ME] Grimal Bloodaxe looks proud.
+[NPC] Grimal: My ancestors were great heroes, their beards were heavy with battle tokens.
+[NPC] Grimal: I gave my axe to my son Raerul when I retired, as he would need it more than me, but now I will need it once more.
+[NPC] Grimal: Tell him to give you the axe, and bring it back fast.
+[NPC ME] Grimal Bloodaxe grins.
+[NPC] Grimal: My hands can't wait to feel the grip of my good old axe again.
+
+[To] Raerul Bloodaxe
+
+[NPC Internal] Grimal sent me to get his old axe back.
+[NPC ME] Raerul Bloodaxe looks at you and rubs his neck.
+[NPC] Raerul: By my beard, I almost forgot about that old thing.
+[NPC] Raerul: My father can't have the axe back, it is impossible.
+[NPC] Raerul: I'm really sorry, Klyros, but you'll have to tell him he can't have the axe back.
+[NPC Internal] Why can't you give me the axe?
+[NPC ME] Raerul Bloodaxe looks at you and strokes his beard.
+[NPC] Raerul: Well, I had the axe with me when I was on a mission to fight some ulbernauts, ferocious and hungry beasts they were.
+[NPC] Raerul: During the fight, the axe was knocked from my hand and struck a stone and it broke.
+[NPC ME] Raerul Bloodaxe casts an ashamed look down at his feet.
+[NPC] Raerul: It was my ancestor's axe.
+[NPC Narrate] -His eyes seem to sparkle with ambition.-
+[NPC] Raerul: Ho!
+[NPC] Raerul: You can take the axe to Trasok and see whether he can repair it.
+[NPC] Raerul: I'd be mighty pleased, and I'm sure my father will be too.
+[NPC] Raerul: Here are the axe parts.
+[NPC ME] Raerul Bloodaxe hands you two pieces of an axe.
+[NPC] Raerul: When the axe is repaired take it directly to my father; he needs it for good, I bet.
+[NPC] Raerul: Probably wants to get even more tokens.
+
+[To] Trasok Starhammer
+
+[NPC Internal] Can you try and fix these?
+[NPC ME] Trasok Starhammer looks at the pieces and a smile crosses his face.
+[NPC] Trasok: This was a fine piece of dwarven work once, I know good work when I see it.
+[NPC] Trasok: A shame it is broken.
+[NPC ME] Trasok Starhammer looks up from the axe pieces to you.
+[NPC] Trasok: I guess you want me to repair it?
+[NPC Internal] Yes, I would like you to.
+[NPC ME] Trasok Starhammer runs his blackened hands over the edges of the broken parts.
+[NPC] Trasok: This axe seems to be made of a special alloy, however it wasn't well maintained.
+[NPC] Trasok: So it got rusty and broke.
+[NPC ME] Trasok Starhammer points at the broken parts and some of the stress fractures.
+[NPC] Trasok: I think I should be able to fix it, though it'll take me a while.
+[NPC] Trasok: I'll need some bronze and platinum in order to bind the parts together strongly enough for the axe to be worth using again.
+[NPC Narrate] -He plays with a few pieces of his beard as he thinks a little.-
+[NPC] Trasok: Two stocks of each should suffice.
+[NPC] Trasok: Bring them to me and I can start repairing the weapon, oh, and it'll be 200 tria for the labour, so bring the money along as well, will ya?
+[NPC ME] Trasok Starhammer grins.
+[NPC] Trasok: You can pay me when I am done with the work, of course.
+
+[Give] Trasok Starhammer; 2, Platinum Stocks
+
+[NPC Internal] Here are the platinum stocks.
+[NPC ME] Trasok Starhammer takes the stocks and places them into the furnace while Talking to you.
+[NPC] Trasok: Alright, Let's give this a melt.
+[NPC ME] Trasok Starhammer begins working on the Platinum then puts it down for a second.
+[NPC] Trasok: Pass over the Bronze Stock there, Klyros.
+
+[Give] Trasok Starhammer; 2, Bronze Stocks
+
+[NPC Internal] Here are your bronze stocks.
+[NPC ME] Trasok Starhammer takes the stocks from you and turns towards the tables, where the axe pieces are now placed.
+[NPC] Trasok: Fine, fine.
+[NPC] Trasok: I shall start fixing this right now, return to me later and ask if I am done.
+
+[Time] Wait 5 minutes
+
+[NPC Internal] Are you done yet?
+[NPC ME] Trasok Starhammer is running the blade of the axe over the sharpening stone as you arrive.
+[NPC Narrate] -He stops as you approach him, looking at you.-
+[NPC] Trasok: Aye, I am done.
+[NPC] Trasok: I can proudly say I did a good job with the axe, it looks as good as new.
+[NPC ME] Trasok Starhammer puts the axe on the counter.
+[NPC] Trasok: Next time, make sure you look after it better or I'll charge you a lot more to repair it.
+[NPC] Trasok: A good cleaning now and then will help prevent things like this happening.
+[NPC] Trasok: Now, that'll be 200 tria for my work, Sir.
+
+[Give] Trasok Starhammer; 200, Tria
+
+[NPC Internal] Here is your payment.
+[NPC] Trasok: Pleasure doing business with you, Sir.
+[NPC] Trasok: If you ever have anything else to repair, return to me!
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Here, I have your axe.
+[NPC ME] Grimal Bloodaxe takes the axe and swings it around.
+[NPC] Grimal: Hah, it's still in good shape!
+[NPC Narrate] -He frowns a little at it.-
+[NPC] Grimal: Almost as good as new...
+[NPC] Grimal: Huh, well I am glad my son takes care of his ancestors' heritage!
+[NPC ME] Grimal Bloodaxe looks at you, obviously pleased.
+[NPC] Grimal: Thank you for bringing my axe back.
+[NPC Narrate] -As he holds the axe in his hands there is clearly a strong bond between them.-
+[NPC] Grimal: Ya know, this axe was the one that saved me in the Stone Labyrinth.
+[NPC] Grimal: I held it in my hands while praying to Talad for his protection.
+[NPC] Grimal: As those I was with were being dragged off into the shadows I felt a heat push through me.
+[NPC] Grimal: With faith Talad would guide me I lifted myself to my feet and fought off everything that came at me.
+[NPC ME] Grimal Bloodaxe wipes a finger print off the blade.
+[NPC] Grimal: It's nice to hold it once more.
+[NPC Internal] I'm glad I could help you.
+[NPC] Grimal: Now to the next part of my adventure.
+[NPC ME] Grimal Bloodaxe grins.
+[NPC] Grimal: An old dwarf doesn't travel well without tria, you know?
+[NPC] Grimal: Food and drink are easy to get, like in the old days in the wilderness.
+[NPC] Grimal: I'll live off what the land gives me.
+[NPC ME] Grimal Bloodaxe chuckles and strokes the side of his axe.
+[NPC] Grimal: Even if that means I have to cook an ulbernaut.
+[NPC ME] Grimal Bloodaxe suddenly looks sad.
+[NPC Internal] What's wrong?
+[NPC ME] Grimal Bloodaxe sighs a little as he begins to speak.
+[NPC] Grimal: My first born son was a guard like me, and we often went out exploring together.
+[NPC] Grimal: We were sent after some thieves into the Stone Labyrinths, and they took us by surprise.
+[NPC] Grimal: My son was killed by them, but I managed to escape.
+[NPC] Grimal: I resigned as a guard that very day and I even stopped adventuring into the unknown.
+[NPC ME] Grimal Bloodaxe inhales deeply and sighs.
+[NPC] Grimal: But life goes on, after all.
+[NPC] Grimal: Commander Strongwill still owes me my last salary, I never collected it.
+[NPC] Grimal: You should speak to Beniua Busuka about it, my friend.
+
+[To] Beniua Busuka
+
+[NPC Internal] Grimal sent me to collect his last salary payment.
+[NPC ME] Beniua Busuka rubs her chin.
+[NPC] Beniua: Let me check the records, hold on a minute please.
+[NPC ME] Beniua Busuka opens a book and turns a few pages until she stops.
+[NPC Narrate] -Her fingers run along the pages until they stop again and Beniua looks at you.-
+[NPC] Beniua: I see, he is still owed one monthly salary that he never came to claim.
+[NPC] Beniua: He just quit and left.
+[NPC ME] Beniua Busuka shrugs.
+[NPC] Beniua: You can have it, if you just provide your signature as Grimal Bloodaxe's envoy here.
+[NPC ME] Beniua Busuka shows you a form and points to an empty line.
+[NPC] Beniua: Would you sign this for me?
+[NPC Internal] Yes, I'll sign it.
+[NPC ME] Beniua Busuka hands you a small sack with several coins inside as you sign the form.
+[NPC] Beniua: Here you go, Klyros.
+
+[To] Grimal Bloodaxe
+
+[NPC Internal] Here is your missing pay.
+[NPC ME] Grimal Bloodaxe eagerly pours the contents of the sack into his left palm and counts the coins.
+[NPC] Grimal: Well done, my friend!
+[NPC] Grimal: I see the Octarchy still cares for their former guards.
+[NPC] Grimal: However, there is one more thing I'd like you to do before I will venture into the Labyrinths.
+[NPC Narrate] -He stretches his back for a few moments.-
+[NPC] Grimal: I'd like to create a battle token in honour of all my ancestors, clan members, and fellow guards who died in battle, especially my eldest son.
+[NPC] Grimal: Please go and have two battle tokens made, one for me and one for my son Raerul.
+[NPC MY] Grimal Bloodaxe's eyes sparkle with excitement.
+[NPC] Grimal: Here, take the badge of my clan.
+[NPC] Grimal: Either Harnquist or Trasok will be able to make a battle token from it, but I'd rather prefer Trasok doing it, as it's dwarves business.
+[NPC] Grimal: Be sure to bring Raerul his first, I'd like to know what he thinks of it when you bring me mine.
+
+[Info] If you use Harnquist, you won't need the coal, you'll get 'Poorly Crafted Bloodaxe Battle Tokens' to deliver, and the final reward is 10800 exp., 2107 tria, and NO Glyph! The dialog sequence is essentially the same in either case. — Chris 2013/09/09 13:25
+
+[To] Trasok Starhammer
+
+[NPC Internal] Here.
+[NPC ME] Trasok Starhammer glances at the badge in your hand.
+[NPC] Trasok: Good to see you again, Klyros.
+[NPC] Trasok: What is it this time?
+[NPC Internal] I need you to craft some battle tokens.
+[NPC] Trasok: I see...
+[NPC] Trasok: A good battle token takes time to craft, though.
+[NPC] Trasok: I'm getting a bit low on coal, if you could fetch me ten lumps I'd gladly accept them as payment for the token.
+[NPC] Trasok: I should be finished when you return, how many tokens did you need?
+[NPC Internal] Just two.
+[NPC ME] Trasok Starhammer nods.
+[NPC] Trasok: I will start working on it right away, Klyros.
+[NPC ME] Trasok Starhammer nods at you.
+[NPC] Trasok: Till you return with the coal, friend!
+
+[Give] Trasok Starhammer; 10, Coal Lump
+
+[NPC Internal] Here, I have your coal.
+[NPC ME] Trasok Starhammer takes the coal from you and shows you two beautifully crafted tokens.
+[NPC] Trasok: These are surely two of the finest battle tokens I've made so far, here, take them.
+
+[To] Raerul Bloodaxe
+
+[NPC Internal] This is for you.
+[NPC ME] Raerul Bloodaxe looks at the battle token with curiosity.
+[NPC] Raerul: Who sent me this?
+[NPC] Raerul: This is my clan's badge on the battle token!
+[NPC Internal] Your father sent it.
+[NPC ME] Raerul Bloodaxe looks touched.
+[NPC] Raerul: By my beard, I feel honoured!
+[NPC] Raerul: Please tell my father that I am grateful for this.
+[NPC] Raerul: Does this mean you had the axe repaired?
+[NPC Internal] Yes, in fact I did.
+[NPC ME] Raerul Bloodaxe nods.
+[NPC] Raerul: Thank you again, I am grateful for your services to me and my father.
+
+[To] Grimal Bloodaxe
+
+[NPC ME] Grimal Bloodaxe is lying on his back as he looks up at you as you approach.
+[NPC] Grimal: Don't say anything...
+[NPC] Grimal: I know I know...
+[NPC ME] Grimal Bloodaxe mutters something else which you can't quite make out.
+[NPC Internal] Here is your token.
+[NPC ME] Grimal Bloodaxe reaches up and eyes the token carefully.
+[NPC] Grimal: This is marvellous, my friend!
+[NPC] Grimal: A true masterpiece.
+[NPC] Grimal: Thank you for helping me once more, my friend...
+[NPC] Grimal: I was hoping to be ready for my adventure by now, and without your help I wouldn't have been able to manage it.
+[NPC] Grimal: But...
+[NPC] Grimal: It seems even with your help I'm my own biggest problem.
+[NPC] Grimal: I am indebted, my friend.
+[NPC ME] Grimal Bloodaxe forces a painful smile as his old back continues to hurt.
+[NPC] Grimal: Please, keep my clan badge, from now on you shall be an honorary member of the proud Clan Bloodaxe!
+[NPC ME] Grimal Bloodaxe grimaces at you as his back twinges.
+[NPC] Grimal: Have a good day.
+[NPC] Grimal: I shall prepare myself for the adventure well...
+[NPC] Grimal: Later.
+[NPC] Grimal: Oh and before I forget it, here's a part of my salary so you can buy yourself an ale in the tavern for all the work you did.
+[NPC] Grimal: May Talad's light shine upon your path.
+[NPC] Grimal: One more thing, did my son happen to say anything when you gave him his token?
+[NPC Internal] He said he was grateful.
+[NPC ME] Grimal Bloodaxe looks pleased, if not slightly uncomfortable.
+[NPC] Grimal: There is one more thing I have for you, a treasure of mine I found while adventuring in the Stone Labyrinth.
+[NPC] Grimal: I am not much of a mage so I don't need it any more now I have my axe back.
+[NPC] Grimal: Please accept it as a symbol of our friendship.
+[NPC] Grimal: We shall talk when I am back...from my adventure.
+[NPC] Grimal: But right now I'm going to just lie here and relax, maybe once I sort myself out i can consider going again, my friend.
+[NPC ME] Grimal Bloodaxe tosses a glyph up at you.
+
+[Reward] [XP] 12200; [Money] 3391; [OR Begin] [Item] 1, Rain glyph [OR] [Item] 1, Water glyph [OR] [Item] 1, Purify Glyph [OR End]; [Faction] 25, Conclave of the Glyphs

@@ -1,0 +1,69 @@
+[Questname] The Valiant Shield Project
+[NPC Name] Harnquist
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning Shield Working; [Item] 30, Steel Ingots; [Item] 3, Shield Bands; [Item] 2, Edgings; [Item] 1, Shield Shape; [Skill] 15, Shield Making
+
+[Info] Rank 15 in Shield Making is uncertain.
+
+[To] Harnquist
+
+[NPC Internal] Hello, Harnquist, what are you doing?
+[NPC] Harnquist: What am I doing?
+[NPC] Harnquist: Well, well, well…now that's an interesting question.
+[NPC Narrate] -Harnquist grins a bit and chuckles, shaking his head.-
+[NPC] Harnquist: Nevermind, I'm messing with you.
+[NPC] Harnquist: I wrote a manual about crafting a special shield, a nice one.
+[NPC] Harnquist: Would you like to know more?
+[NPC Internal] Sure! Let's hear it.
+[NPC] Harnquist: That's a good choice.
+[NPC] Harnquist: Look, I'm working on a Valiant Shield, and I'd love to teach you a bit about it.
+[NPC] Harnquist: But you'll need some steel first.
+[NPC] Harnquist: Go and get thirty ingots.
+[NPC] Harnquist: That's right, thirty.
+[NPC] Harnquist: If you have stock, melt them and recast into ingots.
+[NPC] Harnquist: I'll be waiting here.
+[NPC Internal] I've got the steel, and now?
+[NPC] Harnquist: Now, now is when the fun begins.
+[NPC] Harnquist: Heat some ingots up in the forge, not too much, and make a pair of good bands.
+[NPC] Harnquist: To do this, you'll need a few lessons in blacksmithing.
+[NPC] Harnquist: I will train you for that.
+[NPC] Harnquist: Once you are skilled enough, you can make bands yourself.
+[NPC] Harnquist: You'll also need a good amount of skill in shield making.
+[NPC] Harnquist: Trasok Starhammer in Ojaveda can train you for that.
+[NPC] Harnquist: If you already have these skills, for now you can use a Catalog of Shields to help you do this.
+[NPC] Harnquist: So, you take seven heated ingots and hammer them using the anvil into three shield bands.
+[NPC] Harnquist: Present them to me once you're done.
+[NPC] Harnquist: Remember, you'll need two for this task but seven ingots makes three bands.
+[NPC] Harnquist: One thing you'll find as a shield crafter is you can make many of these parts then use them as needed.
+[NPC Narrate] -You make 3 Shield Bands.-
+[NPC Internal] Am I doing it right?
+[NPC] Harnquist: Pretty good.
+[NPC] Harnquist: Now you should get two edgings.
+[NPC] Harnquist: For this, you'll need thirteen ingots.
+[NPC] Harnquist: That will make four edgings.
+[NPC] Harnquist: Again, heat the ingots then hammer them at the anvil.
+[NPC] Harnquist: Shouldn't be hard for you, huh?
+[NPC] Harnquist: Come on, I will wait for you.
+[NPC Narrate] -You make 4 Edgings.-
+[NPC Internal] And here I present you the edgings.
+[NPC] Harnquist: Nicely done, YOU.
+[NPC] Harnquist: The last thing you'll need will be a shield shape.
+[NPC] Harnquist: Make one using ten ingots and then come back to me so I can tell you how to finish your Valiant shield.
+[NPC Narrate] -You make a Shield Shape.-
+[NPC Internal] Here's the shape. Do I need anything else?
+[NPC] Harnquist: Good!
+[NPC] Harnquist: Now, have these.
+[NPC Narrate] -Harnquist hands you a wooden piece and a handle.-
+[NPC] Harnquist: This is a shield core and handle.
+[NPC] Harnquist: The core holds all the parts of the shield together.
+[NPC] Harnquist: I don't normally sell either of these but I happen to have a few on hand.
+[NPC] Harnquist: Check with other smiths when you want to stock up on some.
+[NPC] Harnquist: If you make shields on a regular basis, it's a good practice to keep a good amount of such supplies handy.
+[NPC] Harnquist: Now you use the preparation table to take two bands, two edgings, handle, shape, and core and combine them to a Valiant Shield Kit.
+[NPC] Harnquist: Then hold the kit and use the riveter to put it together.
+[NPC] Harnquist: Have this book so you will remember the process in the future.
+
+[Reward] [XP] 13600; [Item] 1, Wooden Shield Core; [Item] 1, Shield Handle; [Item] 1, Valiant Shield Diagram; [Faction] 25, Crafting Association
+

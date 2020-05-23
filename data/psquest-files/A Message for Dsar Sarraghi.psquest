@@ -1,0 +1,85 @@
+[Questname] A Message for Dsar Sarraghi
+[NPC Name] Murago Puntjal
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Murago Puntjal's Quick Favour; [Item] 1, Red Liquor
+
+[To] Murago Puntjal
+
+[NPC Internal] Greetings Murago, how's the book?
+[NPC] Murago: I remember you.
+[NPC] Murago: You're the Nolthrir who got me another copy of my book.
+[NPC] Murago: I have another task for you.
+[NPC] Murago: Interested?
+[NPC Internal] I've got some free time, how can I help?
+[NPC] Murago: That's the spirit.
+[NPC] Murago: Kindly deliver this message to the Shrine of Talad in Dsar Sarraghi.
+[NPC] Murago: There's a liaison in the Hydlaa Plaza by the name of Tarela Girshon.
+[NPC] Murago: She can help you if you require it.
+
+[To] Tarela Girshon
+
+[NPC Internal] Hi Tarela, Murago said you would be able to deliver a message to Dsar Sarraghi.
+[NPC] Tarela: May I see the message?
+[NPC Narrate] -Tarela holds out a paw.-
+[NPC Internal] gives Tarela the message.
+[NPC] Tarela: I see.
+[NPC] Tarela: Dsar Sarraghi is currently quarantined.
+[NPC] Tarela: I can't possibly get through.
+[NPC] Tarela: Unless…
+[NPC] Tarela: I have a lockbox containing an Azure Way glyph that will grant me the gift of stealth.
+[NPC] Tarela: I may be able to enter the Dsar undetected with this glyph.
+[NPC] Tarela: I'm holding the box at the Mikana mercantile company.
+[NPC] Tarela: Tell Jirosh that Talera sent you.
+[NPC] Tarela: I'm taking a big risk at contracting whatever sickness is inside the dsar, but Murago Puntjal pays well so I will do it.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Greetings Jirosh, I was sent by Tarela to pick up her lockbox.
+[NPC] Jirosh: I was wondering when she would claim her mysterious box.
+[NPC] Jirosh: Allow me to collect it.
+[NPC Narrate] -Jirosh bends down and searches through various boxes. He stands back up with a worry on his face.-
+[NPC] Jirosh: It's gone!
+[NPC] Jirosh: I accidentally sent it out on a caravan.
+[NPC] Jirosh: My records indicate they were placed on a caravan belonging to one Taemian Yangnk.
+[NPC] Jirosh: Find him, and get that lockbox back.
+[NPC] Jirosh: I'm really sorry about this.
+
+[To] Taemian Yangnk
+
+[NPC Internal] Hello, you got a lockbox mistakenly in your inventory, it belongs to me.
+[NPC] Taemian: Oh right, this box that didn't appear on the Mikana company invoice and that I didn't ask for.
+[NPC] Taemian: I couldn't figure out how to open it.
+[NPC] Taemian: An adventurer named Vaieund offered me a key that might open it in exchange for getting him some book?
+[NPC] Taemian: Bah, who has time for that?
+[NPC] Taemian: Anyway, I can't ever give away anything for free, so how about something to wet my beard?
+[NPC] Taemian: Some red liquor oughta do just fine.
+[NPC] Taemian: How's about a mugful?
+[NPC Internal] Here is your red liquor, now give me my box.
+[NPC Narrate] -Taemian guzzles the contents of the mug, then wipes his mouth with his sleeve, beard still dripping.-
+[NPC] Taemian: Ahhh.
+[NPC] Taemian: That'll make yer waterwheel churn.
+[NPC] Taemian: Here's the lockbox.
+[NPC] Taemian: Do with it what you will.
+
+[To] Tarela Girshon
+
+[NPC Internal] I have your lockbox.
+[NPC] Tarela: What took you so long?
+[NPC Narrate] -Tarela produces a key and opens the lockbox. You can't see inside it, but her face is bathed in a light blue glow. She closes the box.-
+[NPC] Tarela: Yes, this will do.
+[NPC] Tarela: Rest assured the Shrine of Talad will receive this message.
+[NPC] Tarela: Tell Murago that he can pay me tomorrow or speak to him about paying me tomorrow.
+[NPC] Tarela: Go quickly!
+[NPC] Tarela: I will need to make haste myself.
+
+[To] Murago Puntjal
+
+[NPC Internal] You can pay Tarela tomorrow for the delivery.
+[NPC] Murago: That means it is as good as sent.
+[NPC] Murago: Such a trustworthy emissary, she is.
+[NPC] Murago: While I await their response, take this and go with Talad.
+
+[Reward] [Money] 2107; [XP] 10800; [Faction] 10, Conclave of the Glyphs
+

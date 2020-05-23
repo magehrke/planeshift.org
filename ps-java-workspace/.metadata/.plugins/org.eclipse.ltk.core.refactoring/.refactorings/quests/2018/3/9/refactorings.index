@@ -1,0 +1,21 @@
+1520025129320	Rename type 'ConvertDuduQuestsIntoPsqDocs'
+1520025707969	Rename field 'PATHtoTRIALquestFILESraw'
+1520025759905	Delete element
+1520031612193	Rename package 'questsDudu'
+1520031627111	Rename type 'DuduObjQuest'
+1520031635748	Rename type 'DuduObjSkillRank'
+1520031644568	Rename type 'DuduQuestOutput'
+1520031652721	Rename type 'DuduQuestsParser'
+1520031662919	Rename package 'items_depreciated'
+1520031676669	Rename type 'Item'
+1520031682623	Rename type 'ItemParser'
+1520031689440	Rename type 'ItemPrices'
+1520031705988	Rename type 'Depreciated_DuduQuestsIntoPsqDocs'
+1520031753774	Move compilation unit
+1520031812795	Move compilation unit
+1520031822129	Delete element
+1520031840934	Rename type 'Parser'
+1520033992929	Move compilation unit
+1520068598633	Rename local variable 'questsNew'
+1520076874479	Rename type 'QuestsIntoSQL'
+1520076904825	Rename type 'ObjToSQL'

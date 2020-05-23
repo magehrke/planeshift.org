@@ -1,0 +1,161 @@
+[Questname] Ineffective Affections
+[NPC Name] Nkel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests
+
+[To] Nkel
+
+[NPC Internal] What can you tell me about Sysial Shillor?
+[NPC] Nkel: Ahhh.
+[NPC] Nkel: Sysial Shillor is a great woman.
+[NPC] Nkel: Young, strong, beautiful and reckless all at the same time.
+[NPC] Nkel: My brother is not charismatic at all, but he still has hopes to get her.
+[NPC] Nkel: The problem is, she doesn't really care for him that way.
+[NPC] Nkel: She loves me, but doesn't have the heart to tell him directly.
+[NPC] Nkel: One thing you could do is tell him that she sent you.
+[NPC] Nkel: That she turned him down.
+[NPC] Nkel: But let him down easy.
+[NPC] Nkel: It's really the compassionate thing to do.
+[NPC] Nkel: Would you do that, for all our sakes?
+[NPC Internal] I will do my best to help all involved.
+[NPC] Nkel: Good!
+[NPC] Nkel: I hardly can wait to be with my Sysial!
+[NPC] Nkel: Please hurry!
+[NPC] Nkel: I will wait here.
+
+[To] Nkaw
+
+[NPC Internal] Sysial Shillor wanted me to tell you that she cannot accept your love.
+[NPC] Nkaw: Don't even start.
+[NPC Narrate] -Nkaw frowns at you and gestures irritatedly as he speaks.-
+[NPC] Nkaw: You don't think I've seen you talking to my brother from over here?
+[NPC] Nkaw: I bet he told you how great he is and that Sysial would be all his.
+[NPC] Nkaw: Now you want to tell me that I have no chance or some such.
+[NPC] Nkaw: I'll give you points for valour, but I'm no fool.
+[NPC] Nkaw: I won't give up that easily.
+[NPC] Nkaw: In fact, I'd pay you for doing something for me.
+[NPC] Nkaw: What say you?
+[NPC Internal] I'll hear you out.
+[NPC] Nkaw: All right.
+[NPC Narrate] -Nkaw smiles insidiously.-
+[NPC] Nkaw: I want you to do following: I have one of Sysial's own necklaces.
+[NPC] Nkaw: You don't have to know how I got it.
+[NPC] Nkaw: You only have to go to her and give her this letter and the necklace.
+[NPC] Nkaw: That's all.
+[NPC] Nkaw: When you return with her response, I'll give you some tria.
+[NPC Narrate] -Nkaw gives you the necklace and the letter.-
+[NPC] Nkaw: Thank you.
+[NPC] Nkaw: You're a good person.
+
+[To] Sysial Shillor
+
+[NPC Internal] I have been instructed to bring these items to you.
+[NPC Narrate] -Sysial holds the necklace up and smiles broadly.-
+[NPC] Sysial: My necklace!
+[NPC] Sysial: I thought I'd lost it!
+[NPC Narrate] -Sysial starts to put it on, which draws her attention to the letter in her other hand.-
+[NPC] Sysial: Oh, this note is for me too?
+[NPC Narrate] -Sysial opens the letter and begins to read.-
+[NPC] Sysial: 'Dearest Sysial…' Oh, it is from Nkaw!
+[NPC Narrate] -Sysial smiles.-
+[NPC] Sysial: Stuff about work…
+[NPC] Sysial: fought with Nkel…
+[NPC] Sysial: What?
+[NPC] Sysial: Nkel stole it?!
+[NPC] Sysial: I have been looking everywhere for it!
+[NPC] Sysial: …
+[NPC] Sysial: Love, Your Nkaw.
+[NPC Narrate] -Sysial shakes her head sadly and sighs.-
+[NPC] Sysial: I never wanted this to happen.
+[NPC] Sysial: Nkaw and Nkel are very nice and I consider them both my friends, but nothing more!
+[NPC] Sysial: I can't believe that they are now fighting over me and that one even stole my belongings!
+[NPC] Sysial: It doesn't matter to me who did what.
+[NPC Narrate] -Sysial sighs.-
+[NPC] Sysial: As long as they behave like children, I can't talk to either of them.
+[NPC] Sysial: Couldn't you…
+[NPC] Sysial: Couldn't you go to them both and tell them I sent you, and then, that I don't love them?
+[NPC] Sysial: Please?
+[NPC Internal] Brothers should not act like this towards each other, I will do my best to help.
+[NPC] Sysial: Thank you so much!
+[NPC Narrate] -Sysial smiles.-
+[NPC] Sysial: If you can make them realize their folly and get them to make up, I will have something for you.
+[NPC] Sysial: Just tell them I sent you, tell each one I don't love him, and return to tell me all is well.
+[NPC] Sysial: But tell Nkaw first; he at least deserves a prompt response to his letter.
+
+[To] Nkaw
+
+[NPC Internal] I have returned with tidings from Sysial.
+[NPC] Nkaw: And?
+[NPC] Nkaw: What did she say?
+[NPC] Nkaw: She certainly fell in love with me, didn't she?
+[NPC] Nkaw: I can't wait to hold her!
+[NPC] Nkaw: Er, why are you making that face?
+[NPC] Nkaw: Is something wrong?
+[NPC] Nkaw: Don't worry if she didn't give you a reward.
+[NPC] Nkaw: That is no problem…
+[NPC] Nkaw: or…
+[NPC] Nkaw: is it something else?
+[NPC] Nkaw: Speak, Madam, I beg of you!
+[NPC Internal] Sysial regrets that she does not return your feelings.
+[NPC] Nkaw: WHAT?!
+[NPC] Nkaw: She doesn't love me?
+[NPC] Nkaw: Are you saying that she loves my megaras dropping of a brother?!
+[NPC Internal] She does not love either of you.
+[NPC] Nkaw: What does that mean?
+[NPC] Nkaw: Surely one of us is attractive to her.
+[NPC] Nkaw: I mean, we are both tall, and strong, and loving…
+[NPC Narrate] -Nkaw pauses and shakes his head. He sighs quietly.-
+[NPC] Nkaw: Ah, who am I to question the ways of love?
+[NPC] Nkaw: 'Love is a shadow no light can brighten,' that is what father always said after mother died.
+[NPC] Nkaw: I thank you for your efforts on my behalf.
+[NPC] Nkaw: Will you carry a message from me to my brother, since I cannot leave my post?
+[NPC] Nkaw: Perhaps at least he and I can stop hating each other.
+[NPC Internal] Of course I will.
+[NPC] Nkaw: Great.
+[NPC] Nkaw: Just tell him what you told me and let him know I apologize.
+[NPC Narrate] -Nkaw gives you some tria.-
+[NPC] Nkaw: Here is a little something for you.
+
+[To] Nkel
+
+[NPC Internal] Sysial has a message for you.
+[NPC] Nkel: I am certain my brother is trying to do something shady to usurp my place in her heart.
+[NPC] Nkel: I saw you with him over there.
+[NPC] Nkel: What have you come to tell me?
+[NPC Internal] Sysial cannot love you.
+[NPC] Nkel: By the gods?
+[NPC] Nkel: Are you trying to say that she loves him and not me?
+[NPC Internal] No, she will not give her affections to either of you.
+[NPC] Nkel: What do you mean?
+[NPC] Nkel: She must love one of us; we are handsome and brave.
+[NPC] Nkel: Right?
+[NPC] Nkel: Wait…
+[NPC] Nkel: no.
+[NPC] Nkel: I think I see.
+[NPC] Nkel: Yes, it makes sense: both of us are so eager to love, we confused her friendship for love, and we fought each other over her to no end.
+[NPC] Nkel: Pah!
+[NPC] Nkel: How could anyone love angry fools like us?
+[NPC Narrate] -Nkel frowns and looks across the chasm at his brother's watchtower for a minute before continuing in a quieter voice.-
+[NPC] Nkel: At least with this knowledge, maybe that can change.
+[NPC] Nkel: Did he apologize?
+[NPC Internal] He does send his apologies.
+[NPC] Nkel: Good, then all is well.
+[NPC] Nkel: I'm glad I no longer need to be angry at my brother.
+[NPC Narrate] -Nkel takes circles from a pouch and gives them to you.-
+[NPC] Nkel: You have been very helpful to me.
+[NPC] Nkel: Here is a little something for you.
+
+[To] Sysial Shillor
+
+[NPC Internal] I have told both Nkaw and Nkel that you cannot return their feelings. They have agreed to stop pursuing you. What's more, they are no longer angry at one another.
+[NPC] Sysial: I'm so relieved that there won't be any more fighting between those two.
+[NPC] Sysial: They should be saving their aggression for our true enemies!
+[NPC] Sysial: This is excellent news; here is something for your worry.
+[NPC Narrate] -Sysial gives you a golden ring.-
+[NPC] Sysial: Thank you so much, good Madam.
+[NPC] Sysial: I truly do appreciate this.
+
+[Reward] [Money] 12440; [XP] 28600; [Item] 1, Golden Ring
+

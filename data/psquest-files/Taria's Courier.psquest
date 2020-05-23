@@ -1,0 +1,62 @@
+[Questname] Taria's Courrier
+[NPC Name] Taria Prestis
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Taria Prestis
+
+[NPC Internal] Is there something I can help with?
+[NPC] Taria: It looks like my husband Barl will be away for a while longer yet.
+[NPC] Taria: I would like to send him something.
+[NPC] Taria: Could you find me a messenger and ask them how much it would cost to send something small to the Eagle Bronze Doors?
+[NPC Internal] Yes, I will see what I can do.
+[NPC] Taria: Thank you.
+[NPC] Taria: There always seems to be at least one running through the plaza in front of the temple these days.
+[NPC] Taria: Return to me with the cost.
+
+[To] Tarela Girshon
+
+[NPC Internal] How much to send a package?
+[NPC] Tarela: Where are you looking to send it?
+[NPC Internal] Eagle Bronze Doors.
+[NPC] Tarela: How big is it?
+[NPC] Tarela: Is it big or small?
+[NPC Internal] Only a small package.
+[NPC] Tarela: Hmm.
+[NPC] Tarela: It would be twenty tria.
+
+[To] Taria Prestis
+
+[NPC Internal] It will cost twenty tria to send small package to the Eagle Bronze Doors.
+[NPC] Taria: Could you have this sent then?
+[NPC Narrate] -Taria shows a bunch of braided flowers.-
+[NPC Internal] Yes, it will be my pleasure.
+[NPC] Taria: Thank you.
+[NPC] Taria: Here it is, and the tria, you can keep the change.
+
+[To] Tarela Girshon
+
+[NPC Internal] I need this sent.
+[NPC] Tarela: This is going to the Eagle Bronze Doors?
+[NPC Internal] Yes.
+[NPC] Tarela: Who to?
+[NPC Internal] Barl Prestis.
+[NPC] Tarela: Lucky fellow, something nice like this up there.
+[NPC] Tarela: But yeah, 20 tria for the trip.
+[NPC Internal] Here's the money.
+[NPC] Tarela: Here's a slip.
+[NPC] Tarela: Keep that to confirm delivery, or give it to whoever sent you.
+
+[To] Taria Prestis
+
+[NPC Internal] Here is Tarela's delivery slip.
+[NPC] Taria: Thank you for your trouble.
+[NPC] Taria: Just thinking about my husband reminds me.
+[NPC] Taria: Ever since joining the guards at the Eagle, his arms became so muscular he couldn't even fit into his old arms armor.
+[NPC] Taria: Maybe you can find some use for them.
+[NPC] Taria: Take them, as a token of thanks.
+
+[Reward] [Money] 1000; [XP] 8000; [Item] 1, Leather Arms Armor
+

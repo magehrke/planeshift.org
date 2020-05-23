@@ -1,0 +1,31 @@
+[Questname] Hydlaaic Legend
+[NPC Name] Allelia Symiestra
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] No
+
+[To] Allelia Symiestra
+
+[NPC Internal] Hey Allelia, how's the tavern business doing?
+[NPC] Allelia Symiestra: Hello there, Ynnwn!
+[NPC] Allelia Symiestra: Kada-El's is doing well, as always.
+[NPC] Allelia Symiestra: People coming and going, new faces and old regulars.
+[NPC] Allelia Symiestra: And how are you?
+[NPC] Allelia Symiestra: Here for a drink?
+[NPC] Allelia Symiestra: Everyone is welcome here to relax at the bar or sit next to the fireplace.
+[NPC Narrate] Allelia Symiestra smiles at you while washing some mugs.
+[NPC] Allelia Symiestra: Say, you must know Hydlaa quite well by now, but...
+[NPC] Allelia Symiestra: did you heard the latest rumour?
+[NPC Internal] I beg your pardon?
+[NPC Narrate] Allelia Symiestra leans towards you and speaks in a low tone.
+[NPC] Allelia Symiestra: A sort of secretive, but well known, urban legend in town has started being talked about again.
+[NPC] Allelia Symiestra: They say that there is a clacker somewhere deep down in the sewers of Hydlaa.
+[NPC] Allelia Symiestra: Apparently it has been held captive and toyed with by grendols!
+[NPC Narrate] Allelia Symiestra makes a sort of disgusted face.
+[NPC] Allelia Symiestra: They also say that the clacker transformed and roams the sewers from...
+[NPC] Allelia Symiestra: I don't know if it's true, I don't even know where this story came from.
+[NPC Narrate] Allelia Symiestra shrugs and turns her back to you as she works.
+
+
+[Info] Go to the sewers and find the toxic clacker, quest completed
+

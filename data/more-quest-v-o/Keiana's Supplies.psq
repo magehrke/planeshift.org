@@ -1,0 +1,32 @@
+[Questname] Keiana's Supplies
+[NPC Name] Keiana Xoreloran
+[Checkup] 2020-01-01
+[Authors] Haviland Tenouri
+[Repeatable] Yes
+
+[Need] [Skill] Maybe at least 10 in Herbal
+
+[INFO]: The herbal preps can change with skill
+
+[To] Keiana Xoreloran
+
+[NPC Internal] Hello Keiana, anything I could help you with?
+[NPC] Keiana Xoreloran greets you, placing her hand to her chest.
+[NPC] Keiana Xoreloran: Hello, Kran.
+[NPC] -She reaches a hand out to touch the side of the hospital.-
+[NPC] Keiana Xoreloran: This hospital is busier than it might seem and I could do with some help preparing some items for them.
+[NPC] Keiana Xoreloran: It isn't just healing potions and salves which are used.
+[NPC] Keiana Xoreloran: Often teas and juices can help people recover just as much.
+[NPC Internal] I'd be happy to help, what do you need?
+[NPC] Keiana Xoreloran: I have a long list somewhere.
+[NPC] Keiana Xoreloran digs about in her pockets.
+[NPC] Keiana Xoreloran: Ah, here it is.
+[NPC] Keiana Xoreloran: I need one threestem juice, one wyn tea, a gobo oil and a gobo tea, a devils claw tea, an eyebright tea and two yarrow teas.
+
+[To] Keiana Xoreloran
+
+[NPC Internal] Here you are, your items.
+[NPC] Keiana Xoreloran: Such a good job getting all these for me, these are for you in thanks.
+[NPC] Keiana Xoreloran hands you some tria.
+
+[Reward] [Money] ?; [XP] ?; [Skill] +1 herbal

@@ -1,0 +1,48 @@
+[Questname] Introduction to Special Metals
+[NPC Name] Trasok Starhammer
+[Checkup] 2017-04-11
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Making a Metal Stock; [Money] 50
+
+[To] Trasok Starhammer
+
+[NPC Internal] What other kinds of metals can be used to craft things?
+[NPC] Trasok: Ah, that's a good question.
+[NPC] Trasok: I take it you are familiar with making steel now?
+[NPC] Trasok: Yes, of course.
+[NPC] Trasok: Easy stuff.
+[NPC] Trasok: If you are interested in knowing more, I can teach you.
+[NPC] Trasok: However, I'm a business man, you know.
+[NPC] Trasok: You might end up being a competitor.
+[NPC] Trasok: Give me 50 tria and we'll continue with a nice little lesson in special metals, yes?
+[NPC Internal] Sure, I guess it's worth it.
+[NPC] Trasok: Good, hand it over and we'll begin.
+
+[Give] Trasok Starhammer; 50, Tria
+
+[NPC Internal] [You give Trasok 50 tria.]
+[NPC] Trasok: We'll start with a very simple test of your knowledge.
+[NPC] Trasok: Sticking with steel, what two minerals is steel made from?
+
+[Info] You have to enter the words "Iron Coal".
+
+[NPC Internal] Iron Coal
+[NPC] Trasok: I knew you were a good student!
+[NPC] Trasok: The combination is known as an alloy.
+[NPC] Trasok: The metals as you know them today can be used as ingredients to greater metals.
+[NPC] Trasok: The steel made of iron and coal is just the beginning in creating very special alloys.
+[NPC] Trasok: We have researched for years on how to make special metals by combining the ones we know of.
+[NPC] Trasok: And we have made much progress.
+[NPC] Trasok: Have you spoken with that Nolthrir girl in the Hydlaa winch area?
+[NPC Internal] Oh, I've been meaning to do that.
+[NPC] Trasok: The lass contacted me about alloys but never followed up.
+[NPC] Trasok: It peaked my curiosity.
+[NPC] Trasok: Perhaps it's worth looking into.
+[NPC] Trasok: After that, for the next phase of your lesson, I'm going to send you to an expert in the field.
+[NPC] Trasok: Gardr Keck is the smithy in the Kran city of Gugrontid.
+[NPC] Trasok: Tell kra I sent you and ask about special metals.
+[NPC] Trasok: Kra does not easily trust so tell kra we need special weapons to face the invasions.
+[NPC] Trasok: That should get kras attention.
+
+[Reward] [XP] 15000; [Money] 7310; [Faction] 30, Smith Association

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;quests.PSExtToPsq.parseQuestFile()&apos; to &apos;parsePSExtFile&apos;&#x0A;- Original project: &apos;kingdomofvalour&apos;&#x0A;- Original element: &apos;quests.PSExtToPsq.parseQuestFile()&apos;&#x0A;- Renamed element: &apos;quests.PSExtToPsq.parsePSExtFile()&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;parseQuestFile&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;quests{PSExtToPsq.java[PSExtToPsq~parseQuestFile" name="parsePSExtFile" references="true" stamp="1519328403837" version="1.0"/>
+</session>

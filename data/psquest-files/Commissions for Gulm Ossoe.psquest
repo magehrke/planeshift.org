@@ -1,0 +1,109 @@
+[Questname] Commissions for Gulm Ossoe
+[NPC Name] Gulm Ossoe
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Sculpting Supplies for Gulm
+
+[To] Gulm Ossoe
+
+[NPC Internal] I was wondering if you had any other jobs for me?
+[NPC] Gulm: Oh…
+[NPC] Gulm: Kran, you have come back!
+[NPC Narrate] -Gulm looks excited.-
+[NPC] Gulm: And at just the right time!
+[NPC Narrate] -Gulm gestures to a small stack of crates.-
+[NPC] Gulm: I have just finished a few of my commissioned pieces, all that is left is to deliver them to their owners and take receipt of payment.
+[NPC Narrate] -Gulm looks at you expectantly.-
+[NPC] Gulm: Can you help me with this?
+[NPC] Gulm: I will pay you for your time.
+[NPC Internal] I can help you with the delivers, sure.
+[NPC] Gulm: Thank you.
+[NPC] Gulm: I knew I could count on you.
+[NPC Narrate] -Gulm turns around, and glances at a few crates. Gulm hands you the first of the three crates.-
+[NPC] Gulm: Do be careful with it, it took me quite some time to get it right.
+[NPC Narrate] -Gulm reads the label.-
+[NPC] Gulm: Give this one to Gurgus Dahnik, here in Gugrontid and bring me back the payment.
+
+[To] Gurgus Dahnik
+
+[NPC Internal] Here, this crate is for you.
+[NPC Narrate] -Gurgus accepts the crate.-
+[NPC] Gurgus: Heavy. Who is this from?
+[NPC Internal] Gulm Ossoe.
+[NPC Narrate] -Gurgus sets the crate down carefully and retrieves a small pouch which is tossed to you.-
+[NPC] Gurgus: Give Gulm this and my debt will be paid.
+[NPC] Gurgus: Thank you, Kran.
+
+[To] Gulm Ossoe
+
+[NPC Internal] Here is Gurgus' payment.
+[NPC] Gulm: Most good!
+[NPC Narrate] -Gulm looks in the pouch.-
+[NPC] Gulm: Payment in full.
+[NPC Narrate] -Gulm looks to you.-
+[NPC] Gulm: Would you like to deliver another?
+[NPC Internal] Yes, who is this for?
+[NPC] Gulm: I was hoping you would say that.
+[NPC Narrate] -Gulm hands you another crate and reads the label.-
+[NPC] Gulm: Give this one to Jayose; you can probably find him in his library in Hydlaa.
+
+[To] Jayose
+
+[NPC Internal] Gulm sent me with this crate for you.
+[NPC Narrate] -Jayose accepts the crate and reads the label.-
+[NPC] Jayose: My commissioned works from Gulm…it is about time.
+[NPC Narrate] -Jayose retrieves a small bottle of ink, a sheet of paper and a small pouch which he hands to you..-
+[NPC] Jayose: Here is Gulm's payment, and something extra.
+[NPC] Jayose: Give Gulm this book, kra will know what I am asking.
+
+[To] Gulm Ossoe
+
+[NPC Internal] Here is Jayose's payment, oh, and he sent this ink and paper set too.
+[NPC] Gulm: Most good again!
+[NPC Narrate] -Gulm looks in the pouch.-
+[NPC] Gulm: Payment in full.
+[NPC Narrate] -Gulm looks at the ink and paper and then tosses it over kra's shoulder, obviously not caring where it lands.-
+[NPC] Gulm: Not doing it.
+[NPC] Gulm: No time right now.
+[NPC Narrate] -Gulm looks to you.-
+[NPC] Gulm: Would you like to make one last delivery?
+[NPC Internal] Yes, I can do your third for you.
+[NPC] Gulm: I was hoping you would say that.
+[NPC Narrate] -Gulm hands you the last crate from behind kra and reads the label.-
+[NPC] Gulm: Ah yes, this last one goes to Yonda Axebow.
+[NPC Narrate] -Gulm smiles.-
+[NPC] Gulm: A sweet dwarf she is and in Hydlaa as well!
+[NPC] Gulm: She makes and sells small wooden sculptures for grown-ups and children.
+[NPC] Gulm: Very much into nature's little beasties.
+[NPC Narrate] -Gulm waves you off.-
+[NPC] Gulm: Don't forget my payment, and you will be rewarded when you get back.
+
+[To] Yonda Axebow
+
+[NPC Internal] Here, this crate is from Glum.
+[NPC Narrate] -Yonda struggles with the crate but manages to set it down.-
+[NPC] Yonda: Oh thank you, thank you!
+[NPC Narrate] -Yonda beams a smile at you.-
+[NPC] Yonda: Now I can finish my last few items for the children.
+[NPC Narrate] -Yonda reaches into a pack about her waist and pulls out a small pouch, handing it to you.-
+[NPC] Yonda: Give these to Gulm with my regards, kind sir.
+
+[To] Gulm Ossoe
+
+[NPC Internal] Here is Yonda's payment.
+[NPC] Gulm: Very most good!
+[NPC Narrate] -Gulm looks in the pouch.-
+[NPC] Gulm: Payment in full and…what's this?
+[NPC Narrate] -Gulm pulls a tiny wooden sculpture of a Kran out of the pouch.-
+[NPC] Gulm: She…how nice of her.
+[NPC Narrate] -Gulm smiles and slips the statue back into the pouch before putting it away.-
+[NPC] Gulm: Now for your reward.
+[NPC] Gulm: A few circles to help you on your journey and this…
+[NPC Narrate] -Gulm hands you a short sword.-
+[NPC] Gulm: People are always leaving things behind; maybe it can be of some service to you.
+[NPC Narrate] -Gulm bows.-
+[NPC] Gulm: I hope to see you again, you are most helpful!
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Shortsword; [Faction] 35, Artists Association
+

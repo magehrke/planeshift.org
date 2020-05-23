@@ -1,0 +1,96 @@
+[Questname] The Rotten Deal
+[NPC Name] Ryger
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] May Their Words Sound; [Item] 1, Gendol Rotten Meat; [Item] 1, Lake Mushroom; [Item] 1, Ulbernaut Heart
+
+[Info] You get all the items back.
+
+[To] Ryger
+
+[NPC Internal] Excuse me sir, do you have a job for me?
+[NPC Narrate] -Ryger flinches in surprise.-
+[NPC] Ryger: Bedevilled being!
+[NPC] Ryger: What is it that you seek here?
+[NPC Narrate] -Ryger clenches his spiked fists.-
+[NPC] Ryger: A job…
+[NPC] Ryger: that is what you want.
+[NPC] Ryger: An errand, a way to fulfil your chaotic needs.
+[NPC Narrate] -Ryger pauses for a moment.-
+[NPC] Ryger: Lost creature…
+[NPC] Ryger: yes, I have an errand for you.
+[NPC] Ryger: You will bring me an item.
+[NPC] Ryger: A component.
+[NPC] Ryger: Something that I need.
+[NPC Narrate] -Ryger pauses again, staring at you blankly.-
+[NPC] Ryger: You will do it?
+[NPC Internal] nods.
+[NPC] Ryger: Then you will go and bring me a piece of rotten meat.
+[NPC] Ryger: Foul and sickening…from Grendol…may it offend the senses of the toughest warriors, may it languish the faint of heart.
+[NPC] Ryger: Do hold the item with pride of a tramp.
+[NPC] Ryger: You are no more than that.
+[NPC] Ryger: Begone now.
+[NPC] Ryger: Your sight disturbs my mind.
+[NPC Internal] I have your rotten meat here.
+[NPC] Ryger: You amuse me, creature.
+[NPC] Ryger: Hunt a piece of rotten meat…
+[NPC] Ryger: carry it through the land…
+[NPC Narrate] -Ryger clenches his fingers upon the piece of rotten meat.-
+[NPC] Ryger: For this errand hide your pride.
+[NPC Narrate] -Ryger looks at you.-
+[NPC] Ryger: You will bring something more, creature.
+[NPC] Ryger: Component.
+[NPC] Ryger: I will need another…
+[NPC] Ryger: but no stench.
+[NPC Narrate] -Ryger hurls the piece of meat against the ground, making its fetid juices splatter upon impact.-
+[NPC] Ryger: Not this time.
+[NPC Narrate] -Ryger lifts his spike-backed hand before his eyes, inspecting the fluids that still cover his palm. He sniffs at them and then looks at you.-
+[NPC] Ryger: This time you will bring me a lake mushroom.
+[NPC] Ryger: Does that satisfy your ambition?
+[NPC Narrate] -Ryger pauses.-
+[NPC] Ryger: It has to.
+[NPC] Ryger: Go.
+[NPC Internal] Here is the mushroom as requested.
+[NPC] Ryger: You again?
+[NPC] Ryger: Persistent.
+[NPC Narrate] -Ryger inspects the mushroom.-
+[NPC] Ryger: Yes, that is the one.
+[NPC Narrate] -Ryger looks at you.-
+[NPC] Ryger: Proud now?
+[NPC] Ryger: You must have strained your muscles…
+[NPC] Ryger: strained them picking it up.
+[NPC Narrate] -Ryger pauses.-
+[NPC] Ryger: Your final task will be more challenging.
+[NPC] Ryger: You will bring me an ulbernaut heart.
+[NPC] Ryger: Yes, yes…
+[NPC] Ryger: an ulbernaut heart.
+[NPC] Ryger: You will rip it out.
+[NPC] Ryger: That is the last thing you will find for me.
+[NPC Internal] hands over the ulbernaut heart.
+[NPC] Ryger: What…?
+[NPC Narrate] -Ryger looks at you, holding the heart in his hand.-
+[NPC] Ryger: I was hoping the beast might rip out yours instead.
+[NPC] Ryger: Accursed creature.
+[NPC] Ryger: No way to get rid of you.
+[NPC Narrate] -Ryger pauses.-
+[NPC] Ryger: But you are persistent.
+[NPC] Ryger: You are strong.
+[NPC] Ryger: You have no shame.
+[NPC] Ryger: Maybe something can be made of you.
+[NPC] Ryger: I find you a task.
+[NPC] Ryger: Real one next time.
+[NPC] Ryger: But now…
+[NPC Narrate] -Ryger looks at all the components.-
+[NPC] Ryger: Reward.
+[NPC] Ryger: Yes, reward.
+[NPC] Ryger: That is what you expect for the components.
+[NPC Narrate] -Ryger hands you the ulbernaut heart. He picks up the repulsive piece of rotting meat and hands it to you along with the lake mushroom.-
+[NPC] Ryger: Take them away.
+[NPC] Ryger: I have no use for this garbage.
+[NPC] Ryger: Reward is equal to the brought components, yes?
+[NPC] Ryger: And the errand is complete.
+[NPC] Ryger: Leave me alone now.
+
+[Reward] [XP] 17800; [Faction] 40, Seeds of Wildwood
+

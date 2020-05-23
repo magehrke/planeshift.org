@@ -1,0 +1,199 @@
+[Questname] Jirosh's Stolen Statue
+[NPC Name] Jirosh Mikana
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Jirosh Shipment Inquiry; [Money] 520
+
+[To] Jirosh Mikana
+
+[NPC Internal] is there anything else you need me to do?
+[NPC] Jirosh: I like a person who does fast work.
+[NPC] Jirosh: I might have another job for you.
+[NPC] Jirosh: Interested?
+[NPC Internal] Yes, what do you need me to do?
+[NPC] Jirosh: Good, good.
+[NPC] Jirosh: I have a client that deals in rare artifacts.
+[NPC] Jirosh: The right merchant is here, but leaving soon, so I need this crate to be delivered to Hydlaa quickly.
+[NPC] Jirosh: My client has already been waiting a good week.
+[NPC] Jirosh: Just let me check its padding and…
+[NPC Narrate] -Jirosh opens the crate.-
+[NPC] Jirosh: …What's this?!?
+[NPC] Jirosh: This isn't the statue!
+[NPC] Jirosh: Someone took the statue and filled the crate with apples instead!
+[NPC] Jirosh: Arg!
+[NPC] Jirosh: What do I do now?
+[NPC Narrate] -Jirosh looks crestfallen.-
+[NPC] Jirosh: That statue was already paid for; if I fail to deliver, she'll never buy through me again.
+[NPC] Jirosh: Yet I can't leave now and risk something else being stolen.
+[NPC] Jirosh: Maybe you can help me.
+[NPC] Jirosh: You look smart.
+[NPC] Jirosh: How would you like to try and find it?
+[NPC] Jirosh: If you catch the thief and recover the statue, I'll pay you a fair fee in good coin.
+[NPC] Jirosh: How about it?
+[NPC Internal] Yes, I love a challenge.
+[NPC] Jirosh: Thanks so much.
+[NPC] Jirosh: I found this in the bottom of the crate.
+[NPC] Jirosh: Not much of a clue, but…here, what do you think?
+[NPC] Jirosh: Maybe you should show this around the warehouse and see what they say.
+
+[To] Merrinez Dholant
+
+[NPC Internal] What do you know about this cloth.
+[NPC] Merrinez: How did you get this?
+[NPC] Merrinez: This is a cloth for polishing the bronze on a ship.
+[NPC] Merrinez: And this 'Y', I remember who had this.
+[NPC] Merrinez: He was a good sailor; he and his friend had a drink with me a night ago when I managed to get a break from the foreman.
+[NPC] Merrinez: Are you looking for them?
+[NPC Internal] Yes, where can I find the sailor?
+[NPC] Merrinez: Shame then, as you know we have no ships here!
+[NPC] Merrinez: The nearest lake is still very far from here.
+[NPC] Merrinez: The sailor was visiting from the sixth level; doubt you'll find him here anymore.
+[NPC] Merrinez: His friend I didn't know, he had a heavy cloak on, said the night was chilly.
+[NPC] Merrinez: Never did mark his race in the light, but he wasn't short enough to be a dwarf.
+[NPC] Merrinez: Do you want to hear more about this person?
+[NPC Internal] Yes, what can you tell me?
+[NPC] Merrinez: We talked for a bit about the deliveries coming up, mostly talking about the strange things Jirosh ships from time to time.
+[NPC] Merrinez: Then I had to get back to work.
+[NPC] Merrinez: Haven't seen the cloaked fellow since then.
+[NPC] Merrinez: He said again the night was chilly, so I told him that if he was cold, I had some ale to warm him up.
+[NPC] Merrinez: But he wouldn't take it, had some nasty stuff of his own.
+[NPC] Merrinez: The mug was ruined afterwards.
+[NPC] Merrinez: Here, you can take it if you want, it's worthless for anything now.
+[NPC] Merrinez: Whatever he added into the mug tainted it.
+
+[To] Brado
+
+[NPC Internal] What can you tell me about this mug?
+[NPC] Brado: Where in the bowels of the Death Realm did you get this mug?
+[NPC] Brado: Ug, the stench curls my whiskers.
+[NPC] Brado: There's no mistaking that brew.
+[NPC] Brado: It's called a Twisted Emerald.
+[NPC] Brado: There are very few who drink it, so I don't serve it at this tavern.
+[NPC] Brado: You'll have to find it elsewhere maybe another bar.
+
+[To] Jomed Parcen
+
+[NPC Internal] What can you tell me about this mug?
+[NPC] Jomed: A refill?
+[NPC] Jomed: No?
+[NPC] Jomed: I'm glad to hear that.
+[NPC] Jomed: I hate serving the stuff, but there are some shady folk around who like it enough.
+[NPC] Jomed: Not any Lemurs or Elves, since they can't hold it: seems it burns their stomach lining.
+[NPC] Jomed: There's this one guy, though, who buys it by the lot.
+[NPC] Jomed: Never got a good look at him; he hides in a huge cloak.
+[NPC] Jomed: But the boss said that they pay well for us to serve it up, so I do.
+[NPC Narrate] -Jomed ponders a bit.-
+[NPC] Jomed: Want to hear more?
+[NPC Internal] Yes, where can I find them?
+[NPC] Jomed: 'Fraid I can't tell you much more, except that I noticed that he has some kind of protective pendant around his neck.
+[NPC] Jomed: What I noticed is that the pendant was made of a green gem, and had a red eye engraved on it.
+[NPC] Jomed: Don't deal in that sort of religious stuff, myself; the gods don't seem to care about me, so why should I care about them?
+[NPC] Jomed: You could try asking about the pendant around the temple, though; couldn't hurt.
+[NPC] Jomed: Take the mug back; who knows when it'll come in handy.
+[NPC] Jomed: Oh, one more thing, I think i overheard his name, it was “Smear.” or something like that.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] I need to know something more about pendants.
+[NPC] Sharven: What about pendants?
+[NPC] Sharven: Many people make them; go seek them out.
+[NPC] Sharven: Don't waste my time with such foolish questions.
+[NPC] Sharven: I see many people.
+[NPC] Sharven: What interest does this being have for you?
+[NPC Internal] It was worn by a thief that robbed Jirosh.
+[NPC] Sharven: Ah, did he now?
+[NPC] Sharven: Well, that lends tribute to some god's ear, but why do you think I know anything of him?
+[NPC] Sharven: I sell lots of pendants to people, they seek protection against the ills of their trade.
+[NPC] Sharven: Do you have any details on the pendant?
+[NPC] Sharven: Like what color and material it was made of?
+[NPC Internal] green gem
+[NPC] Sharven: Those are quite rare; usually we make pendants out of metal.
+[NPC] Sharven: Did it have an engraving?
+[NPC] Sharven: If so, of what?
+[NPC Internal] red eye
+[NPC] Sharven: Oh, him!
+[NPC] Sharven: I remember pretty well.
+[NPC] Sharven: Normally I would not reveal anything about any members of my flock, but his manner towards me was decidedly unbecoming a worshiper of Laanx.
+[NPC] Sharven: And, as you say, he is a suspect in a thievery.
+[NPC Narrate] -Sharven hesitates, then continues.-
+[NPC] Sharven: He never revealed his face to me: he wore a heavy cloak, but his manner did not strike me as Enkidukai.
+[NPC] Sharven: He is a thief by trade, as I assume you are aware, and he doesn't live here in the temple area.
+[NPC] Sharven: The only thing I noticed was that he was very fond of daggers and small blades.
+[NPC] Sharven: My eyes have not beheld him for many weeks, but you might seek out and ask a trainer in such arts; maybe he has inquired about it.
+[NPC Narrate] -Sharven thinks a while, then continues speaking.-
+[NPC] Sharven: The good news for you is that I have made two of those pendants, I can give the other to you for a small sum.
+[NPC] Sharven: Give me 500 trias and it will be yours.
+[NPC Internal] Here's the payment.
+[NPC] Sharven: Here it is.
+[NPC] Sharven: I gave one to the cloaked heathen.
+[NPC] Sharven: It might convince his trainer that you work together.
+[NPC] Sharven: Otherwise, I doubt his trainer would reveal much.
+[NPC] Sharven: Bandits lack many morals, but usually don't squeal on each other.
+
+[To] Lori Tryllyn
+
+[NPC Internal] I have something for you.
+[NPC] Lori: Where did you get that?
+[NPC] Lori: I have never seen you before, yet only Onyx Dagger's rogues carry such a pendant.
+[NPC] Lori: Are you new to their service?
+[NPC Internal] Yes, joined before the last eclipse.
+[NPC] Lori: Ah, must be the replacement for the guy who got thrown out of the group a little while ago.
+[NPC] Lori: Seems he stole something without informing the boss…and then tried to hide the booty instead of sharing.
+[NPC] Lori: Not a smart move.
+[NPC] Lori: I think my training is the only reason he's still alive.
+[NPC] Lori: I saw the rogue the other day in fact.
+[NPC] Lori: Here is your pendant back.
+[NPC] Lori: I wonder if he is still there…
+[NPC] Lori: I might be able to tell you the location…for a fee.
+[NPC Narrate] -Lori hands you the pendant-
+[NPC] Lori: Give me a few moments to myself to consider and then come back perhaps I can be persuaded to tell you his whereabouts later.
+[NPC Internal] Do you have that location for me yet?
+[NPC] Lori: Did the Onyx Dagger decide that simply throwing him out wasn't punishment enough and send you after him?
+[NPC] Lori: Well, I don't rat on people without a good reason.
+[NPC] Lori: Information like that is just as good of a currency in the shadows as hexas, or in your case I'd say two.
+[NPC Narrate] -Lori shows her empty hand.-
+[NPC Internal] Here's the money.
+[NPC] Lori: Well to be honest, I don't actually know where he is right now.
+[NPC] Lori: We called him Smear, but I doubt that was his real name.
+[NPC] Lori: He's pretty hard to miss though, even under that cloak of his.
+[NPC] Lori: We always trained at night, but even then I could see the fluid way he moved, like a blur of shadows.
+[NPC] Lori: The only other thing I remembered is that he never seemed to have any knowledge of current events, like he spent most of his time living in a hole or something.
+[NPC] Lori: Maybe check under the temple, I know he cannot be far.
+[NPC] Lori: You can probably just ask him about smear.
+
+[To] Zak
+
+[NPC Internal] So you must be Smear?
+[NPC] Zak: Are you a fool to approach me so brashly?
+[NPC] Zak: What do you want?
+[NPC Internal] I want Jirosh's statue back.
+[NPC] Zak: You must be weary of life to accuse me of anything without proof.
+[NPC] Zak: If you have proof show it to me.
+[NPC Internal] Here's the proof.
+[NPC] Zak: Ah, like it does to many, it seems that drink is to be my downfall tonight.
+[NPC] Zak: Yes, it was I who took that statue.
+[NPC] Zak: Legend stated that it brought great luck to he who held it, but the blasted thing has brought me nothing but ill will.
+[NPC Narrate] -Zak growls.-
+[NPC] Zak: See me now…I've been thrown out of my group and can't even manage to sell the thing.
+[NPC] Zak: No one wants it whole and I don't dare take it to a smith to be melted down.
+[NPC] Zak: My lot has fallen so much that I might even consider just giving it to you and be rid of it.
+[NPC] Zak: But the worst of my luck is that I lost my pendant.
+[NPC] Zak: Without it I don't dare to work and that blasted priest won't sell me another.
+[NPC Internal] I have this.
+[NPC] Zak: What's this?
+[NPC] Zak: One of the Onyx Dagger's pendants?
+[NPC] Zak: Here, give it to me!
+[NPC] Zak: Salvation, fate will smile upon me again!
+[NPC] Zak: You can have the cursed statue!
+
+[To] Jirosh Mikana
+
+[NPC Internal] I got the statue back.
+[NPC] Jirosh: You…found it?
+[NPC] Jirosh: I never believed you would actually manage to recover it.
+[NPC] Jirosh: My reputation is saved!
+[NPC] Jirosh: Here, take this, yes all of it, I don't know how to thank you enough!
+
+[Reward] [Money] 3391; [XP] 10800; [Item] 1, Apple; [Faction] 15, Enkidukai; [Faction] 15, Thieves Organization
+

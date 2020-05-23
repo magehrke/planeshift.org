@@ -1,0 +1,105 @@
+[Questname] Barl's Extended Duty Contract
+[NPC Name] Beniua Busuka
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Pinayet Misses His Friend
+
+[To] Beniua Busuka
+
+[NPC Internal] Hi, I am looking for job in this area, would you perhaps know of anything?
+[NPC] Beniua: Why yes, I have a matter of administrative importance in Hydlaa, if you'd like to run an errand.
+[NPC] Beniua: Does that pique your interest?
+[NPC Internal] Just what I was looking for.
+[NPC] Beniua: I thought it might.
+[NPC] Beniua: Barl Prestis is a special operative beyond the Bronze Doors, and we currently cannot contact him.
+[NPC] Beniua: However, his extended work contract needs a signature so we can process his wages.
+[NPC] Beniua: He's named his wife Taria as a beneficiary, so we'd like you to give it to her and get her to sign it.
+[NPC] Beniua: Return to me with the signed document, or if you encounter any trouble.
+
+[To] Taria Prestis
+
+[NPC Internal] I have a special delivery for you.
+[NPC Narrate] -Taria takes the document and begins reading.-
+[NPC] Taria: Extended?
+[NPC] Taria: Six months…no no no.
+[NPC] Taria: He can't go on duty for another six months.
+[NPC] Taria: I hardly see my husband as it is.
+[NPC] Taria: They can't do this.
+[NPC] Taria: You take this right back and tell them I will not sign!
+[NPC] Taria: The duty is too long.
+[NPC] Taria: You hear me?
+[NPC] Taria: I will not sign!
+[NPC Narrate] -Taria thrusts the paper at you.-
+
+[To] Beniua Busuka
+
+[NPC Internal] Here is the contract.
+[NPC] Beniua: This contract isn't signed.
+[NPC] Beniua: What happened?
+[NPC Internal] Taria will not sign the contract.
+[NPC] Beniua: Did she say why not?
+[NPC Internal] She says the duty is too long, she hardly sees her husband.
+[NPC] Beniua: That's not enough of a reason - after all, she's acting on behalf of someone who's already agreed to long-term duty but is inaccessible at present.
+[NPC] Beniua: Could you please return to her and ask her to explain herself better?
+[NPC] Beniua: I can't return to Aerayau with 'Barl's wife misses him so she won't sign off on his contract.'
+[NPC] Beniua: Help us help the Prestis family.
+
+[To] Taria Prestis
+
+[NPC Internal] I am not really sure what you just said, can you please explain it better.
+[NPC] Taria: All right.
+[NPC] Taria: Before Barl left for his current tour of duty, he bore unto me a child.
+[NPC] Taria: I am expecting.
+[NPC] Taria: Barl is a father.
+[NPC] Taria: I want my husband to return so he can see his baby when it arrives.
+[NPC] Taria: Please tell them I'm pregnant.
+[NPC] Taria: Have mercy on a mother.
+
+[To] Beniua Busuka
+
+[NPC Internal] Taria is pregnant and want's Barl back to see his child.
+[NPC] Beniua: Ah, I see.
+[NPC] Beniua: We at the Sunshine Squadron do have exceptions in this case.
+[NPC] Beniua: I will need Aerayau Strongwill's approval, though.
+[NPC] Beniua: Give me the old contract, and I'll make up a Requisition form for a revised one.
+[NPC] Beniua: Give that to Commander Strongwill, and he will draw up a revised contract if he approves.
+[NPC] Beniua: He should; parenthood in the Sunshine Squadron is not unheard of.
+[NPC Internal] Here is the contract.
+[NPC] Beniua: Thank you.
+[NPC] Beniua: It's a lot of paperwork, I know, but it's what administration's all about.
+[NPC] Beniua: Take this to Aerayau.
+
+[To] Aerayau Strongwill
+
+[NPC Internal] Beniua sends this.
+[NPC Narrate] -Aerayau reads the document.-
+[NPC] Aerayau: Barl's a good man and a fine warrior.
+[NPC] Aerayau: While the work he's doing is important, I think he deserves to take a leave from duty two months early.
+[NPC] Aerayau: I'll be sure to let him know he's a father as soon as possible.
+[NPC] Aerayau: But wait, if his wages were 2100 Tria for six months, how much would he get in four months?
+[NPC Internal] 1400
+[NPC] Aerayau: Quite so.
+[NPC] Aerayau: The hazard pay would be 200 Tria, that I can figure out…and we're done.
+[NPC] Aerayau: Here's the contract.
+[NPC] Aerayau: Get it signed soon and return it to my administrator.
+
+[To] Taria Prestis
+
+[NPC Internal] I have a new contract for you to sign.
+[NPC] Taria: Four months?
+[NPC] Taria: That's much better.
+[NPC] Taria: The Sunshine Squadron is ever compassionate.
+[NPC] Taria: Now I will sign it.
+[NPC] Taria: Thank you.
+[NPC Narrate] -Taria signs the contract and gives it back to you.-
+
+[To] Beniua Busuka
+
+[NPC Internal] Taria signed the new contract.
+[NPC] Beniua: I'm glad an agreement was reached.
+[NPC] Beniua: On behalf of the Sunshine Squadron and the Prestises, I thank you.
+[NPC] Beniua: Here is a fourteen hundred tria administrative fee.
+
+[Reward] [Money] 9922; [XP] 18400; [Faction] 35, Guard
+

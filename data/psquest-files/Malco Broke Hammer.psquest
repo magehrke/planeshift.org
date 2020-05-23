@@ -1,0 +1,60 @@
+[Questname] Malco Broke Hammer
+[NPC Name] Malco Mokkar
+[Checkup] 2017-11-24
+[Authors] Huarwar Eruera
+[Repeatable] Yes
+
+[Need] [Quest] Malco Need Lunch; [Money] 100
+
+[Info] This quest is part of a repeatable two-quests-chain. The other quest is called "Malco Need Lunch".
+
+[To] Malco Mokkar
+
+[NPC Internal] I thought I'd stop by, see if you needed anything.
+[NPC ME] Malco Mokkar waves a stone handle at you.
+[NPC] Malco: Sir came back!
+[NPC] Malco: Malco need help.
+[NPC] Malco: Malco smash Malco hammer.
+[NPC ME] Malco Mokkar looks at you, kra's head slightly tilted.
+[NPC] Malco: Sir help Malco?
+[NPC Internal] Yes, I can try and help.
+[NPC ME] Malco Mokkar hands you the stone handle and a hammer head.
+[NPC] Malco: Sir go.
+[NPC] Malco: Find smith.
+[NPC] Malco: Fix Malco hammer.
+
+[To] Gardr Keck
+
+[NPC Internal] Can you repair this?
+[NPC ME] Gardr Keck takes one look at the parts and sighs.
+[NPC] Gardr: Malco sent you, didn't kra?
+[NPC Internal] Yes its Malco's hammer.
+[NPC ME] Gardr Keck smiles slightly.
+[NPC] Gardr: I make more tria fixing that incompetent guard's hammer...
+[NPC ME] Gardr Keck lets kra's voice trail off.
+[NPC] Gardr: It's a good thing that nobody really likes to bother us here.
+[NPC] Gardr: Go tell Malco that I will need one hundred tria to fix kras hammer.
+[NPC Internal] [You give Gardr one hundred tria.]
+
+[Give] Gardr Keck; 100, Tria
+
+[NPC ME] Gardr Keck takes the coins, and puts them the pocket of kras apron.
+[NPC] Gardr: I was expecting a promissory note from the guards, same as last time, but it does not matter.
+[NPC ME] Gardr Keck gives you a stone-handled war hammer.
+[NPC] Gardr: Here you go, Malco's hammer, as good as new...
+[NPC] Gardr: again.
+[NPC] Gardr: It has been a pleasure doing business with you, Sir.
+
+[To] Malco Mokkar
+
+[NPC Internal] Here you go, it's as good as new.
+[NPC ME] Malco Mokkar takes the hammer from your hands, and examines it.
+[NPC] Malco: Sir make Malco happy.
+[NPC ME] Malco Mokkar drops the hammer with a clang and throws kras arms around you.
+[NPC] Malco: Malco not know what Malco do with no hammer.
+[NPC] Malco: Malco pay Sir for help.
+[NPC ME] Malco Mokkar digs out a few coins and drops them into your hands.
+[NPC] Malco: Hammer good now!
+[NPC] Malco: Sir see Gurgus now.
+
+[Reward] [XP] 10800; [Money] 2107

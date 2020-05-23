@@ -1,0 +1,63 @@
+[Questname] Blue Way Master Training
+[NPC Name] Barrin Dhorod
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Practical Blue Way Adept; [Item] 2, Adept's Blue Way Wand; [Item] 1, Apprentice's Blue Way Wand; [Skill] 100, Blue Way; [Item] 1, Arrow glyph; [Item] 1, Armor glyph; [Item] 1, Fire glyph
+
+[Info] You get the glyphs back.
+
+[To] Barrin Dhorod
+
+[NPC Internal] Please except these three Wands as requested.
+[NPC] Barrin: Welcome to masters training of the Blue Way, YOU.
+[NPC] Barrin: These next tests are not so much about training they are about making a name for your self as a Blue Way Master.
+[NPC] Barrin: In gaining aid and respect from your pears, you have begun spreading your name amongst your fellow students.
+[NPC Narrate] -Barrin hands you back two wands, but keeps yours and puts it aside.-
+[NPC] Barrin: You may return those to their owners.
+[NPC] Barrin: You have proven your knowledge and dedication to the Blue Way Circle to your previous trainers.
+[NPC] Barrin: You also know of the supporting and opposing Ways to the Blue Way.
+[NPC] Barrin: This knowledge is important for your masters training.
+[NPC] Barrin: My suggestion is to begin speaking to practitioners and students from the supporting Ways and making allies.
+[NPC] Barrin: These bonds will become important in the coming tests.
+[NPC] Barrin: Today, you will start by bringing me two glyphs that Levrus sells, each from one of the Blue Way's supporting Ways.
+[NPC Internal] I believe that will be Arrow and Armor.
+[NPC] Barrin: Well done.
+[NPC] Barrin: Blue Way has many glyphs, though quite a few will do nothing on their own.
+[NPC] Barrin: It is possible they might need glyphs from the Crystal or Brown Ways as well as from the Blue Way.
+[NPC] Barrin: On their own, each Way is limited in power.
+[NPC Narrate] -Barrin hands back the glyphs.-
+[NPC] Barrin: No Way of magic is complete without the other Ways.
+[NPC Narrate] -Barrin looks you in the eyes to make sure you are listening.-
+[NPC] Barrin: This includes supporting Ways, neutral, and opposing.
+[NPC] Barrin: Azure and Dark Way are neutral, neither greatly aiding nor impeding the Blue Way.
+[NPC] Barrin: Finally, there is the single Way that mirrors the Blue Way.
+[NPC] Barrin: This is the Red Way.
+[NPC] Barrin: For your last task today I will ask of you the Red Way Glyph that Levrus sells.
+[NPC Internal] That is easy, here is Fire Glyph.
+[NPC Narrate] -Barrin nods.-
+[NPC] Barrin: Correct.
+[NPC] Barrin: Please have it back.
+[NPC Narrate] -Barrin quickly hands it back and rubs his hands on his vest.-
+[NPC] Barrin: This is very important.
+[NPC] Barrin: Blue and Red Way Circles are not enemies, even though Ferryd is a childish fool.
+[NPC Narrate] -Barrin shakes his head and starts again.-
+[NPC] Barrin: Sorry, I meant to say Blue and Red Way Circles are not enemies.
+[NPC] Barrin: However, the magics they practice collide.
+[NPC] Barrin: Trying to combine opposing Ways can be very dangerous, or even deadly.
+[NPC] Barrin: You may train the supporting ways within a realm or so of Blue Way, but I advise you to limit any Red Way training and Ferryd's interaction to a minimum.
+[NPC] Barrin: If you train to high in the Red Way, you risk canceling out your training in the Blue Way all together.
+[NPC Narrate] -Barrin breathes deeply.-
+[NPC] Barrin: Visit the crater in the hill out towards Ojaveda if you wish to know the effects of combining too many magic Ways.
+[NPC] Barrin: That hill was once much taller.
+[NPC] Barrin: Enough of that, I do not wish to speak of it.
+[NPC] Barrin: Are you ready now to officially become a Master of the Blue Way?
+[NPC Internal] Yes, I am ready and willing.
+[NPC] Barrin: Well then, no time to be wasting.
+[NPC] Barrin: This is your new Master's Wand.
+[NPC] Barrin: With it, you are no longer an Adept.
+[NPC] Barrin: You will show it to me every time you are ready for your next test session while you continue training in the usual manner.
+[NPC] Barrin: I also want you to have this as a personal gift from me.
+
+[Reward] [XP] 17800; [Item] 1, Purify glyph; [Item] 1, Master's Blue Way Staff; [Faction] 40, Blue Order
+

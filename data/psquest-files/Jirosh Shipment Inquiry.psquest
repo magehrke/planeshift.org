@@ -1,0 +1,39 @@
+[Questname] Jirosh Shipment Inquiry
+[NPC Name] Jirosh Mikana
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Jirosh Mikana
+
+[NPC Internal] Is there something I can help with?
+[NPC] Jirosh: Hmm…While I don't particularly need aid right now, it would make my work somewhat easier if you could perform a small service.
+[NPC] Jirosh: I'm expecting a shipment, but have yet to receive it.
+[NPC] Jirosh: If you could go and see if it has arrived, I'll grant you a fee for your troubles.
+[NPC Internal] Sure, where do I go?
+[NPC] Jirosh: Thanks.
+[NPC] Jirosh: Here's a list of what I need.
+[NPC] Jirosh: Give this to Merrinez.
+
+[To] Merrinez Dholant
+
+[NPC Internal] I am looking for this shipment.
+[NPC] Merrinez: Not another inquiry into shipments.
+[NPC Narrate] -Merrinez reads the shipping invoice, squinting his eyes as he does so.-
+[NPC] Merrinez: Oh my aching head!
+[NPC] Merrinez: The handwriting here is simply dreadful.
+[NPC] Merrinez: Yes, yes, we have that crate, it just came in.
+[NPC] Merrinez: Take it now so I don't have to look at this scrawling any longer!
+
+[To] Jirosh Mikana
+
+[NPC Internal] Here is your shipment.
+[NPC] Jirosh: It had arrived?
+[NPC] Jirosh: Oh good.
+[NPC] Jirosh: Jellied Clacker Eyes are considered a delicacy by some of the more affluent of our citizens, not that I'd ever touch them.
+[NPC] Jirosh: But if they are willing to pay hordes of money for it, what do I care?
+[NPC] Jirosh: Here, have this with my thanks.
+
+[Reward] [Money] 1297; [XP] 9400
+

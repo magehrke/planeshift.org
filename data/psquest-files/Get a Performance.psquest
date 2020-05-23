@@ -1,0 +1,71 @@
+[Questname] Get a Performance
+[NPC Name] Roya Vuntarr
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Saria's Rush Job
+
+[To] Roya Vuntarr
+
+[NPC Internal] Do you know of anyone who needs a quick bit of work done?
+[NPC] Roya: Well…
+[NPC Narrate] -Roya thinks for a second.-
+[NPC] Roya: this may sound weird to you, but I am having some trouble finding people interested in hearing me sing.
+[NPC] Roya: Perhaps you can arrange a performance for me at the Broken Door.
+[NPC] Roya: Are you interested in that?
+[NPC Internal] I'd love to see some more entertainment in that tavern. You've got a deal!
+[NPC] Roya: Good!
+[NPC] Roya: Please hand this flyer to the owner and see if he is interested.
+
+[To] Brado
+
+[NPC Internal] You might find this useful to you.
+[NPC] Brado: What's this?
+[NPC Narrate] -Brado reads the flyer and smiles.-
+[NPC] Brado: This sure sounds interesting, but singers alone don't seem to draw as many customers any more.
+[NPC] Brado: Perhaps if you could get me a street performer as well, then I will think about it.
+[NPC] Brado: I know one in Hydlaa that manages to amuse me.
+[NPC] Brado: His name is Serevim Colat.
+[NPC] Brado: Hand the performer this contract then go to the singer this contract and see if you can get the two of them to sign it.
+
+[To] Serevim Colat
+
+[NPC Internal] A tavern owner of my acquaintance has work for you, if you're interested.
+[NPC] Serevim: I do not usually ask for a contract, I just perform on the streets.
+[NPC] Serevim: But perhaps a nice performance with a singer of her stature can make me some decent tria.
+[NPC Narrate] -Serevim signs the contract.-
+[NPC] Serevim: I'm in.
+[NPC] Serevim: Go hand this to Roya; she needs to sign it as well.
+
+[To] Roya Vuntarr
+
+[NPC Internal] Brado hoped you would give this some consideration.
+[NPC] Roya: Yes!
+[NPC] Roya: You got me a contract it seems!
+[NPC Narrate] -Roya reads over the contract and signs it with a smile.-
+[NPC] Roya: There we go.
+[NPC] Roya: Give this to Brado.
+[NPC] Roya: He should hand you the final contract, that one I would like for tax purposes.
+
+[To] Brado
+
+[NPC Internal] I've returned with the contract.
+[NPC] Brado: Great!
+[NPC] Brado: They both agreed.
+[NPC] Brado: This should provide my patrons with some great entertainment Tabei.
+[NPC] Brado: I am pleased.
+[NPC] Brado: Thanks for finding those acts for me.
+[NPC] Brado: Please take this contract to Roya and some Tria as a repayment for your troubles.
+
+[To] Roya Vuntarr
+
+[NPC Internal] smiles and hands the paper to Roya.
+[NPC] Roya: That's it!
+[NPC Narrate] -Roya smiles.-
+[NPC] Roya: You got me a deal!
+[NPC] Roya: Thank you very much, Enkidukai.
+[NPC] Roya: I cannot give you any tria for the work you did, but perhaps I can please you with this ring I got after one of my performances.
+[NPC] Roya: Thanks, and hope to see you at the show!
+
+[Reward] [Money] 2307; [XP] 10800; [Item] 1, Stone Ring; [Faction] 15, Artists Association
+

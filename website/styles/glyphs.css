@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author: Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* magic/glyphs CSS Script */
+
+.glyphs_main_table {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+
+	.glyphs_main_table img {
+		height: 30px;
+	}
+
+	.glyphs_main_table a {
+		color: #FFF;
+	}
+
+	.glyphs_main_table a:hover {
+		color: #99CCFF;
+		text-decoration: none;
+	}

@@ -1,0 +1,64 @@
+[Questname] Learn how to make a Broadsword
+[NPC Name] Veja Pontor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 1, Superior Sword Parchment; [Item] 4, Steel Stock; [Item] 3, Steel Ingots
+
+[Info] You will get the Superior Sword Parchment from the quest New sabre for Jecascis.
+
+[To] Veja Pontor
+
+[NPC Internal] Hi, I've found this book. Can you help me make a broadsword?
+[NPC] Veja: Sure.
+[NPC] Veja: I can help you with that.
+[NPC] Veja: Shall we start now?
+[NPC Internal] Yes, I'm ready.
+[NPC] Veja: First of all you'll need 4 steel stock and 3 steel ingots.
+[NPC] Veja: When you have them heat them on the forge down there.
+[NPC Narrate] -Veja points at one of the forges near her.-
+[NPC] Veja: and hammer them on the anvil down there.
+[NPC Narrate] -Veja points at an anvil.-
+[NPC] Veja: When you've done it all show me your results.
+[NPC] Veja: I'll wait for you before proceeding.
+[NPC Internal] Here it is the broadsword blade and handle.
+[NPC] Veja: Sorry, I can't see the blade and the handle as I asked you: put them in well sight on your hands so I can have a look.
+[NPC Internal] Here it is the broadsword blade and handle.
+[NPC] Veja: Good…
+[NPC] Veja: they seem to have come up well.
+[NPC] Veja: Now you have to heat the blade and hammer it for another two times so you'll get a better shaped blade.
+[NPC] Veja: At this point put it back in the forge and make it red hot.
+[NPC] Veja: Be careful to not wait too much or you'll ruin all your work!
+[NPC] Veja: When you are done with it, just put it in the quench tank.
+[NPC Narrate] -Veja points to the quench tank.-
+[NPC] Veja: So the blade loses temperature and, as last thing, sharpen it on the sharpening stone down there.
+[NPC Narrate] -Veja points to the sharpening stone.-
+[NPC] Veja: When you've done it you'll obtain a rough broadsword blade.
+[NPC] Veja: Show it to me so I can check all is well and then I will explain you the rest of the procedure.
+[NPC] Veja: Good Luck!
+[NPC Internal] Here it is the rough broadsword blade.
+[NPC Narrate] -Veja nods at the sight of the blade.-
+[NPC] Veja: Yes, that looks good.
+[NPC] Veja: Now…
+[NPC Narrate] -Veja takes a furrower out and shows it to you.-
+[NPC] Veja: You have to use this on the blade you've made so you'll complete the blade.
+[NPC] Veja: When you are done with it just assemble the handle with the blade and you'll obtain your well earned broadsword.
+[NPC] Veja: You can use that table to do the furrow and assembly.
+[NPC Narrate] -Veja points to a smith table.-
+[NPC] Veja: When you are done just show your result to me.
+[NPC Internal] Here it is the broadsword.
+[NPC] Veja: Let me have a look.
+[NPC Narrate] -Veja inspects your broadsword.-
+[NPC] Veja: It seems ok…
+[NPC] Veja: I've a proposal for you.
+[NPC] Veja: I just had an order for a broadsword and it must be done fast.
+[NPC] Veja: Therefore, if you sell me that one, I will pay it well.
+[NPC] Veja: What do you say?
+[NPC Internal] Ok, I will sell you this broadsword.
+[NPC] Veja: Thank you very much!
+[NPC] Veja: Here take these.
+[NPC Narrate] -Veja gives you some circle.-
+[NPC] Veja: I hope you have learned how to make broadswords well!
+
+[Reward] [Money] 25000; [XP] 10000; [Item] 1, Furrower; [Faction] 1, Enkidukai
+

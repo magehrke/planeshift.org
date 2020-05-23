@@ -1,0 +1,157 @@
+[Questname] Loren Chama needs a wood sculpture
+[NPC Name] Loren Chama
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Loren Chama Needs Dye
+
+[To] Loren Chama
+
+[NPC Internal] Is there anything else I can do?
+[NPC] Loren: Ah yes.
+[NPC] Loren: You have done a job for me already, have you not?
+[NPC] Loren: I can trust you with this.
+[NPC] Loren: I require a gift for the Octarch's feast; after all, one does not just see the Dome Octarch Iragdun Salikarios empty-handed.
+[NPC] Loren: I would like a wood sculpture.
+[NPC] Loren: Yonda Axebow lives near the Library and she used to make them.
+[NPC] Loren: They became quite trendy, but she says she cannot afford to make them anymore.
+[NPC] Loren: Resolve whatever problem Yonda has and get me a sculpture, and I will compensate you admirably.
+[NPC] Loren: Will you accept?
+[NPC Internal] Yes, I can do that.
+[NPC] Loren: Super.
+[NPC] Loren: Get right on that.
+[NPC] Loren: Go and ask Yonda about sculptures or tell her I sent you.
+
+[To] Yonda Axebow
+
+[NPC Internal] Tell me about your wood sculpture.
+[NPC] Yonda: I make wood sculptures as playthings for little kids, but there are also a number of grown-ups who buy them as display pieces.
+[NPC] Yonda: From time to time, I go to the library and read books about other levels of Yliakum, the stone labyrinths, or even lands beyond the portals, to find my inspiration.
+[NPC] Yonda: I love this kind of work but it is hard to earn enough money doing that alone.
+[NPC] Yonda: This is especially true now that Kaiman has raised the price for wood unexpectedly: I am running low on wood stock.
+[NPC] Yonda: Could you please try to talk to him, and convince him to lower the cost back to its original price?
+[NPC Internal] Yes, where is this Kaiman?
+[NPC] Yonda: That is wonderful!
+[NPC] Yonda: You only need to find Kaiman Jilatt near the plaza and speak to him.
+[NPC] Yonda: Please convince him to lower them again.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] Yonda Axebow sent me about the wood prices.
+[NPC] Kaiman: The sculpture and carving woman right?
+[NPC] Kaiman: Look, I do not really want to haggle, wood costs what it costs.
+[NPC] Kaiman: Leave me to my other business.
+[NPC] Kaiman: Wait!
+[NPC] Kaiman: Speaking of business, you look like an adventurer…
+[NPC] Kaiman: I'll tell you what.
+[NPC] Kaiman: If you do something for me, I will lower the price for your friend Yonda Axebow.
+[NPC] Kaiman: Is this acceptable?
+[NPC Internal] Yes, what do you need?
+[NPC] Kaiman: Wonderfull!
+[NPC Narrate] -Kaiman eyes grow wide.-
+[NPC] Kaiman: I need you to go and find me an axe.
+[NPC] Kaiman: It cannot be just any axe either; this one is all the way out in Ojaveda.
+[NPC] Kaiman: These mastercrafted axes are fashioned by Hammerwielders for combat, although I will use it for deforestation.
+[NPC] Kaiman: Trasok Starhammer occasionally stocks those axes.
+[NPC] Kaiman: I can give you the money needed.
+[NPC] Kaiman: I will give you a note of assurance that Trasok might accept, but he may want more.
+[NPC] Kaiman: If so, do as he asks and return with the axe.
+
+[To] Trasok Starhammer
+
+[NPC Internal] I am here for a Mastercrafted Axe.
+[NPC] Trasok: Ah, the merchant in Hydlaa sent you, right?
+[NPC] Trasok: You know, those Mastercrafted Axes are not easy to come by.
+[NPC] Trasok: Their manufacture is a closely guarded secret so they have to be imported from the fourth level of Yliakum.
+[NPC] Trasok: They don't call it the Forge for nothing.
+[NPC Narrate] -Trasok puts his hands on the counter.-
+[NPC] Trasok: What did Kaiman send you with?
+[NPC Internal] Kaiman's note of assurance.
+[NPC] Trasok: Let me see that please.
+[NPC Narrate] -Trasok reaches out hand.-
+[NPC Internal] Here is the note.
+[NPC] Trasok: Hmm…
+[NPC] Trasok: this isn't quite enough, but I will hold this for you while you go and do a little favor for me.
+[NPC] Trasok: I have a friend who is an engineer.
+[NPC] Trasok: He has sent me a letter desperate for aid.
+[NPC] Trasok: We have traded riddles for years together; he says he has found a problem that stumps him.
+[NPC] Trasok: If you can get a note from him saying you solved his problem and give it to me, I will give you the mastercrafted axe.
+[NPC] Trasok: Do you agree?
+[NPC Internal] Ok, Yes.
+[NPC] Trasok: Good.
+[NPC] Trasok: Go and see Hiacheius Dilechi at the Eagle Bronze Doors.
+[NPC] Trasok: Those are the ones on the other side of Hydlaa.
+[NPC] Trasok: He manages the waterwheel.
+[NPC] Trasok: When you get there, tell Hiacheius that Trasok Starhammer sent you.
+[NPC] Trasok: Return with the answer and I will give you the axe.
+
+[To] Hiacheius Dilechi
+
+[NPC Internal] Trasok Starhammer sent me.
+[NPC] Hiacheius: T-T-Trasok send you?
+[NPC] Hiacheius: I was really hoping for his aid on this one.
+[NPC] Hiacheius: I guess you will d-do, I may just need an alternative p-p-per-p-perspective to solve this puzzle.
+[NPC] Hiacheius: Well here goes, I will tell you the problem.
+[NPC] Hiacheius: A Lemur p-p-peasant was condemned to die for an act of treason.
+[NPC] Hiacheius: The Vigesimi court gave her the f-following choice: We will allow one final statement.
+[NPC] Hiacheius: You may say whatever you wish to the crowd, but our mages will know whether you lie or not.
+[NPC] Hiacheius: If you lie, we will hang you, a painful death.
+[NPC] Hiacheius: If you tell the truth, we will have you beheaded, an immediate death.
+[NPC] Hiacheius: The Lemur thought for a m-moment, gave her statement, and was permitted to walk free because the court could not determine the appropriate means of execution.
+[NPC] Hiacheius: What statement could the Lemur give that made sentencing impossible?
+[NPC Internal] I will be hanged.
+[NPC] Hiacheius: No, I…
+[NPC Narrate] -Hiacheius starts muttering.-
+[NPC] Hiacheius: Ah, you are correct!
+[NPC] Hiacheius: I see it clearly now: it is a classic paradox of the liar.
+[NPC] Hiacheius: If they hang him, then he was telling the truth and should have been beheaded.
+[NPC] Hiacheius: If he is beheaded, then he is lying and should have been hanged!
+[NPC] Hiacheius: Great work!
+[NPC] Hiacheius: Here is the riddle note Trasok wanted.
+[NPC] Hiacheius: Just give it to him when you see him.
+
+[To] Trasok Starhammer
+
+[NPC Internal] I have a riddle for you.
+[NPC] Trasok: Ah, thank you.
+[NPC] Trasok: I see you were a success!
+[NPC] Trasok: How can I ever repay you?
+[NPC] Trasok: …Oh, right, the axe.
+[NPC] Trasok: Here is your axe, and here are some extra circles for the note.
+[NPC] Trasok: You should now return this axe to Kaiman Jilatt.
+[NPC] Trasok: Thanks again.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] I believe this axe is for you.
+[NPC] Kaiman: I see you have returned.
+[NPC] Kaiman: I trust you handled everything easily?
+[NPC] Kaiman: No matter; I have been trying to get one of these for weeks now.
+[NPC] Kaiman: You have made me very happy.
+[NPC] Kaiman: I will not just lower the price, but lower it substantially.
+[NPC] Kaiman: Bring this new bill to Yonda Axebow; the price is now lower than before I raised it.
+[NPC] Kaiman: She should be pleased.
+
+[To] Yonda Axebow
+
+[NPC Internal] Here is the new bill.
+[NPC] Yonda: Oh my goodness!
+[NPC Narrate] -Yonda reads the bill and her jaw hangs slack in amazement.-
+[NPC] Yonda: What did you say to him?
+[NPC] Yonda: Never mind, I do not need to know, thank you ever so much!
+[NPC] Yonda: I do not know how to repay you.
+[NPC] Yonda: I have no sculptures on hand…
+[NPC] Yonda: unless…
+[NPC Narrate] -Yonda ponders the situation.-
+[NPC] Yonda: Yes, you have done well enough for me; here is my best piece ever.
+[NPC] Yonda: I hope it makes it into good hands.
+
+[To] Loren Chama
+
+[NPC Internal] The sculpture you wanted.
+[NPC] Loren: Very nicely done, and this is the best sculpture I have ever seen.
+[NPC] Loren: I cannot wait to see our Octarch receive this.
+[NPC] Loren: Here is your promised reward; you may choose the one more suited to your needs.
+
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Crafting Association; [OR Begin] [Item] 1, Light glyph [OR] [Item] 1, Book of Blades [OR End]
+

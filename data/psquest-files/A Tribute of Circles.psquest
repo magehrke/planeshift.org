@@ -1,0 +1,137 @@
+[Questname] A Tribute of Circles
+[NPC Name] Fholen Medraa
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] best_judgment; [Item] 1, Sharven's Jade Order
+
+[To] Fholen Medraa
+
+[NPC Internal] gives Fholen Sharven's jade order.
+[NPC Narrate] -Fholen reads over the order and looks a bit surprised.-
+[NPC] Fholen: I had no idea that Sharven was so pleased with my work.
+[NPC Narrate] -Fholen suddenly smiles, then reverently touches the jade symbol around his neck.-
+[NPC] Fholen: Perhaps this means that more Ynnwn are seeing the truth in His ways.
+[NPC] Fholen: Laanx be praised!
+[NPC] Fholen: I want to make sure my fellow Ynnwn can show their love of Laanx as soon as possible.
+[NPC] Fholen: Will you help me finish this commission?
+[NPC Internal] Yes, it will be my pleasure.
+[NPC] Fholen: I will get started right away, then.
+[NPC] Fholen: Please come back shortly and ask me if the order is ready.
+[NPC] Fholen: I already have some plain signet rings made up that I can easily add His symbol to, so it should not take me long.
+[NPC Narrate] -Fholen opens his work pouch and starts checking the sharpness of his tools.-
+[NPC Internal] Are you done yet?
+[NPC] Fholen: I have just finished the last of them.
+[NPC Narrate] -Fholen's voice grows rough and his eyes start to shine from the tears he holds in check.-
+[NPC] Fholen: I have not felt so close to Laanx since He first called to me in the mines.
+[NPC] Fholen: I cannot tell you what an honour this is for me.
+[NPC] Fholen: Please, make sure these get to Sharven safely.
+[NPC] Fholen: I would usually charge four circles for these, but this goes beyond mere money.
+[NPC] Fholen: If Sharven offers payment, please tell him they are a gift for Laanx.
+[NPC Narrate] -Fholen places the rings inside a small box.-
+[NPC] Fholen: Pretty box, isn't it?
+[NPC] Fholen: I bought a few of them from some poor peddler.
+[NPC] Fholen: Not sure why a person selling such fine boxes would smell like the sewer, but I am not one to pass up a good deal.
+[NPC Narrate] -Fholen hands you the box.-
+
+[Possible Ways] 2
+
+[Way] 1
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] gives Sharven the engraved tree box.
+[NPC Narrate] -Sharven takes the box from you and examines it carefully.-
+[NPC] Sharven: Who is this from?
+[NPC Internal] Fholen Medraa.
+[NPC] Sharven: From Fholen?
+[NPC] Sharven: I was not expecting any deliveries from him.
+[NPC] Sharven: I wonder what it could be?
+[NPC Narrate] -Sharven opens the box and gasps.-
+[NPC] Sharven: Oh, these are lovely!
+[NPC] Sharven: They are perfectly suited for our Ynnwn followers.
+[NPC Narrate] -Sharven rummages around in the box, then turns to you with a bewildered look on his face.-
+[NPC] Sharven: Fholen did not include an invoice.
+[NPC] Sharven: Such beautiful craftsmanship is surely worth some coin from the temple's funds.
+[NPC] Sharven: Did he happen to mention how much he wanted for these?
+[NPC Internal] It is a gift.
+[NPC Narrate] -Sharven pulls a ring from the box and lovingly traces the symbol on it.-
+[NPC] Sharven: What an incredible tribute to Laanx!
+[NPC] Sharven: Fholen is indeed devoted.
+[NPC] Sharven: Kindly return to him and tell him that Laanx will be pleased.
+[NPC] Sharven: Oh, and take this for your work on His behalf.
+[NPC Narrate] -Sharven hands you a coin.-
+
+[To] Fholen Medraa
+
+[NPC Internal] Laanx will be pleased.
+[NPC Narrate] -Fholen looks content.-
+[NPC] Fholen: I am glad, since it was for His pleasure that I did it.
+[NPC] Fholen: Please, have this in Laanx's name for all your help.
+[NPC Narrate] -Fholen extends a hand towards you.-
+
+[Way] 2
+
+[To] Relliom
+
+[NPC Internal] gives Rellion the engraved tree box.
+[NPC Narrate] -The corners of Relliom's mouth turn up ever so slightly as he examines the box.-
+[NPC] Relliom: A pretty thing, is it not?
+[NPC] Relliom: I am pleased with your progress, YOU.
+[NPC] Relliom: So pleased, in fact, that I have already decided what I need of you next.
+[NPC] Relliom: Doing this will inflict a great deal of misery on a good man, and perhaps even ruin his life.
+[NPC] Relliom: Are you still willing to aid me?
+[NPC Internal] Yes, why not? sounds like fun.
+[NPC] Relliom: Excellent, YOU.
+[NPC] Relliom: I will keep the lovely box you have given me, and replace it with this one you brought to me earlier.
+[NPC Narrate] -Relliom traces the identical carvings on both boxes with a finger, smiling to himself, then hands one of them to you.-
+[NPC] Relliom: Simply deliver it to Sharven as Fholen asked.
+[NPC] Relliom: I am quite certain Sharven will have some harsh words for you to deliver back to Fholen.
+[NPC] Relliom: After which, you can bring the box back to me.
+[NPC] Relliom: Sharven will not want such…fine items.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] gives Sharven the engraved tree box.
+[NPC Narrate] -Sharven takes the box from you and examines it carefully.-
+[NPC] Sharven: Who is this from?
+[NPC Internal] Fholen sent me with it.
+[NPC] Sharven: From Fholen?
+[NPC] Sharven: I was not expecting any deliveries from him.
+[NPC] Sharven: I wonder what it could be?
+[NPC Narrate] -Sharven opens the box and gasps.-
+[NPC] Sharven: Oh, this is repulsive, an absolutely unforgivable offence to Laanx!
+[NPC] Sharven: I do not know what madness prompted Fholen to send me this horrid thing, but I will not expose myself, nor will I allow any of the faithful to be exposed.
+[NPC] Sharven: Tell Fholen that Laanx casts him out, and remove this thing from my sight.
+[NPC Narrate] -Sharven shudders in revulsion as he shoves the box back into your hands.-
+
+[To] Fholen Medraa
+
+[NPC Internal] Laanx has cast you out.
+[NPC Narrate] -Fholen stares at you in utter shock as great, slow tears begin to roll down his face.-
+[NPC] Fholen: Cast out?
+[NPC] Fholen: But why?
+[NPC] Fholen: I don't…makes no sense…my life, my love, all for Him…
+[NPC] Fholen: what is left?
+[NPC] Fholen: Nothing, nothing, all gone.
+[NPC] Fholen: Please, just leave me.
+[NPC Narrate] -Fholen sinks to the ground as his legs fail him and wracking sobs shake his body.-
+
+[To] Relliom
+
+[NPC Internal] gives Relliom the engraved tree box.
+[NPC Narrate] -Relliom turns the box over and over in his hands, caressing every face.-
+[NPC] Relliom: Lovely box, lovelier results.
+[NPC] Relliom: I can almost smell Fholen's tears on you, YOU.
+[NPC] Relliom: You continue to impress me.
+[NPC Narrate] -Relliom pauses a moment to look you over from head to toe, lingering longest at your eyes.-
+[NPC] Relliom: I believe you are ready for your next task, my eager little clacker.
+[NPC] Relliom: Perhaps it is time to see just how far you will go.
+[NPC] Relliom: Take this,
+[NPC Narrate] -Relliom hands you a small phial.-
+[NPC] Relliom: and go to Sysial Shillor.
+[NPC] Relliom: Your instructions await you there.
+
+[Reward] [Way 1] [Money] 6782; [XP] 12200; [Faction] 15, Iron Hand; [Faction] 20, Ynnwn
+[Reward] [Way 2] [Money] 3391; [XP] 12200; [Item] 1, Clacker Phial; [Faction] 20, Cabal of Whispers
+

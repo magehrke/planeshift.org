@@ -1,0 +1,83 @@
+[Questname] Deliver to the Hydlaa Merchants
+[NPC Name] Phanejor Mikana
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes
+
+[To] Phanejor Mikana
+
+[NPC Internal] Greetings, do you have any work available?
+[NPC] Phanejor: The Mikana Trading Company often has work for those who ask of it.
+[NPC] Phanejor: Do you know much about the other merchants in Hydlaa?
+[NPC Internal] Yes I do.
+[NPC] Phanejor: That is good to hear, Tabei.
+[NPC] Phanejor: Would you like to make some deliveries to them, perchance?
+[NPC Internal] Sure.
+[NPC] Phanejor: Most pleasing to me, Tabei.
+[NPC] Phanejor: Here are three packages.
+[NPC] Phanejor: You will find the recipient's name on each package; each is in Hydlaa so it should not be difficult.
+[NPC] Phanejor: I will give you a sheet for them all to sign to confirm delivery.
+[NPC] Phanejor: Always give the package first, then the sheet for them to sign.
+[NPC] Phanejor: Please do them in the order written on the sheet.
+[NPC] Phanejor: That's good business.
+[NPC] Phanejor: I will be here, awaiting your return with the thrice-signed sheet.
+
+[To] Ervin Fromaad
+
+[NPC Internal] I have a delivery for you.
+[NPC] Ervin: This must be the delivery from Mikana.
+[NPC Narrate] -Ervin opens the lid on the package. His face is bathed in a warm orange glow.-
+[NPC] Ervin: As I thought.
+[NPC] Ervin: It's the amber I ordered.
+[NPC] Ervin: It's used to ornament high-quality weapons, you know.
+[NPC] Ervin: Do I need to sign anything?
+[NPC] Ervin: Okay, this will just take a moment.
+[NPC Narrate] -Ervin signs the sheet with a flourish and hands it back to you.-
+[NPC] Ervin: Thanks and farewell.
+
+[To] Edrich Sultov
+
+[NPC Internal] I have a delivery from the Mikana Trading Company for you.
+[NPC] Edrich: From Mikana?
+[NPC Narrate] -Edrich hastily rips open the package.-
+[NPC] Edrich: Aha!
+[NPC] Edrich: The spools of ribbon.
+[NPC] Edrich: At last.
+[NPC] Edrich: I'll sign that sheet now.
+[NPC] Edrich: Very well.
+[NPC Narrate] -Edrich scribbles his name across the sheet quickly.-
+[NPC] Edrich: Thanks.
+[NPC] Edrich: Here's a tip.
+
+[To] Boralis Voladrand
+
+[NPC Internal] I have a delivery for Boralis.
+[NPC] Boralis: I've been expecting this package.
+[NPC Narrate] -Boralis carefully unwraps the paper package, smoothing it out.-
+[NPC] Boralis: Rinna, look, it's the gloves.
+[NPC] Boralis: Place those in the inventory, would you?
+[NPC Narrate] -Boralis hands the gloves to his wife, who starts stacking them. He folds the paper package and sets it aside.-
+[NPC] Boralis: No sense in wasting paper.
+[NPC] Boralis: I believe I need to confirm delivery?
+[NPC Internal] Yes, if you could sign the here on the confirmation sheet, thanks.
+[NPC] Boralis: Looks like the Mikana company has kept you busy.
+[NPC Narrate] -Boralis slowly and carefully signs his name.-
+[NPC] Boralis: And here you go.
+[NPC] Boralis: Thanks again.
+[NPC] Boralis: Goodbye.
+
+[To] Phanejor Mikana
+
+[NPC Internal] I have completed the deliveries. Here is the confirmation sheet.
+[NPC] Phanejor: Everything seems to be in order.
+[NPC] Phanejor: Well done, Tabei.
+[NPC] Phanejor: Did you receive any tips?
+[NPC Internal] Yes, I received the tips.
+[NPC] Phanejor: Good.
+[NPC] Phanejor: I am glad to see that not every merchant has forgotten the custom of tipping a Hexa to a merchant's courier.
+[NPC] Phanejor: Here's your compensation, Tabei.
+[NPC] Phanejor: Perhaps I'll have more work for you later.
+
+[Reward] [Money] 7310; [XP] 15000
+

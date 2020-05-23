@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;de.tudarmstadt.ukp.dkpro.argumentation.componentclassification&apos;" deleteContents="true" description="Delete resource &apos;de.tudarmstadt.ukp.dkpro.argumentation.componentclassification&apos;" element1="/de.tudarmstadt.ukp.dkpro.argumentation.componentclassification" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1464461748705"/>
+</session>

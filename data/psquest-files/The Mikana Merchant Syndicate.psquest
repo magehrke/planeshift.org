@@ -1,0 +1,103 @@
+[Questname] The Mikana Merchant Syndicate
+[NPC Name] Jirosh Mikana
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests
+
+[To] Jirosh Mikana
+
+[NPC Internal] Hello again Jirosh.
+[NPC] Jirosh: Ah, YOU.
+[NPC Narrate] -Jirosh finishes scribbling on a piece of paper as he curses under his breath before looking up.-
+[NPC] Jirosh: So, straight to the point.
+[NPC] Jirosh: I'm really busy at the moment as I'm planning to create a merchant syndicate, how would you like to help me?
+[NPC] Jirosh: My syndicate will be dedicated to fair market prices, expedience in delivery and ease in getting people all over Yliakum exactly the items they want.
+[NPC] Jirosh: This is in contradiction to other syndicates, like Thorian's, which I'm sure he won't like and won't let you work for if you help me.
+[NPC Narrate] -Jirosh puts his pen down and spreads his hands open welcomingly.-
+[NPC] Jirosh: If you can get me five yellow merchant seals, I can give you papers to get you into the Hydlaa winch as a representative of the Mikana Trading Company.
+[NPC] Jirosh: Would you try for me?
+[NPC] Jirosh: You'll want to see my brother Phanejor when you're there.
+[NPC Internal] Yes, I can do that for you.
+[NPC] Jirosh: Thank you, tabei.
+[NPC] Jirosh: I will be here waiting for the five yellow seals.
+[NPC] Jirosh: I want you to be honest with the merchants; get the seals fairly.
+[NPC] Jirosh: No tricks please.
+[NPC] Jirosh: Good luck and Talad's blessing.
+
+[To] Toda Ombretis
+
+[NPC Internal] Do you want to join a Merchant's Syndicate?
+[NPC] Toda: I shall give you a yellow seal and no other.
+[NPC] Toda: Thorian is distasteful to me.
+[NPC] Toda: Will you take the yellow seal?
+[NPC Internal] Yes, the yellow seal for Jirosh will be perfect.
+[NPC] Toda: Then take this with my humble thanks, tabei.
+
+[To] Hirenn Darmeth
+
+[NPC Internal] Do you want to join Mikana's Merchant Syndicate?
+[NPC] Hirenn: I have waited for the day when I would be asked to join a syndicate with the Mikana Company.
+[NPC] Hirenn: Please, take this seal without hesitation.
+[NPC] Hirenn: Thank you, tabei!
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] Do you want to join Mikana's Merchant Syndicate?
+[NPC] Brintec: Yes, I am ready to be allied with Jirosh Mikana's company.
+[NPC] Brintec: Do you wish to have my seal?
+[NPC Internal] Yes, I would very much like it.
+[NPC] Brintec: In that case, here you are.
+
+[To] Yonda Axebow
+
+[NPC Internal] Do you want to join a Merchant Syndicate?
+[NPC] Yonda: A syndicate?
+[NPC] Yonda: I'd never thought about it.
+[NPC Narrate] -Yonda stands with her hands on her hips and looks up thoughtfully.-
+[NPC] Yonda: Yes, I think it's a good idea.
+[NPC] Yonda: I will join a single syndicate.
+[NPC] Yonda: Who do you represent?
+[NPC Internal] The Mikana company.
+[NPC] Yonda: Alright, you tell this Mikana person that I'd be happy to join.
+[NPC] Yonda: And I'll color this wax yellow, and here's my seal.
+
+[To] Jeyarp Grotemey
+
+[NPC Internal] Do you want to join the Mikana Merchant Syndicate?
+[NPC] Jeyarp: My friend and fellow leatherworker Hirenn Darmeth has nothing but high praise for the Mikana Company, so that is the only alliance I will join.
+[NPC] Jeyarp: Erm…what color was that seal again?
+[NPC Internal] It's Yellow.
+[NPC] Jeyarp: Ah, quite so.
+[NPC] Jeyarp: This is for you.
+[NPC] Jeyarp: Thank you.
+[NPC] Jeyarp: Speak to my wife as well; she has a personal seal too.
+
+[To] Gayla Grotemey
+
+[NPC Internal] Your husband suggested I ask you about joining a Syndicate.
+[NPC Narrate] -Gayla smiles as she looks at you.-
+[NPC] Gayla: Well, if he said that you must be here for Jirosh?
+[NPC Internal] That's right, I am. Are you interested in joining his syndicate?
+[NPC] Gayla: I certainly am, here, you can have this yellow seal to take to him.
+
+[To] Jirosh Mikana
+
+[NPC Internal] I collected all the seals you need.
+[NPC] Jirosh: One thousand thanks, tabei.
+[NPC] Jirosh: Did you manage to get any more than were required?
+[NPC] Jirosh: If so you can hand them to me now.
+[NPC Internal] Yes I did.
+[NPC] Jirosh: Have a small reward for your extra effort.
+[NPC] Jirosh: Was it just this one?
+[NPC Internal] Yes, just the one extra.
+[NPC] Jirosh: Then thank you.
+[NPC] Jirosh: The Mikana Company will become stronger than ever, and Yliakum's access to goods will be even easier with this new alliance.
+[NPC] Jirosh: I name you as our representative, so please take these access papers.
+[NPC] Jirosh: Give them to the guard in Hydlaa who is in front of the winch doors.
+[NPC] Jirosh: I know not his name.
+[NPC] Jirosh: His memory is good so once presented, you will always be allowed in the Hydlaa Winch area.
+[NPC] Jirosh: Farewell.
+
+[Reward] [Money] 1500; [XP] 8500; [Item] 1, Mercantile Winch Access Paper
+

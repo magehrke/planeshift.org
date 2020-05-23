@@ -1,0 +1,47 @@
+package main;
+
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.awt.event.KeyEvent;
+import java.util.Random;
+
+public class TrainRanged {
+
+	public static void main(String[] args) throws InterruptedException, AWTException {
+		
+		// Robot which presses the keys
+		Robot robot = new Robot();
+
+		// Key for training
+		// Arrow equip + attack dummy together
+		int keyForTraining = KeyEvent.VK_NUMPAD0;
+		
+		// Create some randomness
+		Random dice = new Random();
+		int diceNumber;
+		
+		// Time to change to PS window
+		Thread.sleep(5000);
+		System.out.print("Hello");
+		
+		while(true) {
+			
+			robot.keyPress(keyForTraining);
+			Thread.sleep(dice.nextInt(100));
+			robot.keyRelease(keyForTraining);
+			
+			
+			// We get a random number which we add to make it more
+			// natural
+			diceNumber = dice.nextInt(5000);
+			
+			// The natural value can be higher as well as LOWER
+			// than the time for the next keypress
+			// Thiw way its more natural.
+			Thread.sleep(140000 + diceNumber);
+			
+		}
+		
+	}
+
+}

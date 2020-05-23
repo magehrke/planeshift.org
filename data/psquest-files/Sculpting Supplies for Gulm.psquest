@@ -1,0 +1,64 @@
+[Questname] Sculpting Supplies for Gulm
+[NPC Name] Gulm Ossoe
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Tyrus Broke a String
+
+[To] Gulm Ossoe
+
+[NPC Internal] I'm looking for some work?
+[NPC] Gulm: Oh…you have come at just the right time!
+[NPC Narrate] -Gulm retrieves a piece of parchment and looks it over before nodding.-
+[NPC] Gulm: I just got word that a shipment of my supplies has arrived.
+[NPC] Gulm: Would you pick them up for me?
+[NPC Internal] Yes, where do I need to go?
+[NPC] Gulm: Thank you.
+[NPC] Gulm: Go to Malco Mokkar and tell him that I sent you.
+[NPC] Gulm: Kra should give you my crate, which might be on the heavy side, depending on what has arrived this time.
+[NPC Narrate] -Gulm waves.-
+[NPC] Gulm: Do hurry back, I have many projects to get started on!
+
+[To] Malco Mokkar
+
+[NPC Internal] Gulm sent me to pick up kras supplies.
+[NPC] Malco: Malco have big box.
+[NPC] Malco: Malco not give.
+[NPC] Malco: Malco need order.
+[NPC] Malco: Bring Malco order.
+[NPC] Malco: Get box.
+
+[To] Gulm Ossoe
+
+[NPC Internal] I need the order parchment.
+[NPC] Gulm: What?
+[NPC Narrate] -Gulm looks confused for a moment.-
+[NPC] Gulm: Oh…
+[NPC] Gulm: I forgot to give you the parchment notice!
+[NPC Narrate] -Gulm smiles abashedly and hands you the piece of parchment kra was looking at earlier.-
+[NPC] Gulm: I am sorry, here it is.
+
+[To] Malco Mokkar
+
+[NPC Internal] Here is the order parchment.
+[NPC] Malco: Malco see orders.
+[NPC Narrate] -Malco runs kras finger down the parchment.-
+[NPC] Malco: Ahhhh.
+[NPC] Malco: Big box for Gulm.
+[NPC] Malco: Malco have big box for Gulm.
+[NPC] Malco: Take box.
+[NPC] Malco: Malco must guard town.
+[NPC Narrate] -Malco pushes the box towards you and then turns back to staring at something across the way.-
+
+[To] Gulm Ossoe
+
+[NPC Internal] Here are your supplies.
+[NPC] Gulm: Thank you!
+[NPC] Gulm: Much good!
+[NPC] Gulm: Stop by again, I have many deliveries coming in and can often use the help.
+[NPC Narrate] -Gulm smiles and gives you some coins.-
+[NPC] Gulm: Here, take these for your time.
+
+[Reward] [Money] 9922; [XP] 16400; [Faction] 35, Artists Association; 
+

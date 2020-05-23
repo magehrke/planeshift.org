@@ -1,0 +1,310 @@
+[Questname] A Dark Thief
+[NPC Name] Allelia Symiestra
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests
+
+[To] Allelia Symiestra
+
+[Info] You have to use ”/tellnpc” or the NPC tab to start the conversation.
+
+[NPC Internal] about gossip
+[NPC] Allelia: I just heard that Taria Prestis is pregnant! Her husband, Barl, will make a great father. That is, if he ever gets time off from his work at the Eagle Bronze Doors. They say he does special missions inside the Stone Labyrinths. Certainly not a job for me, I'll tell you that much.
+[NPC Internal] more gossip
+[NPC Narrate] -Allelia lifts her towel from the counter, folding it as she smiles.-
+[NPC] Allelia: Oh please, you would be shocked and embarrassed if you knew half of the things I've heard around here.
+[NPC] Allelia: Care for a frothy mug and an ear full of gossip?
+[NPC Internal] Yes, do tell.
+[NPC] Allelia: Oooh great!
+[NPC Internal] What did you hear?
+[NPC] Allelia: Earlier today, this StoneHammer couple stopped in to dine.
+[NPC] Allelia: They were dressed in expensive looking clothing and wore fine platinum jewellery.
+[NPC] Allelia: They were whispering something about a thief and the guard's inability to capture him.
+[NPC] Allelia: When I asked them if everything was alright, they just abandoned the discussion.
+[NPC Narrate] -Allelia leans forward and smiles.-
+[NPC] Allelia: I'd love to know more about what's going on outside.
+[NPC Internal] Interesting, so who were these folks that you overheard?
+[NPC] Allelia: Hmm?
+[NPC] Allelia: Oh shoot, I never got their names.
+[NPC Narrate] -Allelia's eyes suddenly light up as she looks at you.-
+[NPC] Allelia: Do me a favour, try talking to some of the guards and see what you can find out.
+
+[To] Rabartus Livrandar
+
+[NPC Internal] Hey, I heard you are looking for a thief?
+[NPC] Rabartus: Yes, we are.
+[NPC Narrate] -Rabartus glances from side to side, then leans close.-
+[NPC] Rabartus: Look, while we want to catch him, we don't want him to know that were onto him either.
+[NPC] Rabartus: Keep this under your hat, ok?
+[NPC] Rabartus: If you see him, let one of us know right away.
+[NPC] Rabartus: I was told he was a skinny little whisp of a man; a Dermorian in grungy, wrinkled clothes.
+[NPC] Rabartus: From what I've heard, he looked more like a homeless alcoholic.
+
+[To] Bevon Damerr
+
+[NPC Internal] Hey, I heard you are looking for a thief?
+[NPC] Bevon: Howdy.
+[NPC] Bevon: Ya should talk to Remant 'bout this.
+[NPC] Bevon: He should be over by the north gate with Finara.
+[NPC] Bevon: Remant knows all 'bout this criminal, he interviewed the victim and a few witnesses himself.
+[NPC] Bevon: Good day, and good luck.
+
+[To] Remant Tovere
+
+[NPC Internal] Hey, I heard you are looking for a thief?
+[NPC] Remant: I am?
+[NPC] Remant: That's certainly news to me…
+[NPC] Remant: Oh right, yes!
+[NPC] Remant: He is guilty of a crime or something like that.
+[NPC] Remant: He stole something from somebody, now lets see, what was it, an axe?
+[NPC] Remant: A barrel?
+[NPC] Remant: No, that can't be right…
+[NPC] Remant: Ah!
+[NPC] Remant: I remember, he beat up a cute little groffel scout..
+[NPC] Remant: No wait?
+[NPC] Remant: Eh…
+[NPC] Remant: Maybe you should go talk to Finara or Rabartus instead.
+
+[To] Finara Plund
+
+[NPC Internal] Hey, I heard you are looking for a thief?
+[NPC] Finara: Yes, we are.
+[NPC Narrate] -Finara looks into your eyes with a silent, unyielding gaze.-
+[NPC] Finara: There was a mugging over in Gugrontid, but not your typical roadside ambush.
+[NPC] Finara: This criminal is violent and dangerous, so be aware of your surroundings when you pass.
+[NPC] Finara: Be prepared to defend yourself.
+[NPC Internal] Thanks for the warning, good day.
+[NPC] Finara: Hey, wait.
+[NPC] Finara: Perhaps you could help us out.
+[NPC Narrate] -Finara pauses as she turns her head and looks through the gates, then returns her gaze to you again - this time with a slightly warmer expression.-
+[NPC] Finara: Yes, perhaps you would do…
+[NPC Narrate] -She smiles.-
+[NPC] Finara: I'm officially volunteering you for a job as an undercover agent.
+[NPC] Finara: If you find any evidence, then make sure and return it to me, and me only.
+[NPC Internal] Eh, Alright. What can I do?
+[NPC] Finara: Go to Malco Mokkar in Gugrontid…
+[NPC] Finara: No, better yet, talk to Quasus and tell him you are working with us under cover.
+[NPC] Finara: Mention the phrase “A Dark Thief”.
+
+[To] Quasus Adyum
+
+[NPC Internal] I am working with Finara to catch a criminal.
+[NPC] Quasus: Is that so?
+[NPC Narrate] -Quasus gazes at you intensely for a moment.-
+[NPC] Quasus: If that's so prove it.
+[NPC Internal] A Dark Thief
+[NPC Narrate] -Kra's eyes are dark and steadily focused as if trying to see something deep inside your being.-
+[NPC] Quasus: Let me give you a little background on the thief who attacked one of our citizens, then.
+[NPC Internal] Ok, I'm listening.
+[NPC] Quasus: A week ago, Gardr had left to attend an auction in Hydlaa.
+[NPC] Quasus: On the way, kra was attacked and robbed after making a large amount of money trading precious metals.
+[NPC] Quasus: When I heard about this, I spoke with Gardr but kra didn't say much other than that kra was knocked out unexpectedly.
+[NPC Narrate] -Quasus sighs as kra looks into the distance, then returns kra's penetrating gaze to you.-
+[NPC] Quasus: This thief is smart, cunning, and dangerous.
+[NPC] Quasus: Somehow he knew that Gardr had plenty of money at the time.
+[NPC Internal] So, I'll start asking people if they saw anything?
+[NPC] Quasus: No, that approach would draw too much attention.
+[NPC] Quasus: Go to Gardr and see if you can learn a little more about the attacker.
+[NPC] Quasus: Maybe you can get Gardr to open up a little more.
+[NPC] Quasus: Look, while I'm rather upset about what happened to Gardr, I'm a bit more concerned about the attacker's choice of weapon.
+[NPC] Quasus: I have a very bad feeling about this criminal.
+[NPC] Quasus: Whatever he used to attack Gardr, it should be given to the guards.
+[NPC Narrate] -Quasus looks at you with a firm, unshakable stare.-
+
+[To] Gardr Keck
+
+[NPC Internal] Hey gemma. That's a nasty…bump on your head.
+[NPC Narrate] -Gardr looks around as if embarrassed, before regaining focus with kra's palm grinding over kra's scalp.-
+[NPC] Gardr: It's not that big, is it?
+[NPC] Gardr: You must have heard about what happened to me I presume?
+[NPC] Gardr: Lets not speak too loudly about this, ok?
+[NPC] Gardr: It wasn't exactly my proudest moment, If you know what I mean.
+[NPC] Gardr: How about you just forget about it?
+[NPC] Gardr: I can always earn my money back, alright?
+[NPC Internal] No, I can't let this go. I need to know more about it.
+[NPC] Gardr: By Talad!
+[NPC Narrate] -Gardr grinds kras jaw as kra watches you, then grumbles.-
+[NPC] Gardr: I was walking through the field by the howling well on my way to Hydlaa.
+[NPC] Gardr: I was fine one moment, then next moment I couldn't see anything at all.
+[NPC] Gardr: It was like the whole dome turned as black as soot.
+[NPC] Gardr: I rubbed my eyes, not knowing why I couldn't see, then felt a sharp pain on the side of my head.
+[NPC] Gardr: The next thing I knew, Laure was standing over me with a stupid little grin as I looked upward from the ground.
+[NPC] Gardr: I was flat out on my back.
+[NPC Internal] Do you suspect that she did it?
+[NPC] Gardr: I doubt it, why would she stick around?
+[NPC] Gardr: She was acting overly nice as if she really cared, but I know her kind.
+[NPC] Gardr: She hangs around with Ukabnu and those other troublemakers on the hill.
+[NPC Narrate] -Gardr points a thick, crusty finger towards the stony entrance.-
+[NPC] Gardr: I looked at my pouch and saw that I was missing my money.
+[NPC] Gardr: She asked how much, and I told her, four hundred circles.
+[NPC] Gardr: That was stupid of me.
+[NPC] Gardr: After that she just walked away and left me in the grass.
+[NPC] Gardr: She must know something that I don't.
+[NPC] Gardr: Perhaps someone else saw something.
+
+[To] Laure Eves
+
+[NPC Internal] Hey, I heard you spoke with Gardr after kra was robbed.
+[NPC] Laure: Gardr?
+[NPC] Laure: You mean the kran who trades metals and ores?
+[NPC] Laure: What's it to ya, rat face?
+[NPC Narrate] -Laure chuckles as she sizes you up.-
+[NPC Internal] So what do you know about his assailant?
+[NPC] Laure: Ah, he was a small, slender fellow with a messy mop a hair and beard to match.
+[NPC] Laure: That piece of garbage showed up here three days later, ya know.
+[NPC] Laure: Came up from the road, blinded me, Ukabnu and a few of our friends.
+[NPC] Laure: He killed them ya know; haven't seen 'em since.
+[NPC] Laure: He went on and stole my money, then swiped Ukabnu's boots just ta throw a little salt in the wound.
+[NPC Narrate] -Laure stops and looks fearfully at Ukabnu as she begins to curse and spit - warning her to keep her mouth shut.-
+[NPC] Laure: Better move along now, Enkidukai.
+[NPC Narrate] -Laure whispers in a low tone:-
+[NPC] Laure: When he blinded us, I got a taste of something.
+[NPC] Laure: Same raunchy taste and smell I got once before when I got into a scuffle with some pathetic dark mage.
+[NPC] Laure: Might be one of Rulayne Ogrin's boys.
+[NPC] Laure: If it is, I want his glyph, or whatever he's using.
+[NPC] Laure: Got it?
+[NPC] Laure: Now go!
+[NPC] Laure: Scram!
+
+[To] Rulayne Ogrin
+
+[NPC Internal] Someone has been blinding and robbing people.
+[NPC Narrate] -Rulayne watches you as his fists tighten.-
+[NPC] Rulayne: Blinding?
+[NPC] Rulayne: You know, one of my students was robbed recently.
+[NPC] Rulayne: She had a precious artefact that could possibly be misused to cast a blinding spell.
+[NPC] Rulayne: It was an amulet that she wore around her neck.
+[NPC] Rulayne: At the center was a black and red glyph, and around the circumference were a number of ornamental stones.
+[NPC Internal] Do you know anything about this thief?
+[NPC] Rulayne: No.
+[NPC] Rulayne: However, I do know that there was an incident over by the camp just past the pass.
+[NPC] Rulayne: I heard something gruesome happened there, and got some funny looks from a few tree worshippers as they walked by.
+[NPC Narrate] -Rulayne Ogrin Ogrin rolls his eyes.-
+[NPC] Rulayne: You might want to check with Jardet Forsill in Hydlaa.
+[NPC] Rulayne: The flower pickers were probably students of his.
+[NPC] Rulayne: By the way, if you catch this thief of yours, return that amulet to me.
+[NPC] Rulayne: It has sentimental value to my student.
+
+[To] Jardet Forsill
+
+[NPC Internal] I'm investigating a dangerous thief.
+[NPC Narrate] -Jardet is pacing as he begins to talk.-
+[NPC] Jardet: I don't know anything about a thief.
+[NPC] Jardet: I do know that there is a dangerous criminal on the loose, but the guards are after him.
+[NPC] Jardet: I am sure they will bring him to justice, though…
+[NPC Narrate] -Jardet continues to pace as he looks at his feet, then stops and looks back at you.-
+[NPC Narrate] -His face looks troubled, his fists are clenched like rocks, his arms are stiff like oak branches.-
+[NPC] Jardet: I'm sorry, something truly terrible has happened; I just can't get it out of my mind.
+[NPC] Jardet: Would you mind lending me your ear, so to speak?
+[NPC Internal] Talk to me, what's troubling you?
+[NPC] Jardet: I'm not sure where to begin.
+[NPC Narrate] -Jardet takes a deep breath, then lets out a deep sigh.-
+[NPC] Jardet: Three days ago, I sent two new initiates of the Seeds of Wildwood out towards the Explorer's camp in search for a hidden garden - a holy place where they could commune with Xiosia.
+[NPC] Jardet: They were supposed to return that evening but did not.
+[NPC] Jardet: The next day, I sent two more followers out to see if they were lost.
+[NPC] Jardet: When they reached the garden, they fell to their knees - completely shocked and horrified.
+[NPC] Jardet: The initiates were…
+[NPC Narrate] -Jardet's composure suddenly changes as a wave of sadness hits him.-
+[NPC Internal] It's ok, go on.
+[NPC] Jardet: They were tied to sacred trees, and their bodies were torn and bloody and were being picked at by a swarm of carnivorous birds.
+[NPC Narrate] -Jardet closes his eyes and tightens his grip around his staff as his sadness transforms into anger.-
+[NPC] Jardet: What sort of monster does something like this?
+[NPC] Jardet: I could hardly believe what I had heard, so I went to the camp myself to retrieve their bodies.
+[NPC] Jardet: The next day, I mourned for their loss in prayers, before having their remains delivered to the howling well for sanitary disposal.
+[NPC] Jardet: Sadly, I completely forgot to purify the garden.
+[NPC] Jardet: I had better make arrangements for that.
+[NPC Internal] I'll bet you want revenge, some justice perhaps?
+[NPC] Jardet: No, on the contrary, I'm more interested in making sure that this doesn't happen again.
+[NPC] Jardet: I believe in using peaceful methods first, then force only if needed.
+[NPC] Jardet: The two most pressing things on my mind are obtaining whatever weapon was used, and arranging for a purification ritual.
+[NPC Internal] How can I help?
+[NPC] Jardet: Well, I've done some investigating on my own, and found something interesting at the garden.
+[NPC] Jardet: I found a worn pair of dice, and a sheet with odds for the Hydlaa tournament on it.
+[NPC] Jardet: Darven Bounash normally makes similar lists with probability calculations for such tournaments - being a bit of a gambler.
+[NPC] Jardet: I wonder if he might have been in contact with this murderer at some point.
+[NPC] Jardet: Do me a favor.
+[NPC] Jardet: Take these dice and this sheet, give them to Darven to see if he recognizes them.
+[NPC] Jardet: You can usually find him in an alley, behind a fence or somewhere out of sight.
+[NPC] Jardet: Remember, if you find out who did this, please, come to me directly and nobody else.
+[NPC] Jardet: I want to destroy the weapon that was used.
+
+[To] Darven Bounash
+
+[NPC Internal] Hey you, do these look familiar?
+[NPC] Darven: Yes, they're my lucky dice, and that sheet!
+[NPC Narrate] -Darven yanks the odds sheet from your hand.-
+[NPC] Darven: I remember writing this sheet…
+[NPC] Darven: See that?
+[NPC Narrate] -Darven points to a smudge on the page.-
+[NPC] Darven: I remember scratching that number out, it was one heck of a mistake.
+[NPC] Darven: Where did you find these?
+[NPC Internal] Next to a pair of mutilated bodies. Care to explain?
+[NPC] Darven: That's very strange I wonder how they got there?
+[NPC Narrate] -Darven looks at you as if he's drawing a conclusion about your intentions, then throws his hands up and steps back!-
+[NPC] Darven: Now wait a minute!
+[NPC] Darven: I didn't kill anybody!
+[NPC] Darven: Don't go trying to pin stuff on me!
+[NPC Internal] Then how did these items get there?
+[NPC] Darven: I sold this sheet to Lennston a week ago…
+[NPC] Darven: That was before he cheated me in craps with some stupid parlour trick of his that caused me to black out.
+[NPC] Darven: Ask the guards if you don't believe me, I heard they locked him up overnight for theft!
+[NPC] Darven: You want to know about this mutilation?
+[NPC] Darven: Talk to Lennston yourself, he lives right over there in that apartment!
+[NPC Internal] Wait, which house?
+[NPC Narrate] -Rolls his eyes and shakes his head.-
+[NPC] Darven: Listen.
+[NPC] Darven: Go into Stronghand Ridge, turn right and keep going until you run into the wooden fence.
+[NPC] Darven: Make a left and follow the fence to the railing.
+[NPC] Darven: Look over the railing and you'll see a yellow house with windowed alcoves in the roof.
+[NPC] Darven: Hop the fence and leap from rooftop to rooftop until you get there.
+[NPC] Darven: Then use the key to get in through the window….
+[NPC] Darven: Yes you heard right, the window.
+[NPC] Darven: He told me once that he keeps the door booby-trapped.
+[NPC Internal] Wait, I don't have a key!
+[NPC] Darven: Ah well, in that case, you'll need a hand-held exterior window opener.
+[NPC] Darven: I think I have one, hold on.
+[NPC Narrate] -Darven turns and bends over, then back and hands you something.-
+[NPC] Darven: There you go.
+[NPC] Darven: Make sure and return it to me when you're done.
+
+[To] Lennston
+
+[NPC] Lennston: You can stop right there!
+[NPC Internal] So you're the one that robbed Gardr.
+[NPC] Lennston: What?
+[NPC Narrate] -Lennston whips his head around and stares at you angrily as an amulet with a black and red glyph in the center begins to glow.-
+[NPC] Lennston: You fool!
+[NPC] Lennston: How dare you just barge into my apartment like this!
+[NPC] Lennston: I'll learn ya a lesson or two!
+[NPC Narrate] -Lennston places his fingers on the edges of his amulet causing a dark cloud to swirl around its edges.-
+[NPC Narrate] -He begins to draw on some dark energy and cast a spell at you.-
+[NPC Narrate] -As it hits you it stuns you for few seconds.-
+[NPC Internal] I might keep quiet for fifty circles.
+[NPC] Lennston: You want to what?
+[NPC Narrate] -Lennston grins slowly, tilting his head with a raised brow.-
+[NPC] Lennston: Well then, it seems I've misjudged you.
+[NPC] Lennston: I was actually planning on pinning this on someone, but wasn't sure who to pin it on.
+[NPC] Lennston: You want to help me aye?
+[NPC] Lennston: Then you can let me kill you and I'll pin the crime on your corpse.
+[NPC Narrate] -Kill and loot Lennston Dashile-
+[NPC Narrate] -You looted a Amulet of Blindness-
+[NPC Narrate] -You looted a Bag of Circles-
+[NPC Narrate] -You looted a Amulet of Blindness-
+[NPC Narrate] -You looted a Bag of Circles-
+
+[Info] You get two of each.
+
+[To] Darven Bounash
+
+[NPC Internal] Here's your window opener back.
+
+[Info] You don't actually give it, and end up keeping it, despite the following dialog.
+
+[NPC] Darven: Works like a charm, eh?
+[NPC] Darven: You never know when you might need one of these.
+[NPC Narrate] -Darven slips the hammer into his belt.-
+[NPC] Darven: So, did you have any luck talking with him, or have you given up?
+
+[Reward] [XP] 10800; [Item] 2, Amulet of Blindness; [Item] 2, Bag of Circles
+

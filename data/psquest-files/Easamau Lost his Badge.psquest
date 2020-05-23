@@ -1,0 +1,21 @@
+[Questname] Easamau Lost his Badge
+[NPC Name] Easamau
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Hinoserri Cannot See; [Item] 1, Badge
+
+[Info] You get the Badge by completing the Hinoserri Cannot See quest.
+
+[To] Easamau
+
+[NPC Internal] You look worried. Can I be of service?
+[NPC] Easamau: I lost my badge.
+[NPC] Easamau: If my commander Aerayau Strongwill finds out, I will discharged from the Sunshine Squadron.
+[NPC] Easamau: If you can find it, I possibly have a job for you indeed; until then, I can't help you.
+[NPC] Easamau: Will you please try to find it?
+[NPC Internal] Yes.
+[NPC] Easamau: Wonderful, and thank you.
+[NPC Internal] Here's your badge, safe and sound.
+[NPC] Easamau: Very good!
+[NPC] Easamau: Now if you ask me later, I have something important I need done.

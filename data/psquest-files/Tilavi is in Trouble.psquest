@@ -1,0 +1,171 @@
+[Questname] Tilavi is in Trouble
+[NPC Name] Tilavi Aurenta
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Night Off for Tilavi; [Item] 2, Beer Mugs; [Money] 10
+
+[To] Tilavi Aurenta
+
+[NPC Internal] Why do you seem so worried?
+[NPC] Tilavi: Thank Talad you're back, tabei!
+[NPC] Tilavi: I need you to help me!
+[NPC] Tilavi: Brado had some special guests here for a big dinner last night and something really important went missing.
+[NPC] Tilavi: I would be so grateful if you could help me find it!
+[NPC] Tilavi: Will you do that?
+[NPC] Tilavi: Please?
+[NPC Internal] Sure, I will help.
+[NPC] Tilavi: Oh, thank you so much!
+[NPC] Tilavi: I am so worried.
+[NPC] Tilavi: The Stonebreakers that were Brado's guests last night lost some item.
+[NPC] Tilavi: They say I stole it while I was clearing the table of their dinner dishes.
+[NPC] Tilavi: Do you know what the punishment is for being a thief?
+[NPC] Tilavi: It's exile!
+[NPC Narrate] -Tilavi pauses to catch her breath.-
+[NPC] Tilavi: I'd have to live someplace else…
+[NPC] Tilavi: but I like it here in Ojaveda!
+[NPC] Tilavi: It's not my fault, and Brado knows it.
+[NPC] Tilavi: Brado would rather I take the blame than have the blame fall on his precious tavern.
+[NPC Internal] What has gone missing then?
+[NPC] Tilavi: I'm not really even sure what it was.
+[NPC] Tilavi: Brado was ranting and raving something about diamonds and daggers and something else?
+[NPC] Tilavi: It was really busy up here, all five tables were full, and there were dwarves all over the balcony yelling for more ale, and I couldn't concentrate on what he was saying.
+[NPC] Tilavi: I didn't think that it was important at the time!
+[NPC] Tilavi: Maybe you could ask Brado about it for me?
+[NPC Internal] I'll speak to him.
+[NPC] Tilavi: Oh, I am so grateful!
+[NPC Narrate] -Tilavi clasps her paws together and smiles hopefully.-
+[NPC] Tilavi: I hope this can be cleared up really soon.
+
+[To] Brado
+
+[NPC Internal] I heard the Stonebreakers lost something here, can you tell me about it?
+[NPC] Brado: Has that serving wench upstairs gotten you involved now too?
+[NPC Narrate] -Brado shakes his head.-
+[NPC] Brado: Sometimes I wonder what she is good for.
+[NPC] Brado: Last night there was a party of Stonebreakers upstairs and Tilavi was their server.
+[NPC] Brado: I left her alone for five minutes!
+[NPC] Brado: Five minutes!
+[NPC] Brado: And while I was gone, the Chief noticed his dagger was missing.
+[NPC Narrate] -Brado shakes his head and wipes the counter down with a rag.-
+[NPC] Brado: It's a shame if she is foolish enough to get herself exiled, but it's not my business.
+[NPC Internal] What can you tell me about the dagger?
+[NPC] Brado: This was no ordinary dagger.
+[NPC] Brado: This dagger was passed down through many generations of chiefs.
+[NPC] Brado: They said the dagger's hilt is encrusted with diamonds and rare opals.
+[NPC] Brado: I never did see it, but from the way the chief described the dagger, it must have been a sight to see.
+[NPC Narrate] -Brado looks around anxiously.-
+[NPC] Brado: Look, I have better things to do right now; calculating the damage and trying to evaluate which pieces of furniture will still do without any repair…
+[NPC] Brado: It was one of those nights that I was glad I didn't fix those blasted doors.
+[NPC] Brado: I vaguely recall stories from that night about thieves.
+[NPC] Brado: Why don't you go and ask Fruntar about these thieves if you want to know more?
+[NPC] Brado: I'm too busy to clean up Tilavi's mess!
+
+[To] Fruntar Durek
+
+[NPC Internal] Can you tell me about the Stonebreaker party at Brado's tavern?
+[NPC] Fruntar: Ah, that was one busy night- order after order after order!
+[NPC] Fruntar: Rarely did I find any time to rest.
+[NPC] Fruntar: Merchants were in an uproar worrying about their shipments of goods coming and going.
+[NPC] Fruntar: I was in fear that Jirosh and Toda were going to collapse.
+[NPC] Fruntar: There was some talk of a group of thieves led by an exiled Ynnwn, engaged in pickpocketing and looting goods off of those traveling on the road into town.
+[NPC Narrate] -Fruntar frowns slightly and looks toward the doorway of the tavern.-
+[NPC] Fruntar: I do wonder if there is any truth to these stories.
+[NPC] Fruntar: The more ale that was served, the more elaborate the stories became.
+[NPC] Fruntar: If these stories are true, however, one might find these thieves outside of town.
+[NPC] Fruntar: There have been some rogues out there for quite a while as well and I heard they have kidnapped a wealthy merchant, so do be careful!
+
+[To] Enack Lerenal
+
+[NPC Internal] I am searching to a dagger.
+[NPC] Enack: Yes, I did find a dagger, and a rather ornate one at that.
+[NPC] Enack: But I have found a lot of daggers, you know.
+[NPC] Enack: You'll have to be more specific!
+[NPC] Enack: Were there any gems in the dagger you are looking for?
+[NPC Internal] Yes there was.
+[NPC] Enack: Well then, I must make sure that this dagger is the one you are looking for.
+[NPC] Enack: What gems were in this dagger of yours?
+[NPC Internal] diamond and opal
+[NPC Narrate] -Enack rummages through a sack and pulls out the Chief's Dagger. Its thickly-clustered gems sparkle.-
+[NPC] Enack: You must mean…
+[NPC] Enack: this dagger.
+[NPC] Enack: I found it up near the crater, still in its sheath.
+[NPC] Enack: It looks as if the buckle wore through, and it fell off of its owner.
+[NPC] Enack: I have no use for this, but I bet it would fetch a fair price if I could sell it at the market.
+[NPC] Enack: Alas, I have no desire to go back to that filthy city.
+[NPC Narrate] -Enack frowns and fingers at the end of the hilt for a moment in thought before making a wry smile.-
+[NPC] Enack: I do miss some of the items one can buy though…
+[NPC] Enack: very well.
+[NPC] Enack: Nolthrir, I will make a deal with you: This dagger will be yours if you bring me a taste of civilization.
+[NPC] Enack: Will you bring me what I desire?
+[NPC Internal] You got yourself a deal.
+[NPC] Enack: Ahhh, good!
+[NPC] Enack: Orchibaly Gurpleferd still makes the best pies around and my mouth has been watering just thinking of them.
+[NPC] Enack: I require one of Orchibaly's fresh fruit pies, and I want a nice frothy beer to go with it.
+[NPC] Enack: Ah, no, make that two beers afterward to wash down the pie.
+
+[To] Orchibaly Gurpleferd
+
+[NPC Internal] One pie please.
+[NPC] Orchibaly: Ah, you are in luck!
+[NPC] Orchibaly: I made an extra batch of my perfect pies today and they have just finished baking!
+[NPC Narrate] -Orchibaly hurries upstairs to the oven and returns with a still-steaming pie carried on a folded towel.-
+[NPC] Orchibaly: That will be ten tria, if you please, my good Sir.
+[NPC Internal] pays Orchibaly.
+[NPC] Orchibaly: Thank you very much, and here is your pie.
+[NPC Narrate] -Orchibaly moves the pie across the counter to you.-
+[NPC] Orchibaly: It is berryvan terry, er, terevan berry!
+[NPC] Orchibaly: And do be careful- it's still a bit hot!
+
+[To] Enack Lerenal
+
+[NPC Internal] Here's your pie and beers
+[NPC] Enack: Ahhh, thank you.
+[NPC] Enack: Here is your dagger.
+[NPC] Enack: Now be gone and leave me so I can enjoy my pie in peace, or else I will send my thieves after you.
+[NPC Narrate] -Enack laughs loudly at his joke.-
+
+[To] Tilavi Aurenta
+
+[NPC Internal] I found the dagger.
+[NPC] Tilavi: Oh, you found it!
+[NPC Narrate] -Tilavi bounces on her toes for a moment, her anxious look changes to relief.-
+[NPC] Tilavi: Thank Talad, I was beginning to worry.
+[NPC] Tilavi: Brado has become very uneasy.
+[NPC] Tilavi: The guards have started to question him.
+[NPC] Tilavi: Please go give this dagger to Brado to clear my name.
+[NPC Narrate] -Tilavi passes the dagger back to you and bows her head.-
+[NPC] Tilavi: I am so very, very grateful for your help!
+
+[To] Brado
+
+[NPC Internal] I found the dagger.
+[NPC Narrate] -Brado accepts the dagger with a surprised look on his face. He listens intently as you tell of the discovery.-
+[NPC] Brado: So Tilavi didn't have it after all!
+[NPC] Brado: Thank you, good Nolthrir, for solving this mystery.
+[NPC] Brado: The Stonebreakers are very dear customers.
+[NPC] Brado: I will explain to them of this Enack and let them deal with him directly.
+[NPC] Brado: I offered this reward for the return of the dagger hoping Tilavi would return it for the tria.
+[NPC] Brado: However, since she really didn't take it, the reward is all yours.
+[NPC Narrate] -Brado reaches into his pouch and counts out a large sum of tria and hands them to you.-
+[NPC] Brado: I am still very busy with the aftermath down here, so please let Tilavi know that I am sorry for thinking she stole the dagger.
+
+[To] Tilavi Aurenta
+
+[NPC Internal] Brado says he is sorry.
+[NPC] Tilavi: Thank you so very much for clearing this trouble up!
+[NPC] Tilavi: Exile would have been a terrible thing for me!
+[NPC] Tilavi: I wish I could give you a thousand tria…
+[NPC] Tilavi: but I do not have that kind of money.
+[NPC] Tilavi: Oh, I know!
+[NPC] Tilavi: You can have this, I have been saving this for a special occasion and you deserve it.
+[NPC] Tilavi: It is one of Orchibaly's pies, maybe you have never seen one before.
+[NPC] Tilavi: They are delicious!
+[NPC Narrate] -Tilavi gives you a pie.-
+[NPC] Tilavi: Oh, and here, have some beer.
+[NPC] Tilavi: To wash it down.
+[NPC Narrate] -Tilavi makes a clumsy sort of curtsey and almost spills the beer she is trying to give you.-
+[NPC] Tilavi: Thank you again, tabei!
+
+[Reward] [Money] 2107; [XP] 10800; [Item] 1, Pie; [Item] 1, Beer Mug; [Faction] 20, Enkidukai
+

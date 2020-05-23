@@ -1,0 +1,6 @@
+1514235584403	Rename local variable 'rawQuestDetails'
+1514235805254	Rename method 'readFileByLines'
+1514237028779	Delete element
+1514243205751	Rename local variable 'isThisTheFirstGoToStatement'
+1514246823671	Rename local variable 'playerIsAtThisNpc'
+1514291029979	Rename type 'Utilities'

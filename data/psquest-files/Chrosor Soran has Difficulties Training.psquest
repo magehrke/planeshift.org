@@ -1,0 +1,131 @@
+[Questname] Chrosor Soran has Difficulties Training
+[NPC Name] Chrosor Soran
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Money] 100
+
+[To] Chrosor Soran
+
+[NPC Internal] May I be of some service to you?
+[NPC] Chrosor: So you’re lookin’ for summat to do, eh?
+[NPC] Chrosor: I needs me a drink, if ya know what I mean.
+[NPC] Chrosor: Feelin’ the need early today.
+[NPC] Chrosor: The one that gets me through the day is a Dermorian Longbeard.
+[NPC] Chrosor: We’ll have ta be keepin’ this on the low, friend.
+[NPC] Chrosor: I ain’t s’posed ta be drinin’ on duty, but one surely can’t hurt.
+[NPC] Chrosor: You can get this nectar of life from Brado over in Dsar Akkaio in Ojaveda.
+[NPC] Chrosor: Will ye help me, friend?
+[NPC Internal] Sure, that sounds like a fun trip!
+[NPC] Chrosor: Yes, indeedy!
+[NPC] Chrosor: I can’t get at me cash at the moment, so you’ll hafta spot me until I can reimburse ya.
+[NPC] Chrosor: Don’t figger that’ll be a problem for the likes o’ you.
+[NPC] Chrosor: Hurry back!
+[NPC] Chrosor: Hurry back!
+
+[To] Brado
+
+[NPC Internal] I've heard you mix a mighty tasty Dermorian Longbeard. Will you make me one?
+[NPC] Brado: Dermorian Longbeard, eh?
+[NPC] Brado: Chrosor’s starting early today.
+[NPC Narrate] -Brado chuckles and looks directly at you.-
+[NPC] Brado: He’s the only Ylian that drinks the Longbeard, you know.
+[NPC] Brado: Most go for the ales, the darker the better.
+[NPC Narrate] -Brado smiles broadly.-
+[NPC] Brado: One Longbeard coming up!
+[NPC Narrate] -Brado gathers a few ingredients and pours them into a mug, then slams the mug on the bar.-
+[NPC] Brado: Sharsel'aat!
+[NPC] Brado: Good drinking and good luck traveler.
+[NPC] Brado: That’ll be one hundred tria tria please.
+[NPC Internal] That's pricey! I hope Chrosor is grateful.
+[NPC] Brado: Ah, thanks much, tabei.
+[NPC] Brado: Bon shrdah and tell Chrosor I send greetings from his favorite bar!
+
+[To] Chrosor Soran
+
+[NPC Internal] Here's your drink, and a high sum it cost me, too.
+[NPC] Chrosor: Ah, you got it!
+[NPC] Chrosor: Talad be praised, I so need this right now.
+[NPC Narrate] -Chrosor drains the mug and wipes his mouth on his sleeve, smacking his lips in pure enjoyment.-
+[NPC] Chrosor: Oh yeah, that’s the stuff.
+[NPC Narrate] -Chrosor suddenly shrinks a bit before your eyes and his muscles grow smaller. He also looks visibly tired and haggard.-
+[NPC] Chrosor: Wow, I didn’t realize that my training took so much out of me.
+[NPC] Chrosor: I think I’ll go and rest for a while, I feel real tired.
+[NPC] Chrosor: Thanks again, friend.
+[NPC] Chrosor: Here’s a bit o’ money for ya.
+[NPC] Chrosor: Maybe you should ask Brado if there is anything wrong with his mug that would cause weakness.
+
+[To] Brado
+
+[NPC Internal] Could there have been anything in Chrosor drink that would cause weakness?
+[NPC] Brado: What’s that?
+[NPC] Brado: My drinks don’t have any such effects, I assure you.
+[NPC] Brado: The ingredients are relatively harmless.
+[NPC] Brado: I take this here, then pour this
+[NPC Narrate] -Brado goes through the motion of creating the Longbeard and slaps his hand on the bar.-
+[NPC] Brado: Sharsel'aat!
+[NPC Narrate] -A small column of Dark Magic comes up from his hand and dissipates. The size of the column is just smaller than the size of a mug.-
+[NPC] Brado: What?
+[NPC] Brado: What’s this?
+[NPC] Brado: How is this possible?
+[NPC] Brado: I don’t see anything here.
+[NPC Narrate] -He starts looking around the bar and kneels, looking underneath. He curses, then stands up with a Weakness glyph in his hand.-
+[NPC] Brado: This was under the bar and must be the cause of the weakness in Chrosor.
+[NPC] Brado: Blast it, how did this get here?
+[NPC] Brado: Do me a favor, will you?
+[NPC] Brado: Go and speak with my staff and see if you can uncover the truth.
+[NPC] Brado: The fact that it was hidden under my bar means it was likely placed there by someone near to this place.
+[NPC] Brado: Will you do this for me?
+[NPC Internal] I'll do what I can to help.
+[NPC] Brado: Alright, then.
+[NPC] Brado: Ask everyone who works here about weakness and please be thorough.
+[NPC] Brado: Also, please take this out of my bar: I don’t wish to look at it any further.
+
+[To] Fruntar Durek
+
+[NPC Internal] Do you have any idea how a Dark Way glyph ended up underneath Brado's bar?
+[NPC] Fruntar: There was a Dark Way glyph behind the bar?
+[NPC] Fruntar: That is unsettling, tabei…
+[NPC] Fruntar: Dark magic is not something to be taken lightly.
+[NPC] Fruntar: I do have an idea who might’ve taken to dark paths in recent months.
+[NPC] Fruntar: You should try talking to Tilavi upstairs.
+[NPC] Fruntar: I’ve seen and heard some odd things when she thinks no one is looking.
+[NPC] Fruntar: She’s also the reason I stay downstairs, tabei.
+[NPC] Fruntar: Something about her makes me very uneasy.
+
+[To] Tilavi Aurenta
+
+[NPC Internal] A Dark Way glyph showed up behind the bar. Any idea how it got there?
+[NPC] Tilavi: A Dark Way glyph?
+[NPC] Tilavi: What makes you think I would know anything about that?
+[NPC] Tilavi: It’s not as if anyone in the bar is accusing me!
+[NPC] Tilavi: …
+[NPC] Tilavi: Is it?
+[NPC Internal] I believe that Fruntar Durek may suspect you.
+[NPC] Tilavi: That nosy…
+[NPC] Tilavi: fine.
+[NPC] Tilavi: I did put it there to 'discourage' Chrosor from being accepted by the Sunshine Squadron.
+[NPC Narrate] -She sighs, then looks wistful as she begins to relate a tale.-
+[NPC] Tilavi: Several years ago, my brother, a member of the Shadow Squadron, led a small expedition into the Stone Labyrinths.
+[NPC] Tilavi: Chrosor’s brother was also part of that group, a member of the Sunshine Squadron.
+[NPC] Tilavi: They were met with resistance and Chrosor’s brother led the charge.
+[NPC] Tilavi: The entire party died.
+[NPC] Tilavi: I still have two sisters in the Squadrons there, and do not want Chrosor anywhere near them.
+[NPC] Tilavi: I took steps to ensure he wouldn’t make it past their training and I put the glyph under that bar to enchant his fruity drink to sap his strength.
+[NPC] Tilavi: I’m just trying to protect my family.
+[NPC] Tilavi: If you give back the glyph and agree to keep quiet, I’ll reward you.
+[NPC Internal] Your promises interest me. Take the glyph.
+[NPC] Tilavi: I knew you’d see it my way.
+[NPC] Tilavi: Take this: it will help you on the path of the Dark Way.
+
+[To] Chrosor Soran
+
+[NPC Internal] I was not able to find out what caused your problems.
+[NPC Narrate] -Chrosor seems to have recovered a little from when you were with him last.-
+[NPC Narrate] -He tried to stand up right before he starts talking but finds it difficult.-
+[NPC] Chrosor: Thank you traveling between Ojaveda and here so much just to try and find out what caused this.
+[NPC] Chrosor: I’ll have to go to Brado’s and have a word with him and his staff myself.
+[NPC] Chrosor: I’m sure I’ll be able to find something out.
+[NPC] Chrosor: Here…
+[NPC Narrate] -Chrosor hand you a small pouch.-
+[NPC] Chrosor: Have this for your efforts.

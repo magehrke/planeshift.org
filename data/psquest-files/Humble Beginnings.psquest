@@ -1,0 +1,256 @@
+[Questname] Humble Beginnings
+[NPC Name] Gregori Stevald
+[Checkup] 2017-04-07
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Introduction to Combat; [Item] 1, Rat Tail; [Item] 1, Rat Eye
+
+[To] Gregori Stevald
+
+[NPC Internal] Can you tell me about gladiators?
+[NPC] Gregori: They fight and they are strong.
+[NPC] Gregori: What else is there to tell?
+[NPC] Gregori: You can learn everything you need by watching them, for they are more about action than about words.
+[NPC] Gregori: Words from me are not needed, unless you wish to become one.
+[NPC Internal] Yes, I want to be a gladiator.
+[NPC] Gregori: Do you now?
+[NPC Narrate] -He looks you over and frowns.-
+[NPC] Gregori: Are you quite certain?
+[NPC Internal] Yes.
+[NPC] Gregori: But I'm not.
+[NPC] Gregori: It's a path only for the determined, only for the best.
+[NPC Narrate] -He folds his arms.-
+[NPC] Gregori: So tell me, are you these things?
+[NPC Internal] Yes.
+[NPC] Gregori: Confidence is good.
+[NPC] Gregori: Perhaps we can make some use of a bold Klyros such as yourself.
+[NPC Internal] So where do I begin?
+[NPC] Gregori: You'll need to prove yourself and acceptance requires work.
+[NPC ME] Gregori Stevald smiles slightly.
+[NPC] Gregori: Don't expect this to be easy, but well, for starters, hmmm...
+[NPC ME] Gregori Stevald runs his eyes over you, checking any equipment you are carrying, then seems to reach a decision.
+[NPC] Gregori: For starters, I need a rat tail.
+[NPC] Gregori: Go and get me one while I work out what to do with you.
+
+[Give] Gregori Stevald; 1, Rat Tail
+
+[NPC Internal] [Offer Gregori a rat tail.]
+[NPC] Gregori: Oh.
+[NPC ME] Gregori Stevald stares at the tail but makes no move to take it.
+[NPC] Gregori: And what exactly do you expect me to do with that?
+[NPC Internal] You said you needed it.
+[NPC] Gregori: I need other things more.
+[NPC ME] Gregori Stevald starts to shake his head.
+[NPC] Gregori: Take that 'thing' to Nayera.
+[NPC] Gregori: It was for her, I'm sure.
+[NPC ME] Gregori Stevald points vaguely, moving his arm around so that it's difficult to tell which direction he means.
+[NPC] Gregori: That way.
+[NPC] Gregori: Quickly now.
+
+[To] Nayera Menayan
+
+[NPC Internal] Are you Nayera? Gregori said to give you this.
+[NPC] Nayera: What is..?
+[NPC ME] Nayera Menayan breaks into a grin.
+[NPC] Nayera: Ahh yes, how the taskmaster likes to send the newcomers scuttling round like the clackers they so often end up fighting, because of course, you're probably not ready for more than clackers yet, are you?
+[NPC ME] Nayera Menayan frowns at the tail.
+[NPC] Nayera: That thing is quite horrible; perhaps remove it from beneath my nose, if you would?
+[NPC Internal] You don't want it?
+[NPC] Nayera: No, really, believe me when I say that I do not want it at all.
+[NPC ME] Nayera Menayan laughs slightly and arches her back a little to stretch.
+[NPC] Nayera: Gregori is just giving you the run around, testing you out to see how you handle things.
+[NPC] Nayera: Take a rat tail to old Nayera!
+[NPC] Nayera: Next it will be, oh let's see...
+[NPC] Nayera: Punch the training dummy until your hand hurts!
+[NPC] Nayera: Or...
+[NPC] Nayera: Stand on one leg in the corner to prove you can balance!
+[NPC] Nayera: You'll see.
+[NPC Internal] What should I do?
+[NPC] Nayera: Oh no you don't; no cheating!
+[NPC ME] Nayera Menayan smiles, though there is something serious about her expression at the same time.
+[NPC] Nayera: I've been here too long to be fool enough to spoil his little game, so you run right back to him now, throw that ugly thing away somewhere and ask him what he wants next of you.
+[NPC] Nayera: You're the one who has to work out what to do from there.
+
+[To] Gregori Stevald
+
+[NPC Internal] What else should I do?
+[NPC] Gregori: What else?
+[NPC ME] Gregori Stevald shakes his head.
+[NPC] Gregori: I forgot something before.
+[NPC] Gregori: I need you to go and find Kireya.
+[NPC] Gregori: I think she was preparing something for me.
+[NPC] Gregori: She'll know what I am talking about.
+[NPC Internal] I'll find her for you.
+[NPC] Gregori: Good, that's what I hoped to hear.
+[NPC Internal] Where can I find her?
+[NPC] Gregori: Oh, you'll find her where the air is sweetest.
+[NPC] Gregori: She's the baker's apprentice, so just find where the food is.
+
+[To] Kireya Ahinit
+
+[NPC Internal] Are you Kireya? Gregori said I should find you.
+[NPC] Kireya: Aye, that's me.
+[NPC ME] Kireya Ahinit sketches a bow.
+[NPC] Kireya: I'm supposing he didn't say what exactly he's wanting this time either.
+[NPC Internal] No, he didn't.
+[NPC] Kireya: Well, I suppose we'll just have to figure it out.
+[NPC] Kireya: He did tell me he liked my special apple pie last time I baked some, he did.
+[NPC ME] Kireya Ahinit frowns a little and her face creases while she thinks.
+[NPC] Kireya: But I'm out of butter and strimptor and it wouldn't do to just help myself.
+[NPC] Kireya: I really hoped I wouldn't need to bother Archilaya more today as well, so let's say...
+[NPC] Kireya: If you can get them from her while I start up the oven, I'll help you out.
+
+[To] Archilaya Gurpleferd
+
+[NPC Internal] Archilaya, can you spare some butter and strimptor for Kireya?
+[NPC] Archilaya: Why didn't she just help herself to it?
+[NPC] Archilaya: I hope the poor girl realises we trust her by now.
+[NPC ME] Archilaya Gurpleferd reaches for some things on one of the shelves and hands them to you.
+[NPC] Archilaya: But here, take these.
+[NPC Internal] Why would she think you don't trust her?
+[NPC ME] Archilaya Gurpleferd shakes her head.
+[NPC] Archilaya: That's not a story for today, but I promise you she has earned my respect by now.
+[NPC] Archilaya: Maybe eventually she'll open up to you and explain, but for now, just continue with your work please.
+
+[To] Kireya Ahinit
+
+[NPC Internal] I have the ingredients for you.
+[NPC] Kireya: Oh good.
+[NPC] Kireya: And look, I have one last slice left from before, so you can just take this.
+[NPC ME] Kireya Ahinit hands you a slice of pie and smiles.
+[NPC] Kireya: Just don't go eating it yourself, or I'm sure Gregori won't be too impressed with you!
+
+[To] Gregori Stevald
+
+[NPC Internal] I have this for you.
+[NPC ME] Gregori Stevald stares at the offering in your hand and then shakes his head.
+[NPC] Gregori: A gladiator knows there is a time to eat and a time not to.
+[NPC] Gregori: And I realised, while you were gone, that I am not actually hungry.
+[NPC] Gregori: You however, look like you should eat something.
+[NPC] Gregori: Go on.
+[NPC] Gregori: Eat it.
+[NPC Internal] Uhhh...
+[NPC] Gregori: What are you waiting for?
+[NPC] Gregori: Eat.
+
+[Info] You have to eat the cake by dropping it on your avatar in your inventory.
+
+[NPC Internal] I ate it.
+[NPC] Gregori: Good.
+[NPC] Gregori: You look stronger already.
+[NPC] Gregori: But are you prepared for your next task?
+[NPC Internal] I'm ready for the next task.
+[NPC] Gregori: You are?
+[NPC ME] Gregori Stevald studies you carefully.
+[NPC] Gregori: I am surprised by your perseverance Klyros.
+[NPC] Gregori: This level of dedication is quite rare, but let us see...
+[NPC] Gregori: The next thing you need to show me is an ability to recover and appreciate knowledge.
+[NPC] Gregori: I want you to find out how long we have kept arangma in the arena.
+[NPC] Gregori: Find out how many years.
+[NPC Internal] How am I meant to find out?
+[NPC] Gregori: Oh, do not worry yourself.
+[NPC] Gregori: I have no intention of sending you to strain your eyes reading old records, and I will not permit you to play any kind of guessing game with me.
+[NPC] Gregori: Having real knowledge is often about knowing who to direct your questions toward, so think about who I have already caused you to become acquainted with due to the errands I have given you.
+[NPC] Gregori: Perhaps one of them will help.
+
+[To] Nayera Menayan
+
+[NPC Internal] Do you know how long the arena has had arangma?
+[NPC ME] Nayera Menayan laughs, the sound almost like music.
+[NPC] Nayera: Oh, such a wonderfully pointless and irrelevant question.
+[NPC] Nayera: He still has you running around on these little errands, I take it?
+[NPC] Nayera: But of course he does!
+[NPC] Nayera: There's no other reason you'd ask something like this.
+[NPC Internal] Do you know the answer?
+[NPC] Nayera: Of course.
+[NPC] Nayera: It was my suggestion that we keep them here.
+[NPC] Nayera: They may not be as fierce as some creatures, but the webs they build can certainly teach an unwary student to be more careful of their surroundings.
+[NPC ME] Nayera Menayan pauses to smile.
+[NPC] Nayera: The real question is whether or not I should help you.
+[NPC] Nayera: Think carefully.
+[NPC MY] Nayera Menayan's smile grows.
+[NPC] Nayera: Once you choose, I won't let you change your mind.
+[NPC Internal] You should.
+[NPC] Nayera: But should is not the same as will.
+[NPC ME] Nayera Menayan looks thoughtful and then gives a small nod.
+[NPC] Nayera: I won't play any silly games with you though.
+[NPC] Nayera: I am not like Gregori in this.
+[NPC] Nayera: So I give you a simple choice; I will tell you the answer, or you can challenge him about the pointlessness of the task.
+[NPC Internal] Give me the answer.
+[NPC MY] Nayera Menayan's smile falters slightly.
+[NPC] Nayera: Very well, let us continue with his childish game for now.
+[NPC] Nayera: We brought the arangma here fifteen years ago.
+[NPC] Nayera: Tell Gregori this, but do not expect that it will impress him.
+
+[To] Gregori Stevald
+
+[NPC Internal] Fifteen years.
+[NPC ME] Gregori Stevald grimaces, but then his lips turn upward slightly to soften the expression.
+[NPC] Gregori: Correct.
+[NPC] Gregori: Tell me when you are ready for the next task.
+[NPC Internal] I'm ready.
+[NPC] Gregori: Very well, because I remembered why I wanted a rat tail.
+[NPC] Gregori: Only it wasn't actually a tail that I needed.
+[NPC] Gregori: It was an eye.
+[NPC] Gregori: Bring me one, and quickly.
+
+[Give] Gregori Stevald; 1, Rat Eye
+
+[NPC Internal] I have the eye.
+[NPC] Gregori: Almost quickly enough as well.
+[NPC ME] Gregori Stevald raises a hand as though to wave you away.
+[NPC] Gregori: Just take it to Kireya.
+[NPC] Gregori: We have a problem you see; there are too many rats.
+[NPC] Gregori: You must ask her to bake something we can use as bait, something that will be appetizing to eyes like this.
+[NPC] Gregori: Or will you refuse?
+[NPC Internal] Of course not. I'll go.
+[NPC] Gregori: Good.
+[NPC ME] Gregori Stevald stares at you blankly and then snaps at you before turning away.
+[NPC] Gregori: Now to Kireya with you immediately!
+
+[To] Kireya Ahinit
+
+[NPC Internal] Gregori asked me to give you this.
+[NPC ME] Kireya Ahinit looks down at the eye in confusion.
+[NPC] Kireya: But why?
+[NPC] Kireya: What would I ever look to be doing with a rat eye?
+[NPC Internal] Gregori wants rat bait that would be appetising to this eye.
+[NPC] Kireya: I wonder...
+[NPC ME] Kireya Ahinit bites down on her lip.
+[NPC] Kireya: ...If he is looking to make fun of me or only of you.
+[NPC Internal] What do you mean?
+[NPC] Kireya: He did something like this to me as well.
+[NPC ME] Kireya Ahinit laughs nervously.
+[NPC] Kireya: Perhaps...
+[NPC ME] Kireya Ahinit stares into your eyes and smiles a little.
+[NPC] Kireya: ...He's still testing me as well?
+[NPC] Kireya: But he's trying to learn if there's a fighter in you, or if you are too, well, too something else.
+[NPC] Kireya: If you understand what I mean.
+[NPC Internal] I'm not sure. Can you make the rat bait for him?
+[NPC MY] Kireya Ahinit's face collapses slightly, her smile now gone, but she nods her head.
+[NPC] Kireya: Tell him...
+[NPC] Kireya: Tell him I'll work on it and will get back to him.
+
+[To] Gregori Stevald
+
+[NPC Internal] Kireya said she'll work on the bait.
+[NPC] Gregori: Did she?
+[NPC] Gregori: And did you not find my request unusual?
+[NPC ME] Gregori Stevald shakes his head.
+[NPC] Gregori: Don't answer.
+[NPC] Gregori: The lack of an answer means that I can decide you did not fail my test.
+[NPC] Gregori: I can decide that it is not that you have no confidence to question me, but merely that you are resilient and obedient.
+[NPC] Gregori: And if I am wrong, and you are just weak, well let us pretend anyway that this is true, and perhaps in time it will be true enough.
+[NPC] Gregori: Even blind obedience can be a virtue after all.
+[NPC Internal] I'm glad you think so.
+[NPC] Gregori: Though perhaps, before we send you on from here, we should make sure that you have something to hide behind should you turn out to be too timid after all.
+[NPC ME] Gregori Stevald moves toward the wall and lifts a shield which he then offers to you.
+[NPC] Gregori: Take this.
+[NPC] Gregori: The cautious approach can be good, but try to remember to fight back when the time is right for it.
+[NPC Internal] What do I do next?
+[NPC] Gregori: You have satisfied me that you have the mind and character needed, or as close as we can hope, to become a gladiator.
+[NPC] Gregori: You need to find the trainer, Kretch, next if this is something you truly wish to achieve, but he's away on some business now.
+[NPC] Gregori: He'll return in time and, once you encounter him, tell him I sent you and then he'll test you far more thoroughly than I have done.
+[NPC] Gregori: Good luck, Klyros.
+
+[Reward] [XP] 10800; [Money] 2107; [Item] 1, Reinforced Wooden Shield

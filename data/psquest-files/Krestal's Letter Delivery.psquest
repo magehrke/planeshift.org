@@ -1,0 +1,61 @@
+[Questname] Krestal's Letter Delivery
+[NPC Name] Krestal Dhusho
+[Checkup] 2017-11-24
+[Authors] Huarwar Eruera
+[Repeatable] Yes
+
+[Need] Nothing
+
+[To] Krestal Dhusho
+
+[NPC Internal] Hello, I'm looking for some work to do.
+[NPC] Krestal: Ah, yes, I just might have something for you to do.
+[NPC] Krestal: You see, I need to deliver some letters, but I am too busy looking after the pterosaur customers today to make the trips myself...
+[NPC] Krestal: Anyway, I would ask kind Miss Tarela to carry them, but she is busy today with other deliveries.
+[NPC] Krestal: Are you interested in lending a hand with this?
+[NPC] Krestal: I can give you some travel tokens to compensate you for making the deliveries.
+[NPC Internal] Yes, I'll help you out.
+[NPC] Krestal: Excellent!
+[NPC] Krestal: The first recipient is Brado.
+[NPC] Krestal: Your best bet is to find him in his tavern in Dsar Akkaio.
+[NPC] Krestal: The other is the merchant Mr Fromaad.
+[NPC] Krestal: I see him around town talking to Harnquist sometimes, or waiting up in Kada-El's for news from one of his mining teams.
+[NPC] Krestal: If you don't find him there though, he'll probably be on that ledge near the Laanx temple, thinking up some 'new syndicate' to join, most likely.
+[NPC ME] Krestal Dhusho rolls his eyes slightly and digs out two letters and hands them over to you.
+[NPC] Krestal: Well, here are the letters.
+[NPC] Krestal: Just give them to their recipients and come back here for your payment.
+[NPC] Krestal: Farewell and safe travelling to you.
+
+[To] Brado
+
+[NPC Internal] I have a letter for you.
+[NPC] Brado: I've been expecting this.
+[NPC] Brado: This looks to be an exciting competition!
+[NPC ME] Brado smiles and waves the letter gently.
+[NPC] Brado: Thank you for the mail.
+[NPC] Brado: Here, have a hexa for your trouble.
+[NPC] Brado: Make sure to tell the sender that I received the letter.
+[NPC ME] Brado pushes the hexa across the counter.
+
+[To] Ervin Fromaad
+
+[NPC Internal] Here, this is for you.
+[NPC ME] Ervin Fromaad turns to look at you.
+[NPC] Ervin: Ah, hello.
+[NPC] Ervin: Good day to you.
+[NPC Narrate] -He takes the letter and turns it in his hands reading the address.-
+[NPC] Ervin: Ah yes.
+[NPC] Ervin: I recognise the writing.
+[NPC] Ervin: Thank you very much for delivering this to me.
+
+[To] Krestal Dhusho
+
+[NPC Internal] I've delivered all the letters.
+[NPC] Krestal: Ah, good work, Sir.
+[NPC] Krestal: Well.
+[NPC] Krestal: Let me give you your coin and you may be on your way.
+[NPC ME] Krestal Dhusho takes some coin from a pouch and drops them into your hand.
+[NPC] Krestal: And seeing as you've done all that travelling for me, you can have these tokens so the next few pterosaur trips you can make for free.
+
+[Reward] [XP] 8000; [Money] 1010; [Item] 1, Drinking Gourd of Brado's Special; [Item] 4, Travel Token
+

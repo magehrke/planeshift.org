@@ -1,0 +1,59 @@
+[Questname] Knowledge and Practical of the Red Way Master
+[NPC Name] Ferryd Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Red Way Master Training; [Item] 1, Master's Red Way Wand; [Skill] 130, Red Way; [Item] 1, Adept's Red Way Bracers; [Item] 1, Lava glyph; [Item] 1, Hand glyph
+
+[Info] You get the glyphs back.
+
+[To] Ferryd Shillor
+
+[NPC Internal] I have returned for more training … Oh, and my wand as proof.
+[NPC] Ferryd: YOU!
+[NPC Narrate] -Ferryd gives you a warm smile.-
+[NPC] Ferryd: You have made amazing progress.
+[NPC] Ferryd: Although Practice is good, without the right knowledge it will go to waste.
+[NPC Narrate] -Ferryd shines an apple on his robes and takes a bite.-
+[NPC] Ferryd: I gave you a Brown Way glyph with your last testing, and told you to research the spell for protection.
+[NPC] Ferryd: I hope you have done so.
+[NPC Narrate] -Ferryd raises an eyebrow at you.-
+[NPC] Ferryd: Hand me the Red Way glyph that combines with the Brown Way one I gave you to form the protective spell.
+[NPC Internal] Would that be, this one?
+[NPC Narrate] -Ferryd inspects the glyph.-
+[NPC] Ferryd: Well done.
+[NPC] Ferryd: Owning one of these rare Red Way glyphs is enough proof of your Red Way dedication.
+[NPC] Ferryd: But…
+[NPC] Ferryd: Well…
+[NPC] Ferryd: I already knew you had it didn't I.
+[NPC] Ferryd: Let's see if you have been paying attention.
+[NPC] Ferryd: Give me the glyph that combines with Lava to form an attack spell.
+[NPC Internal] Here it is.
+[NPC Narrate] -Ferryd nods.-
+[NPC] Ferryd: Indeed!
+[NPC] Ferryd: You have done well.
+[NPC Narrate] -Ferryd hands it back.-
+[NPC] Ferryd: The Red Way has many of these multiple glyph combination spells.
+[NPC] Ferryd: Many will never discover these spells simply because of the fact that they are only discernible if your skill is high enough, you learn the order the energies must past though the glyphs to make the spell, and a few other factors.
+[NPC] Ferryd: Even then, they will most likely not reveal themselves the first few times.
+[NPC] Ferryd: I have the greatest of all glyph mages to thank for teaching me that.
+[NPC] Ferryd: Most of the Archmasters alive today have that very same person to thank for our lives.
+[NPC] Ferryd: I am not talking about being cast into the trials of the Death Realm; I speak of the True Death.
+[NPC] Ferryd: Ah, but that is a story for another time.
+[NPC] Ferryd: I don't think you are quite ready for such a tale.
+[NPC Narrate] -Ferryd holds out his hand.-
+[NPC] Ferryd: Your bracers please.
+[NPC Internal] My Bracers, sir.
+[NPC Narrate] -Ferryd takes your bracers and gives you a new set.-
+[NPC] Ferryd: These will give both proof of your advancement, and will help you in training, YOU, High Master of the Red Way.
+[NPC] Ferryd: Now, go out and finalize your Red Way training.
+[NPC] Ferryd: Only once you reach your limit will I give you your final test.
+[NPC] Ferryd: Then you will once again give me your wand.
+[NPC] Ferryd: However, it is not going to be so easy this time.
+[NPC] Ferryd: If you recall, I mentioned some time ago that you should mingle with practitioners of the two Ways that support ours.
+[NPC] Ferryd: I need for you to also bring me one Master's set of Bracers from each of those two Ways, and give them to me all at once.
+[NPC] Ferryd: This is to prove you have gained respect and support from, well, the Circles that support your own.
+[NPC] Ferryd: Good luck.
+
+[Reward] [XP] 19200; [Item] 1, Master's Red Way Bracers; [Faction] 45, Red Order
+

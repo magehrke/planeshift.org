@@ -1,0 +1,90 @@
+[Questname] Vladovic Needs Dried Maajo
+[NPC Name] Vladovic Chel-Astra
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Liera's Cure; [Money] 500
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Hi, I am looking for a job.
+[NPC] Vladovic: I am nearly out of dried Maajo and I use an extract from it often to keep my old joints from aching too badly.
+[NPC] Vladovic: My usual suppliers are in Dsar Blikau; they have been unavailable for a while.
+[NPC] Vladovic: I've heard rumors of a plague or some such.
+[NPC] Vladovic: Hmm.
+[NPC Narrate] -Vladovic scratches his balding head and looks consideringly at you.-
+[NPC] Vladovic: Perhaps you'd be willing to run off to Hydlaa for me?
+[NPC] Vladovic: You can check and see if anyone there has some dried Maajo.
+[NPC] Vladovic: Eh?
+[NPC Internal] Sure, I'll go.
+[NPC] Vladovic: Excellent!
+[NPC] Vladovic: I'd start with Liera, the Arena Alchemist.
+[NPC] Vladovic: If she has none to spare, she may know a person who does.
+
+[To] Liera Zireti
+
+[NPC Internal] Do you know where I can find some dried Maajo?
+[NPC] Liera: Dried Maajo plant?
+[NPC] Liera: Sometimes I have a good stock of that available, but I haven't much right now.
+[NPC] Liera: I usually send to Grok Idon when I need a batch.
+[NPC] Liera: Do you know where to find Grok?
+[NPC Internal] Yes, I do.
+[NPC] Liera: Good for you.
+[NPC] Liera: Have a safe journey!
+[NPC Narrate] -Liera smiles and waves goodbye.-
+
+[To] Grok Idon
+
+[NPC Internal] Greetings, I have been told that you might have some dried Maajo to sell.
+[NPC] Grok: Salutations, friend.
+[NPC] Grok: Dried Maajo, hmm?
+[NPC] Grok: Who was it that needed it?
+[NPC Internal] Vladovic needs some.
+[NPC] Grok: Vladovic?
+[NPC] Grok: You've traveled a ways for him.
+[NPC] Grok: Let's see…
+[NPC] Grok: Maajo…
+[NPC] Grok: yes, I bought some last week from a traveler.
+[NPC Narrate] -Grok looks through one sack, and then another.-
+[NPC] Grok: Ah, here is a tidy bundle of it.
+[NPC Narrate] -Grok hefts the bundle in a hand, judging its weight.-
+[NPC] Grok: I will sell this to him at a bargain, only two Golden Circles.
+[NPC] Grok: That's five hundred Tria, if you prefer the smaller coins.
+[NPC Internal] pays Grok.
+[NPC] Grok: My thanks.
+[NPC Narrate] -Grok carefully counts the coins in a large hand and nods. He gives you the bundle of dried Maajo and a receipt of the sale.-
+[NPC] Grok: Feel free to look over my other wares while you are here, Madam.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Hi, again.
+[NPC] Vladovic: Eh, what's that?
+[NPC Narrate] -Vladovic looks up from peering at an old book.-
+[NPC] Vladovic: Well, hello there.
+[NPC] Vladovic: Have you found any Maajo for me?
+[NPC Internal] Yes I have.
+[NPC] Vladovic: Excellent, let's have a look at it then.
+[NPC Internal] gives Vladovic the Maajo.
+[NPC] Vladovic: Ah, dried Maajo!
+[NPC] Vladovic: And a nice-sized bundle too.
+[NPC Narrate] -Vladovic examines the plants for a moment.-
+[NPC] Vladovic: Roots, stems, and leaves.
+[NPC] Vladovic: Good quality.
+[NPC] Vladovic: This will supply me for a while.
+[NPC Narrate] -Vladovic looks at you.-
+[NPC] Vladovic: Who did you get it from?
+[NPC Internal] grok
+[NPC] Vladovic: Oh, Grok is still in business then?
+[NPC] Vladovic: That's good to know.
+[NPC] Vladovic: Our good Kran must have given you a receipt.
+[NPC] Vladovic: Let's have a look at it.
+[NPC Internal] Here is the receipt.
+[NPC] Vladovic: Not a bad price, could be worse indeed.
+[NPC] Vladovic: Thank you for finding this for me.
+[NPC] Vladovic: Here is some coin for your expenses.
+[NPC] Vladovic: And here, take these potions, if you like.
+[NPC] Vladovic: They are helpful when your head is feeling tired!
+[NPC Narrate] -Vladovic smiles and taps the side of his head with a bony finger as he hands you two Mana Potions.-
+
+[Reward] [Money] 9922; [XP] 16400; [Item] 1, Potion of Mana; [Faction] 35, Science Association
+

@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author: Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* magic/gemenchanting CSS Script */
+
+.gemenchanting_main_table {
+	width: 100%;
+	height: auto;
+	
+	margin-top: -10px;
+	padding-right: 30px;
+	padding-bottom: 20px;
+	margin-left: 30px;
+}
+
+	.gemenchanting_main_table img {
+		height: 25px;
+	}

@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* For questchains section */
+
+h3 {
+	margin-top: -20px;
+}
+
+ol {
+	padding-left: 30px;
+}
+
+.questchain_main_container {
+	margin-left: 15px;
+}
+
+.quests_main_table {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+}
+
+.quests_main_table td {
+	vertical-align: text-top;
+}
+
+	#quests_main_table_header {
+		font-variant: small-caps;
+	}
+	
+	.quests_questnameColumn {
+		min-width: 200px;
+	}
+	
+	.quests_npcColumn {
+		min-width: 150px;
+	}
+	
+	.quests_areaColumn {
+		min-width: 150px;
+	}
+
+		.quests_npcname_cell a {
+			color: #FFF;
+		}
+
+		.quests_npcname_cell a:hover {
+			color: #99CCFF;
+			text-decoration: none;
+		}
+		
+
+	

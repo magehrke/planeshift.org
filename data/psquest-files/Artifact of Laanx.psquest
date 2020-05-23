@@ -1,0 +1,90 @@
+[Questname] Artifact of Laanx
+[NPC Name] Sharven Xant-Areth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Polyuntri Stevald Serves Laanx; [Item] 4, Emerald Crystals; [Item] 1, Ulbernaut Heart
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Hi, I am looking for a quest.
+[NPC] Sharven: I'm currently investigating something that can make a real difference to this temple, but I cannot make you part of it unless you prove to be really faithful to Laanx.
+[NPC] Sharven: Are you a Laanx follower?
+[NPC Internal] Yes I am.
+[NPC] Sharven: Are you aware of the principles of our religion?
+[NPC] Sharven: Do you share them?
+[NPC Internal] Yes I do.
+[NPC] Sharven: Good.
+[NPC] Sharven: How many times do you pray to Laanx each day?
+[NPC Internal] 5
+[NPC] Sharven: Perfect, you look like a Laanx adept.
+[NPC] Sharven: But I'm searching for someone with the right knowledge of our religion…
+[NPC] Sharven: Maybe you can tell me which of our books is the most famous?
+[NPC Internal] the book of names
+[NPC] Sharven: Yes, the Book of Names is the most important written text we have.
+[NPC] Sharven: It holds so much knowledge.
+[NPC] Sharven: It speaks about the city where Laanx ruled for years…
+[NPC] Sharven: the name of which is?
+[NPC Internal] kadaikos
+[NPC] Sharven: Right, the old Kadaikos.
+[NPC] Sharven: Nobody really knows if there is a passage to it from Yliakum.
+[NPC] Sharven: You have enough knowledge of our religion, so I can tell you more about what I need.
+[NPC] Sharven: Recently, I heard rumours from the Laanx priests of a powerful magical artifact which seems to have been created recently.
+[NPC Internal] Tell me more about the artifact.
+[NPC] Sharven: As you know, Laanx and Talad have been distant from us for many years, as if they are busy with far more important tasks.
+[NPC] Sharven: Due to this absence, priests are no longer able to create items of exceptional quality and power.
+[NPC] Sharven: We need to discover if something is happening related to the Gods' disappearance and learn if there is a chance that we can once again be closer to our beloved God.
+[NPC] Sharven: And then, once we have gained the knowledge to establish such a bond between ourselves and Laanx, we *have* to create it *before* Talad's priests do.
+[NPC Internal] And how do we go about doing that?
+[NPC] Sharven: The only piece of information I have on the artifact is a phrase that was revealed by one of our most expert priests.
+[NPC] Sharven: It looks like a riddle to unlock something on the item.
+[NPC] Sharven: The phrase he translated from the item is 'If crystal is born on 8, what is the magic number of Brown, Dark and Red?' If you ever manage to know the answer, please come back to me and tell me.
+[NPC] Sharven: I will need a correct answer, because if it's wrong, it will probably do a lot of damage during the manipulation of the item.
+[NPC Internal] I found the answer.
+[NPC] Sharven: Ah, you found something?
+[NPC] Sharven: While you were gone, I prepared a spell that can use the magic number and hopefully bring the artifact here.
+[NPC] Sharven: If the number is wrong, we will be in a lot of trouble though.
+[NPC] Sharven: Where did you find the answer?
+[NPC Internal] At the fountain in the plaza.
+[NPC] Sharven: Interesting.
+[NPC Narrate] -Sharven takes in a deep breath.-
+[NPC] Sharven: I'm ready.
+[NPC] Sharven: What is the number?
+[NPC Internal] [I know the number is] 36
+[NPC] Sharven: I will try with this number.
+[NPC Narrate] -Sharven concentrates and casts a complex spell you cannot recognise.-
+[NPC] Sharven: Yes!
+[NPC] Sharven: The spell worked!
+[NPC] Sharven: It brought the artifact here!
+[NPC] Sharven: Now we should be quick and get all the knowledge we can from it, before someone discovers we have it.
+[NPC] Sharven: Are you willing to help?
+[NPC Internal] I have helped this far, I might as well stay and help until the end.
+[NPC] Sharven: Great, now that I have the artifact I can try to identify it.
+[NPC] Sharven: I will first try with a simple spell.
+[NPC] Sharven: For that, I just need 4 emerald crystals.
+[NPC] Sharven: Bring those to me, as soon as possible.
+[NPC Internal] gives Sharven the crystals.
+[NPC] Sharven: Perfect; I will now try to identify the item.
+[NPC Narrate] -Sharven casts a spell.-
+[NPC] Sharven: Hmmm…
+[NPC] Sharven: it seems I cannot get any information from it with this simple spell.
+[NPC] Sharven: We need something more powerful.
+[NPC] Sharven: I know one I can try, but for that I need a very special ingredient, an Ulbernaut heart.
+[NPC] Sharven: Hurry up and find one for me, our time is running out.
+[NPC Internal] Hope I am not to late, here is the Ulbernaut heart.
+[NPC] Sharven: You found it, very nice.
+[NPC] Sharven: I can now cast the spell!
+[NPC Narrate] -Sharven concentrates and moans a complex phrase.-
+[NPC] Sharven: …
+[NPC Narrate] -Some time passes.-
+[NPC] Sharven: Holy Laanx, creator of faith, it worked!
+[NPC] Sharven: It seems that I can now access more information about the artifact.
+[NPC] Sharven: I will memorise all the symbols I saw, and then try to reverse the spell to send the item back to the place where it was.
+[NPC] Sharven: Hopefully, nobody will find out that I've used it.
+[NPC Narrate] -Sharven casts a reverse spell and the item disappears.-
+[NPC] Sharven: Great!
+[NPC] Sharven: You've helped me a lot.
+[NPC] Sharven: Please take this item as a reward for your actions, and may Laanx frighten the shadows from your path.
+
+[Reward] [XP] 15000; [Item] 1, Meteor glyph; [Faction] 30, Iron Hand
+

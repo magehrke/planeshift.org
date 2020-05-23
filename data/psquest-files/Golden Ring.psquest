@@ -1,0 +1,31 @@
+[Questname] Golden Ring
+[NPC Name] Toda Ombretis
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Rats in the Warehouse; [Item] 5, Tefusang Hide; [Item] 5, Tefusangling Hide
+
+[To] Toda Ombretis
+
+[NPC Internal] You look busy, anything I can help with?
+[NPC] Toda: I'm out of hides to make leather garments, and this is starting to be a problem.
+[NPC] Toda: Being alone, I cannot leave the shop, so I don't know how to fix the situation.
+[NPC] Toda: In return for your help, I can give you a nice golden ring.
+[NPC] Toda: I received a large number of those by trading with a merchant from the Upper Field level.
+[NPC] Toda: Will you help me?
+[NPC Internal] Yes, I can make time to help you!
+[NPC] Toda: Great!
+[NPC] Toda: Being a golden ring, I will trade it for no less than five Tefusang hides and five Tefusangling hides.
+[NPC] Toda: I await your return.
+
+[Give] Toda Ombretis; 10, Tefusang Hide
+
+[NPC Internal] Here are your Tefusang skins.
+[NPC] Toda: Perfect.
+[NPC] Toda: I was not sure you would be able to do it!
+[NPC] Toda: Thanks to your help, I will be able to produce more special equipment.
+[NPC] Toda: Here is the ring I promised.
+
+[Reward] [XP] 9400; [Item] 1, Golden Ring; 
+

@@ -1,0 +1,101 @@
+[Questname] May Their Words Sound
+[NPC Name] Azarnith
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Expand the Gobble Territory; [Item] 6, Ruby Crystals; [Item] 5, Diamond Crystals; [Item] 5, Emerald Crystals
+
+[To] Azarnith
+
+[NPC Internal] nods to Azarnith.
+[NPC Narrate] -Azarnith tilts his head, observing you curiously. After a while he bows his head and presses his fingers against his chest.-
+[NPC] Azarnith: Kir ar Azarnith.
+[NPC Narrate] -Azarnith kneels and uses his hand to tap the ground in front of him. He then raises his arm and beckons you to come closer.-
+[NPC Narrate] -Azarnith shakes his head yes and no, and with a motion of his head, he implores you to respond.-
+[NPC Internal] nods.
+[NPC Narrate] -Azarnith nods his head and waits until you come closer. Once you do, he picks up a sharpened stick and starts moving it about, drawing thick lines in the ground. The contours he draws appear to depict a slender humanoid with distinctly tipped ears, and his legs disappearing behind something that quite possibly may be a robe.-
+[NPC Narrate] -Azarnith then draws a large spiral, partially concealing the figure behind it. Once he finishes the drawing, Azarnith points the stick in your direction, then pressing it back against the figure.-
+[NPC Narrate] -Azarnith slowly stands up and dismisses you with a motion of his hand.-
+
+[To] Jardet Forsill
+
+[NPC Internal] Do you know Azarnith?
+[NPC] Jardet: Azarnith…
+[NPC] Jardet: Yes, I know him.
+[NPC] Jardet: He is a wise and noble Derghir, in his service forever devoted to our mother Nature.
+[NPC] Jardet: You should feel proud that he wished to talk with you.
+[NPC Narrate] -Jardet rubs his ear.-
+[NPC] Jardet: Now, if it was me he sent you to, surely he wishes you to learn the Derghir speech.
+[NPC] Jardet: Yes, I can help you achieve that.
+[NPC] Jardet: But before I do, I need you to help me with something else.
+[NPC] Jardet: I am studying certain properties of crystals, you see, and I need some samples to continue my work.
+[NPC] Jardet: So this is what I need you to do: bring me five rubies, five emeralds and five diamonds.
+[NPC] Jardet: Additionally make sure to supply yourself with an additional ruby; you'll need it to learn how to communicate with the Derghir.
+[NPC] Jardet: Please hurry, I'll need those crystals soon enough.
+[NPC Internal] Here are the crystals.
+[NPC] Jardet: That will do, thank you.
+[NPC Narrate] -Jardet places all of the crystals in his bag.-
+[NPC] Jardet: Now, back to your mission.
+[NPC] Jardet: There is a rapid way of learning how to communicate with the Derghir.
+[NPC] Jardet: Needless to say, magic forces are involved in it.
+[NPC Narrate] -Jardet shifts his hand back into the bag and pulls out a small glowing crystal.-
+[NPC] Jardet: This is a Derghan Bell.
+[NPC] Jardet: Through its sound-warping abilities, it allows its owner to understand the words of the Derghir.
+[NPC Narrate] -As Jardet speaks, the crystal appears to accustom itself to his speech, following the stress in his words by shifting the intensity of its own glow.-
+[NPC] Jardet: I wish I could reward you with one already, but I'm afraid it's not that easy.
+[NPC] Jardet: The Derghan Bells require different methods of enchanting, always depending on the varying personalities of their users.
+[NPC] Jardet: Unfortunately, my limited knowledge in the area won't allow me to estimate what the ritual should look like for you.
+[NPC] Jardet: But don't worry, there's a solution.
+[NPC] Jardet: Go back to Azarnith and give him the ruby crystal.
+[NPC] Jardet: He should be able to do what I can not.
+[NPC] Jardet: Once he shows you what the ritual should look like, come back and tell me that Azarnith showed you ritual.
+
+[To] Azarnith
+
+[NPC Internal] nods again to Azarnith and hands him the crystal.
+[NPC Narrate] -Azarnith accepts the ruby and sits down on the ground, placing the item right beside him. He uses his hands to draw strange signs on the ground.-
+[NPC Narrate] -Afterwards raising his sight and gazing deep into your eyes.-
+[NPC Narrate] -The gaze continues for an extended period of time and after a while you can feel an eerie force penetrating your mind, with time leaving you dizzy and confused. After a few seconds the feeling passes.-
+[NPC Narrate] -The Derghir nods his head and picks up the crystal.-
+[NPC Narrate] -Azarnith turns the crystal upside down.-
+[NPC Narrate] -Azarnith uses his finger to mark a circle on its underside.-
+[NPC Narrate] -Azarnith crosses the circle by marking a line.-
+[NPC Narrate] -Azarnith raises the crystal high up.-
+[NPC Narrate] -Azarnith slams it down against the ground.-
+[NPC Narrate] -He then nods his head and returns to observing the surrounding wildlife.-
+
+[To] Jardet Forsill
+
+[NPC Internal] Azarnith showed me the ritual.
+[NPC] Jardet: So he showed you how the ritual should be done?
+[NPC] Jardet: That's good news.
+[NPC] Jardet: To perform it myself, I'll have to enter a deep trance and attempt to communicate with the structure of the crystal for your Derghan Bell.
+[NPC] Jardet: Once I do, you will explain to me what Azarnith showed you, step by step.
+[NPC] Jardet: But please, make it as simple as you can; most of my thoughts need to be focused on the crystal itself.
+[NPC] Jardet: Ready yourself.
+[NPC Narrate] -Jardet takes a few slow and deep breaths.-
+[NPC] Jardet: We begin.
+[NPC Narrate] -Jardet pulls out a small crystal. He holds it up before his eyes and in a lowered voice, he starts quietly chanting unintelligible words. After a while the crystal begins to glow, pulsing with short intervals.-
+[NPC Narrate] -Jardet clenches his teeth.-
+[NPC] Jardet: Say it.
+[NPC Internal] turn it
+[NPC Narrate] -Jardet turns the crystal upside down. It flickers with a bright light.-
+[NPC Internal] mark circle
+[NPC Narrate] -Jardet moves his finger across the underside of the crystal, tiny green sparks following it until a complete circle is formed.-
+[NPC Internal] mark line
+[NPC Narrate] -Jardet crosses the circle by rapidly moving his finger in a straight line. Suddenly the crystal releases a torrent of blue sparks that quickly disappear in mid-air.-
+[NPC Internal] raise it
+[NPC Narrate] -Jardet raises the crystal high up above his head. The crystal brightens gradually and after a few seconds the green light it emits shines on everything nearby.-
+[NPC Internal] slam it down
+[NPC Narrate] -Jardet hurls the crystal against the ground. Upon contact with the solid surface, the crystal transfers its light into the earth.-
+[NPC Narrate] -The surface around the crystal starts glowing faintly with a dull green light.-
+[NPC Narrate] -The plants growing around the crystal begin vegetating with unnatural speed, covering the object completely in only a few moments.-
+[NPC Narrate] -As your eyes focus on the peculiar phenomena, it appears that some unknown force drains energy out of the plants. They dry out, slowly decaying and releasing the crystal they were hiding.-
+[NPC Narrate] -The crystal is now glowing steadily.-
+[NPC Narrate] -Jardet picks it up.-
+[NPC] Jardet: Here, I believe this belongs to you.
+[NPC Narrate] -Jardet hands you the crystal, smiling faintly.-
+[NPC] Jardet: I hope you'll make a good use of it.
+
+[Reward] [Money] 7310; [XP] 15000; [Item] 1, Derghan Bell; [Faction] 30, Seeds of Wildwood
+

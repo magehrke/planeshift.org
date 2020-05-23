@@ -1,0 +1,32 @@
+[Questname] Kaiman Jilatt Needs Plants Supplies
+[NPC Name] Kaiman Jilatt
+[Checkup] 2017-11-24
+[Authors] Huarwar Eruera
+[Repeatable] Yes
+
+[Need] [Item] 5, Snowbuds; [Item] 5, Lavender Flowers
+
+[To] Kaiman Jilatt
+
+[NPC Internal] Hello Kaiman, I heard you need some help?
+[NPC] Kaiman: Hello!!
+[NPC] Kaiman: A helpful hand, are you?
+[NPC] Kaiman: Well, the merchant that I am, I am never out of stock.
+[NPC] Kaiman: However, I have orders I may not be able to fill, and they must be.
+[NPC] Kaiman: Care to go harvesting some plants for me?
+[NPC] Kaiman: It will be worth your while, you can keep whatever payment I would have gotten.
+[NPC Internal] Sure, what do you need?
+[NPC MY] Kaiman Jilatt's eyes sparkle.
+[NPC] Kaiman: Wonderful, wonderful!
+[NPC Internal] So, what do you need?
+[NPC ME] Kaiman Jilatt rummages in his pocket and produces a small note that he reads quickly before turning back to you again.
+[NPC] Kaiman: Aleena needs some flowers to use in her teas.
+[NPC] Kaiman: Please bring her five snowbuds and five lavender flowers.
+
+[Give] Aleena Arlavin; 5, Snowbuds; 5, Lavender Flowers
+
+[NPC] Aleena: Hmm, these smell very nice.
+[NPC] Aleena: Thank you, Sir.
+[NPC] Aleena: Here, take this for your efforts.
+
+[Reward] [XP] 8000; [Money] 1000; [Skill] 1, Harvesting

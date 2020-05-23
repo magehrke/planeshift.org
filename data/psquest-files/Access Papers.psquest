@@ -1,0 +1,18 @@
+[Questname] Access Papers
+[NPC Name] Percival Hawthorne
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Deceive Your Way In
+
+[To] Percival Hawthorne
+
+[NPC Internal] YOU hands Percival the access papers.
+[NPC Narrate] -Percival looks over the papers.-
+[NPC] Percival: This all looks to be in order.
+[NPC] Percival: Friend or foe?
+[NPC Internal] I am a friend.
+[NPC] Percival: Welcome to the Hydlaa Winch, Sir.
+
+[Reward] [Special] Winch access
+

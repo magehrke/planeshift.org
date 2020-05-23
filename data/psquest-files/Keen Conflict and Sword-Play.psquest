@@ -1,0 +1,217 @@
+[Questname] Keen Conflict and Sword-Play
+[NPC Name] Gregori Stevald
+[Checkup] 2017-04-04
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Introduction to Combat
+
+[To] Gregori Stevald
+
+[NPC Internal] Hello Gregori, I want to learn the art of sword play.
+[NPC] Gregori: Uhm, yes, good for you.
+[NPC] Gregori: Why does this concern me exactly?
+[NPC Internal] I am hoping you would be able to direct me towards someone who would be able to teach me.
+[NPC ME] Gregori Stevald looks you up and down, seemingly judging your abilities.
+[NPC] Gregori: And I suppose you think you know how to handle a blade?
+[NPC Internal] I still have a lot to learn.
+[NPC] Gregori: Modesty?
+[NPC] Gregori: Good.
+[NPC] Gregori: Though, I hope it's not just to look good because I can't bear boot lickers.
+[NPC] Gregori: Nevertheless, I appreciate warriors that know their limits, they often are the best.
+[NPC] Gregori: So, now comes an important question for you...
+[NPC] Gregori: Which blade you prefer to fight with?
+[NPC Internal] Definitively a longsword. [Choice 1 of 6.]
+[NPC] Gregori: Classic straight double-edged blade, the perfect balance.
+[NPC] Gregori: To me, this can be a fatal weapon, if your smith is good.
+[NPC] Gregori: Good, now perform two or three fencing moves and blocks, show me what you can do with that longsword.
+[NPC Internal] Sure. Enjoy. [You start executing some moves.]
+[NPC ME] Gregori Stevald watches you, arms crossed behind his back.
+[NPC Narrate] -His expression is neutral and focused.-
+[NPC] Gregori: Interesting.
+[NPC] Gregori: You are clearly at ease with a blade.
+[NPC] Gregori: You move smoothly, and you have a clean technique.
+[NPC] Gregori: But by Laanx you have no style!
+[NPC] Gregori: I would be interested to work with you but I have no time to do it.
+[NPC] Gregori: Thank you, have a good day.
+[NPC Internal] Wait, am I really so unskilled!? I would be willing to do all I can to master everything I'm taught.
+[NPC] Gregori: All...uhm?
+[NPC] Gregori: Passion, motivation...
+[NPC] Gregori: Say, if you can disentangle a situation reported to me, I think I could find time to introduce you to the Order.
+[NPC Internal] The Order?
+[NPC] Gregori: In case you hadn't noticed, you are in the Arena.
+[NPC] Gregori: The biggest in the Dome, if not the whole of Yliakum.
+[NPC] Gregori: It's not just fancy walls and hungry beasts, it is also a center for the arts of combat.
+[NPC] Gregori: It holds no less than ten academies dedicated to fighting.
+[NPC] Gregori: To use just two words: Warrior's Temple.
+[NPC Internal] Indeed. I just didn't know about the academies. What order are you speaking about?
+[NPC] Gregori: I was referring to the most famous organisation dedicated to sword-play: The Order of the Keen Edge.
+[NPC] Gregori: This is the Order I manage and the Order that will make a name for you if I decide to let you in.
+[NPC Internal] Thanks, I am genuinely interested.
+[NPC] Gregori: Klyros, I will give you your first lesson now, for free.
+[NPC] Gregori: For a true warrior it's 30 percent might and 70 percent intelligence.
+[NPC] Gregori: If you cannot use this...
+[NPC Narrate] -He says, poking his head.-
+[NPC] Gregori: You are as weak as a newborn child.
+[NPC] Gregori: Many do not understand this, they boast, seeking fame...
+[NPC] Gregori: Now, when a conflict erupts between members of the Order or their families, it is not might but intelligence that must be employed to solve it.
+[NPC] Gregori: This is part of my responsibilities.
+[NPC] Gregori: Not that I like it when members of my Order show such stupidity.
+[NPC Internal] So you have to deal with a conflict?
+[NPC ME] Gregori Stevald smirks but it seems more out of nervousness then amusement.
+[NPC] Gregori: It's tightly tied to the history of the Order.
+[NPC] Gregori: Nobles practising sword-play, duelling constantly to show off their technique, to know who is the best, ending in hundreds of people killed stupidly in duels over the years.
+[NPC] Gregori: I won't tolerate any of this nowadays, in the name of the Order and in the name of intelligence.
+[NPC Internal] What do you need me to do?
+[NPC] Gregori: Two idiots are making much ado about nothing.
+[NPC] Gregori: The affair needs to be dealt with quickly, but especially discreetly.
+[NPC] Gregori: And it would be fine with me if whatever you do can make them respect the tenets of our Order.
+[NPC Internal] Which are?
+[NPC] Gregori: All in good time, Huarwar.
+[NPC] Gregori: First, go speak to Warinn Klumdt and Terea Lohdren, separately.
+[NPC] Gregori: Listen to their stories, if we can call it that.
+[NPC] Gregori: Make decisions that will end the conflict properly.
+[NPC Internal] What if I fail? You are not worried about the outcome?
+[NPC ME] Gregori Stevald smiles, meaningfully.
+[NPC] Gregori: I am a sword master.
+[NPC] Gregori: If they learn that I am coming for them, the conflict will stop instantaneously.
+[NPC] Gregori: But that would be too easy, no?
+[NPC] Gregori: It is your trial.
+[NPC] Gregori: Good luck.
+
+[To] Warinn Klumdt
+
+[NPC Internal] Warinn Klumdt? I heard that you might be in a bit of a trouble. May I help? [Choice 1/3]
+[NPC] Warinn: Uhm?
+[NPC] Warinn: No!
+[NPC] Warinn: No...
+[NPC] Warinn: Well yes...
+[NPC] Warinn: Maybe.
+[NPC ME] Warinn Klumdt grimaces at the memory.
+[NPC] Warinn: The other day, I was conversing with a colleague of mine in East Hydlaa, speaking of the drainage system I was commissioned to install along the walls there.
+[NPC] Warinn: Not an easy task, it will drive us to dig a ridiculous ditch and...
+[NPC] Warinn: well, that's when a raging eagle attacked my colleague, literally tearing off his face with its claws!
+[NPC] Warinn: It was impossible to get the animal off off him.
+[NPC] Warinn: I couldn't bear him suffering so I decided to end it with my blade.
+[NPC] Warinn: One thrust to the beast.
+[NPC Internal] Oh, I see. And the animal belonged to Terea Lohdren?
+[NPC] Warinn: Yes and...
+[NPC] Warinn: Wait, how do you know about this, who are you exactly?
+[NPC Internal] Well, words travel fast in town, Warinn. I heard about it... And of the duel...
+[NPC] Warinn: Of course.
+[NPC ME] Warinn Klumdt clears his throat, embarrassed.
+[NPC] Warinn: Honestly, I didn't agree with a duel, and still do not!
+[NPC] Warinn: But the Enkidukai went mad, she didn't want to listen, didn't care about my friend's state.
+[NPC] Warinn: All she was doing was shouting.
+[NPC] Warinn: Before leaving with her animal, she told me she would send me her witness for a meeting.
+[NPC] Warinn: I accepted.
+[NPC] Warinn: My honour was engaged, I was mad and shocked.
+[NPC Internal] I understand. What if I can persuade her to abandon the duel? Would you resign yourself from the duel?
+[NPC] Warinn: Yes!
+[NPC] Warinn: Absolutely!
+[NPC] Warinn: As I said, the idea didn't come from me.
+[NPC] Warinn: But I regret nothing, I just wanted to help my colleague and would do it again.
+[NPC] Warinn: You know, he is in the Hospital of Talad in Amdeneir and I am very worried about his health.
+
+[To] Terea Lohdren
+
+[NPC Internal] Terea Lohdren? I heard about what happened to your animal. Are you all right?
+[NPC] Terea: Did you really?
+[NPC] Terea: Well no.
+[NPC] Terea: I am not all right, not at all!
+[NPC] Terea: You just need one damned imbecile to ruin everything, everything!
+[NPC] Terea: Quill, my rare and precious eagle, was a unique representative of his lineage!
+[NPC] Terea: A pure breed I've raised and trained myself for years.
+[NPC] Terea: I called him the "Golden Eagle" because of his golden coloured plumage and his peerless speed.
+[NPC] Terea: He was a pure marvel!
+[NPC] Terea: This breed was particularly sensitive to noise thought and this stupid dwarf was constantly shouting around his orders.
+[NPC] Terea: I told him to stop, he knew he was close to my bird's shelter, but did he care?
+[NPC] Terea: No!
+[NPC ME] Terea Lohdren shakes her head, clearly on nerves, she stares at you.
+[NPC] Terea: How do you know about this?
+[NPC] Terea: Don't tell me you are sent by Klumdt or I will kill you too!
+[NPC Internal] Like I said, I heard about your animal, the whole story. Words travels fast in town, Terea.
+[NPC] Terea: And?
+[NPC] Terea: Of course I will duel this imbecile!
+[NPC] Terea: Do you think he given a second thought about me?
+[NPC] Terea: Tried to understand why I was in such state?
+[NPC] Terea: Of course not...
+[NPC] Terea: I am sorry for his stupid friend but it was his own fault!
+[NPC] Terea: I told the dwarf countless times about the noise.
+[NPC] Terea: Sometimes he was shouting and was doing so with a smirk!
+[NPC] Terea: I am sure he was doing this on purpose to annoy me and my animals...
+[NPC Internal] I understand. Look, the duel won't save anything, nor give you your eagle back. There must be a more reasonable solution.
+[NPC] Terea: I am not searching to be reasonable!
+[NPC] Terea: I want to make him pay.
+[NPC Internal] I hear you, Warinn killed your eagle, yes. But as you say, he is not totally to blame.
+[NPC] Terea: Uhm...
+[NPC] Terea: I guess you are right.
+[NPC] Terea: I can still bring the dwarf to justice, tell the guards.
+[NPC] Terea: Maybe I can win some money and restart my unique breed.
+[NPC] Terea: If you can persuade Warinn to forget about the duel, I will apply this new plan, I guess.
+[NPC ME] Terea Lohdren sighs, looking deeply sad.
+
+[To] Gregori Stevald
+
+[NPC Internal] Gregori, I've heard both stories.
+[NPC ME] Gregori Stevald waits for you, arms crossed.
+[NPC] Gregori: Tell me about the outcome then.
+[NPC] Gregori: I gave you what you needed to resolved this cleanly.
+[NPC Internal] I've listened and spoken with both Warinn and Terea. They agreed to resign from the duel. I think I have been discreet and helpful.
+[NPC ME] Gregori Stevald nods, attentive, he answers.
+[NPC] Gregori: Indeed, indeed.
+[NPC] Gregori: In fact Huarwar, everything, even a conversation, is a matter of strategic choices.
+[NPC] Gregori: And your choice was perilous.
+[NPC] Gregori: Instead of using the tool I gave you, you decided to take a longer road.
+[NPC Internal] The tool?
+[NPC] Gregori: Didn't I say "If they hear that you come from me, the conflict will cease instantaneously"?
+[NPC] Gregori: It wasn't a trick, it was my way to analyse you.
+[NPC] Gregori: You lost time with empathy, trying to help instead of going directly to complete your task.
+[NPC Narrate] -He says vaguely angry.-
+[NPC] Gregori: Remember, you are a warrior.
+[NPC] Gregori: Your choice needs to be effective!
+[NPC] Gregori: We often have lives to save, Huarwar...
+[NPC] Gregori: Anyways, the result is here I cannot deny it, the conflict is settled.
+[NPC] Gregori: I hope you will have leared a valuable lesson.
+[NPC] Gregori: So, I will stick to my word.
+[NPC] Gregori: You are now officially a Recruit in the Order.
+[NPC] Gregori: Congratulations.
+[NPC Internal] Thank you. I hope to do better next time but diplomacy is important to me.
+[NPC Narrate] -Even as Gregori nods, he seems to ignore your last remark.-
+[NPC] Gregori: Right, we start without waiting.
+[NPC ME] Gregori Stevald unsheathes his sword, a wonderful piece of shiny platinum steel with a pommel shaped like two ulbernaut claws.
+[NPC] Gregori: My sword "Tarr", the infallible.
+[NPC] Gregori: Too long a story to be told now.
+[NPC] Gregori: Prepare yourself.
+[NPC] Gregori: I will now teach you the first move every member of the Order learns, a classic of the fencing school.
+[NPC] Gregori: It is a one-handed sword style which involves a slash and thrust.
+[NPC] Gregori: First, the Side Slash.
+[NPC] Gregori: It consists of a simple sword attack whose goal is hitting with the blade's edge.
+[NPC ME] Gregori Stevald executes the move several times, ordering you to do the same.
+[NPC] Gregori: Right...
+[NPC] Gregori: Repeat this move until you can do it while sleeping or at least until you stop looking like a drunk trepor on clackerweed.
+[NPC Internal] Thank you, Gregori. Concerning the Order, is there anything I should know?
+[NPC] Gregori: Yes.
+[NPC] Gregori: You represent it anywhere you go, whatever action you do.
+[NPC] Gregori: Remember it and act with honour or you will invoke my wrath.
+[NPC] Gregori: Now, last but not the least, the tenets.
+[NPC Internal] Ah, yes. I suppose I need to know them well?
+[NPC] Gregori: By heart.
+[NPC] Gregori: They shall become your life motto...
+[NPC] Gregori: Tenet one: Fight with justice, your sword will protect the weak and defend the just...
+[NPC] Gregori: Tenet two: Fight with honour, your sword will not strike your opponent's back...
+[NPC] Gregori: Tenet three: Fight with bravery, your sword will spill the blood of the enemies not the blood of your comrades...
+[NPC] Gregori: If you cannot remember this, shame on you.
+[NPC] Gregori: Go to the Order's training room, here in the arena.
+[NPC] Gregori: The tenets are always displayed there.
+[NPC Internal] Thank you. Who shall I refer to for the other lesson?
+[NPC] Gregori: From here on, you will be taught everything you need to know, step by step until you reach a level we deem worthy.
+[NPC] Gregori: Then, the real fun will start.
+[NPC Narrate] -He smiles, sheathing Tarr.-
+[NPC] Gregori: When you think you are ready for another lesson, go to see Percival Hawthorne.
+[NPC] Gregori: He guards the Winch Gate in the Hydlaa plaza.
+[NPC] Gregori: Now you have joined our order there are two other series of special moves you are eligible to buy, shield mastery for which you should see Remant Tovere, and two-handed where you should go and see Ondren Torr.
+[NPC] Gregori: Good luck recruit.
+
+
+
+[Reward] [Skill] 1, Sword; [Faction] 10, Order of the Keen Edge; [Combat Move] Single Handed Sword, Side Slash

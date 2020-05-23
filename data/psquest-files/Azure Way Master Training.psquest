@@ -1,0 +1,125 @@
+[Questname] Azure Way Master Training
+[NPC Name] Menita
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Practical Azure Way Adept; [Item] 2, Adept's Azure Way Wand; [Item] 1, Apprentice's Azure Way Robe; [Skill] 100, Azure Way; [Item] 1, Fire glyph; [Item] 1, Arrow glyph; [Item] 1, Armor glyph
+
+[Info] You get the glyphs back.
+
+[To] Menita
+
+[NPC Internal] Here are the items as requested.
+[NPC] Menita: Today, you become a Master rank in the Azure Way.
+[NPC Narrate] -Menita hands you back one wand and the robe, but keeps yours and puts it aside.-
+[NPC] Menita: Return those to their owners, followers of your same path.
+[NPC Narrate] -Menita closes her eyes for only a moment.-
+[NPC] Menita: But there are other paths, some of them support Azure Way, others…
+[NPC] Menita: not.
+[NPC] Menita: You will soon require the aid of practitioners and students from the supporting Ways.
+[NPC] Menita: Speak to them.
+[NPC] Menita: These bonds will become important in the coming tests.
+[NPC Internal] I'd like to know more.
+[NPC] Menita: Not now.
+[NPC] Menita: First, I need something from you.
+[NPC Narrate] -She stares, and pauses for a long heartbeat.-
+[NPC] Menita: Go to Brintec Dev-Onni.
+[NPC] Menita: Solve his problem.
+[NPC] Menita: And…
+[NPC] Menita: be careful.
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] Menita sent me here to help you out.
+[NPC] Brintec: Menita?
+[NPC Narrate] -Brintec frowns staring at you.-
+[NPC] Brintec: An Azure Way member?
+[NPC] Brintec: Very well.
+[NPC] Brintec: Tell me what I did the third day of this month.
+[NPC] Brintec: Because I just forgot and no one can tell me where I was.
+[NPC Internal] Please, be patient, when did you recognize you had lost the memory?
+[NPC] Brintec: I've not lost my memory.
+[NPC] Brintec: One of your fellows took it out!
+[NPC Narrate] -Brintec stares at you angrily for some moments, then he relax a bit.-
+[NPC] Brintec: I don't know.
+[NPC] Brintec: I had a strange dream, I was running through Ojaveda and where ever I run i always arrive in front of closed doors.
+[NPC] Brintec: Then I stop.
+[NPC] Brintec: I felt a growing fear and I flee.
+[NPC] Brintec: But I do not know what this fear is.
+[NPC] Brintec: I think it is something obvious, but I don't remember.
+[NPC Internal] plague
+[NPC] Brintec: Uh.
+[NPC] Brintec: Oh.
+[NPC Narrate] -Brintec opens his eyes wide.-
+[NPC] Brintec: Yes, yes.
+[NPC] Brintec: That's it.
+[NPC Narrate] -He opens his mouth and sighs with relief.-
+[NPC] Brintec: Now I remember, damn.
+[NPC] Brintec: How stupid I am.
+[NPC] Brintec: Sorry, Madam.
+[NPC] Brintec: And please, say to all your fellows that I'm terribly sorry.
+[NPC Narrate] -Brintec puts a hand on his face.-
+[NPC] Brintec: Ah.
+[NPC] Brintec: No more words, now that I remember I'd like to forget again.
+[NPC] Brintec: Damn, what a relief, now that I know what I feared in the dream I can relax.
+[NPC] Brintec: I was so…
+[NPC] Brintec: Never mind.
+[NPC] Brintec: I feel very better.
+[NPC] Brintec: Thanks again.
+[NPC Internal] I'm curios now, please tell me what you remember.
+[NPC] Brintec: Ehe.
+[NPC Narrate] -Brintec face becomes reddish.-
+[NPC] Brintec: I made something shameful…
+[NPC] Brintec: or, well I was in love…
+[NPC] Brintec: oh come on.
+[NPC] Brintec: I was sad because a woman said no.
+[NPC] Brintec: And I drank too much, so the day after I avoided work.
+[NPC] Brintec: That's it, nothing else.
+[NPC] Brintec: Please do not ask more.
+[NPC] Brintec: I think you know her, and I prefer to maintain privacy.
+
+[To] Menita
+
+[NPC Internal] I solved the problem, Brintec is fine now.
+[NPC] Menita: I know.
+[NPC] Menita: Now, you have to leave me.
+[NPC] Menita: Quickly.
+[NPC Internal] Where you want me to go?
+[NPC] Menita: Free your thoughts.
+[NPC] Menita: And in the meantime try to do something else.
+[NPC] Menita: Bring me two glyph that Levrus sells, each from one of the Azure Way's supporting Ways.
+[NPC Internal] I believe these are the two glyphs.
+[NPC Narrate] -Menita nods.-
+[NPC] Menita: In combing spells, you will at times need glyphs from other Ways.
+[NPC] Menita: On their own, each Way is limited in power.
+[NPC] Menita: Only in combination will you find the most powerful spells
+[NPC Narrate] -Menita hands back the glyphs.-
+[NPC] Menita: Although Azure Way is the most perfect Way supporting even ways that do not support it, no Way of magic is complete without the other Ways.
+[NPC Narrate] -Menita eyes move to you once more.-
+[NPC] Menita: This is known to include supporting Ways, neutral, and opposing.
+[NPC] Menita: Dark and Blue Way are neutral to Azure, neither greatly aiding nor impeding, though Azure is used for tempering some of their combinations.
+[NPC] Menita: For every coin, there exists two sides.
+[NPC] Menita: For Azure, this is opposing side is the Brown Way.
+[NPC] Menita: For your last task today, I will ask you to give me the Brown Way Glyph that Levrus sells.
+[NPC Internal] Would it be this one?
+[NPC Narrate] -Menita nods and hands you the glyph back.-
+[NPC] Menita: Azure and Brown Way Circles are not enemies.
+[NPC] Menita: However, the magic contained within them collides.
+[NPC] Menita: Trying to combine opposing Ways can be dangerous, or even deadly.
+[NPC] Menita: You may train the supporting ways within a realm or so of Azure Way, but I advise you to limit any Brown Way training to a minimum.
+[NPC] Menita: If you train too high in the Brown Way, you risk being removed from the Azure Way Circle.
+[NPC Narrate] -Menita eyes drift slowly to gaze off towards Ojaveda.-
+[NPC] Menita: There is a lesson to be learned on a high hill towards Ojaveda.
+[NPC] Menita: A powerful man once thought he could challenge the gods by combining all magic Ways.
+[NPC] Menita: That hill was once much taller.
+[NPC] Menita: We will speak of it later when I decide you are ready.
+[NPC] Menita: Now it is time to complete this step.
+[NPC Internal] Mistress Menita, I am ready to continue my path.
+[NPC] Menita: Very well.
+[NPC] Menita: You will show me this new wand every time you are ready for your next test session.
+[NPC] Menita: I also want you to have this as a personal gift from me.
+[NPC Narrate] -Menita flicks you a glyph, barely giving you time to catch it.-
+[NPC] Menita: Hand me your Master's wand when you think you are ready, and if I agree with that assumption I will accept it.
+
+[Reward] [XP] 13600; [Item] 1, Gas glyph; [Item] 1, Master's Azure Way Staff; [Faction] 25, Azure Order
+

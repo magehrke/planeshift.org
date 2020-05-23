@@ -1,0 +1,130 @@
+[Questname] Helping Gardr with kras orders
+[NPC Name] Gardr Keck
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A new mace for Nevis; [Skill] 50, Mace Making; [Item] 5, crafted Clubs; [Item] 3, crafted Morning Stars; [Item] 3, crafted Battle Picks; [Item] 1, crafted Spiked Warhammer
+
+[To] Gardr Keck
+
+[NPC] Gardr: Can I help you?
+[NPC] Gardr: YOU, I have been pleased with your progress while you have been training with me and I've been watching with interest while you have been crafting maces and hammers.
+[NPC] Gardr: Your work is of a high standard.
+[NPC] Gardr: I am currently overrun with work orders.
+[NPC] Gardr: Can you help me by completing one of the orders?
+[NPC] Gardr: Of Course, I will gladly help.
+[NPC Narrate] -Gardr smiles.-
+[NPC] Gardr: Thank you.
+[NPC] Gardr: You will not regret this.
+[NPC] Gardr: First though, I need you to pick up the order.
+[NPC] Gardr: Do you have access to the winch area of Hydlaa?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC] Gardr: Yes, I have access.
+[NPC] Gardr: Good.
+[NPC] Gardr: Can you go there and speak to Axomir.
+[NPC] Gardr: He has an order waiting from the barn, the guards there are having problems with thieves targeting the mint.
+[NPC] Gardr: Please hurry back.
+
+[To] Axomir
+
+[NPC] Axomir: Gardr sent me to collect the order from the Barn level.
+[NPC Narrate] -Axomir looks up from his work.-
+[NPC] Axomir: About time.
+[NPC] Axomir: I thought I was going to have to try find another smith to do this order.
+[NPC] Axomir: Gardr is lucky that kra is such a good smith.
+[NPC] Axomir: Neither Veja nor Harnquist can match Gardr for kras quality when it comes to Maces and Hammers.
+[NPC Narrate] -Axomir hands you an order slip and returns to his work.-
+
+[To] Gardr Keck
+
+[NPC] Gardr: [You give Gardr the Barn order.]
+
+[Way] 2
+
+[NPC] Gardr: No, I do not have access yet.
+[NPC] Gardr: Ok, Never mind I will deal with the winch order.
+[NPC] Gardr: I need you go to Raithen and pick up his order.
+[NPC] Gardr: You will find him at the Eagle Bronze Doors.
+[NPC] Gardr: Please hurry back.
+
+[To] Raithen
+
+[NPC] Raithen: Gardr sent me, to collect your order.
+[NPC] Raithen: About time.
+[NPC] Raithen: We need this order.
+[NPC] Raithen: We are currently defending the dome with sub-standard weapons.
+[NPC] Raithen: Gardr is the only smith that can provide the quality we need of Maces and Hammers.
+[NPC] Raithen: I would like to purchase kra's Platinum Steel Maces and Hammers but we don't have the budget.
+[NPC Narrate] -Raithen hands over an order slip.-
+[NPC] Raithen: I eagerly await your return.
+
+[To] Gardr Keck
+
+[NPC] Gardr: [You give Gardr the Shadow Squadron order.]
+
+[Way] 1, 2
+
+[NPC] Gardr: Thank you, Jilare.
+[NPC Narrate] -Gardr reads the order slip.-
+[NPC] Gardr: First I need you to make five clubs.
+[NPC] Gardr: As it is my reputation on the line I will only accept quality items.
+[NPC Narrate] -Gardr Smiles.-
+[NPC] Gardr: I know you will not disappoint me.
+[NPC] Gardr: Here are your Clubs.
+[NPC Narrate] -Gardr examines the clubs and smiles before putting the Clubs in a crate.-
+[NPC] Gardr: These are excellent.
+[NPC] Gardr: I am glad I chose you to help.
+[NPC Narrate] -Gardr looks at the order slip again.-
+[NPC] Gardr: Next on the list is…
+[NPC] Gardr: I need three Morning stars.
+[NPC] Gardr: Here are your Morning stars.
+[NPC Narrate] -Gardr examines the morning stars and smiles before putting them in the crate with the clubs.-
+[NPC] Gardr: These are excellent.
+[NPC Narrate] -Gardr looks at the order slip again.-
+[NPC] Gardr: Next we need three Battle Picks.
+[NPC] Gardr: Here are your Battle Picks.
+[NPC Narrate] -Gardr examines the Battle Picks and smiles before putting them in the crate with the rest.-
+[NPC] Gardr: These are excellent.
+[NPC Narrate] -Gardr looks at the order slip again.-
+[NPC] Gardr: Next we need a Spiked Warhammer.
+[NPC] Gardr: Here is your Spiked Warhammer.
+[NPC Narrate] -Gardr examines the Spiked Warhammer and smiles before putting it in the crate.-
+[NPC] Gardr: This is excellent.
+[NPC Narrate] -Gardr looks at the order slip again.-
+[NPC] Gardr: Finished.
+[NPC] Gardr: Now I need you to deliver this.
+[NPC] Gardr: Yes, I will deliver to Axomir?
+[NPC] Gardr: That is the complete order.
+[NPC] Gardr: Can you deliver it?
+[NPC Narrate] -Gardr hands the crate to you.-
+[NPC] Gardr: Axomir will give you a receipt.
+[NPC Narrate] -Gardr Smiles.-
+
+[To] Axomir
+
+[NPC] Axomir: Here are the Maces for the Barn level.
+[NPC Narrate] -Axomir puts his work down.-
+[NPC] Axomir: Thank you.
+[NPC] Axomir: At least Gardr was quicker at completing the order than collecting it.
+[NPC Narrate] -Axomir writes a receipt.-
+[NPC] Axomir: Please deliver this to Gardr.
+[NPC] Axomir: I would love to chat but I am busy.
+[NPC Narrate] -Axomir returns to his work.-
+[NPC] Axomir: Here is your receipt.
+[NPC] Axomir: I would thank Talad, but you have been far more useful to me.
+[NPC Narrate] -Gardr takes a book from a shelf and hands it to you.-
+[NPC] Axomir: Here is my spare copy of Platinum Steel Hammers and Maces.
+[NPC] Axomir: Also some tria for your work, Jilare.
+[NPC Narrate] -Gardr hands you a fat pouch of tria.-
+[NPC] Axomir: I have one concern though, Sir.
+[NPC Narrate] -Gardr smiles.-
+[NPC] Axomir: You have the skill to become a rival one day.
+[NPC] Axomir: I hope we can continue to work together.
+[NPC] Axomir: Take these to get you started with the book.
+
+[Reward] [Money] 45628; [XP] 10800; [Item] 1, Platinum Steel Hammer; [Item] 1, Mace; [Item] 10, Platinum Steel Ingot; [Faction] 1, Smith Association
+

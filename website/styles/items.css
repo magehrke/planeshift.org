@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* For quests section */
+
+
+
+
+
+.items_main_table {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+
+	.items_main_table a {
+		color: #FFF;
+	}
+
+	.items_main_table a:hover {
+		color: #99CCFF;
+		text-decoration: none;
+	}
+	
+
+	.items_main_table td {
+		vertical-align: top;
+	}
+
+	.items_main_table img {
+		height: 30px;
+	}

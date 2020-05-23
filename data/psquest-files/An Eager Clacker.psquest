@@ -1,0 +1,103 @@
+[Questname] An Eager Clacker
+[NPC Name] Sysial Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Tribute of Circles; [Item] 1, Clacker Phial
+
+[To] Sysial Shillor
+
+[NPC Internal] gives Sysial the clacker phial.
+[NPC Narrate] -Sysial glances at the phial and then to you.-
+[NPC] Sysial: Interesting…so I am to test you it seems.
+[NPC Narrate] -Sysial laughs.-
+[NPC] Sysial: You must truly have a talent for causing others pain and dismay, or you would not have been sent to me.
+[NPC] Sysial: It makes me wonder if you truly understand what path you have begun to take.
+[NPC] Sysial: I suppose Relliom did not tell you who we serve…
+[NPC Narrate] -Sysial studies your reaction closely.-
+[NPC] Sysial: I can tell you only a little.
+[NPC] Sysial: Our Master is the true ruler of all of Yliakum and beyond.
+[NPC] Sysial: We are nothing, yet everything in our Master's shadow.
+[NPC] Sysial: The power I will…
+[NPC Narrate] -Sysial shakes her head with a small smile and corrects herself.-
+[NPC] Sysial: …we will be granted transcends all known powers.
+[NPC Narrate] -Sysial stops and narrows her eyes at you.-
+[NPC] Sysial: That power comes with great sacrifice.
+[NPC] Sysial: Every move you make must be draped by darkness.
+[NPC] Sysial: Every step that moves you forward will be built on the blood and pain of those who are not worthy.
+[NPC] Sysial: Pray that you are not one of the unworthy.
+[NPC] Sysial: Tell me now, are you willing to devote your life to this new Master?
+[NPC Internal] Yes, I am.
+[NPC] Sysial: Then it is time.
+[NPC Narrate] -Sysial uncorks the phial and sprinkles it in her hand. The smell of dried herbs, clacker meat, and something unidentifiable fills the air.-
+[NPC] Sysial: This will not hurt…
+[NPC] Sysial: much.
+[NPC Narrate] -Sysial blows the powder into your face and everything goes dark.-
+
+[To] Intelligent Clacker
+
+[NPC Internal] Hello?
+[NPC Narrate] -The clacker waves his front legs lazily in front of him, then slowly turns his black-bead eyes on you.-
+[NPC] Intelligent: You're an odd thing.
+[NPC] Intelligent: Cut-throat.
+[NPC] Intelligent: Deceitful.
+[NPC] Intelligent: Defender.
+[NPC] Intelligent: Charmer.
+[NPC Narrate] -Clacker rubs his antennae together, making a sound that is almost like a laugh.-
+[NPC] Intelligent: You wonder why you are here?
+[NPC Internal] You can talk ?
+[NPC] Intelligent: No, no.
+[NPC] Intelligent: No time for idle chat.
+[NPC] Intelligent: Things to do.
+[NPC] Intelligent: Yes.
+[NPC Narrate] -Clacker's glassy orb eyes drift about the room seemingly without focus, each one going its own direction.-
+[NPC] Intelligent: Many many things to do.
+[NPC Narrate] -Clacker's eyes both snap back to you and he whispers his next words.-
+[NPC] Intelligent: You know she has to die, yes?
+[NPC Internal] She? Who is she?
+[NPC] Intelligent: The woman!
+[NPC] Intelligent: Find her!
+[NPC] Intelligent: She has my green ribbon.
+[NPC] Intelligent: I want it back.
+[NPC] Intelligent: Go now!
+[NPC] Intelligent: Take the life to take the ribbon, newling.
+
+[To] Peasant Woman
+
+[NPC Internal] I was sent to retrieve the ribbon.
+[NPC] Peasant: No!
+[NPC] Peasant: It is mine.
+[NPC] Peasant: I am going to give it to my child when she is born.
+[NPC] Peasant: It is my family's way.
+[NPC] Peasant: I will never give it up!
+[NPC Internal] The clacker told me to kill you to get it.
+[NPC] Peasant: Please, you must help me!
+[NPC] Peasant: Tell it…tell it to let me go.
+[NPC Narrate] -You kill the Peasant Woman and loot a Green Ribbon.-
+
+[To] Intelligent Clacker
+
+[NPC Internal] Torol gives the clacker the ribbon.
+[NPC] Intelligent: Look at that.
+[NPC] Intelligent: I believe it is what you came for.
+[NPC] Intelligent: I do hope you had no problems.
+[NPC] Intelligent: Peasants can be so unpleasant.
+[NPC] Intelligent: Terrible pests, if you ask me.
+[NPC] Intelligent: Now then, on to business.
+[NPC] Intelligent: Please pass this ribbon on to my mistress.
+[NPC] Intelligent: I did enjoy our little talk, but I must taste you now.
+[NPC Narrate] -Clacker suddenly leaps at your face.-
+
+[To] Sysial Shillor
+
+[NPC Internal] gives Sysial the ribbon.
+[NPC] Sysial: Welcome back…
+[NPC Narrate] -Sysial smiles.-
+[NPC] Sysial: Perhaps I used a little too much, but you seem unharmed.
+[NPC Narrate] -Sysial smooths the ribbon.-
+[NPC] Sysial: No more questions.
+[NPC] Sysial: Take this ribbon to Relliom.
+[NPC] Sysial: You and I will never speak of this again.
+
+[Reward] [Money] 5130; [XP] 14540; [Item] 1, Green Clacker Ribbon; [Faction] 25, Cabal of Whispers
+

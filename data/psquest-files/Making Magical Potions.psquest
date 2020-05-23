@@ -1,0 +1,113 @@
+[Questname] Making Magical Potions
+[NPC Name] Liera Zireti
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Liera's Cure; [Skill] 15, Alchemy (20 to complete the quest though)
+
+[To] Liera Zireti
+
+[NPC Internal] I am ready to learn more about alchemy.
+[NPC] Liera: So you are, YOU.
+[NPC] Liera: Then let's move onto the next phase of your alchemy instruction.
+[NPC] Liera: I have a new book for you.
+[NPC] Liera: I imagine you want to know what this phase of alchemy is all about?
+[NPC Internal] Of course.
+[NPC Narrate] -Liera smiles.-
+[NPC] Liera: It is all about magic.
+[NPC] Liera: Are you skilled or interested in magic?
+[NPC Internal] Very much so.
+[NPC] Liera: Great, then perhaps you'll find this book most useful.
+[NPC] Liera: Various elements have been proven to be associated with the Ways of magic.
+[NPC] Liera: Which Way are you best at or most interested in?
+[NPC Internal] Red Way.
+[NPC] Liera: Then let's make a potion with a Fire Element.
+[NPC Narrate] -Liera hands you a new book.-
+[NPC] Liera: This book is called “Alchemical Concoctions.” The potions made with its instructions are called Affinity potions.
+[NPC] Liera: They each boost skill in a magic Way.
+[NPC] Liera: Each Way is associated with an element.
+[NPC] Liera: For Red Way, it is Fire Element.
+[NPC] Liera: For Azure Way, it is Air Element.
+[NPC] Liera: Blue is Water and Brown is Earth.
+[NPC] Liera: Crystal and Dark Ways are a bit different, drawing their energies from the Azure Sun and Dark Crystal, respectively.
+[NPC] Liera: There are two classes of Affinity potions; regular potions and major potions.
+[NPC] Liera: Naturally, major potions require more skill, five additional lessons should do.
+[NPC] Liera: So, you can give it a try or I can walk you through the process, which do you prefer?
+[NPC Internal] I'd like to hear more.
+[NPC] Liera: No problem.
+[NPC] Liera: Affinity potions require an herbal element, a mineral element, and an essence.
+[NPC] Liera: I'll explain the essence in a bit.
+[NPC] Liera: For this particular potion, called a Potion of Fire Element Affinity, you'll need some Red Mangrove Pulp, made from Red Mangrove Leaf of course, which will require your herbal skills.
+[NPC] Liera: You'll also need some Iron Ore Solution, which you can make using your Basic Potions Tome, and finally a Fire Essence.
+[NPC Internal] Fire Essence?
+[NPC] Liera: Yes, now I explain essences.
+[NPC] Liera: These are usually made from animal parts and reagents.
+[NPC] Liera: Often times, several different animal parts can make the same essence, though using some parts may require higher skill than others.
+[NPC] Liera: For Fire Essence, you have a choice of parts from the Fire Carkarass or the Toxic Grendol.
+[NPC] Liera: The Toxic Grendol blood takes higher skill so let's take the Fire Carkarass for starters.
+[NPC] Liera: So here's what you'll need to have: a Carkarass Fire Feather, a Carkarass Fire Carapace, some Red Mangrove Pulp and an Iron Ore.
+[NPC] Liera: Also be sure to have 2 Distilled Waters.
+[NPC] Liera: Maybe you have some of these things stocked up, or you can go buy or get them.
+[NPC Internal] I made the Fire Essence, what next?
+[NPC] Liera: Then the final phase is to take your Red Mangrove Pulp, Iron Ore Solution, and a Fire Essence, and combine them into a raw potion on the table.
+[NPC] Liera: Take the raw potion to the stove and stir with a wooden stirrer until you have a final potion.
+[NPC Internal] How do I make Iron Ore Solution?
+[NPC] Liera: It's pretty easy even if you have never done it before.
+[NPC] Liera: It's in your Basic Potions Tome.
+[NPC] Liera: Remember to have that on your mind, then take an Iron Ore and pound it into a powder on the table using your wooden mallet.
+[NPC] Liera: Then take the powder and combine it with 2 Oil of Vitriols.
+[NPC] Liera: Finally, take that mix and put it in the Crucible, stirring with a Glass Stirrer which will give you 2 Iron Ore Solutions.
+[NPC Internal] I did it.
+[NPC Narrate] -Liera nods approvingly.-
+[NPC] Liera: Very good, YOU.
+[NPC] Liera: Potions for other ways are similar.
+[NPC] Liera: Crystal Way uses crystals instead of animal parts.
+[NPC] Liera: It's just a matter of looking through the book and figuring out all the ingredients you need.
+[NPC] Liera: Any questions?
+[NPC Internal] How are do you make potions of the other Ways?
+[NPC] Liera: All of the Affinity potions are similar.
+[NPC] Liera: Each requires different ingredients for the elements: herbal, mineral, and essence.
+[NPC] Liera: For the basic potions, Azure, Blue, and Crystal Ways require Wyn Pulp while Brown, Red, and Dark Ways require Red Mangrove Pulp.
+[NPC] Liera: For the major potions you'll just need to make a paste instead of pulp.
+[NPC] Liera: For the mineral elements: it's quicksilver for Azure Way, tin for Blue, zinc for Brown, iron for Red, copper for Crystal, and silver for Dark.
+[NPC] Liera: For major potions you'll use ingots instead of ores.
+[NPC] Liera: And, finally, different animal parts make different essences, except for Crystal Way which uses gems…too many to mention…just check your book for the details.
+[NPC Internal] How exactly do these things boost skills in magic?
+[NPC] Liera: Ah, very good question.
+[NPC] Liera: These mixtures all contain chemicals…chemicals created from these various herbal, mineral, and animal or essence components.
+[NPC] Liera: When one drinks the potion, these chemicals mix with the chemicals already in our bodies to give us the energy we need to perform tasks.
+[NPC] Liera: In your earlier work you discovered potions to help attributes like intelligence, stamina, strength, agility, and so forth.
+[NPC] Liera: These particular potions do the same to help focus your energies with your existing skill in magic.
+[NPC] Liera: Beyond that, perhaps only the gods know why these chemicals have the effects they do.
+[NPC Internal] Are potions one Way only, or can I combine Ways?
+[NPC] Liera: Ah yes, we didn't go through that, did we?
+[NPC] Liera: You're quite right, you can make combinations of the essences to make potions that affect multiple ways, but like with magic, itself, mixing Ways takes greater skill, and only some combinations can be made.
+[NPC] Liera: For instance, you can make what's called a Murky Essence by making a mix of Fire, Earth, and Illness Essences.
+[NPC] Liera: You can also make a Bright Essence from a mix of Air, Water, and Crystal Essences.
+[NPC] Liera: You can then combine a Murky Essence with Red Mangrove Pulp and Silver Solution to make a Minor Potion of Fire Dark and Earth Affinity.
+[NPC] Liera: A Bright Essence can be combined with Wyn Pulp and Gold Solution to make a Minor Potion of Water Crystal and Air Affinity.
+[NPC] Liera: You'll need about 30 lessons total to make those.
+[NPC Internal] How is your family on the third level?
+[NPC] Liera: Oh, they are fine.
+[NPC Narrate] -Liera smiles.-
+[NPC] Liera: That plague was not entirely wiped out but the cure you helped me with made a big difference.
+[NPC] Liera: Many lives were saved because of what we did then.
+[NPC] Liera: And my family members down there have all been accounted for.
+[NPC Internal] What was that Universal Panacea you made?
+[NPC] Liera: Mmm, well, that's not supposed to be widely known so let's keep that between us.
+[NPC] Liera: There are those that were not happy I was talking about it freely, but I didn't have time to consider their sensitivities.
+[NPC] Liera: You see, that is a branch of alchemy called The Great Work.
+[NPC] Liera: It's also known as mystic alchemy.
+[NPC] Liera: I got this book during my training which helped me make it but it is not easy.
+[NPC] Liera: You need a lot of training to pull that off.
+[NPC] Liera: If you ever get to that point, look into the spiritual side of alchemy if you train with Vladovic some day.
+[NPC Internal] What comes next?
+[NPC] Liera: Continue getting training and practice with these potions.
+[NPC] Liera: When you are ready, after about fifteen more lessons, I want you to see Chired in Ojaveda.
+[NPC] Liera: Her specialty is healing potions like the ones I sell.
+[NPC] Liera: She will walk you through those and you can continue getting training from either of us.
+[NPC Internal] Thanks for your help. I don't have any more questions.
+[NPC] Liera: You're most welcome, and good luck with your training!
+
+[Reward] [XP] 15000; [Item] 1, Alchemical Concoctions; [Faction] 30, Science Association
+

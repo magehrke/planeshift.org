@@ -1,0 +1,89 @@
+[Questname] Talad's eyes-and-ears
+[NPC Name] Murago Puntjal
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A message for Dsar Sarraghi; [Item] 1, Mercenary Helmet; [Item] 1, High-Quality Amulet
+
+[Info] You get the Mercenary Helmet from the Dark Circle Hunt quest and the High-Quality Amulet from the Sharven Holy Script quest.
+
+[To] Murago Puntjal
+
+[NPC Internal] I'm back to see if you need anything else.
+[NPC] Murago: The faithful one returns yet again.
+[NPC] Murago: My eyes-and-ears tells me your name is YOU.
+[NPC] Murago: I can't tell you who my eyes-and-ears is, for I do not know who might be listening.
+[NPC] Murago: I do have another task for you, if you can handle some investigative work.
+[NPC] Murago: Can you?
+[NPC Internal] Yes, I’m up for an investiagion.
+[NPC] Murago: I knew I could count on you.
+[NPC] Murago: We suspect the Temple of Laanx is up to something.
+[NPC] Murago: My eyes-and-ears has been watching them.
+[NPC] Murago: I want you to find my eyes-and-ears with the code “the pterosaur flies north.” The response will be “the Megaras flies south.” Then ask about the report and return to me for further instructions.
+[NPC] Murago: It is imperative the Temple of Laanx is unaware of our actions.
+[NPC] Murago: Do not let them know.
+
+[To] Pauril Rentaurin
+
+[NPC Internal] the pterosaur flies north
+[NPC] Pauril: The Megaras flies south.
+[NPC Internal] I need the report.
+[NPC] Pauril: Take it.
+[NPC] Pauril: Go quickly.
+
+[Possible Ways] 2
+
+[Way] 1
+
+[To] Murago Puntjal
+
+[NPC Internal] gives Murago the sealed report.
+[NPC Narrate] -Murago breaks the seal and reads the letter.-
+[NPC] Murago: It would appear Menlil Toresun is plundering the ruins and using the artifacts in some sort of ritual.
+[NPC] Murago: His next target appears to be two identical cups found in both the ruins by the Bronze Doors and on the road to same.
+[NPC] Murago: Collect those cups and bring them to me.
+[NPC] Murago: Hopefully, we'll see what the attraction is.
+
+[To] Canyt Klannarr
+
+[NPC Internal] I'm here to pick up the cup.
+[NPC] Canyt: I have indeed come across such a cup.
+[NPC] Canyt: I shall trade it for a helmet.
+[NPC] Canyt: Something that will protect my head from falling rock, but not too flashy.
+[NPC] Canyt: A nice conservative helm.
+[NPC] Canyt: Then you get your cup.
+[NPC Internal] gives Canyt a mercenary helm.
+[NPC] Canyt: Yes, this helm will do nicely.
+[NPC] Canyt: Thank you, and here is the cup.
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] I'm here to pick up the cup.
+[NPC] Nyshyn: No need to be so hasty.
+[NPC] Nyshyn: Menlil told me he'd be sending someone from the temple.
+[NPC] Nyshyn: All I need now is an amulet as proof.
+[NPC] Nyshyn: Give me the amulet, I'll give you the cup.
+[NPC Internal] Here's the amulet.
+[NPC] Nyshyn: And here's your cup.
+[NPC] Nyshyn: Always a pleasure doing business with the Temple of Laanx.
+
+[To] Murago Puntjal
+
+[NPC Internal] I've got both cups. Here you go.
+[NPC] Murago: You have proven yourself a good and obedient servant of Talad.
+[NPC] Murago: I think you are ready to receive this blessing.
+[NPC] Murago: Be well, YOU.
+
+[Way] 2
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Murago has concerns about what you are doing.
+[NPC] Sharven: The Church of Talad has never trusted us.
+[NPC] Sharven: Our sacred rituals are none of their concern.
+[NPC] Sharven: At least with this information, I can deal with it effectively.
+[NPC] Sharven: Thank you, and take this with the thanks of our temple.
+
+[Reward] [Way 1] [XP] 12200; [Item] 1, Amulet of Talad; [Faction] 25, Conclave of the Glyphs
+[Reward] [Way 2] [XP] 12200; [Item] 1, Gold Ingot; [Faction] 55, Iron Hand; [Faction] -50, Conclave of the Glyphs
+

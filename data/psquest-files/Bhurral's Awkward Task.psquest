@@ -1,0 +1,104 @@
+[Questname] Bhurral's Awkward Task
+[NPC Name] Jirosh Mikana
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes
+
+[NPC Internal] Can I help with something again?
+[NPC] Levrus: Greetings, Maddam. I find I am in need of your help again.
+[NPC] Levrus: Will you do something for me?
+[NPC Internal] You can count on me.
+[NPC] Levrus: This is a bit…
+[NPC] Levrus: uncomfortable.
+[NPC Narrate] -Bhurral scowls and lowers her eyes to the ground briefly.-
+[NPC] Levrus: My commander has asked me to investigate the rogue activities around the Mikana Trading Company and make a report.
+[NPC] Levrus: I have done so, but now I have been ordered to deliver a copy to Jirosh Mikana as well; he is quite influential in Ojaveda and is able to demand such things.
+[NPC] Levrus: For reasons of my own, that will stay my own, I do not wish to deliver this in person.
+[NPC Narrate] -Bhurral hands you a bulky stack of papers.-
+[NPC] Levrus: Please see that this gets delivered to Jirosh.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Here is a report on rogue activity from Bhurral Varsheen.
+[NPC Narrate] -Jirosh scans through the document.-
+[NPC] Jirosh: I see my sister has been painfully thorough.
+[NPC Narrate] -Jirosh smiles sadly.-
+[NPC] Jirosh: I imagine you had no idea that Bhurral and I are related.
+[NPC] Jirosh: She has been estranged from the rest of the Mikanas for a few years now.
+[NPC] Jirosh: The family thought her choice of profession too lowly for a Mikana.
+[NPC] Jirosh: When she married another guard, Khirimm, it caused a complete rift.
+[NPC] Jirosh: I would like to mend the wound, but I have no clue how to start.
+[NPC Narrate] -Jirosh's expression becomes determined as he looks down at the report again.-
+[NPC] Jirosh: Perhaps I do have a clue, and you have just given it to me.
+[NPC Narrate] -Jirosh hastily scribbles some notes on the report and hands it back to you.-
+[NPC] Jirosh: Please, take this to my brother Phanejor.
+[NPC] Jirosh: Perhaps seeing her talents will sway him, and my note will help remove his stubbornness.
+
+[To] Phanejor Mikana
+
+[NPC] Phanejor: Excellent, my good Ynnwn.
+[NPC] Phanejor: I have been awaiting this.
+[NPC] Phanejor: Please stay a few moments while I peruse the document; I may have a reply to send back.
+[NPC Narrate] -As Phanejor reads, his brows arch in astonishment.-
+[NPC] Phanejor: Bhurral Varsheen wrote this… did this?
+[NPC] Phanejor: It is superlative piece of work.
+[NPC] Phanejor: Well, she always did have talents far above the station in life she chose for herself.
+[NPC Narrate] -Phanejor frowns, then shakes himself.-
+[NPC] Phanejor: I am keeping you waiting.
+[NPC] Phanejor: Allow me to read my brother's addendum and I will be finished.
+[NPC Narrate] -Phanejor gasps.-
+[NPC] Phanejor: He says…
+[NPC] Phanejor: he says…
+[NPC] Phanejor: 'She has lost Khirimm to True Death as he performed his duties, must she go without our support as well?' I did not know!
+[NPC] Phanejor: We have all cut ourselves off from her so completely.
+[NPC] Phanejor: I am so shamefully stubborn.
+[NPC] Phanejor: Jirosh has obviously had more concern for our poor sister than I have; I will trust him to know how to proceed.
+[NPC] Phanejor: Go to my brother as soon as may be, and tell him I grieve for Bhurral.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Phanejor grieves for Bhurral.
+[NPC] Jirosh: Yes, I do as well, and it is up to me to let her know that.
+[NPC] Jirosh: I will write a letter for you to take to her…
+[NPC] Jirosh: hopefully she will think it is official business and read it instead of tearing it up.
+[NPC] Jirosh: Give me a moment.
+[NPC Narrate] -Jirosh pulls out quill and paper and begins to write.-
+[NPC Narrate] -After a good while and many false starts, Jirosh seals the letter and hands it to you.-
+[NPC] Jirosh: Please, take this to my sister.
+
+[To] Bhurral Varsheen
+
+[NPC Internal] Jirosh Mikana instructed me to deliver this response.
+[NPC] Bhurral: I was very careful to make sure my report was complete.
+[NPC] Bhurral: I wonder what Jirosh could possibly have to say about it?
+[NPC Narrate] -Bhurral reads, and as she does, her tail droops. When she finally speaks, her voice is very quiet.-
+[NPC] Bhurral: I was not expecting this, YOU.
+[NPC] Bhurral: Not at all.
+[NPC] Bhurral: From Jirosh, perhaps, but not Phanejor.
+[NPC Narrate] -Bhurral's mouth twists up at one corner.-
+[NPC] Bhurral: Phanejor and I are twins in hardheadedness.
+[NPC] Bhurral: This one letter is not nearly enough to mend the breach, but it is a beginning.
+[NPC] Bhurral: I am off duty soon.
+[NPC] Bhurral: Please go tell Jirosh to meet me at Brado's, and we will see what we see.
+[NPC] Bhurral: I will wait for his answer.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Bhurral wants to meet at Brado's.
+[NPC Narrate] -Jirosh smiles at you, his eyes growing wet.-
+[NPC] Jirosh: Please, yes.
+[NPC] Jirosh: Tell her I will meet her and take this for your pains and kindness.
+[NPC Narrate] -Jirosh reaches into a small pouch and pulls out a glyph, he looks at it a moment before handing it to you.-
+[NPC] Jirosh: I hope this can help you along the way as much as you have helped me.
+
+[To] Bhurral Varsheen
+
+[NPC Internal] Jirosh agrees to the meeting at Brado's.
+[NPC] Bhurral: Thank you, YOU.
+[NPC] Bhurral: You are more than you seem.
+[NPC Narrate] -Bhurral hands you some octa.-
+[NPC] Bhurral: I hope this is enough for your time.
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Life glyph; [Faction] 20, Guard
+

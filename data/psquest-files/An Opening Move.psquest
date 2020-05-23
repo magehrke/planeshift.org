@@ -1,0 +1,90 @@
+[Questname] An Opening Move
+[NPC Name] Kisatol Gathoji
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Kisatol Gathoji
+
+[NPC Internal] Do you have any jobs laying around I could help with.
+[NPC] Kisatol: Well, well.
+[NPC Narrate] -Kisatol gives you a dead-eye stare.-
+[NPC] Kisatol: The Stonehammer wants to help.
+[NPC] Kisatol: How sweet and heroic.
+[NPC] Kisatol: So tell me, Stonehammer, or shall I say YOU, are you the heroic type?
+[NPC Narrate] -Kisatol looks at you mockingly.-
+[NPC Internal] maybe
+[NPC] Kisatol: Not bad, Trepor breath.
+[NPC Narrate] -Kisatol flashes you an insincere smile.-
+[NPC] Kisatol: With a bit of luck you might one day be able to hold up your end of a conversation.
+[NPC] Kisatol: Now tell me, who is the Lieutenant of the northern guards of Hydlaa?
+[NPC Internal] jefecra
+[NPC] Kisatol: Right.
+[NPC Narrate] -Kisatol nods to himself.-
+[NPC] Kisatol: Always know the opposi…
+[NPC] Kisatol: the landscape.
+[NPC] Kisatol: This is what I want.
+[NPC] Kisatol: Go to Hydlaa and get me the betting odds for the upcoming Octarch's Chess tournament.
+[NPC Narrate] -Kisatol's mocking smile returns.-
+[NPC] Kisatol: It should not prove too difficult for someone with your…
+[NPC] Kisatol: outstanding abilities.
+[NPC Narrate] -Kisatol smirks.-
+[NPC] Kisatol: Do try not to get robbed on the way.
+
+[To] Darven Bounash
+
+[NPC Internal] Do you know the betting odds for the Octarch's chess tournament.
+[NPC] Darven: Ah.
+[NPC Narrate] -Darven beams at you.-
+[NPC] Darven: A kindred spirit.
+[NPC] Darven: A fellow dabbler in the arts of chance.
+[NPC] Darven: Let me see.
+[NPC Narrate] -Darven rummages about his person and eventually produces a weathered scrap of paper.-
+[NPC] Darven: Er…
+[NPC] Darven: I have calculated preliminary odds but there are based on last year's event.
+[NPC Narrate] -Darven thinks a bit.-
+[NPC] Darven: If you can get me a list of this year's participants I can work out starting odds.
+[NPC] Darven: If I'm not mistaken, Talisa Tamariss is involved in organising the event.
+[NPC] Darven: If you ask her about the tournament I'll lay you six to four she might be able to help.
+
+[To] Talisa Tamariss
+
+[NPC Internal] I am looking forward to the chess tournament. Any news on it?
+[NPC] Talisa: This is going to be such a great tournament.
+[NPC] Talisa: The Vigesimi herself agreed to play this year.
+[NPC] Talisa: And most of the best players in Yliakum have entered.
+[NPC Narrate] -Talisa smiles happily.-
+[NPC] Talisa: You may have a copy of the tournament list.
+
+[To] Darven Bounash
+
+[NPC Internal] I got the list.
+[NPC] Darven: Just what I needed.
+[NPC Narrate] -Darven scans the list.-
+[NPC] Darven: Impressive field.
+[NPC Narrate] -Darven whistles.-
+[NPC] Darven: And the Vigesimi too!
+[NPC Narrate] -Darven takes out a piece of paper and starts to scribble furiously. He writes for minute or two and then stops to look his list over.-
+[NPC] Darven: There.
+[NPC] Darven: That looks about right.
+[NPC] Darven: All yours.
+[NPC Narrate] -Darven gives you the list of odds.-
+[NPC] Darven: If you happen to find any interested bettors, just send them my way.
+[NPC Narrate] -Darven gives you a sly wink.-
+
+[To] Kisatol Gathoji
+
+[NPC] Kisatol: So the Stonehammer returns.
+[NPC Narrate] -Kisatol examines the list and mumbles to himself.-
+[NPC] Kisatol: Good.
+[NPC] Kisatol: She is playing after all.
+[NPC] Kisatol: We can set things in motion then.
+[NPC Narrate] -Kisatol looks up at you.-
+[NPC] Kisatol: Still here?
+[NPC] Kisatol: Now I expect you want a little something for your trouble.
+[NPC Narrate] -Kisatol digs into his pockets and flicks you a few coins.-
+[NPC] Kisatol: Try not to spend it all in one place.
+
+[Reward] [Money] 2107; [XP] 10800; [Faction] 10, Thieves Organization
+

@@ -1,0 +1,108 @@
+[Questname] A new mace for Nevis
+[NPC Name] Moren Findel
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Items Can Break a Friendship; [Item] 1, Threestem Wood; [Item] 2, Leather Strings; [Item] 8, Steel Ingots; [Item] 1, Hammer
+
+[To] Moren Findel
+
+[NPC Internal] Can I help you?
+[NPC] Moren: Yes, you are the Enkidukai that helped me and my friend Nevis Revori.
+[NPC] Moren: I need you to do me a favour in secret from Nevis.
+[NPC] Moren: Are you willing to do this?
+[NPC Internal] Of Course, I will happily help.
+[NPC] Moren: I am glad.
+[NPC] Moren: He is really fond of his mace but it is worn and its head is loose.
+[NPC] Moren: I want to get him a new one for his birthday.
+[NPC] Moren: Only problem is I want to keep it a secret.
+[NPC] Moren: Nevis is friends with Harnquist, so to be safe you should try and get one from Gardr in Gugrontid.
+[NPC Internal] I will be off to Gardr then.
+[NPC] Moren: I am glad.
+[NPC] Moren: I can't wait to see it.
+[NPC] Moren: Oh, I just realised there are lots of types of maces…
+[NPC] Moren: Maybe you can get a Flanged Mace.
+[NPC] Moren: I'm sure Gardr can help.
+
+[To] Gardr Keck
+
+[NPC Internal] I have been sent by Moren Findel to buy a Flanged Mace.
+[NPC] Gardr: Sorry, I don't have any made just at the moment.
+[NPC] Gardr: But, if you get me the materials I could make one as a custom order.
+[NPC] Gardr: Does that sound ok?
+[NPC Internal] Yes, that sounds fine.
+[NPC] Gardr: Good.
+[NPC] Gardr: Now let’s see.
+[NPC] Gardr: Like all crafting everything starts with raw materials.
+[NPC] Gardr: To make a Flanged Mace I will need a piece of good threestem wood, two leather strings, newer the better.
+[NPC] Gardr: And of course some steel, eight ingots will do.
+[NPC Internal] Here are the materials you requested.
+[NPC] Gardr: You are back, excellent.
+[NPC] Gardr: I was thinking while you were away, and I thought if you are interested that you could make the mace yourself?
+[NPC] Gardr: With my guidance of course.
+[NPC Internal] That sounds good, I like crafting.
+[NPC] Gardr: Great, now to get started you will need the necessary tools.
+[NPC] Gardr: Here are a spare wood chisel and wood saw.
+[NPC] Gardr: I hope you already have a hammer, if not you can simply buy one from Harnquist, over in Hydlaa.
+[NPC] Gardr: He always has lots.
+[NPC Internal] I have the tools you asked me to get.
+[NPC] Gardr: Good, now I will teach you how to make a mace.
+[NPC] Gardr: The first step is to acquire at least basic training in two specific skills.
+[NPC] Gardr: To make a mace or hammer, you need both blacksmith and mace making skills.
+[NPC] Gardr: I can train you in mace making and Harnquist can get you started with blacksmith.
+[NPC] Gardr: You will, as with all crafting need a special book.
+[NPC] Gardr: I've got a number of spares so you can have one of them.
+[NPC Narrate] -Gardr picks up a soot covered book and after dusting it off slightly hands it to you.-
+[NPC] Gardr: It will tell you what quantities are required to make different items, and how to combine them all correctly.
+[NPC Internal] Do I need anything else?
+[NPC] Gardr: No.
+[NPC] Gardr: Now we will start.
+[NPC] Gardr: The first step we will take is to make the handle.
+[NPC] Gardr: To do this you need to put the threestem wood on the table and using the wood saw, saw it into wooden batons.
+[NPC] Gardr: Then you need to take one of the wooden batons and saw it in half.
+[NPC] Gardr: Return to me with a half wooden baton once you have made it.
+[NPC Internal] I have made a half wooden baton.
+[NPC] Gardr: Now, place the half wooden baton on the table and using your chisel shape the half wooden baton into a suitable shape.
+[NPC] Gardr: This is called a mace battle handle shape.
+[NPC] Gardr: Once shaped you then need to use two leather strings and combine them with the mace battle handle shape.
+[NPC] Gardr: This will give you a completed mace battle handle.
+[NPC Internal] I have made a Mace Battle Handle.
+[NPC] Gardr: Next you need to take the eight steel ingots you have and go over to the forge to heat them.
+[NPC] Gardr: Once heated, use your hammer and the anvil to shape them into a flanged mace head.
+[NPC] Gardr: Once you have that, use the table to combine the flanged mace head with the mace battle handle you made earlier.
+[NPC] Gardr: This will give you a flanged mace kit.
+[NPC] Gardr: And once you have that come back to me.
+[NPC Internal] I have made the flanged mace kit.
+[NPC] Gardr: Great!
+[NPC] Gardr: Now the final steps - take the flanged mace kit and use the riveter to create a flanged mace assembly.
+[NPC] Gardr: Once you have a flanged mace assembly, hammer it on the anvil to get a completed flanged mace.
+[NPC Internal] I have made a flanged mace.
+[NPC] Gardr: Congratulations, this is a good first effort.
+[NPC] Gardr: Keep practicing to improve.
+[NPC] Gardr: I will be able to give you lessons for now and as you gain skill you will be able to attempt the more difficult maces and hammers.
+[NPC] Gardr: Do you have any questions?
+[NPC Internal] What other things can I make?
+[NPC] Gardr: Initially you can make a club, mace and flanged mace.
+[NPC] Gardr: After every ten lessons or so you will be able to make more items.
+[NPC Internal] What other metals can I use?
+[NPC] Gardr: Initially you can only use steel.
+[NPC] Gardr: Once you are more experienced you can also use platinum steel.
+[NPC] Gardr: You will require another manual for this.
+[NPC] Gardr: We will discuss this later, once you become more experienced.
+[NPC Internal] When can I make battle and warhammers?
+[NPC] Gardr: After about ten lessons you will be able to make battle hammers and picks.
+[NPC] Gardr: After thirty lessons you can make a warhammer.
+[NPC Internal] When can I make two handed maces and clubs?
+[NPC] Gardr: After about twenty lessons you will be able to make two handed variants of mace and club.
+
+[To] Moren Findel
+
+[NPC Internal] Here is the mace you wanted.
+[NPC Narrate] -Moren smiles and checks to see Nevis isn't looking.-
+[NPC] Moren: This looks good.
+[NPC] Moren: Better than what he has, that's for sure.
+[NPC] Moren: Thank you for helping me again Enkidukai.
+[NPC] Moren: Here is some tria.
+
+[Reward] [Money] 2107; [XP] 10800; [Item] 1, Wood Chisel; [Item] 1, Wood Saw; [Item] 1, Catalog of Hammers; [Item] 1, Maces; [Faction] 1, Smith Association
+

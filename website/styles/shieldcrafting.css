@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author: Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* jobs/shieldcrafting CSS Script */
+
+.shieldcrafting_main_container {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}

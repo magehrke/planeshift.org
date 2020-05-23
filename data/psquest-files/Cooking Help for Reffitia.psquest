@@ -1,0 +1,65 @@
+[Questname] Cooking Help for Reffitia
+[NPC Name] Reffitia Thamal
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests; [Skill] 20, Cooking
+
+[To] Reffitia Thamal
+
+[NPC Internal] Hi, is there anything you need help with?
+[NPC] Reffitia: It is always nice to see people interested in the art of cooking.
+[NPC Narrate] -Reffitia bustles about the kitchen.-
+[NPC] Reffitia: It seems that there is to be a large dinner party arriving soon and I do not have time to chat.
+[NPC Narrate] -Reffitia runs over to a pot that has begun to boil over and starts stirring it fiercely.-
+[NPC] Reffitia: Bumbling bogo peppers, not again!
+[NPC] Reffitia: It seems I am back at the beginning, and the party of travelers should be here shortly.
+[NPC] Reffitia: Could you help me here in the kitchen with some simple preparation work?
+[NPC Internal] It would be my pleasure.
+[NPC] Reffitia: Splendid.
+[NPC] Reffitia: First let me see, do you have a kitchen knife that you can use?
+[NPC Internal] Yes, I do.
+[NPC] Reffitia: Great, would you please cut these pungent tubers over on the preparation table?
+[NPC Narrate] -Reffitia gives you the tubers.-
+[NPC] Reffitia: I need the tubers to be diced, not minced.
+[NPC] Reffitia: Please be careful.
+[NPC] Reffitia: If you cut the tubers too small I could use one minced tuber, but please try to do as I've asked.
+[NPC Internal] [You give Reffitia the diced tuber.]
+[NPC] Reffitia: Great.
+[NPC] Reffitia: Now I need a pot of boiling water.
+[NPC] Reffitia: Here, take this water and go put it on the stove in a pot.
+[NPC] Reffitia: Bring it back to me when it has come to a nice rolling boil.
+[NPC Internal] Where do you want me to put the pot with boiling water?
+[NPC Narrate] -Reffitia carefuly takes the pot of water and adds a few seasonings to it.-
+[NPC] Reffitia: There, that should get it going.
+[NPC] Reffitia: That needs to sit for a little while.
+[NPC] Reffitia: Would you please take this meat over to the grill and cook it?
+[NPC] Reffitia: It shouldn't take too long.
+[NPC] Reffitia: It is important to grill it just long enough for the meat to cook through, but not too long, or else it becomes dry and tough, or even worse…burnt!
+[NPC Internal] [You hand over the grilled meat.]
+[NPC Narrate] -Reffitia examines the steaks.-
+[NPC] Reffitia: These will do nicely, it seems that all will come together.
+[NPC] Reffitia: Oh goodness, it seems I almost forgot an important dish!
+[NPC] Reffitia: They love to have a mixed greens dish with a honey glaze topped with chopped nuts.
+[NPC] Reffitia: I must get the glaze going; could you please chop me up some mixed nuts?
+[NPC Narrate] -Reffitia goes over to the shelf and examines it. She rustles around a few jars and bottles.-
+[NPC] Reffitia: Here we go, one jar of mixed nuts.
+[NPC] Reffitia: Please take these mixed nuts, and cut them up please.
+[NPC Narrate] -Reffitia pours a bunch of nuts into your hand.-
+[NPC Internal] Here are the chopped nuts as requested.
+[NPC] Reffitia: Thank you so much, YOU, you have been quite a help.
+[NPC Narrate] -Reffitia takes the chopped nuts from you and sprinkles them over the dish.-
+[NPC] Reffitia: Perfect.
+[NPC Narrate] -Reffitia looks around at the kitchen.-
+[NPC] Reffitia: Well, there is quite a bit of cleanup.
+[NPC] Reffitia: I had better get started.
+[NPC] Reffitia: When you have had twenty five or so total lessons in both baking and cooking, come back to me.
+[NPC] Reffitia: If Brado keeps this up I may be in need of an apprentice.
+[NPC] Reffitia: Your kitchen knife, it suits you, let it help you master the ways of the kitchen.
+[NPC] Reffitia: And if you haven't begun training with Jomed yet in Hydlaa, I'd suggest doing so.
+[NPC] Reffitia: He can teach you about making meats and stews.
+[NPC Narrate] -Reffitia takes some coins and hands it to you.-
+[NPC] Reffitia: Here is some tria for a job well done.
+
+[Reward] [Money] 2107; [XP] 10800; [Faction] 15, Food Association
+

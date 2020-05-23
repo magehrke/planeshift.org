@@ -1,0 +1,54 @@
+[Questname] Jarop's Gem
+[NPC Name] Jarop Saven
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Flowers for Mirra; [Money] 20
+
+[To] Jarop Saven
+
+[NPC Internal] Do you have a task that I can do?
+[NPC] Jarop: A task?
+[NPC] Jarop: I do not even know you, Enkidukai.
+[NPC Narrate] -Jarop ponders a moment.-
+[NPC] Jarop: Well, I might have a task for you.
+[NPC] Jarop: There is a valuable gem I would like to see cut; could you do that for me?
+[NPC Internal] Yes.
+[NPC Narrate] -Jarop examines you carefully.-
+[NPC] Jarop: You should make sure it is returned to me as soon as possible.
+[NPC] Jarop: Do you know whom to ask to cut the gem?
+[NPC Internal] Ondren
+[NPC Narrate] -Jarop hesitates a moment before he hands you the gem.-
+[NPC] Jarop: Here, now hurry.
+[NPC] Jarop: I hope my trust in you does not prove a failure.
+
+[To] Ondren Torr
+
+[NPC Internal] [ YOU gives Ondren the gem.]
+[NPC Narrate] -Ondren examines the gem quickly with a trained eye before looking up at you.-
+[NPC] Ondren: This is a fine specimen.
+[NPC] Ondren: I've been looking for one like this for a while.
+[NPC] Ondren: What would you like to do with it?
+[NPC Internal] Could you cut it for me?
+[NPC] Ondren: Very well.
+[NPC] Ondren: I will cut it for you as soon as possible.
+[NPC] Ondren: The fee for a gem of this size is twenty tria.
+[NPC] Ondren: It is going to take a few minutes.
+[NPC] Ondren: Come back in a while with the tria and I should have it done.
+[NPC Narrate] -Ondren focuses kra's attention on the gem again.-
+[NPC Internal] [ YOU pays Ondren.]
+[NPC Narrate] -Ondren rummages in kras bag and gets a ball of paper out of it. Kra then unfolds the paper and the gem surfaces.-
+[NPC] Ondren: Here is your cut gem.
+[NPC] Ondren: Thank you for choosing the gemcutting guild.
+[NPC] Ondren: Have a good day, Madam.
+
+[To] Jarop Saven
+
+[NPC Internal] Here is the gem.
+[NPC] Jarop: You know that this was merely a test?
+[NPC] Jarop: The gem is totally worthless.
+[NPC Narrate] -Jarop pockets the gem, hands you a few coins, and looks at you.-
+[NPC] Jarop: Someday, I might have another task for you.
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Guard
+

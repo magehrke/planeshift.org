@@ -1,0 +1,21 @@
+package main;
+
+import com.notnoop.apns.*;
+
+public class Notifications {
+
+	public static void main(String[] args) {
+		
+		ApnsService service =
+			    APNS.newService()
+			    .withCert("/Desktop/PushNotification.p12", "Findus1993")
+			    .withSandboxDestination()
+			    .build();
+		
+		String payload = APNS.newPayload().alertBody("Can't be simpler than this!").build();
+		String token = "fedfbcfb....";
+		service.push(token, payload);
+
+	}
+
+}

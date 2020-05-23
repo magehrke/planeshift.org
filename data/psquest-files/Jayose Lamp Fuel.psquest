@@ -1,0 +1,44 @@
+[Questname] Jayose Lamp Fuel
+[NPC Name] Jayose
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Money] 200
+
+[To] Jayose
+
+[NPC Internal] Greetings Jayose, do you require anything for the library?
+[NPC] Jayose: I'm running a bit low on falka for my lamps.
+[NPC] Jayose: Would you go and fetch some for me?
+[NPC Internal] I will get it right away.
+[NPC] Jayose: All right.
+[NPC] Jayose: The falka can be obtained from the markets in Ojaveda, as it is one their local plants.
+[NPC] Jayose: They usually don't sell it to strangers, so tell them I need it.
+[NPC] Jayose: Return to me when you have some.
+
+[To] Toda Ombretis
+
+[NPC Internal] I am looking for some falka.
+[NPC] Toda: I don't sell falka to the public, as it's an Enkidukai resource, meant to be used by our city.
+[NPC] Toda: Who did you say to come here, again?
+[NPC Internal] Jayose sent me.
+[NPC] Toda: Ah yes.
+[NPC] Toda: The falka for the obstinate librian in Hydlaa.
+[NPC] Toda: He's a fussy one, he is.
+[NPC] Toda: He has not yet sent payment for this delivery.
+[NPC] Toda: It cost two hundred tria, as it is in low supply right now.
+[NPC Narrate] -Toda looks at you with her paws open.-
+[NPC Internal] counts the money and hands it to Toda.
+[NPC] Toda: Thank you, Tabei.
+[NPC] Toda: Here is your falka.
+
+[To] Jayose
+
+[NPC Internal] give the falka to Jayose.
+[NPC] Jayose: Well, I suppose it will do.
+[NPC] Jayose: I hereby recompense you for your trouble.
+[NPC] Jayose: Thanks!
+
+[Reward] [Money] 1297; [XP] 9400; 
+

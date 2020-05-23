@@ -1,0 +1,142 @@
+[Questname] Start of Red Way Adept Training
+[NPC Name] Ferryd Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Red Way Apprentice; [Item] 1, Might glyph; [Item] 2, Apprentice's Red Way Wands; [Skill] 60, Red Way
+
+[To] Ferryd Shillor
+
+[NPC Internal] Here are the two wands you requested as proof.
+[NPC] Ferryd: You will soon no longer be just an Apprentice of the Red Way, though you still have a long journey ahead of you.
+[NPC] Ferryd: Never think you know all there is to know either.
+[NPC] Ferryd: That is the path to folly, and I will be sure to trip you on the way.
+[NPC Narrate] -Ferryd hands back one wand with a friendly grin.-
+[NPC] Ferryd: Return this to your fellow student.
+[NPC] Ferryd: Your new wand will be ready soon.
+[NPC] Ferryd: We will be spending quite a bit of time together over the next weeks, and I am an easy man to get along with as long as you don't take yourself too seriously.
+[NPC] Ferryd: I'll need you to do a few small tasks for me now and again.
+[NPC] Ferryd: This will be the first.
+[NPC] Ferryd: Trasok, like any other smith, only wanted to learn enough Red Way to support his smithing skills.
+[NPC] Ferryd: It is for this reason that he now needs our help.
+[NPC] Ferryd: Now, normally I would love a jaunt off to him, but I have some business with Menita.
+[NPC] Ferryd: Lucky for me you are here, aye?
+[NPC Narrate] -Ferryd winks.-
+[NPC] Ferryd: Go on out there tell him I sent you and see what he wants.
+
+[To] Trasok Starhammer
+
+[NPC Internal] Ferryd Shillor sent me.
+[NPC] Trasok: You?
+[NPC] Trasok: Haven't I seen you in and out of here before?
+[NPC Narrate] -Trasok puts his hammer down and flicks his hand.-
+[NPC] Trasok: Doesn't matter if i have…
+[NPC] Trasok: My dilemma is as follows, I have ta' forge a part for the winch that is so heavy that even I lack the strength to move it with ease.
+[NPC] Trasok: No one strong enough can handle it with the precision that is needed.
+[NPC] Trasok: I am aware there is a strength spell that I was taught while in my training with the Reds and Ferryd.
+[NPC Narrate] -Trasok utters the last words with respect but hardly any admiration.-
+[NPC] Trasok: You see, I seem to have misplaced the Might Glyph that is needed for the task.
+[NPC] Trasok: I am a business man, so I'll make you this offer.
+[NPC] Trasok: If you would give me one, I will in return give you one of the more scarce and most powerful Red Way glyphs you will ever come across.
+[NPC Narrate] -Trasok holds his hand out with a Red Way glyph awaiting the exchange.-
+[NPC] Trasok: My skill with Red Way is nowhere near high enough to use it myself.
+[NPC Internal] One Might glyph for our exchange.
+[NPC] Trasok: Wise choice indeed.
+[NPC Narrate] -Trasok looks pleased with himself.-
+[NPC] Trasok: I could have traded that for at least three or four glyphs.
+[NPC] Trasok: So treat it with the respect it deserves.
+[NPC] Trasok: Oh, and tell Fe…
+[NPC] Trasok: Archmaster Ferryd I say thank you.
+[NPC] Trasok: No wait.
+[NPC] Trasok: Even better, hand him your new glyph and show him what a great trade you have made.
+[NPC Narrate] -Trasok starts laughing.-
+
+[To] Ferryd Shillor
+
+[NPC Internal] I have just traded Trasok for this Chaos glyph.
+[NPC Narrate] -Ferryd looks surprised then seems to realise something.-
+[NPC] Ferryd: I see what happened here, he traded you a valuable glyph for this.
+[NPC] Ferryd: What have you lost?
+[NPC] Ferryd: Tell me.
+[NPC Narrate] -Ferryd holds up his hand and laughs.-
+[NPC] Ferryd: Wait I know, it is a Might Glyph.
+[NPC] Ferryd: It is the same glyph I traded him for this very same one.
+[NPC Narrate] -Ferryd starts laughing again.-
+[NPC] Ferryd: I will admit I enjoy a good prank from time to time, I believe Trasok thought this was one of them.
+[NPC] Ferryd: Trasok stopped advancing in Red Way very early and would not have gotten to the skill to use it.
+[NPC] Ferryd: So Trasok tried to play a prank on one of my students and pranked himself yet again.
+[NPC Narrate] -Ferryd is about to hand you back the glyph, but pauses to changes it to another.-
+[NPC] Ferryd: I certainly do appreciate a good laugh so will replace your Might glyph for you.
+[NPC] Ferryd: But before I do I want you to tell me about the glyph you just received?
+[NPC Internal] [You hold the glyph in your hand and concentrate and answer; Chaos.]
+[NPC] Ferryd: That is the most obvious answer.
+[NPC] Ferryd: But also the most important, the Chaos glyph imparts the ability to both control and release 'chaos'.
+[NPC] Ferryd: Understanding the full aspect of every glyph you come into contact with will greatly improve your proficiency as a mage.
+[NPC Internal] [You hold the glyph in your hand and concentrate and answer; Entropy.]
+[NPC Narrate] -Ferryd nods.-
+[NPC] Ferryd: Wrong…
+[NPC] Ferryd: Well, no, right.
+[NPC Narrate] -Ferryd winks at you.-
+[NPC] Ferryd: Chaos and Entropy go hand in hand and the ability to control Red Way Chaos will let you effects its entropy as well.
+[NPC Internal] [You hold the glyph in your hand and concentrate and answer; Random.]
+[NPC] Ferryd: Again this is another aspect of this glyph.
+[NPC] Ferryd: If you think about Chaos you may also think about things being Random.
+[NPC] Ferryd: But this is also something to be wary off, as no matter how much control you think you have Chaos, or Randomness…
+[NPC] Ferryd: COULD BLOW OFF AN ARM.
+[NPC Narrate] -Ferryd throws his arms in the air.-
+[NPC] Ferryd: POW!!!!
+[NPC] Ferryd: If that happens then you'd wish you paid more attention to what I'm telling you.
+[NPC Internal] [You hold the glyph in your hand and concentrate and answer; Destruction.]
+[NPC Narrate] -Ferryd almost yells back at you.-
+[NPC] Ferryd: Destruction!!
+[NPC Narrate] -Ferryd snickers a little bit.-
+[NPC] Ferryd: Red Way is about power and strength and fury, all of these invariably lead to destruction.
+[NPC Internal] [You hold the glyph in your hand and concentrate and answer; Confusion.]
+[NPC] Ferryd: Yes, Chaos and Confusion.
+[NPC] Ferryd: Sound similar, no?
+[NPC Internal] Lastly Fire?
+[NPC Narrate] -Ferryd chuckles.-
+[NPC] Ferryd: Fire plays a strong role in The Red Way.
+[NPC] Ferryd: But is does not mean it has to be a part of each of it's glyphs.
+[NPC] Ferryd: I think you deserve to have your Might glyph now
+[NPC Narrate] -Ferryd hands you your glyph.-
+[NPC] Ferryd: Now, for your last task as an Apprentice, I want you to return your Lower Red Way Wand to Levrus.
+[NPC] Ferryd: Return to me after you have done so and I will have your first Adept item ready.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I was told to hand you this wand.
+[NPC] Levrus: A wand?
+[NPC Narrate] -Levrus shakes it.-
+[NPC] Levrus: Good, it doesn't rattle so you haven't broken it.
+[NPC] Levrus: Now, what would I do with such a thing?
+[NPC] Levrus: I am in spectacular shape and my trousers fit quite nicely.
+[NPC] Levrus: Made by the finest tailors, you see.
+[NPC] Levrus: But, since you are offering it too me, I can not refuse.
+[NPC Narrate] -Levrus takes a familiar box from under his counter and drops your wand in, then shakes it from side to side.-
+[NPC] Levrus: What is this?
+[NPC] Levrus: I seem to have a few items in here already.
+[NPC] Levrus: And one is another wand.
+[NPC] Levrus: Imagine that.
+[NPC] Levrus: I do wonder where they keep coming from.
+[NPC] Levrus: Well, I suppose I can offer them to you.
+[NPC] Levrus: If you don't want either of them, take this pie.
+
+[To] Ferryd Shillor
+
+[NPC Internal] I have returned.
+[NPC Narrate] -Ferryd removes a wand from a bag and gives it to you.-
+[NPC] Ferryd: Here is your new wand and with it you can now go by the rank of trainee Adept.
+[NPC] Ferryd: You will find that it is much better than you old.
+[NPC] Ferryd: Be sure you have returned the other apprentice wand to the person who gave it to you.
+[NPC] Ferryd: Now that you have begun on the path to becoming an adept, you will have to train much harder to obtain the level of skill you will need for your next test.
+[NPC] Ferryd: Once you are skilled enough, you may offer your Adept's wand to me to show that you are ready for your next test.
+[NPC Narrate] -Ferryd looks thoughtful.-
+[NPC] Ferryd: Also, you should soon obtain and study a glyph called Lightning.
+[NPC] Ferryd: There is a carpet merchant I once paid with a Lightning Glyph.
+[NPC] Ferryd: I can't recall the name now.
+[NPC] Ferryd: Not sure if he will part with it, but maybe if you help him some first he would.
+[NPC] Ferryd: Farewell, Adept.
+
+[Reward] [XP] 13600; [Item] 1, Chaos glyph; [Item] 1, Adept's Red Way Staff; [OR Begin] [Item] 1, Way Amulet [OR] [Item] 1, Apprentice's Brown Way Staff [OR End]; [Faction] 25, Red Order
+

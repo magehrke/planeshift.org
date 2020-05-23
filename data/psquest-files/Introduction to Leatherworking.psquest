@@ -1,0 +1,94 @@
+[Questname] Introduction to Leatherworking
+[NPC Name] Hirenn Darmeth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Item] 5, Rat Hides; [Item] 2, Riverling Skins
+
+[To] Hirenn Darmeth
+
+[NPC Internal] Can you teach me about leatherworking?
+[NPC] Hirenn: Ah, grrensholo, tabei!
+[NPC] Hirenn: So, you'd like to learn about the fine craft of leatherworking, eh?
+[NPC] Hirenn: I've been working with furs and skins since my father taught me this trade.
+[NPC] Hirenn: I will gladly teach you, but you should prove to me you know how to get the materials needed.
+[NPC] Hirenn: What do you say?
+[NPC Internal] Of course, what do you need?
+[NPC Narrate] -Hirenn smiles and nods at you.-
+[NPC] Hirenn: Excellent!
+[NPC] Hirenn: Well, it all starts with the hides, skins, or furs.
+[NPC] Hirenn: Many of Yliakum's creatures have hides which can be used to make leather.
+[NPC] Hirenn: Those leather pieces can then be used to make leather armor.
+[NPC] Hirenn: Different animal hides yield different leather sizes.
+[NPC] Hirenn: Rat hides are used for small pieces; Riverling, Tefusangling, Trepor, and Velnishi hides make medium sized pieces; and your Tefusang and Ulber variations are used for large pieces.
+[NPC] Hirenn: So, let's start with Rats and Riverlings.
+[NPC] Hirenn: Please bring me five Rat hides and two Riverling skins and we'll get started.
+[NPC Internal] Here, the Rat hides. It wasn't too hard.
+[NPC] Hirenn: Very good!
+[NPC] Hirenn: And the Riverling skins?
+[NPC Internal] These guys were tougher, but I managed to get the skins.
+[NPC] Hirenn: Well done, tabei.
+[NPC Narrate] -Hirenn grins.-
+[NPC] Hirenn: I've been asking around about you.
+[NPC] Hirenn: I think you're quite a good worker, is that true?
+[NPC Internal] Of course I am! How else would I've gotten the hides?
+[NPC] Hirenn: Fair enough.
+[NPC] Hirenn: So, let's get down to it.
+[NPC] Hirenn: Like any craft, leatherworking has it's tools of the trade.
+[NPC] Hirenn: First we prepare the hide by scraping all the fur from it.
+[NPC] Hirenn: For this we use a hide scraper.
+[NPC Narrate] -Hirenn grabs a flat looking tool with a handle and holds it up.-
+[NPC] Hirenn: This here is a hide scraper.
+[NPC] Hirenn: Around the side of my shop is a leatherworking table.
+[NPC] Hirenn: On it you'll find a puncher.
+[NPC Narrate] -Hirenn holds up his hand.-
+[NPC] Hirenn: But that's for another day.
+[NPC] Hirenn: Using the table, hold your scraper and use it to make a hide.
+[NPC] Hirenn: A Rat hide will make a small sized hide and a Riverling skin will make a medium sized hide.
+[NPC] Hirenn: Be sure to get some training with me first and go try it out.
+[NPC] Hirenn: Come back to me once you've made five small hides and two medium hides.
+[NPC Narrate] -He hands you the scraper and a book.-
+[NPC] Hirenn: Here you go, use this scraper and be sure to have this book on your mind as you work.
+[NPC Internal] I made the small hides, but I can't seem to make medium ones.
+[NPC] Hirenn: Ah right.
+[NPC] Hirenn: If you're just starting out in your leatherworking, you wouldn't have the skill to make medium sized hides yet.
+[NPC] Hirenn: How silly of me.
+[NPC Narrate] -He puts his hand on his forehead and shakes his head a bit.-
+[NPC] Hirenn: That's fine, just focus on small pieces for now.
+[NPC] Hirenn: Next you're going to tan the hides.
+[NPC] Hirenn: This involves two steps.
+[NPC] Hirenn: First you'll need some Tanning Crystal Acid.
+[NPC] Hirenn: This is a chemical which is placed onto the hides to treat them and make them strong and firm as well as making them a good color.
+[NPC] Hirenn: For a small hide, use one unit.
+[NPC] Hirenn: Then, once you've added the Tanning Crystal Acid using the table, you'll notice a water barrel next to it.
+[NPC] Hirenn: Put the treated hides in there and use it to make leather pieces.
+[NPC] Hirenn: I'll spot you some Tanning Crystal Acid to start.
+[NPC Narrate] -He hands you some small bottles.-
+[NPC] Hirenn: Return to me once you're done.
+[NPC Internal] I made leather!
+[NPC] Hirenn: Fine, fine.
+[NPC] Hirenn: Seems you are on your way, tabei.
+[NPC] Hirenn: Oh, and I almost forgot.
+[NPC] Hirenn: There is one more tool you can use.
+[NPC] Hirenn: It's a Leather Cutter as it's known.
+[NPC] Hirenn: You can make a small piece of leather directly, or cut a medium piece into smaller pieces.
+[NPC] Hirenn: Same for cutting a large piece into medium pieces.
+[NPC] Hirenn: You can also cut a small piece into leather patches - one small piece makes three patches.
+[NPC] Hirenn: And you can cut those even further into strings - one patch can be used to make three strings.
+[NPC] Hirenn: All of these things have use in making armor.
+[NPC Narrate] -He smirks.-
+[NPC] Hirenn: But I'm not going to just give you everything.
+[NPC Narrate] -He clears his throat.-
+[NPC] Hirenn: I do, however, have some good Leather Cutters for sale.
+[NPC Internal] So what do I do with all this leather?
+[NPC] Hirenn: Ah, that would be the next step, wouldn't it?
+[NPC] Hirenn: You can use these leather pieces to make leather armor like gloves, boots, torso armor, and so on.
+[NPC] Hirenn: But that is armor making skill.
+[NPC] Hirenn: For now, get proficient in leatherworking, that's where it all starts.
+[NPC] Hirenn: Fifteen lessons or so should teach you enough to make medium leather pieces.
+[NPC] Hirenn: My good friends in Hydlaa, the Grotemeys, are worthy of a visit as well.
+[NPC] Hirenn: Jeyarp can teach you the fine art of making armor with leather.
+[NPC] Hirenn: My table here is always available for some leather or armor work when you are in town.
+
+[Reward] [XP] 9400; [Item] 1, Hide Scraper; [Item] 12, Tanning Crystal Acids; [Item] 1, Basic Leathermaking; [Faction] 10, Crafting Association
+

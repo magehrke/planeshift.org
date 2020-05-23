@@ -1,0 +1,127 @@
+[Questname] Trasok and the Guards
+[NPC Name] Trasok Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] quests; [Item] 4, crafted Battle Axes; [Item] 3, crafted Reinforced Axes; [Item] 2, crafted Small Battle Axes; [Item] 1, crafted Reinforced Battle Axe
+
+[To] Trasok Starhammer
+
+[NPC Internal] Can I help you?
+[NPC Narrate] -Trasok smiles.-
+[NPC] Trasok: Indeed YOU, I could use your skills.
+[NPC] Trasok: I have an idea to boost my sales.
+[NPC] Trasok: Are you still willing to help?
+[NPC Internal] Of Course, I will happily help.
+[NPC Narrate] -Trasok Smiles.-
+[NPC] Trasok: Thank you.
+[NPC] Trasok: First I need a mug of beer, while you’re getting that I will be getting everything organised
+[NPC Internal] Here is your Beer.
+[NPC Narrate] -Trasok takes the beer and smiles before taking a drink.-
+[NPC] Trasok: Ah.
+[NPC Narrate] -Trasok places the mug down.-
+[NPC] Trasok: I plan to give the influential guards a present.
+[NPC] Trasok: I hope this will encourage them to consider using axes more often.
+[NPC] Trasok: That will give me more orders enabling me to employ some assistants.
+[NPC Narrate] -Trasok smiles.-
+[NPC] Trasok: Then I will be able to get some time off.
+[NPC Internal] So where do I fit in besides bringing beer to you.
+[NPC Narrate] -Trasok looks at you.-
+[NPC] Trasok: Oh.
+[NPC] Trasok: Sorry I was distracted.
+[NPC] Trasok: I need you to assist me in making some axes.
+[NPC] Trasok: Sooner this is done the better for me.
+[NPC] Trasok: First of all I want four good quality battle axes.
+[NPC] Trasok: Return when you have them.
+[NPC Internal] Here are your battle axes.
+[NPC Narrate] -Trasok examines the battle axes and thinks to himself.-
+[NPC] Trasok: These will do.
+[NPC Narrate] -Trasok puts the battle axes on a shelf.-
+[NPC] Trasok: Ok.
+[NPC] Trasok: Next I need three good quality reinforced axes.
+[NPC Internal] Here are your reinforced axes.
+[NPC Narrate] -Trasok examines the reinforced axes and thinks to himself.-
+[NPC] Trasok: These will do.
+[NPC Narrate] -Trasok puts the reinforced axes on a shelf.-
+[NPC] Trasok: Ok.
+[NPC] Trasok: Next I need two small battle axes.
+[NPC Internal] Here are your small battle axes.
+[NPC Narrate] -Trasok examines the small battle axes and thinks to himself.-
+[NPC] Trasok: These will do.
+[NPC Narrate] -Trasok puts the Small Battle Axes on a shelf.-
+[NPC] Trasok: Ok.
+[NPC] Trasok: Next I need a reinforced battle axe.
+[NPC Narrate] -Trasok examines the reinforced battle axe and nods to himself.-
+
+[Give] Trasok Starhammer; 1, Reinforced Battle Axe
+
+[NPC] Trasok: This will do.
+[NPC Narrate] -Trasok puts the reinforced battle axe on the shelf with the other axes.-
+[NPC] Trasok: Ok.
+[NPC] Trasok: Now I need you to do a few deliveries for me.
+[NPC] Trasok: Is that ok with you?
+[NPC Internal] Yes I can deliver them for you.
+[NPC] Trasok: I need you to deliver these packages.
+[NPC] Trasok: First package is for Pinayet Ullavin here at the main gates.
+[NPC] Trasok: Then the next is for Moren Findel in East Hydlaa.
+[NPC] Trasok: Next one is for Jefecra Harcrit, I believe is often patrolling near Kada Els tavern.
+
+[To] Pinayet Ullavin
+
+[NPC Internal] Here, a present from Trasok.
+[NPC Narrate] -Pinayet looks at you and takes the package.-
+[NPC] Pinayet: For me?
+[NPC Narrate] -Pinayet smiles as he opens the package.-
+[NPC] Pinayet: This is a very nice axe.
+[NPC] Pinayet: Oh, a note.
+[NPC Narrate] -Pinayet picks a note out from within the packaging and begins to read.-
+[NPC] Pinayet: Thank you Enkidukai for delivering this.
+[NPC] Pinayet: Return with my thanks.
+
+[To] Moren Findel
+
+[NPC Internal] Here, a present from Trasok.
+[NPC Narrate] -Moren looks at you and takes the package.-
+[NPC] Moren: Strange I wasn't expecting anything from Trasok.
+[NPC Narrate] -Moren smiles as he opens the package.-
+[NPC] Moren: An axe and a note.
+[NPC Narrate] -Moren begins to read the note.-
+[NPC] Moren: Thank you for delivering this.
+[NPC] Moren: Return with my complements.
+
+[To] Jefecra Harcrit
+
+[NPC Internal] Here, a present from Trasok.
+[NPC Narrate] -Jefecra looks you up and down before taking the package.-
+[NPC] Jefecra: Trasok?
+[NPC] Jefecra: I don't use him as a supplier.
+[NPC Narrate] -Jefecra opens the package.-
+[NPC] Jefecra: An axe?
+[NPC] Jefecra: Ah, a note.
+[NPC Narrate] -He nods as he reads the note.-
+[NPC] Jefecra: Thank you for delivering this.
+[NPC] Jefecra: I must return to my duty.
+
+[To] Trasok Starhammer
+
+[NPC Internal] That is all the packages delivered.
+[NPC Narrate] -Trasok nods and smiles.-
+[NPC] Trasok: Thank you for your help.
+[NPC] Trasok: How were the gifts received?
+[NPC Internal] They were received well.
+[NPC Narrate] -Trasok smiles.-
+[NPC] Trasok: This is good news.
+[NPC] Trasok: Thank you for your help.
+[NPC] Trasok: Your weapons have been popular with my customers.
+[NPC] Trasok: For this I have a present for you.
+[NPC Narrate] -Trasok reaches down below his counter and takes a book wrapped in paper to protect it.-
+[NPC] Trasok: Here this will help you make Platinum Steel Axes.
+[NPC Internal] Thank you, this will be useful.
+[NPC] Trasok: You have been more than useful to me.
+[NPC] Trasok: Here is some Tria for your work, Jilare.
+[NPC Narrate] -Trasok hands you a fat pouch of Tria.-
+[NPC] Trasok: You have helped me create possible new business while keeping my current customers happy.
+[NPC] Trasok: I look forward to seeing your work in future.
+
+[Reward] [Money] 20277; [XP] 10800; [Item] 1, Forging Platinum Steel Axes; [Faction] 1, Smith Association
+

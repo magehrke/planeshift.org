@@ -1,0 +1,35 @@
+[Questname] His Brother's Riddle
+[NPC Name] Lerok Dilechi
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes; [Quest] Natural Kran Hair
+
+[To] Lerok Dilechi
+
+[NPC Internal] Do you want to send me on a quest?
+[NPC] Lerok: A quest?
+[NPC] Lerok: No.
+[NPC] Lerok: I have no quests at this time.
+[NPC Narrate] -Lerok scratches his beard.-
+[NPC] Lerok: Although you look like a smart Enkidukai, and I've been pondering this riddle for a while.
+[NPC] Lerok: Think you could help me solve it?
+[NPC Internal] I am ready let me hear it.
+[NPC] Lerok: Okay, here's the riddle.
+[NPC] Lerok: “At a feast, the 20 Vigesimi of the Lower Fields level sit at a round table.
+[NPC] Lerok: Each of them clinks a mug with the Vigesimi on his or her left, and with the Vigesimi on his or her right.
+[NPC] Lerok: How many clinks would you hear?” Come back to me with the answer.
+[NPC] Lerok: If you don't know, you can try to “tell the riddle” to any clever people or people who know about riddles and see if they can help you.
+[NPC] Lerok: Good luck!
+[NPC Internal] Twenty clinks.
+[NPC] Lerok: Wait, 20?
+[NPC] Lerok: Why yes, of course.
+[NPC] Lerok: I was thinking 40, but yes, each clink is shared by two Vigesimi so I would divide.
+[NPC] Lerok: I, as an engineer, should have figured that out.
+[NPC] Lerok: Thanks for your help!
+[NPC] Lerok: Now I can go back to work with renewed concentration.
+[NPC] Lerok: Why not take these?
+[NPC] Lerok: I thought they'd help protect my arms if they got caught in the gears, but their weight just slows me down.
+
+[Reward] [Money] 7310; [XP] 15000; [Item] 1, Faith glyph; [Faction] 20, Science Association
+

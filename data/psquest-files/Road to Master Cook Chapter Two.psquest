@@ -1,0 +1,63 @@
+[Questname] Road to Master Cook Chapter Two
+[NPC Name] Mirra Houphen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Road to Master Cook Chapter One; [Item] 4, Iron Ores; [Money] 500
+
+[To] Mirra Houphen
+
+[NPC Internal] Hi Mirra, any new recipes?
+[NPC] Mirra: You're back!
+[NPC] Mirra: That Sarraghi Steak was so tasty, I tried the recipe with other meats but nothing was as tasty as the marrow from the tefusang claws.
+[NPC] Mirra: I never would have guessed that was the secret ingredient!
+[NPC] Mirra: However it took forever to extract the marrow, because I don't have a proper butcher knife.
+[NPC] Mirra: The presentation wasn't there either, since I only had my usual wooden bowls.
+[NPC] Mirra: It would look so great on a silver plate!
+[NPC] Mirra: Do you think you could run some more errands for me?
+[NPC Internal] For you, any time. What do you need?
+[NPC] Mirra: The taste of the food is most important, but the eye needs to be pleased as well!
+[NPC] Mirra: Harnquist has a Butcher Knife for me, and Jirosh in Ojaveda has some silver plates.
+[NPC] Mirra: Here, take these orders.
+[NPC] Mirra: They will be expecting these.
+
+[To] Harnquist
+
+[NPC Internal] gives Harnquist the order.
+[NPC] Harnquist: Ah, I see..
+[NPC] Harnquist: a butcher knife?
+[NPC] Harnquist: That should be easy enough.
+[NPC] Harnquist: Now, I could get you a discount if you do a little something for me.
+[NPC] Harnquist: Are you interested?
+[NPC Internal] Sure, what must I do?
+[NPC] Harnquist: Restock me with some iron ore.
+[NPC] Harnquist: Four pieces should do.
+[NPC Internal] Here's your iron ore.
+[NPC] Harnquist: Great!
+[NPC] Harnquist: You did a good job.
+[NPC] Harnquist: These are some fine ores.
+[NPC] Harnquist: Here is your butcher knife.
+[NPC] Harnquist: It is yours as thanks for helping me out.
+
+[To] Jirosh Mikana
+
+[NPC Internal] gives Jirosh the order.
+[NPC Narrate] -Jirosh takes the order and reads it.-
+[NPC] Jirosh: Five silver plates…
+[NPC] Jirosh: Got about six dozen of them stored in the warehouse but I don't have any buyers at all.
+[NPC] Jirosh: I thought they would sell, but no one seems interested.
+[NPC] Jirosh: Let's say one hundred tria per plate and I'm a happy Enkidukai.
+[NPC Internal] Here's your money.
+[NPC] Jirosh: Thank you, and here are your Silver Plates, Sir.
+
+[To] Mirra Houphen
+
+[NPC Internal] gives Mirra the knife and silver plates.
+[NPC] Mirra: These are just what I needed, the proper tools for a master cook!
+[NPC] Mirra: Thanks again, YOU.
+[NPC] Mirra: Now let's see, the knife should have been around eighty tria, and the plates usually run for about two hundred tria a piece, so six circles should cover the expenses plus a little extra for you.
+[NPC Narrate] -Mirra hands you a few coins.-
+[NPC] Mirra: Come back soon, YOU.
+
+[Reward] [Money] 9922; [XP] 16400; [Faction] 35, Food Association
+

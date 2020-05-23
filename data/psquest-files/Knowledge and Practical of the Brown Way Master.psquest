@@ -1,0 +1,73 @@
+[Questname] Knowledge and Practical of the Brown Way Master
+[NPC Name] Mulgik
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Brown Way Master Training; [Item] 1, Master's Brown Way Wand; [Item] 1, Adept's Brown Way Bracers; [Skill] 130, Brown Way; [Item] 1, Tree glyph; [Item] 1, Creature glyph; [Item] 1, Wall glyph
+
+[Info] You get the glyphs back.
+
+[To] Mulgik
+
+[NPC Internal] My wand, Master Mulgik.
+[NPC] Mulgik: Your increased skill brings me great joy, YOU.
+[NPC] Mulgik: The Brown Way and natural order are most wondrous things, are they not?
+[NPC] Mulgik: To feel their power flow through you is to be closer to Xiosia.
+[NPC Narrate] -Mulgik grins widely.-
+[NPC] Mulgik: Of course, you do not have to follower Her ways to enjoy the power that comes from Her realm.
+[NPC] Mulgik: But, your continued striving does bring me pride in any case, and the knowledge growing inside you pays homage to Xiosia.
+[NPC] Mulgik: To reward your dedication, I shall add to that knowledge.
+[NPC] Mulgik: Give me your Tree Glyph.
+[NPC Internal] Tree, ah, here it is.
+[NPC Narrate] -Mulgik begins purifying it as kra speaks.-
+[NPC] Mulgik: Ah…
+[NPC] Mulgik: Tree.
+[NPC] Mulgik: This glyph is the source of plant life in the Brown Way.
+[NPC] Mulgik: It is growth itself, and its roots are deep.
+[NPC] Mulgik: Now give me your Creature Glyph so I may continue.
+[NPC Internal] Here you are Archmage.
+[NPC Narrate] -Mulgik repeats the purifying on the glyph.-
+[NPC] Mulgik: Lastly, the Wall Glyph.
+[NPC Internal] I come prepared, here is my Wall glyph.
+[NPC Narrate] -Mulgik takes your glyph.-
+[NPC] Mulgik: I will use this one then.
+[NPC Narrate] -Mulgik looks at the three glyphs with kra's earthy eyes until the process is complete.-
+[NPC] Mulgik: Now for the combine.
+[NPC] Mulgik: Order is important.
+[NPC Narrate] -Mulgik places Tree, then Creature, then Wall and starts the combine ritual.-
+[NPC] Mulgik: It is finished.
+[NPC] Mulgik: Please stand back as I demonstrate the spell.
+[NPC] Mulgik: Observe.
+[NPC Narrate] -The surrounding plant life bursts into growth, wrapping around the Mulgik's body in a tough armor.-
+[NPC] Mulgik: Amazing is the power of nature!
+[NPC] Mulgik: Look at how she reaches out to protect me.
+[NPC Narrate] -Mulgik hands back your glyphs as the armor subsides.-
+[NPC] Mulgik: You will now purify your glyphs and cast the spell your self.
+[NPC] Mulgik: It grants temporary perfection in mind and body.
+[NPC] Mulgik: When complete, tell me what the spell wishes itself to be called.
+[NPC Internal] animate vegetation
+[NPC] Mulgik: The Brown Way has many of these combination spells.
+[NPC] Mulgik: It takes Xiosia's own luck to discover them without being taught.
+[NPC] Mulgik: You must also have great knowledge in your Way.
+[NPC] Mulgik: Even with knowledge and power, your combining may still fail.
+[NPC Narrate] -Mulgik eyes show a hint of sadness, the first emotion you have ever seen shown.-
+[NPC] Mulgik: That is a lesson I learned in my youth when I was yet an Adept like yourself.
+[NPC] Mulgik: That was so long ago…
+[NPC] Mulgik: He was a Blue Way Archmaster, but knew nearly as much in all other Ways as the Archmasters themselves.
+[NPC] Mulgik: I have never seen nor heard of anyone to achieve such greatness.
+[NPC] Mulgik: It is not something to be discussed now.
+[NPC Narrate] -Mulgik holds out a hand.-
+[NPC] Mulgik: Your bracers please.
+[NPC Internal] My bracers as requested.
+[NPC Narrate] -Mulgik silently hands you another set of bracers, then studies you for a few moments.-
+[NPC] Mulgik: YOU, it is time to finalize your skills in the Brown Way.
+[NPC] Mulgik: Only once you reach your limit will I accept your wand and give you your final lesson.
+[NPC] Mulgik: However, it is not going to be so easy this time.
+[NPC] Mulgik: If you recall, I mentioned some time ago that you should mingle with practitioners of the two Ways that support your own.
+[NPC] Mulgik: I need for you to also bring me one Master's Set of Bracers from each of those two Ways, and give all three to me all at once.
+[NPC] Mulgik: So, you will bring me your own wand, and one Master's Bracer from the Dark and Blue Ways.
+[NPC] Mulgik: This is to prove you have gained respect and support from the Circles that support your own.
+[NPC] Mulgik: Good luck, and set your roots deep.
+
+[Reward] [XP] 19200; [Item] 1, Master's Brown Way Bracers; [Faction] 45, Brown Order
+

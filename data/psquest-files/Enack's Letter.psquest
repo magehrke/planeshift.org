@@ -1,0 +1,34 @@
+[Questname] Enack's Letter
+[NPC Name] Enack Lerenal
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Enack Lerenal
+
+[NPC Internal] Do you have any work for me?
+[NPC] Enack: A job?
+[NPC] Enack: You could deliver a letter to Kaiman Jilatt for me.
+[NPC] Enack: I trust random job-seeking strangers more than I do that courier Tarela Girshon, so are you up for it?
+[NPC Internal] Just let me know what you need.
+[NPC] Enack: Give this to Kaiman Jilatt and return the receipt to me.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] offers Kaiman the sealed missive.
+[NPC Narrate] -Kaiman glances at the letter and opens it. He scans the lines and nods.-
+[NPC] Kaiman: I was hoping this would arrive soon.
+[NPC Narrate] -Kaiman hands you a small sealed letter.-
+[NPC] Kaiman: Here is the receipt that I received it.
+[NPC] Kaiman: Thank you for delivering the letter.
+
+[To] Enack Lerenal
+
+[NPC Internal] The letter has been delivered. Here is your receipt.
+[NPC] Enack: I knew I could count on you.
+[NPC Narrate] -Enack chuckles and hands you some coins.-
+[NPC] Enack: Thank you for helping me out.
+
+[Reward] [Money] 1297; [XP] 9400
+

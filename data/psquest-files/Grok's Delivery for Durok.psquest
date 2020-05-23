@@ -1,0 +1,88 @@
+[Questname] Grok's Delivery for Durok
+[NPC Name] Grok Idon
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] Nothing
+
+[To] Grok Idon
+
+[NPC Internal] May I be of aid to you?
+[NPC] Grok: Ah, yes, I do have something that requires your assistance.
+[NPC] Grok: I have been looking for a traveller headed to Hydlaa.
+[NPC] Grok: If you are going that way, I have collected this jar full of insects that needs to be delivered to Durok Rrecrok while still in town.
+[NPC] Grok: Durok studies them, you see.
+[NPC] Grok: I will pay you a few coins for the service.
+[NPC] Grok: Are you willing?
+[NPC Internal] Consider it done.
+[NPC] Grok: Excellent.
+[NPC Narrate] -Grok finds a large clay jar among a sack of wares and gives it to you.-
+[NPC] Grok: If you're headed to the wilderness, I can sell you potions of healing, if you like.
+[NPC] Grok: Try not to shake it too much: some of them are fragile.
+[NPC] Grok: Hmmm…
+[NPC] Grok: you can probably find Durok at Jayose's Librams and Codexes in East Hydlaa.
+[NPC] Grok: Durok spends a good deal of time there when not out in the wilds pursuing insect studies.
+[NPC Narrate] -Grok writes a small note on a slip of paper and gives it to you as well.-
+[NPC] Grok: Have Durok sign this and return it to me, so that I may know it arrived safely.
+[NPC] Grok: Farewell.
+[NPC Narrate] -Grok waves goodbye.-
+
+[To] Durok Rrecrok
+
+[NPC Internal] Grok Idon sends these things with kras regards.
+[NPC] Durok: Err…
+[NPC] Durok: umm.
+[NPC Narrate] -Durok looks at you and then opens the jar.-
+[NPC] Durok: Ahhh.
+[NPC Narrate] -Durok smiles and raises the jar and peers at the insects within, gently moving them with a finger to see more.-
+[NPC] Durok: How nice, yes.
+[NPC] Durok: This must be the collection Grok has made for me.
+[NPC Narrate] -Durok carefully picks up an insect from the jar, pinching it between two fingers and looking at it closely.-
+[NPC] Durok: Very good.
+[NPC] Durok: Perhaps there will be some new kinds in here.
+[NPC Narrate] -Durok tucks the jar under one arm and studies the receipt.-
+[NPC] Durok: Good, good.
+[NPC Narrate] -Durok takes out a capacious chunk of charcoal and signs the receipt with a deft hand.-
+[NPC] Durok: There.
+[NPC] Durok: Grok will be wanting to see that.
+[NPC Narrate] -Durok gives the receipt back to you.-
+[NPC] Durok: Perhaps…mmm…
+[NPC] Durok: would you like to try a riddle I heard recently?
+[NPC Internal] I do love a good riddle. Ask away.
+[NPC] Durok: Hmmm…
+[NPC] Durok: well.
+[NPC Narrate] -Durok checks on the jar, making sure it is secure.-
+[NPC] Durok: It…
+[NPC] Durok: goes like this, yes.
+[NPC] Durok: 'I am ancient, my dry skin is cracked and weathered.
+[NPC] Durok: Nothing flows in my veins any more, and the invaders come to take what is mine.'
+[NPC Narrate] -Durok watches you for a moment.-
+[NPC] Durok: I thought it was… er, a bit tricky.
+[NPC Internal] dead mountain
+[NPC] Durok: Yes, that is the answer.
+[NPC] Durok: You are…mmm…
+[NPC] Durok: you are smart.
+[NPC Narrate] -Durok smiles.-
+[NPC] Durok: Thank you for trying it.
+[NPC] Durok: Good day to you, and safe traveling.
+[NPC Narrate] -Durok waves a cheery goodbye.-
+
+[To] Grok Idon
+
+[NPC Internal] Grok said that you would want this back.
+[NPC] Grok: Ah, you have returned.
+[NPC Narrate] -Grok accepts the receipt, looks it over and nods.-
+[NPC] Grok: Good.
+[NPC] Grok: here is your payment, and perhaps you would like to try a complimentary sabre?
+[NPC] Grok: They are sharp and well-made.
+[NPC Narrate] -Grok hands you six Octa.-
+[NPC Internal] I'd be honoured to own one.
+[NPC] Grok: Excellent.
+[NPC Narrate] -Grok selects a saber from among the wares for sale and gives it to you.-
+[NPC] Grok: If you like it, please tell your friends.
+[NPC] Grok: Perhaps I will begin selling them again as part of my regular stock, if there is a demand for them.
+[NPC] Grok: Farewell!
+
+[Reward] [Money] 1000; [XP] 17400; [Item] 1, Sabre; 
+

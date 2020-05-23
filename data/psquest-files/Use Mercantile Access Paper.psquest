@@ -1,0 +1,18 @@
+[Questname] Use Mercantile Access Paper
+[NPC Name] Percival Hawthorne
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [OR Begin] [Quest] The Gronk Merchant Syndicate [OR] [Quest] The Mikana Merchant Syndicate [OR End]
+
+[To] Percival Hawthorne
+
+[NPC Internal] gives Percival the access papers.
+[NPC] Percival: Halt!
+[NPC] Percival: Be you friend or foe?
+[NPC Internal] I am a friend.
+[NPC Narrate] -Percival scans the paper once more.-
+[NPC] Percival: Welcome to the Hydlaa Winch, merchant.
+
+[Reward] [Special] Winch access
+

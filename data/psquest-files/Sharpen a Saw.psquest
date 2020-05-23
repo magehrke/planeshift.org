@@ -1,0 +1,56 @@
+[Questname] Sharpen a Saw
+[NPC Name] Lentanor Thunderhead
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Winch] Yes
+
+[To] Lentanor Thunderhead
+
+[NPC Internal] Hi, do you need help with anything?
+[NPC] Lentanor: Hmm?
+[NPC] Lentanor: No, I don't need any help, but thanks all the same.
+[NPC Narrate] -Lentanor tries to saw a block of wood, but seems to be having trouble.-
+[NPC] Lentanor: Eh, now that you mention it, this saw is a bit dull.
+[NPC] Lentanor: Can you get it sharpened for me?
+[NPC Internal] Ok, how do I go about it?
+[NPC] Lentanor: Thanks.
+[NPC] Lentanor: Here's the saw; tell Harnquist that I sent you.
+[NPC] Lentanor: I have an arrangement with him for regular tool sharpenings and pay him monthly, so don't worry about having Tria on hand.
+[NPC] Lentanor: He's nice and close, plus I don't trust that Trasok Starhammer one bit!
+[NPC] Lentanor: I'll be expecting you back soon.
+
+[To] Harnquist
+
+[NPC Internal] Lentanor sent me
+[NPC] Harnquist: That man really needs to take better care of his tools.
+[NPC] Harnquist: If it's not one thing, it's another.
+[NPC] Harnquist: What is it this time?
+[NPC] Harnquist: Saw?
+[NPC] Harnquist: Chisel?
+[NPC Internal] Saw
+[NPC] Harnquist: Ah, I was right the first time.
+[NPC] Harnquist: Let's have it then.
+[NPC] Harnquist: I'll put it on his tab.
+[NPC Narrate] -Harnquist whistles a merry tune as he runs the saw on the sharpening stone. Sparks begin lightly showering the floor around it.-
+[NPC] Harnquist: That should do it a treat.
+[NPC] Harnquist: Oh, while you're at it, give him this invoice as well.
+[NPC] Harnquist: He can pay it at his leisure.
+[NPC] Harnquist: Talad knows he always does.
+
+[To] Lentanor Thunderhead
+
+[NPC] Lentanor: Ah, yes.
+[NPC Narrate] -Lentanor touches a tooth on the saw, then quickly sucks his finger and nods approvingly.-
+[NPC] Lentanor: Always does a good job.
+[NPC] Lentanor: Now, I believe there's an invoice for me?
+[NPC Narrate] -Lentanor unseals the document.-
+[NPC Narrate] -Lentanor Thunderhead Thunderhead holds out a slightly bloody hand.-
+[NPC] Lentanor: Hrmph.
+[NPC] Lentanor: I'll get to that later.
+[NPC Narrate] -Lentanor slips the invoice inside his vest.-
+[NPC] Lentanor: Well, here you go, my good Hammerwielder.
+[NPC] Lentanor: Don't spend it all in one place.
+
+[Reward] [Money] 12958; [XP] 17800
+

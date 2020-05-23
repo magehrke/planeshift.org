@@ -1,0 +1,195 @@
+[Questname] Best Judgment
+[NPC Name] Relliom
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Coveted Traditions; [Item] 1, Bird Note
+
+[Info] You get the Bird Note from the Coveted Traditions quest.
+
+[To] Relliom
+
+[NPC Internal] gives Relliom the bird note.
+[NPC Narrate] -Relliom studies the drawing for a few seconds, then looks at you knowingly.-
+[NPC] Relliom: A very interesting piece of art.
+[NPC] Relliom: Very interesting indeed.
+[NPC] Relliom: It seems that perhaps you can aid me in a task of my own.
+[NPC] Relliom: It is quite simple, really.
+[NPC] Relliom: I need you to give someone a scroll.
+[NPC] Relliom: I assume you will use the same…
+[NPC Narrate] -Relliom pauses.-
+[NPC] Relliom: …judgment as you did for your delivery.
+[NPC] Relliom: Yes or no?
+[NPC] Relliom: You might not get a second chance, so best you think hard before answering.
+[NPC Internal] Yes.
+[NPC] Relliom: The eager little clacker, now aren't we?
+[NPC] Relliom: I like that.
+[NPC] Relliom: Now for your little task.
+[NPC] Relliom: Take this sealed scroll to Jirosh Mikana.
+[NPC] Relliom: A friend of mine,
+[NPC Narrate] -Relliom gives you a sly smile.-
+[NPC] Relliom: Melorick asked me to take care of this little issue, if you understand my meaning.
+[NPC] Relliom: He doesn't like to be bothered, so you'd best let me know what Jirosh says.
+[NPC] Relliom: I'd hate to have Melorick get upset with you.
+[NPC] Relliom: The rest is up to you.
+[NPC] Relliom: If you lack the skills to react to the situation, come back and tell me you quit.
+[NPC] Relliom: I am not an unforgiving man.
+
+[To] Jirosh Mikana
+
+[NPC Internal] gives Jirosh Melorick's scroll case.
+[NPC] Jirosh: Greetings!
+[NPC] Jirosh: Welcome to my humble business.
+[NPC] Jirosh: What's this?
+[NPC Narrate] -Jirosh breaks the scroll case's seal and pulls out a scroll and a small metal object. A frown forms on his face as he reads.-
+[NPC] Jirosh: This is serious.
+[NPC] Jirosh: It seems that one of my clients received a crate of damaged goods.
+[NPC Narrate] -Jirosh continues reading and his eyes grow wide.-
+[NPC] Jirosh: This is more than serious.
+[NPC] Jirosh: The crate contained jade blanks for the figurines intended for certain Enkidukai traditional ceremonies.
+[NPC] Jirosh: The carver can't use the broken blanks.
+[NPC] Jirosh: What a terrible loss.
+[NPC] Jirosh: Those figurines mean a great deal, but will be delayed until the next shipment.
+[NPC Narrate] -Jirosh picks up the metal object.-
+[NPC] Jirosh: This was found inside the damaged crate.
+[NPC] Jirosh: Could you take it and see if Merrinez knows anything about it?
+[NPC Narrate] -Jirosh waits for your answer.-
+[NPC Internal] Hand it over and I will see what I find out.
+[NPC] Jirosh: Right, then.
+[NPC] Jirosh: Take this to Merrinez straightaway.
+[NPC] Jirosh: The faster this is solved, the better I will feel.
+[NPC] Jirosh: Tell me who it belongs to if you find out.
+[NPC Narrate] -Jirosh hands you the metal object.-
+
+[To] Merrinez Dholant
+
+[NPC Internal] gives Merrinez the metal stopper.
+[NPC] Merrinez: Thanks!
+[NPC] Merrinez: I have been looking all over for this.
+[NPC] Merrinez: I was wondering where it got off to.
+[NPC] Merrinez: Been missing for a few days now.
+[NPC Narrate] -Merrinez pulls a small, battered flask out of his pocket and twists the stopper in the end.-
+[NPC] Merrinez: Who found it?
+[NPC Internal] Jirosh Mikana.
+[NPC] Merrinez: Jirosh!
+[NPC] Merrinez: That could mean trouble for me.
+[NPC] Merrinez: He might think I was drinking on the job.
+[NPC] Merrinez: Mind you, I never do that.
+[NPC] Merrinez: I just like to keep this flask close to me, ya know.
+[NPC] Merrinez: It belonged to five generations of Dholants, and I plan on passing it down to my first son.
+[NPC] Merrinez: Well…I gotta get back to work.
+[NPC] Merrinez: I hope Jirosh don't think the wrong thing.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Merrinez
+[NPC] Jirosh: I feared it might belong to him.
+[NPC] Jirosh: I have seen him with the flask that stopper belonged to.
+[NPC] Jirosh: I am going to have to reprimand him for this later.
+[NPC] Jirosh: I don't have the time now if I am to make out the order for new jade.
+[NPC Narrate] -Jirosh sighs.-
+[NPC] Jirosh: I really should do something now though.
+[NPC] Jirosh: Do you think I should take his flask away?
+[NPC Internal] Yes, drinking on the job should not be tolerated.
+[NPC] Jirosh: Then go get it for me, please.
+
+[To] Merrinez Dholant
+
+[NPC Internal] Jirosh wants the flask, now.
+[NPC] Merrinez: Oh…
+[NPC Narrate] -Merrinez's face droops.-
+[NPC] Merrinez: I just heard about the busted crate of jade.
+[NPC] Merrinez: He must think I did it.
+[NPC] Merrinez: I swear I have not dropped a crate in months, and I never drink on the job.
+[NPC] Merrinez: I only have a few with my friends after work.
+[NPC] Merrinez: He has to believe that!
+[NPC] Merrinez: If he takes my flask away, what am I going to have to pass on to my first son…
+[NPC] Merrinez: that is, if Toda would even accept if I asked her to marry me.
+[NPC] Merrinez: This is awful!
+[NPC] Merrinez: If this gets out, she is gonna think I am a halfwit drunk who slacks on the job.
+[NPC Narrate] -Merrinez looks at you with pleading eyes.-
+[NPC] Merrinez: You gotta help me out and clear my name.
+[NPC] Merrinez: Will you help me?
+[NPC] Merrinez: Please?
+[NPC] Merrinez: For my future children's sake.
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] No, hand over the flask.
+[NPC] Merrinez: If you don't believe me…
+[NPC] Merrinez: then I guess I gotta do what the boss says.
+[NPC] Merrinez: Here…
+[NPC Narrate] -Merrinez hands over the flask.-
+
+[To] Jirosh Mikana
+
+[NPC] Jirosh: Thank you.
+[NPC] Jirosh: I hate to do this to him, as he has been such a good worker for such a long time, but I have even more bad news.
+[NPC] Jirosh: Since it seems he is responsible for the broken jade, I will have to dock his pay to cover part of the replacement cost.
+[NPC] Jirosh: If you could, tell him he must pay…
+[NPC Narrate] -Jirosh pauses.-
+[NPC] Jirosh: Never mind.
+[NPC] Jirosh: I would rather tell him myself.
+[NPC] Jirosh: It would be too cruel coming from someone who is practically a stranger.
+[NPC] Jirosh: I just remembered. I have a package waiting for Melorick to pick up.
+[NPC] Jirosh: Please take it to him; I cannot keep it here any longer.
+[NPC Narrate] -Jirosh hands you a wooden box decorated with a highly stylised tree engraved on the cover.-
+
+[To] Relliom
+
+[NPC Internal] gives Relliom the engraved tree box.
+[NPC Narrate] -Relliom chuckles as he takes the box. He studies the tree for a moment before looking at you.-
+[NPC] Relliom: Well done.
+[NPC] Relliom: Poor poor Merrinez.
+[NPC] Relliom: He should really learn to be more careful, don't you think?
+[NPC] Relliom: It is so sad when good people allow their lives to fall apart like that.
+[NPC] Relliom: I am sure you are much more careful.
+[NPC] Relliom: I would hate for something like that to befall you, my friend.
+[NPC] Relliom: Now, before we go on, I am going to give you a choice.
+[NPC Narrate] -Relliom grins and holds up a slip of paper.-
+[NPC] Relliom: You can go back and tell Jirosh that Merrinez is innocent…or you can take this note.
+[NPC] Relliom: A simple choice, really.
+[NPC] Relliom: Give an innocent man his life back, or accept a single piece of paper.
+[NPC] Relliom: What will it be?
+[NPC] Relliom: Life or paper?
+[NPC Internal] Paper.
+[NPC] Relliom: Well, then, my eager little clacker.
+[NPC] Relliom: It is time for your next task.
+[NPC] Relliom: Take your paper.
+[NPC] Relliom: I am sure you know what to do with it.
+
+[Way] 2
+
+[NPC Internal] Okay, I will try and help.
+[NPC] Relliom: Thank Talad!
+[NPC] Relliom: I don't know where the crate got broke, or even if it got broke, but it was not me or anyone else here.
+[NPC] Relliom: Tell Jirosh I didn't do it.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Merrinez didn't damage the crate.
+[NPC] Jirosh: Well, if he said he did not do it, then I believe him.
+[NPC] Jirosh: I don't hire workers that would lie to me.
+[NPC] Jirosh: I will have to look elsewhere for the problem.
+[NPC] Jirosh: Might have fallen off a cart, or have been damaged on delivery.
+[NPC] Jirosh: Thank you for your help.
+[NPC] Jirosh: Tell Melorick I will make amends.
+[NPC] Jirosh: Here is a coin for your bother.
+[NPC Narrate] -Jirosh hands you a circle.-
+
+[To] Relliom
+
+[NPC Internal] Jirosh will make amends.
+[NPC] Relliom: Will he now?
+[NPC] Relliom: No…I think it is you who shall be making amends.
+[NPC] Relliom: You sadden me with your sloth.
+[NPC] Relliom: You could not even complete a simple test.
+[NPC] Relliom: You are of no more use to me.
+[NPC] Relliom: The others who follow the whisper in the sewers await your service.
+[NPC] Relliom: Perhaps you will better serve those worms.
+
+[Reward] [Way 1] [Money] 5130; [XP] 13600; [Item] 1, Creature glyph; [Faction] 25, Artists Association
+[Reward] [Way 2] [Money] 3641; [XP] 12200; [Faction] 20, Enkidukai; [Faction] 5, Cabal of Whispers
+

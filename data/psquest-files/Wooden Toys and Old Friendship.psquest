@@ -1,0 +1,174 @@
+[Questname] Wooden Toys and Old Friendship
+[NPC Name] Jjousk Carryt
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[Need] [Item] 1, Threestem Wood
+
+[To] Jjousk Carryt
+
+[NPC Internal] Hey Jjousk, is everything all right?
+[NPC] Jjousk Carryt looks wary of you as he hurriedly hides something in his burlap bag.
+[NPC Narrate] -If you paid attention, you'd see it was a little rivnak toy made from wood.-
+[NPC Narrate] -He simply nods and mutters something along the lines of "I'm fine."-
+[NPC Internal] Are you sure you're fine?
+[NPC] Jjousk Carryt nods once again and doesn't speak again, staring past you down the corridor.
+[NPC Internal] Well, now, I'm getting concerned.
+[NPC] Jjousk Carryt: Concerned?
+[NPC] Jjousk Carryt: Why would you care?
+[NPC] Jjousk Carryt: Go away!
+[NPC] Jjousk Carryt: There are no lessons today!
+[NPC Narrate] -He looks like he's not happy with being so rude with you, but he turns away from you, looking very hostile.-
+
+[To] Birkin Draewr
+
+[NPC Internal] Hello, Birkin, Jjousk seems to be in some sort of a problem...
+[NPC] Birkin Draewr: Does he, now?
+[NPC] Birkin Draewr: Aye, that's what ah thought tha other day.
+[NPC] Birkin Draewr: Saw 'im with that lil' rivnak toy, aye?
+[NPC Internal] Yes, I did see him with it. What is it?
+[NPC] Birkin Draewr: Strangely 'nuff, ma good friend, that's a story ah do not know much about.
+[NPC] Birkin Draewr: But lemme tell ya, I do know sumthin'!
+[NPC] Birkin Draewr: Jjousk used to run into trouble in Ojaveda with a lil' gang, aye, a merry company.
+[NPC] Birkin Draewr: Jjousk, Benack, and pretty Bhurral.
+[NPC] Birkin Draewr: Benack still makes bows almost as good as Jjousk's, aye!
+[NPC] Birkin Draewr: Y'know what, I think it'd be best if ya asked him.
+
+[To] Benack Yasoj
+
+[NPC Internal] Hello, Benack. I've been told you can tell me about Jjousk's toy rivnak.
+[NPC] Benack Yasoj: Jjousk's rivnak?
+[NPC] Benack Yasoj: That's an old story.
+[NPC] Benack Yasoj: Very old...
+[NPC] Benack Yasoj: Please, have some tea, take a seat.
+[NPC] Benack Yasoj: It's somewhat of a lengthy story.
+[NPC Internal] [You take the tea and sit down, listening intently.]
+[NPC] Benack Yasoj: It's been a few years.
+[NPC] Benack Yasoj: We used to be very close to one another other.
+[NPC] Benack Yasoj: Well, that is, until Bhurral joined the guards, Jjousk got his job at the Arena, and I got married.
+[NPC] Benack Yasoj: Thing is, we would play around Akkaio Ojaveda, causing more mischief than good.
+[NPC Narrate] -He chuckles a little, looking a little nostalgic.-
+[NPC] Benack Yasoj: Turns out Jjousk had a small toy rivnak, carved out of threestem wood, and he was very fond of it.
+[NPC] Benack Yasoj: Mind you, he carved it himself.
+[NPC] Benack Yasoj: Well, with my help, of course.
+[NPC] Benack Yasoj: But...
+[NPC] Benack Yasoj: He was even more fond of Bhurral.
+[NPC] Benack Yasoj: Had he stayed here, in Ojaveda...
+[NPC] Benack Yasoj: Well, the story would be different.
+[NPC] Benack Yasoj: Anyways, he gave his favourite toy to Bhurral.
+[NPC] Benack Yasoj: When we came of age and found a job, we had to split up.
+[NPC] Benack Yasoj: Sure, Bhurral and I still see each other from time to time, but Jjousk and her, well, they've lost contact it seems.
+[NPC] Benack Yasoj: Anyways, when Jjousk left for Hydlaa, Bhurral met him, and returned the rivnak, so that he would never forget her.
+[NPC] Benack Yasoj: And it looks like he hasn't.
+[NPC] Benack Yasoj smiles sadly.
+[NPC] Benack Yasoj: Too bad it's hurting him so badly.
+[NPC Internal] We need to find a way to help Jjousk...
+[NPC] Benack Yasoj: I agree with that, but, how?
+[NPC Internal] Perhaps a new shield? We could tell her Jjousk made it...
+[NPC] Benack Yasoj shakes his head.
+[NPC] Benack Yasoj: No, I don't think it would work.
+[NPC] Benack Yasoj: The guards get their shields replaced by Trasok.
+[NPC Narrate] -He then looks thoughtful again.-
+[NPC Internal] How about a new hammer, then?
+[NPC] Benack Yasoj: What did I just tell you?
+[NPC] Benack Yasoj: She won't accept it, most likely.
+[NPC] Benack Yasoj: It would look like you're bribing her.
+[NPC] Benack Yasoj: Let's keep thinking.
+[NPC Internal] I know! We can carve Bhurral a rivnak toy, and she'll remember Jjousk!
+[NPC] Benack Yasoj: Good idea!
+[NPC] Benack Yasoj: I bet she'll even agree to a date.
+[NPC] Benack Yasoj: You know, to catch up.
+[NPC] Benack Yasoj: I'll tell you what I need: a nice, thick branch of threestem wood.
+[NPC] Benack Yasoj: That is all!
+[NPC] Benack Yasoj: Go fetch one, I'll ready my tools.
+[NPC Internal] Here you go, a nice, thick branch of threestem wood.
+[NPC] Benack Yasoj: Yes, this one will do.
+[NPC] Benack Yasoj: Thanks, tabei.
+[NPC] Benack Yasoj: I'll get to work on it now.
+[NPC] Benack Yasoj: Meanwhile, you should go talk to Bhurral.
+[NPC] Benack Yasoj: Maybe you'll get her to loosen up a little.
+
+[To] Bhurral Varsheen
+
+[NPC Internal] Good day, Bhurral. What can you tell me about rivnaks?
+[NPC] Bhurral Varsheen: Rivnaks?
+[NPC] Bhurral Varsheen: Uhm, well, they're useful, aren't they?
+[NPC] Bhurral Varsheen: You can, hum, use them to carry items from here to there, you can make candles out of their wax, they're pretty fast...
+[NPC] Bhurral Varsheen: Why do you ask?
+[NPC] Bhurral Varsheen: Do you want one?
+[NPC Internal] No, no... About Jjousk's rivnak.
+[NPC Narrate] -She looks a little confused-
+[NPC] Bhurral Varsheen: But, Jjousk has always used a drif- Oh...
+[NPC Narrate] -She keeps quiet for a little bit, blushing under her fur.-
+[NPC Narrate] -Suddenly, her expression changes to a more hostile one.-
+[NPC] Bhurral Varsheen: Now, you!
+[NPC] Bhurral Varsheen: Don't go bothering the guards while they're on duty with stupid questions, or I'll have you thrown into a cell for the rest of the day so you learn your lesson!
+[NPC Narrate] -She goes back to standing proudly while she looks at the road leading to the city, even though she's still blushing under her fur out of embarrassment.-
+
+[To] Benack Yasoj
+
+[NPC Internal] Geez, Bhurral almost bit me...
+[NPC] Benack Yasoj smirks some and nods.
+[NPC] Benack Yasoj: Yes, I should have told you to be careful.
+[NPC] Benack Yasoj: But look, I've finished the rivnak!
+[NPC] Benack Yasoj: It's the very same that Jjousk and I carved.
+[NPC] Benack Yasoj: It even has a little dent here, on the belly.
+[NPC] Benack Yasoj: Take it to Bhurral, please.
+
+[To] Bhurral Varsheen
+
+[NPC Internal] This is for you.
+[NPC] Bhurral Varsheen takes the little wooden toy, and her eyes sparkle, looking a little wet.
+[NPC] Bhurral Varsheen: T-this...
+[NPC] Bhurral Varsheen: It's Jjousk's, isn't it?
+[NPC Internal] No, but he'd like you to have it.
+[NPC Narrate] -She sighs softly.-
+[NPC] Bhurral Varsheen: I do miss him...
+[NPC] Bhurral Varsheen: Could you tell him that?
+[NPC] Bhurral Varsheen: Or wait, even better: I'll write him a letter.
+[NPC] Bhurral Varsheen: We need to catch up.
+[NPC Narrate] -She suddenly smiles brightly.-
+[NPC] Bhurral Varsheen: Would you do me a favour, please?
+[NPC] Bhurral Varsheen: Could you go to Brado and book a table for three - myself Jjousk and Benack?
+[NPC] Bhurral Varsheen: I'll write Jjousk a letter meanwhile.
+
+[To] Brado
+
+[NPC Internal] Hello, Brado! I'd like to book a table for three.
+[NPC] Brado: A table for three?
+[NPC] Brado: I'm sorry, but I don't really book tables.
+[NPC] Brado: I have a lot of people coming and going and I need all the tables to be free, can never be sure how long someone's meal will take.
+[NPC Internal] Please? It's for Bhurral, Jjousk and Benack.
+[NPC] Brado: Say what?
+[NPC] Brado: You should have said that earlier!
+[NPC] Brado: It'd make my heart happy to see those three together again.
+[NPC] Brado: Sure, sure, go tell Bhurral I'll book her a table.
+
+[To] Bhurral Varsheen
+
+[NPC Internal] Got it, you have a table booked for whenever you need it.
+[NPC] Bhurral Varsheen: Wonderful.
+[NPC] Bhurral Varsheen: I have finished writing the letter.
+[NPC] Bhurral Varsheen: Please, give it to Jjousk.
+[NPC] Bhurral Varsheen: You don't need to tell him anything else.
+[NPC] Bhurral Varsheen: I'll tell Benack myself.
+[NPC] Bhurral Varsheen: And...
+[NPC] Bhurral Varsheen: Thank you, YOU.
+[NPC] Bhurral Varsheen: This means a lot to us.
+
+[To] Jjousk Carryt
+
+[NPC Internal] I have something for you.
+[NPC] Jjousk Carryt seems to recognize you.
+[NPC] Jjousk Carryt: Ah, it's you again...
+[NPC] Jjousk Carryt: What do you have for me?
+[NPC Internal] Bhurral gave me this.
+[NPC] Jjousk Carryt: B-Bhurral?
+[NPC Narrate] -He starts reading the letter, looking happy and affected at the same time.-
+[NPC] Jjousk Carryt: W-wow, I never thought you'd help me so much, and to think I was so rude to you...
+[NPC] Jjousk Carryt: I'm very sorry, Klyros.
+[NPC] Jjousk Carryt: Please, accept this as my gratitude and my apologies for treating you wrong.
+
+[Reward] [Money] 2107; [XP] 10800;
+

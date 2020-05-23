@@ -1,0 +1,138 @@
+[Questname] Oh Shining Crystal
+[NPC Name] Ondren Torr
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Bend the Octarch's Ear
+
+[To] Ondren Torr
+
+[NPC Internal] Got any jobs for a poor adventurer?
+[NPC] Ondren: Well honourable Stonehammer, perhaps there is something.
+[NPC] Ondren: Doing business all day can be taxing.
+[NPC] Ondren: Nothing would soothe me as much as reading a fine Kran poem.
+[NPC] Ondren: I believe that some of the greatest Kran writers lived here in Hydlaa.
+[NPC] Ondren: If you could perhaps find me a slim volume of Kran poetry I would be delighted.
+[NPC] Ondren: What say you?
+[NPC Internal] I'll see what I can find.
+[NPC] Ondren: Most kind.
+[NPC] Ondren: Good luck in your search honourable Stonehammer.
+[NPC] Ondren: Perchance the local library might have some tomes.
+
+[To] Jayose
+
+[NPC Internal] I'm looking for a book of Kran poetry.
+[NPC] Jayose: It's possible we may have some.
+[NPC Narrate] -Jayose rummages through a catalogue.-
+[NPC] Jayose: Nothing in here.
+[NPC] Jayose: Perhaps Arion…
+[NPC Narrate] -Jayose pauses a moment and then hollers at the top of his voice.-
+[NPC] Jayose: Arion!
+[NPC Narrate] -Silence, the only reply.-
+[NPC] Jayose: Arion Fildar!
+[NPC Narrate] -From upstairs a female voice shouts: 'This is a library! Be quiet!'-
+[NPC] Jayose: Oh, for the love of Talad.
+[NPC Narrate] -Jayose shouts back.-
+[NPC] Jayose: This is my library and I want that no-good, mushroom eating, lazy, useless mud dobber of an assistant!
+[NPC Narrate] -Jayose takes a deep breath and tries to control himself. In a more measured tone he continues.-
+[NPC] Jayose: That fool is probably off one of his so-called 'breaks.' If you want Kran rhymes, go find him and tell him I sent you.
+[NPC] Jayose: And while you are at it, give the little trepor spawn a good kick in his thesaurus.
+
+[To] Arion Fildar
+
+[NPC Internal] Jayose is looking for you.
+[NPC] Arion: Oh dear!
+[NPC Narrate] -Arion blanches.-
+[NPC] Arion: The master is vexed again.
+[NPC Narrate] -Arion looks at you imploringly.-
+[NPC] Arion: Please do not tell him where you found me.
+[NPC] Arion: I'll help you with anything.
+[NPC] Arion: Just name it.
+[NPC Internal] I'm on the hunt for some Kran poetry.
+[NPC] Arion: I was cataloguing poetry just the other day.
+[NPC] Arion: Let me think.
+[NPC Narrate] -Arion adjusts his spectacles absentmindedly.-
+[NPC] Arion: Yes.
+[NPC] Arion: I do recall a volume of Kran poetry.
+[NPC] Arion: What was it called again?
+[NPC] Arion: Ah…
+[NPC] Arion: It was called Oh shining Crystal.
+[NPC Narrate] -Arion suddenly looks a bit worried.-
+[NPC] Arion: But I lent it to Aliress Doomforge.
+[NPC] Arion: If you can get it from her I will scribe you a copy.
+[NPC] Arion: Deal?
+[NPC Internal] I really need that book. I'll visit her.
+[NPC] Arion: Oh thank you.
+[NPC] Arion: Thank you.
+[NPC] Arion: Hurry back when you have it.
+
+[To] Aliress Doomforge
+
+[NPC Internal] Arion said he lent you the book, 'Oh shining Crystal'. He would like it back.
+[NPC] Aliress: I do have it.
+[NPC] Aliress: The thing is…
+[NPC Narrate] - Aliress has the grace to blush a little.-
+[NPC] Aliress: I was reading it by the fireplace the other evening and I fell asleep.
+[NPC] Aliress: Somehow it must have fallen from my lap and into the embers.
+[NPC] Aliress: It's not completely ruined, but most of the pages are severely charred. I am so sorry.
+[NPC] Aliress: I will pay for the book to be replaced of course.
+[NPC] Aliress: Please take the remains and return it to Arion.
+[NPC] Aliress: He can let me know how much I owe.
+
+[To] Arion Fildar
+
+[NPC Internal] Here's the book… such as it is.
+[NPC] Arion: Oh no!
+[NPC Narrate] -Arion's glasses mist over.-
+[NPC] Arion: This was the only copy.
+[NPC] Arion: What will I do now?
+[NPC Narrate] -Arion looks wildly around in panic.-
+[NPC] Arion: Wait.
+[NPC] Arion: I have a good memory for words.
+[NPC] Arion: Yes.
+[NPC] Arion: I will scribe the book from memory.
+[NPC Narrate] -Arion whips out a blank book and begins writing.-
+[NPC] Arion: Er…
+[NPC] Arion: I don't quite remember how this line went.
+[NPC Narrate] -Arion reads aloud.-
+[NPC] Arion: '…or so I've been told, your smile like rubies, your kisses like…'
+[NPC Narrate] -Arion looks up at you.-
+[NPC] Arion: What rhymes with 'told'?
+[NPC Internal] Perhaps 'gold' is the right word?
+[NPC] Arion: Good clue!
+[NPC] Arion: Got it.
+[NPC Narrate] -Arion digs some wax out of his left ear and writes while mouthing the words.-
+[NPC] Arion: Y-o-u-r k-i-s-s-e-s l-i-k-e g-o-l-d.
+[NPC] Arion: Excellent!
+[NPC] Arion: Now let's look at the next problem line.
+[NPC] Arion: '…no love is colder.
+[NPC] Arion: In my heart's quarry, you are my…'
+[NPC Narrate] -Arion thinks again.-
+[NPC] Arion: What does with 'colder'?
+[NPC Internal] How about 'boulder'?
+[NPC] Arion: You are really good at this.
+[NPC Narrate] -Arion writes again.-
+[NPC] Arion: Y-o-u a-r-e m-y b-o-u-l-d-e-r.
+[NPC] Arion: There!
+[NPC] Arion: As good as new.
+[NPC] Arion: Just one more and we're done.
+[NPC] Arion: '…
+[NPC] Arion: for the hills know, your words are an avalanche, I am hopeless…'
+[NPC] Arion: What goes with 'know'?
+[NPC Internal] I think 'below' would fit here.
+[NPC] Arion: I a-m h-o-p-e-l-e-s-s b-e-l-o-w.
+[NPC Narrate] -Arion smiles in relief.-
+[NPC] Arion: Done.
+[NPC] Arion: Thank you my friend.
+[NPC] Arion: And here is your copy.
+
+[To] Ondren Torr
+
+[NPC Internal] You won't believe it. I found your book!
+[NPC] Ondren: Thank you, honourable Stonehammer.
+[NPC] Ondren: I appreciate your kindness.
+[NPC] Ondren: I will not forget you, -name-.
+[NPC] Ondren: Please take this as a small token of my gratitude.
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Crystal glyph; [Faction] 10, Science Association
+

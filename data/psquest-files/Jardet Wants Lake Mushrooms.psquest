@@ -1,0 +1,25 @@
+[Questname] Jardet Wants Lake Mushrooms
+[NPC Name] Jardet Forsill
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Introduction to Xiosia; [Item] 8, Lake Mushrooms
+
+[To] Jardet Forsill
+
+[NPC Internal] Greetings Jardet. Do you need anything from outside the city?
+[NPC] Jardet: I am trying to introduce some new species into this garden as an experiment.
+[NPC] Jardet: Do you think you could assist me, Enkidukai?
+[NPC Internal] Mushrooms, sure I know where to find some.
+[NPC] Jardet: Very good!
+[NPC] Jardet: I would like you to fetch me eight lake mushrooms from outside the city.
+[NPC] Jardet: I will try and get their spores to grow and add them to those growing here and see how they do around the pool.
+[NPC Narrate] -Go to the lake inside the Bronze Doors mine. You can find Lake Mushrooms here. If you can't select the mushrooms with the mouse, use ”/target next item”, then ”/pickup”.-
+[NPC Internal] As promised, here are your mushrooms.
+[NPC] Jardet: Thank you.
+[NPC] Jardet: These will be most helpful, YOU.
+[NPC] Jardet: Here is a little something for your efforts.
+
+[Reward] [Money] 1297; [XP] 9400; [Item] 1, Summon glyph; [Faction] 10, Seeds of Wildwood; 
+

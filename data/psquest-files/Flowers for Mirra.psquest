@@ -1,0 +1,55 @@
+[Questname] Flowers for Mirra
+[NPC Name] Trankin Quartzforger
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Helping the Guards; [Item] 3, Charmflowers
+
+[Info] You can find the Charmflowers near Nyshyn.
+
+[To] Trankin Quartzforger
+
+[NPC Internal] Is there anything I can help you with?
+[NPC Narrate] -Trankin blushes slightly but regains his calmness quickly.-
+[NPC] Trankin: Aye, there is indeed a task me needs help with.
+[NPC] Trankin: There is this dwarven lass…
+[NPC Narrate] -Trankin clears his throat nervously.-
+[NPC] Trankin: Me'd like to send her some flowers.
+[NPC Narrate] -Trankin looks slightly embarrassed.-
+[NPC] Trankin: Me's not used to these things, ya know?
+[NPC] Trankin: Could ya help me?
+[NPC Internal] Anything for love, what do you want me to do?
+[NPC] Trankin: Me knew me could rely on ya, Enkidukai.
+[NPC] Trankin: The lass is named Mirra Houphen and lives in Hydlaa.
+[NPC] Trankin: Me don't know much about flowers, so me hopes me can rely on ya to find a suitable gift for her.
+[NPC] Trankin: Me knows she often visits Jardet in the gardens, me thinks he might have some ideas too.
+[NPC Narrate] -YOU go pick 4 Charmflowers near Nyshyn.-
+
+[To] Mirra Houphen
+
+[NPC Internal] Four lovely Charmflowers for one lovely lady.
+[NPC] Mirra: Oh my, It had been a while since I have seen so many charmflowers.
+[NPC Narrate] -Mirra takes the flowers from you and raises them to her nose.-
+[NPC] Mirra: I do so much enjoy the smell.
+[NPC] Mirra: They are very hard to find.
+[NPC] Mirra: It must have taken you quite some time to collect them all.
+[NPC Narrate] -Mirra smiles as she looks at the flowers.-
+[NPC] Mirra: Was this your idea?
+[NPC Internal] No, I cannot take the credit for it.
+[NPC Narrate] -Mirra eyes brighten with joy.-
+[NPC] Mirra: Oh, well who sent them then?
+[NPC Internal] It is from Trankin Quartzforger.
+[NPC Narrate] -Mirra blushes shyly.-
+[NPC] Mirra: How nice of him, tell him that I liked the flowers greatly.
+
+[To] Trankin Quartzforger
+
+[NPC Internal] Well done, Trankin. Mirra loved the flowers.
+[NPC Narrate] -Trankin looks content at your news.-
+[NPC] Trankin: Thank ya, Sir.
+[NPC] Trankin: Me thinks me might be able to find the nerves to make the next delivery meself.
+[NPC Narrate] -Trankin rummages around and produces a few coins, handing them to you.-
+[NPC] Trankin: Here's a reward for ya help, which me appreciates.
+
+[Reward] [Money] 1000; [XP] 8000
+

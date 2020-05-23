@@ -1,0 +1,36 @@
+[Questname] A Measure of Protection
+[NPC Name] Kethzun Guthazik
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] Yes
+
+[Need] [Item] 2, Leather Boots
+
+[To] Kethzun Guthazik
+
+[NPC Internal] You look quite busy. Do you need a hand with anything?
+[NPC] Kethzun Guthazik: Busy?
+[NPC] Kethzun Guthazik: You could say that.
+[NPC] Kethzun Guthazik: sets his hammer down on the ground, leaving the handle leaning against the anvil. He stretches, his arms and wings spread wide.
+[NPC] Kethzun Guthazik: Too much time at the anvil, lately.
+[NPC] Kethzun Guthazik: You want to help?
+[NPC] Kethzun Guthazik: I'm getting more and more orders for armour lately, and it's getting impossible to keep up.
+[NPC] Kethzun Guthazik: Are you looking for some work making armour?
+[NPC Internal] Yes, I can help make some armour.
+[NPC] Kethzun Guthazik: Excellent.
+[NPC] Kethzun Guthazik: You'll need to provide your own raw materials, but I'll pay you for your work and give you some tips on armour making.
+[NPC Internal] Sounds fair to me. What precisely do you need me to make?
+[NPC] Kethzun Guthazik: Well, I mostly work with steel but I've got a number of orders for leather armour too.
+[NPC] Kethzun Guthazik: If you can make two pairs of leather boots it would leave me free to work on this chain mail.
+[NPC Internal] Here are the leather boots that you asked for. Two pairs.
+[NPC Narrate] Kethzun Guthazik turns to you, setting his hammer down again.
+[NPC] Kethzun Guthazik You're done?
+[NPC] Kethzun Guthazik Good to hear.
+[NPC Narrate] -He takes the boots from you and gives them a quick look before setting them down on a nearby table.-
+[NPC] Kethzun Guthazik Nice work.
+[NPC] Kethzun Guthazik Here are some tria for your work.
+[NPC] Kethzun Guthazik Make sure to check back later, as I'll likely need more work done.
+[NPC] Kethzun Guthazik Everyone needs at least one pair of good leather boots.
+
+[Reward] [Money] 2000; [XP] 8000; [Skill] 1, Armor Making;
+

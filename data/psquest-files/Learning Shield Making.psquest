@@ -1,0 +1,38 @@
+[Questname] Learning Shield Making
+[NPC Name] Trasok Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Trasok's Ancient sword; [Item] 2, Steel Stocks; [Item] 2, Rock Picks
+
+[To] Trasok Starhammer
+
+[NPC Internal] Can you teach me how to make shields?
+[NPC] Trasok: Shield making is a valuable trade skill.
+[NPC] Trasok: Are you interested in learning?
+[NPC Internal] Yes.
+[NPC] Trasok: Good, I can teach you how to make some simple shields.
+[NPC] Trasok: Everything starts with raw materials.
+[NPC] Trasok: Find and bring me two pieces of steel stock and I will teach you more.
+[NPC Internal] Here are your steel stocks.
+[NPC] Trasok: Ah good.
+[NPC] Trasok: It is important that you find a good source of metal stock.
+[NPC] Trasok: Once you start making shields, you will probably not want to spend your time mining or refining ore.
+[NPC] Trasok: The first step is to acquire the proper skills.
+[NPC] Trasok: To make a shield you need both blacksmith and shield making skills.
+[NPC] Trasok: You will also need a special book that I can give you.
+[NPC] Trasok: Before teaching you any more, I need to know if you are serious about being a shield smith.
+[NPC] Trasok: If so, find for me two rock picks and bring them here.
+[NPC] Trasok: I'll be waiting.
+[NPC Internal] Two rock picks.
+[NPC] Trasok: Ah, great.
+[NPC] Trasok: Get some ingots and heat them up in the forge.
+[NPC] Trasok: You use different quantities to make different items.
+[NPC] Trasok: Then hammer the shield into shape.
+[NPC] Trasok: Combine it with a handle and a shield core, and you are done making a very basic shield.
+[NPC] Trasok: You will then need a riveter to put the pieces together.
+[NPC] Trasok: Don't forget to experiment, and be sure to learn the needed skills from me before trying to make a shield.
+[NPC] Trasok: Good luck.
+
+[Reward] [Money] 5130; [XP] 13600; [Item] 1, Catalog of Shields; [Faction] 25, Smith Association
+

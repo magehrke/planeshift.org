@@ -1,0 +1,65 @@
+[Questname] Beginning the Red Way Apprenticeship
+[NPC Name] Ferryd Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Without a Way; [Item] 1, Apprentice's Red Way Wand; [Skill] 20, Red Way; [Item] 1, Fire glyph
+
+[Info] You get the glyph back.
+
+[To] Ferryd Shillor
+
+[NPC Internal] Please accept this wand as proof I am ready to join the Red Way Circle.
+[NPC] Ferryd: Welcome, student of the red way.
+[NPC] Ferryd: I must say you look like you have enjoyed your training with Levrus, or whoever it was.
+[NPC Narrate] -Ferryd hands you back the wand with a knowing grin.-
+[NPC] Ferryd: I have been told about you, YOU , and I think you show promise.
+[NPC] Ferryd: Normally, you would have to travel to the forth level to gain training in the Red Way Circle, but since I am here for a time, I can begin your instruction myself.
+[NPC] Ferryd: Be grateful that you are learning from a master, not a lower member like the other Circles.
+[NPC] Ferryd: And let's begin with some basics.
+[NPC] Ferryd: Every element can destroy, and every element can purify, but there's one element faster than the others.
+[NPC] Ferryd: What is this element?
+[NPC Internal] fire
+[NPC] Ferryd: Easy, isn't it?
+[NPC] Ferryd: Fire can destroy, can purify, but it's also used to change.
+[NPC] Ferryd: And it is dangerous too.
+[NPC] Ferryd: Remember that.
+[NPC] Ferryd: Wise men use this danger against their enemies and use the power of change to became better and better.
+[NPC Narrate] -Ferryd nods, looking proud of himself for the explanation.-
+[NPC] Ferryd: Now, for the formalities.
+[NPC] Ferryd: Please confirm that your name is indeed YOU.
+[NPC Internal] Yes, my name is YOU.
+[NPC Narrate] -Ferryd grins.-
+[NPC] Ferryd: Sure it is, well done.
+[NPC] Ferryd: You know how stuffy elders can be with their conventions and formalities.
+[NPC Narrate] -Ferryd writes your name on the report and hands it to you.-
+[NPC] Ferryd: You are required to take this report to our top trainer and the most powerful and handsome of all Archmages on the Dome.
+[NPC] Ferryd: But before you run off, you will also need to bring him a red way glyph together with the report.
+[NPC] Ferryd: This particular glyph is responsible for a spell that will launch fire from your arm to damage a foe.
+[NPC] Ferryd: It is the single most common of all Red Way Glyphs and is often found for sale.
+[NPC] Ferryd: Good luck, Initiate.
+[NPC Internal] Your report and the glyph you requested.
+[NPC Narrate] -Ferryd bursts out laughing.-
+[NPC] Ferryd: I see you have found the handsome Red Way Archmage.
+[NPC Narrate] -Ferryd breathes deep as he tries to contain himself.-
+[NPC] Ferryd: I never grow tired of that one, I don't know what I would do if i did.
+[NPC] Ferryd: Now let's look at your glyph.
+[NPC Narrate] -Ferryd inspect the glyph.-
+[NPC] Ferryd: Ah very good.
+[NPC] Ferryd: Red Way is not all about aggression you know, but a lot of it is.
+[NPC] Ferryd: I must let you know that training with me will never be boring, and in no time we will make you a master of The Red Way.
+[NPC Narrate] -Ferryd snickers again as he turns his attention away from you.-
+[NPC] Ferryd: Ah yes, before I forget, you will need a certain glyph before you may continue your training.
+[NPC] Ferryd: I once gave a Glyph to a person named Meoeor who was traveling.
+[NPC] Ferryd: I think that would be a good first task for you to show your dedication to the Red Way.
+[NPC] Ferryd: Find him and that glyph.
+[NPC] Ferryd: I doubt he will just give it to you.
+[NPC] Ferryd: Ask if you can help him first.
+[NPC] Ferryd: Then use it to continue your training.
+[NPC] Ferryd: Once you have the glyph and sufficient training, return to me and present your Red Way Wand to me.
+[NPC] Ferryd: And with that said I am happy to bestow the title of Trainee Apprentice of the Red Way.
+[NPC] Ferryd: It's not much of a title, but if you study hard you won't have it for long.
+[NPC] Ferryd: Oh and before I forget if you find yourself in or about the Tavern in Hydlaa search out Throian, I hear he is annoyed with our enchanter.
+
+[Reward] [XP] 9400; [Faction] 10, Red Order
+

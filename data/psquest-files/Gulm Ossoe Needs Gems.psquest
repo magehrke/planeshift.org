@@ -1,0 +1,91 @@
+[Questname] Gulm Ossoe Needs Gems
+[NPC Name] Gulm Ossoe
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Commission for Gulm Ossoe; [Item] 2, Red Liquor Mugs
+
+[To] Gulm Ossoe
+
+[NPC Internal] Hello again! I'm back to see if you have any other little jobs?
+[NPC Narrate] -Gulm turns from admiring a large chunk of stone.-
+[NPC] Gulm: It's you!
+[NPC] Gulm: Do not sneak up on people!
+[NPC Narrate] -Gulm laughs.-
+[NPC] Gulm: I have nothing to sell now, but I just received a new commission.
+[NPC] Gulm: In fact, I could use some help getting some shinies for this.
+[NPC Narrate] -Gulm gestures to the stone.-
+[NPC] Gulm: I know it does not look like much now, but it will be soon.
+[NPC] Gulm: So, will you help?
+[NPC Internal] Yes, what do you need.
+[NPC Narrate] -Gulm smiles broadly.-
+[NPC] Gulm: Excellent.
+[NPC] Gulm: Now tell me, you seem to have a good head on your shoulders, which do you think suits this commission?
+[NPC] Gulm: A ruby, an emerald, or…
+[NPC Narrate] -Gulm leans in and whispers.-
+[NPC] Gulm: …something unique?
+[NPC Internal] Let's go for something unusual.
+[NPC Narrate] -Gulm nods approvingly.-
+[NPC] Gulm: My thoughts exactly.
+[NPC Narrate] -Gulm voice lowers.-
+[NPC] Gulm: There is a dwarf whom I met while mining gems in the dungeon below the city of Hydlaa, he has sent word to me that he found a very unique gem near his post, and it was mine if I wanted it.
+[NPC Narrate] -Gulm looks at the stone and then back to you.-
+[NPC] Gulm: I need it now; please go find this fellow, his name is Crosh Dunehammer, and tell him I sent you.
+[NPC Narrate] -Gulm looks around.-
+[NPC] Gulm: Go quickly before he gives it to someone else!
+
+[To] Crosh Dunehammer
+
+[NPC Internal] Gulm sent me.
+[NPC] Crosh: Gulm!
+[NPC] Crosh: That crazy Kran.
+[NPC] Crosh: What does it want?
+[NPC Narrate] -Crosh looks you up and down warily.-
+[NPC Internal] Kra said 'something unusual'.
+[NPC Narrate] -Crosh relaxes.-
+[NPC] Crosh: Uh, yeah.
+[NPC] Crosh: That silly gem I found.
+[NPC] Crosh: One of them miners must've dropped it.
+[NPC Narrate] -Crosh digs around in his pack and pulls out a blue gem. He lifts it up before his eyes and squints at it.-
+[NPC] Crosh: Huh.
+[NPC] Crosh: Before I give it to you, I needs me a little favour.
+[NPC] Crosh: Will you help?
+[NPC Internal] Yes, what do you need?
+[NPC Narrate] -Crosh nods enthusiastically.-
+[NPC] Crosh: Good, good, Madam.
+[NPC] Crosh: Here's what I'll be needin' from you.
+[NPC] Crosh: When I'm not guarding the bridge, I spend a wee bit of time wettin' the beard, if you know what I mean.
+[NPC Narrate] -Crosh holds up the blue gem for a moment.-
+[NPC] Crosh: 'Tis how I found this beauty- nearly tripped over it, I did.
+[NPC] Crosh: Alas, I seem to be all out of wettin' supplies at the moment.
+[NPC Narrate] -Crosh kicks a nearby empty mug and it falls over the edge.-
+[NPC] Crosh: Bring me a couple mugs of that red liquor and I can let you have this here beauty for Gulm.
+[NPC] Crosh: Go now and mind yer feet on the way out, it can be a mite twisty.
+[NPC Narrate] -Crosh laughs.-
+[NPC Internal] gives Crosh two mugs of red liquor.
+[NPC] Crosh: Ahhh..
+[NPC] Crosh: thank you, my good Enkidukai.
+[NPC Narrate] -Crosh takes a long swig from one of the mugs and then tosses you the gem.-
+[NPC] Crosh: There's my part of the deal.
+[NPC] Crosh: Give Gulm my thanks for sending you my way.
+
+[To] Gulm Ossoe
+
+[NPC Internal] Crosh sends his thanks.
+[NPC] Gulm: Ah, very good.
+[NPC] Gulm: I hope you were able to bring back that special gem he's found.
+[NPC Internal] Here's your something special, it really is lovely.
+[NPC Narrate] -Gulm eyes light up as kra holds the sapphire up and examines it and murmurs 'This is perfect! I do hope that he finds more.'-
+[NPC Narrate] -Gulm continues to stare at the sapphire.-
+[NPC] Gulm: I must take this to Ondren myself…
+[NPC Narrate] -Gulm turns to prepare to leave, gathering up a few items before remembering your presence.-
+[NPC] Gulm: Oh, yes.
+[NPC] Gulm: I almost forgot!
+[NPC] Gulm: Here, YOU, your reward.
+[NPC] Gulm: I have heard much about you since we last met, seems you are earning a bit of a nice reputation!
+[NPC Narrate] -Gulm bows and gives you sixteen golden circles and a Brown Way glyph.-
+[NPC] Gulm: Do come back and help me in the future.
+[NPC Narrate] -Gulm waves goodbye and goes back to preparing for the journey.-
+
+[Reward] [Money] 5130; [XP] 13600; [Item] 1, Tree glyph; [Faction] 35, Artists Association
+

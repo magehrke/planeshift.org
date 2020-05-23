@@ -1,0 +1,27 @@
+[Questname] Know the Crystal Way
+[NPC Name] Govell Mihdren
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Without a Way; [Item] 1, Arrow glyph
+
+[Info] You get the glyph back.
+
+[To] Govell Mihdren
+
+[NPC Internal] Could you tell me about the Crystal Way?
+[NPC] Govell: Hello Enkidukai, I am Govell Mihdren, Archmage of the Crystal Way.
+[NPC] Govell: Are you interested in following the path of the Crystal Way?
+[NPC Internal] Yes, I am very interested.
+[NPC] Govell: Good, but to be able to follow the path of the Crystal Way, you must first be able to identify it in its many forms.
+[NPC] Govell: Levrus, the magic shop owner sells a number of glyphs from different Ways.
+[NPC] Govell: I want you to go to him and purchase the glyph which is of the Crystal Way.
+[NPC] Govell: Once you have it return to me and then we shall continue.
+[NPC Internal] Here's the glyph you wanted. An Arrow glyph.
+[NPC] Govell: Ah yes, this is the glyph I meant, very good.
+[NPC] Govell: This is one of the simplest Crystal Way glyphs to use, and conversely is very flexible.
+[NPC] Govell: Return to me later and we shall continue.
+[NPC] Govell: Here is the glyph back and a small reward for doing as I asked.
+
+[Reward] [Money] 2107; [XP] 9400; [Faction] 15, Crystal Order
+

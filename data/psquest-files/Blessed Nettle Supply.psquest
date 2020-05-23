@@ -1,0 +1,36 @@
+[Questname] Blessed Nettle Supply
+[NPC Name] Charisa Malod
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] Oh Shining Crystal; [Money] 10
+
+[To] Charisa Malod
+
+[NPC Internal] Can I be of assistance?
+[NPC] Charisa: I do indeed need some help.
+[NPC] Charisa: You see, I am all out of blessed nettle leaves.
+[NPC Narrate] -Charisa ponders the situation for a moment.-
+[NPC] Charisa: They usually grow somewhere in the vicinity of Ojaveda.
+[NPC] Charisa: You might ask the alchemist there to sell you some.
+[NPC] Charisa: Would you please fetch some for me?
+[NPC Internal] I'm happy to help, even in such a small way.
+[NPC Narrate] -Charisa smiles sweetly.-
+[NPC] Charisa: Thank you, I will wait here for your return.
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Do you have any blessed nettle leaves in stock?
+[NPC Narrate] -Vladovic rummages around under his counter and eventually produces a large bundle of blessed nettles.-
+[NPC] Vladovic: I can sell you this bundle for only ten tria.
+[NPC Internal] Yes, I would like to buy those blessed nettles from you.
+[NPC] Vladovic: A pleasure doing business with you.
+[NPC] Vladovic: Here are your nettle leaves.
+[NPC Narrate] -Vladovic hands you the bundle.-
+
+[To] Charisa Malod
+
+[NPC Internal] hands the bundle to Charisa stem end first.
+[NPC] Charisa: Thank you, kind Sir.
+[NPC] Charisa: Here are a few tria for your effort and some reagents.

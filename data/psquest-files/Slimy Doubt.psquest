@@ -1,0 +1,222 @@
+[Questname] Slimy Doubt
+[NPC Name] Henas Kenar
+[Checkup] 2017-04-09
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Platinum Warriors
+
+[To] Henas Kenar
+
+[NPC Internal] Henas Kenar? I am Huarwar, Initiate of the Order of the Keen Edge. Maybe Percival told you about me?
+[NPC] Henas: Told me about you, Huarwar?
+[NPC] Henas: I am Champion of the order, why should I know about you?...
+[NPC] Henas: Never mind!
+[NPC] Henas: I am just playing around.
+[NPC] Henas: Ahah!
+[NPC] Henas: Don't mind me, sometimes patrolling the city is boring if nothing happens.
+[NPC] Henas: Not it's often the case in Ojaveda but...
+[NPC] Henas: Ok...
+[NPC] Henas: I am too talkative.
+[NPC] Henas: So, I think I am supposed to give you a small test of your abilities concerning...
+[NPC ME] Henas Kenar grabs a thin paper from his pocket and reads.
+[NPC] Henas: Concerning the Side-Thrust and Lunge techniques.
+[NPC] Henas: Get ready to execute them, will you?
+[NPC] Henas: Don't take too long.
+[NPC Internal] I am ready.
+[NPC ME] Henas Kenar points toward your blade, nodding.
+[NPC] Henas: Show me that you are still practising what you have learned so far.
+[NPC] Henas: Perform a Side-Thrust then take a few steps back and Lunge a few times in a row, please?
+[NPC] Henas: Be sure not to fall on the floor while doing it, THAT would be annoying.
+[NPC Narrate] -You perform the moves as requested and Henas nods apparently satisfied.-
+[NPC] Henas: Not bad, not bad Huarwar.
+[NPC] Henas: Looks like you are ready to learn something new, hum, eh?
+[NPC] Henas: I will now teach you the next move in the classic one-hand sword style, the Beat-Attack.
+[NPC] Henas: This...
+[NPC ME] Henas Kenar is interrupted by a Groffel that lands next to him, a message is tied to its neck.
+[NPC Internal] Ah. I can wait if you like, come back to you later?
+[NPC ME] Henas Kenar is reading the message.
+[NPC Narrate] -He does not answer immediately and you see him frowning and he begins to growl, his ears falling backwards.-
+[NPC] Henas: Vaatjho!
+[NPC] Henas: Idiots...
+[NPC ME] Henas Kenar shakes his head.
+[NPC] Henas: A message from Percival is it not?
+[NPC] Henas: Again...
+[NPC] Henas: They are all the same, and all about the same dung...
+[NPC Internal] What's the problem, if I may ask?
+[NPC] Henas: Hum.
+[NPC] Henas: I should have guessed Percival would not have briefed you before sending you to me.
+[NPC] Henas: Looks like a lot of the Order's members have resigned lately.
+[NPC] Henas: What a shame.
+[NPC] Henas: No one has a clue as to why those silly people quit.
+[NPC] Henas: Worst of all, they are not just recruits deciding to go back to mindlessly training on a dummy.
+[NPC] Henas: There are highly ranked members.
+[NPC ME] Henas Kenar raises an eyebrow and looks at you.
+[NPC] Henas: Hum, looks like I found the right test for you.
+[NPC] Henas: You have a new mission.
+[NPC Internal] Ok... And it is?
+[NPC ME] Henas Kenar ignores your question.
+[NPC] Henas: Well, I will teach you the Beat-Attack.
+[NPC] Henas: I am sure you will be in need of it.
+[NPC ME] Henas Kenar unsheathes his sword and waits for you to be on guard.
+[NPC Narrate] -Before you are able to start an offensive attack, he strongly beats your sword with his own, obliging you to block.-
+[NPC Narrate] -As soon as you try to regain balance and a guarding position, he takes a very quick step to the side, forms a spiral with his wrist and lunges, stopping just before piercing your chest.-
+[NPC] Henas: See it?
+[NPC] Henas: I keep your weapon busy just before doing my next move.
+[NPC] Henas: Which is fatal.
+[NPC] Henas: This Beat-Attack will never break through your defences unless you are stupid enough not to block me.
+[NPC] Henas: But, while your weapon is busy you are not going to hit me and it gives me a small time to perform the second attack.
+[NPC] Henas: Got it?
+[NPC Internal] Yes... Like this? [You repeat the move.]
+[NPC] Henas: Exactly!
+[NPC] Henas: Remember, a Beat-Attack will open up a short opportunity for you to launch a fatal attack.
+[NPC] Henas: Short...
+[NPC] Henas: Now the mission.
+[NPC] Henas: Percival thinks Moren Findel has all the information you need, so go see him.
+[NPC] Henas: He has been a Champion of the Order for more than 10 years.
+[NPC] Henas: Have fun, Huarwar.
+[NPC] Henas: And if you meet any of those "tail-pullers", teach them a lesson.
+[NPC ME] Henas Kenar smirks, giving you a wink.
+
+[To] Moren Findel
+
+[NPC Internal] Moren, hello. I am Initiate of the Keen Edge and come from Henas Kenar.
+[NPC] Moren: Aye, Henas sent me a Groffel 'bout it.
+[NPC] Moren: Thank ye for comin', we're in need of hands.
+[NPC] Moren: Though, sorry but I have to insist on a thin'.
+[NPC] Moren: Every member should take the Order as seriously as I do.
+[NPC] Moren: So, before givin' ye the information, I would like to check 'bout a thin' that ye SHOULD know.
+[NPC] Moren: The tenets.
+[NPC] Moren: What is the first tenet of our Order?
+[NPC Internal] [You recite.] Fight with justice, your sword will protect the weak and defend the just.
+[NPC] Moren: Aye!
+[NPC] Moren: Well done!
+[NPC] Moren: Live by it!
+[NPC] Moren: Swear by it!
+[NPC] Moren: We're here for justice, we're here to serve and to help!
+[NPC] Moren: By my faith and force, I live by it!
+[NPC ME] Moren Findel smiles, proudly then clears his throat.
+[NPC] Moren: Good.
+[NPC] Moren: Now, listen well.
+[NPC] Moren: Yer mission consists in gettin' hold of Thrynt Glass, one of yer co-initiates in the Order.
+[NPC] Moren: He was sent on an errand an' Percival hasn't heard from him for quite some time.
+[NPC] Moren: As for the details...the mission was a result of a report by a merchant called Gofi Mitu, a Nolthrir sellin' slimy seaweed all over the Dome.
+[NPC Internal] Oh yes! I met him not too long ago when training with Percival.
+[NPC] Moren: Oh?
+[NPC] Moren: Right, that's good.
+[NPC] Moren: Gofi regularly sends caravans to the Bronze Doors Fortress where they use the seaweed in soups or powders due to their high nourishin'.
+[NPC] Moren: In the last caravan, he slipped in a very particular book that needed to reach the commander...
+[NPC] Moren: An' it never did.
+[NPC] Moren: We sent Thrynt Glass on the mission because he currently trains at the Fortress with the Shadow Squadron.
+[NPC Internal] I see. And Thrynt didn't send any news?
+[NPC] Moren: Like I said, that's it.
+[NPC] Moren: So ye go an' see where he's at, eventually give him a hand to finish this mission, have it done an' classified.
+[NPC] Moren: I suppose ye can start by the storage manager of the fortress, Tarmeen Alecheech, he must have the last pieces of information.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Good day Tarmeen. I am sent by the Order of the Keen Edge concerning the Nolthrir caravan.
+[NPC] Tarmeen: Ah!
+[NPC] Tarmeen: By the gods, I am glad to see that the Order is taking this affair seriously!
+[NPC Narrate] -He says, ironically.-
+[NPC] Tarmeen: Not only have we lost track of the caravan, convoying goods under MY watch, but we've also "lost" the person supposed to retrieve it.
+[NPC] Tarmeen: That's interesting.
+[NPC] Tarmeen: What is the Keen Edge planning to do about it?
+[NPC MY] Tarmeen Alecheech's tone clearly implies that he expect a proper answer.
+[NPC Internal] Please provide me with all the information you have and I will deal with it. I am not leaving the fortress until it is done.
+[NPC ME] Tarmeen Alecheech looks at you for a moment, then nods.
+[NPC] Tarmeen: All right.
+[NPC] Tarmeen: I sense determination in you and I like that, so here is what you need to know.
+[NPC] Tarmeen: Yesterday, around this hour even, we received a message from the caravan leader informing us that they were near the outskirts of the fortress and would be arriving soon.
+[NPC] Tarmeen: Excellent initiative because we have more or less their last known position.
+[NPC] Tarmeen: Which is at the crossroad, just after the passageway off the Fortress territory.
+[NPC Internal] Right, thank you. I will have a look. But first, can you tell me where I can find Thrynt Glass?
+[NPC] Tarmeen: As far as I know he returned with the Shadow Squadron soldiers and Zhaomal.
+[NPC] Tarmeen: Should be just by the water wheel back here.
+[NPC] Tarmeen: Please, Huarwar, concerning the caravan, simply provide us with a position and I will send a squadron to retrieve eventual goods.
+[NPC] Tarmeen: Thanks.
+
+[To] Thrynt Glass
+
+[NPC Internal] Hello, Thrynt? I am Huarwar, Initiate of the Keen Edge. I am here to help you finish the mission concerning Gofi Mitu's caravan, especially the book.
+[NPC ME] Thrynt Glass frowns, seems embarrassed but determined in same time.
+[NPC] Thrynt: Oh?
+[NPC] Thrynt: Well good luck.
+[NPC] Thrynt: I am not doing this mission.
+[NPC Internal] Wait, why? I am here to help. We have more chance to finish it properly together. What has happened?
+[NPC] Thrynt: What happened, hum?!
+[NPC] Thrynt: Speak of honour, of justice, of dedication!
+[NPC] Thrynt: Those don't feed families!
+[NPC] Thrynt: For months I have been training to become part of the Shadow Squadron, for months I have been trying to work hard and impress so the squadron appreciates me and my work, trying to keep links with the nobles of Hydlaa so I can hope to become an Officer!
+[NPC] Thrynt: For months I've also trained in the Order to gain reputation with a sword, but it doesn't feed a family!
+[NPC ME] Thrynt Glass is clearly emotionally broken and on nerves.
+[NPC] Thrynt: I am doing all I can to support my family, to make it so my children have gifts for their birthday.
+[NPC] Thrynt: Do you think the Order pays us for what we do?
+[NPC] Thrynt: Those missions that we do alone, where we risk our life more than once?
+[NPC] Thrynt: Do you see the colour of one golden circle?
+[NPC] Thrynt: No!
+[NPC] Thrynt: So I am not doing it, no I am not doing it!
+[NPC Internal] Calm down Thrynt, I understand...
+[NPC] Thrynt: If you care that much, you go find the book.
+[NPC] Thrynt: The contract is yours.
+[NPC] Thrynt: It's not worth it for what the Order is rewarding us with.
+[NPC ME] Thrynt Glass hesitates then adds some information about the mission.
+[NPC] Thrynt: Tarmeen mentioned several cut-throat attacks on the road so I suppose the reason for the disappearance of the caravan is simply due to them.
+[NPC] Thrynt: There are some abandoned houses and I wouldn't be surprised if they were used as a hideout.
+[NPC Narrate] --INFORMATION- You need to find the correct building and then right click on the floor to "search", you will see an on screen message when you find the right spot.-
+[NPC Internal] I have searched, but I can't find anything.
+[NPC ME] Thrynt Glass sighs.
+[NPC] Thrynt: Move down out of the fortress.
+[NPC] Thrynt: Some distance from the base of the cliffs are a series of abandoned houses, those are the ones you need to search.
+[NPC] Thrynt: I'm certainly not going to show you myself, so just go and look harder...
+
+[Info] Go to the abondened houses in front of the fortress. They are located in a 30 degree angle on the right side, 20 seconds walk from the exit of the fortress. If you are there, click on the ground behind the door of the right house.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Tarmeen, the goods have been retrieved. The caravan was attacked by cut-throats on the road. [You hand over the seaweed bag and the book.]
+[NPC] Tarmeen: Cut-throats again?
+[NPC] Tarmeen: By Laanx this is enough!
+[NPC] Tarmeen: I will immediately send a squadron to clean this area.
+[NPC] Tarmeen: I have lingered far too long without taking action.
+[NPC ME] Tarmeen Alecheech checks the bag.
+[NPC] Tarmeen: All seems to be here and the bag is yet sealed.
+[NPC] Tarmeen: Perfect.
+[NPC] Tarmeen: I guess the thieves had no use for the seaweed...we have been very lucky, here.
+[NPC Narrate] -The Ylian is now looking at the book.-
+[NPC] Tarmeen: Hum, yes, all seems to be in order.
+[NPC] Tarmeen: Right, Huarwar, I thank you for dealing with this affair diligently.
+[NPC] Tarmeen: I won't keep a grudge against the Order, rather praise its honour.
+[NPC] Tarmeen: I will talk directly to your superiors about it.
+[NPC] Tarmeen: As for you, please have this for your efficiency, I personally always reward it!
+
+[To] Moren Findel
+
+[NPC Internal] Moren, I am back. The case is closed.
+[NPC] Moren: Ah, Huarwar.
+[NPC] Moren: Good to hear.
+[NPC] Moren: Tell me what happened then, is Thrynt all right?
+[NPC Internal] Well in fact, Thrynt did find out what happened to the goods and their location. I just had to go and retrieve them. [Option 1/2]
+[NPC] Moren: Teamwork then, as a matter of fact...
+[NPC] Moren: Right.
+[NPC] Moren: The important thing is that the requested service has been completed.
+[NPC] Moren: As a reward, I officially name ye Disciple of the Order of the Keen Edge!
+[NPC] Moren: Congratulations!
+[NPC Internal] Thank you Moren! I would like to entrust to the attention of the Order items I found alongside the caravan goods.
+[NPC] Moren: Hum?
+[NPC] Moren: Which exactly, Disciple?
+[NPC Narrate] -You hand Moren the piece of Laanx church flag and the instructions letter.-
+[NPC ME] Moren Findel stays silent, looking at the items then, says on a deaf tone.
+[NPC] Moren: This flag seems to follow us..
+[NPC] Moren: Rather hauntin'.
+[NPC] Moren: It looks like the flag of Ylian Roniston Shane.
+[NPC] Moren: You've already heard of him if I am right?
+[NPC] Moren: In Pathajiti.
+[NPC] Moren: And this letter...
+[NPC] Moren: Hum.
+[NPC] Moren: I will go and see Percival, thank ye Huarwar.
+[NPC] Moren: Yer keen eyes and sharp mind serve the Order well.
+[NPC] Moren: Keep trainin' yer techniques for now, stay in shape.
+[NPC] Moren: When ye are ready to make a demonstration, eyes closed, meet Gurgus Dahnik in Gugrontid.
+[NPC] Moren: Kra is one of the high managers of the Order.
+
+[Reward] [Money] 2000; [Skill] 1, Sword; [Combat Move] Single Handed Sword, Beat-attack; [Faction] 25, Order of the Keen Edge

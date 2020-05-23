@@ -1,0 +1,158 @@
+package main;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+
+import questOverview.Quest;
+import quests.ObjToPhp;
+import quests.ObjToSql;
+import quests.PsqToObj;
+import spellbook.Spellbook;
+
+public class Main {
+
+	/**
+	 * This function: 
+	 * (1.) creates an SQL file which is supposed to be uploaded to
+	 * the kingdomofvalour.de database. This inserts data about the game Planeshift
+	 * which is needed for the website.
+	 * 
+	 * (2.) we create '.html' quest files about the quests in the game Planeshift
+	 * which will be accessed (once uploaded) through various links on the website.
+	 * 
+	 * 
+	 * NOTE: We use the variable PATHforPHPoutput which has to be set to the
+	 * standard output folder for our '.php' files. This has to be done in the
+	 * 'utilities.Constants' class.
+	 * 
+	 * @param args
+	 *            Nothing, as we don't use any input from the keyboard
+	 * @throws IOException
+	 *             If the file we want to write our content to, cannot be found.
+	 */
+	public static void main(String[] args) throws IOException {
+		
+		
+		// TODO: Apparently if you just write "[Reward] [Item] Item-name" we get a leading whitespace. 
+		// TODO: Include the NPC's to complete first names with surnames
+		// TODO: Create one quest overview file for one quest section
+		// TODO: Decide for one Quest File Format
+		// TODO: Convert all available quests to this format
+		// TODO: Decide how to handle future quests -> maybe write parser
+
+		/* ############### QUESTS ######################### */
+
+		// Create quest files
+		
+		PsqToObj psq_to_obj = new PsqToObj();
+		ObjToPhp obj_to_php = new ObjToPhp();
+		ObjToSql obj_to_sql = new ObjToSql();
+		
+		// Parses psq files into java objects
+		final ArrayList<Quest> quests = psq_to_obj.parseQuestsDetails();
+		
+		/* ########### QUEST DETAILS ############ */
+		
+		obj_to_php.createQuestDetailsFiles(quests);
+		System.out.println("Quest details Done!");
+		
+		/* GET OUTPUTFILE */
+
+		File file = new File(utilities.Constants.PATHtoPHPoutput + "/fill_database/fill_database_eclipse.php");
+		// if file doesn't exists, then create it
+		if (!file.exists()) {
+			file.createNewFile();
+		}
+		FileWriter fw = new FileWriter(file.getAbsoluteFile());
+		BufferedWriter bw = new BufferedWriter(fw);
+
+		/* WRITE IN OUTPUTFILE */
+
+		/* ########### QUEST OVERVIEW/REWARD (NEW) ############ */
+
+		// SQL text btw quest reward (old) and quest overview (new)
+		readFileIntoBufferedWriter(bw, "text_fill_database_1.sql");
+
+		obj_to_sql.createSqlQuestOverviewFile(bw, quests);
+
+		// SQL text btw quest overview and quest reward (new)
+		readFileIntoBufferedWriter(bw, "text_fill_database_2.sql");
+
+		obj_to_sql.createSqlQuestRewardFile(bw, quests);
+
+		System.out.println("Quests overview/reward Done!");
+
+		/* ############### SPELLBOOK ###################### */
+
+		// SQL text btw quest reward (new) and speelbook
+		readFileIntoBufferedWriter(bw, "text_fill_database_3.sql");
+
+		Spellbook sb = new Spellbook();
+		sb.importSpellbookData();
+		sb.exportSpells(bw);
+
+		System.out.println("Spellbook Done!");
+
+		/* ################ GLYPHS ######################## */
+
+		// SQL text for inserting glyphs
+		readFileIntoBufferedWriter(bw, "text_fill_database_4.sql");
+
+		sb.exportGlyphs(bw);
+
+		System.out.println("Glyphs Done!");
+
+		/* ############### Quest Requirements ###################### */
+
+		// SQL text btw glyphs and prequests
+		readFileIntoBufferedWriter(bw, "text_fill_database_5.sql");
+
+		// TODO: Extract the quests and the skills that are required to get a quest
+
+		// SQL text btw prequests and file end
+		readFileIntoBufferedWriter(bw, "text_fill_database_6.sql");
+
+		System.out.println("Prequests Done!");
+
+		bw.close(); // close buffered writer
+
+		System.out.println("-----------------------------------------------");
+		System.out.println("CREATION of \'fill_database_eclipse.php\' Done!");
+	}
+
+	/**
+	 * This function adds every line of a given file to a given buffered writer.
+	 * 
+	 * @param bw
+	 *            The buffered writer where we add the content of the input file.
+	 * @param inputFile
+	 *            The path from the standard path for SQL outputs (set in
+	 *            utilites.Utilities) to the input file which contains the content
+	 *            we want to add to our buffered writer.
+	 * @throws IOException
+	 *             Occurs if the file we want to read cannot be found.
+	 */
+	public static void readFileIntoBufferedWriter(BufferedWriter bw, String inputFile) throws IOException {
+
+		/* Create buffered Reader for inputFile */
+		File file = new File(utilities.Constants.PATHforSQLoutput + "/" + inputFile);
+		BufferedReader reader = new BufferedReader(new FileReader(file));
+
+		// Write all lines from inputFile into outputFile
+		String line = "";
+		while ((line = reader.readLine()) != null) {
+			bw.write(line);
+			bw.newLine();
+		}
+
+		// Close the reader
+		reader.close();
+
+	}
+
+}

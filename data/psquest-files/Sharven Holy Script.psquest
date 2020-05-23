@@ -1,0 +1,58 @@
+[Questname] Sharven Holy Script
+[NPC Name] Sharven Xant-Areth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Search for Old Pottery
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Do you have any task I can help with?
+[NPC] Sharven: It has come to my attention that Jayose has acquired a lost Holy Script of Laanx, found in a rather obscure area of Yliakum.
+[NPC] Sharven: He has offered to sell it to the temple, but I've not yet had the opportunity to obtain it.
+[NPC] Sharven: Would you be so kind as to pick it up for me?
+[NPC] Sharven: The item is already pre-paid.
+[NPC Internal] Sure, no problem.
+[NPC] Sharven: Ah, splendid!
+[NPC] Sharven: Jayose's Library is nearby, so it shouldn't be too difficult, although Jayose himself has been known to be a bit…
+[NPC Narrate] -Sharven waggles a hand back and forth.-
+[NPC] Sharven: …if you get my meaning.
+[NPC] Sharven: Please return to me when you have the Holy Script.
+
+[To] Jayose
+
+[NPC Internal] I am here to collect the holy script Sharven has paid for.
+[NPC] Jayose: Hmm, it seems that there are other interested parties who will pay more for the Holy Script.
+[NPC] Jayose: If Sharven wants it so badly, tell him the price has doubled.
+[NPC] Jayose: I imagine a priest of Talad would love to have this.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] The price on the Holy Script has doubled.
+[NPC] Sharven: I was afraid of this.
+[NPC] Sharven: The temple coffers are not eternal, and Jayose's greed will cost much.
+[NPC] Sharven: Still, the Holy Script needs to be brought here for study.
+[NPC] Sharven: Will you return to Jayose with a notice of payment?
+[NPC Internal] Yes I will.
+[NPC] Sharven: Very well.
+[NPC] Sharven: Take this promissory note to Jayose and return with the Script.
+
+[To] Jayose
+
+[NPC Internal] gives Jayose the scroll.
+[NPC] Jayose: Ah, very good.
+[NPC] Jayose: Laanx's faithful always cough it up when their 'holy artifacts' are found.
+[NPC] Jayose: They're a wonderful source of income, if you can come by the goods.
+[NPC] Jayose: Here is the Script then.
+[NPC] Jayose: I imagine that Sharven wants it delivered posthaste, so you'd better be on your way.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Here's your script.
+[NPC] Sharven: Oh, you've done it!
+[NPC] Sharven: This holy relic from ages past will be on permanent display here in the temple for our clergy to admire.
+[NPC] Sharven: You've done a good job; I must reward you.
+[NPC] Sharven: We're a bit short on money just now, so I hope this item will be proper compensation.
+
+[Reward] [XP] 10800; [Item] 1, High-Quality Amulet; [Faction] 15, Iron Hand
+

@@ -1,0 +1,35 @@
+[Questname] Brado's Order
+[NPC Name] Brado
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+[Repeatable] Yes
+
+[Need] [Quest] quests; [Item] 5, Mug
+
+[Info] You can purchase the mugs from Jirosh.
+
+[To] Brado
+
+[NPC Internal] Hello, got any odd jobs I can do?
+[NPC] Brado: Ah yes, I just might have a job for you.
+[NPC] Brado: Last night, there was a brawl in my tavern and some mugs got smashed.
+[NPC] Brado: Again.
+[NPC Narrate] -Brado sighs.-
+[NPC] Brado: I gave up on fixing the door, but one can hardly run a tavern without mugs, right?
+[NPC] Brado: I cannot leave the bar now, and if there is nothing to serve the drinks in this evening, the customers might just as well start breaking the furniture.
+[NPC] Brado: So I need you to go to the local merchant, Jirosh Mikana is his name, and bring me back some new mugs.
+[NPC] Brado: Can you do that?
+[NPC Internal] Sure, you can't run a bar without mugs.
+[NPC] Brado: Very well!
+[NPC] Brado: You can find Jirosh in his store in the Warehouse District.
+[NPC] Brado: Purchase five mugs from him.
+[NPC] Brado: I will reimburse you and give you a little extra for your trouble.
+[NPC Internal] Here are your mugs.
+[NPC] Brado: Thank you, Tabei.
+[NPC] Brado: That is one less thing to worry about for me!
+[NPC] Brado: Here's a little reward for your help.
+[NPC] Brado: And you know what?
+[NPC] Brado: It's still cheaper than fixing that door!
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 1, Food Association; 
+

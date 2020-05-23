@@ -1,0 +1,60 @@
+[Questname] The Brown Way Adept
+[NPC Name] Lorytia Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Becoming a Brown Way Adept; [Item] 2, Apprentice's Brown Way Wands; [Skill] 50, Brown Way
+
+[To] Lorytia Starhammer
+
+[NPC Internal] I was told to show you these two wands as prove of being a worthy student.
+[NPC] Lorytia: A new sapling in the Brown Way forest?
+[NPC] Lorytia: Wonderful news!
+[NPC] Lorytia: I look forward to guiding your reaching branches to the light of nature's magic.
+[NPC Narrate] -Lorytia scribbles something on a paper and hands it to you along with the wands.-
+[NPC] Lorytia: Return that wand to your fellow student.
+[NPC] Lorytia: I have updated the report but you will need to deliver it to Archmaster Mulgik.
+[NPC] Lorytia: I am not sure where he might be, but as a Kran he spends most of his time in Gugrontid.
+
+[To] Mulgik
+
+[NPC Internal] Here is the latest report from Lorytia.
+[NPC] Mulgik: How good to see you again, YOU.
+[NPC] Mulgik: Congratulations on your recent achievement within the Brown Way.
+[NPC] Mulgik: Now, for your last task as an initiate, I want you to return your Wand to Levrus.
+[NPC] Mulgik: Return to Lorytia after you have done so and she will have your first Adept item ready.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Here is my Brown Way Wand.
+[NPC] Levrus: A wand?
+[NPC] Levrus: Now, what would I do with such a thing?
+[NPC] Levrus: I am in spectacular shape and my trousers fit quite nicely.
+[NPC] Levrus: Made by the finest tailors, you see.
+[NPC] Levrus: However, since you are offering it too me, I can not refuse.
+[NPC Narrate] -Levrus takes a familiar box from under his counter and drops your wand in, then shakes it from side to side.-
+[NPC] Levrus: What is this?
+[NPC] Levrus: I seem to have a few items in here already.
+[NPC] Levrus: And one is a wand.
+[NPC] Levrus: Imagine that.
+[NPC] Levrus: I do wonder where they keep coming from.
+[NPC] Levrus: Well, I suppose I can offer them to you.
+[NPC] Levrus: If you don't want either of them, take this pie.
+
+[To] Lorytia Starhammer
+
+[NPC Internal] I am back.
+[NPC] Lorytia: Blessed be Xiosia, you have returned.
+[NPC] Lorytia: I assume you have Mulgik's blessings?
+[NPC] Lorytia: And you returned your wand to Levrus as well?
+[NPC] Lorytia: Good.
+[NPC Narrate] -Lorytia removes a wand from a bag and hands it to you.-
+[NPC] Lorytia: This is your new Adept's wand.
+[NPC] Lorytia: The power of Nature and the Brown Way is stronger within this wand than with your last.
+[NPC] Lorytia: Be sure you have returned the other Brown Way wand to the student who gave it to you.
+[NPC Narrate] -Lorytia smiles.-
+[NPC] Lorytia: Also, do not forget you will need a sufficient level of Brown Way and knowledge of the realm three spells before returning and handing me your wand as a sign of being ready to continue.
+[NPC] Lorytia: Ah yes, and you might also want to obtain and research a Red Way glyph called Hand.
+
+[Reward] [Money] 3391; [XP] 12200; [OR Begin] [Item] 1, Apprentice's Blue Way Staff [OR] [Item] 1, Way Amulet [OR] [Item] 1, Pie [OR End]; [Item] 1, Adept's Brown Way Staff; [Faction] 20, Brown Order
+

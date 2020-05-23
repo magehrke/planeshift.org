@@ -1,0 +1,105 @@
+[Questname] Enchanted Jongleur's Balls
+[NPC Name] Serevim Colat
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Introduction to Arts; [Money] 100
+
+[To] Serevim Colat
+
+[NPC Internal] Hi, I was wondering if you had any simple jobs that needed doing?
+[NPC] Serevim: Dahlia is looking to add fire and ice to our street show.
+[NPC Narrate] -Serevim holds four small balls out in his hand.-
+[NPC] Serevim: Think you could get some magic into them?
+[NPC] Serevim: Preferably fire and ice magic.
+[NPC Internal] Yes, sure, I can get that done for you.
+[NPC] Serevim: Excellent.
+[NPC Narrate] -Serevim gives you the four balls.-
+[NPC] Serevim: Bring them back to me once you have enchanted them.
+[NPC] Serevim: I think Levrus maybe able to help you with it.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Hello, I was wondering if you could enchant some balls for me?
+[NPC] Levrus: You're looking to get some magic into a few balls, eh?
+[NPC] Levrus: Well, let's have a look at them.
+[NPC] Levrus: Yes, show me, throw me.
+[NPC Internal] Here you go.
+[NPC] Levrus: Hmm.
+[NPC] Levrus: Looking to get some magic into these things…
+[NPC] Levrus: fire and ice magic?
+[NPC] Levrus: This I can do.
+[NPC] Levrus: Oh, yes.
+[NPC] Levrus: But there are always little quirks that come up as I do such things.
+[NPC Narrate] -Levrus rummages around behind the counter.-
+[NPC] Levrus: Yes, this one should do nicely.
+[NPC Narrate] -Levrus lays a scroll out on the counter.-
+[NPC] Levrus: Ok, I have a way to do this for you but you have reminded of a few of Dilechi's confounded riddles, if you help me I will help you.
+[NPC] Levrus: Now let's see…
+[NPC] Levrus: here is the first one: which is better, fire or ice?
+[NPC] Levrus: Any ideas?
+[NPC Internal] A balance of the two.
+[NPC] Levrus: Hmm.
+[NPC] Levrus: Yes.
+[NPC] Levrus: All things in balance.
+[NPC] Levrus: Hmm.
+[NPC Narrate] -Levrus reads the next section.-
+[NPC] Levrus: Ah, which is stronger, fire or ice?
+[NPC Internal] Neither.
+[NPC] Levrus: Yes.
+[NPC] Levrus: Fire will melt ice, and ice will extinguish fire.
+[NPC Narrate] -Levrus advances the scroll and studies the next section. He lifts his head and looks at you for a long moment.-
+[NPC] Levrus: This one seems to be a bit tricky. If a candle is lit in an empty room and no one sees it, does it still cast a light?
+[NPC Internal] Yes.
+[NPC Narrate] -Levrus laughs.-
+[NPC] Levrus: I am beginning to think that one does not really have a good answer.
+[NPC] Levrus: But it has been nagging at me for a while, an odd question that one.
+[NPC Narrate] -Levrus sets the balls in a small bowl and arranges two fire and two ice glyphs around the it. He frowns mightily at them and passes his hand over the bowl. The balls seem to shimmer in a haze of heat and then hide behind a haze of fog. Levrus makes a 'harrumph' sound and waves his hands quickly at the balls, dispersing the fog. He cautiously pokes at one with a finger. He nods.-
+[NPC] Levrus: There!
+[NPC] Levrus: They are ready now.
+[NPC] Levrus: But they will cost you one hundred Tria, my good Stonehammer.
+[NPC Internal] Here are the tria.
+[NPC] Levrus: Thank you.
+[NPC] Levrus: Now, there are command words to make these balls do their tricks.
+[NPC] Levrus: The magic words 'hinotepa' and 'avhinote' will start and stop the fire magic.
+[NPC] Levrus: And 'kooripa' and 'avkoori' will begin and end the ice effect.
+[NPC] Levrus: The balls will leave a small trail for a while.
+[NPC] Levrus: It should look nice.
+[NPC] Levrus: Nice ice.
+[NPC Narrate] -Levrus chuckles at his joke gives you the enchanted balls.-
+
+[To] Serevim Colat
+
+[NPC Internal] Here you are, four enchanted balls.
+[NPC] Serevim: Let's see.
+[NPC Narrate] -Serevim starts juggling one of the balls.-
+[NPC] Serevim: What is the magic phrase for the fire?
+[NPC Internal] hinotepa
+[NPC] Serevim: Hinotepa!
+[NPC Narrate] -The ball leaves a fire trail in its path.-
+[NPC] Serevim: And for ice?
+[NPC Internal] kooripa
+[NPC Narrate] -Serevim starts juggling a second ball.-
+[NPC] Serevim: Kooripa!
+[NPC Narrate] -The second ball leaves a trail of ice. Small clouds of steam surround the two balls.-
+[NPC] Serevim: Nice.
+[NPC] Serevim: Now, how do I make them stop?
+[NPC Internal] avhinote and avkoori
+[NPC] Serevim: Avkoori!
+[NPC] Serevim: Avhinote!
+[NPC] Serevim: Ah, yes.
+[NPC Narrate] -Serevim adds the remaining two balls to the rhythm.-
+[NPC] Serevim: Hinotepa!
+[NPC] Serevim: Kooripa!
+[NPC] Serevim: Hinotepa!
+[NPC] Serevim: Kooripa!
+[NPC Narrate] -Serevim starts juggling the balls in an increasingly complex patterns of fire and ice.-
+[NPC] Serevim: Yes, very nice!
+[NPC] Serevim: Well done.
+[NPC] Serevim: Let me give you some coin, these are excellent.
+[NPC Narrate] -Serevim juggles the four balls in his one hand while getting the some Octa for you from his purse with the other.-
+[NPC] Serevim: If you are interested in learning more about being an artist, you might try the hairdresser over near the library.
+[NPC Narrate] -Serevim juggles the four balls in even more complex patterns with delight.-
+
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Artists Association
+

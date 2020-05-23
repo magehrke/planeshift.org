@@ -1,0 +1,162 @@
+[Questname] Ring of Radiance
+[NPC Name] Ferryd Shillor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Lyrus Has An Idea; [Item] 3, Silver Ores
+
+[To] Ferryd Shillor
+
+[NPC Internal] Do you have any other work I can do for you?
+[NPC] Ferryd: Oh, you're back again, my helpful Kran?
+[NPC] Ferryd: It seems you are just in time, as I need an errand run for me.
+[NPC] Ferryd: Levrus - you know of Levrus Dahrenn don't you?
+[NPC] Ferryd: Well if you don't, Levrus is a mage of some skill over near Hydlaa.
+[NPC] Ferryd: Anyway, he asked me for something and I have it for him.
+[NPC] Ferryd: Will you deliver it for me?
+[NPC Internal] I think I can manage it.
+[NPC] Ferryd: Good, I knew I could count on you.
+[NPC] Ferryd: Here is what I need.
+[NPC] Ferryd: Levrus has heard about my new ring making method and thinks he can make a new and improved magic ring for something or other.
+[NPC] Ferryd: I don't really know.
+[NPC] Ferryd: Humans have strange ideas about magic, don't you think?
+[NPC] Ferryd: Anyway, he asked me if I had another of these rings for him to play with.
+[NPC] Ferryd: It so happens that I do.
+[NPC Narrate] -Lyrus gives you a ring that appears to be made of diamond.-
+[NPC] Ferryd: Take this to him, and I will give you some coin on your return.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] This ring is for you.
+[NPC] Levrus: What is this?
+[NPC] Levrus: Oh my, but this is lovely.
+[NPC] Levrus: One of Lyrus' new pieces is it not?
+[NPC] Levrus: Yes, I can tell by the feel of her.
+[NPC] Levrus: Very secretive one, that woman, but no matter.
+[NPC] Levrus: This will be perfect for my experiments.
+[NPC] Levrus: Do you care to know what I am trying to do?
+[NPC Internal] Sure. It should be… interesting.
+[NPC] Levrus: How delightful!
+[NPC] Levrus: Yes, I have been doing some research on the numerous types of familiars, and I think I have discovered some more.
+[NPC] Levrus: No, no, I won't tell you about them yet.
+[NPC] Levrus: I don't even know if they are able to be summoned to this plane.
+[NPC] Levrus: But, if they can be, I will need something more substantial than gold to hold the enchantments.
+[NPC] Levrus: Do you see?
+[NPC] Levrus: Anyway.
+[NPC] Levrus: Thank you for bringing this to me; I believe Lady Lospur is expecting this.
+[NPC Narrate] -Levrus Dahrenn hands you an egg.-
+[NPC] Levrus: Oh, no, not that…
+[NPC] Levrus: I mean this, I'll take that back.
+[NPC Narrate] -Levrus takes the egg back and gives you a pouch containing coins.-
+[NPC] Levrus: Yes, yes, that is better.
+[NPC] Levrus: Take that to Miss Lospur, please.
+
+[To] Lyrus Lospur
+
+[NPC] Lyrus: Fabulous!
+[NPC Narrate] -Lyrus hefts the pouch in her slender hand.-
+[NPC] Lyrus: Yes, that feels about right.
+[NPC] Lyrus: Very upstanding man, Levrus…
+[NPC] Lyrus: for a Xacha.
+[NPC] Lyrus: Anyway, thank you for your help!
+[NPC] Lyrus: I do hope to see you around again.
+[NPC Narrate] -Lyrus opens the pouch and counts out some coins for you.-
+[NPC] Lyrus: Actually, could you do me a little favor first?
+[NPC] Lyrus: I would like you to go and visit Levrus again.
+[NPC] Lyrus: I am heartily curious regarding how his experiments are coming.
+[NPC] Lyrus: If whatever he is doing works out, it could mean a very large, very long term commission for me.
+[NPC] Lyrus: Will you go see?
+[NPC Internal] Absolutely. Chatting with him is always entertaining.
+[NPC] Lyrus: Good to hear.
+[NPC] Lyrus: Remember to keep this all rather quiet, won't you?
+[NPC] Lyrus: It's no secret that I am making these rings now, but if they are capable of what Levrus thinks they are…
+[NPC] Lyrus: well, I'll have customers coming out of my ears and
+[NPC Narrate] -Lyrus pauses and cranes her neck to look over your shoulder to see if anyone is watching. She smiles at you.-
+[NPC] Lyrus: I am just not ready for that yet.
+[NPC] Lyrus: Please go and ask him how his research is going.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Did your tests on the ring go well?
+[NPC] Levrus: Oh, hello again.
+[NPC] Levrus: How is it going?
+[NPC] Levrus: What are you…
+[NPC] Levrus: Oh!
+[NPC] Levrus: Oh that?
+[NPC Narrate] -Levrus sighs.-
+[NPC] Levrus: Alas, the experiment was a complete failure.
+[NPC] Levrus: The creatures I discovered are irrevocably tied to their home plane.
+[NPC] Levrus: Too bad.
+[NPC] Levrus: Fortunately, the ring itself was not destroyed.
+[NPC] Levrus: Hmm, humm, hemm, but now I have another idea, yes.
+[NPC] Levrus: If you will go and get another of these rings from Lyrus, I think I will make something special for you.
+[NPC Narrate] -Levrus winks.-
+[NPC] Levrus: Just tell her that I need another; the girl is clever enough not to ask too many questions.
+
+[To] Lyrus Lospur
+
+[NPC Internal] Levrus would like another of your specially crafted rings.
+[NPC] Lyrus: Another ring?
+[NPC] Lyrus: How strange.
+[NPC Narrate] -Lyrus considers for a long moment.-
+[NPC] Lyrus: All right, I will let him have one more, but that is all, until I learn more about what he is doing with them.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] admires the sparkle of the ring as Levrus takes it in stained fingers.
+[NPC] Levrus: Good, good.
+[NPC] Levrus: Yes, my latest experiment has worked out very well.
+[NPC] Levrus: While you were gone, I enchanted the last ring.
+[NPC] Levrus: It is not quite what I'd had in mind originally, but I think you will be pleased.
+[NPC] Levrus: The true test now is to see if I can replicate it.
+[NPC] Levrus: Now, I will need three bits of silver ore and a bottle of pure water and then I may proceed.
+[NPC Narrate] -Levrus gives you a green glass bottle marked with silvery runes.-
+[NPC] Levrus: Use this to carry the water or it shall be spoiled for our use.
+[NPC] Levrus: If you will go get those ingredients for me, I will prepare the rest.
+
+[To] Jardet Forsill
+
+[NPC Internal] May I have some of the water from this pool?
+[NPC] Jardet: My, what an interesting bottle.
+[NPC Narrate] -Jardet looks it over, then uncorks it and kneels by the pool for a minute to fill it.-
+[NPC Narrate] -The wind may be heard blowing over the wall in this quiet moment and ripples cross the pool.-
+[NPC] Jardet: There, one bottle of pure water.
+[NPC Narrate] -Jardet corks the bottle and returns it to you.-
+[NPC] Jardet: Farewell, and may Xiosia lead you to peace.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I've brought the reagents you requested.
+[NPC] Levrus: Hmm…
+[NPC] Levrus: thank you, Gemma, but why are you giving me these?
+[NPC Narrate] -Levrus looks puzzled and then his face brightens.-
+[NPC] Levrus: Oh yes, the ring!
+[NPC Narrate] -Levrus giggles.-
+[NPC Narrate] -Levrus holds up the water and peers at the bottom of the bottle for a bit.-
+[NPC] Levrus: Very good, I see no sediments.
+[NPC Narrate] -Levrus uncorks the bottle and drinks from it.-
+[NPC] Levrus: Mmm, excellent water.
+[NPC] Levrus: Now, let's see…
+[NPC] Levrus: the ring, yes.
+[NPC] Levrus: Give me just a moment and I will have this ready for you.
+[NPC Narrate] -Levrus sets the ring upon a nearby table, softly chanting words you cannot make out.-
+[NPC Narrate] -Levrus dashes the ring with pure water from the bottle and places the three silver ores around the ring. He frowns at the arrangement and murmurs a single word. The water suddenly flares up in bright blue flames and burns away the silver ores, their azure smoke and fumes funneling into the ring.-
+[NPC Narrate] -Levrus then claps his hands together once and thrusts them towards the ring, palms-down, causing a small flash of brilliant light that surrounds the ring, leaving it with a soft glow.-
+[NPC Narrate] -Levrus sighs and wipes the back of a hand across his suddenly-sweating brow.-
+[NPC] Levrus: Ah, yes, this does seem to work indeed.
+[NPC] Levrus: Here you are, the second of my Rings of Radiance!
+[NPC] Levrus: With it, you will find yourself a little more attuned to the Azure Way.
+[NPC] Levrus: Please, go back to Lyrus and tell her that it worked.
+[NPC] Levrus: I will be wanting more of these in time.
+
+[To] Lyrus Lospur
+
+[NPC Internal] The latest tests have proved a success. Levrus is pleased.
+[NPC] Lyrus: That is very good news.
+[NPC] Lyrus: I suppose I will be expecting some orders for more rings from him soon enough.
+[NPC] Lyrus: You have done me a very great service and I thank you.
+[NPC Narrate] -Lyrus smiles at you, pleased. She opens her purse and gives you three golden circles.-
+[NPC] Lyrus: Please accept these as a token of my esteem.
+
+[Reward] [Money] 5530; [XP] 13600; [Item] 1, Ring of Radiance; [Faction] 25, Artists Association; [Faction] 15, Nolthrir
+

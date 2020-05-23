@@ -1,0 +1,78 @@
+[Questname] The Dark Way Adept
+[NPC Name] Rulayne Ogrin
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] No Time for the Dark; [Item] 2, Apprentice's Dark Way Wands; [Skill] 60, Dark Way
+
+[To] Rulayne Ogrin
+
+[NPC Internal] Please except these Way Wands as proof of being a worthy student.
+[NPC Narrate] -Rulayne pauses in his writing as his mask tips upward to observe you.-
+[NPC] Rulayne: Greetings, Enkidukai.
+[NPC] Rulayne: Your training is interrupting my research here at the Burial Well, but if you keep proving your self I am willing to give you the time.
+[NPC Narrate] -Rulayne scribbles something on a report. He hands you the report and one of the wands.-
+[NPC] Rulayne: Return that wand to your fellow student.
+[NPC] Rulayne: I will have your new one ready later.
+[NPC] Rulayne: I have updated the report but it needs to be seen by our Archmaster.
+[NPC] Rulayne: Londris will pass your report on to her.
+[NPC] Rulayne: She does not waste her time in the mortal world, so you have a choice.
+[NPC] Rulayne: Let me aid your death, or find your own way.
+[NPC] Rulayne: Do you wish for my aid and give your death to Dakkru?
+[NPC Internal] No, thank you.
+[NPC Narrate] -Rulayne looks disappointed.-
+[NPC] Rulayne: Very well.
+[NPC] Rulayne: Find your own way.
+
+[To] Londris Kolaim
+
+[NPC Internal] Here is the report from Rulayne.
+[NPC] Londris: Yes?
+[NPC] Londris: Ah, I see.
+[NPC] Londris: Let's see what your Archmaster has to say about this.
+[NPC Narrate] -Londris holds the paper out in his hand. It hovers for a moment, then burts into flame. Londris gives a slightly mocking smile.-
+[NPC] Londris: She accepts your progression into the Adept level of the Dark Circle.
+[NPC] Londris: I am sure you are wondering what would happen if she rejected you.
+[NPC] Londris: Well, let's just say it is not the report that would be bursting into flames.
+[NPC] Londris: Pity you were accepted.
+[NPC] Londris: I do find flaming fools to be…
+[NPC] Londris: amusing.
+[NPC Narrate] -Londris chuckles.-
+[NPC] Londris: For your next task, she asks that you go to Levrus and give him this.
+[NPC Narrate] -Londris holds out a Way Amulet.-
+[NPC] Londris: Then return to Rulayne.
+[NPC] Londris: Tell him you may pass.
+[NPC] Londris: You will not be coming back to the Death Realm for quite some time for your training since he will take over those duties, so you best get everything done here now that you need to.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I was told you would know what to do with this amulet.
+[NPC] Levrus: Jewelry?
+[NPC] Levrus: Do I look like a lady…
+[NPC] Levrus: or a dwarf?
+[NPC] Levrus: I do not have any need of such things.
+[NPC] Levrus: However, since you are offering it too me, I can not refuse.
+[NPC Narrate] -Levrus takes a familiar box from under his counter and drops the amulet in, then shakes it from side to side.-
+[NPC] Levrus: What is this?
+[NPC] Levrus: I seem to have a few items in here already.
+[NPC] Levrus: Both wands.
+[NPC] Levrus: Imagine that.
+[NPC] Levrus: I do wonder where they keep coming from.
+[NPC] Levrus: Well, I suppose I can offer them to you.
+[NPC] Levrus: If you don't want either of them, take this pie.
+
+[To] Rulayne Ogrin
+
+[NPC Internal] I have returned.
+[NPC] Rulayne: You have returned?
+[NPC] Rulayne: She has approved of you, then.
+[NPC Narrate] -Rulayne mask looks surprised as he looks you up and down.-
+[NPC] Rulayne: Not even singed.
+[NPC] Rulayne: She must have taken a liking to you.
+[NPC Narrate] -Rulayne removes a wand from a bag and hands it over reluctantly.-
+[NPC] Rulayne: Here is your new wand.
+[NPC] Rulayne: Be sure you have returned the other Dark Way wand to the person who gave it to you.
+[NPC] Rulayne: Also, do not forget you will need a sufficient level of Dark Way and knowledge of the Dark Way glyphs before returning and handing me your wand as a sign of being ready to continue.
+
+[Reward] [XP] 13600; [Item] 1, Adept's Dark Way Staff; [OR Begin] [Item] 1, Apprentice's Brown Way Staff [OR] [Item] 1, Apprentice's Red Way Staff [OR] [Item] 1, Pie [OR End]; [Faction] 25, Dark Order
+

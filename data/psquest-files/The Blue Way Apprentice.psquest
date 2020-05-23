@@ -1,0 +1,60 @@
+[Questname] The Blue Way Apprentice
+[NPC Name] Sharven Xant-Areth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Without a Way; [Item] 1, Apprentice's Blue Way Wand; [Skill] 10, Blue Way
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] Please accept my Way Wand as proof of being a student.
+[NPC] Sharven: A new student?
+[NPC] Sharven: Welcome.
+[NPC] Sharven: You will begin your Blue Way Circle training under my supervision.
+[NPC] Sharven: Due to time constraints, I may need you to do a task for me from time to time so I don't fall behind in my other work.
+[NPC Narrate] -Sharven marks of something on his list before handing you back the wand.-
+[NPC] Sharven: Please keep it for now.
+[NPC] Sharven: Return it to me whenever you're ready for some lessons.
+[NPC] Sharven: Now, let's start with something easy.
+[NPC] Sharven: Give special attention to this starting lesson, because, at the end, I will have a question for you.
+[NPC] Sharven: Let's begin.
+[NPC] Sharven: Life is like a continuous flow, wave after wave.
+[NPC] Sharven: Yes, waves, like the life that's always changing.
+[NPC] Sharven: There's no wave like the others before.
+[NPC] Sharven: So are experiences in life.
+[NPC] Sharven: Some are similar, but none are the same.
+[NPC] Sharven: Let me introduce a riddle: “Ever changing, fluent and symbol of life, what is it?”
+[NPC Internal] water
+[NPC] Sharven: Easy, isn't it?
+[NPC] Sharven: Take in mind this element and use its positive features while you grow up following the Blue Way.
+[NPC] Sharven: When you find an obstacle, be fluid.
+[NPC] Sharven: When your attitude is still, change it, for growing.
+[NPC] Sharven: Endure.
+[NPC] Sharven: Also the calmest river will mold the hardest rock, because it will never surrender.
+[NPC Narrate] -Sharven nods and removes a report from under his notes.-
+[NPC] Sharven: I have also a more material task for you.
+[NPC] Sharven: Deliver this report to Archmage Barrin Dhorod.
+[NPC] Sharven: With a basic understanding of the Blue Way you may return and continue to assist me with some tasks.
+
+[To] Barrin Dhorod
+
+[NPC Internal] I believe you are waiting on this report?
+[NPC Narrate] -Barrin raises a hand towards you to tell you to wait, then waves the hand over a sword he is holding.-
+[NPC] Barrin: Blee, Blye, BLUE!
+[NPC Narrate] -Blue flame now surrounds a blade in Barrin's hands.-
+[NPC] Barrin: Well, you know, it worked.
+[NPC Narrate] -Barrin waves a hand over the blade again and the flame goes out.-
+[NPC] Barrin: Pretty, but useless.
+[NPC] Barrin: The words are not needed either, but I like them.
+[NPC] Barrin: Now let’s see what you want from the Archmaster of the Blue Way.
+[NPC Narrate] -Barrin reads the report.-
+[NPC] Barrin: A new Blue Way student?
+[NPC] Barrin: Why didn't you say so?
+[NPC] Barrin: You are in for a treat indeed.
+[NPC] Barrin: The Blue Way is both rewarding and exciting.
+[NPC Narrate] -Barrin eyes light up as he utters those few words.-
+[NPC] Barrin: Now I am very, very busy with my experiments, so you may return to Sharven for further advancement.
+[NPC] Barrin: Be sure you have trained enough in Blue Way before you give him your wand, or he will not continue your testing.
+
+[Reward] [XP] 9400; [Item] 1, Water glyph; [Faction] 10, Blue Order
+

@@ -1,0 +1,79 @@
+[Questname] Knowledge and Practical of the Azure Way Master
+[NPC Name] Menita
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Azure Way Master Training; [Item] 1, Master's Azure Way Wand; [Skill] 130, Azure Way; [Item] 1, Adept's Azure Way Bracers; [Item] 1, Dome glyph; [Item] 1, Humanoid glyph; [Item] 1, Mind glyph
+
+[Info] You get the glyphs back.
+
+[To] Menita
+
+[NPC Internal] Please accept my Way Wand as proof of being a student.
+[NPC] Menita: Your progress is satisfactory.
+[NPC] Menita: Your knowledge has increased greatly.
+[NPC] Menita: To reward your dedication, I shall add to that knowledge.
+[NPC] Menita: Give me your Dome Glyph.
+[NPC Internal] Here you go.
+[NPC Narrate] -Menita begins purifying it as she speaks.-
+[NPC] Menita: Now the Humanoid Glyph.
+[NPC Internal] This one?
+[NPC Narrate] -Menita repeats purifying the glyph.-
+[NPC] Menita: Lastly, the Mind Glyph.
+[NPC Internal] One Mind glyph coming up.
+[NPC Narrate] -Menita once again goes through the purification.-
+[NPC] Menita: Patience now.
+[NPC Narrate] -Menita looks at the three glyphs with her icy eyes until the process completes.-
+[NPC] Menita: Now for the combining.
+[NPC] Menita: The order is important.
+[NPC Narrate] -Menita places Dome, then Humanoid, then Mind and starts the combination ritual.-
+[NPC] Menita: It is finished.
+[NPC] Menita: Now I shall demonstrate the spell.
+[NPC] Menita: Observe.
+[NPC Narrate] -Energy surrounds Menita and she starts to change somewhat. She is still recognizable as herself, and no single feature is greatly altered, but she has become almost perfect in beauty.-
+[NPC] Menita: Your surprise is expected.
+[NPC] Menita: You will take your glyphs back now.
+[NPC Narrate] -Menita hands back your glyphs. Her perfect form fades.-
+[NPC] Menita: You will now purify your glyphs and cast the spell your self.
+[NPC] Menita: It grants temporary perfection in mind and body.
+[NPC] Menita: When complete, tell me what the spell wishes itself to be called.
+[NPC Internal] dome of perfection
+[NPC] Menita: The Azure Way has many of these combination spells.
+[NPC] Menita: Only the truly skilled and brazen will discover these greater spells if not taught.
+[NPC] Menita: One's knowledge must be great, and one must discover the order of the combination.
+[NPC] Menita: Even then, they may not reveal themselves the first few times.
+[NPC Narrate] -Menita eyes show a hint of sadness, the first emotion you have ever seen touch her.-
+[NPC] Menita: That is a lesson I learned in my youth, taught by one of the greatest Way mages to ever exist.
+[NPC] Menita: Even though he was a Blue Way Archmaster, he rivaled Archmasters other Ways, almost surpassing them in their own Way.
+[NPC] Menita: No other I have known has been able to duplicate such skill in all Ways.
+[NPC] Menita: He did pay for it, in the end.
+[NPC] Menita: It is not something to be discussed now.
+[NPC] Menita: Do not ask.
+[NPC] Menita: You, as many other before, are following the Azure Way.
+[NPC] Menita: So answer me, have you ever meditated on your motivations?
+[NPC Internal] Yes, mistress Menita.
+[NPC Narrate] -Menita stays silent for some seconds, her gaze points in your eyes.-
+[NPC] Menita: Every desire, every dream, every ambition.
+[NPC] Menita: They all born in minds.
+[NPC] Menita: And now.
+[NPC] Menita: Tell me.
+[NPC] Menita: What does lead your mind?
+[NPC Internal] me
+[NPC] Menita: Simple, is it?
+[NPC] Menita: Or maybe it's one of the toughest concept you'll ever face.
+[NPC] Menita: Or both.
+[NPC] Menita: But for now on, if you want to became a real master in the Azure Way, you need to remember this lesson.
+[NPC Narrate] -Menita holds out her hand.-
+[NPC] Menita: Your bracers please.
+[NPC Internal] Sure, here they are.
+[NPC] Menita: YOU, it is time to finalize your skills in the Azure Way.
+[NPC Narrate] -Menita silently hands you another set of bracers, then studies you for a few moments.-
+[NPC] Menita: Only once you reach your limit I will accept your wand and give you your final test.
+[NPC] Menita: It shall not be as easy this time.
+[NPC] Menita: I mentioned in the past that you should mingle with practitioners of the two Ways that support your own.
+[NPC] Menita: You will also bring me one Master's Set of Bracers from each of those two Ways, and give all three to me all at once.
+[NPC] Menita: This will prove you have gained respect and support from the Circles that support your own.
+[NPC] Menita: I will accept no less.
+
+[Reward] [XP] 15000; [Item] 1, Master's Azure Way Bracers; [Faction] 30, Azure Order
+

@@ -1,0 +1,56 @@
+[Questname] A Sapling of Xiosia
+[NPC Name] Belcor Krakko
+[Checkup] 2019-01-01
+[Authors] Dudu and Lele, Haviland
+[Repeatable] No
+
+[To] Belcor Krakko
+
+[NPC Internal] Hey there, barkeep...
+[NPC] Belcor Krakko stays silent, giving you a solumn look.
+[NPC Internal] [You clear your throat.] So what's the word around town?
+[NPC] Belcor Krakko: Aside from the fact my electrum soup is getting a bit too hot, all is well...
+[NPC Narrate] -Kra turns and checks kras cooking.-
+[NPC] Belcor Krakko: And there's another inconvenience of course, but I don't expect you have time to hear about it.
+[NPC Internal] Well now I am curious.
+[NPC] Belcor Krakko pours a bit of the electrum soup into a stone bowl.
+[NPC] Belcor Krakko: My old friend, Kora Windstone, comes by from time to time for supplies as kra travels to and from the Xiosia shrine kra was apparently told to make.
+[NPC] Belcor Krakko: Kra mentioned that a dear friend could be in trouble and it's weighing heavily on kra's mind.
+[NPC] Belcor Krakko: It wasn't so clear but there was trouble and I cannot stop thinking about it.
+[NPC Internal] Trouble eh? Maybe I can lend a hand, where does kra live exactly?
+[NPC] Belcor Krakko: You want to go out there?
+[NPC] Belcor Krakko: No!
+[NPC] Belcor Krakko: You shouldn't go.
+[NPC] Belcor Krakko: Aside from the fact that you should have asked me what kind of troubles first.
+[NPC Internal] Hmm, you may be right.
+[NPC] Belcor Krakko gives you a side smile.
+[NPC] Belcor Krakko: You won't believe me anyway.
+[NPC] Belcor Krakko: Have you heard the tale of Blackroot?
+[NPC Internal] Blackroot? No, it's not familiar.
+[NPC] Belcor Krakko: Kora Windstone can fill you in far better than I can.
+[NPC] Belcor Krakko: Let me explain where you can find kra.
+[NPC] Belcor Krakko: Take the road to the Eagle Bronze Doors.
+[NPC] Belcor Krakko: As you pass through the first small hill tunnel you will come to a lake.
+[NPC] Belcor Krakko: Pass along its right side until you reach a clearing.
+[NPC] Belcor Krakko: Kora will be right there in "Her Natural Temple" as kra likes to say.
+
+[To] Kora Windstone
+
+[NPC Internal] Hi, it hasn't been easy finding you. My name is YOU, I would like to know more about Blackroot. Belcor Krakko told me to ask you.
+[NPC] Kora Windstone: Really?
+[NPC] Kora Windstone: I told kra not to, but I guess kra must have been really busy cooking.
+[NPC] Kora Windstone: Oh, nevermind, it doesn't matter if kra told you.
+[NPC] Kora Windstone: So you want to know about Blackroot.
+[NPC] Kora Windstone: But are you ready to hear this tale?
+[NPC] Kora Windstone looks at you, waiting.
+
+[NPC Internal] Well, I would prefer a brief summary, if you don't mind.
+[NPC] Kora Windstone: I found Blackroot as a sapling, took it home and fed it.
+[NPC] Kora Windstone: I grew fond of it but one day, Xiosia reminded me that it was a creature that belonged in the wild.
+[NPC Internal] I understand. If you don't mind, I would like to see it, I am curious now.
+[NPC] Kora Windstone: Know one thing, if you approach it peacefully, it might just accept you.
+[NPC] Kora Windstone: But if you are hostile, well..please show some restraint.
+[NPC] Kora Windstone: Nature takes its toll.
+
+[Info] Find Blackroot: Quest completed
+

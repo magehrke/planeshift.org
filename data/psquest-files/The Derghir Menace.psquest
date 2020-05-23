@@ -1,0 +1,54 @@
+[Questname] The Derghir Menace
+[NPC Name] Aldaaren Phostle
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Aldaaren Phostle
+
+[NPC] Aldaaren: The end is near!
+[NPC Internal] Salutations, I am looking for some work.
+[NPC] Aldaaren: My friend, destruction is close!
+[NPC] Aldaaren: And yet, there are those misled by false truths!
+[NPC] Aldaaren: Woe upon them, for we need to prepare against the coming destruction!
+[NPC] Aldaaren: You, my friend, need to see the truth.
+[NPC] Aldaaren: That fool Jardet Forsill has spread lies about the Derghir that may destroy all of us!
+[NPC] Aldaaren: Go and read all you can find about the Derghir.
+[NPC] Aldaaren: Read my book for the truth, and read the foul lies of Jardet, so you are prepared!
+[NPC] Aldaaren: I wonder whether that fool thinks they have feelings, those abominations.
+[NPC] Aldaaren: Bring me the answer, my friend.
+[NPC] Aldaaren: You will, yes?
+[NPC Internal] Yes.
+[NPC] Aldaaren: I knew you would, my friend.
+
+[Info] Go to Jayose's library and read the book about Derghir in the bookcase right of Durok (your left when facing kra).
+
+[To] Aldaaren Phostle
+
+[NPC Internal] The Derghir do have feelings.
+[NPC] Aldaaren: Woe upon him, the liar!
+[NPC] Aldaaren: These creatures made of rock feel nothing!
+[NPC] Aldaaren: They only desire our deaths!
+[NPC] Aldaaren: You saw the truth, so are the Derghir a menace in your eyes?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] Yes they are.
+[NPC Narrate] -Aldaaren nods in agreement.-
+[NPC] Aldaaren: We shall prepare ourselves against the coming doom, my friend!
+[NPC] Aldaaren: Destruction is near!
+[NPC] Aldaaren: We have more to do, so come back.
+
+[Way] 2
+
+[NPC Internal] No they're not.
+[NPC Narrate] -Aldaaren shakes his head.-
+[NPC] Aldaaren: The lies have corrupted your mind!
+[NPC] Aldaaren: You might yet be saved, however.
+[NPC] Aldaaren: When you are ready to accept the truth, come back and we will prepare.
+
+[Reward] [XP] 8000
+

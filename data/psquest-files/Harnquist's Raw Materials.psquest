@@ -1,0 +1,39 @@
+[Questname] Harnquist's Raw Materials
+[NPC Name] Harnquist
+[Checkup] 2017-04-11
+
+[Authors] Huarwar Eruera
+[Comments] Maybe you get "[Faction] 10, Smith Association" the first time you do this quest.
+[Comments] Maybe the Prequests arent correct. This has been changed. Especially the Quest "A Hammer for Hamel" is interesting.
+
+[Repeatable] Yes
+
+[Need] [Quest] Introduction to Crafting; [Item] 5, Iron Ore
+
+[To] Harnquist
+
+[NPC Internal] I am interested in learning more about blacksmithing, but I guess I need the basics first!
+[NPC] Harnquist: Yes, you are right.
+[NPC] Harnquist: Everything starts with miners, without them my work would be impossible.
+[NPC] Harnquist: The first element is to gain the proper raw materials.
+[NPC] Harnquist: And, by the way, I need some to complete a commissioned project.
+[NPC] Harnquist: You can retrieve the lumps for me, and I can point you to someone to get started into this.
+[NPC] Harnquist: Ok?
+[NPC Internal] Yes I can go and get them for you.
+[NPC] Harnquist: Great!
+[NPC] Harnquist: The most common raw materials are coal, iron, tin, amongst others.
+[NPC] Harnquist: Those can be found in large quantities here in the Dome, but you need to learn mining first, or you can just buy them from someone.
+[NPC] Harnquist: I suggest you speak with Fholen Medraa.
+[NPC] Harnquist: You can find him in the east of Hydlaa if you want to learn the basics about mining.
+[NPC] Harnquist: In any case, come back to me with five lumps of iron ore, I need those urgently.
+
+[Give] Harnquist; 5, Iron Ore
+
+[NPC Internal] Here are your lumps of iron ore.
+[NPC] Harnquist: Ah, thanks very much.
+[NPC] Harnquist: Finally I can proceed with this commissioned project.
+[NPC] Harnquist: Please accept this as recompense for your time and effort.
+[NPC] Harnquist: Oh, and following up on previous conversation, if you haven't already done so, around the Magic Shop is a good place to mine coal.
+[NPC] Harnquist: In fact, Levrus has been known to ask passers by for some.
+
+[Reward] [XP] 9400; [Money] 1297

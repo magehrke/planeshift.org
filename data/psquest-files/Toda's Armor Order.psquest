@@ -1,0 +1,113 @@
+[Questname] Toda's Armor Order
+[NPC Name] Toda Ombretis
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Golden Ring
+
+[To] Toda Ombretis
+
+[NPC Internal] I am looking for another task.
+[NPC] Toda: Well, you have shown you can be useful…
+[NPC] Toda: all right.
+[NPC] Toda: My apprentice Suvari still has yet to return and she is not usually gone for so long.
+[NPC] Toda: I have an order that I wish to have completed, and I need to get a note to my supplier.
+[NPC] Toda: Can you help me?
+[NPC] Toda: I will pay you for your time, of course.
+[NPC Internal] Yeah, I can help.
+[NPC] Toda: Oh, thank you!
+[NPC] Toda: Now you see, I get most of my supplies from Jirosh Mikana, since he buys in bulk and can offer considerable discounts.
+[NPC] Toda: So, just give him this order and he'll take it from there.
+[NPC Narrate] -Toda gives you a piece of paper detailing Toda's wish to purchase several sets of heavy armor.-
+[NPC] Toda: Don't worry about payment or about bringing back the armor.
+[NPC] Toda: We will take care of that later.
+[NPC] Toda: I'm ever so grateful for your help!
+
+[To] Jirosh Mikana
+
+[NPC Internal] gives Jirosh the order.
+[NPC] Jirosh: What's this?
+[NPC Narrate] -Jirosh reads it over quickly, his ear turning back for a moment.-
+[NPC] Jirosh: I see, hmm.
+[NPC] Jirosh: Well, I think that can be arranged.
+[NPC] Jirosh: One moment.
+[NPC Narrate] -Jirosh consults a piece of paper hanging behind the desk.-
+[NPC] Jirosh: Yes, yes…
+[NPC] Jirosh: hrmm…
+[NPC] Jirosh: this is odd.
+[NPC] Jirosh: I do not think I have any plate mail gloves at present.
+[NPC] Jirosh: We should have gotten a shipment in from Trasok yesterday.
+[NPC] Jirosh: If you will go ask Trasok about the plate mail gloves, I will be able to assemble this order for Miss Ombretis.
+[NPC] Jirosh: It's strange, though.
+[NPC] Jirosh: Trasok is usually extremely dependable.
+[NPC Narrate] -Jirosh shakes his head and goes back to studying his supply lists.-
+
+[To] Trasok Starhammer
+
+[NPC Internal] Jirosh want's to know about the plate mail gloves.
+[NPC] Trasok: Oh, plate mail gloves for Jirosh…
+[NPC] Trasok: uh, yes, gloves.
+[NPC Narrate] -Trasok's face takes on a distinctly pinkish hue.-
+[NPC] Trasok: Well, uh…
+[NPC] Trasok: they're not done yet.
+[NPC] Trasok: The Starhammer clan had a bit of gathering these past few days, and I got a wee bit drunk…
+[NPC] Trasok: er, ah, several times…
+[NPC] Trasok: well!
+[NPC Narrate] -Trasok clears his throat and tries to resume a professional demeanor.-
+[NPC] Trasok: So I, ah, sent word to Harnquist in Hydlaa, asking that he make those gloves.
+[NPC] Trasok: Tell Jirosh that Harnquist will have his gloves…
+[NPC Narrate] -He pauses for a second and sighs quietly.-
+[NPC] Trasok: …and that I'm very sorry.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Harnquist has your gloves.
+[NPC] Jirosh: Harnquist??
+[NPC] Jirosh: How strange.
+[NPC] Jirosh: Something is going on here…
+[NPC] Jirosh: eh, no matter.
+[NPC Narrate] -Jirosh waves his paw in dismissal.-
+[NPC] Jirosh: First we get the gloves, then we can look into what happened.
+[NPC] Jirosh: Please go and check with Harnquist that the gloves are finished.
+[NPC] Jirosh: I need to make sure everything is packed up and ready to go before I waste time sending down the workers to assemble this.
+[NPC Internal] Trasok says he is very sorry.
+[NPC Narrate] -Jirosh nods.-
+[NPC] Jirosh: That is good.
+[NPC] Jirosh: With any luck, Harnquist will be getting his part done promptly.
+
+[To] Harnquist
+
+[NPC Internal] I am here to collect some gloves for Jirosh.
+[NPC] Harnquist: Ah, yes!
+[NPC] Harnquist: Jirosh's armored gloves!
+[NPC Narrate] -Harnquist speaks loudly over the noise of his apprentice and the other students hammering on metals.-
+[NPC] Harnquist: I was going to try to get them to Trasok so he could give them to Jirosh, but I just have not had enough time.
+[NPC] Harnquist: Well, I have been working at them a few days now and they are just about done.
+[NPC] Harnquist: The last of them are being worked on today.
+[NPC] Harnquist: Tell Jirosh I am ready when he is!
+
+[To] Jirosh Mikana
+
+[NPC Internal] They are ready for collection.
+[NPC] Jirosh: Excellent.
+[NPC] Jirosh: I will send my workers over right away.
+[NPC] Jirosh: Go ahead and tell Toda that everything is taken care of.
+[NPC] Jirosh: She will receive her order by tomorrow.
+
+[To] Toda Ombretis
+
+[NPC Internal] Everything has been taken care of.
+[NPC] Toda: Thank you.
+[NPC] Toda: I am curious, though.
+[NPC] Toda: What took so long?
+[NPC] Toda: It was a simple enough errand…
+[NPC Internal] Jirosh did not have the gloves as they were at Harnquist.
+[NPC] Toda: Ah, I see!
+[NPC] Toda: Well, thank you.
+[NPC] Toda: That's quite a bit of work.
+[NPC] Toda: I think you deserve a bit of a tip, tabei.
+[NPC Narrate] -Toda smiles and sets a handful of golden circles on the counter for you.-
+[NPC] Toda: Thank you again for your help, and may your path be lit!
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Enkidukai
+

@@ -1,0 +1,101 @@
+[Questname] Sierann is waiting
+[NPC Name] Sierann
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Pinayet Misses His Friend
+
+[To] Sierann
+
+[NPC Internal] Who are you waiting for?
+[NPC] Sierann: Oh, who am I waiting for?
+[NPC] Sierann: Worrem Dhoshi's servants.
+[NPC] Sierann: See, I get paid out of the treasury by Beniua Busuka, and she's so picky, she pays me in nothing but circles and octas.
+[NPC] Sierann: What merchant has change for such huge amounts?
+[NPC] Sierann: So I had him convert my wages to Trias.
+[NPC] Sierann: Nothing but mounds and mounds of easy-to-use Trias.
+[NPC] Sierann: But I really could use it soon.
+[NPC] Sierann: I don't suppose you could head down to Hydlaa and find Worrem?
+[NPC] Sierann: Tell him I am waiting?
+[NPC] Sierann: Please?
+[NPC Internal] Sure, no problem.
+[NPC] Sierann: Thank you!
+[NPC] Sierann: I'm hoping for any progress at all, really.
+
+[To] Worrem Dhoshi
+
+[NPC Internal] Sierann is awaiting his money.
+[NPC] Worrem: I was afraid he would grow impatient.
+[NPC] Worrem: There is but one problem: not all of the Tria I received from the treasury are real.
+[NPC] Worrem: It will take me some time to track down the source of the fakes and retrieve the real Tria.
+[NPC] Worrem: I'll use my connections.
+[NPC] Worrem: If you'd like to help, asking treasurer Willam Chorind about fake tria would speed things up a great deal.
+[NPC] Worrem: If you can return with the real Tria, all the better.
+
+[To] Willam Chorind
+
+[NPC Internal] What do you know about the fake tria?
+[NPC] Willam: Will you keep your voice down!
+[NPC] Willam: Do you want all of Hydlaa to know?
+[NPC] Willam: Listen.
+[NPC] Willam: We get our Tria from only two sources: the mint on the Upper Field level, and our tax collector Darphen Wrestele.
+[NPC] Willam: The mint has airtight security, so that means someone's been paying taxes with fakes.
+[NPC] Willam: Ask Darphen about it; let's get to the bottom of this.
+
+[To] Darphen Wrestle
+
+[NPC Internal] What do you know about the fake tria?
+[NPC] Darphen: Fake tria.
+[NPC] Darphen: Wow.
+[NPC] Darphen: And you want to know if I've seen anything suspicious?
+[NPC] Darphen: Hmm.
+[NPC] Darphen: When I collected from Aldaaren Phostle, he passed a glyph over some triangular rocks and handed me the tria.
+[NPC] Darphen: He told me he was keeping them under an illusion spell so nobody would steal them.
+[NPC] Darphen: I'm not so sure anymore, now that you're telling me there's a counterfeit problem.
+
+[To] Aldaaren Phostle
+
+[NPC Internal] What do you know about the fake tria?
+[NPC] Aldaaren: Oh no!
+[NPC] Aldaaren: The jig is up!
+[NPC] Aldaaren: Here, just take the real Tria and…and…just please don't kill me!
+[NPC] Aldaaren: Wait for the monsters to exit the Bronze Doors and do that!
+[NPC Narrate] -Aldaaren laughs maniacally. Then stops suddenly, looks at you very gravely.-
+[NPC] Aldaaren: Haha!
+[NPC] Aldaaren: I am having some fun with you, do you care to hear the real story?
+[NPC Internal] There's a story. Well let's hear it then.
+[NPC] Aldaaren: Ok, I needed a permit for my street preaching and Amidison did not want to give it to me.
+[NPC] Aldaaren: I begged her for a while and preached when the guards were out of earshot.
+[NPC] Aldaaren: Finally i asked if there were any favours I could do for her.
+[NPC] Aldaaren: She told me that she had been meaning to run a test of whether local government would be able to catch fake money if it were slipped to local officials.
+[NPC] Aldaaren: She needed someone not involved in government to initiate the shady transaction for it to be a true test.
+[NPC] Aldaaren: Here are the real tria.
+[NPC] Aldaaren: You may ask Amidison about fake tria if you wish to verify my story.
+
+[To] Worrem Dhoshi
+
+[NPC Internal] I got the real money back.
+[NPC Narrate] -Worrem cuts open the bag and examines it.-
+[NPC] Worrem: Yes, these are indeed real.
+[NPC] Worrem: Thank you.
+[NPC Narrate] -Worrem empties the Tria into a large lockbox and closes it. The box makes a clicking sound.-
+[NPC] Worrem: Would you be so kind as to take this lockbox to Sierann yourself?
+[NPC] Worrem: I warn you, it is heavy.
+[NPC] Worrem: I shall ask you but once.
+[NPC] Worrem: Yes or no?
+[NPC Internal] Yes, I can take it over for you.
+[NPC] Worrem: Here, take it.
+[NPC Narrate] -Worrem lifts the lockbox with a grunt and heaves it at you.-
+[NPC] Worrem: Thanks so much.
+
+[To] Sierann
+
+[NPC Internal] Here is your money.
+[NPC Narrate] -Sierann produces a key and unlocks the box.-
+[NPC] Sierann: Thank Talad!
+[NPC] Sierann: Will you look at all those Tria?
+[NPC] Sierann: That's what I'm talking about!
+[NPC] Sierann: Here, have a whole bunch with my thanks!
+
+[Reward] [Money] 7310; [XP] 15000
+

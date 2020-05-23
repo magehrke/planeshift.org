@@ -1,0 +1,60 @@
+[Questname] What's up with the Carpets
+[NPC Name] Brintec Dev-Onni
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Repair Mulgik's Bracers
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] Hail, I am looking for some adventure, a quest of sorts.
+[NPC] Brintec: I'm a merchant my friend.
+[NPC] Brintec: I sell things, I don't have exciting jobs for adventure-seekers.
+[NPC] Brintec: But since you've mentioned it, yes, there is something you can do for me.
+[NPC] Brintec: I have to fill a big order, a rich customer from Hydlaa wants new carpets, all in blue color.
+[NPC] Brintec: The weaver was supposed to deliver the carpets yesterday, but he did not.
+[NPC] Brintec: You can find him and tell him I really need the carpets.
+[NPC] Brintec: He should be in his tent in the warehouse area.
+[NPC] Brintec: Are you interested in this simple errand?
+[NPC Internal] I'll take it.
+[NPC] Brintec: All right.
+[NPC] Brintec: Let me know when you find something out.
+
+[To] Bjorid Haakthir
+
+[NPC Internal] Brintec wants the carpets.
+[NPC] Bjorid: Oh, Brintec wants them, does he?
+[NPC] Bjorid: And when he sent you here, did he at least give you the dye I need to finish the order?
+[NPC] Bjorid: So many blue carpets.
+[NPC] Bjorid: I used all the blue dye I had and it still wasn't enough.
+[NPC] Bjorid: Brintec promised that he'd send me another bottle, but it seems that he's forgotten all about it.
+[NPC] Bjorid: Tell him I need the blue dye first before I can finish these carpets.
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] Bjorid needs the blue dye to complete the order.
+[NPC] Brintec: Blue dye?
+[NPC] Brintec: I thought I sent some…
+[NPC] Brintec: Brintec Dev-Onni notices a bottle of blue dye sitting next to him.
+[NPC] Brintec: Ah, I see now!
+[NPC] Brintec: I completely forgot to send it to him!
+[NPC] Brintec: It seems this errand, so dull at first, is becoming more interesting, isn't it?
+[NPC] Brintec: But let's not lose any more precious time!
+[NPC] Brintec: Please make haste and give him this bottle so he can send me the carpets as soon as possible!
+
+[To] Bjorid Haakthir
+
+[NPC Internal] [YOU give Bjorid the dye.]
+[NPC] Bjorid: Now that's more like it!
+[NPC] Bjorid: Yes, now I can continue my work.
+[NPC] Bjorid: Give this scroll to Brintec: it contains payment and delivery date information.
+
+[To] Brintec Dev-Onni
+
+[NPC Internal] Here is the delivery date information.
+[NPC] Brintec: Aha, yes.
+[NPC] Brintec: We should be able to fill the order in time.
+[NPC] Brintec: Thank you for your help; here's a little reward.
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Crafting Association
+

@@ -1,0 +1,49 @@
+[Questname] Confirm Daily Schedule
+[NPC Name] Axomir
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Aerayau Strongwill's Epic Journey
+
+[To] Axomir
+
+[NPC Internal] Do you have any tasks for me?
+[NPC] Axomir: It seems, Sir, you are just in time, as I am in need of a runner.
+[NPC] Axomir: It is very important that I manage my command post at all times; however, it seems that there are a few discrepancies in the schedule for today's shipments.
+[NPC] Axomir: I am in need of someone to confirm these times with the Vigesimi.
+[NPC] Axomir: I shall pay you for your work: do you think that you could be of help to me?
+[NPC Internal] I would be happy to do this for you.
+[NPC] Axomir: Oh, that would be a great help.
+[NPC] Axomir: I have written a few notes on this schedule.
+[NPC Narrate] -Axomir pulls a piece of parchment out of his pocket, reads it quickly, and hands it to you.-
+[NPC] Axomir: Please go and give this directly to Vigesimi Allavium.
+
+[To] Datal Allavium
+
+[NPC Internal] Axomir asked me to deliver this since he is on duty and cannot leave his post.
+[NPC] Datal: Very dependable, that Axomir, with a good eye for detail.
+[NPC] Datal: He always catches even the slightest mistake.
+[NPC] Datal: He is perfect for the job of Captain of the Movers.
+[NPC Narrate] -Datal looks at the schedule in his hands.-
+[NPC] Datal: I see.
+[NPC] Datal: We have two shipments: one scheduled to go out and one scheduled to come in at the exact same time.
+[NPC] Datal: That is, of course, quite impossible to manage.
+[NPC] Datal: It looks as though he has a few changes marked as possibilities, and all of them are agreeable to me.
+[NPC Narrate] -Datal takes out some ink and begins to jot down a few notes. He then takes out a piece of sealing wax. Datal drips a few dots of wax on the paper, and approves the new schedule by sealing it with his signet ring.-
+[NPC] Datal: There, now kindly return this to Axomir and have him send word to Nalvys of the change in schedule.
+
+[To] Axomir
+
+[NPC Internal] Here is the revised schedule. Datal was quite impressed.
+[NPC] Axomir: Good, good, now things will run smoothly, as long as we stay on time.
+[NPC] Axomir: I must go, much to do.
+[NPC] Axomir: Thank you kindly for this…
+[NPC] Axomir: ah, but wait!
+[NPC] Axomir: Did Datal relay the changes to the Nalvys winch station or must I send word?
+[NPC Internal] You need to inform the Nalvys winch station right away about the changes.
+[NPC] Axomir: I shall do that right away.
+[NPC] Axomir: Thank you, kind Klyros, for your help.
+[NPC] Axomir: Here are a few coins for your troubles.
+
+[Reward] [Money] 7310; [XP] 15000
+

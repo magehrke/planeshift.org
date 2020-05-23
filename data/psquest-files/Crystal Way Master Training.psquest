@@ -1,0 +1,73 @@
+[Questname] Crystal Way Master Training
+[NPC Name] Govell Mihdren
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Becoming a Crystal Way Adept; [Item] 2, Adept's Crystal Way Wands; [Item] 1, Apprentice's Crystal Way Wand; [Skill] 100, Crystal Way; [Item] 1, Air glyph; [Item] 1, Cold glyph; [Item] 1, Death glyph
+
+[Info] You get the glyphs back.
+
+[To] Govell Mihdren
+
+[NPC Internal] Please except my proof of being a worthy student.
+[NPC] Govell: Welcome to masters training of the Crystal Way, YOU.
+[NPC] Govell: These next tests are not so much about training they are about making a name for your self as a Crystal Way Master.
+[NPC] Govell: In gaining aid and respect from your peers, you have begun spreading your name amongst your fellow students.
+[NPC Narrate] -Govell hands you back two wands, but keeps yours and puts it aside.-
+[NPC] Govell: You may return those to their owners.
+[NPC] Govell: You have proven your knowledge and dedication to the Crystal Way Circle to your previous trainers.
+[NPC] Govell: You also know of the supporting and opposing Ways to the Crystal Way.
+[NPC] Govell: This knowledge is important for your masters training.
+[NPC] Govell: My suggestion is to begin speaking to practitioners and students from the supporting Ways and making allies.
+[NPC] Govell: These bonds will become important in the coming tests.
+[NPC] Govell: Today, you will start by bringing me two glyph that Levrus sells, each from one of the Crystal Way's supporting Ways.
+[NPC Internal] One Air glyph and one Cold glyph as requested.
+[NPC] Govell: Well done.
+[NPC] Govell: In combing spells, you will often need glyphs from the Blue and Azure Ways.
+[NPC] Govell: On their own, each Way is limited in power.
+[NPC] Govell: You will find that the truly powerful spells are a product of your own Way, and those that support it.
+[NPC Narrate] -Govell hands back the glyphs.-
+[NPC] Govell: Although Crystal Way is the the most perfect Way, drawing its power directly from the Crystal Sun, no Way of magic is complete without the other Ways.
+[NPC Narrate] -Govell looks you in the eyes to make sure you are listening.-
+[NPC] Govell: This includes supporting Ways, neutral, and opposing.
+[NPC] Govell: Red and Brown Way are neutral, neither greatly aiding or impeding the Crystal Way.
+[NPC] Govell: Finally, there is the single Way that mirrors the Crystal Way.
+[NPC] Govell: This is the Dark Way.
+[NPC Narrate] -Govell takes a long breath.-
+[NPC] Govell: But, before speaking about this a want you to check something.
+[NPC] Govell: Tell me about grendols, what are they made of?
+[NPC Internal] corpses
+[NPC] Govell: Yes.
+[NPC] Govell: That is right.
+[NPC] Govell: Now you know what the Dark Way is capable of, maybe you have seen the products of their magic with your own eyes.
+[NPC Narrate] -Govell nods, slowly.-
+[NPC] Govell: For your last task today I will ask of you the Dark Way Glyph that Levrus sells.
+[NPC Internal] Here is the Death glyph.
+[NPC] Govell: Correct.
+[NPC] Govell: Please have it back.
+[NPC Narrate] -Govell quickly hands it back and rubs his hands on his vest.-
+[NPC] Govell: Sell it as soon as you can.
+[NPC] Govell: This is very important.
+[NPC] Govell: Crystal and Dark Way Circles are not enemies.
+[NPC] Govell: However, the magics they practice colide.
+[NPC] Govell: Trying to combine opposing Ways can be dangerous, or even deadly.
+[NPC] Govell: You may train the supporting ways within a realm or so of Crystal Way, but I advise you to limit any Dark Way training to a minimum.
+[NPC] Govell: If you train to high in the Dark Way, you risk canceling out your training in the Crystal Way all together.
+[NPC] Govell: <some problem>
+[NPC] Govell: In extreme cases …
+[NPC Narrate] -Govell breathes deeply.-
+[NPC] Govell: Visit the crater in the hill out towards Ojaveda if you wish to know the effects of combining too many magic Ways.
+[NPC] Govell: That hill was once much taller.
+[NPC] Govell: Enough of that.
+[NPC] Govell: I do not wish to speak of it.
+[NPC] Govell: Are you ready now to officially become a Master of the Crystal Way?
+[NPC Internal] Yes, indeed I am.
+[NPC] Govell: Well then, no time to be wasting.
+[NPC] Govell: This is your brand new Master's Wand.
+[NPC] Govell: You will show it to me every time you are ready for your next test session while you continue training in the usual manner.
+[NPC] Govell: I also want you to have this as a personal gift from me.
+[NPC] Govell: Even though it is a dark way glyph, it is sometimes used in spells to create an opposite effect.
+[NPC] Govell: Unlike other Dark Way glyphs, I have found combining it with Crystal Way to have very little danger.
+
+[Reward] [XP] 17800; [Item] 1, Negate glyph; [Item] 1, Master's Crystal Way Staff; [Faction] 40, Crystal Order
+

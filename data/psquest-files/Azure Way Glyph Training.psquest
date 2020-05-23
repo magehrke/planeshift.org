@@ -1,0 +1,98 @@
+[Questname] Azure Way Glyph Training
+[NPC Name] Vorigna Tassen
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] The Azure Circle Awaits; [Item] 1, Apprentice's Azure Way Wand; [Skill] 30, Azure Way; [Item] 1, Air glyph
+
+[To] Vorigna Tassen
+
+[NPC Internal] Please except my Way Wand as proof of being a student.
+[NPC] Vorigna: Welcome, I have been expecting you.
+[NPC Narrate] -Vorigna waves her arm outward.-
+[NPC] Vorigna: Now, let's see about getting you in order.
+[NPC Narrate] -Vorigna flips through some notes she pulls out of a bag and reads to herself.-
+[NPC] Vorigna: Wand as proof, check.
+[NPC Narrate] -Vorigna hands you back the wand.-
+[NPC] Vorigna: I do not have your first test ready.
+[NPC] Vorigna: So, why not?
+[NPC] Vorigna: Let's get to know each other.
+[NPC Internal] Well, seems easy.
+[NPC] Vorigna: I know what you think.
+[NPC] Vorigna: The usual boring line to introduce us.
+[NPC] Vorigna: Let's make it more interesting.
+[NPC] Vorigna: I study dreams, you know?
+[NPC] Vorigna: There are recurrent dreams, usually.
+[NPC] Vorigna: What do you think is the worst?
+[NPC] Vorigna: I'll give you three choices.
+[NPC] Vorigna: A dream of drowning?
+[NPC] Vorigna: A dream of running away from something?
+[NPC] Vorigna: A dream where you remain alone in the middle of nothing?
+[NPC Internal] Drowning.
+[NPC] Vorigna: Ohhh.
+[NPC] Vorigna: That is the right choice.
+[NPC] Vorigna: Dreaming to drown means you feel too overcome by your commitments.
+[NPC] Vorigna: Let's assume you're a dreamer of this type, so I can teach you something.
+[NPC] Vorigna: I'd suggest you to concentrate on little things and not on whole big problems.
+[NPC] Vorigna: Do one little thing after another.
+[NPC] Vorigna: Let's make it concrete.
+[NPC] Vorigna: You want to learn the Azure Way, it could seem a long journey, but focus only on now.
+[NPC] Vorigna: You could do a little thing for me.
+[NPC] Vorigna: Go and get me my daily ration from Jedonek Bolossj.
+[NPC] Vorigna: Then return and I will teach you a lesson.
+
+[To] Jedonek Bolossj
+
+[NPC Internal] Vorigna Tassen is asking about her ration.
+[NPC] Jedonek: Oh, another apprentice, seems Vorigna is getting lazy.
+[NPC Narrate] -Jedonek shakes his head.-
+[NPC] Jedonek: Nevermind, I do have her food here.
+[NPC Narrate] -Jedonek hands you a packet.-
+
+[To] Vorigna Tassen
+
+[NPC Internal] Here is your ration packet.
+[NPC] Vorigna: Thank you YOU.
+[NPC Narrate] -Vorigna sets the packet aside.-
+[NPC] Vorigna: You can learn two lessons today.
+[NPC] Vorigna: One, the worst is always what you choose.
+[NPC] Vorigna: When I asked you about the dreams, every answer was good, because we, ourselves, decide what is the worst for us.
+[NPC] Vorigna: And if you want now, and always, may decide also what is better for you.
+[NPC] Vorigna: It's only will, you can change.
+[NPC] Vorigna: Easily, and when you want.
+[NPC] Vorigna: The second lesson is simpler, do not give too much trust to selfish men.
+[NPC Narrate] -Vorigna lips move, becoming a smile.-
+[NPC Internal] What do you mean?
+[NPC Narrate] -Vorigna laughs friendly.-
+[NPC] Vorigna: I mean that I needed someone to get my ration.
+[NPC] Vorigna: I used words to manipulate you, to follow my evil plans!
+[NPC Narrate] -Vorigna smirks, putting away the ration.-
+[NPC] Vorigna: But I'd like to thank you, and, if you want, I can tell you the interpretation of the other dreams, but remember that they're only guidelines.
+[NPC] Vorigna: Otherwise we can continue your training.
+[NPC Internal] Tell me about dream of drowning.
+[NPC] Vorigna: Dreaming to drown usually means the subject feels too overcome by his commitments, well, sometimes could be also people.
+[NPC] Vorigna: The best way to avoid it is to concentrate on little things and not on the whole problem.
+[NPC] Vorigna: Do one little thing after another could help.
+[NPC] Vorigna: I can repeat if you haven't understood.
+[NPC Internal] I'm ready to continue the training.
+[NPC] Vorigna: Remember that you can always fight back your fears and blow them out.
+[NPC] Vorigna: Now, I am supposed to test you on magic.
+[NPC] Vorigna: To make sure you have basic knowledge to start your glyph training, I need you to give me the most common of all Azure Way Glyphs, used on its own as protection.
+[NPC Internal] I guess that will be the Air glyph.
+[NPC Narrate] -Vorigna gives you a slight smile.-
+[NPC] Vorigna: You would not think air itself could be much of a defense, but standing in a powerful wind on a guard tower will quickly change your mind.
+[NPC Narrate] -Vorigna returns your glyph.-
+[NPC] Vorigna: You have passed this test of knowledge.
+[NPC] Vorigna: As reward and proof of advancement, you will receive the second Azure Way item.
+[NPC Narrate] -Vorigna checks her notes again.-
+[NPC] Vorigna: For your next few theory sessions and tests with me you will need some other glyphs.
+[NPC Narrate] -Vorigna counts on her fingers of her free hand as she calls out the three glyphs.-
+[NPC] Vorigna: Sleep, Mind and Humanoid.
+[NPC] Vorigna: I know they are not easy to find, so we can see about it later if you have not acquired them yet.
+[NPC] Vorigna: Before you return to me for another test, you must increase your skill sufficiently.
+[NPC] Vorigna: When you have, I will accept your wand and give you your next test.
+[NPC] Vorigna: One last thing before you go, I understand Thorian has been asking about for some help with getting enchanted gems.
+[NPC] Vorigna: You should go and help him.
+
+[Reward] [XP] 9400; [Item] 1, Apprentice's Azure Way Bracers; [Faction] 10, Azure Order
+

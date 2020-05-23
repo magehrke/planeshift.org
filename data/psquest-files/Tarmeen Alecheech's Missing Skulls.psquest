@@ -1,0 +1,113 @@
+[Questname] Tarmeen Alecheech's Missing Skulls
+[NPC Name] Tarmeen Alecheech
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Pinayet Misses His Friend
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] What are you doing and can I help?
+[NPC] Tarmeen: 47, 48, 49…hrumph, now you made me lose count.
+[NPC] Tarmeen: Can you not see when someone is working?
+[NPC] Tarmeen: You can’t even leave me to my work and you want work from me?
+[NPC] Tarmeen: Argg, starting over.
+[NPC] Tarmeen: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15…
+[NPC] Tarmeen: …48, 49, 50, 51, 52, 53, 54, 55, 56.
+[NPC] Tarmeen: This can’t be right!
+[NPC] Tarmeen: Some skulls are missing!
+[NPC] Tarmeen: If Raithen finds out I will be cleaning megaras cages for the rest of my life!
+[NPC Narrate] -Tarmeen looks nervously about.-
+[NPC] Tarmeen: You want work?
+[NPC] Tarmeen: Go speak to Deelor Blackeye.
+[NPC] Tarmeen: I saw him lurking about last night.
+[NPC] Tarmeen: He is a dodgy fellow; I cannot say I trust him.
+[NPC] Tarmeen: You should not trust him either.
+[NPC] Tarmeen: Ask him about last night or if he knows about any missing stock.
+[NPC] Tarmeen: Now if you can handle that, I have work to do.
+[NPC] Tarmeen: Can you handle it?
+[NPC Internal] Yes, indeed.
+[NPC] Tarmeen: Be on quickly now!
+[NPC] Tarmeen: If Raithen finds out I am missing stock, I will probably be sent to Deelor for one of his famed 'information extraction sessions.'
+
+[To] Deelor Blackeye
+
+[NPC Internal] We have missing stock, what was your whereabouts last night?
+[NPC Narrate] -Deelor eyes narrow.-
+[NPC] Deelor: Vat is meaning of dis you ask me vhere I vas?
+[NPC] Deelor: Something missing, you sink it me?
+[NPC] Deelor: Vun day I vill have your head simple adventurer.
+[NPC] Deelor: You know vat is best ting vith killing adventurer?
+[NPC] Deelor: No vun misses dem.
+[NPC] Deelor: I do not know vhy I vould help you or vhy everyvun alvays suspects me.
+[NPC] Deelor: Do I take too much pleasure in my vwork?
+[NPC] Deelor: It is no matter.
+[NPC] Deelor: I vas neer storage last eve on legeetimate business.
+[NPC] Deelor: I needed new axe to remove heads of enemies of realm.
+[NPC] Deelor: I saw vun they call dark vanderer near storage area.
+[NPC] Deelor: Perhaps you ask heem vwhere hee vas or about dees missing stock and bozzer me no more.
+
+[To] Dark Wanderer
+
+[NPC Internal] We have missing stock, what was your whereabouts last night?
+[NPC] Dark: Petty theft?
+[NPC] Dark: You ignorant Ynnwn.
+[NPC] Dark: I am above such meager concerns as my own means.
+[NPC] Dark: I ponder mysteries beyond the reach of most mortals.
+[NPC] Dark: Leave before I make you leave.
+[NPC] Dark: Go and tell that peon Tarmeen Alecheech your feeble investigation has failed.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Deelor knows nothing, the investigation failed.
+[NPC] Tarmeen: That is unfortunate.
+[NPC Narrate] -Tarmeen Alecheech says: That is unfortunate.-
+[NPC] Tarmeen: So much strangeness in the air around here of late.
+[NPC] Tarmeen: Perhaps you can aid me in another way then.
+[NPC] Tarmeen: I need to replace the lost goods immediately, or I too will be looking for work soon.
+[NPC] Tarmeen: Will you go and see if you can arrange something with Taemian Yangnk to get me eight skulls?
+[NPC Internal] Yes.
+[NPC] Tarmeen: I thank you.
+[NPC] Tarmeen: Raithen ordered them specifically for some ritual during the Crystal Eclipse and if they are not here, I fear mine will one of the eight he takes to replace them.
+[NPC] Tarmeen: Just tell Taemian Yangnk you need eight skulls.
+[NPC] Tarmeen: You should do whatever he asks as payment, and if you can return with the skulls, I will reward you with something that has been collecting dust here.
+[NPC] Tarmeen: Just tell him you need eight skulls.
+
+[To] Taemian Yangnk
+
+[NPC Internal] I need eight skulls please.
+[NPC] Taemian: Skulls?
+[NPC] Taemian: You do not look like the morbid sort to me.
+[NPC Narrate] -Taemian wipes sweaty hands on his tunic.-
+[NPC] Taemian: Yes, my partner may have some.
+[NPC] Taemian: If you do something for me, I think we could make a fair enough trade.
+[NPC] Taemian: My partner is Thorian Gronk; he is usually in the plaza in Hydlaa trading for wares to send back here.
+[NPC] Taemian: I have something I need to get to him.
+[NPC] Taemian: If you take it to him with this requisition letter, he will give you the skulls.
+[NPC] Taemian: Do you accept my terms?
+[NPC Internal] Yes, I accept.
+[NPC] Taemian: This saves me a trip.
+[NPC Narrate] -Taemian wipes sweaty hands on his tunic.-
+[NPC] Taemian: Here is the letter of requisition skulls and a sack for Thorian Gronk; just give them to him when you find him.
+
+[To] Thorian Gronk
+
+[NPC Internal] Here you go.
+[NPC] Thorian: Ah great.
+[NPC] Thorian: Do you have a letter of requisition?
+[NPC Internal] And here's the letter.
+[NPC Narrate] -Thorian reads the letter.-
+[NPC] Thorian: Skulls eh?
+[NPC Narrate] -Thorian looks at you strangely.-
+[NPC] Thorian: Well, ok then.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Here's your skulls.
+[NPC] Tarmeen: Thank you.
+[NPC] Tarmeen: This may well have saved my head.
+[NPC] Tarmeen: Here is the promised reward.
+[NPC] Tarmeen: You can choose.
+
+[Reward] [XP] 16400; [OR Begin] [Item] 1, Mind glyph [OR] [Item] 1, Enforcer Shield [OR End]; [Faction] 20, Guard
+

@@ -1,0 +1,70 @@
+[Questname] Nyshyn's Silver Signet
+[NPC Name] Nyshyn Klannarr
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] A Helping Hand for Kisatol
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] You look like you could use some help.
+[NPC] Nyshyn: Graa…
+[NPC Narrate] -Nyshyn growls to herself as she brushes gently at a corroded lump of metal shrouded in dried mud. She mutters as she works.-
+[NPC] Nyshyn: I am so angry…
+[NPC] Nyshyn: every time I turn around it's some idiot or other making trouble that needn't exist, only to serve his own selfish idiot interests.
+[NPC] Nyshyn: Mikana the moron, cursed Kisatol!
+[NPC Narrate] -Nyshyn abruptly drops the lump and kicks it, making a face as she hurts her foot in the process. She watches it roll away and curses energetically under her breath.-
+[NPC] Nyshyn: You want something from me, do you?
+[NPC Internal] You seem frustrated. Is there anything I can do for you?
+[NPC] Nyshyn: I see.
+[NPC Narrate] -Nyshyn looks you over with a considering expression on her face. She sighs.-
+[NPC] Nyshyn: All right.
+[NPC] Nyshyn: I do need to get something to an acquaintance.
+[NPC] Nyshyn: It is small, but I'll give you a golden circle for prompt service.
+[NPC] Nyshyn: Tell Lori Tryllyn I sent you and give her these.
+[NPC] Nyshyn: She works at Jayose's Library and Codexes.
+[NPC Narrate] -Nyshyn gives you a silver ring and a sealed letter.-
+
+[To] Lori Tryllyn
+
+[NPC Internal] Nyshyn wished me to speak to you.
+[NPC] Lori: Oh, really?
+[NPC Narrate] -Lori smiles and looks up from her work.-
+[NPC] Lori: A delivery, I'll wager.
+[NPC] Lori: Let's see it.
+[NPC Internal] Why yes, she did indeed give me some things to pass on to you.
+[NPC] Lori: Good, let's have it here then.
+[NPC Narrate] -Lori holds out her hand expectantly.-
+[NPC Internal] Here they are. I hope you know what to do with them, since I do not.
+[NPC] Lori: Ah, what a pretty little ring.
+[NPC Narrate] -Lori inspects the ring closely, then breaks the embossed wax seal on the letter, puts on her glasses, and reads it. She clucks her tongue at a few parts, making a sympathetic face.-
+[NPC] Lori: The poor thing…
+[NPC Narrate] -Lori looks back at you.-
+[NPC] Lori: She'll be wanting you to go straight back out there with a bit of proof that this was delivered.
+[NPC] Lori: Let me get you that, I will be right back.
+[NPC Narrate] -Lori ducks down the aisle and goes to the back of the stacks, returning in a moment with a small leaf-green metal box.-
+[NPC] Lori: Give this to her, she will know that it is from me.
+[NPC Narrate] -Lori gives you the box.-
+[NPC] Lori: Thank you for helping with these things, Madam.
+[NPC] Lori: It is kind of you.
+
+[To] Nyshyn Klannarr
+
+[NPC Internal] Lori sends this back to you with her regards.
+[NPC] Nyshyn: Another one of Lori's cute little boxes, hmm?
+[NPC Narrate] -Nyshyn lifts the box to sniff at it.-
+[NPC] Nyshyn: Yes.
+[NPC] Nyshyn: Most pleasing, and thank you.
+[NPC] Nyshyn: Did everything go well?
+[NPC Internal] I had some problem, but nothing I couldn't handle.
+[NPC] Nyshyn: Good.
+[NPC] Nyshyn: Here is your payment, as I promised.
+[NPC Narrate] -Nyshyn gives you a few golden circles.-
+[NPC] Nyshyn: Thank you for the delivery and take care, Madam.
+[NPC] Nyshyn: Oh, and please feel free to take this with you.
+[NPC] Nyshyn: Someone left it here…
+[NPC Narrate] -Nyshyn looks behind a ruined wall, takes out a shovel and passes it to you with an ironic smile.-
+[NPC] Nyshyn: People really shouldn't go digging around old ruins if they don't know what they are doing.
+
+[Reward] [Money] 5130; [XP] 13600; [Item] 1, Shovel; [Faction] 25, Thieves Organization
+

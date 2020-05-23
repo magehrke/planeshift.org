@@ -1,0 +1,31 @@
+[Questname] Hirenn's Dwindling Stock
+[NPC Name] Hirenn Darmeth
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Golden Ring; [Item] 1, Ulbernaut Fur
+
+[To] Hirenn Darmeth
+
+[NPC Internal] You look like you could use some help.
+[NPC Narrate] -Hirenn looks thoughtful.-
+[NPC] Hirenn: I do need an ulbernaut fur.
+[NPC] Hirenn: Seems that most would rather park their rears on them and quaff beverages than sell them to honest tradesmen.
+[NPC Narrate] -Hirenn pauses to look you over.-
+[NPC] Hirenn: I would like it if you could fetch me one fur, but keep in mind these are some very…
+[NPC Narrate] -Hirenn looks serious.-
+[NPC] Hirenn: …
+[NPC] Hirenn: Very dangerous beasts.
+[NPC] Hirenn: There is no shame in refusing.
+[NPC] Hirenn: Do you think you are up for it?
+[NPC Internal] Yes, I will be right back with your fur.
+[NPC] Hirenn: Thank you, Sir.
+[NPC Internal] You were right! Ulbernauts are dangerous, but I managed to get a fur.
+[NPC Narrate] -Hirenn examines the hide critically.-
+[NPC] Hirenn: It will do.
+[NPC] Hirenn: Here, take this sack.
+[NPC] Hirenn: It's good for storing glyphs.
+[NPC] Hirenn: Made from the finest gobble ear.
+
+[Reward] [Money] 3391; [XP] 12200; [Item] 1, Glyph Sack
+

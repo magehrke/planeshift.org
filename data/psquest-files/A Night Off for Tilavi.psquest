@@ -1,0 +1,142 @@
+[Questname] A Night Off for Tilavi
+[NPC Name] Tilavi Aurenta
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [OR Begin] [Money] 200 [OR] [Item] 6, Rat Hides; [Money] 50 [OR End]
+
+[To] Tilavi Aurenta
+
+[NPC Internal] Can I help you with anything?
+[NPC] Tilavi: Ah!
+[NPC] Tilavi: You'd like to help me?
+[NPC] Tilavi: That's great!
+[NPC] Tilavi: I have to work tomorrow night but there's someone I really want to visit instead.
+[NPC] Tilavi: I asked Fruntar if he'd work that shift for me, but he said he'd have to think about it.
+[NPC] Tilavi: If you're heading downstairs, could you check with him?
+[NPC Internal] Yes, no problem. I'll go do that real quick.
+[NPC] Tilavi: That's so kind of you.
+[NPC] Tilavi: Tell him Tilavi wants her answer.
+[NPC Narrate] -Tilavi gives you a quick wink and turns away to scrub at a tabletop.-
+
+[To] Fruntar Durek
+
+[NPC Internal] Umm, hi! Tilavi would like her answer…?
+[NPC] Fruntar: Tilavi?
+[NPC Narrate] -Fruntar sighs.-
+[NPC] Fruntar: I don't really know what to say to her.
+[NPC] Fruntar: She seems to be walking straighter paths as of late, and I do enjoy helping people, but she is always getting me to do her work for her.
+[NPC Narrate] -Fruntar's paw rubs thoughtfully at a mended tear in his leather apron and he smiles.-
+[NPC] Fruntar: Ah, I have an idea.
+[NPC] Fruntar: This apron has seen better days and is in need of replacing.
+[NPC] Fruntar: I will work for her tomorrow evening if she provides me with a new apron.
+[NPC] Fruntar: She and the tanner are friends, so this should not be too much to ask.
+
+[To] Tilavi Aurenta
+
+[NPC Internal] Fruntar wants a new apron.
+[NPC] Tilavi: Fruntar wants an apron?
+[NPC Narrate] -Tilavi's ears droop.-
+[NPC] Tilavi: Aii!
+[NPC] Tilavi: I don't have time for all this.
+[NPC] Tilavi: Would you be willing to go get it for me, tabei?
+[NPC] Tilavi: Please?
+[NPC Internal] Sure, I don't mind helping out.
+[NPC] Tilavi: Really?
+[NPC Narrate] -Tilavi beams.-
+[NPC] Tilavi: Great!
+[NPC] Tilavi: Hirenn, our local tanner, he'll probably give you a discount if you tell him I sent you.
+
+[To] Hirenn Darmeth
+
+[NPC Internal] Tilavi sent me.
+[NPC] Hirenn: She did, did she?
+[NPC] Hirenn: What does she need?
+[NPC Internal] She needs a new apron.
+[NPC] Hirenn: The kind they use in the tavern?
+[NPC] Hirenn: I only have one in stock, and it's reserved.
+[NPC] Hirenn: I could sell it but it'll be two hundred tria.
+[NPC Narrate] -Hirenn Darmeth pauses a moment.-
+[NPC] Hirenn: …or you bring me six rat hides and I'll use those to replace my materials; and I'll sell you the apron for only fifty.
+[NPC] Hirenn: Jirosh says he's got too many rats in his warehouse these days.
+[NPC] Hirenn: I bet you can get yourself six hides there in no time, if the rats don't get yours first.
+[NPC Narrate] -Hirenn chuckles.-
+[NPC] Hirenn: So, which way would you like?
+[NPC] Hirenn: Rat hides or straight tria?
+
+[Possible Ways] 2
+
+[Way] 1
+
+[NPC Internal] straight tria
+[NPC] Hirenn: All right, two hundred tria and the apron is yours.
+
+[Give] Hirenn Darmeth; 200, tria
+
+[NPC] Hirenn: Let's see, where did I…
+[NPC] Hirenn: ah.
+[NPC Narrate] -Hirenn digs the apron from under a stack of skins and passes it over the counter along with a slip of paper.-
+[NPC] Hirenn: There you go, and there's a receipt, if you need one.
+
+[Way] 2
+
+[NPC Internal] Six rat hides it is.
+[NPC] Hirenn: All right, a half-dozen hides and fifty tria then.
+[NPC] Hirenn: Here are the hides and the tria.
+[NPC] Hirenn: Four…
+[NPC] Hirenn: five…
+[NPC] Hirenn: six.
+[NPC Narrate] -Hirenn examines the hides.-
+[NPC] Hirenn: Good hides.
+[NPC Narrate] -Hirenn then counts the tria.-
+[NPC] Hirenn: Let's see, where did I…
+[NPC] Hirenn: ah.
+[NPC Narrate] -Hirenn digs the apron from under a stack of skins and passes it over the counter along with a slip of paper.-
+[NPC] Hirenn: There you go, and there's a receipt, if you need one.
+
+[Way] 1, 2
+
+[To] Fruntar Durek
+
+[NPC Internal] Here is the apron.
+[NPC] Fruntar: Ah, tabei, what a fine apron.
+[NPC Narrate] -Fruntar's eyes light up in pleased surprise as he looks it over.-
+[NPC] Fruntar: A fine thing.
+[NPC Narrate] -Fruntar tries the apron on and smiles.-
+[NPC] Fruntar: I will be happy to work in her stead tomorrow night.
+[NPC] Fruntar: Please give her my thanks.
+
+[To] Tilavi Aurenta
+
+[NPC Internal] Fruntar sends his thanks!
+[NPC] Tilavi: Oh, I was peeking down at you two!
+[NPC] Tilavi: He looked pretty happy.
+[NPC] Tilavi: Thank you so much for helping me!
+[NPC] Tilavi: I hope it wasn't too expensive.
+[NPC] Tilavi: Hirenn must have given you a receipt.
+[NPC] Tilavi: Can I see it?
+[NPC Internal] Oh, here is the receipt for the apron.
+[NPC] Tilavi: Thank you.
+[NPC Narrate] -Tilavi reads the receipt and smiles, her tail swinging happily.-
+
+[Way] 1
+
+[NPC] Tilavi: Aii…
+[NPC] Tilavi: that was expensive.
+[NPC] Tilavi: But maybe my evening will be nice enough to be worth it!
+[NPC] Tilavi: I'll have to try extra hard to make sure it is extra special.
+[NPC Narrate] -Tilavi opens her purse and counts out coins.-
+[NPC] Tilavi: Here is two hundred for your expenses, and another fifty for your time.
+[NPC] Tilavi: Thank you again, YOU.
+
+[Way] 2
+
+[NPC] Tilavi: Ah, that was less than I thought it would be!
+[NPC Narrate] -Tilavi Aurenta opens her purse and counts out coins.-
+[NPC] Tilavi: Here…for your expenses, and for your help, tabei.
+[NPC] Tilavi: Oh, and here, please accept this; it's delicious.
+[NPC] Tilavi: Tilavi Aurenta gives you a bottle of wine.
+
+[Way] 1, 2
+
+[Reward] [Money] 1297; [XP] 9400; [Item] 1, Terevan Wine Bottle; [Faction] 15, Enkidukai

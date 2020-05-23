@@ -1,0 +1,91 @@
+[Questname] Search for Knowledge
+[NPC Name] Kerryk Cor
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] bend_the_octarch's_ear
+
+[To] Kerryk Cor
+
+[NPC Internal] I'm looking for a way to earn some tria?
+[NPC] Kerryk: Ah, a young Enkidukai in search of adventure or maybe some tria?
+[NPC] Kerryk: Perhaps both.
+[NPC] Kerryk: Or maybe you're more than just a hardhead like most people.
+[NPC] Kerryk: Perhaps you are actually in search of the one true power, knowledge.
+[NPC Narrate] -Kerryk looks you over as if examining you.-
+[NPC] Kerryk: Well, speak up, are you?
+[NPC Internal] Yes, I'm always looking to learn new things.
+[NPC] Kerryk: Ah, excellent!
+[NPC] Kerryk: Knowledge is the greatest power of all, you know.
+[NPC] Kerryk: I have hunted far and wide and found nothing half as powerful.
+[NPC] Kerryk: The thing is, very few know how to wield it.
+[NPC Narrate] -Kerryk smiles lightly.-
+[NPC] Kerryk: It's to one of those few that I'm sending you.
+[NPC] Kerryk: Levrus borrowed a few records to help him with his work and I need them back.
+[NPC] Kerryk: Go and tell him that I sent you.
+[NPC] Kerryk: He shall treat you nicely.
+[NPC] Kerryk: If you have never been, he lives just outside Hydlaa in his magic shop.
+[NPC] Kerryk: It is a beautiful place, near enough to Hydlaa for convenience, yet secluded enough for peace and quiet.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Kerryk Cor sent me.
+[NPC] Levrus: Kerryk Cor?
+[NPC] Levrus: Ah, now that's a great Kran.
+[NPC] Levrus: Yes, yes, Kerryk and I met quite some time ago.
+[NPC] Levrus: I had been doing some field research with a couple of apprentices.
+[NPC] Levrus: We were observing the effects of a spell on certain creatures.
+[NPC] Levrus: It was about halfway through the experiment when a large tefusang came upon us from nowhere.
+[NPC Narrate] -Levrus pauses, remembering.-
+[NPC] Levrus: We were exhausted after all of our spell casting and did not stand a chance against a tefusang.
+[NPC] Levrus: Thank Talad, out of nowhere came Kerryk in all kras bright blue brilliance.
+[NPC] Levrus: I'll never forget that day.
+[NPC] Levrus: I am somewhat surprised that you know Kerryk, actually.
+[NPC Narrate] -Levrus scratches his chin in thought.-
+[NPC] Levrus: Hmm, I imagine kra sent you to get these records.
+[NPC Narrate] -Levrus reaches below the counter and frowns.-
+[NPC] Levrus: Ermh, it seems I have lost one of them.
+[NPC Narrate] -Levrus laughs.-
+[NPC] Levrus: I must have returned it to Jayose by accident!
+[NPC Narrate] -Levrus holds out a book to you.-
+[NPC] Levrus: Here, go to his library in East Hydlaa and give Jayose this book, then come back to me with the record.
+
+[To] Jayose
+
+[NPC Internal] Levrus asked me to give this to you.
+[NPC] Jayose: Ah, excellent, you have found it.
+[NPC] Jayose: Poor Levrus is always so busy, seems he returned the wrong book.
+[NPC] Jayose: Can't really blame him; so much going on in his mind.
+[NPC] Jayose: Either way, here you go.
+[NPC] Jayose: You should bring it straight to Levrus; I'm sure he'll want to know that you found it.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Jayose sent me back with this.
+[NPC] Levrus: Ah, excellent.
+[NPC] Levrus: Here are the others.
+[NPC] Levrus: Thank you for that errand.
+[NPC] Levrus: Please return these to Kerryk and wish kra the best.
+[NPC Narrate] -Levrus gives you a box full of writings. He frowns for a moment and plucks a lump of silver ore from the box.-
+[NPC] Levrus: Ah, that I will need for my research!
+[NPC] Levrus: Hmm, perhaps I will visit my old friend soon.
+[NPC Narrate] -Levrus turns away distractedly and goes to examine some books on a shelf, humming a strange tune to himself.-
+
+[To] Kerryk Cor
+
+[NPC Internal] Here are your records.
+[NPC] Kerryk: Ah, wonderful, these are the ones.
+[NPC] Kerryk: That's very kind of you.
+[NPC] Kerryk: A simple archivist can't leave the archives very often; very much to do, you see.
+[NPC] Kerryk: I don't know what I would have done without you, so thank you.
+[NPC] Kerryk: You have done me a great service.
+[NPC Narrate] -Kerryk gives you a light wink.-
+[NPC] Kerryk: You were in search of knowledge, were you not?
+[NPC Narrate] -Kerryk looks at the records and chuckles.-
+[NPC] Kerryk: Well, in a way you found it.
+[NPC] Kerryk: Hmm, come back to me in a bit, for I'll have something more interesting for you to do once I put these records where they belong.
+[NPC Narrate] -Kerryk gives you a few coins.-
+[NPC] Kerryk: For now, take this as a reward, and farewell.
+
+[Reward] [Money] 3391; [XP] 12200; [Faction] 20, Science Association
+

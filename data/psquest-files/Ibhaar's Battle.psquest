@@ -1,0 +1,138 @@
+[Questname] Ibhaar's Battle
+[NPC Name] Ibhaar Senad
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Neave's Hammering Time
+
+[To] Ibhaar Senad
+
+[NPC Internal] Here you are, Ibhaar. Neave gave me this for you.
+[NPC] Ibhaar: So, that little smithy decided to repair my favourite Broadsword did she..?
+[NPC] Ibhaar: If she hadn't done such a terrible job of repairing it the last few times, it probably wouldn't keep breaking every time I use it.
+[NPC Internal] So what is it you do around here?
+[NPC] Ibhaar: What do I do?!
+[NPC] Ibhaar: I'm the commander of the expeditionary forces.
+[NPC Narrate] -Ibhaar pushes his chest out as he continues.-
+[NPC] Ibhaar: My men are sent out from Hydlaa when a city or village is attacked.
+[NPC] Ibhaar: It's my job to organise these Octarchy warriors.
+[NPC] Ibhaar: And also unfortunately,
+[NPC Narrate] -He scowls a little.-
+[NPC] Ibhaar: The mages…
+[NPC] Ibhaar: To make sure they are all sent or stationed where they are most needed; to help keep the peace or with fighting off invasions from the Stone Labyrinth.
+[NPC Internal] What sort of warriors do you have fighting for you?
+[NPC] Ibhaar: All sorts.
+[NPC] Ibhaar: They use ranged weapons like bows, short and sharp, or long and heavy blades.
+[NPC] Ibhaar: Some prefer giant war hammers or diamond sharp double headed axes.
+[NPC Narrate] -Ibhaar seems to get a little giddy talking about all the weapons.-
+[NPC] Ibhaar: There are many different types of blades you can use; it is all a matter of preference.
+[NPC] Ibhaar: I personally have these two, one for hitting, and one for stabbing.
+[NPC Internal] Do you have a suggestion on what I should use?
+[NPC Narrate] -Ibhaar shrugs as he plays with his two weapons a little.-
+[NPC] Ibhaar: Depends on what you want to use, very close range for fast attacking, or slower, heavier things which you can do more damage with.
+[NPC Narrate] -He starts to swing his blade as an example.-
+[NPC] Ibhaar: Or ranged weapons like bows.
+[NPC] Ibhaar: You should look at my collection of weapons.
+[NPC Narrate] -Ibhaar points using his sword at the table behind him.-
+[NPC] Ibhaar: Just take a look; there is a fair selection on there.
+[NPC] Ibhaar: Oh, by the way, I am supposed to give you a basic lesson on how to use a weapon of your choice and then ask you to demonstrate it to me.
+[NPC] Ibhaar: So, go and look at the choices and then come back and tell me which you want and I will give you one to use.
+
+[Info] For help on using free text to talk with NPCs click on the 'HELP' icon in the toolbar and in the 'START HERE SECTION' read the heading 'INTERACTING AND SPEAKING WITH NPCs'.
+
+[Info] What you are required to do with Ibhaar is to look at the weapons on the tables and on the tree and find the name of one you want. Once you have picked one you need to return to Ibhaar, right click him and pick the talk icon. When the Quest options appear you should type the name of the weapon you want in the free text window and press enter to send the message when you are done. If you spell it right he will continue the quest with you.
+
+[NPC Internal] ynnwn greater bow
+[NPC] Ibhaar: Ah, so you want to use a bow do you?
+[NPC] Ibhaar: Well as you are Ylian I think its best you use this.
+[NPC Narrate] -Ibhaar holds up a Dermorian Lesser Bow.-
+[NPC] Ibhaar: And let this be your very first lesson in Hydlaa, all the bows are basically the same; you hold the bow in your left hand and some arrows in your right hand.
+[NPC Narrate] -Ibhaar picks up some arrows as well.-
+[NPC] Ibhaar: And every time you attack a target you fire an arrow off and hope it hits your target.
+[NPC] Ibhaar: Be careful you are carrying enough arrows as you can very quickly run out.
+[NPC] Ibhaar: I suppose you can go and kill some of the rats round here to practice after your expert lesson…
+[NPC Narrate] -Ibhaar looks over at his precious Rivnak.-
+[NPC] Ibhaar: In fact you would be doing me a favour if you did.
+[NPC] Ibhaar: My Rivnak gets nervous every time they get too close.
+[NPC] Ibhaar: Bring me a rat hide and I'll pay you a little.
+
+[Info] For help on fighting click on the 'HELP' icon in the toolbar and in the 'START HERE SECTION' read the heading 'HEALTH AND COMBAT STYLES'.
+
+[Info] Simply, you can fight with fists or a weapon, to equip a weapon open your inventory and pick up and then drop your chosen weapon onto you character's 'SWORD' or 'SHIELD' slot. As you choose a bow, the bow goes in the shield slot and arrows in the sword slot. Then approach a rat, select it and open the interaction menu, and then chose the attack option. If your 'INFORMATION' window is open you can select a rat and chose an attacking stance from 'full defensive' to 'bloody'. You can loot items from the dead rats by right clicking on the rat and choosing the 'LOOT' icon and taking the items you want from the loot window which will appear.
+
+[NPC Internal] Here I killed a rat and I have its hide for you.
+[NPC Narrate] -Ibhaar gabs the hide out of your hand.-
+[NPC] Ibhaar: YES!
+[NPC] Ibhaar: Great, well done on killing the rats.
+[NPC Narrate] -Ibhaar throws the hide away into a barrel.-
+[NPC] Ibhaar: This will no doubt lift a great weight from my Rivnak's nerves.
+[NPC] Ibhaar: You know, if you get another one I’ll reward you for that as well.
+[NPC] Ibhaar: Hey…
+[NPC] Ibhaar: YOU!
+[NPC] Ibhaar: You killed a rat; bring its hide here and I’ll pay you for it.
+[NPC Internal] Here I killed a second rat and I have its hide for you.
+[NPC Narrate] -Ibhaar gabs the hide out of your hand again.-
+[NPC] Ibhaar: HA!
+[NPC] Ibhaar: Just like I said I would.
+[NPC] Ibhaar: See killing these rats is easy.
+[NPC] Ibhaar: And here, this is for you.
+[NPC Narrate] -He tosses you a few more coins than the first time.-
+[NPC] Ibhaar: Just to keep their numbers down and I’ll buy one more from you if you get it.
+[NPC] Ibhaar: Hey…
+[NPC] Ibhaar: YOU!
+[NPC] Ibhaar: You killed a rat; bring its hide here and I’ll pay you for it.
+[NPC] Ibhaar: Just like I said I would.
+[NPC Internal] Here I killed another rat and I have its hide for you.
+[NPC] Ibhaar: Maybe there is hope you will become a reasonable warrior yet.
+[NPC Narrate] -Ibhaar drops the hide in a barrel with the others you gave him.-
+[NPC Narrate] -Putting his hand into a small pouch he pulls out a circle.-
+[NPC] Ibhaar: For doing such a fine job in keeping my rivnak happy, this is for you.
+[NPC Narrate] -He then tosses the coin at you.-
+[NPC Internal] So, who do I need to see for more lessons on using weapons?
+[NPC] Ibhaar: Well who you want to go and see first will depend on which weapon type you want to learn to use.
+[NPC] Ibhaar: I prefer my hammer and long sword.
+[NPC] Ibhaar: But let me give you a list in case the weapon you chose isn’t the one you will want to learn later.
+[NPC] Ibhaar: Of course the Octarchy is always pleased when one of its citizens wants to train in combat to become a useful addition to its fighting forces.
+[NPC] Ibhaar: Percival Hawthorne will train you with how to use all types of swords, Finara Plund on how to use all types of axes, Lori Tryllyn will teach you to use knives and daggers and Taulim Wilaal will teach you how to use all types of ranged weapons.
+
+[Info] To see information about how to train a skill click on the 'HELP' icon in the toolbar and in the 'START HERE SECTION' read the heading 'SKILL TRAINING'.
+
+[Info] There are three parts to training a skill. 1 - Gaining progression points which you are awarded by doing quests, hunting and making/gathering things. 2 - Buying skill training, to do this you need to find the correct trainer and spend Tria and Progression points to get 'theoretical training'. 3 - To gain the next level you then need to practice the skill, by fighting, harvesting, crafting etc.
+
+[NPC Internal] Using weapons is all well and good, but what about armour?
+[NPC Narrate] -Ibhaar bangs his fist against his chest.-
+[NPC] Ibhaar: Here is some of the finest heavy armour you are ever likely to see.
+[NPC Narrate] -Ibhaar checks the spot he hit on his chest to make sure there are no marks.-
+[NPC] Ibhaar: Well, I suppose it’s probably worth me telling you who to see to learn about using armour.
+[NPC] Ibhaar: You wouldn’t want to become expert with a blade and use it in combat with no protection.
+[NPC] Ibhaar: So Jefecra Harcrit, a member of the Hydlaa Guard can train you in using heavy armour once you are strong enough to wear it.
+[NPC] Ibhaar: Grimal Bloodaxe, a proud StoneHammer can train you in how to best use chainmail or medium armours again once you are strong enough to wear them.
+[NPC] Ibhaar: Finally, Jeyarp Grotemey who has a small stall selling leather goods can teach you how to use leather armour effectively.
+[NPC Internal] Where is the best place to start hunting beasts?
+[NPC Narrate] -Ibhaar smirks a little.-
+[NPC] Ibhaar: That’s funny.
+[NPC] Ibhaar: Most of the creatures running about these lands will strike you down with one blow if you don’t train enough before running about waving your sword trying to get one of them to impale itself on the end of the blade for you.
+[NPC] Ibhaar: HA!
+[NPC] Ibhaar: But if you seriously want to jump straight into fighting there are lots of little creatures in the sewers if you can find your way in and are brave enough to venture down there.
+[NPC] Ibhaar: There are also lots of different creatures and gladiators of lots of different sizes and strengths in the Arena which is probably a much better place to start.
+[NPC Internal] Well if I’m going to get squashed so quickly how can I heal myself?
+[NPC] Ibhaar: There are a number of ways; eating food someone has made is a good simple way, but don’t eat too much or it might just make you worse.
+[NPC] Ibhaar: You can use herbal remedies or potions which someone has made or you have bought to heal yourself.
+[NPC] Ibhaar: And I guess…
+[NPC] Ibhaar: If you are desperate…
+[NPC] Ibhaar: You can use magic…
+[NPC Internal] So what about using magic?
+[NPC Narrate] -Ibhaar stares at you.-
+[NPC Narrate] -His eyes bulge and a vein on his forehead throbs as he seems to get ready to explode.-
+[NPC] Ibhaar: MAGIC!
+[NPC] Ibhaar: …
+[NPC] Ibhaar: Magic…
+[NPC] Ibhaar: Really?
+[NPC] Ibhaar: I don't use magic, of course I don't use magic, clearly I don't use magic…
+[NPC] Ibhaar: Sword and steel and hard training will make you a real warrior.
+[NPC] Ibhaar: You will not get me helping you with magic or anything to do with it.
+[NPC] Ibhaar: Run off to…that…Dermorian, Orphia, over there if you want to get to use that horrible horrible stuff.
+[NPC Narrate] -Ibhaar points to his left a little, down the road.-
+
+[Reward] [Money] 600; [Special] Weapon of choice
+

@@ -1,0 +1,48 @@
+[Questname] Becoming a Brown Way Adept
+[NPC Name] Jardet Forsill
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Brown Way Glyph Training; [Item] 1, Brown Way Apprentice's Wand; [Skill] 40, Brown Way; [Item] 1, Summon glyph; [Item] 1, Rock glyph; [Item] 1, Hand glyphs
+
+[Info] You get the glyphs back.
+
+[To] Jardet Forsill
+
+[NPC Internal] I return with my wand for more training.
+[NPC] Jardet: And so the student returns.
+[NPC] Jardet: I assume you are ready for your first combination glyph test?
+[NPC] Jardet: Of course you are.
+[NPC] Jardet: You are my student, and would not risk Yliakum by distracting me from my Guard duties for any other reason.
+[NPC] Jardet: Since you are ready, hand me the two glyphs that combine to allow you to hurl flying rocks at your enemy.
+[NPC Narrate] -Jardet awaits the glyphs.-
+[NPC Internal] Would it be these two ?
+[NPC Narrate] -Jardet nods and hands the two glyphs back.-
+[NPC] Jardet: Well done.
+[NPC] Jardet: This is handy for pelting those pesky tefusang into submission.
+[NPC] Jardet: Now for the next test you will need an Red Way glyph called Hand.
+[NPC] Jardet: Do you have one?
+[NPC Internal] Hand it is.
+[NPC] Jardet: Excellent!
+[NPC] Jardet: I will hold onto your Hand glyph until this test is over.
+[NPC] Jardet: For the next step, give me the glyph that combines with it to attack with a hard powerful fist.
+[NPC] Jardet: I'll give you a hint if you are not sure what that is.
+[NPC] Jardet: It is what rolls around in Trasok's head if he thinks too hard.
+[NPC Narrate] -Jardet laughs again.-
+[NPC Internal] Would it be Rock?
+[NPC] Jardet: Exactly.
+[NPC] Jardet: As for the spell this combination creates, it allows you to conjure a much more powerful version of the first spell I asked you and show you how versatile the Brown Way glyphs are.
+[NPC] Jardet: Well, we might as well get this moving.
+[NPC] Jardet: You are ready to advance?
+[NPC Internal] Yes, ready and willing.
+[NPC] Jardet: Congratulations YOU, you have passed this final section of my testing.
+[NPC] Jardet: Here are your glyphs, and also your robe to complete the Apprentice set.
+[NPC] Jardet: You will now go to Lorytia Starhammer for further testing to become an Adept in the Brown way.
+[NPC] Jardet: I suggest you train with me until I can no longer instruct you before approaching Lorytia.
+[NPC] Jardet: You will need to hand Lorytia two wands, one belonging to you and one from a fellow student.
+[NPC] Jardet: Each Circle requires this of its students to prove that they not only have the respect of their teachers, but also that of their fellow students.
+[NPC] Jardet: After you give Lorytia the two Brown Way Wands, she will advance you into the next level of testing and give you a new wand.
+[NPC] Jardet: You will return the other Apprentice wand to the person who loaned it to you.
+
+[Reward] [XP] 10800; [Item] 1, Apprentice's Brown Way Robe; [Faction] 15, Brown Order
+

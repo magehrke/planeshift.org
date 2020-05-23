@@ -1,0 +1,45 @@
+[Questname] Roobelh is Bored
+[NPC Name] Roobelh
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Roobelh
+
+[NPC Internal] Hail soldier, can I assist you in tasks?
+[NPC] Roobelh: Yeah, okay.
+[NPC] Roobelh: I'm kinda bored.
+[NPC] Roobelh: Staring out over this expanse and nothing ever happens, you know?
+[NPC] Roobelh: But I can't move from my spot, so how about you do me a favour, huh?
+[NPC Internal] Alright, I'll help you.
+[NPC] Roobelh: Good good.
+[NPC] Roobelh: I asked Yonda Axebow to make me a special wooden toy.
+[NPC] Roobelh: So you gotta let Yonda know that Roobelh sent you.
+[NPC] Roobelh: If anything, it'll keep me entertained.
+[NPC] Roobelh: Thanks for doing this.
+[NPC] Roobelh: You're a pal.
+
+[To] Yonda Axebow
+
+[NPC Internal] Roobelh sent me because he wants a puzzle toy.
+[NPC] Yonda: Ah, he wants the special puzzle toy!
+[NPC] Yonda: Here, take it.
+[NPC] Yonda: Get it to him as fast as you can.
+[NPC] Yonda: Custom toys are paid for in advance, so don't worry about that.
+
+[To] Roobelh
+
+[NPC Internal] give Roobelh the toy.
+[NPC] Roobelh: Thank you.
+[NPC Narrate] -Roobelh examines the toy closely, his lips soundlessly moving as he slowly spins it to examine the markings.-
+[NPC] Roobelh: Ah, I see.
+[NPC] Roobelh: Very interesting.
+[NPC] Roobelh: Yonda does very good work.
+[NPC] Roobelh: Yes…very helpful indeed.
+[NPC] Roobelh: Oh, are you still here?
+[NPC] Roobelh: Thanks.
+[NPC] Roobelh: Have this.
+
+[Reward] [Money] 3391; [XP] 12200
+

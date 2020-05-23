@@ -1,0 +1,91 @@
+[Questname] Gregori's Unreadable Page
+[NPC Name] Gregori Stevald
+[Checkup] 2017-04-17
+[Authors] Huarwar Eruera
+
+[Need] [Quest] Weapon Identification; [Money] 100
+
+[To] Gregori Stevald
+
+[NPC Internal] Hail Gregori, I am here to see if you have another task I can help with?
+[NPC] Gregori: Now that I trust you a bit more, I can share with you this strange item I found while exploring the stone labyrinths.
+[NPC] Gregori: It's a page written in some ancient language, a language which nobody that I've asked has been able to decipher.
+[NPC] Gregori: What I have found is that the page is magical, so it's not just random text.
+[NPC] Gregori: Maybe it's a spell, or a recipe for a magical potion, or something completely different again!
+[NPC] Gregori: This is what I want to find out.
+[NPC] Gregori: Will you assist me?
+[NPC Internal] It will be my pleasure, where do I start?
+[NPC] Gregori: Great, take this page and try and find out what it really is.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Levrus, I need your help with this page.
+[NPC] Levrus: Hmm, do you want me to identify this for you?
+[NPC] Levrus: I can do it for one hundred tria.
+
+[Give] Levrus Dahrenn; 100, Tria
+
+[NPC Internal] [You search for the coins and hand them to Levrus.]
+[NPC] Levrus: Thanks, I will be back in a minute.
+[NPC ME] Levrus Dahrenn goes down to his laboratory and after few minutes he comes back.
+[NPC] Levrus: Well, my spell can only identify one piece of it, the third out of five.
+[NPC] Levrus: It reads: 'and chaos runs at all my words.'
+
+[To] Jayose
+
+[NPC Internal] Excuse me Jayose, but I need someone to read this page.
+[NPC] Jayose: looks interesting, I can identify that it contains five phrases.
+[NPC] Jayose: But it seems that each is written in a different language...
+[NPC] Jayose: Thanks to my studies of magic and ancient languages I can probably decipher one...
+[NPC] Jayose: Give me few minutes 
+[NPC ME] Jayose reaches for some old books and starts searching through them. You see him pause over some symbols.
+[NPC] Jayose: Ok, I think I have something.
+[NPC] Jayose: The fifth one reads: 'and the mind of legends more than ten'.
+[NPC] Jayose: I hope that helps.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] You hand the page to Sharven.
+[NPC] Sharven: Is this a message for me?
+[NPC ME] Sharven Xant-Areth looks at the page.
+[NPC] Sharven: I can't read it, this seems a strange language...
+[NPC] Sharven: Actually, I can understand one part, the fourth line is very similar to the lost written language of Kadaikos.
+[NPC] Sharven: It reads: 'I have the body of brave men,'.
+[NPC] Sharven: Anyway I don't have time for your questions right now, please return later on.
+
+[To] Talisa Tamariss
+
+[NPC Internal] Excuse me, I am looking for someone that can translate this page for me.
+[NPC] Talisa: Hey, that looks like a very old page...
+[NPC] Talisa: I have a passion for those kinds of languages.
+[NPC] Talisa: Will you sell it to me?
+[NPC Internal] No, but I do need someone to decipher it for me.
+[NPC] Talisa: Wow, it must be very important then...
+[NPC] Talisa: I will try to decipher it.
+[NPC ME] Talisa Tamariss takes a monocle from a pocket and starts to observe the symbols with great care.
+[NPC] Talisa: Well, the only ones I can understand are the first two, they read: 'I shatter darkness, like a hammer of the gods'.
+[NPC] Talisa: I cannot understand more of it.
+[NPC] Talisa: However, I can say that this sounds like the beginning of a riddle...
+[NPC] Talisa: I may well be mistaken though.
+
+[To] Gregori Stevald
+
+[NPC Internal] I have solved the mystery of this page.
+[NPC] Gregori: Ah, you are back with that old page...
+[NPC] Gregori: What does this page contain?
+[NPC Internal] It is a riddle with five sections, each in a different language.
+[NPC] Gregori: I see, and did you solve this riddle?
+
+[Info] You have to enter the word 'Justice'.
+
+[NPC Internal] Justice
+[NPC Narrate] -Everything seems to go very silent.-
+[NPC Narrate] -A flash of light shimmers over and comes out of the page, as soon as you pronounce the word 'justice'.-
+[NPC] Gregori: Hey, seems that you unlocked something in this page.
+[NPC Narrate] -The page melts forming two identical stones.-
+[NPC] Gregori: Oh...
+[NPC] Gregori: These are two identical glyphs.
+[NPC] Gregori: I will keep one and give the other to you for your efforts.
+[NPC] Gregori: Thanks for solving this mystery.
+
+[Reward] [XP] 10800; [Item] 1, Summon Glyph

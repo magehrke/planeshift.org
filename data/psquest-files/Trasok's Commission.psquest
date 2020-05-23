@@ -1,0 +1,63 @@
+[Questname] Trasok's Commission
+[NPC Name] Trasok Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Learning Shield Working; [Item] 1, Ulbernaut Heart; [Item] 20, Gold Ingots; [Item] 3, Steel Stocks; [Item] 14, Bronze Spikes; [Skill] 15, Shield making; [Item] 1, Beer
+
+[To] Trasok Starhammer
+
+[NPC Internal] Hello Trasok, you look quite busy. Anything I can help with?
+[NPC] Trasok: Aye, aye…
+[NPC] Trasok: I look busy, indeed.
+[NPC] Trasok: Look, I've got this commission from Lord Iragdun.
+[NPC] Trasok: He wants a new shield for him, an' replacements for his guards.
+[NPC] Trasok: But…
+[NPC Narrate] -Trasok sighs deeply.-
+[NPC] Trasok: I don't have enough materials an' I'm way too busy to leave the smith shop.
+[NPC] Trasok: Can ye please help me?
+[NPC Internal] Sure, I will help you.
+[NPC] Trasok: Good.
+[NPC] Trasok: This is what I'll need.
+[NPC] Trasok: It's a sizable list so ya might want ta write it down.
+[NPC Narrate] -Trasok stops working for a moment and starts reading a list of items.-
+[NPC] Trasok: An ulbernaut heart.
+[NPC] Trasok: Twenty ingots of gold.
+[NPC] Trasok: Three stocks of steel.
+[NPC] Trasok: Fourteen bronze shield spikes.
+[NPC] Trasok: Oh, and a beer.
+[NPC Narrate] -Trasok chuckles and smiles at YOU under his beard.-
+[NPC Internal] One ulbernaut heart. It wasn't an easy thing to come by.
+[NPC] Trasok: I know, I know.
+[NPC] Trasok: But I need it to make some special steel.
+[NPC Narrate] -Trasok uses his hand to extract the blood from the heart, pouring it into a small furnace with some kind of molten metal, stirring it afterwards.-
+[NPC] Trasok: It does look tasty, doesn't it?
+[NPC Narrate] -Trasok gives a rumbling laughter.-
+[NPC Internal] Here, the gold ingots. What do you need those for?
+[NPC] Trasok: Oh, I was short on gold an' I need to make some edgings out of these.
+[NPC] Trasok: Actually, I think I'm a bit short on everything.
+[NPC Narrate] -Trasok stands on his toetips and smirks, winking at YOU.-
+[NPC Internal] The steel stocks. These were the easiest.
+[NPC] Trasok: Aye, weren't they?
+[NPC] Trasok: Steel is something everyone can get easily.
+[NPC] Trasok: And very versatile, it can be used for armor, weapons, an' shields.
+[NPC] Trasok: For now, I'll use it for some shield shapes.
+[NPC] Trasok: Anything left?
+[NPC Internal] The bronze spikes, pretty pointy.
+[NPC] Trasok: Ow!
+[NPC Narrate] -Trasok pulls his hand back.-
+[NPC] Trasok: Indeed they're pointy!
+[NPC] Trasok: I think these will do well enough, aye.
+[NPC Narrate] -Trasok puts the spikes away in a safe place.-
+[NPC] Trasok: Is that all?
+[NPC Internal] Ah of course, here's your beer.
+[NPC Narrate] -Trasok smiles.-
+[NPC] Trasok: I thought ye might've forgotten.
+[NPC Narrate] -Trasok takes the mug and takes a good long sip, wiping the foam from his beard.-
+[NPC] Trasok: You've done well, YOU.
+[NPC] Trasok: So well, I think I'll share some of my crafting books with you.
+[NPC] Trasok: I'm pretty sure you'll enjoy them as much as I do.
+[NPC Narrate] -Trasok hands you a stack of books and some coins.-
+
+[Reward] [Money] 2107; [XP] 10800; [Item] 1, Five-Spiked Shield Diagram; [Item] 1, Enforcer Shield Diagram; [Item] 1, Golden Shield Diagram; [Faction] 15, Crafting Association
+

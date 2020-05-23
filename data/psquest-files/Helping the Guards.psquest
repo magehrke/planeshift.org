@@ -1,0 +1,177 @@
+[Questname] Helping the Guards
+[NPC Name] Jefecra Harcrit
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Quest] Remant's Sword; [Money] 375
+
+[To] Jefecra Harcrit
+
+[NPC Internal] I am interested in Joining the Guards.
+[NPC] Jefecra: Well, as you might imagine, the city guard doesn't just let anyone in.
+[NPC] Jefecra: We have a recruitment process.
+[NPC] Jefecra: There are certain requirements you must meet if you are to become one of the guards, since as a member of the guard you have some serious responsibilities and some notable benefits.
+[NPC] Jefecra: Unfortunately, it's actually quite hard to get accepted.
+[NPC] Jefecra: But I'll tell you what, if you can pass a little test, I will make sure to put in a good word with the chief for you.
+[NPC] Jefecra: You'll also be doing me a personal favor.
+[NPC] Jefecra: What do you think, would you be up for it?
+[NPC Internal] Yes, I am ready for it.
+[NPC] Jefecra: Here's the deal.
+[NPC] Jefecra: There is this shady character who is always milling around the Kada-El Tavern.
+[NPC] Jefecra: His name is Thorian Gronk.
+[NPC] Jefecra: I suspect he is up to something illegal, but he is too careful around the guards to get caught.
+[NPC] Jefecra: In fact, he even taunts me and other members of the guard.
+[NPC] Jefecra: If you could get some more information on him for me, and bring me back something that proves my suspicions are right, then I will know you are the sort we are looking for in the guard.
+[NPC] Jefecra: Do you think you can do it?
+[NPC Internal] Yes, easy as clacker pie.
+[NPC] Jefecra: Great, I like your attitude.
+[NPC] Jefecra: I'll await your return.
+[NPC] Jefecra: Be sure to remember we are concerned with justice.
+[NPC] Jefecra: It is possible Gronk is innocent, so don't be too pushy or rough with him.
+[NPC] Jefecra: You'll have to be observant and clever to find proof if there is any.
+[NPC] Jefecra: Search any hint about him.
+[NPC] Jefecra: I'd start in Hydlaa.
+[NPC] Jefecra: Ask merchants.
+[NPC] Jefecra: Trainers.
+[NPC] Jefecra: Anybody who might have given him supplies or information of any kind.
+[NPC Narrate] -Jefecra twitches a whisker in thought.-
+[NPC] Jefecra: If you find any evidence of anything suspicious, return it to me and I'll direct you further.
+[NPC] Jefecra: Good luck.
+
+[To] Allelia Symiestra
+
+[NPC Internal] What can you tell me about Thorian Gronk?
+[NPC Narrate] -Allelia is busy tidying some things away as she answers you.-
+[NPC] Allelia: No too much.
+[NPC] Allelia: He spends a lot of time up stairs…
+[NPC] Allelia: Busy plenty of food and drink…
+[NPC] Allelia: People come and ask about him from time to time, some nicer, some not so.
+[NPC] Allelia: But we can get all sorts in here and I like to dwell on individuals too much…
+[NPC] Allelia: Oh..maybe go and try Aleena on the roof, she has never really liked Throain and avoids him where ever possible.
+
+[To] Aleena Arlavin
+
+[NPC Internal] What can you tell me about Thorian Gronk?
+[NPC] Aleena: The dwarf who's always skulking around on the floor below me?
+[NPC] Aleena: Yeah, I know him.
+[NPC] Aleena: He asked me about herbalism.
+[NPC] Aleena: Making potions, specifically.
+[NPC] Aleena: I told him to leave me alone and go check the library.
+
+[To] Jayose
+
+[NPC Internal] What can you tell me about Thorian Gronk?
+[NPC] Jayose: I remember someone with a similar name, maybe he borrowed some books from the library.
+[NPC] Jayose: Let me search my records, I have a registry with all people that have pending books.
+[NPC Narrate] -Jayose opens a drawer and reads a big book.-
+[NPC] Jayose: Well, there is a Thor Grok, don't know if it's the same person though.
+[NPC] Jayose: This person borrowed a book called 'Potion making - advanced alchemy formulas.' You might ask some other alchemists.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] What can you tell me about Thorian Gronk?
+[NPC] Sharven: I know this name.
+[NPC] Sharven: He once inquired about making potions, but I told him those secrets are reserved for those who dedicate themselves to serving Laanx.
+[NPC] Sharven: He left, muttering that he would check the library.
+
+[To] Kaiman Jilatt
+
+[NPC Internal] What can you tell me about Thorian Gronk?
+[NPC] Kaiman: Thorian?
+[NPC] Kaiman: Well…
+[NPC] Kaiman: umm…
+[NPC] Kaiman: I've clean forgotten
+[NPC Narrate] -Kiaman winks at you.-
+[NPC Internal] Might one circle help?
+[NPC] Kaiman: Oh that Thorian.
+[NPC] Kaiman: He comes by asking about getting odd little ingredients from the lower level.
+[NPC] Kaiman: They always seem to be used in alchemy for something or other, that's about it…
+[NPC] Kaiman: Of course if you exclude him buying many many of my wonderful sacks, each and everyone of then exquisitely priced.
+
+[To] Thorian Gronk
+
+[NPC Internal] Rumour has it you are a great potion maker.
+[NPC] Thorian: Oh no no no. I don’t sell potions! Whatever gave you that idea? Go and speak to Liera. Or Levrus. Maybe even that dermorian on the roof upstairs.
+[NPC Internal] Rumour has it you are a great potion maker.
+[NPC] Thorian: Potions? What do you mean potions? Has someone been saying things they shouldn't again? I don't have any of those here! Go and speak to that woman in the arena!
+[NPC Internal] Rumour has it you are a great potion maker.
+[NPC] Thorian: So you heard then.
+[NPC] Thorian: If you know that, it means you know some of my friends.
+[NPC] Thorian: Well try to keep this quiet: the potion I make isn't exactly legal.
+[NPC] Thorian: I make it from forbidden plants found in the Stone Labyrinths.
+[NPC Internal] Can I have one of your potions?
+[NPC] Thorian: So you want one of my special potions huh?
+[NPC] Thorian: Well since you know I'm a potion maker, I guess there is no point in denying it.
+[NPC] Thorian: I like you, so I tell you what: I'll sell you some for only 25 trias.
+[NPC] Thorian: Is it a deal?
+[NPC Internal] Yes, it is a deal.
+[NPC] Thorian: Great.
+[NPC] Thorian: Give me 25 Trias and I will give you the special potion.
+[NPC Internal] Here's your money.
+[NPC] Thorian: Wonderful.
+[NPC] Thorian: Heh heh.
+[NPC Narrate] -Thorian pulls out a simple looking vial held between his stubby thumb and first finger.-
+[NPC] Thorian: Then this is for you.
+[NPC Narrate] -He gently hands it over.-
+
+[To] Jefecra Harcrit
+
+[NPC Internal] Thorian seems to be making and selling illegal potions.
+[NPC] Jefecra: That is interesting news.
+[NPC] Jefecra: How did you come by it?
+[NPC Internal] I got this from Thorian.
+[NPC] Jefecra: Ah, so this is the potion the which Thorian has been selling?
+[NPC] Jefecra: Great to know.
+[NPC] Jefecra: My problem now is that I have no clue if the content of this potion is really illegal like you saw or just a fake that he says is illegal.
+[NPC] Jefecra: Please find someone who is an expert in potions and ask him to examine this potion.
+[NPC] Jefecra: I will anxiously await the results.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] I need your help with this potion.
+[NPC] Levrus: Looks like an interesting potion…
+[NPC] Levrus: What you want me to do with it?
+[NPC Internal] Examine and identify the potion for me please.
+[NPC] Levrus: I can identify it, that is not a problem, but to do so will cost you 100 tria.
+[NPC] Levrus: It's mainly for the ingredients I will use on the process.
+[NPC] Levrus: Also, the potion will be destroyed in the process.
+[NPC] Levrus: Is that acceptable?
+[NPC Internal] It is a lot of tria but acceptable…
+[NPC] Levrus: Ok, I will check that for you.
+[NPC] Levrus: Please give me 100 tria.
+[NPC Internal] Here's your money.
+[NPC] Levrus: Please give me few minutes.
+[NPC Narrate] -Levrus concentrates and casts a spell on the potion. After few moments, Levrus looks very puzzled.-
+[NPC] Levrus: Well, what I found is that the potion is has two effects.
+[NPC] Levrus: The first effect of the potion is a boost to strength, but the most intriguing part is that the second hidden effect is some kind of charm spell, probably used to influence your actions based on the will of the potion maker.
+[NPC] Levrus: Unless I miss my guess, and I rarely do, the charm spell effect is caused by trefoil.
+[NPC] Levrus: Trefoil is an illegal substance because of its properties to induce a suggestible state.
+[NPC] Levrus: Well, not trefoil itself, but rather this particular form of it.
+[NPC] Levrus: I'd inform the authorities about the charm spell at once.
+
+[To] Jefecra Harcrit
+
+[NPC Internal] Thorian's potion contains trefoil used to create a charm effect.
+[NPC] Jefecra: That miscreant is trying to charm people then…but to what end?
+[NPC] Jefecra: We will investigate more to try to understand what his final plans are.
+[NPC] Jefecra: For now though, thanks for your help, Sir.
+[NPC] Jefecra: You have been useful to the Hydlaa guards.
+[NPC] Jefecra: Take this as a reward for your actions.
+[NPC Internal] : You mentioned something about giving advice?
+[NPC] Jefecra: Oh yes, yes…I almost forgot.
+[NPC] Jefecra: Interested in helping out the guards, hmm?
+[NPC] Jefecra: Have you met the guards at north gates yet?
+[NPC Internal] Yes, I've helped them.
+[NPC] Jefecra: Very good.
+[NPC] Jefecra: Let me guess, Remant lost something again, didn't he?
+[NPC Narrate] -Jefecra rolls his eyes.-
+[NPC] Jefecra: Well, nevermind.
+[NPC] Jefecra: We also have guards at the east gates, which leads to the road to Ojaveda.
+[NPC] Jefecra: You can see if Moren needs some help or Taulim at the Court House, across from the Library.
+[NPC] Jefecra: I also mentioned the Octarchy.
+[NPC] Jefecra: While the guards and Octarchy are separate entities, certainly they have a strong relationship.
+[NPC] Jefecra: I'd start with the Octarch's residence which is right here in Hydlaa, across the street from Kada-El's.
+[NPC] Jefecra: Octarch Salikarios may be too busy for you but perhaps his guards are worth a visit.
+
+[Reward] [Money] 2107; [XP] 10800; [Item] 1, Jefecra's note to help the Octarchy; [Faction] 15, Guard
+

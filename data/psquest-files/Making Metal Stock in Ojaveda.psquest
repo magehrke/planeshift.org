@@ -1,0 +1,29 @@
+[Questname] Making Metal Stock in Ojaveda
+[NPC Name] Trasok Starhammer
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] [Money] 100
+
+[To] Trasok Starhammer
+
+[NPC Internal] How do you make stock?
+[NPC] Trasok: If you are interested in learning more about metal working, I can teach you.
+[NPC] Trasok: Are you interested?
+[NPC] Trasok: It will cost you one hundred tria.
+[NPC Internal] Yes I’ll pay you that.
+[NPC] Trasok: Give me one hundred tria and I will teach you a bit more about metal working.
+[NPC Internal] Here is your one hundred tria.
+[NPC] Trasok: Great.
+[NPC] Trasok: An ingot is just a small part of what is needed to make a piece of metal stock.
+[NPC] Trasok: Stock is made of five or ten molten pieces depending on the metal type.
+[NPC] Trasok: Once you've made an ingot, you can turn it back to molten metal just by using the furnace again.
+[NPC] Trasok: Do you want to hear more?
+[NPC Internal] Yes I’m ready for more.
+[NPC] Trasok: Great!
+[NPC] Trasok: To make one piece of metal stock, you have to place five or ten molten pieces of ore into the same stock casting slot.
+[NPC] Trasok: So one molten piece will make an ingot, and five or ten pieces will make a bar of metal stock.
+[NPC] Trasok: Good luck!
+
+[Reward] [XP] 10800; [Faction] 15, Crafting Association
+

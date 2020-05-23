@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author: Huarwar Eruera */
+/* Kingdom of Valour */
+
+/* jobs/lockpicking CSS Script */
+
+.lockpicking_main_table {
+	width: 100%;
+	height: auto;
+	
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+
+	.lockpicking_main_table img {
+		height: 30px;
+	}
