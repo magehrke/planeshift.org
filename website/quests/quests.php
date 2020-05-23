@@ -2,19 +2,19 @@
 <html>
 <head>
 	<title>Quests</title>
-    
+
 	<?php
         $path = $_SERVER['DOCUMENT_ROOT'];
         $path .= "/html_header.php";
         include($path);
     ?>
-    
+
     <!-- import the css for quests -->
     <link href="/styles/quests.css" type="text/css" rel="stylesheet" />
-    
+
     <!-- script for sorting tables -->
     <script src="/js/sorttable.js"></script>
-    
+
 </head>
 
 <!-- BODY -->
@@ -34,33 +34,35 @@
 
 <!-- Content section -->
 <div id="content_main_container">
-	
+
     <table class="quests_main_table sortable hovableTable">
-    
+
         <tr id="quests_main_table_header">
             <th class="quests_questnameColumn">Questname</th>
             <th class="quests_npcColumn">NPC</th>
             <th class="quests_areaColumn">Area</th>
             <th>Reward</th>
         </tr>
-    
+
+
+
         <!-- Quests Tabelle füllen -->
         <?php
-                    
+
             $getQuests = "SELECT q.name, q.npc, q.checkup, n.area, n.mainPos
 							FROM quests q, npcs n
 							WHERE q.npc = n.name
-                            AND n.mainPos = 1
-                            ORDER BY q.name;";
-            $quests = $mysqli->query($getQuests) or die($mysqli->error);			
-            
+              AND n.mainPos = 1
+              ORDER BY q.name;";
+            $quests = $mysqli->query($getQuests) or die($mysqli->error);
+
             while($quest = $quests->fetch_array()) {
 
                 echo "<tr>";
 
                     // ### QUEST ###
                     echo "<td><a href=\"details/";
-                    
+
                     /* Replace the spaces in the URL with dots. */
                     $questname = $quest["name"];
                     while(strpos($questname, " ")) {
@@ -69,16 +71,16 @@
                         $questname = substr($questname, $posOfSpace + 1);
                     }
                     echo $questname;
-                    
+
                     echo ".php\">" . $quest["name"] . "</a></td>";
 
-                    // ### NPC ### // 
+                    // ### NPC ### //
                     echo "<td class=\"quests_npcname_cell\">";
 
                     echo "<a href='";
-                    
+
                     /* Printing the NPC with a link to the Map */
-                    /* The Variable $npcName has to be set !!! */   
+                    /* The Variable $npcName has to be set !!! */
                     $npcName = $quest["npc"];
                     $path = $_SERVER['DOCUMENT_ROOT'];
                     $path .= "/includes/npc_link_to_map.inc.php";
@@ -91,8 +93,8 @@
 
 
                     echo "<td>" . $quest["area"] . "</td>";
-					
-                    
+
+
                     /* Insert Rewards */
 
                     echo "<td>";
@@ -108,7 +110,7 @@
                                         ORDER BY way, variant;";
                     $mainRewards = $mysqli->query($getMainRewards) or die($mysqli->error);
 
-                    $insedOrStatement = False; 
+                    $insedOrStatement = False;
                     $latestWay = 0;
                     $latestVariant = 0;
 
@@ -118,7 +120,7 @@
                             if($latestWay == 0 AND $latestVariant == 0) {
                                 echo ", ";
                             }
-                            elseif($mainReward['way'] != $latestWay 
+                            elseif($mainReward['way'] != $latestWay
                                 OR $mainReward['variant'] != $latestVariant) {
                                 echo " -or- ";
                             } else {
@@ -131,10 +133,10 @@
                         $latestWay = $mainReward['way'];
                         $latestVariant = $mainReward['variant'];
 
-                        // ITEM 
+                        // ITEM
                         if($mainReward['type'] == 'Item') {
-                            echo "<img src='/images/icons/" 
-                                . str_replace(' ', '_', strtolower($mainReward['reward'])) 
+                            echo "<img src='/images/icons/"
+                                . str_replace(' ', '_', strtolower($mainReward['reward']))
                                 . "_icon.png' /> ";
                             if ($mainReward['amount'] != 1) {
                                 echo $mainReward['amount'] . " ";
@@ -143,10 +145,10 @@
                         }
                         // SKILL
                         elseif ($mainReward["type"] == "Skill") {
-                            echo $mainReward["amount"] 
+                            echo $mainReward["amount"]
                                 . " level in "
                                 . $mainReward["reward"];
-                        } 
+                        }
 
                         // COMBAT MOVE
                         elseif ($mainReward["type"] == "Combat Move") {
@@ -182,7 +184,7 @@
                             // it is 1, if we know that it is positive, but not the amount
                             if($rewardAssoc['minAmount'] == 1) {
                                 echo "+";
-                            } 
+                            }
                             // it is -1, if we know that it is negative, but not the amount
                             elseif($rewardAssoc['minAmount'] == -1) {
                                 echo "-";
@@ -191,7 +193,7 @@
                             }
                             echo " Faction with " . $rewardAssoc['reward'];
                         } else {
-                            echo $rewardAssoc['minAmount'] 
+                            echo $rewardAssoc['minAmount']
                                 . "-" . $rewardAssoc['maxAmount']
                                 . " Faction with " . $rewardAssoc['reward'];
                         }
@@ -268,11 +270,11 @@
                 echo "</tr>";
 
             }
-        
+
         ?>
-    
+
     </table>
-    
+
 </div>
 
 <!-- include Footer -->
@@ -289,5 +291,3 @@
 
 </body>
 </html>
-
-

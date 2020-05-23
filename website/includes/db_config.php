@@ -26,7 +26,9 @@
  */
 
 /* Read credentials from file outside of root */
-$ini = parse_ini_file('../config_planeshift.ini');
+$conf_path = $_SERVER['DOCUMENT_ROOT'];
+$conf_path .= '../config_planeshift.ini';
+$ini = parse_ini_file($conf_path);
 
 /**
  * These are the database login details
@@ -34,7 +36,7 @@ $ini = parse_ini_file('../config_planeshift.ini');
 define("HOST", $ini['db_url']); 			// The host you want to connect to.
 define("USER", $ini['db_user']); 			// The database username.
 define("PASSWORD", $ini['db_pass']); 	// The database password.
-define("DATABASE", $ini['db_name']);             // The database name.
+define("DATABASE", $ini['db_name']);  // The database name.
 
 /**
  * Who can register and what the default role will be

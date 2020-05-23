@@ -4,7 +4,7 @@
 [Authors] Haviland Tenouri
 [Repeatable] No
 
-[Need] [Quest] Advanced Bow Making; [Skill] ?, Bow Making;
+[Need] [Quest] Advanced Bow Making; [Skill] 0, Bow Making;
 
 [To] Uri Djho-Maat
 
@@ -328,4 +328,4 @@
 [NPC] Uri Djho-Maat: Please accept this.
 [NPC Narrate]Uri Djho-Maat hands you a large pouch of tria.
 
-[Reward] [XP] ?; [Money] ?;
+[Reward] [XP] 0; [Money] 0;

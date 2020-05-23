@@ -179,7 +179,7 @@ public class PsqToObj {
 				} else if(currLine.startsWith("[NPC Internal]")) {	
 					questDetails.add(new QuesttextNpcInternal(currLine.substring(14).trim()));
 				} else if(currLine.startsWith("[NPC Narrate]")) {
-					questDetails.add(new QuesttextNpcNarrate(currLine.substring(13).trim()));
+					questDetails.add(new QuesttextNpcNarrate(currLine.substring(14)));
 				} else if(currLine.startsWith("[Possible Ways]")) {
 					questDetails.add(new QuesttextWaysHeadline(currLine.substring(15).trim()));
 				} else if(currLine.startsWith("[Way]")) {
