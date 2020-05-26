@@ -2,8 +2,12 @@
 
 This repository contains a `database` containing informations about the game _PlaneShift_. It also contains the `source code` needed to properly display the database. The running website with all it’s information can be found at [planeshift.org](www.planeshift.org).
 
-I put the data and code in this repository so collaboration becomes easier and a more cohesive and data-rich 
+I put the data and code in this repository so collaboration becomes easier and a more cohesive and data-rich
 website can be created. Everyone who is interested can become a collaborater or create pull requests.
+
+## Tasks
+
+We use Trello as organizing tool. The project can be found [here](https://trello.com/b/vvooryWE/planeshift) (access only for collaborators).
 
 ## Code
 
@@ -16,4 +20,3 @@ PlaneShift is a Role Playing Game immersed into a 3D virtual fantasy world, comp
 ## Preview
 
 ![planeshift.org Website](website/images/show-website.png)
-
