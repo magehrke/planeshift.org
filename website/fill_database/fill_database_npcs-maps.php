@@ -82,6 +82,7 @@
 		'Charisa Malod', 'Hydlaa', 1, 'none', '-54.61 9.34 -50.98', '', 1,
 		'Chilye Esimar', 'Ojaveda', 1, 'none', '-101.52 -0.15 5.39', '', 1,
 		'Chired Idelall', 'Ojaveda', 1, 'none', '-149.43 5.03 111.04', '', 1,
+		'Chirkal Masoqi', 'Amdeneir', 1, '2018-03-27', '2.46 33.58 -146.35', '', 1,
 		'Chrosor Soran', 'Bronze Doors Fortress', 1, 'none', '-1.04 94.77 -617.30', '', 1,
 		'Clacker', 'Arena', 5, '2018-02-03', '34 0 -22, 39 0 -23, 22 0 -38, 45 0 -50, 47 0 -49', '', 1,
 		'Clacker', 'Bronze Door Road 1', 1, 'none', '-446.62 33.65 -145.89', '', 1,

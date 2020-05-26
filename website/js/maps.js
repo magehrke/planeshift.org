@@ -1,4 +1,4 @@
-/* 
+/*
  * This file shows the canvas (maps) for the maps
  * of Yliakum from the Game Planeshift.
  */
@@ -196,8 +196,17 @@ function autoSelect () {
 
         // The details for the npc (picture, quests, etc.)
         addDetails(hash);
+
+    // This will be executed if we use the "plot a point" entry
     } else if (hash != "plain") {
+        // replace the %20 with spaces
+        // some browser replace space with %20 so we change it back
+        hash = hash.replace(/%20/g, " ")
+
+        // Delete everything, except numbers space point comma and dash
+        // Additionally split at comma
         where = hash.replace(/[^0-9\ \.,-]/g, "").split(", ");
+
         $("#toplot").attr("value", where);
         for (i in where) {
             addPin(where[i]);
