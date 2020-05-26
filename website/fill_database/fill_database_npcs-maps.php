@@ -1,7 +1,5 @@
 <?php
 
-	/* test */
-
 	/* Read credentials from file outside of root */
 	$ini = parse_ini_file('../config_planeshift.ini');
 	/* Connect: Servername, Username, Password, Database */
