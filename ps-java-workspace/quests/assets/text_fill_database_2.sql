@@ -1,9 +1,9 @@
-				
 
-	for($i = 0; $i < count($quests_to_insert); $i += 3) {
-		$quest_query = "INSERT INTO quests (name, npc, checkup)
+
+	for($i = 0; $i < count($quests_to_insert); $i += 4) {
+		$quest_query = "INSERT INTO quests (name, npc, repeatable, checkup)
 						VALUES ('" . $quests_to_insert[$i] . "', '" . $quests_to_insert[$i+1]
-						. "', '" . $quests_to_insert[$i+2] . "')";
+						. "', " . $quests_to_insert[$i+2] . ", '" . $quests_to_insert[$i+3] . "')";
 		$mysqli->query($quest_query) or die($mysqli->error);
 	}
 

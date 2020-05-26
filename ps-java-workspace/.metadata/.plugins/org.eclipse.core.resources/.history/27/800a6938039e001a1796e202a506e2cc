@@ -31,15 +31,15 @@ public class ObjToSql {
 				sb.append(utilities.Helpfunctions.checkString(currQuest.getQuestname()));
 				sb.append("', '");
 				sb.append(utilities.Helpfunctions.checkString(currQuest.getNpc()));
-				sb.append("', ");	
+				sb.append("', '");	
 				
 				if(currQuest.isRepeatable()) {
-					sb.append(1);
+					sb.append("1");
 				} else {
-					sb.append(0);
+					sb.append("0")
 				}
 					
-				sb.append(", '");	
+				sb.append("', '");	
 				if(! currQuest.getCheckup().equals("")) {
 					sb.append(utilities.Helpfunctions.checkString(currQuest.getCheckup()));
 				} else {

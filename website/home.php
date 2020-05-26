@@ -67,6 +67,21 @@
                                     <table class="news_box">
                                         <tr>
                                             <td class="content_table_headline">
+                                                <p>Quests (26.05.2020)</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>Hello everyone. In the last days I have put a lot of information on the website that was flying around.
+                                                  Especially the quests are in a better shape now, especially the <a href="/quests/repeatable-quests.php">
+                                                  repeatable quests</a> section has quite improved. All of this
+                                                  would not have been possible with the help of Haviland, thank you for all your work and support!
+                                                  I hope all of you are well in this dificult time, best of luck, Huarwar.
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="content_table_headline">
                                                 <p>We have moved! (23.02.2020)</p>
                                             </td>
                                         </tr>

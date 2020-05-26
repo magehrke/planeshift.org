@@ -8,12 +8,25 @@
 .repeatable_quests_main_table {
 	width: 100%;
 	height: auto;
-	
+
 	padding-top: 10px;
 	padding-right: 30px;
 	padding-bottom: 10px;
 	padding-left: 15px;
+
+	border-spacing: 0px;
 }
+
+	.repeatable_quests_main_table img {
+		height: 30px;
+	}
+	.repeatable_quests_main_table tr {
+		height: 35px;
+	}
+
+	.repeatable_quests_main_table td {
+		vertical-align: bottom;
+	}
 
 .repeatable_quest_table_description {
 	width: 100%;

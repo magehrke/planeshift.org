@@ -44,7 +44,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_action">
-						<td>→ Go to 
+						<td>→ Go to
 						<?php
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
@@ -130,7 +130,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 7310 Tria, 15000 XP.</td>
+						<td>Rewards: 1 Level in Alchemy, 7310 Tria, 15000 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

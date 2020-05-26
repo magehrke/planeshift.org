@@ -168,6 +168,7 @@
                     <li><a href="/magic/spellbook.php">Spellbook</a></li>
                     <li><a href='/magic/magic-quests.php'>Quests</a></li>
                     <li><a href='/magic/gem-enchanting.php'>Gem Enchanting</a></li>
+										<li><a href='/magic/enchanting-items.php'>Enchanting Items</a></li>
                 </ul>
             </li>
 

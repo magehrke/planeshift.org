@@ -2,9 +2,9 @@
 [NPC Name] Archilaya Gurpleferd
 [Checkup] 2020-01-01
 [Authors] Haviland Tenouri
-[Repeatable] No Yes
+[Repeatable] No
 
-[Needed] [Quest] A Brand New Knife for Burdess;
+[Need] [Quest] A Brand New Knife for Burdess;
 
 [To] Archilaya Gurpleferd
 
@@ -93,7 +93,7 @@
 [NPC] Orchibaly: If I may ask, Sir, who baked this lovely bread?
 
 
-[Possible Ways] 2<
+[Possible Ways] 2
 [Way] 1
 
 [NPC Internal] I baked it.
@@ -126,4 +126,3 @@
 
 [Reward] [Way 1] [Faction] 35, with Food Association; [Money] 5130; [XP] 13600;
 [Reward] [Way 2] [Item] 1, The Pastry Chef Book; [Faction] 35, with Food Association; [Money] 7310; [XP] 15000;
-

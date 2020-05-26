@@ -6,12 +6,14 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=".psq"/>
+		<item key="selection" value="Repeat"/>
 		<item key="casesensitive" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="wrap" value="true"/>
 		<item key="wholeword" value="false"/>
 		<list key="findhistory">
+			<item value="Repeat"/>
+			<item value="Narrate"/>
 			<item value=".psq"/>
 			<item value="psq "/>
 			<item value="psq"/>
@@ -25,8 +27,6 @@
 			<item value="System"/>
 			<item value="class"/>
 			<item value="Money"/>
-			<item value="Winch"/>
-			<item value="\n"/>
 		</list>
 		<list key="replacehistory">
 			<item value=".psquest"/>
@@ -45,7 +45,7 @@
 		<item key="DIALOG_WIDTH" value="290"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
 		<item key="DIALOG_HEIGHT" value="409"/>
-		<item key="DIALOG_X_ORIGIN" value="888"/>
-		<item key="DIALOG_Y_ORIGIN" value="306"/>
+		<item key="DIALOG_X_ORIGIN" value="1185"/>
+		<item key="DIALOG_Y_ORIGIN" value="269"/>
 	</section>
 </section>

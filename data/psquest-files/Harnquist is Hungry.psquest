@@ -27,5 +27,4 @@
 [NPC Narrate] -Eating one he smiles with the sweetness.-
 [NPC] Harnquist: Wonderful Take this in return for your efforts.
 
-[Reward] [Money] 1000; [XP] 8000; 
-
+[Reward] [Money] 1000; [XP] 8000; [Skill] 1, Cooking

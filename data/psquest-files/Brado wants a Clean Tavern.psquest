@@ -1,7 +1,7 @@
 [Questname] Brado wants a Clean Tavern
 [NPC Name] Brado
-[Checkup] 2014-01-01
-[Authors] Dudu and Lele
+[Checkup] 2020-05-25
+[Authors] Dudu and Lele, Huarwar
 [Repeatable] Yes
 
 [Need] [Quest] Vresa's New Sword; [Item] 2, Rat Eyes
@@ -22,5 +22,4 @@
 [NPC] Brado: I hope they will not return too fast.
 [NPC] Brado: Here is your reward.
 
-[Reward] [Money] 1000; [XP] 8000; 
-
+[Reward] [Money] 1000; [XP] 8000; [Skill] 1, Empathy;

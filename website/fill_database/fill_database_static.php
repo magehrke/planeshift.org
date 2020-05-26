@@ -616,59 +616,6 @@
 		$mysqli->query($etallurgyResources_query) or die($mysqli->error);
 	}
 
-
-	/* ########################################################################################## */
-
-
-	/* QuestsRepeatableLevelup Data */
-
-	$questsRepeatableLevelup_to_insert = array(
-		'Alchemy', 'Malco Mokkar', 'Jobs', 'Malco&apos;s Munchies', 'none',
-		'Armor Making', 'Kethzun Guthazik', 'Jobs', 'A Measure of Protection', '2019-01-01',
-		'Baking', 'Kireya Ahinit', 'Jobs', 'Kireya needs help filling orders', 'none',
-		'Cooking', 'Harnquist', 'Jobs', 'Harnquist is Hungry', 'none',
-		'Cooking', 'Seduna Secut', 'Jobs', 'Deliveries for Seduna', 'none',
-		'Combat (any skill)', 'Bjorid Haakthir', 'Combat', 'Hide Hunt', '2018-01-24',
-		'Empathy', 'Brado', 'Various', 'Brado wants a clean tavern', 'none',
-		'Empathy', 'Remant Tovere', 'Various', 'Remants Gauntlets', 'none',
-		'Fishing', 'Kzavu Gilnet', 'Jobs', 'Fishing lessons for fish', '2019-01-01',
-		'Harvesting', 'Kaiman Jilatt', 'Jobs', 'Kaiman Jilatt needs plant supplies', 'none',
-		'Herbal', 'Keiana', 'Jobs', 'Keiana&apos;s Supplies', 'none',
-		'Mace Making', 'Gardr Keck', 'Jobs', 'Assisting Gardr', '2019-01-01',
-		'Metallurgy', 'Selisar Zeinifa', 'Jobs', 'From the Flames of the Furnace', '2019-01-01',
-		'Mining', 'Fholen Medraa', 'Jobs', 'Ore and ore and ore', '2017-04-01',
-		'Sword', 'Gregori Stevald', 'Combat', 'The order of the keen edge', 'none'
-		);
-
-
-	/* Create QuestsRepeatableLevelup Table */
-
-	$mysqli->query("DROP TABLE IF EXISTS `questsRepeatableLevelup`") or die(mysql_error());
-
-	$createQuestsRepeatableLevelup = "CREATE TABLE IF NOT EXISTS `questsRepeatableLevelup` (
-		skill varchar(40) NOT NULL,
-		npc varchar(40) NOT NULL,
-		category varchar(40) NOT NULL,
-		quest varchar(40) NOT NULL,
-		checkup DATE NOT NULL,
-		PRIMARY KEY (skill, npc)
-		)";
-
-	$mysqli->query($createQuestsRepeatableLevelup) or die ($mysqli->error);
-
-
-	/* Insert QuestsRepeatableLevelup data */
-	for($i = 0; $i < count($questsRepeatableLevelup_to_insert); $i += 5) {
-		$questsRepeatableLevelup_query = "INSERT INTO questsRepeatableLevelup (skill, npc, category, quest, checkup)
-						VALUES ('" . $questsRepeatableLevelup_to_insert[$i]
-						. "', '" . $questsRepeatableLevelup_to_insert[$i+1]
-						. "', '" . $questsRepeatableLevelup_to_insert[$i+2]
-						. "', '" . $questsRepeatableLevelup_to_insert[$i+3]
-						. "', '" . $questsRepeatableLevelup_to_insert[$i+4] . "')";
-		$mysqli->query($questsRepeatableLevelup_query) or die($mysqli->error);
-	}
-
-
 	/* ########################################################################################## */
 
 

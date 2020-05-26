@@ -23,6 +23,7 @@
 	$newTable = "CREATE TABLE IF NOT EXISTS quests (
 						name VARCHAR(50) NOT NULL,
 						npc VARCHAR(50) NOT NULL,
+						repeatable BIT NOT NULL,
 						checkup DATE NOT NULL,
 						PRIMARY KEY (name),
 						FOREIGN KEY (npc) REFERENCES npcs(name) ON UPDATE CASCADE ON DELETE CASCADE

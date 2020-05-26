@@ -1,0 +1,36 @@
+(23:42:22) [NPC Internal] Huarwar says: Hello Warinn. As an engineer do you think you could help teach me to draw?
+(23:42:22) [NPC ME] Warinn Klumdt looks over to you and smiles.
+(23:42:22) [NPC] Warinn Klumdt says: Of course, but my time isn't free.
+(23:42:22) [NPC] Warinn Klumdt says: I normally charge one thousand tria a lesson.
+(23:42:23) [NPC Internal] Huarwar says: Here you are, Warinn.
+(23:42:23) [NPC ME] Warinn Klumdt pockets the coins.
+(23:42:23) [NPC] Warinn Klumdt says: Thank you.
+(23:42:23) [NPC Narrate] -He takes out a few scraps of paper.-
+(23:42:23) [NPC] Warinn Klumdt says: Here let me show you something about how to draw a building.
+
+(23:42:22) [System] >Trade complete
+(23:42:23) [System] >Your Drawing skill has increased by 1 point!
+
+Quest Name? Drawing lessons idk - Maybe ask someone to look
+Can I come back later here?
+
+Could train from 0 to lvl 31
+
+
+
+Drawing is the only skill you can buy. No quest, no progession points or anything else is needed. Just tria (1000 tria per skill level). The trainers are:
+
+Level	Trainer
+1-31	Warinn Klumdt / Telziana
+32-41	Levrus
+31-61	Dhalia Colat
+62-91	Roya Vuntarr
+92-101	Levrus
+102-126	Muuro Zarel
+127-161	Yonda Axebow
+162-200	Celila Yaso
+Alternatively you can train some level in drawing with
+
+62-71	Levrus
+72-76	Sharven Xanth-Areth
+77-91	Roya Vuntarr

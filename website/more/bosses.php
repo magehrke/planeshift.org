@@ -2,15 +2,15 @@
 <html>
 <head>
     <title>Bosses</title>
-    
+
     <?php
         $path = $_SERVER['DOCUMENT_ROOT'];
         $path .= "/html_header.php";
         include($path);
     ?>
-    
+
     <link href="/styles/commands.css" type="text/css" rel="stylesheet" />
-    
+
 </head>
 
 <!-- BODY -->
@@ -20,7 +20,7 @@
     <tr>
         <td>
             <div id="root_site_container">
-            
+
                 <!-- include Header and Navigation -->
                 <?php
                     $path = $_SERVER['DOCUMENT_ROOT'];
@@ -37,11 +37,13 @@
                         Marangma: "A Creepy Sight" quest
                         One-Claw: Last One Standing
 
+                         Zlatac, Xalpalock, One-Claw, Nefus Dur, Stalg, Toxic Clacker and BlackRoot
+
 
 
                     </div>
                 </div>
-                
+
                 <!-- include Footer -->
                 <?php
                     $path = $_SERVER['DOCUMENT_ROOT'];

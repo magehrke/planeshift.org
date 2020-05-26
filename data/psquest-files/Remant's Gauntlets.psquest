@@ -66,5 +66,4 @@
 [NPC] Remant: Well done, and thank you!
 [NPC] Remant: Take this as a small reward.
 
-[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Guard; 
-
+[Reward] [Money] 1297; [XP] 9400; [Faction] 10, Guard; [Skill] 1, Empathy;

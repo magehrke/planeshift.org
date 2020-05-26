@@ -44,7 +44,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_action">
-						<td>→ Go to 
+						<td>→ Go to
 						<?php
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
@@ -130,7 +130,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_action">
-						<td>→ Go to 
+						<td>→ Go to
 						<?php
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
@@ -183,7 +183,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_action">
-						<td>→ Go to 
+						<td>→ Go to
 						<?php
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
@@ -236,7 +236,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_action">
-						<td>→ Go to 
+						<td>→ Go to
 						<?php
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
@@ -271,7 +271,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_action">
-						<td>→ Go to 
+						<td>→ Go to
 						<?php
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
@@ -294,7 +294,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_action">
-						<td>→ Go to 
+						<td>→ Go to
 						<?php
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
@@ -338,7 +338,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 10 Faction with Guard, 1297 Tria, 9400 XP.</td>
+						<td>Rewards: 1 Level in Empathy, 10 Faction with Guard, 1297 Tria, 9400 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>
