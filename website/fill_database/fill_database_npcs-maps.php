@@ -207,7 +207,7 @@
 		'Jolter Hosull', 'Amdeneir', 1, 'none', '-26.11 23.84 -9.73', '', 1,
 		'Jomed Parcen', 'Hydlaa', 1, 'none', '-146.79 26.08 -75.88', '', 1,
 		'Kaiman Jilatt', 'Hydlaa', 1, 'none', '41.99 0.40 -152.34', '', 1,
-		'Kekayer Fayn', 'Ojaveda', 1, 'none', '-108.52 4.35 84.24', '', 1,
+		'Kekayer Fayn', 'Ojaveda', 1, 'none', '-145 0 80', '', 1,
 		'Keianna Xoreloran','Amdeneir', 1,'2018-03-02', '-35.04 24.05 -104.88', '', 1,
 		'Kelicha Anijiel', 'Winch', 1, 'none', '59.13 -16.27 -443.45', '', 1,
 		'Kerryk Cor', 'Gugrontid City', 1, 'none', '-5.08 105.62 18.82', '', 1,
