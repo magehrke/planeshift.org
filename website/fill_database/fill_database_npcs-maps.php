@@ -222,6 +222,7 @@
 		'Kretch Lahaine', 'Arena', 1, '2018-02-06', '1.33 3.90 -6.88', '', 1,
 		'Krri Koreni', 'Arena', 1, '2018-02-06', '9.61 11.69 1.61', '', 1,
 		'Kzavu Gilnet', 'Amdeneir', 1, '2018-02-03', '18.75 21.51 79.70', '', 1,
+		'Lava Cave'    , 'Bronze Doors Fortress', '70 0 -1200', '2020-05-30',
 		'Lady Peckerly', 'Gugrontid City', 1, 'none', '3.45 94.90 -13.24', '', 1,
 		'Laranier Vieduran', 'Arena', 1, '2018-02-06', '-1.77 -9.96 -40.02', '', 1,
 		'Laure Eves', 'Bronze Door Road 1', 1, 'none', '-162.48 70.44 -361.56', '', 1,
