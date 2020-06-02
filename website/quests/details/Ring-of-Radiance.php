@@ -49,11 +49,11 @@
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
 							/* The Variable $npcName has to be set !!! */
-							$npcName = 'Ferryd Shillor';
+							$npcName = 'Lyrus Lospur';
 							$path = $_SERVER['DOCUMENT_ROOT'];
 							$path .= "/includes/npc_link_to_map.inc.php";
 							include($path);
-							echo "' target='_blank'>Ferryd Shillor</a>";
+							echo "' target='_blank'>Lyrus Lospur</a>";
 						?>
 						</td>
 					</tr>
@@ -67,22 +67,22 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Oh, you're back again, my helpful Kran?</td>
+						<td>Lyrus: Oh, you're back again, my helpful Kran?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: It seems you are just in time, as I need an errand run for me.</td>
+						<td>Lyrus: It seems you are just in time, as I need an errand run for me.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Levrus - you know of Levrus Dahrenn don't you?</td>
+						<td>Lyrus: Levrus - you know of Levrus Dahrenn don't you?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Well if you don't, Levrus is a mage of some skill over near Hydlaa.</td>
+						<td>Lyrus: Well if you don't, Levrus is a mage of some skill over near Hydlaa.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Anyway, he asked me for something and I have it for him.</td>
+						<td>Lyrus: Anyway, he asked me for something and I have it for him.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Will you deliver it for me?</td>
+						<td>Lyrus: Will you deliver it for me?</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -94,25 +94,25 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Good, I knew I could count on you.</td>
+						<td>Lyrus: Good, I knew I could count on you.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Here is what I need.</td>
+						<td>Lyrus: Here is what I need.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Levrus has heard about my new ring making method and thinks he can make a new and improved magic ring for something or other.</td>
+						<td>Lyrus: Levrus has heard about my new ring making method and thinks he can make a new and improved magic ring for something or other.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: I don't really know.</td>
+						<td>Lyrus: I don't really know.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Humans have strange ideas about magic, don't you think?</td>
+						<td>Lyrus: Humans have strange ideas about magic, don't you think?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Anyway, he asked me if I had another of these rings for him to play with.</td>
+						<td>Lyrus: Anyway, he asked me if I had another of these rings for him to play with.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: It so happens that I do.</td>
+						<td>Lyrus: It so happens that I do.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -124,7 +124,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ferryd: Take this to him, and I will give you some coin on your return.</td>
+						<td>Lyrus: Take this to him, and I will give you some coin on your return.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>

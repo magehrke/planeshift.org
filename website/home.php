@@ -131,7 +131,7 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                <p> We finally uploaded the current ways (dishonest/honest) to get <a href="/quests/winch-access.php" target="_blank">winch access</a>. Big thanks to Kohinor and Zif, who gathered and supplied the information. Do you think, you know a faster way of gaining access? Let us know!
+                                                <p> We finally uploaded the current ways (dishonest/honest) to get <a href="/quests/winch-access.php">winch access</a>. Big thanks to Kohinor and Zif, who gathered and supplied the information. Do you think, you know a faster way of gaining access? Let us know!
                                                 </p>
                                             </td>
                                         </tr>
@@ -189,7 +189,7 @@
                                                     include($path);
                                                     echo "' target='_blank'>Kaiman Jilatt</a>";
                                                 ?>
-                                                have been added to the <a href="/items.php" target="_blank">items section</a>.
+                                                have been added to the <a href="/items.php">items section</a>.
                                                 </p>
                                             </td>
                                         </tr>
@@ -201,7 +201,7 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                <p>Finally I added the new 9 NPCs in the Arena to the <a href="/npcs.php" target="_blank">NPCs</a> tab. Sadly I cannot make a reference to <a href="www.planeshift.net/npc" target="_blank">planeshift.net</a>, because the NPC are not added there. If anyone knows how I can contact the planeshift.net owners, please write me an email. Take care, Huarwar.
+                                                <p>Finally I added the new 9 NPCs in the Arena to the <a href="/npcs.php">NPCs</a> tab. Sadly I cannot make a reference to <a href="www.planeshift.net/npc">planeshift.net</a>, because the NPC are not added there. If anyone knows how I can contact the planeshift.net owners, please write me an email. Take care, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -212,7 +212,7 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                <p>I have done a lot in the past 2 weeks. I started to add all the quests again to the page. These quests are done by me and a program I wrote translates them so a browser can display it correctly. The program is still growing, but I started to add the first 8 Quests. I have to actually do them In Game to be able to add them, so please be patient. Because of this, we now have 2 Quest sections. One <a href="/quests/quests-new.php" target="_blank">Quests (New)</a> section, where you can find the new quests and one <a href="/quests/quests.php" target="_blank">Quests</a> section, where you can find the old 385 quest logs. I would suggest looking for the information you need under the new <a href="/quests/quests-new.php" target="_blank">Quests (New)</a> tab and if you don't find the quest, consulting the <a href="/quests/quests.php" target="_blank">Quests</a> tab.
+                                                <p>I have done a lot in the past 2 weeks. I started to add all the quests again to the page. These quests are done by me and a program I wrote translates them so a browser can display it correctly. The program is still growing, but I started to add the first 8 Quests. I have to actually do them In Game to be able to add them, so please be patient. Because of this, we now have 2 Quest sections. One <a href="/quests/quests-new.php">Quests (New)</a> section, where you can find the new quests and one <a href="/quests/quests.php">Quests</a> section, where you can find the old 385 quest logs. I would suggest looking for the information you need under the new <a href="/quests/quests-new.php">Quests (New)</a> tab and if you don't find the quest, consulting the <a href="/quests/quests.php">Quests</a> tab.
                                                 <br>
                                                 <br>
                                                 If someone wants to contribute and also send me his questlog, after doing a quest, please write me an E-Mail or tell me in Game. Would be a great help for me. Take care, Huarwar.
@@ -227,7 +227,7 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                <p>I just renewed the <a href="/jobs/metallurgy.php" target="_blank">Metallurgy Page</a>. I added tiny little pictures. Sadly I do not have all the ores or am not able to craft all the stuff, because my level is to low. If someone can help me, figuring out which pictures fits to the ores, ingots or stocks, please write me. I have extracted all the pictures from the game, which have anything to do with metallurgy, and I can tell you, there will be at some point many more ores in the game. Take care and see you in game, Huarwar.
+                                                <p>I just renewed the <a href="/jobs/metallurgy.php">Metallurgy Page</a>. I added tiny little pictures. Sadly I do not have all the ores or am not able to craft all the stuff, because my level is to low. If someone can help me, figuring out which pictures fits to the ores, ingots or stocks, please write me. I have extracted all the pictures from the game, which have anything to do with metallurgy, and I can tell you, there will be at some point many more ores in the game. Take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -239,7 +239,7 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                <p>Hello again. We have a new section: <a href="/jobs/shieldcrafting.php" target="_blank">Shield Crafting</a>. Yoken (I guess some of you know him) contributed the information. Thanks to him! Take care and see you in game, Huarwar.
+                                                <p>Hello again. We have a new section: <a href="/jobs/shieldcrafting.php">Shield Crafting</a>. Yoken (I guess some of you know him) contributed the information. Thanks to him! Take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -264,7 +264,7 @@
                                         <tr>
                                             <td>
                                                 <p>
-                                                    Hello everyone. I did some changes to the <a href="/index.php" target="_blank">landing page</a>. The picture you see can be our new guild logo. Please tell me in game or via e-mail what you think about it. As always, if you know suggestions how to improve the landing page, please reach out to me. Take care and see you in game, Huarwar.
+                                                    Hello everyone. I did some changes to the <a href="/index.php">landing page</a>. The picture you see can be our new guild logo. Please tell me in game or via e-mail what you think about it. As always, if you know suggestions how to improve the landing page, please reach out to me. Take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -277,7 +277,7 @@
                                         <tr>
                                             <td>
                                                 <p>
-                                                    Hello everyone. I finished the metallurgy page. Check it out under <a href="/jobs/metallurgy.php" target="_blank">Jobs -> Metallurgy</a>. Take care and see you in game, Huarwar.
+                                                    Hello everyone. I finished the metallurgy page. Check it out under <a href="/jobs/metallurgy.php">Jobs -> Metallurgy</a>. Take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -289,7 +289,7 @@
                                         <tr>
                                             <td>
                                                 <p>
-                                                    Hello everyone. Eatuck took the time and collected all the data about lockpicking. Thanks to him I was able to update the page (<a href="/jobs/lockpicking.php" target="_blank">link</a>). Give him a hug if you see him, take care and see you in game, Huarwar.
+                                                    Hello everyone. Eatuck took the time and collected all the data about lockpicking. Thanks to him I was able to update the page (<a href="/jobs/lockpicking.php">link</a>). Give him a hug if you see him, take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -301,7 +301,7 @@
                                         <tr>
                                             <td>
                                                 <p>
-                                                    Hello everyone. It's me again, Huarwar. Today I found a little logical error in my program which aggregates all the quests and creates all the databases with rewards etc. Therefore is the <a href="/magic/way-training.php" target="_blank">Way Training</a> Section under the Magic tab now complete. Except human errors of course. Still, if anyone of you notices that there are wrong levels dedicated to the quests, please give me a tell. Take care and see you in game, Huarwar.
+                                                    Hello everyone. It's me again, Huarwar. Today I found a little logical error in my program which aggregates all the quests and creates all the databases with rewards etc. Therefore is the <a href="/magic/way-training.php">Way Training</a> Section under the Magic tab now complete. Except human errors of course. Still, if anyone of you notices that there are wrong levels dedicated to the quests, please give me a tell. Take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -313,7 +313,7 @@
                                         <tr>
                                             <td>
                                                 <p>
-                                                    Hello everyone. You may have already seen the <a href="/magic/way-training.php" target="_blank">Way Training</a> Section under the Magic tab. It looked horrible the last month, so I made a few changes. Hopefully you enjoy! Moreover I noticed that it isn't complete. If you have knowledge about this section and can give me (some of) the missing information, please let me know. Take care and see you in game, Huarwar.
+                                                    Hello everyone. You may have already seen the <a href="/magic/way-training.php">Way Training</a> Section under the Magic tab. It looked horrible the last month, so I made a few changes. Hopefully you enjoy! Moreover I noticed that it isn't complete. If you have knowledge about this section and can give me (some of) the missing information, please let me know. Take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -325,7 +325,7 @@
                                         <tr>
                                             <td>
                                                 <p>
-                                                    Hello everyone. Just now I finished the new guildranks table. I am still not fully satisfied with the formatting, but I think it looks ok now and you can extract the information. You can find the site under the guild tab, <a href="/guild/guildranks.php" target="_blank">here</a>. Lots of thanks also to Eatuck who send me the information including the layout! Take care and see you in game, Huarwar.
+                                                    Hello everyone. Just now I finished the new guildranks table. I am still not fully satisfied with the formatting, but I think it looks ok now and you can extract the information. You can find the site under the guild tab, <a href="/guild/guildranks.php">here</a>. Lots of thanks also to Eatuck who send me the information including the layout! Take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -337,7 +337,7 @@
                                         <tr>
                                             <td>
                                                 <p>
-                                                    Hello everyone. Today I added a page counter. Ok, i even added two. So the first one counts the total visits of the planeshift.org page and the second one counts the visit of different ip-addresses (closest thing to people). At the moment the counters are under the <a href="/" target="_blank">Home Section</a> and not as beautiful as I would like it to be. If you have an idea where to place it and how to change the style, please tell me. Fine. Let's see how much our site is in use. Take care and see you in game, Huarwar.
+                                                    Hello everyone. Today I added a page counter. Ok, i even added two. So the first one counts the total visits of the planeshift.org page and the second one counts the visit of different ip-addresses (closest thing to people). At the moment the counters are under the <a href="/">Home Section</a> and not as beautiful as I would like it to be. If you have an idea where to place it and how to change the style, please tell me. Fine. Let's see how much our site is in use. Take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -349,7 +349,7 @@
                                         <tr>
                                             <td>
                                                 <p>
-                                                    Hello everyone. Today I added a <a href="/trainers/trainingcalculator.php" target="_blank">Training Calculator</a>. I think it is especially helpful for newbies, knowing what they need for leveling up stats. Training it faster. But even if you have maxed all your stats, please make sure to check it out! This is it for now, take care and see you in game, Huarwar.
+                                                    Hello everyone. Today I added a <a href="/trainers/trainingcalculator.php">Training Calculator</a>. I think it is especially helpful for newbies, knowing what they need for leveling up stats. Training it faster. But even if you have maxed all your stats, please make sure to check it out! This is it for now, take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -361,8 +361,8 @@
                                         <tr>
                                             <td>
                                                 <p>
-                                                    Hello everyone, it's me again. I just added two new sections under the guild tab. The first is <a href="/more/nefasentrance.php" target="_blank">Nefas Entrance</a> and the second is <a href="/more/grendolcave.php" target="_blank">Grendol Cave</a> (click on the names to go direeeeeectly to the sections). Both show solutions for the respective problem, so in the future you do not have to worry anymore going into the skull cave.</p>
-                                                    <p>Great thanks this time to Lingwelli, who provided the information and did all the pictures. He additionally provided informations about how to get out of the lava cave (<a href="/more/lavacaveexit.php" target="_blank">Lava Cave Exit</a>), which is already online for several month. You can find this peace of information also under the guild tab. Again a big thank you (and hug) for this contribution to Lingwelli. This is it for now, take care and see you in game, Huarwar.
+                                                    Hello everyone, it's me again. I just added two new sections under the guild tab. The first is <a href="/more/nefasentrance.php">Nefas Entrance</a> and the second is <a href="/more/grendolcave.php">Grendol Cave</a> (click on the names to go direeeeeectly to the sections). Both show solutions for the respective problem, so in the future you do not have to worry anymore going into the skull cave.</p>
+                                                    <p>Great thanks this time to Lingwelli, who provided the information and did all the pictures. He additionally provided informations about how to get out of the lava cave (<a href="/more/lavacaveexit.php">Lava Cave Exit</a>), which is already online for several month. You can find this peace of information also under the guild tab. Again a big thank you (and hug) for this contribution to Lingwelli. This is it for now, take care and see you in game, Huarwar.
                                                 </p>
                                             </td>
                                         </tr>
@@ -411,33 +411,41 @@
                             </tr>
 
                             <tr>
-                                <td><a href="http://planeshift.it/" target="_blank">Planeshift Mainpage</a></td>
+                                <td><a href="http://planeshift.it/">Planeshift Mainpage</a></td>
                             </tr>
                             <tr>
-                                <td> <a href="http://hydlaaplaza.com/PlaneShift/smf/" target="_blank">Forum</a></td>
+                                <td> <a href="http://hydlaaplaza.com/PlaneShift/smf/">Forum</a></td>
                             </tr>
                             <tr>
-                                <td> <a href="http://hydlaaplaza.com/PlaneShift/flyspray/" target="_blank">Bug Tracker</a></td>
+                                <td> <a href="http://hydlaaplaza.com/PlaneShift/flyspray/">Bug Tracker</a></td>
                             </tr>
 
                             <tr>
-                            	<td> <a href="http://planeshift.teamix.org/myplane/" target="_blank">MyPlane</a></td>
+                            	<td> <a href="http://planeshift.teamix.org/myplane/">MyPlane</a></td>
                             </tr>
                             <tr>
-                                <td> <a href="http://planeshift.top-ix.org/pswiki/index.php?title=Main_Page" target="_blank">WikiWikiWeb</a></td>
+                                <td> <a href="http://planeshift.top-ix.org/pswiki/index.php?title=Main_Page">WikiWikiWeb</a></td>
                             </tr>
+                            <!-- Events -->
+                            <tr>
+                            	<td class="content_table_headline">Event Calendar</td>
+                            </tr>
+                            <tr>
+                            	<td><a href="https://www.planeshift.it/calendar/">Official Calendar</td>
+                            </tr>
+
                             <!-- Links: Quests etc. -->
                             <tr>
                             	<td class="content_table_headline">Quests, NPCs &amp; Items</td>
                             </tr>
                             <tr>
-                            	<td><a href="http://planeshift.net/" target="_blank">planeshift.net</td>
+                            	<td><a href="http://planeshift.net/">planeshift.net</td>
                             </tr>
                             <tr>
-                                <td> <a href="https://sites.google.com/site/planeshiftworld/" target="_blank">Planeshift&apos;s World</a></td>
+                                <td> <a href="https://sites.google.com/site/planeshiftworld/">Planeshift&apos;s World</a></td>
                             </tr>
                             <tr>
-                                <td> <a href="https://thefamily.lichtvoll.de/" target="_blank">The Family</a></td>
+                                <td> <a href="https://thefamily.lichtvoll.de/">The Family</a></td>
                             </tr>
 
                             <!-- Links: Mods for Planeshift -->
@@ -445,7 +453,7 @@
                             	<td class="content_table_headline">Mods</td>
                             </tr>
                             <tr>
-                            	<td> <a href="http://greatshift.111mb.de/" target="_blank">Greatshift</a></td>
+                            	<td> <a href="http://greatshift.111mb.de/">Greatshift</a></td>
                             </tr>
 
                             <!-- Links: IRC -->
@@ -453,7 +461,7 @@
                             	<td class="content_table_headline">IRC</td>
                             </tr>
                             <tr>
-                            	<td> <a href="http://webchat.freenode.net" target="_blank">IRC Webchat (Freenode)</a></td>
+                            	<td> <a href="http://webchat.freenode.net">IRC Webchat (Freenode)</a></td>
                             </tr>
 
                             <!-- Changes -->

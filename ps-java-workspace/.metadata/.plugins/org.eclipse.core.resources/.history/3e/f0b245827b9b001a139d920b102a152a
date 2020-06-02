@@ -1,9 +1,0 @@
-package questTextObjects;
-
-public class QuesttextQuestComplete extends Questtext{
-	
-	public QuesttextQuestComplete() {
-		super("QUEST COMPLETED");
-	}
-
-}

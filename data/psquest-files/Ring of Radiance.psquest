@@ -1,29 +1,29 @@
 [Questname] Ring of Radiance
-[NPC Name] Ferryd Shillor
+[NPC Name] Lyrus Lospur
 [Checkup] 2014-01-01
 [Authors] Dudu and Lele
 
 [Need] [Quest] Lyrus Has An Idea; [Item] 3, Silver Ores
 
-[To] Ferryd Shillor
+[To] Lyrus Lospur
 
 [NPC Internal] Do you have any other work I can do for you?
-[NPC] Ferryd: Oh, you're back again, my helpful Kran?
-[NPC] Ferryd: It seems you are just in time, as I need an errand run for me.
-[NPC] Ferryd: Levrus - you know of Levrus Dahrenn don't you?
-[NPC] Ferryd: Well if you don't, Levrus is a mage of some skill over near Hydlaa.
-[NPC] Ferryd: Anyway, he asked me for something and I have it for him.
-[NPC] Ferryd: Will you deliver it for me?
+[NPC] Lyrus: Oh, you're back again, my helpful Kran?
+[NPC] Lyrus: It seems you are just in time, as I need an errand run for me.
+[NPC] Lyrus: Levrus - you know of Levrus Dahrenn don't you?
+[NPC] Lyrus: Well if you don't, Levrus is a mage of some skill over near Hydlaa.
+[NPC] Lyrus: Anyway, he asked me for something and I have it for him.
+[NPC] Lyrus: Will you deliver it for me?
 [NPC Internal] I think I can manage it.
-[NPC] Ferryd: Good, I knew I could count on you.
-[NPC] Ferryd: Here is what I need.
-[NPC] Ferryd: Levrus has heard about my new ring making method and thinks he can make a new and improved magic ring for something or other.
-[NPC] Ferryd: I don't really know.
-[NPC] Ferryd: Humans have strange ideas about magic, don't you think?
-[NPC] Ferryd: Anyway, he asked me if I had another of these rings for him to play with.
-[NPC] Ferryd: It so happens that I do.
+[NPC] Lyrus: Good, I knew I could count on you.
+[NPC] Lyrus: Here is what I need.
+[NPC] Lyrus: Levrus has heard about my new ring making method and thinks he can make a new and improved magic ring for something or other.
+[NPC] Lyrus: I don't really know.
+[NPC] Lyrus: Humans have strange ideas about magic, don't you think?
+[NPC] Lyrus: Anyway, he asked me if I had another of these rings for him to play with.
+[NPC] Lyrus: It so happens that I do.
 [NPC Narrate] -Lyrus gives you a ring that appears to be made of diamond.-
-[NPC] Ferryd: Take this to him, and I will give you some coin on your return.
+[NPC] Lyrus: Take this to him, and I will give you some coin on your return.
 
 [To] Levrus Dahrenn
 
@@ -159,4 +159,3 @@
 [NPC] Lyrus: Please accept these as a token of my esteem.
 
 [Reward] [Money] 5530; [XP] 13600; [Item] 1, Ring of Radiance; [Faction] 25, Artists Association; [Faction] 15, Nolthrir
-

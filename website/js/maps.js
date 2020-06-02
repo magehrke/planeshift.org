@@ -23,16 +23,6 @@ jQuery(function($) {
             $(this).css("text-decoration", "none");
         });
 
-        // If the user clicks on an element with "show",
-        // this element shall be bold and all other
-        // "show"-elements not.
-        $(".show").click(function(e) {
-            $(".show").css("color", '#99CCFF');
-            $(this).css("color", '#cc8400');
-        });
-
-
-
         // If the user clicks somewhere, where no Names or Links
         // are, then the site should just show the map without
         // a pin.
@@ -175,7 +165,10 @@ function autoSelect () {
     hash = location.hash.substr(1);
     elements = document.getElementsByClassName("show");
     for (var i = 0; i < elements.length; i++) {
-        elements[i].style.color = "#99CCFF";
+
+        // Put all NPCs back to their normal color and font style
+        elements[i].style.color = "var(--color-link)";
+        elements[i].style.fontWeight = "normal";
 
     }
     if (elem = document.getElementById("pin_" + hash)) {
@@ -192,7 +185,10 @@ function autoSelect () {
             }
         }
 
-        elem.style.color = "#cc8400";
+        // Change color and font style for the selected npc
+        elem.style.color = "var(--color-link-selected)";
+        elem.style.fontWeight = "bold";
+
 
         // The details for the npc (picture, quests, etc.)
         addDetails(hash);

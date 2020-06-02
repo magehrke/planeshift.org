@@ -176,9 +176,12 @@
             <li class="navigation_button_jobs">
                 Jobs
                 <ul class="navigation_dropdown_menu">
+										<li><a href="/jobs/drawing.php">Drawing</a></li>
+										<li><a href="/jobs/fishing.php">Fishing</a></li>
+										<li><a href="/jobs/harvesting.php">Harvesting</a></li>
                     <li><a href="/jobs/lockpicking.php">Lockpicking</a></li>
                     <li><a href="/jobs/metallurgy.php">Metallurgy</a></li>
-                    <li><a href="/jobs/mining.php">mining</a></li>
+                    <li><a href="/jobs/mining.php">Mining</a></li>
                     <li><a href="/jobs/shieldcrafting.php">Shield Crafting</a></li>
                 </ul>
             </li>
@@ -199,7 +202,8 @@
             <li class="navigation_button_help">
                 Help
                 <ul class="navigation_dropdown_menu">
-                    <li><a href="/help/quest-file-writing-manual.md.html">Quest File Writing Manual</a></li>
+									<li><a href="/help/contributors.php">Contributors</a></li>
+									<li><a href="/help/quest-file-writing-manual.md.html">Quest File Writing Manual</a></li>
                </ul>
             </li>
 

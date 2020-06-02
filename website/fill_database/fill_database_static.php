@@ -608,16 +608,55 @@
 
 	/* Insert MetallurgyResources data */
 	for($i = 0; $i < count($metallurgyResources_to_insert); $i += 4) {
-		$etallurgyResources_query = "INSERT INTO metallurgyResources (material, quantity, resource, recipe)
+		$metallurgyResources_query = "INSERT INTO metallurgyResources (material, quantity, resource, recipe)
 						VALUES ('" . $metallurgyResources_to_insert[$i]
 						. "', " . $metallurgyResources_to_insert[$i+1]
 						. ", '" . $metallurgyResources_to_insert[$i+2]
-						. "', " . $metallurgyResources_to_insert[$i+3]. ")";
-		$mysqli->query($etallurgyResources_query) or die($mysqli->error);
+						. "', " . $metallurgyResources_to_insert[$i+3] . ")";
+		$mysqli->query($metallurgyResources_query) or die($mysqli->error);
 	}
 
 	/* ########################################################################################## */
 
+	/* Drawing NPC's data */
+	/* From which level to which level we have to train at which npc */
+
+	$drawingData_to_insert = array(
+		1, 31, "Warinn Klumdt",
+		32, 61, "Dhalia Colat",
+		62, 91, "Roya Vuntarr",
+		92, 101, "Levrus Dahrenn",
+		102, 126, "Muuro Zarel",
+		127, 161, "Yonda Axebow",
+		162, 200, "Celila Yasoj"
+	);
+
+	/* Create Drawing Table */
+
+	$mysqli->query("DROP TABLE IF EXISTS `drawing`") or die(mysql_error());
+
+	$createDrawing = "CREATE TABLE IF NOT EXISTS `drawing` (
+			lvlFrom int(20) NOT NULL,
+			lvlTo int(20) NOT NULL,
+			npc varchar(40) NOT NULL,
+			PRIMARY KEY (lvlFrom, lvlTo, npc)
+		)";
+
+	$mysqli->query($createDrawing) or die ($mysqli->error);
+
+
+	/* Insert Drawing data */
+	for($i = 0; $i < count($drawingData_to_insert); $i += 3) {
+		$drawing_query = "INSERT INTO drawing (lvlFrom, lvlTo, npc)
+						VALUES (" . $drawingData_to_insert[$i]
+						. ", " . $drawingData_to_insert[$i+1]
+						. ", '" . $drawingData_to_insert[$i+2]
+						. "')";
+		$mysqli->query($drawing_query) or die($mysqli->error);
+	}
+
+
+	/* ########################################################################################## */
 
 	/* close connection */
 	$mysqli->close();

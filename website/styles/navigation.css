@@ -1,14 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 /* Author Huarwar Eruera */
-/* Kingdom of Valour */
 
 /* Dropdown menu CSS Script */
 
 ul#navigation_main {
 	font-weight: bold;
 	font-variant: small-caps;
-	font-size: 15pt;	
+	font-size: 15pt;
 }
 
 ul#navigation_main li {
@@ -19,13 +18,13 @@ ul#navigation_main li {
 
 /* Font/Link color of buttons in navigation bar */
 ul#navigation_main li a {
-	color: #FFF;
+	color: var(--color-base);
 }
 
 /* Change in Color and style if hover over nagigation button */
 ul#navigation_main li a:hover {
-	color: #99CCFF;
-	text-decoration: none;	
+	color: var(--color-link);
+	text-decoration: none;
 }
 
 ul#navigation_main li.navigation_button_home {
@@ -67,16 +66,16 @@ ul#navigation_main li.navigation_button_help {
 ul#navigation_main li ul.navigation_dropdown_menu {
 	width: 120px;
 	height: auto;
-	
+
 	font-size: 10pt;
-	
-	background-color: #000;
+
+	background-color: var(--color-nav-dropdown-background);
 	position: absolute;
-	border: solid 2px #080808;
+	border: solid 1.5px var(--color-base);
 	margin-top: 0px;
 	margin-left: 0px;
 	padding: 5px 5px 5px 5px;
-	
+
 	/* Make the dropdown menu invisible as long as we do not hover over it */
 	visibility: hidden;
 }
@@ -94,12 +93,12 @@ ul#navigation_main li ul.navigation_dropdown_menu {
 ul#navigation_main li ul li {
 	display: block;
 	float: none;
-	
+
 }
 
 /* Make the dropdown menu visible, if we hover with the mouse over the button */
 ul#navigation_main li:hover > ul {
 	visibility: visible;
 	opacity: 1;
-	
+
 }

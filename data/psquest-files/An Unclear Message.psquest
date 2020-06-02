@@ -372,5 +372,7 @@
 [NPC] Barrin: You will find it is able to vastly broaden a person's sight in many ways.
 [NPC] Barrin: Be careful with it and you may learn great things in time.
 
-[Reward] [Money] 10000; [XP] 15000; [OR Begin] [Item] 1, Divination glyph [OR] [Item] 1, Sphere glyph [OR End]; [Faction] 30, Nolthrir
+[Info] Probably you get one of the three glyphs randomly. However, we are not sure. Please send us an e-mail with the glyph you received.
+[Comment] Poison glyph received at 1.6.2020.
 
+[Reward] [Money] 10000; [XP] 15000; [OR Begin] [Item] 1, Divination glyph [OR] [Item] 1, Sphere glyph [OR] [Item] 1, Poison glyph [OR End]; [Faction] 30, Nolthrir

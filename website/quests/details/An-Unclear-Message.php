@@ -1908,6 +1908,12 @@
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
+					<tr class="quest_action">
+						<td>[INFO]: Probably you get one of the three glyphs randomly. However, we are not sure. Please send us an e-mail with the glyph you received.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
 					<tr class="quest_questComplete">
 						<td>QUEST COMPLETED</td>
 					</tr>
@@ -1915,7 +1921,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Divination glyph, 1 Sphere glyph[OR], 30 Faction with Nolthrir, 10000 Tria, 15000 XP.</td>
+						<td>Rewards: 1 Divination glyph, 1 Sphere glyph[OR], 1 Poison glyph[OR], 30 Faction with Nolthrir, 10000 Tria, 15000 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

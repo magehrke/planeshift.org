@@ -22,18 +22,19 @@
 	vertical-align: top;
 }
 
-.selectLayer { 
-	color: #99CCFF; 
+.selectLayer {
+	color: var(--color-link);
 	cursor: pointer;
-} 
+}
 
 .selectLayer:hover {
 	text-decoration: underline;
 }
 
 .selectLayer.selected {
-	color: #cc8400;
+	color: var(--color-link-selected);
 	text-decoration: underline;
+	font-weight: bold;
 }
 
 #details_wrapper {
@@ -47,14 +48,13 @@
 
 	border-top-style: solid;
 	border-top-width: 1px;
-	border-top-color: #696969;
 }
 
 	#details_canvas {
 		margin: auto;
 		padding: 0;
 		display: block;
-		
+
 	    width: 720px;
 	    height: 530px;
 	}

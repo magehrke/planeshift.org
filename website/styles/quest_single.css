@@ -17,90 +17,89 @@
 		font-weight: bold;
 		padding-top: 10px;
 		font-variant: small-caps;
-		border-bottom: dotted 1px #FFF;
+		border-bottom: dotted 1px var(--color-base);
 	}
-		
+
 		.quest_requirement td {
 			border:1px solid;
 			padding: 4px 4px 4px 4px;
-			
+
 		}
-		
+
 		.quest_npc td {
 			padding-left: 40px;
 		}
-		
+
 		.quest_you td {
 			padding-left: 40px;
 		}
-		
+
 		.quest_questComplete td {
 			padding-left: 40px;
 		}
-		
+
 		.quest_storyline td {
 			padding-left: 40px;
 		}
-		
+
 		.quest_action td {
 		}
-		
+
 		.quest_diffWays td {
 		}
-		
+
 		.quest_waysHeadline td {
 			font-size: 14pt;
 			padding-top: 5px;
 			font-variant: small-caps;
 			border-bottom: dotted 1px;
 		}
-		
+
 		.quest_reward td {
 			padding: 4px 4px 4px 4px;
 			border:1px solid;
-			
+
 		}
-		
+
 		/* Spaces between entries
 		-> empty rows */
-		
+
 		.quest_emptyRow_afterTitle td {
 			height: 10px;
 		}
-		
+
 		.quest_emptyRow_btwNpcYou td {
 			height: 10px;
 		}
-		
+
 		.quest_emptyRow_afterNpcYou td {
 			height: 10px;
 		}
-		
+
 		.quest_emptyRow_afterAction td {
 			height: 10px;
 		}
-		
+
 		.quest_emptyRow_afterRequirement td {
 			height: 10px;
 		}
-		
+
 		.quest_emptyRow_afterStoryline td {
 			height: 10px;
 		}
-		
+
 		.quest_emptyRow_afterQuestComplete td {
 			height: 10px;
 		}
-		
+
 		.quest_emptyRow_afterDiffWays td {
 			height: 10px;
 		}
-		
+
 		.quest_emptyRow_afterWaysHeadline td {
 			height: 10px;
 		}
-		
+
 		.quest_emptyRow_afterReward td {
 			height: 10px;
 		}
-		

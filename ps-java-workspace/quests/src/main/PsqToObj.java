@@ -96,7 +96,7 @@ public class PsqToObj {
 					continue;
 				}
 				// Comments are just for people who read the .psquest file
-				else if(currLine.startsWith("[Comments]")) {
+				else if(currLine.startsWith("[Comments]") || currLine.startsWith("[Comment]")) {
 					continue;
 				}
 				

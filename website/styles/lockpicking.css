@@ -5,14 +5,18 @@
 
 /* jobs/lockpicking CSS Script */
 
+.lockpicking_main_section {
+	margin-left: 20px;
+
+}
+
 .lockpicking_main_table {
-	width: 100%;
+	width: 80%;
 	height: auto;
-	
+
 	padding-top: 10px;
 	padding-right: 30px;
-	padding-bottom: 10px;
-	padding-left: 15px;
+	padding-bottom: 25px;
 }
 
 	.lockpicking_main_table img {

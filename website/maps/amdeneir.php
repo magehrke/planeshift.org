@@ -2,21 +2,21 @@
 <html>
 <head>
 	<title>Amdeneir</title>
-    
+
 	<?php
         $path = $_SERVER['DOCUMENT_ROOT'];
         $path .= "/html_header.php";
         include($path);
     ?>
-    
+
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 29, 
-            offsetX = 16700, 
-            offsetY = 14000, 
+        var scale = 29,
+            offsetX = 16700,
+            offsetY = 14000,
             map = "/images/maps/amdeneir.png",
-            rot = false, 
+            rot = false,
             layers = 1,
             hiddenLayers = [];
     </script>
@@ -26,7 +26,7 @@
 
     <!-- script for displaying the canvas (uses JQuery) -->
     <script src="/js/maps.js"></script>
-    
+
 </head>
 
 <!-- BODY -->
@@ -36,14 +36,14 @@
 	<tr>
     	<td>
         	<div id="root_site_container">
-            
+
             	<!-- include Header and Navigation -->
 				<?php
 					$path = $_SERVER['DOCUMENT_ROOT'];
 					$path .= "/header_and_navigation.php";
                     include($path);
                 ?>
-                
+
                 <!-- Content section -->
                 <div id="content_main_container">
                     <table class="maps_main_table">
@@ -75,7 +75,7 @@
                                     $path = $_SERVER['DOCUMENT_ROOT'];
                                     $path .= "/includes/maps_extract_info.inc.php";
                                     include($path);
-                                    
+
                                 ?>
 
                             </td>
@@ -84,7 +84,7 @@
 
 
 				</div>
-                
+
                 <!-- include Footer -->
 				<?php
 					$path = $_SERVER['DOCUMENT_ROOT'];
