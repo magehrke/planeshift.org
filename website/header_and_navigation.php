@@ -131,10 +131,10 @@
                     <li><a href="/maps/dungeon.php#plain">Dungeon</a></li>
                     <li><a href="/maps/gugrontid-city.php#plain">Gugrontid City</a></li>
                     <li><a href="/maps/guildlaw.php#plain">Guildlaw</a></li>
+										<li><a href="/maps/howling-well.php#plain">Howling Well</a></li>
                     <li><a href="/maps/hydlaa.php#plain">Hydlaa</a></li>
-                    <li><a href="/maps/stonehead_cave.php#plain">Howling Well</a></li>
                     <li><a href="/maps/hydlaa-east.php#plain">Hydlaa East</a></li>
-                    <li><a href="/maps/lava_cave.php#plain">Lava Cave</a></li>
+                    <li><a href="/maps/lava-cave.php#plain">Lava Cave</a></li>
                     <li><a href="/maps/magic-shop.php#plain">Magic Shop</a></li>
                     <li><a href="/maps/ojaveda.php#plain">Ojaveda</a></li>
                     <li><a href="/maps/ojaveda-road-1.php#plain">Ojaveda Road 1</a></li>

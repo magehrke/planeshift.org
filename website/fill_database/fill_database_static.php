@@ -133,7 +133,7 @@
 		'Purify', 'Blue Way',
 		'Rain', 'Blue Way',
 		'Reduction', 'Blue Way',
-		'Refelction', 'Blue Way',
+		'Reflection', 'Blue Way',
 		'Sphere', 'Blue Way',
 		'Water', 'Blue Way',
 
