@@ -32,18 +32,11 @@
                 <div id="content_main_container">
 
                     <div id="lavacave_content_main_div">
-
                         <h2>Menita&apos;s Puzzle</h2>
-
-                        <p>Menitas Puzzle is difficult. I mapped all rooms and doors I went through.
-													But eventually got outside. </br>
-													There seems to be no way out. You just get released at some point. Not sure what triggers this. </br>
-													Maybe I have seen all rooms, maybe after a period of time and talking to everyone...
-													Who knows?</p>
-
-
-												<img width='800px' src='/images/menitas-puzzle.png' />
-
+                        <p>Menitas Puzzle is difficult. The first map shows all rooms and where they lead:</p>
+			<img width='800px' src='/images/maps/Menitas-Maze.jpg' />
+                        <p>The second map shows the direct way out:</p>
+			<img width='800px' src='/images/maps/menitas_puzzle.png' />
                     </div>
 				</div>
 
