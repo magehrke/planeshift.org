@@ -23,4 +23,5 @@
 ### Global table classes
 - If a table shall be hovable, include the class `hovableTable`
 - If a table shall be sortable (each column can be sorted ASC or DESC), include the class `sortable`
+  - For this to work you need to include `<script src="/js/sorttable.js"></script>` in header
 - Both classes are stored in `base.css` if any change is needed
