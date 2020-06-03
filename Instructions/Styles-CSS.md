@@ -4,6 +4,13 @@
 - Every page loads the basic style sheets `base.css` and `navigation.css` by including the `html_header.php` at the top
 - Additionally, each webpage shall include a second style sheet where detailed styles are stored
 
+
+### Parameters
+- The page is designed to have a width of `1200px`
+
+### Structure
+- Every content should go into the `content_main_container` div, so all styles can be applied around it
+
 ### Colors
 - The colors are defined in `base.css` at the beginning
 - The colors are saved into variables, so they can be change for the entire page by exchanging 1 variable
