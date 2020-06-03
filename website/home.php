@@ -2,7 +2,7 @@
 <!-- Can be removed if all Data is correct -->
 <?php
     $path = $_SERVER['DOCUMENT_ROOT'];
-    $path .= "/fill_database/fill_database_static.php";
+    $path .= "/fill_database/fill_database_jobs.php";
     include($path);
 
     $path = $_SERVER['DOCUMENT_ROOT'];
@@ -22,7 +22,7 @@
     include($path);
 
     $path = $_SERVER['DOCUMENT_ROOT'];
-    $path .= "/fill_database/fill_database_spells.php";
+    $path .= "/fill_database/fill_database_glyphs-spells-magic.php";
     include($path);
 ?>
 
