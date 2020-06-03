@@ -37,6 +37,8 @@
         include($path);
     ?>
 
+    <link href="/styles/home.css" type="text/css" rel="stylesheet">
+
 </head>
 
 

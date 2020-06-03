@@ -2,242 +2,51 @@
 /* CSS Document */
 /* Author Huarwar Eruera */
 
-/* Navigation bar */
-@import url("/styles/navigation.css");
-
-
-/*  */
-:root {
-	--color-white: #EAE7DC;
-	--color-sand: #D8C3A5;
-	--color-gray: #8E8D8A;
-  --color-red: #E85A4F;
-	--color-light-red: #961a21;
-
-	--icon-dark-red: #70191e;
-	--icon-light-red: #961a21;
-
-
-	--color-base: #000; /* white or black */
-	--color-link: #70191e;
-	--color-link-selected: #5a61c1;
-	--color-nav-dropdown-background: var(--color-white);
-}
-
-/*
- * So the content wont slide to the left,
- * if a table is longer than the height of the screen,
- * we enable the scrollbar on all sites
- */
-html {
-	overflow-y: scroll;
-}
-
-* {
-	border-color: var(--color-base);
-
-}
-
-/* Style of links */
-a {
-	color: var(--color-link);
-	text-decoration: none;
-}
-
-/* What happens, if you hover with your mouse over the link */
-a:hover {
-	text-decoration: underline;
-}
-
-
-body {
-	/* Background Settings */
-	background-image: url(/images/backgrounds/grey.png);
-	background-repeat: repeat;
-	background-position: center;
-	background-position: top;
-
-
-	/*background-color: var(--color-white);*/
-
-	/* Font Settings */
-	font-size: 12pt;
-	color: var(--color-base);
-}
-
-table, tr, td {
-	border: none;
-	border-spacing: 0px;
-	border-color: var(--color-base);
-	text-align: left;
-}
-
-/* Style of table header */
-th {
-	font-size: 13pt;
+/* HEADLINE Content */
+.content_table_headline {
+	font-size: 14pt;
+	font-weight: bold;
+	padding-top: 10px;
 	font-variant: small-caps;
-	text-align: left;
-	color: var(--color-base);
-	padding-top: 5px;
-	padding-bottom: 10px;
+	border-bottom: dotted 1px var(--color-base);
 }
 
 
-/* Generel css */
-.hovableTable tr:hover {
-	background: rgba(255,255,255,0.15);
+.content_left_main {
+	width: 75%;
+	height: 100%;
+	float: left;
 }
 
-/* This belongs to the javascript sortable.js. Because we include this in the .css files of each
- * table which shall be sortable, there will be shown arrows at the tableheaders, so the user
- * knows its sortable.
- * Copied from FAQ from http://www.kryogenix.org/code/browser/sorttable/#symbolsbeforesorting
- */
-table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
-    content: " \25B4\25BE"
+	.content_left_main_table {
+		padding-top: 0px;
+		padding-right: 30px;
+		padding-bottom: 10px;
+		padding-left: 15px;
+	}
+
+		.news_box {
+			padding: 0 0 0 0;
+		}
+
+
+.content_right_main {
+	width: 25%;
+	height: 100%;
+	float: right;
 }
 
+	.content_right_main_table {
+		padding_top: 0px;
+		padding-right: 30px;
+		padding-bottom: 10px;
+		padding-left: 15px;
 
-/* root_site setup */
-#root_site_container {
-	width: 1200px;
-	height: auto; /* slide automatically */
+		border-left-style: ridge;
+		border-left-width: 1px;
+		border-left-color: var(--color-base);
 
-}
+		margin-top: 10px;
+		margin-bottom: 10px;
 
-	/* The main_page_logo and the
-	 * top_row_of_the_page should be together the
-	 * width of the root_site_container !!!
-	 * If you change one, you need to change the
-	 * other one as well */
-
-	#main_page_logo_container {
-		width: 100px;
-		height:auto;
-		float: left;
-		margin-left: 40px;
-		margin-top: -23px;
 	}
-
-	#top_row_of_the_page {
-		width: 1200px;
-		height: auto;
-		text-align: right;
-	}
-
-		#main_page_logo {
-			width:100px;
-			position: absolute;
-		}
-
-	/* Header Setup */
-	#head_main_container {
-		width: 100%;
-		height: auto;
-		margin-top: 15px;
-	}
-
-		.header_container {
-			/* Überschrift ausrichten */
-			text-align: center;
-			vertical-align: middle;
-		}
-
-		.header_container a {
-			color: var(--color-base);
-		}
-
-		.header_container a:hover {
-			color: var(--color-link);
-			text-decoration: none;
-		}
-
-	#navi_main_container {
-		width: 100%;
-		height: 30px;
-		border-bottom: ridge 1px var(--color-base);
-	}
-
-
-		.navi_container {
-			width: 900px;
-			height: 100%;
-			margin-left: auto;
-			margin-right: auto;
-		}
-
-	#content_main_container {
-		width: 100%;
-		height: auto;
-	}
-
-		/* HEADLINE Content */
-		.content_table_headline {
-			font-size: 14pt;
-			font-weight: bold;
-			padding-top: 10px;
-			font-variant: small-caps;
-			border-bottom: dotted 1px var(--color-base);
-		}
-
-
-		.content_left_main {
-			width: 75%;
-			height: 100%;
-			float: left;
-		}
-
-			.content_left_main_table {
-				padding-top: 0px;
-				padding-right: 30px;
-				padding-bottom: 10px;
-				padding-left: 15px;
-			}
-
-				.news_box {
-					padding: 0 0 0 0;
-				}
-
-
-		.content_right_main {
-			width: 25%;
-			height: 100%;
-			float: right;
-		}
-
-			.content_right_main_table {
-				padding_top: 0px;
-				padding-right: 30px;
-				padding-bottom: 10px;
-				padding-left: 15px;
-
-				border-left-style: ridge;
-				border-left-width: 1px;
-				border-left-color: var(--color-base);
-
-				margin-top: 10px;
-				margin-bottom: 10px;
-
-			}
-
-	#footer_main_container {
-		width: 100%;
-		height: auto;
-
-		border-top: ridge 1px var(--color-base);
-
-		/* Needed, so the footer won't be shown in content section */
-		float: left;
-	}
-
-		#footer_content_container {
-			width: 100%;
-			height: 30px;
-
-			padding-left: 15px;
-		}
-
-
-.skill_description {
-	font-style: italic;
-}
