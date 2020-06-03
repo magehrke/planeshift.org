@@ -13,3 +13,10 @@
 
 - This mechanism takes just a few milliseconds
 - This way it is easier to add chuncks of data without being an expert in SQL
+
+
+### fill_database_eclipse.php
+
+- This file is dynamically created when running the java program
+- It mainly reads, creates and links questfiles
+- If it is empty or corrupt, there was probably an error executing the java program
