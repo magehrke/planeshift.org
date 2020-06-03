@@ -17,6 +17,10 @@ The displayed website is written in `xhtml` and `css`. The data is stored in a `
 
 PlaneShift is a Role Playing Game immersed into a 3D virtual fantasy world, completely made and maintained by volunteers! Passionate RPG gamers gathered to create an open and freely available game. There are no surprises of premium content which will limit your gameplay or unbalance the game. PlaneShift is [Open Source](https://www.planeshift.it/Source%20code) for the client and server code.
 
+## Inctructions
+
+Instructions how the website works and how to add/delete/manipulate information can be found in the `instructions` folder
+
 ## Preview
 
 ![planeshift.org Website](website/images/show-website.png)
