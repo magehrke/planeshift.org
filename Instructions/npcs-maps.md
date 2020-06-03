@@ -11,6 +11,13 @@
 - a position consists of 3 numbers (1 for each axis in a 3D world)
 - for our map the 2. number is obsolete, so it does not really matter
 
+### Different databases for npc, location, item
+- All npcs shall go into the npc database
+- All items shall go into the item database
+  - Apple, Chests, etc.
+- All location shall go into the location database
+  - "To Oja Road 1", "Howling Well", ...
+
 ### Adding an NPCS or an NPC location
 - Open `fill_database_npcs-maps.php` and enter a new line for every npc on a different map
 - Variables:
