@@ -1,6 +1,6 @@
 /*
  * This file shows the canvas (maps) for the maps
- * of Yliakum from the Game Planeshift.
+ * of Yliakum of the Game Planeshift.
  */
 
 // Does the site support Canvas?
