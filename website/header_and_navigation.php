@@ -195,8 +195,6 @@
                     <li><a href="/more/lavacave.php">Lava Cave</a></li>
                     <li><a href="/more/stonehead-caves.php">Stonehead Caves</a></li>
 										<li><a href="/more/menitas-puzzle.php">Menita&apos;s Puzzle</a></li>
-                    <li><a href="/guild/guildranks.php">KoV Guildranks</a></li>
-
                </ul>
             </li>
 
