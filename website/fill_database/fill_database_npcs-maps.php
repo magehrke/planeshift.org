@@ -474,7 +474,18 @@
 		'Zak', 'Dungeon', 1, 'none', '5.29 -106.29 49.16', '', 1,
 		'Zlatac', 'Bronze Doors Outside' , 1,'2018-02-04', '-434.09 -282.29 -1574.14', '', 1,
 		'Zhaomal Shehan', 'Bronze Doors Fortress', 1, 'none', '-110.52 87.84 -447.59', '', 1,
-		'Zornatan Xiorad', 'Amdeneir', 1,'2018-03-04', '-29.44 46.22 19.02', '', 1
+		'Zornatan Xiorad', 'Amdeneir', 1,'2018-03-04', '-29.44 46.22 19.02', '', 1,
+
+		// the howling well
+		'Ash Brother', 'Howling Well', 3, 'none', '60 0 175, 58 0 175, 56 0 175', '', 1,
+		'Consumer', 'Howling Well', 5, 'none', '160 0 55, 148 0 105, 187 0 127, 133 0 142, 65 0 115', '', 1,
+		'Grendol', 'Howling Well', 6, 'none', '148 0 70, 148 0 85, 164 0 133, 157 0 148, 176 0 190, 115 0 77', '', 1,
+		'Imago Consumer', 'Howling Well', 5, 'none', '130 0 55, 167 0 148, 166 0 180, 105 0 142, 115 0 77', '', 1,
+		'Nefas Dur', 'Howling Well', 1, 'none', '50 0 143', '', 1,
+		'Rune Carved Grendol', 'Howling Well', 2, 'none', '18 0 114, 34 0 143', '', 1,
+		'Rune Carved Toxic Grendol', 'Howling Well', 2, 'none', '140 0 203, 147 0 203', '', 1,
+		'Strange Grendol', 'Howling Well', 1, 'none', '52 0 175', '', 1
+
 	);
 
 	/* Insert NPC into table */
@@ -514,7 +525,6 @@
 			'House of the Spirit', 'Bronze Door Road 1', '543.94 55.82 103.06', '',
 			'Howling Well', 'Bronze Door Road 1' , '-356.75 47.51 -517.91', '2018-02-04',
 			'Ruins', 'Bronze Door Road 1', '-504.80 46.37 198.49', '',
-			'Stonehead Caves', 'Bronze Door Road 1' , '-356.75 47.51 -517.91', '2018-02-04',
 			'To Bronze Door Road 2', 'Bronze Door Road 1', '-39.40 48.97 522.50', '',
 			'To Gugrontid', 'Bronze Door Road 1', '-527.97 49.84 4.02', '',
 			'To Hydlaa', 'Bronze Door Road 1', '45.42 48.53 -537.48', '',
@@ -581,7 +591,10 @@
 			'Tavern Enterance', 'Sewers', '-140.14 10.30 -91.84', '',
 			'Winch Enterance', 'Sewers', '32.55 -6.66 -168.31', '',
 
-			'To Hydlaa', 'Winch', '40.91 -0.03 -208.35', ''
+			'To Hydlaa', 'Winch', '40.91 -0.03 -208.35', '',
+
+			// the howling well
+			'Entry/Exit', 'Howling Well', '148 0 3', ''
 		);
 
 		for($i = 0; $i < count($mapsLoc_to_insert); $i += 4) {
@@ -720,7 +733,13 @@
 		'Wyn Reed', 'Ojaveda Road 2', '', '-430.10 13.05 94.20', 'none',
 		'Zinc Ore', 'Ojaveda Road 2', 'Ore', '320.47 37.14 262.47', 'none',
 
-		'Adorned Crate', 'Ojaveda', 'Chest', '-88 0 4', '2020-06-01'
+		'Adorned Crate', 'Ojaveda', 'Chest', '-88 0 4', '2020-06-01',
+
+		// the howling well
+		'Reinforced Chest', 'Howling Well', 'Chest', '143 0 203', '2020-06-01',
+		'Ancient Ash Brother Journal', 'Howling Well', 'Book', '143 0 204', '2020-06-01',
+		'The Journal of Magister Fallox', 'Howling Well', 'Book', '52 0 162', '2020-06-01',
+		'Nefas Dur Journal', 'Howling Well', 'Book', '40 0 146', '2020-06-01'
 		);
 
 		for($i = 0; $i < count($mapsItems_to_insert); $i += 5) {

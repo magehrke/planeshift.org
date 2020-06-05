@@ -12,20 +12,11 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-	/*
-        var scale = 10,
-        offsetX = 9500,
-        offsetY = 9900,
-        map = "/images/maps/map_howling_well.png",
-        rot = "cw",
-        layers = 1,
-        hiddenLayers = [];
-	*/
-        var scale = 10,
+        var scale = 20,
         offsetX = 0,
         offsetY = 0,
         map = "/images/maps/map_howling_well.png",
-        rot = false,
+        rot = "ccw",
         layers = 1,
         hiddenLayers = [];
     </script>
@@ -79,7 +70,7 @@
                                     <a href="#Boroz_Tolka" class="show" data-where="-34.88 24.05 -104.78" id="pin_Boroz_Tolka">Boroz Tolka</a> (1) -->
                                 <?php
 
-                                    $area = "howling well";
+                                    $area = "Howling Well";
 
                                     $path = $_SERVER['DOCUMENT_ROOT'];
                                     $path .= "/includes/maps_extract_info.inc.php";
