@@ -12,10 +12,10 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 20,
-        offsetX = 0,
-        offsetY = 0,
-        map = "/images/maps/map_howling_well.png",
+        var scale = 38,
+        offsetX = 9000,
+        offsetY = 1100,
+        map = "/images/maps/howling_well.png",
         rot = "ccw",
         layers = 1,
         hiddenLayers = [];
@@ -52,7 +52,7 @@
                             <td class="map_section">
                                 <h1>Map of the Howling Well</h1>
                                 <div id="myWrapper">
-                                    <canvas id="myCanvas" width="1000" height="1100">
+                                    <canvas id="myCanvas" width="1000" height="800">
                                         Your browser does not support canvas.
                                     </canvas>
                                 </div>
