@@ -172,7 +172,7 @@
 		'Gurrak Qualor', 'Gugrontid City', 1, 'none', '99.55 55.56 46.33', '', 1,
 		'Hakik Gheshd', 'Winch', 1, 'none', '71.12 -25.25 -519.25', '', 1,
 		'Hamel Warson', 'Hydlaa', 1, 'none', '-9.02 0.42 -185.70', '', 1,
-		'Harnquist', 'Hydlaa', 1, 'none', '-56.12 1.54 -154.17', '', 1,
+		'Harnquist', 'Hydlaa', 1, 'none', '-48 0 -164', '', 1,
 		'Havead Maronef', 'Ojaveda', 1, 'none', '-84.47 8.62 87.65', '', 1,
 		'Henas Kenar', 'Ojaveda', 1, 'none', '-126.83 4.06 121.05', '', 1,
 		'Hiacheius Dilechi', 'Bronze Doors Fortress', 1, 'none', '-93.81 96.36 -480.99', '', 1,
@@ -564,7 +564,7 @@
 			'Fountain', 'Hydlaa', '-0.85 2.42 -118.90', '',
 			'Gazebo', 'Hydlaa', '77.42 3.29 18.66', '',
 			'Smith Tools', 'Hydlaa', '-74.57 0.09 -149.85', '',
-			'Storage Provider', 'Hydlaa',  '-56 0 -154', '',
+			'Storage Provider', 'Hydlaa',  '-48 0 -164, -69 0 0', '',
 			'Tavern', 'Hydlaa', '-134.03 21.52 -81.42', '',
 			'To Arena', 'Hydlaa', '-102.30 -0.08 -143.68', '',
 			'To Bronze Door Road 1', 'Hydlaa', '-203.03 22.20 94.39', '',
@@ -605,6 +605,7 @@
 			'Winch Enterance', 'Sewers', '32.55 -6.66 -168.31', '',
 
 			'To Hydlaa', 'Winch', '40.91 -0.03 -208.35', '',
+			'Storage Provider', 'Winch', '10 0 -257', '',
 
 			// the howling well
 			'Entry/Exit', 'Howling Well', '148 0 3', ''
