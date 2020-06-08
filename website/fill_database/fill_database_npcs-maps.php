@@ -577,7 +577,7 @@
 
 			'Library', 'Hydlaa East', '175.54 11.30 -77.70', '',
 			'Market', 'Hydlaa East', '260 0 -130', '',
-			'Museum', 'Hydlaa East', '155 0 -180', '',
+			'Museum', 'Hydlaa East', '135 0 -185', '',
 			'Secret Garden', 'Hydlaa East', '211.19 -0.06 -155.53', '',
 			'Storage Provider', 'Hydlaa East',  '265 0 -110', '',
 			'To Courthouse', 'Hydlaa East', '154.63 3.31 -114.43', '',
