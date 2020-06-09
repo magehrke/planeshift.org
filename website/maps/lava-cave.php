@@ -12,10 +12,10 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 29,
+        var scale = 20,
         offsetX = 9500,
         offsetY = 9900,
-        map = "/images/maps/lava_cave.png",
+        map = "/images/maps/lava-cave.png",
         rot = "cw",
         layers = 1,
         hiddenLayers = [];
@@ -52,7 +52,7 @@
                             <td class="map_section">
                                 <h1>Map of the Lava Cave</h1>
                                 <div id="myWrapper">
-                                    <canvas id="myCanvas" width="1024" height="768">
+                                    <canvas id="myCanvas" width="1024" height="850">
                                         Your browser does not support canvas.
                                     </canvas>
                                 </div>
@@ -70,7 +70,7 @@
                                     <a href="#Boroz_Tolka" class="show" data-where="-34.88 24.05 -104.78" id="pin_Boroz_Tolka">Boroz Tolka</a> (1) -->
                                 <?php
 
-                                    $area = "lava cave";
+                                    $area = "Lava Cave";
 
                                     $path = $_SERVER['DOCUMENT_ROOT'];
                                     $path .= "/includes/maps_extract_info.inc.php";

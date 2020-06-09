@@ -477,6 +477,12 @@
 		'Zhaomal Shehan', 'Bronze Doors Fortress', 1, 'none', '-110.52 87.84 -447.59', '', 1,
 		'Zornatan Xiorad', 'Amdeneir', 1,'2018-03-04', '-29.44 46.22 19.02', '', 1,
 
+		// lava cave
+		'Fire Carcarass', 'Lava Cave', 1, '2020-06-01', '25 0 30', '', 1,
+		'Lavvar', 'Lava Cave', 1, '2020-06-01', '47 0 25', '', 1,
+		'Wild Pterosaur', 'Lava Cave', 1, '2020-06-01', '45 0 25', '', 1,
+		'Ghost Hand', 'Lava Cave', 1, '2020-06-01', '26 0 -74', '', 1,
+
 		// the howling well
 		'Ash Brother', 'Howling Well', 3, 'none', '60 0 175, 58 0 175, 56 0 175', '', 1,
 		'Consumer', 'Howling Well', 5, 'none', '160 0 55, 148 0 105, 187 0 127, 133 0 142, 65 0 115', '', 1,
@@ -748,6 +754,11 @@
 		'Zinc Ore', 'Ojaveda Road 2', 'Ore', '320.47 37.14 262.47', 'none',
 
 		'Adorned Crate', 'Ojaveda', 'Chest', '-88 0 4', '2020-06-01',
+
+		// lava cave
+		'Metal Chest', 'Lava Cave', 'Chest', '25 0 30', '2020-06-01',
+		'Jeweled Chest', 'Lava Cave', 'Chest', '26 0 -77', '2020-06-01',
+
 
 		// the howling well
 		'Reinforced Chest', 'Howling Well', 'Chest', '143 0 203', '2020-06-01',
