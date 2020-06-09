@@ -1,0 +1,39 @@
+package psqExecutables;
+
+import java.io.File;
+import questObjectsNeedReward.Quest;
+
+
+import main.PsqToObj;
+
+
+/*
+ * 
+ */
+
+
+class TestingPSQ {
+	
+	public static void main(String[] args) {	
+		
+		String filepath = "A Day Off.psquest";
+		
+		File f = new File(filepath);
+		String filename = f.getName();
+		String folder = f.getParent();
+		
+	       System.out.println("Working Directory = " + System.getProperty("user.dir"));
+
+		
+		System.out.println(folder);
+		
+		PsqToObj psq_to_obj = new PsqToObj();
+		Quest currQuest = psq_to_obj.parseQuestsDetails(filepath, filename);
+		main.ObjToPhp.createQuestDetailsFile(currQuest, folder);
+
+	}
+	
+	
+	
+}
+

@@ -1,0 +1,36 @@
+[Questname] A Day Off
+[NPC Name] Arion Fildar
+[Checkup] 2014-01-01
+[Authors] Dudu and Lele
+
+[Need] Nothing
+
+[To] Arion Fildar
+
+[NPC Internal] Hello, is there anything I can do for you?
+[NPC] Arion: Yes, there is something you can do for me.
+[NPC Narrate] -Arion looks uncomfortable.-
+[NPC] Arion: I promised to write out the apprenticeship agreement for the son of a friend of mine, and I need to know whether Jayose can spare me for a day.
+[NPC] Arion: Will you ask him?
+[NPC Internal] Yes, I can do that.
+[NPC] Arion: Then please hurry, I need to leave soon if I want to meet my friend on time.
+
+[To] Jayose
+
+[NPC Internal] Arion sent me to ask if you could spare him for the day…
+[NPC Narrate] -Jayose throws up his hands in frustration.-
+[NPC] Jayose: The first time Arion bothers to check with me before he scampers off, and he forgets that he ever asked me.
+[NPC] Jayose: That boy's brain might be filled with information in several languages, but so help me Talad, sometimes it's thicker than goujah fur.
+[NPC] Jayose: Just tell him, once again, that I can spare him.
+[NPC] Jayose: Goodbye, Sir.
+
+[To] Arion Fildar
+
+[NPC Internal] You had already gotten permission, Jayose can spare you today.
+[NPC Narrate] -Arion smiles a little.-
+[NPC] Arion: I thank you, Diaboli.
+[NPC] Arion: I cannot believe I forgot.
+[NPC] Arion: I might have some business with you once I return from the scribing.
+
+[Reward] [XP] 9400
+

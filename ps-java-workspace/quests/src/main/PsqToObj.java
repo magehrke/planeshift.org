@@ -38,8 +38,7 @@ public class PsqToObj {
 	 * A detailed description how these files have to look can soon be found somewhere.
 	 * @return
 	 */
-	public ArrayList<Quest> parseQuestsDetails() {
-		
+	public ArrayList<Quest> parseAllQuestsDetails() {
 		// In this Object we save all the quests,
 		// which we return in the end
 		ArrayList<Quest> quests = new ArrayList<Quest>();
@@ -67,151 +66,165 @@ public class PsqToObj {
 			
 			// Get the current quest file we are investigating
 			String currFileName = filenames.get(i);
-
-			// Create a new Quest Object
-			Quest currQuest = new Quest();
-						
-			// Here we save all the things that the NPC and you say during the quest
-			// It will be added to the quest object later
-			ArrayList<Questtext> questDetails = new ArrayList<Questtext>();
 			
-			ArrayList<String> rawQuestDetails = utilities.Helpfunctions.readLinesOfFile(utilities.Constants.PATHtoQUESTfiles + currFileName);
-			
-			// Check that some of the identifier are only present 1 time in the file
-			boolean hadQuestname = false;
-			boolean hadNpcName = false;
-			boolean hadCheckup = false;
-			boolean hadAuthors = false;
-			
-			 /* +++++++++++++++++++++++ PARSE THE LINES INTO OBJECTS +++++++++++++++++++++++ */
-			
-			for(int j = 0; j < rawQuestDetails.size(); j++) {
-				
-				String currLine = rawQuestDetails.get(j).trim();
-				
-				/* +++++++++++++++++++++++ DO NOTHING ++++++++++++++++++++++ */
-				
-				// SKIP, if the line is empty
-				if (currLine.isEmpty()) {
-					continue;
-				}
-				// Comments are just for people who read the .psquest file
-				else if(currLine.startsWith("[Comments]") || currLine.startsWith("[Comment]")) {
-					continue;
-				}
-				
-				/* ++++++++++++++++++ JUST ALLOWED 1 TIME ++++++++++++++++++ */
-
-				else if(currLine.startsWith("[Questname]")) {
-					currQuest.setQuestname(currLine.substring(12).trim());
-					if(hadQuestname) throwItentifierExistsException("[Questname]", currFileName, j, currLine);
-					else hadQuestname = true;
-				} else if(currLine.startsWith("[NPC Name]")) {
-					currQuest.setNpc(currLine.substring(11).trim());
-					if(hadNpcName) throwItentifierExistsException("[NPC Name]", currFileName, j, currLine);
-					else hadNpcName = true;
-				} else if(currLine.startsWith("[Checkup]")) {
-					if(currLine.length() > 10) {
-						currQuest.setCheckup(currLine.substring(10).trim());
-					}
-					if(hadCheckup) throwItentifierExistsException("[Checkup]", currFileName, j, currLine);
-					else hadCheckup = true;
-				} else if(currLine.startsWith("[Authors]")) {
-					currQuest.setAuthors(currLine.substring(9).trim());
-					if(hadAuthors) throwItentifierExistsException("[Authors]", currFileName, j, currLine);
-					else hadAuthors = true;
-				} 
-				
-				else if(currLine.startsWith("[Repeatable]")) {
-					if(currLine.substring(12).trim().toLowerCase().equals("yes"))
-						currQuest.setRepeatable(true);
-				}
-				
-				// Need
-				else if (currLine.startsWith("[Need]")) {
-					j = readNeeds(rawQuestDetails, currQuest, j, currLine);
-					continue;
-				} else if(currLine.startsWith("[Info]")) {
-					questDetails.add(new QuesttextInfo(currLine.substring(7)));
-				} else if(currLine.startsWith("[To]")) {
-					questDetails.add(new QuesttextTo(currLine.substring(5)));					
-				} else if(currLine.startsWith("[Give]")) {
-					try{
-						int semiIndex = currLine.indexOf(';');
-						String NPCgive = currLine.substring(7, semiIndex).trim();
-						/* TODO:  Check if +1 is correct, or if we have to use +2 for the following 3 occurences*/
-						currLine = currLine.substring(semiIndex + 1);
-						
-						ArrayList<Pair<Integer, String>> items = new ArrayList<Pair<Integer, String>>();
-						
-						while(currLine.contains(";")) {
-							int colIndex = currLine.indexOf(',');
-							semiIndex = currLine.indexOf(';');
-							Integer amount = Integer.parseInt(currLine.substring(0, colIndex).trim());
-							String item = currLine.substring(colIndex + 1, semiIndex).trim();
-							items.add(new Pair<Integer, String>(amount, item));
-							
-							currLine = currLine.substring(semiIndex+2);
-						}
-						int colIndex = currLine.indexOf(',');
-						Integer amount = Integer.parseInt(currLine.substring(0, colIndex).trim());
-						String item = currLine.substring(colIndex + 1).trim();
-						items.add(new Pair<Integer, String>(amount, item));
-						questDetails.add(new QuesttextGive("", NPCgive, items));
-					} catch (StringIndexOutOfBoundsException e) {
-						throw new StringIndexOutOfBoundsException(
-								"In the file \"" + currFileName + 
-								"\", the " + ++j + ". line (\"" + currLine + 
-								"\").\n\tReminder: The [Give]-Statement has the form \"NPC; amount, name; amount,name ...\"");
-					}
-					
-				} else if(currLine.startsWith("[Time]")) {
-					questDetails.add(new QuesttextTime(currLine.substring(7)));
-
-				/* ##### NPC ##### */
-				} else if(currLine.startsWith("[NPC]")) {
-					questDetails.add(new QuesttextNpc(currLine.substring(6)));
-					
-				} else if(currLine.startsWith("[NPC ME]")) {
-					questDetails.add(new QuesttextNpcMe(currLine.substring(9)));
-				} else if(currLine.startsWith("[NPC MY]")) {
-					questDetails.add(new QuesttextNpcMy(currLine.substring(9)));
-				} else if(currLine.startsWith("[NPC Internal]")) {	
-					questDetails.add(new QuesttextNpcInternal(currLine.substring(14).trim()));
-				} else if(currLine.startsWith("[NPC Narrate]")) {
-					questDetails.add(new QuesttextNpcNarrate(currLine.substring(13).trim()));
-				} else if(currLine.startsWith("[Possible Ways]")) {
-					questDetails.add(new QuesttextWaysHeadline(currLine.substring(15).trim()));
-				} else if(currLine.startsWith("[Way]")) {
-					questDetails.add(new QuesttextDiffWays(currLine.substring(5).trim()));
-					
-				/* ##### REWARDS ##### */
-				} else if (currLine.startsWith("[Reward]")) {
-						j = readRewards(rawQuestDetails, currQuest, j, currLine);
-				
-				/*
-				 * There shouldn't be anymore cases, except empty lines
-				 * But if, it shall throw an exception.
-				 */
-				} else if(! currLine.equals("")) {
-					throw new IllegalArgumentException(
-							"In the file \"" + currFileName + 
-							"\", the " + ++j + ". line (\"" + currLine + 
-							"\") cannot be parsed!");
-				}
-				
-				
-			}
-			
-			currQuest.setQuestDetails(questDetails);
+			String questFileFullPath = utilities.Constants.PATHtoQUESTfiles + currFileName;
+			Quest currQuest = parseQuestsDetails(questFileFullPath, currFileName);
 			quests.add(currQuest);
-		
-			
-			
 			
 		}
 		
 		return quests;
+	}
+	
+	public Quest parseQuestsDetails(String questFileFullPath, String currFileName) {
+		
+		// Create a new Quest Object
+		Quest currQuest = new Quest();
+					
+		// Here we save all the things that the NPC and you say during the quest
+		// It will be added to the quest object later
+		ArrayList<Questtext> questDetails = new ArrayList<Questtext>();
+		
+		ArrayList<String> rawQuestDetails = utilities.Helpfunctions.readLinesOfFile(questFileFullPath);
+		
+		
+			
+		// Check that some of the identifier are only present 1 time in the file
+		boolean hadQuestname = false;
+		boolean hadNpcName = false;
+		boolean hadCheckup = false;
+		boolean hadAuthors = false;
+		boolean hadRepeatable = false;
+		
+		 /* +++++++++++++++++++++++ PARSE THE LINES INTO OBJECTS +++++++++++++++++++++++ */
+		
+		for(int j = 0; j < rawQuestDetails.size(); j++) {
+			
+			String currLine = rawQuestDetails.get(j).trim();
+			
+			/* +++++++++++++++++++++++ DO NOTHING ++++++++++++++++++++++ */
+			
+			// SKIP, if the line is empty
+			if (currLine.isEmpty()) {
+				continue;
+			}
+			// Comments are just for people who read the .psquest file
+			else if(currLine.startsWith("[Comments]") || currLine.startsWith("[Comment]")) {
+				continue;
+			}
+			
+			/* ++++++++++++++++++ JUST ALLOWED 1 TIME ++++++++++++++++++ */
+
+			else if(currLine.startsWith("[Questname]")) {
+				currQuest.setQuestname(currLine.substring(11).trim());
+				if(hadQuestname) throwItentifierExistsException("[Questname]", currFileName, j, currLine);
+				else hadQuestname = true;
+			} else if(currLine.startsWith("[NPC Name]")) {
+				// TODO: Check if NPC exists
+				currQuest.setNpc(currLine.substring(10).trim());
+				if(hadNpcName) throwItentifierExistsException("[NPC Name]", currFileName, j, currLine);
+				else hadNpcName = true;
+			} else if(currLine.startsWith("[Checkup]")) {
+				// TODO: Does date needs a specific format? if so check for it
+				if(currLine.length() > 9) {
+					currQuest.setCheckup(currLine.substring(9).trim());
+				}
+				if(hadCheckup) throwItentifierExistsException("[Checkup]", currFileName, j, currLine);
+				else hadCheckup = true;
+			} else if(currLine.startsWith("[Authors]")) {
+				currQuest.setAuthors(currLine.substring(9).trim());
+				if(hadAuthors) throwItentifierExistsException("[Authors]", currFileName, j, currLine);
+				else hadAuthors = true;
+			} 
+			else if(currLine.startsWith("[Repeatable]")) {
+				if(currLine.substring(12).trim().toLowerCase().equals("yes"))
+					currQuest.setRepeatable(true);
+				if(hadRepeatable) throwItentifierExistsException("[Repeatable]", currFileName, j, currLine);
+				else hadRepeatable = true;
+			}
+
+			/* ++++++++++++++++++ ALLOWED MULTIPLE TIMES ++++++++++++++++++ */
+			// Need
+			else if (currLine.startsWith("[Need]")) {
+				// TODO: Save proof Needs
+				j = readNeeds(rawQuestDetails, currQuest, j, currLine);
+				continue;
+			} else if(currLine.startsWith("[Info]")) {
+				questDetails.add(new QuesttextInfo(currLine.substring(7)));
+			} else if(currLine.startsWith("[To]")) {
+				// TODO: Check if NPC exists
+				questDetails.add(new QuesttextTo(currLine.substring(5)));					
+			} else if(currLine.startsWith("[Give]")) {
+				try{
+					int semiIndex = currLine.indexOf(';');
+					String NPCgive = currLine.substring(7, semiIndex).trim();
+					/* TODO:  Check if +1 is correct, or if we have to use +2 for the following 3 occurences*/
+					currLine = currLine.substring(semiIndex + 1);
+					
+					ArrayList<Pair<Integer, String>> items = new ArrayList<Pair<Integer, String>>();
+					
+					while(currLine.contains(";")) {
+						int colIndex = currLine.indexOf(',');
+						semiIndex = currLine.indexOf(';');
+						Integer amount = Integer.parseInt(currLine.substring(0, colIndex).trim());
+						String item = currLine.substring(colIndex + 1, semiIndex).trim();
+						items.add(new Pair<Integer, String>(amount, item));
+						
+						currLine = currLine.substring(semiIndex+2);
+					}
+					int colIndex = currLine.indexOf(',');
+					Integer amount = Integer.parseInt(currLine.substring(0, colIndex).trim());
+					String item = currLine.substring(colIndex + 1).trim();
+					items.add(new Pair<Integer, String>(amount, item));
+					questDetails.add(new QuesttextGive("", NPCgive, items));
+				} catch (StringIndexOutOfBoundsException e) {
+					throw new StringIndexOutOfBoundsException(
+							"In the file \"" + currFileName + 
+							"\", the " + ++j + ". line (\"" + currLine + 
+							"\").\n\tReminder: The [Give]-Statement has the form \"NPC; amount, name; amount,name ...\"");
+				}
+				
+			} else if(currLine.startsWith("[Time]")) {
+				questDetails.add(new QuesttextTime(currLine.substring(7)));
+
+			/* ##### NPC ##### */
+			} else if(currLine.startsWith("[NPC]")) {
+				questDetails.add(new QuesttextNpc(currLine.substring(6)));
+				
+			} else if(currLine.startsWith("[NPC ME]")) {
+				questDetails.add(new QuesttextNpcMe(currLine.substring(9)));
+			} else if(currLine.startsWith("[NPC MY]")) {
+				questDetails.add(new QuesttextNpcMy(currLine.substring(9)));
+			} else if(currLine.startsWith("[NPC Internal]")) {	
+				questDetails.add(new QuesttextNpcInternal(currLine.substring(14).trim()));
+			} else if(currLine.startsWith("[NPC Narrate]")) {
+				questDetails.add(new QuesttextNpcNarrate(currLine.substring(13).trim()));
+			} else if(currLine.startsWith("[Possible Ways]")) {
+				questDetails.add(new QuesttextWaysHeadline(currLine.substring(15).trim()));
+			} else if(currLine.startsWith("[Way]")) {
+				questDetails.add(new QuesttextDiffWays(currLine.substring(5).trim()));
+				
+			/* +++++ REWARDS +++++ */
+			} else if (currLine.startsWith("[Reward]")) {
+					j = readRewards(rawQuestDetails, currQuest, j, currLine);
+			
+			/*
+			 * There shouldn't be anymore cases, except empty lines
+			 * But if, it shall throw an exception.
+			 */
+			} else if(! currLine.equals("")) {
+				throw new IllegalArgumentException(
+						"In the file \"" + currFileName + 
+						"\", the " + ++j + ". line (\"" + currLine + 
+						"\") cannot be parsed! Wrong identifier?");
+			}
+			
+			
+		}
+		
+		currQuest.setQuestDetails(questDetails);
+		return currQuest;
+		
 	}
 	
 	public void throwItentifierExistsException(String identifier, String currFileName, int j, String currLine) {

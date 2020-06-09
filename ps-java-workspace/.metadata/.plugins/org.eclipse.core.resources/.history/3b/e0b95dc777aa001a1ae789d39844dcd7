@@ -1,0 +1,24 @@
+package psqExecutables;
+
+import java.io.File;
+
+
+/*
+ * 
+ */
+
+
+class TestingPSQ {
+	
+	public static void main(String[] args) {	
+		
+		String filepath = "./A Day Off.psquest";
+		
+		File f = new File(filepath);
+		System.out.println(f.getName());
+	}
+	
+	
+	
+}
+

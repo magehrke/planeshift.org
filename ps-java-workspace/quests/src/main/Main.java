@@ -44,11 +44,11 @@ public class Main {
 		ObjToSql obj_to_sql = new ObjToSql();
 		
 		// Parses psq files into java objects
-		final ArrayList<Quest> quests = psq_to_obj.parseQuestsDetails();
+		final ArrayList<Quest> quests = psq_to_obj.parseAllQuestsDetails();
 		
 		/* ########### QUEST DETAILS ############ */
 		
-		obj_to_php.createQuestDetailsFiles(quests);
+		obj_to_php.createAllQUestDetailsFiles(quests);
 		System.out.println("Quest details Done!");
 		
 		/* GET OUTPUTFILE */
