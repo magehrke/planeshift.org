@@ -141,6 +141,7 @@
                     <li><a href="/maps/ojaveda-road-2.php#plain">Ojaveda Road 2</a></li>
                     <li><a href="/maps/sewers.php#plain">Sewers</a></li>
                     <li><a href="/maps/winch.php#plain">Winch</a></li>
+                    <li><a href="/maps/xalpys-cave.php#plain">Xalpys Cave</a></li>
                 </ul>
             </li>
 
