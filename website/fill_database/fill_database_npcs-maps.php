@@ -478,10 +478,10 @@
 		'Zornatan Xiorad', 'Amdeneir', 1,'2018-03-04', '-29.44 46.22 19.02', '', 1,
 
 		// lava cave
-		'Fire Carcarass', 'Lava Cave', 1, '2020-06-01', '24 0 28', '', 1,
-		'Lavvar', 'Lava Cave', 1, '2020-06-01', '46 0 23', '', 1,
-		'Wild Pterosaur', 'Lava Cave', 1, '2020-06-01', '44 0 23', '', 1,
-		'Ghost Hand', 'Lava Cave', 1, '2020-06-01', '25 0 -72', '', 1,
+		'Fire Carcarass', 'Lava Cave', 1, '2020-06-01', '25 0 31', '', 1,
+		'Lavvar', 'Lava Cave', 1, '2020-06-01', '47 0 26', '', 1,
+		'Wild Pterosaur', 'Lava Cave', 1, '2020-06-01', '45 0 26', '', 1,
+		'Ghost Hand', 'Lava Cave', 1, '2020-06-01', '26 0 -75', '', 1,
 
 		// the howling well
 		'Ash Brother', 'Howling Well', 3, 'none', '60 0 175, 58 0 175, 56 0 175', '', 1,
@@ -614,8 +614,8 @@
 			'Storage Provider', 'Winch', '10 0 -257', '',
 
 			// lava cave
-			'Entry/Exit', 'Lava Cave', '148 0 3', ''
-			'Exit', 'Lava Cave', '26 0 -74', ''
+			'Entry/Exit', 'Lava Cave', '46 0 70', '',
+			'Exit', 'Lava Cave', '27 0 -74', '',
 
 			// the howling well
 			'Entry/Exit', 'Howling Well', '148 0 3', ''
@@ -761,7 +761,7 @@
 
 		// lava cave
 		'Metal Chest', 'Lava Cave', 'Chest', '25 0 30', '2020-06-01',
-		'Jeweled Chest', 'Lava Cave', 'Chest', '25 0 -75', '2020-06-01',
+		'Jeweled Chest', 'Lava Cave', 'Chest', '26 0 -78', '2020-06-01',
 
 
 		// the howling well
