@@ -12,9 +12,9 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 20,
-        offsetX = 9500,
-        offsetY = 9900,
+        var scale = 24,
+        offsetX = 8350,
+        offsetY = 8400,
         map = "/images/maps/lava-cave.png",
         rot = "cw",
         layers = 1,
@@ -52,7 +52,7 @@
                             <td class="map_section">
                                 <h1>Map of the Lava Cave</h1>
                                 <div id="myWrapper">
-                                    <canvas id="myCanvas" width="1024" height="850">
+                                    <canvas id="myCanvas" width="1024" height="710">
                                         Your browser does not support canvas.
                                     </canvas>
                                 </div>

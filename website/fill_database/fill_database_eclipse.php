@@ -1096,6 +1096,7 @@
 		'Ineffective Affections', 0, 0, 'Item', 'Golden Ring', 1, null,
 		'Ineffective Affections', 0, 0, 'Money', null, 12440, null,
 		'Ineffective Affections', 0, 0, 'XP', null, 28600, null,
+		'Dark Wanderer wants the Messenger Bag', 0, 0, 'Item', 'Daemon glyph', 1, null,
 		'The Blue Way Adept', 0, 1, 'Item', 'Apprentice&apos;s Brown Way Staff', 1, null,
 		'The Blue Way Adept', 0, 2, 'Item', 'Apprentice&apos;s Crystal Way Staff', 1, null,
 		'The Blue Way Adept', 0, 3, 'Item', 'Pie', 1, null,
@@ -1896,7 +1897,7 @@ $mysqli->query($createTableMembers) or die($mysqli->error);
 	/* Insert quests-prequests data */
 	for($i = 0; $i < count($questsPreQuests_to_insert); $i += 3) {
 		$spellPrequest_query = "INSERT INTO questPrequests (quest, prequest, checkup)
-						VALUES ('" . $questsPreQuests_to_insert[$i] . "', '" . $questsPreQuests_to_insert[$i+1]
+						VALUES ('" . $questsPreQuests_to_insert[$i] . "', '" . $questsPreQuests_to_insert[$i+1] 
 						. "', '" . $questsPreQuests_to_insert[$i+1] . "')";
 		$mysqli->query($spellPrequest_query) or die($mysqli->error);
 	}
@@ -1925,7 +1926,7 @@ $mysqli->query($createTableMembers) or die($mysqli->error);
 	/* Insert quests-SkillRanks data */
 	for($i = 0; $i < count($questsPreSkillRanks_to_insert); $i += 4) {
 		$spellPreSkillRanks_query = "INSERT INTO questSkillRanks (quest, skill, rank, checkup)
-						VALUES ('" . $questsPreSkillRanks_to_insert[$i] . "', '" . $questsPreSkillRanks_to_insert[$i+1] . "', "
+						VALUES ('" . $questsPreSkillRanks_to_insert[$i] . "', '" . $questsPreSkillRanks_to_insert[$i+1] . "', " 
 						. $questsPreSkillRanks_to_insert[$i+2] . ", '" . $questsPreSkillRanks_to_insert[$i+3] . "')";
 		$mysqli->query($spellPreSkillRanks_query) or die($mysqli->error);
 	}
@@ -1933,6 +1934,6 @@ $mysqli->query($createTableMembers) or die($mysqli->error);
 
 	/* ########################################################################################## */
 
-
+	
 	/* close connection */
 	$mysqli->close();
