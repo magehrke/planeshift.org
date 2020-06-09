@@ -582,7 +582,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: Nothing.</td>
+						<td>Rewards: 1 Daemon glyph.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>
