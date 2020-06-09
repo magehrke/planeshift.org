@@ -12,9 +12,9 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 38,
-        offsetX = 9000,
-        offsetY = 1100,
+        var scale = 33,
+        offsetX = 6500,
+        offsetY = 80,
         map = "/images/maps/howling_well.png",
         rot = "ccw",
         layers = 1,
