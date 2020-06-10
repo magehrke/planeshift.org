@@ -193,7 +193,6 @@
             <li class="navigation_button_more">
             	More
                 <ul class="navigation_dropdown_menu">
-                    <li><a href="/more/stonehead-caves.php">Stonehead Caves</a></li>
 										<li><a href="/more/menitas-puzzle.php">Menita&apos;s Puzzle</a></li>
                </ul>
             </li>
