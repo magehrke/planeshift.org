@@ -31,9 +31,9 @@ public class Main {
 	 * @throws IOException
 	 *             If the file we want to write our content to, cannot be found.
 	 */
-	public static void main(String[] args) throws IOException {
-		
-		// TODO: Apparently if you just write "[Reward] [Item] Item-name" we get a leading whitespace. 
+	public static void main(String[] args) throws IOException, Exception {
+				
+		System.out.println("Reminder: Execute this file in the /ps-java-workspace/quests/ directory.\n");
 
 		/* ############### QUESTS ######################### */
 
@@ -49,7 +49,7 @@ public class Main {
 		/* ########### QUEST DETAILS ############ */
 		
 		obj_to_php.createAllQUestDetailsFiles(quests);
-		System.out.println("Quest details Done!");
+		System.out.println("Quest details Done! (All quest files have been rewritten).");
 		
 		/* GET OUTPUTFILE */
 
@@ -75,7 +75,7 @@ public class Main {
 
 		obj_to_sql.createSqlQuestRewardFile(bw, quests);
 
-		System.out.println("Quests overview/reward Done!");
+		System.out.println("Quests overview/reward Done! (\'fill_database_eclipse.php\').\n");
 
 
 		/* ############### Quest Requirements ###################### */
@@ -92,7 +92,8 @@ public class Main {
 		bw.close(); // close buffered writer
 
 		System.out.println("-----------------------------------------------");
-		System.out.println("CREATION of \'fill_database_eclipse.php\' Done!");
+		System.out.println("Upload fill_database_eclipse.php to the server.");
+		System.out.println("Upload the new .php quest files that you desire to the server.");
 	}
 
 	/**

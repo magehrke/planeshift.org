@@ -1,4 +1,4 @@
-[Questname] Taria's Courrier
+[Questname] Taria's Courier
 [NPC Name] Taria Prestis
 [Checkup] 2014-01-01
 [Authors] Dudu and Lele
@@ -59,4 +59,3 @@
 [NPC] Taria: Take them, as a token of thanks.
 
 [Reward] [Money] 1000; [XP] 8000; [Item] 1, Leather Arms Armor
-

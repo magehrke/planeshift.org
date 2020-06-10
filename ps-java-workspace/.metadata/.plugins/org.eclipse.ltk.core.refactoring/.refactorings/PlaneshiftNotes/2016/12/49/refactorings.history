@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;keyCode&apos; in &apos;main.Notifications.main(...)&apos; to &apos;keyForTraining&apos;&#x0D;&#x0A;- Original project: &apos;PlaneshiftNotes&apos;&#x0D;&#x0A;- Original element: &apos;main.Notifications.main(String[]).keyCode&apos;&#x0D;&#x0A;- Renamed element: &apos;keyCode&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;keyCode&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;main{Notifications.java[Notifications~main~\[QString;@keyCode!632!659!636!642!I!0!false" name="keyForTraining" references="true" stamp="1481065793636" version="1.0"/>
-</session>

@@ -65,7 +65,6 @@ public class ObjToPhp {
 		//### END: Create output filename ###
 
 		
-		System.out.println(filename);
 		//set the variable questName to the correct String again
 		questName = currQuest.getQuestname();
 		

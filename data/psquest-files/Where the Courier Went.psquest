@@ -1,4 +1,4 @@
-[Questname] Where the Courrier Went
+[Questname] Where the Courier Went
 [NPC Name] Londris Kolaim
 [Checkup] 2014-01-01
 [Authors] Dudu and Lele
@@ -107,4 +107,3 @@
 [NPC] Dark: And take this for your service.
 
 [Reward] [Money] 1000; [XP] 8000
-

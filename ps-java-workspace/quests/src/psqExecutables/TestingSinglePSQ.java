@@ -14,7 +14,7 @@ import main.PsqToObj;
 
 class TestingPSQ {
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 
 		String filepath = "src/psqExecutables/A Day Off.psquest";
 		String wdir = System.getProperty("user.dir");

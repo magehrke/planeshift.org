@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>learning Bow Making</title>
+	<title>Learning Bow Making</title>
 
 	<?php
 		$path = $_SERVER['DOCUMENT_ROOT'];
@@ -32,7 +32,7 @@
 					<table class="quest_main_table">
 
 					<tr class="quest_title">
-						<td>learning Bow Making</td>
+						<td>Learning Bow Making</td>
 					</tr>
 					<tr class="quest_emptyRow_afterTitle">
 						<td></td>

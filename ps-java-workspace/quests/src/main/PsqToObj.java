@@ -28,6 +28,8 @@ import questObjectsTextLines.QuesttextTo;
 import questObjectsTextLines.QuesttextWaysHeadline;
 import utilities.Pair;
 
+import java.util.Collections;
+import java.lang.Exception;
 public class PsqToObj {
 	
 	/**
@@ -38,7 +40,7 @@ public class PsqToObj {
 	 * A detailed description how these files have to look can soon be found somewhere.
 	 * @return
 	 */
-	public ArrayList<Quest> parseAllQuestsDetails() {
+	public ArrayList<Quest> parseAllQuestsDetails() throws Exception {
 		// In this Object we save all the quests,
 		// which we return in the end
 		ArrayList<Quest> quests = new ArrayList<Quest>();
@@ -59,6 +61,8 @@ public class PsqToObj {
 		    	String currFileName = listOfFiles[i].getName();
 		        filenames.add(currFileName);
 		}
+	    
+	    Collections.sort(filenames);
 		
 		// Iterate over all the quests
 		for(int i = 0; i < filenames.size(); i++) {
@@ -76,7 +80,15 @@ public class PsqToObj {
 		return quests;
 	}
 	
-	public Quest parseQuestsDetails(String questFileFullPath, String currFileName) {
+	public Quest parseQuestsDetails(String questFileFullPath, String currFileName) throws Exception {
+		
+		// Delete possible white spaces (user error)
+		currFileName = currFileName.trim();
+		
+		// Check if filename ends with .psquest
+		if(! currFileName.endsWith(".psquest")) {
+			throw new Exception("File '" + currFileName + "' does not have '.psquest' suffix.");
+		}
 		
 		// Create a new Quest Object
 		Quest currQuest = new Quest();
@@ -89,12 +101,12 @@ public class PsqToObj {
 		
 		
 			
-		// Check that some of the identifier are only present 1 time in the file
+		// Check that some of the identifier are exactly present 1 time in the file
 		boolean hadQuestname = false;
 		boolean hadNpcName = false;
 		boolean hadCheckup = false;
 		boolean hadAuthors = false;
-		boolean hadRepeatable = false;
+		boolean hadRepeatable = false; // Can be present 0 or 1 time
 		
 		 /* +++++++++++++++++++++++ PARSE THE LINES INTO OBJECTS +++++++++++++++++++++++ */
 		
@@ -116,19 +128,33 @@ public class PsqToObj {
 			/* ++++++++++++++++++ JUST ALLOWED 1 TIME ++++++++++++++++++ */
 
 			else if(currLine.startsWith("[Questname]")) {
-				currQuest.setQuestname(currLine.substring(11).trim());
+				// Check if there is only one line with [Questname]
 				if(hadQuestname) throwItentifierExistsException("[Questname]", currFileName, j, currLine);
 				else hadQuestname = true;
+				String questname = currLine.substring(11).trim();
+				// Check if filename is the same as Questname
+				if(! questname.contentEquals(currFileName.substring(0, currFileName.indexOf(".psquest")))) {
+					throw new Exception("Questname in '" + currFileName + "' does not equal filename.");
+				}
+				currQuest.setQuestname(questname);
 			} else if(currLine.startsWith("[NPC Name]")) {
-				// TODO: Check if NPC exists
-				currQuest.setNpc(currLine.substring(10).trim());
+				String npcname = currLine.substring(10).trim();
+				
+				//TODO: checkNpcExistenceOrThrowExc(npcname, currFileName, j, currLine);
+				
+				currQuest.setNpc(npcname);
 				if(hadNpcName) throwItentifierExistsException("[NPC Name]", currFileName, j, currLine);
 				else hadNpcName = true;
 			} else if(currLine.startsWith("[Checkup]")) {
-				// TODO: Does date needs a specific format? if so check for it
-				if(currLine.length() > 9) {
-					currQuest.setCheckup(currLine.substring(9).trim());
+				String date = currLine.substring(9).trim();
+				// Check correct date format
+				String regex = "^((19|20)\\d\\d)-(0?[1-9]|1[012])-(0?[1-9]|[12][0-9]|3[01])$";
+				if(! Pattern.matches(regex, date)) {
+					throw new Exception("In the file \"" + currFileName + 
+										"\", the " + ++j + ". line (\"" + currLine + 
+										"\"), the date is incorrect. Please provide a date in 'YYYY-MM-DD' format.");
 				}
+				currQuest.setCheckup(date);
 				if(hadCheckup) throwItentifierExistsException("[Checkup]", currFileName, j, currLine);
 				else hadCheckup = true;
 			} else if(currLine.startsWith("[Authors]")) {
@@ -137,8 +163,13 @@ public class PsqToObj {
 				else hadAuthors = true;
 			} 
 			else if(currLine.startsWith("[Repeatable]")) {
-				if(currLine.substring(12).trim().toLowerCase().equals("yes"))
+				String repeat = currLine.substring(12).trim().toLowerCase();
+				if(repeat.equals("yes"))
 					currQuest.setRepeatable(true);
+				else if(!repeat.equals("no"))
+					throw new Exception("In the file \"" + currFileName + 
+										"\", the " + ++j + ". line (\"" + currLine + 
+										"\"), [Repeatable] must either be yes or no.");
 				if(hadRepeatable) throwItentifierExistsException("[Repeatable]", currFileName, j, currLine);
 				else hadRepeatable = true;
 			}
@@ -146,20 +177,20 @@ public class PsqToObj {
 			/* ++++++++++++++++++ ALLOWED MULTIPLE TIMES ++++++++++++++++++ */
 			// Need
 			else if (currLine.startsWith("[Need]")) {
-				// TODO: Save proof Needs
 				j = readNeeds(rawQuestDetails, currQuest, j, currLine);
 				continue;
 			} else if(currLine.startsWith("[Info]")) {
-				questDetails.add(new QuesttextInfo(currLine.substring(7)));
+				questDetails.add(new QuesttextInfo(currLine.substring(6).trim()));
 			} else if(currLine.startsWith("[To]")) {
-				// TODO: Check if NPC exists
-				questDetails.add(new QuesttextTo(currLine.substring(5)));					
+				String npcname = currLine.substring(4).trim();
+				//TODO: checkNpcExistenceOrThrowExc(npcname, currFileName, j, currLine);
+				questDetails.add(new QuesttextTo(npcname));					
 			} else if(currLine.startsWith("[Give]")) {
+				String currLineBackup = currLine;
 				try{
 					int semiIndex = currLine.indexOf(';');
-					String NPCgive = currLine.substring(7, semiIndex).trim();
-					/* TODO:  Check if +1 is correct, or if we have to use +2 for the following 3 occurences*/
-					currLine = currLine.substring(semiIndex + 1);
+					String NPCgive = currLine.substring(6, semiIndex).trim();
+					currLine = currLine.substring(semiIndex + 1).trim();
 					
 					ArrayList<Pair<Integer, String>> items = new ArrayList<Pair<Integer, String>>();
 					
@@ -169,40 +200,60 @@ public class PsqToObj {
 						Integer amount = Integer.parseInt(currLine.substring(0, colIndex).trim());
 						String item = currLine.substring(colIndex + 1, semiIndex).trim();
 						items.add(new Pair<Integer, String>(amount, item));
-						
-						currLine = currLine.substring(semiIndex+2);
+						currLine = currLine.substring(semiIndex+1).trim();
 					}
+					
 					int colIndex = currLine.indexOf(',');
 					Integer amount = Integer.parseInt(currLine.substring(0, colIndex).trim());
 					String item = currLine.substring(colIndex + 1).trim();
 					items.add(new Pair<Integer, String>(amount, item));
 					questDetails.add(new QuesttextGive("", NPCgive, items));
-				} catch (StringIndexOutOfBoundsException e) {
+				} catch (Exception e) {
 					throw new StringIndexOutOfBoundsException(
-							"In the file \"" + currFileName + 
-							"\", the " + ++j + ". line (\"" + currLine + 
-							"\").\n\tReminder: The [Give]-Statement has the form \"NPC; amount, name; amount,name ...\"");
+							"\n\tWrong [Give] statement in file \"" + currFileName + 
+							"\", the " + ++j + ". line (\"" + currLineBackup + 
+							"\").\n\tReminder: The [Give]-Statement has the form " +
+							"\"[Give] npc-name; amount, item-name; amount, item-name; ...\"");
 				}
 				
 			} else if(currLine.startsWith("[Time]")) {
-				questDetails.add(new QuesttextTime(currLine.substring(7)));
+				// At the moment like info block: string will be taken and printed
+				questDetails.add(new QuesttextTime(currLine.substring(6).trim()));
 
 			/* ##### NPC ##### */
 			} else if(currLine.startsWith("[NPC]")) {
-				questDetails.add(new QuesttextNpc(currLine.substring(6)));
-				
+				questDetails.add(new QuesttextNpc(currLine.substring(5).trim()));
 			} else if(currLine.startsWith("[NPC ME]")) {
-				questDetails.add(new QuesttextNpcMe(currLine.substring(9)));
+				questDetails.add(new QuesttextNpcMe(currLine.substring(8).trim()));
 			} else if(currLine.startsWith("[NPC MY]")) {
-				questDetails.add(new QuesttextNpcMy(currLine.substring(9)));
+				questDetails.add(new QuesttextNpcMy(currLine.substring(8).trim()));
 			} else if(currLine.startsWith("[NPC Internal]")) {	
 				questDetails.add(new QuesttextNpcInternal(currLine.substring(14).trim()));
 			} else if(currLine.startsWith("[NPC Narrate]")) {
 				questDetails.add(new QuesttextNpcNarrate(currLine.substring(13).trim()));
 			} else if(currLine.startsWith("[Possible Ways]")) {
-				questDetails.add(new QuesttextWaysHeadline(currLine.substring(15).trim()));
+				String ways = currLine.substring(15).trim();
+				// Must be a number
+				if(! ways.matches("-?(0|[1-9]\\d*)")) {
+					throw new Exception(
+						"\n\tIn file \"" + currFileName + 
+						"\", the " + ++j + ". line (\"" + currLine + 
+						"\"), please provide only a number for [Possible Ways].");
+				}
+				questDetails.add(new QuesttextWaysHeadline(ways));
 			} else if(currLine.startsWith("[Way]")) {
-				questDetails.add(new QuesttextDiffWays(currLine.substring(5).trim()));
+				// Can be a number, a list of numbers separated by comma, or "All"
+				String way = currLine.substring(5).trim();
+				if(way.toLowerCase().equals("all")) {}
+				else {
+					if(! way.matches("[0-9, /,]+")) {
+						throw new Exception(
+								"\n\tIn file \"" + currFileName + 
+								"\", the " + ++j + ". line (\"" + currLine + 
+								"\"), please provide a number, a list of numbers separated by comma, or \"All\".");
+					}
+				}
+				questDetails.add(new QuesttextDiffWays(way));
 				
 			/* +++++ REWARDS +++++ */
 			} else if (currLine.startsWith("[Reward]")) {
@@ -222,9 +273,25 @@ public class PsqToObj {
 			
 		}
 		
+		// Check if we had the descriptive identifier in the file
+		if(!hadQuestname || !hadNpcName || !hadCheckup || !hadAuthors)
+			throw new Exception("In file '" + currFileName + "' at least one of the obligatory " +
+								"identifiers ([Quest Name], [NPC Name], [Checkup], [Authors]) " +
+								"is missing.");
+		
 		currQuest.setQuestDetails(questDetails);
 		return currQuest;
 		
+	}
+	
+	public void checkNpcExistenceOrThrowExc(String npcname, String currFileName, int j, String currLine) {
+		if(! utilities.Helpfunctions.doesNpcExist(npcname)) {
+			throw new IllegalArgumentException(
+					"In the file \"" + currFileName + 
+					"\", in the " + ++j + ". line (\"" + currLine + 
+					"\"), the NPC name '" + npcname + "' is incorrect " +
+					"or missing in the npc.csv file.");
+		}
 	}
 	
 	public void throwItentifierExistsException(String identifier, String currFileName, int j, String currLine) {
@@ -235,22 +302,22 @@ public class PsqToObj {
 				identifier + " already exists in another line!");
 	}
 	
-	public static int readNeeds(ArrayList<String> rawQuestDetails, Quest currQuest, int j, String currLine) {
+	public static int readNeeds(ArrayList<String> rawQuestDetails, Quest currQuest, int j, String currLine) throws Exception {
 		
 		currLine = currLine.substring(6).trim();
 
 		QuestNeedStandard needObject;
-		Pattern rewardLinePattern = Pattern.compile("\\[Need\\](?!\\s*\\[Way\\s*\\d+\\s*\\])(.*)");
-		Matcher rewardLineMatcher;
+		Pattern needLinePattern = Pattern.compile("\\[Need\\](?!\\s*\\[Way\\s*\\d+\\s*\\])(.*)");
+		Matcher needLineMatcher;
 
-		Pattern pattern = Pattern.compile("\\s*(\\[Way)\\s*(\\d+)\\s*(\\])(.*)");
-		Matcher matcher = pattern.matcher(currLine);
+		Pattern wayPattern = Pattern.compile("\\s*(\\[Way)\\s*(\\d+)\\s*(\\])(.*)");
+		Matcher wayMatcher = wayPattern.matcher(currLine);
 
-		if (matcher.find()) {
-			needObject = new QuestNeedWay(Integer.valueOf(matcher.group(2)));
-			currLine = matcher.group(4).trim();
+		if (wayMatcher.find()) {
+			needObject = new QuestNeedWay(Integer.valueOf(wayMatcher.group(2)));
+			currLine = wayMatcher.group(4).trim();
 			// System.out.println(currLine);
-			rewardLinePattern = Pattern.compile("\\[Need\\]\\s*\\[Way\\s*" + matcher.group(2) + "\\s*\\](.*)");
+			needLinePattern = Pattern.compile("\\[Need\\]\\s*\\[Way\\s*" + wayMatcher.group(2) + "\\s*\\](.*)");
 		} else {
 			needObject = new QuestNeedStandard();
 		}
@@ -265,26 +332,27 @@ public class PsqToObj {
 		 * 
 		 * We make sure that each reward line is concatenated with an semicolon.
 		 */
-		int otherRewardLines = 0;
+		int otherNeedLines = 0;
 
 		for (int k = j + 1; k < rawQuestDetails.size(); k++) {
 			String nextLine = rawQuestDetails.get(k);
 
-			rewardLineMatcher = rewardLinePattern.matcher(nextLine);
+			needLineMatcher = needLinePattern.matcher(nextLine);
 
-			if (rewardLineMatcher.find()) {
+			if (needLineMatcher.find()) {
+				// Add semicolon at end of line if it does not exist
 				if (!(currLine.substring(currLine.length() - 1).equals(";"))) {
 					currLine = currLine.concat(";");
 				}
-				currLine = currLine.concat(" ").concat(rewardLineMatcher.group(1).trim());
-				otherRewardLines += 1;
+				currLine = currLine.concat(" ").concat(needLineMatcher.group(1).trim());
+				otherNeedLines += 1;
 			} else {
 				break;
 			}
 		}
 		// We increase j, because we concatenated the following
 		// reward lines to the current line.
-		j += otherRewardLines;
+		j += otherNeedLines;
 
 		// If there is an OR statement, we need to save somewhere, which variant number
 		// the next rewards details object will get,
@@ -295,8 +363,8 @@ public class PsqToObj {
 		QuestNeedDetailsStandard need_details_std = new QuestNeedDetailsStandard();
 		QuestNeedDetailsStandard curr_need_details = need_details_std;
 
-		pattern = Pattern.compile("(.+?)(;|$|(?=\\[OR\\]|\\[OR End\\]|\\[OR Begin\\]))");
-		matcher = pattern.matcher(currLine.trim());
+		Pattern pattern = Pattern.compile("(.+?)(;|$|(?=\\[OR\\]|\\[OR End\\]|\\[OR Begin\\]))");
+		Matcher matcher = pattern.matcher(currLine.trim());
 
 		while (matcher.find()) {
 			String element = matcher.group(1).trim();
@@ -361,8 +429,10 @@ public class PsqToObj {
 			} else if (element.startsWith("[Special]")) {
 				curr_need_details.addSpecial(element.substring(9).trim());
 			} else {
-				System.out.println("ERROR: The element '" + element
-						+ "' in the need section has no tag ('[..]') at the beginning (" + currQuest.getQuestname() + ").");
+				throw new Exception(
+						"In file " + currQuest.getQuestname() + ".psquest in line " +
+						j + " the Element " + element + " cannot be parsed." +
+						"\n\tAllowed tags are: Winch, Quest, Money, Item, Skill, Special");
 			}
 
 			if (element.endsWith("[OR End]")) {
@@ -378,9 +448,9 @@ public class PsqToObj {
 			curr_need_details = need_details_std;
 		}
 
-		needObject.addNeedDetails(curr_need_details);
 
-		// Add the rewards object to the quest object
+		// Add the need object to the quest object
+		needObject.addNeedDetails(curr_need_details);
 		currQuest.addNeed(needObject);
 
 		return j;
@@ -395,7 +465,7 @@ public class PsqToObj {
 	 * @return The new index for the for-loop of the lines of the quest file. We
 	 *         read all the reward lines of the quest at once.
 	 */
-	public static int readRewards(ArrayList<String> rawQuestDetails, Quest currQuest, int j, String currLine) {
+	public static int readRewards(ArrayList<String> rawQuestDetails, Quest currQuest, int j, String currLine) throws Exception {
 		currLine = currLine.substring(8).trim();
 		
 		QuestRewardsWayStandard rewardObject;
@@ -538,8 +608,10 @@ public class PsqToObj {
 				curr_rew_details.addSpecial(element.substring(9).trim());
 				
 			} else {
-				System.out.println("ERROR: The element '" + element
-						+ "' in the reward section has no tag ('[..]') at the beginning (" + currQuest.getQuestname() + ").");
+				throw new Exception(
+						"In file " + currQuest.getQuestname() + ".psquest in line " +
+						j + " the Element " + element + " cannot be parsed." +
+						"\n\tAllowed tags are: Money, XP, Faction, Item, Skill, Combat Move, Special");
 			}
 
 			if (element.endsWith("[OR End]")) {

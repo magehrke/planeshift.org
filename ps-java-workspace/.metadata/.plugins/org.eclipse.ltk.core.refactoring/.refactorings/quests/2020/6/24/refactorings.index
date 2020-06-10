@@ -1,1 +1,3 @@
-1591722531553	Rename package 'creatingPSQ'
+1591788141597	Rename local variable 'otherRewardLines'
+1591788167713	Rename local variable 'rewardLinePattern'
+1591788180819	Rename local variable 'rewardLineMatcher'

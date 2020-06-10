@@ -33,6 +33,11 @@ public class Helpfunctions {
 		 return npcs;
 	}
 	
+	public static boolean doesNpcExist(String npcname) {
+		ArrayList<String> npcs = utilities.Helpfunctions.getNamesOfNpcPeople();
+		return npcs.contains(npcname);
+	}
+	
 	public static ArrayList<String> readLinesOfFile(String filename) {
 	
 		ArrayList<String> fileLines = new ArrayList<String>();

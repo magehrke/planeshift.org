@@ -43,7 +43,7 @@ public class ObjToSql {
 				if(! currQuest.getCheckup().equals("")) {
 					sb.append(utilities.Helpfunctions.checkString(currQuest.getCheckup()));
 				} else {
-					sb.append("TBD");
+					sb.append("2000-01-01");
 				}
 				
 				//last iteration, we don't need a comma at the end
