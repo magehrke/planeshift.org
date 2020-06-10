@@ -49,7 +49,7 @@ consists of one or two words, which are enclosed by brackets.
 
 # Identifiers at the Beginning
 
-### [Comments]
+### [Comment] or [Comments]
 - Will not be displayed on the website
 - Use to write notes for yourself or other people
 - E.g. note what still has to be done
