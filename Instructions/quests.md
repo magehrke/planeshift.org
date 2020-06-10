@@ -8,13 +8,11 @@
 - There is a how to, which can be found online
 
 
-### java psquest check
-- I want to provide a way, how one can easily check, if a psquest file is correct
-- There shall be some output, when an error occurs
-- IN WORK
-
 ### java
 - After a change in a psquest file, the java program needs to be executed
+  - You need java to be installed on your machine
+  - Navigate in your terminal to the `ps-java-workspace/quests/` folder
+  - Now execute `java -jar quest-conversion.jar`
 - Everytime the java program is executed
   - it takes all `psquest` files and creates html/php files for each quest
   - those are output into `website/quests/quest-details/`
