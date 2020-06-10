@@ -51,6 +51,7 @@
                         <tr>
                             <td class="map_section">
                                 <h1>Map of the Lava Cave</h1>
+				To exit the secret chamber use the crystals on the wall.
                                 <div id="myWrapper">
                                     <canvas id="myCanvas" width="1024" height="710">
                                         Your browser does not support canvas.
