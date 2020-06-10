@@ -483,6 +483,17 @@
 		'Wild Pterosaur', 'Lava Cave', 1, '2020-06-01', '45 0 26', '', 1,
 		'Ghost Hand', 'Lava Cave', 1, '2020-06-01', '26 0 -75', '', 1,
 
+		// xalpys cave
+		'Mudober ', 'Xalpys Cave', 4, '2020-06-01', '-4 0 0, -27 0 -28, 24 0 -74, 53 0 -46', '', 1,
+		'Flayed Velnishi', 'Xalpys Cave', 2, '2020-06-01', '26 0 -75, 43 0 -93', '', 1,
+		'Frost Arangma ', 'Xalpys Cave', 4, '2020-06-01', '4 0 28, -23 0 -28, 31 0 -67,	48 0 -43', '', 1,
+		'Sand Arangma ', 'Xalpys Cave', 2, '2020-06-01', '41 0 -53, -49 0 -26', '', 1,
+		'Thunder Clacker ', 'Xalpys Cave', 2, '2020-06-01', '55 0 -67, -31 0 5', '', 1,
+		'Velnishi', 'Xalpys Cave', 6, '2020-06-01', '-18 0 12, 8 0 -16, 31 0 -25, 31 0 -48, 23 0 -91, -31 0 -56', '', 1,
+		'Vesper Arangma ', 'Xalpys Cave', 2, '2020-06-01', '41 0 -79, 41 0 -83', '', 1,
+		'Weaver Arangma ', 'Xalpys Cave', 1, '2020-06-01', '-18 0 -5, 10 0 -13, 31 0 -42, 31 0 -37', '', 1,
+		'Xalpalock ', 'Xalpys Cave', 1, '2020-06-01', '-31 0 3', '', 1,
+
 		// the howling well
 		'Ash Brother', 'Howling Well', 3, 'none', '60 0 175, 58 0 175, 56 0 175', '', 1,
 		'Consumer', 'Howling Well', 5, 'none', '160 0 55, 148 0 105, 187 0 127, 133 0 142, 65 0 115', '', 1,
@@ -612,6 +623,9 @@
 
 			'To Hydlaa', 'Winch', '40.91 -0.03 -208.35', '',
 			'Storage Provider', 'Winch', '10 0 -257', '',
+
+			// xalpys cave
+			'Entry/Exit', 'Xalpys Cave', '10 0 10', '',
 
 			// lava cave
 			'Entry/Exit', 'Lava Cave', '46 0 70', '',
@@ -758,14 +772,19 @@
 		'Zinc Ore', 'Ojaveda Road 2', 'Ore', '320.47 37.14 262.47', 'none',
 
 		'Adorned Crate', 'Ojaveda', 'Chest', '-88 0 4', '2020-06-01',
+		'Hardened Crate', 'Dungeon', 'Chest', '-178 0 3', '2020-06-01',
+		'Hardened Crate', 'Bronze Doors Fortress', 'Chest', '-7 0 -580', '2020-06-01', // estimated, check with '/pos'
 
 		// lava cave
 		'Metal Chest', 'Lava Cave', 'Chest', '25 0 30', '2020-06-01',
 		'Jeweled Chest', 'Lava Cave', 'Chest', '26 0 -78', '2020-06-01',
 
+		// xalpys cave
+		'Ancient Chest', 'Xalpys Cave', 'Chest', '28 0 15', '2020-06-01',
 
 		// the howling well
 		'Reinforced Chest', 'Howling Well', 'Chest', '143 0 203', '2020-06-01',
+		'Adorned Crate', 'Howling Well', 'Chest', '58 0 175', '2020-06-01',
 		'Ancient Ash Brother Journal', 'Howling Well', 'Book', '143 0 204', '2020-06-01',
 		'The Journal of Magister Fallox', 'Howling Well', 'Book', '52 0 162', '2020-06-01',
 		'Nefas Dur Journal', 'Howling Well', 'Book', '40 0 146', '2020-06-01'

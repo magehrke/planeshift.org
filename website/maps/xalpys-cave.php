@@ -70,7 +70,7 @@
                                     <a href="#Boroz_Tolka" class="show" data-where="-34.88 24.05 -104.78" id="pin_Boroz_Tolka">Boroz Tolka</a> (1) -->
                                 <?php
 
-                                    $area = "Xylpys Cave";
+                                    $area = "Xalpys Cave";
 
                                     $path = $_SERVER['DOCUMENT_ROOT'];
                                     $path .= "/includes/maps_extract_info.inc.php";
