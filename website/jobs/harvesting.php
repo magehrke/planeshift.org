@@ -9,7 +9,7 @@
         include($path);
     ?>
 
-    <link href="/styles/harvesting.css" type="text/css" rel="stylesheet" />
+    <link href="/styles/table.css" type="text/css" rel="stylesheet" />
 
     <!-- script for sorting tables -->
     <script src="/js/sorttable.js"></script>

@@ -24,6 +24,11 @@
     $path = $_SERVER['DOCUMENT_ROOT'];
     $path .= "/fill_database/fill_database_glyphs-spells-magic.php";
     include($path);
+
+    $path = $_SERVER['DOCUMENT_ROOT'];
+    $path .= "/fill_database/fill_database_recipes.php";
+    include($path);
+
 ?>
 
 <!doctype html>
