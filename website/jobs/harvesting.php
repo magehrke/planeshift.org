@@ -77,7 +77,7 @@
                 	<!-- Content section -->
 				</div>
 
-				<table class='mines_main_table sortable hovableTable'>
+				<table class='main_table sortable hovableTable'>
 				<tr><th>Plant</th><th>Location</th></tr>
 				<?php
 				$q = "SELECT * FROM mapsItems WHERE category like 'Plants%' ORDER BY name,area";
