@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+/* Author Huarwar Eruera */
+/* Kingdom of Valour */
+
+.main_table {
+	width: 100%;
+	height: auto;
+	padding-top: 0px;
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-bottom: 10px;
+
+}
+
+.main_table th {
+	width: 200px;
+}
+
+.main_table img {
+	height: 30px;
+}
