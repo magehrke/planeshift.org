@@ -17,6 +17,10 @@
 	width: 200px;
 }
 
+.main_table td {
+	vertical-align: text-top;
+}
+
 .main_table img {
 	height: 30px;
 }
