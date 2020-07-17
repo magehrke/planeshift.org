@@ -1,3 +1,11 @@
+<?php
+include ( $_SERVER['DOCUMENT_ROOT'] . "/includes/tools.php" );
+$fn = array (
+	'plant'
+);
+$pval = array ();
+post2pval ( $fn, $pval );
+?>
 <!doctype html>
 <html>
 <head>
@@ -28,10 +36,11 @@
 			<?php
 			$path = $_SERVER['DOCUMENT_ROOT'];
 			$path .= "/header_and_navigation.php";
-                  	include($path);
-                	?>
-
-                	<div id="content_main_container">
+			include($path);
+			if ( $pval['plant'] == "" )
+			{
+			?>
+				<div id="content_main_container">
 				<div class="harvesting_content_main_div">
 					<h1>Harvesting</h1>
 					<p style="font-style: italic;">Identifying and collecting various plants.</p>
@@ -72,15 +81,20 @@
 						<li>Starting at 40, every 20 levels, the quantity is increased by 1.</li>
 					</ul>
 					</p>
-
-
                 	<!-- Content section -->
 				</div>
+
+				<?php } ?>
 
 				<table class='main_table sortable hovableTable'>
 				<tr><th>Plant</th><th>Location</th></tr>
 				<?php
-				$q = "SELECT * FROM mapsItems WHERE category like 'Plants%' ORDER BY name,area";
+				$q = "SELECT * FROM mapsItems WHERE category like 'Plants%'";
+				if ( $pval['plant'] != "" )
+				{
+					$q .= " AND name='".$pval['plant']."'";
+				}
+				$q .= " ORDER BY name,area";
 				$plants = $mysqli->query($q) or die(mysql_error());
 				while($p = $plants->fetch_array())
 				{

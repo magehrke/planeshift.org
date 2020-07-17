@@ -1,3 +1,12 @@
+<?php
+include ( $_SERVER['DOCUMENT_ROOT'] . "/includes/tools.php" );
+$fn = array (
+	'item'
+);
+$pval = array ();
+post2pval ( $fn, $pval );
+?>
+
 <!doctype html>
 <html>
 <head>
@@ -45,8 +54,12 @@
 
                         <!-- NPCs Tabelle füllen -->
                         <?php
-                            $abfrage = "SELECT DISTINCT name, category FROM items";
-                            $get_item_name_category = $mysqli->query($abfrage) or die(mysql_error());
+                            $q = "SELECT DISTINCT name, category FROM items";
+							if ( $pval['item'] != "" )
+							{
+								$q .= " WHERE name='".$pval['item']."'";
+							}
+                            $get_item_name_category = $mysqli->query($q) or die(mysql_error());
 
 
                             while($item_name_category = $get_item_name_category->fetch_array()) {
