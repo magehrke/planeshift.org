@@ -65,8 +65,12 @@
 	$mysqli->query($q) or die($mysqli->error);
 	foreach ($books as $name => $quest)
 	{
-		$q = "INSERT INTO crafting_books
-		  VALUES (\"$name\",\"$quest\")";
+		$q = "INSERT INTO crafting_books VALUES
+			(
+			\"".str_replace ( "'", "&apos;", $name )."\",
+			\"".$quest."\"
+			)
+		";
 		$mysqli->query($q) or die ( $mysqli->error );
 	}
 
@@ -78,9 +82,10 @@
 	 * B = buy from merchant
 	 * C = crafted
 	 * L = looted
+	 * M = mined
 	 *
 	 * type is an abbreviation:
-	 * I = ingredient
+	 * I = ingredient (intermediate preparation)
 	 * P = preparation
 	 */
 	/* ########################################################################################## */
@@ -1315,7 +1320,7 @@
 		),
 		"Mixed Rat Foot" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, C 1 Ground Rat Foot",
+			"ingredient"	=> "B 1 Spirit, C 1 Ground Rat Foot",
 			"result"	=> 1,
 			"tool"		=> "Preparation Table",
 			"skill"		=> "Alchemy",
@@ -1324,7 +1329,7 @@
 		),
 		"Mixed Clacker Leg" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, C 1 Powdered Clacker Leg",
+			"ingredient"	=> "B 1 Spirit, C 1 Powdered Clacker Leg",
 			"result"	=> 1,
 			"tool"		=> "Preparation Table",
 			"skill"		=> "Alchemy",
@@ -1333,7 +1338,7 @@
 		),
 		"Mixed Thunder Clacker Leg" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, C 1 Ground Clacker Leg",
+			"ingredient"	=> "B 1 Spirit, C 1 Ground Clacker Leg",
 			"result"	=> 1,
 			"tool"		=> "Preparation Table",
 			"skill"		=> "Alchemy",
@@ -1342,7 +1347,7 @@
 		),
 		"Mixed Consumer Leg" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, C 1 Powdered Consumer Leg",
+			"ingredient"	=> "B 1 Spirit, C 1 Powdered Consumer Leg",
 			"result"	=> 1,
 			"tool"		=> "Preparation Table",
 			"skill"		=> "Alchemy",
@@ -1387,7 +1392,7 @@
 		),
 		"Ground Rat Foot" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Rat Foot",
+			"ingredient"	=> "L 1 Rat Foot",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -1396,7 +1401,7 @@
 		),
 		"Ground Serpent Gobble Bone" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Serpent Gobble Bone",
+			"ingredient"	=> "L 1 Serpent Gobble Bone",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -1405,7 +1410,7 @@
 		),
 		"Ground Thunder Clacker Leg" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Thunder Clacker Leg",
+			"ingredient"	=> "L 1 Thunder Clacker Leg",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -1414,7 +1419,7 @@
 		),
 		"Ground Thunder Clacker Tentacle" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Thunder Clacker Tentacle",
+			"ingredient"	=> "L 1 Thunder Clacker Tentacle",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -1423,7 +1428,7 @@
 		),
 		"Ground Trepor Warrior Talon" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Trepor Warrior Talon",
+			"ingredient"	=> "L 1 Trepor Warrior Talon",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -1432,7 +1437,7 @@
 		),
 		"Ground Trepor Wiggly Feeler" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Trepor Wiggly Feeler",
+			"ingredient"	=> "L 1 Trepor Wiggly Feeler",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -1441,7 +1446,7 @@
 		),
 		"Ground Vesper Arangma Feeler" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Vesper Arangma Feeler",
+			"ingredient"	=> "L 1 Vesper Arangma Feeler",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -1450,7 +1455,7 @@
 		),
 		"Ground Wrath Rat Bone" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Wrath Rat Bone",
+			"ingredient"	=> "L 1 Wrath Rat Bone",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -1459,7 +1464,7 @@
 		),
 		"Incinerated Arangma Talon" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Arangma Talon",
+			"ingredient"	=> "L 1 Arangma Talon",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -1468,7 +1473,7 @@
 		),
 		"Incinerated Flayed Velnishi Talon" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Flayed Velnishi Talon",
+			"ingredient"	=> "L 1 Flayed Velnishi Talon",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -1477,7 +1482,7 @@
 		),
 		"Incinerated Jade Clacker Talon" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Jade Clacker Talon",
+			"ingredient"	=> "L 1 Jade Clacker Talon",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -1486,7 +1491,7 @@
 		),
 		"Incinerated Maulberlord Talon" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Maulberlord Talon",
+			"ingredient"	=> "L 1 Maulberlord Talon",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -1495,7 +1500,7 @@
 		),
 		"Incinerated Maulberlord Perfect Talon" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Maulberlord Perfect Talon",
+			"ingredient"	=> "L 1 Maulberlord Perfect Talon",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -1504,7 +1509,7 @@
 		),
 		"Incinerated Maulbernaut Talon" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Maulbernaut Talon",
+			"ingredient"	=> "L 1 Maulbernaut Talon",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -1513,7 +1518,7 @@
 		),
 		"Incinerated Maulbernaut Perfect Talon" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Maulbernaut Perfect Talon",
+			"ingredient"	=> "L 1 Maulbernaut Perfect Talon",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -1522,7 +1527,7 @@
 		),
 		"Incinerated Tefusang Claw" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Tefusang Claw",
+			"ingredient"	=> "L 1 Tefusang Claw",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -1531,7 +1536,7 @@
 		),
 		"Incinerated Tefusangling Claw" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Tefusangling Claw",
+			"ingredient"	=> "L 1 Tefusangling Claw",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -1540,7 +1545,7 @@
 		),
 		"Incinerated Velnishi Talon" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Velnishi Talon",
+			"ingredient"	=> "L 1 Velnishi Talon",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
@@ -2008,7 +2013,7 @@
 		),
 		"Powdered Clacker Leg" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Clacker Leg",
+			"ingredient"	=> "L 1 Clacker Leg",
 			"result"	=> 1,
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
@@ -2017,7 +2022,7 @@
 		),
 		"Powdered Consumer Antenna" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Consumer Antenna",
+			"ingredient"	=> "L 1 Consumer Antenna",
 			"result"	=> 1,
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
@@ -2026,7 +2031,7 @@
 		),
 		"Powdered Consumer Leg" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Consumer Leg",
+			"ingredient"	=> "L 1 Consumer Leg",
 			"result"	=> 1,
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
@@ -2044,7 +2049,7 @@
 		),
 		"Powdered Copper Ore" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Copper Ore",
+			"ingredient"	=> "M 1 Copper Ore",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -2053,7 +2058,7 @@
 		),
 		"Powdered Diamond" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Diamond",
+			"ingredient"	=> "M 1 Diamond Crystal",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -2062,7 +2067,7 @@
 		),
 		"Powdered Emerald" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Emerald",
+			"ingredient"	=> "M 1 Emerald Crystal",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -2080,7 +2085,7 @@
 		),
 		"Powdered Iron Ore" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Iron Ore",
+			"ingredient"	=> "M 1 Iron Ore",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -2089,7 +2094,7 @@
 		),
 		"Powdered Ruby" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Ruby",
+			"ingredient"	=> "M 1 Ruby Crystal",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -2098,7 +2103,7 @@
 		),
 		"Powdered Sapphire" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Sapphire",
+			"ingredient"	=> "M 1 Sapphire Crystal",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -2116,7 +2121,7 @@
 		),
 		"Powdered Silver Ore" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Silver Ore",
+			"ingredient"	=> "M 1 Silver Ore",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -2134,7 +2139,7 @@
 		),
 		"Powdered Tin Ore" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Tin Ore",
+			"ingredient"	=> "M 1 Tin Ore",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -2152,7 +2157,7 @@
 		),
 		"Powdered Zinc Ore" => array (
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Zinc Ore",
+			"ingredient"	=> "M 1 Zinc Ore",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -2251,7 +2256,7 @@
 		),
 		"Mixed Rat Eye" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, H 2 Rat Eye",
+			"ingredient"	=> "B 1 Spirit, L 2 Rat Eye",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
@@ -2260,7 +2265,7 @@
 		),
 		"Mixed Coamti Eye" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, H 2 Coamti Eye",
+			"ingredient"	=> "B 1 Spirit, L 2 Coamti Eye",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
@@ -2269,7 +2274,7 @@
 		),
 		"Mixed Vesper Arangma Eye" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, H 2 Vesper Arangma Eye",
+			"ingredient"	=> "B 1 Spirit, L 2 Vesper Arangma Eye",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
@@ -2278,7 +2283,7 @@
 		),
 		"Mixed Wrath Rat Eye" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, H 2 Wrath Rat Eye",
+			"ingredient"	=> "B 1 Spirit, L 2 Wrath Rat Eye",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
@@ -2737,7 +2742,7 @@
 		),
 		"Mix of Thunder Clacker Tentacle" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 2 Spirit, C 1 Ground Thunder Clacker Tentacle",
+			"ingredient"	=> "B 2 Spirit, C 1 Ground Thunder Clacker Tentacle",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
@@ -2746,7 +2751,7 @@
 		),
 		"Mix of Vesper Arangma Feeler" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, C 2 Ground Vesper Arangma Feeler",
+			"ingredient"	=> "B 1 Spirit, C 2 Ground Vesper Arangma Feeler",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
@@ -2755,7 +2760,7 @@
 		),
 		"Mix of Consumer Antenna" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spirit, C 1 Powdered Consumer Antenna",
+			"ingredient"	=> "B 1 Spirit, C 1 Powdered Consumer Antenna",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
@@ -2773,7 +2778,7 @@
 		),
 		"Mix of Trepor Wiggly Feeler" => array (
 			"type"		=> "I",
-			"ingredient"	=> "C 2 Spirit, C 1 Ground Trepor Wiggly Feeler",
+			"ingredient"	=> "B 2 Spirit, C 1 Ground Trepor Wiggly Feeler",
 			"result"	=> 1,
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
@@ -2871,7 +2876,7 @@
 	{
 		$q = "INSERT INTO recipes
 		VALUES (
-			\"$name\",
+			\"".str_replace ( "'", "&apos;", $name )."\",
 			\"".$vals["type"]."\",
 			\"".$vals["ingredient"]."\",
 			\"".$vals["result"]."\",
