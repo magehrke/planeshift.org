@@ -47,7 +47,7 @@
     ?>
         <!-- Display Guild logo on the top left -->
         <div id="main_page_logo_container">
-            <a href="/">
+            <a href="/init.php">
                 <img id="main_page_logo" src="/images/guildlogo-500px.png">
             </a>
         </div>
