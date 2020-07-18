@@ -10,31 +10,16 @@ $fn = array (
 	'skill',	// list only recipes of this skill
 	'book',		// list only recipes in this book
 	'type',		// list all recipes
-	'recipe'	// show recipe details
+	'recipe',	// show recipe details
+	'id',		// show recipe of this id
+	'resolve'	// resolve all recipe ingredients
 );
 $pval = array ();
 post2pval ( $fn, $pval );
 if ( $pval['type'] == "" )
 	$pval['type'] = "P";
 
-function href ( $name, $url, $param )
-{
-	?>
-	<a href="<?php print $url.$param; ?>"><?php print $name; ?></a>
-	<?php
-}
-
-function add_url_param ( $url, $param )
-{
-	$u = $url;
-	if ($u[0] == "?")
-		$u.= "&".$param;
-	else
-		$u.= "?".$param;
-	return $u;
-}
-
-function resolve_recipe ( $recipe_name )
+function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 {
 	global $mysqli;
 
@@ -42,14 +27,19 @@ function resolve_recipe ( $recipe_name )
 		SELECT * FROM recipes WHERE
 		name=\"".$recipe_name."\"
 	";
+	if ( ( $pval['id'] != "" ) && ( $id_only == true ) )
+	{
+		$q .= " AND id='".$pval['id']."'";
+	}
+	$q .= "
+		ORDER BY name
+	";
 	$recipe = $mysqli->query ($q);
 	if ( $recipe->num_rows == 0 )
 	{
 		print "<tr><td colspan='6'>";
-		print "<span style='background-color: #FF5555'>";
-		print "$recipe_name: no recipe found!";
-//		print "<br>q: $q<br>error: ".$mysqli->error."<br>";
-		print "</span>";
+		print "<mark>$recipe_name: no recipe found!</mark>";
+		print "q: $q";
 		print "</td></tr>\n";
 		return;
 	}
@@ -58,20 +48,28 @@ function resolve_recipe ( $recipe_name )
 		$ingredients = explode (",", $r['ingredient']);
 		$count = 0;
 		$ing   = "";
+		$id = $r['id'];
+		if ( in_array ( $id, $ids ) )
+			return;
+		$ids[] = $id;
 		foreach ($ingredients as $i)
 		{
 			$prep = trim ($i);
-			if ( strlen ($prep) < 4 )
+			$pos1 = strpos ( $prep, " " );			$type	= substr ( $prep, 0, $pos1 );		$pos1++;
+			$pos2 = strpos ( $prep, " ", $pos1 );	$amount = substr ( $prep, $pos1, $pos2 - $pos1 );	$pos2++;
+			$name   = substr ( $prep, $pos2 );
+			if ( ! is_numeric ( $amount ) )
 			{
-				print "error in recipe!";
+				print "<tr><td colspan='6'>";
+				print "<mark>$recipe_name: syntax error: '".$prep."'!</mark>";
+				print "</td></tr>\n";
 				return;
 			}
-			$type   = $prep[0];
-			$amount = $prep[2];
-			$name	= substr ( $prep, 4 );
 			if ( $type == "C" )	// crafted
 			{
-				resolve_recipe ( str_replace ( "'", "&apos;", $name ) );
+				if ( $pval['resolve'] != "" )
+					resolve_recipe ( $pval, str_replace ( "'", "&apos;", $name ), $ids, false );
+				$name = "<a href='/jobs/recipes.php?recipe=$name'>$name</a>";
 			}
 			else if ( $type == "H" )	// harvested
 			{
@@ -87,23 +85,32 @@ function resolve_recipe ( $recipe_name )
 			}
 			/*
 			 * no page for looting :/
+			 */
 			else if ( $type == "L" )	// Looted
 			{
 			}
-			*/
+			else	// unknown type
+			{
+				$name = "<mark>$name</mark> syntax error";
+			}
 			if ( $count )
 			{
 				$ing .= " +<br>";
 			}
+			$ing .= "$amount ";
 			$ing .= $name;
 			$count++;
 		}
+		$r_name = $r['name'];
 		print "<tr>";
-			print "<td>".$r['result']." ".$r['name']."</td>\n";
+			print "<td>$ing</td>\n";
+			// print "<td>".str_replace ("+"," +<br>", $r['tool'])."</td>\n";
+			print "<td>".$r['tool']."</td>\n";
 			print "<td>";
-				print "$ing\n";
+				$url = "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name</a>";
+				print $r['result']." ".$url;
+				// print " ($id)\n";
 			print "</td>\n";
-			print "<td>".str_replace ("+"," +<br>", $r['tool'])."</td>\n";
 			print "<td>".$r['skill']."</td>\n";
 			print "<td>".$r['level']."</td>\n";
 			print "<td>".$r['book']."</td>\n";
@@ -115,27 +122,49 @@ function print_recipe ( $pval )
 {
 	global $mysqli;
 
+	$name = $pval['recipe'];
 	print "<h3>";
 	print " | ";
-	href ( "show all recipes", $_SERVER['PHP_SELF'], $param );
+
+	href ( "show all recipes", $_SERVER['PHP_SELF'], "" );
+	if ( $pval['resolve'] != "" )
+	{
+		$param = "";
+		$param = add_url_param ( $param, "recipe=$name" );
+		if ( $pval['id'] != "" )
+			$param = add_url_param ( $param, "id=".$pval['id'] );
+		$link = "recipe only";
+	}
+	else
+	{
+		$param = "";
+		$param = add_url_param ( $param, "resolve=true" );
+		$param = add_url_param ( $param, "recipe=$name" );
+		if ( $pval['id'] != "" )
+			$param = add_url_param ( $param, "id=".$pval['id'] );
+		$link = "resolve recipe";
+	}
+	print " | ";
+	href ( $link, $_SERVER['PHP_SELF'], $param );
 	print " | ";
 	print "</h3>";
-	$name = $pval['recipe'];
 	print "<h3>$name</h3>\n";
 	?>
-	<table class='recipe_table hovableTable'>
+	<table class='recipe_table hovableTable sortable'>
 		<tr>
-			<th>Result</th>
 			<th>Ingredient</th>
 			<th>Use Tool</th>
+			<th>Result</th>
 			<th>Skill</th>
 			<th>Level</th>
 			<th>Book</th>
 		</tr>
-	<?php resolve_recipe ( str_replace ( "'", "&apos;", $name ) ); ?>
+	<?php
+	$ids = array ();
+	resolve_recipe ( $pval, str_replace ( "'", "&apos;", $name ), $ids, true );
+	?>
 	</table>
 	<?php
-
 }
 
 function show_recipes ( $pval )
@@ -149,17 +178,30 @@ function show_recipes ( $pval )
 		$q .= "WHERE skill='".$pval['skill']."'";
 	if ( $pval['book'] != "" )
 		$q .= "WHERE book='".$pval['book']."'";
-	$skills = $mysqli->query ($q);
-	if ( $skills->num_rows == 0 )
+	$q .= "
+		ORDER BY skill
+	";
+	$skills_db = $mysqli->query ($q);
+	if ( $skills_db->num_rows == 0 )
 	{
 		print "no recipes found!<br><br>\n";
+		print "q: $q<br>";
 		return;
 	}
+	$url = $_SERVER['PHP_SELF'];
+	print "show recipes of skill: <span>| ";
+	while ( $s = $skills_db->fetch_assoc() )
+	{
+		$skill = $s['skill'];
+		$skills[] = $skill;
+		href ( $skill, $url, "?skill=$skill" );
+		print "|";
+	}
+	print"</span>\n";
 
 	//
 	// show recipes
 	//
-	$url = $_SERVER['PHP_SELF'];
 	$param = "";
 	if ( $pval['skill'] != "" )
 		$param = add_url_param ( $param, "skill=".$pval['skill'] );
@@ -209,62 +251,71 @@ function show_recipes ( $pval )
 	}
 	print "</h3>";
 
-	$param = "";
-	if ( $pval['type'] != "P" )
-		$param = add_url_param ( $param, "type=".$pval['type'] );
-	while ( $s = $skills->fetch_assoc() )
+	$q = "
+		SELECT
+			*
+		FROM
+			recipes
+		WHERE
+			type LIKE '".$pval['type']."'
+	";
+	if ( $pval['book'] != "" )
 	{
-		$skill = $s['skill'];
-		print "<h2>";
-		href ( $skill, $url, "?skill=$skill" );
-		print"</h2>\n";
-		$q = "
-			SELECT
-				*
-			FROM
-				recipes
-			WHERE
-				skill='".$skill."'
-				AND type LIKE '".$pval['type']."'
-		";
-		if ( $pval['book'] != "" )
-		{
-			$q .= "AND book='".$pval['book']."'";
-		}
-		$preps = $mysqli->query ($q);
+		$q .= "AND book='".$pval['book']."' ";
+	}
+	if ( $pval['skill'] != "" )
+		$q .= "AND skill='".$pval['skill']."' ";
+	$q .= "GROUP BY name,book ORDER BY skill,name";
+	$preps = $mysqli->query ($q);
+	?>
+	Search in table: <input id="myInput" type="text" placeholder="Search..">
+	<table id="myTable" class='main_table sortable hovableTable'>
+		<tr>
+			<th>Name</th>
+			<th>Level</th>
+			<th>Skill</th>
+			<th>Book</th>
+		</tr>
+	<?php
+	while ( $p = $preps->fetch_assoc() )
+	{
+		$param = "";
+		if ( $pval['type'] != "P" )
+			$param = add_url_param ( $param, "type=".$pval['type'] );
 		?>
-		<table class='main_table sortable hovableTable'>
-			<tr>
-				<th>Name</th>
-				<th>Level</th>
-				<th>Book</th>
-			</tr>
-		<?php
-		while ( $p = $preps->fetch_assoc() )
-		{
-			?>
-			<tr>
-				<td>
-					<?php
-					$name = $p['name'];
-					href ( $name, $url, "?recipe=$name" );
-					?>
-				</td>
-				<td><?php print $p['level']; ?></td>
-				<td>
-					<?php
-					$book = $p['book'];
-					$param = add_url_param ( $param, "book=".$p['book'] );
-					href ( $book, $url, $param );
-					?>
-				</td>
-			</tr>
-			<?php
-		}
-		?>
-		</table>
+		<tr>
+			<td>
+				<?php
+				$name = $p['name'];
+				href ( $name, $url, "?recipe=$name" );
+				?>
+			</td>
+			<td><?php print $p['level']; ?></td>
+			<td><?php print $p['skill']; ?></td>
+			<td>
+				<?php
+				$book = $p['book'];
+				$param = add_url_param ( $param, "book=".$p['book'] );
+				href ( $book, $url, $param );
+				?>
+			</td>
+		</tr>
 		<?php
 	}
+	?>
+	</table>
+	<script>
+		$(document).ready(function(){
+		  $("#myInput").on("keyup", function() {
+			var value = $(this).val().toLowerCase();
+			$("#myTable tr").filter(function() {
+			  $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+			});
+		  });
+		});
+	</script>
+	<?php
+//	}
 }
 
 $mysqli = connect_db ();

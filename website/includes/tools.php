@@ -93,6 +93,7 @@ function print_header ( $title = "", $css = "" )
 
 		<!-- script for sorting tables -->
 		<script src="/js/sorttable.js"></script>
+		<script src="/js/jquery-3.5.1.min.js"></script>
 
 	</head>
 
@@ -134,6 +135,23 @@ function print_footer ()
 	</body>
 	</html>
 	<?php
+}
+
+function href ( $name, $url, $param )
+{
+	?>
+	<a href="<?php print $url.$param; ?>"><?php print $name; ?></a>
+	<?php
+}
+
+function add_url_param ( $url, $param )
+{
+	$u = $url;
+	if ($u[0] == "?")
+		$u.= "&".$param;
+	else
+		$u.= "?".$param;
+	return $u;
 }
 
 ?>
