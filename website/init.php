@@ -26,8 +26,13 @@
     include($path);
 
     $path = $_SERVER['DOCUMENT_ROOT'];
+    $path .= "/fill_database/fill_database_loot.php";
+    include($path);
+
+    $path = $_SERVER['DOCUMENT_ROOT'];
     $path .= "/fill_database/fill_database_recipes.php";
     include($path);
+
     include ($_SERVER['DOCUMENT_ROOT']."/index.php");
 ?>
 

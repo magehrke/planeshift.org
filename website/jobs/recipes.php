@@ -32,13 +32,13 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 		$q .= " AND id='".$pval['id']."'";
 	}
 	$q .= "
-		ORDER BY name
+		ORDER BY name,level,result,book
 	";
 	$recipe = $mysqli->query ($q);
 	if ( $recipe->num_rows == 0 )
 	{
 		print "<tr><td colspan='6'>";
-		print "<mark>$recipe_name: no recipe found!</mark>";
+		print "<mark>'$recipe_name': no recipe found!</mark>";
 		print "q: $q";
 		print "</td></tr>\n";
 		return;
@@ -57,7 +57,7 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			$prep = trim ($i);
 			$pos1 = strpos ( $prep, " " );			$type	= substr ( $prep, 0, $pos1 );		$pos1++;
 			$pos2 = strpos ( $prep, " ", $pos1 );	$amount = substr ( $prep, $pos1, $pos2 - $pos1 );	$pos2++;
-			$name   = substr ( $prep, $pos2 );
+			$name   = str_replace ( "'","&apos;", substr ( $prep, $pos2 ) );
 			if ( ! is_numeric ( $amount ) )
 			{
 				print "<tr><td colspan='6'>";
@@ -68,7 +68,7 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			if ( $type == "C" )	// crafted
 			{
 				if ( $pval['resolve'] != "" )
-					resolve_recipe ( $pval, str_replace ( "'", "&apos;", $name ), $ids, false );
+					resolve_recipe ( $pval, $name, $ids, false );
 				$name = "<a href='/jobs/recipes.php?recipe=$name'>$name</a>";
 			}
 			else if ( $type == "H" )	// harvested
@@ -99,6 +99,7 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			}
 			$ing .= "$amount ";
 			$ing .= $name;
+			$ing .= " ($type)";
 			$count++;
 		}
 		$r_name = $r['name'];
@@ -106,14 +107,17 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			print "<td>$ing</td>\n";
 			// print "<td>".str_replace ("+"," +<br>", $r['tool'])."</td>\n";
 			print "<td>".$r['tool']."</td>\n";
+			print "<td>".$r['result']."</td>\n";
 			print "<td>";
-				$url = "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name</a>";
-				print $r['result']." ".$url;
+				print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name</a>";
 				// print " ($id)\n";
 			print "</td>\n";
 			print "<td>".$r['skill']."</td>\n";
 			print "<td>".$r['level']."</td>\n";
-			print "<td>".$r['book']."</td>\n";
+			print "<td>";
+				$book = $r['book'];
+				print "<a href='".$_SERVER['PHP_SELF']."?book=$book'>$book</a>";
+			print "</td>";
 		print "</tr>";
 	}
 }
@@ -154,6 +158,7 @@ function print_recipe ( $pval )
 		<tr>
 			<th>Ingredient</th>
 			<th>Use Tool</th>
+			<th>Amount</th>
 			<th>Result</th>
 			<th>Skill</th>
 			<th>Level</th>
@@ -174,10 +179,12 @@ function show_recipes ( $pval )
 	$q = "
 		SELECT DISTINCT skill FROM recipes
 	";
+	/*
 	if ( $pval['skill'] != "" )
 		$q .= "WHERE skill='".$pval['skill']."'";
+	*/
 	if ( $pval['book'] != "" )
-		$q .= "WHERE book='".$pval['book']."'";
+		$q .= "WHERE book=\"".str_replace ( "'", "&apos;", $pval["book"] )."\"";
 	$q .= "
 		ORDER BY skill
 	";
@@ -261,14 +268,15 @@ function show_recipes ( $pval )
 	";
 	if ( $pval['book'] != "" )
 	{
-		$q .= "AND book='".$pval['book']."' ";
+		$q .= "AND book=\"".str_replace ( "'", "&apos;", $pval["book"] )."\" ";
 	}
 	if ( $pval['skill'] != "" )
 		$q .= "AND skill='".$pval['skill']."' ";
-	$q .= "GROUP BY name,book ORDER BY skill,name";
+	$q .= "GROUP BY name,book ORDER BY skill,level,name";
 	$preps = $mysqli->query ($q);
+	print $preps->num_rows." recipes found:";
 	?>
-	Search in table: <input id="myInput" type="text" placeholder="Search..">
+	<input id="myInput" type="text" placeholder="Search Table..">
 	<table id="myTable" class='main_table sortable hovableTable'>
 		<tr>
 			<th>Name</th>
@@ -287,7 +295,7 @@ function show_recipes ( $pval )
 			<td>
 				<?php
 				$name = $p['name'];
-				href ( $name, $url, "?recipe=$name" );
+				href ( $name." (".$p['type'].")", $url, "?recipe=$name" );
 				?>
 			</td>
 			<td><?php print $p['level']; ?></td>
@@ -315,7 +323,6 @@ function show_recipes ( $pval )
 		});
 	</script>
 	<?php
-//	}
 }
 
 $mysqli = connect_db ();

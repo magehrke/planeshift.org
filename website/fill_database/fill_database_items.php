@@ -35,6 +35,7 @@
 	$items_to_insert = array(
 		'Common Salt', 'Liera Zireti', 20, 'none',
 		'Common Salt', 'Vladovic Chel-Astra', 20, 'none',
+		'Conservation Potion', 'Liera Zireti', 100, 'none',
 		'Niter', 'Liera Zireti', 20, 'none',
 		'Niter', 'Vladovic Chel-Astra', 20, 'none',
 		'Oil of Vitriol', 'Liera Zireti', 20, 'none',
@@ -305,6 +306,7 @@
 
 	$item_category = 'Food Ingredients';
 
+
 	$items_to_insert = array(
 		'Bag of Salt', 'Jirosh Mikana', 100, 'none',
 		'Bamboo Rice', 'Jomed Parcen', 5, 'none',
@@ -328,19 +330,23 @@
 		'Meat', 'Jomed Parcen', 5, 'none',
 		'Meat', 'Reffitia Thamal', 5, 'none',
 		'Pungent Tuber', 'Grok Idon', 5, 'none',
+		'Sack of Barley', 'Leann Grudaire', 25, 'none',
 		'Sack of Banuts', 'Jirosh Mikana', 125, 'none',
 		'Sack of Burr Nuts', 'Jirosh Mikana', 125, 'none',
 		'Sack of Far Ground Rye', 'Jirosh Mikana', 25, 'none',
 		'Sack of Jookans', 'Jirosh Mikana', 125, 'none',
 		'Sack of Powdered Bread Rise', 'Jirosh Mikana', 50, 'none',
 		'Sack of Powdered Bread Rise', 'Orchibaly Gurpleferd', 50, 'none',
+		'Sack of Powdered Bread Rise', 'Leann Grudaire', 50, 'none',
 		'Sack of Red Wheat', 'Jirosh Mikana', 25, 'none',
 		'Sack of Strimptor', 'Jirosh Mikana', 25, 'none',
+		'Sack of Strimptor', 'Leann Grudaire', 25, 'none',
 		'Seared Trout', 'Jomed Parcen', 5, 'none',
 		'Trout', 'Burdess Quirain', 5, 'none',
 		'Water Filled Bucket', 'Burdess Quirain', 140, 'none',
 		'Water Filled Bucket', 'Jirosh Mikana', 140, 'none',
 		'Water Filled Bucket', 'Jomed Parcen', 140, 'none',
+		'Water Filled Bucket', 'Leann Grudaire', 10, 'none',
 		'Water Filled Bucket', 'Reffitia Thamal', 140, 'none',
 		);
 
@@ -622,6 +628,8 @@
 	$items_to_insert = array(
 		'Axe', 'Harnquist', 80, 'none',
 		'Sickle', 'Harnquist', 70, 'none',
+		'Wood Chisel', 'Jjousk Carryt', 100, 'none',
+		'Wood Saw', 'Jjousk Carryt', 60, 'none',
 		);
 
 	for($i = 0; $i < count($items_to_insert); $i += 4) {
@@ -720,6 +728,7 @@
 		'Armors Repair Kit', 'Kethzun Guthazik', 100, 'none',
 		'Armors Repair Kit', 'Trasok Starhammer', 100, 'none',
 		'Armors Repair Kit', 'Veja Pontor', 100, 'none',
+		'Arrow-Head Mold', 'Jjousk Carryt', 50, 'none',
 		'Cutters', 'Harnquist', 150, 'none',
 		'Cutters', 'Kethzun Guthazik', 150, 'none',
 		'Cutters', 'Trasok Starhammer', 150, 'none',
@@ -728,6 +737,7 @@
 		'Mandrel', 'Harnquist', 500, 'none',
 		'Mandrel', 'Kethzun Guthazik', 500, 'none',
 		'Mandrel', 'Trasok Starhammer', 500, 'none',
+		'Mandrel', 'Jjousk Carryt', 500, 'none',
 		'Weapons Repair Kit', 'Gardr Keck', 100, 'none',
 		'Weapons Repair Kit', 'Harnquist', 100, 'none',
 		'Weapons Repair Kit', 'Kethzun Guthazik', 100, 'none',
@@ -737,6 +747,7 @@
 		'Wire Mold', 'Harnquist', 500, 'none',
 		'Wire Mold', 'Kethzun Guthazik', 500, 'none',
 		'Wire Mold', 'Trasok Starhammer', 500, 'none',
+		'Wood Plane', 'Jjousk Carryt', 50, 'none',
 		);
 
 	for($i = 0; $i < count($items_to_insert); $i += 4) {
@@ -915,14 +926,19 @@
 	$item_category = 'Weapons - Ranged';
 
 	$items_to_insert = array(
+		'Bolt', 'Jjousk Carryt', 5, 'none',
+		'Dermorian Hunting Bow', 'Jjousk Carryt', 250, 'none',
 		'Dermorian Greater Bow', 'Taemian Yangnk', 1000, 'none',
 		'Dermorian Lesser Bow', 'Harnquist', 400, 'none',
 		'Dermorian Lesser Bow', 'Kethzun Guthazik', 400, 'none',
 		'Dermorian Normal Bow', 'Trasok Starhammer', 600, 'none',
+		'Enkidukai Hunting Bow', 'Jjousk Carryt', 750, 'none',
 		'Enkidukai Greater Bow', 'Taemian Yangnk', 1000, 'none',
 		'Enkidukai Lesser Bow', 'Harnquist', 400, 'none',
 		'Enkidukai Lesser Bow', 'Kethzun Guthazik', 400, 'none',
 		'Enkidukai Normal Bow', 'Trasok Starhammer', 600, 'none',
+		'Iron Arrow', 'Jjousk Carryt', 1, 'none',
+		'Ynnwn Hunting Bow', 'Jjousk Carryt', 1500, 'none',
 		'Ynnwn Greater Bow', 'Taemian Yangnk', 1000, 'none',
 		'Ynnwn Lesser Bow', 'Harnquist', 400, 'none',
 		'Ynnwn Lesser Bow', 'Kethzun Guthazik', 400, 'none',

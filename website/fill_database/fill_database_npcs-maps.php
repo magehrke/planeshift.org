@@ -633,7 +633,8 @@
 			'Exit', 'Lava Cave', '27 0 -74', '',
 
 			// the howling well
-			'Entry/Exit', 'Howling Well', '148 0 3', ''
+			'Entry/Exit', 'Howling Well', '148 0 3', '',
+			'Exit', 'Howling Well', '18 0 114', '',
 		);
 
 		for($i = 0; $i < count($mapsLoc_to_insert); $i += 4) {
@@ -743,8 +744,10 @@
 		'Red Mangrove Leaf',	'Ojaveda Road 1',	'Plants - Herbal',	'275.98 20.08 230.93', 'none',
 		'Sicklepod Flower',	'Ojaveda Road 1',	'Plants - Herbal',		'276.63 20.08 223.79', 'none',
 		'Threestem Fruit',	'Ojaveda Road 1',	'Plants - Herbal',	'234.83 30.12 352.55', 'none',
+		'Threestem Wood',	'Ojaveda Road 1',	'Plants - Herbal',	'234.83 30.12 352.55', 'none',
 		'Unicornfish',		'Ojaveda Road 1',	'Fish',			'15.17 44.46 390.33', 'none',
 		'White Oak Bark',	'Ojaveda Road 1',	'Plants',		'-113.94 31.93 369.18, -233.28 30.12 161.77', 'none',
+		'White Oak Wood',	'Ojaveda Road 1',	'Plants',		'-113.94 31.93 369.18, -233.28 30.12 161.77', 'none',
 		'Yarrow',		'Ojaveda Road 1',	'Plants - Herbal',	'194.36 30.12 283.12, -428.95 30.12 466.66', 'none',
 
 		'Black Walnut',		'Ojaveda Road 2',	'Plants',		'173.25 13.06 306.51', 'none',
@@ -766,6 +769,7 @@
 		'Orfe',			'Ojaveda Road 2',	'Fish',			'-495.03 11.04 501.35', 'none',
 		'Silver Ore',		'Ojaveda Road 2',	'Ore',			'-198.95 1.76 306.05', 'none',
 		'Threestem Fruit',	'Ojaveda Road 2',	'Plants - Herbal',	'287.82 11.02 126.80', 'none',
+		'Threestem Wood',	'Ojaveda Road 2',	'Plants - Herbal',	'287.82 11.02 126.80', 'none',
 		'Tin Ore',		'Ojaveda Road 2',	'Ore',			'-492.55 13.60 536.50', 'none',
 		'Trout',		'Ojaveda Road 2',	'Fish',			'-505.53 10.13 398.53', 'none',
 		'Wragberry',		'Ojaveda Road 2',	'Plants - Herbal',	'428.52 13.05 488.39', 'none',
