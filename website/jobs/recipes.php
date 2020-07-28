@@ -12,7 +12,8 @@ $fn = array (
 	'type',		// list all recipes
 	'recipe',	// show recipe details
 	'id',		// show recipe of this id
-	'resolve'	// resolve all recipe ingredients
+	'resolve',	// resolve all recipe ingredients
+	'optional'	// resolve optional recipes, too
 );
 $pval = array ();
 post2pval ( $fn, $pval );
@@ -27,6 +28,10 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 		SELECT * FROM recipes WHERE
 		name=\"".$recipe_name."\"
 	";
+	if ( $pval['optional'] == "" )
+	{
+		$q .= " AND (type='I' or type='P') ";
+	}
 	if ( ( $pval['id'] != "" ) && ( $id_only == true ) )
 	{
 		$q .= " AND id='".$pval['id']."'";
@@ -99,10 +104,11 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			}
 			$ing .= "$amount ";
 			$ing .= $name;
-			$ing .= " ($type)";
+			// $ing .= " ($type)";
 			$count++;
 		}
 		$r_name = $r['name'];
+		$r_type = $r['type'];
 		print "<tr>";
 			print "<td>$ing</td>\n";
 			// print "<td>".str_replace ("+"," +<br>", $r['tool'])."</td>\n";
@@ -110,6 +116,7 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			print "<td>".$r['result']."</td>\n";
 			print "<td>";
 				print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name</a>";
+				// print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name ($r_type)</a>";
 				// print " ($id)\n";
 			print "</td>\n";
 			print "<td>".$r['skill']."</td>\n";
@@ -130,7 +137,7 @@ function print_recipe ( $pval )
 	print "<h3>";
 	print " | ";
 
-	href ( "show all recipes", $_SERVER['PHP_SELF'], "" );
+	href ( "overview", $_SERVER['PHP_SELF'], "" );
 	if ( $pval['resolve'] != "" )
 	{
 		$param = "";
@@ -150,6 +157,21 @@ function print_recipe ( $pval )
 	}
 	print " | ";
 	href ( $link, $_SERVER['PHP_SELF'], $param );
+	if ( $pval['optional'] == "" )
+	{
+		print " | ";
+		$param = add_url_param ( $param, "resolve=".$pval['resolve'] );
+		$param = add_url_param ( $param, "id=".$pval['id'] );
+		$param = add_url_param ( $param, "optional=true" );
+		href ( "show optional recipes", $_SERVER['PHP_SELF'], $param );
+	}
+	else
+	{
+		print " | ";
+		$param = add_url_param ( $param, "resolve=".$pval['resolve'] );
+		$param = add_url_param ( $param, "id=".$pval['id'] );
+		href ( "without optional ingredients", $_SERVER['PHP_SELF'], $param );
+	}
 	print " | ";
 	print "</h3>";
 	print "<h3>$name</h3>\n";
@@ -184,7 +206,7 @@ function show_recipes ( $pval )
 		$q .= "WHERE skill='".$pval['skill']."'";
 	*/
 	if ( $pval['book'] != "" )
-		$q .= "WHERE book=\"".str_replace ( "'", "&apos;", $pval["book"] )."\"";
+		$q .= "WHERE book like \"%".str_replace ( "'", "&apos;", $pval["book"] )."%\"";
 	$q .= "
 		ORDER BY skill
 	";
@@ -268,10 +290,12 @@ function show_recipes ( $pval )
 	";
 	if ( $pval['book'] != "" )
 	{
-		$q .= "AND book=\"".str_replace ( "'", "&apos;", $pval["book"] )."\" ";
+		$q .= "AND book like \"%".str_replace ( "'", "&apos;", $pval["book"] )."%\" ";
 	}
 	if ( $pval['skill'] != "" )
+	{
 		$q .= "AND skill='".$pval['skill']."' ";
+	}
 	$q .= "GROUP BY name,book ORDER BY skill,level,name";
 	$preps = $mysqli->query ($q);
 	print $preps->num_rows." recipes found:";
@@ -295,7 +319,8 @@ function show_recipes ( $pval )
 			<td>
 				<?php
 				$name = $p['name'];
-				href ( $name." (".$p['type'].")", $url, "?recipe=$name" );
+				href ( $name, $url, "?recipe=$name" );
+				// href ( $name." (".$p['type'].")", $url, "?recipe=$name" );
 				?>
 			</td>
 			<td><?php print $p['level']; ?></td>
