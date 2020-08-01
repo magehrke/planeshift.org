@@ -147,8 +147,35 @@ function check_recipes ()
 	}
 }
 
+function check_books ()
+{
+	global $mysqli;
+
+	$q = "SELECT * FROM crafting_books";
+	$books = $mysqli->query ($q);
+	while ( $b = $books->fetch_assoc() )
+	{
+		$book_name = str_replace ( "'", "&apos;", $b['name'] );
+		$q = "SELECT * FROM recipes WHERE book like '%$book_name%'";
+		$preps = $mysqli->query ($q);
+		if ( $preps->num_rows == 0 )
+		{
+			print "! <mark>".$book_name."</mark>: has no recipes!<br>\n";
+			continue;
+		}
+		$ids = array ();
+		while ( $p = $preps->fetch_assoc() )
+		{
+			$name = str_replace ( "'", "&apos;", $p['name'] );
+			if ( ! resolve_recipe ( $p['id'], $name, $ids, true ) )
+				print "^ <mark>".$p['name']."</mark>(".$p['id']."): did not resolve!<br>\n";
+		}
+	}
+}
+
 $mysqli = connect_db ();
 print_header ("Check Recipes", "" );
 check_recipes ();
+check_books ();
 print_footer ();
 ?>

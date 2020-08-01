@@ -179,13 +179,15 @@
             <li class="navigation_button_jobs">
                 Jobs
                 <ul class="navigation_dropdown_menu">
-										<li><a href="/jobs/drawing.php">Drawing</a></li>
-										<li><a href="/jobs/fishing.php">Fishing</a></li>
-										<li><a href="/jobs/harvesting.php">Harvesting</a></li>
+					<li><a href="/jobs/drawing.php">Drawing</a></li>
+					<li><a href="/jobs/fishing.php">Fishing</a></li>
+					<li><a href="/jobs/harvesting.php">Harvesting</a></li>
                     <li><a href="/jobs/lockpicking.php">Lockpicking</a></li>
                     <li><a href="/jobs/metallurgy.php">Metallurgy</a></li>
                     <li><a href="/jobs/mining.php">Mining</a></li>
                     <li><a href="/jobs/shieldcrafting.php">Shield Crafting</a></li>
+                    <li><a href="/jobs/books.php">All Crafting Books</a></li>
+                    <li><a href="/jobs/recipes.php">Recipe Database</a></li>
                 </ul>
             </li>
 

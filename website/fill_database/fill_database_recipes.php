@@ -23,7 +23,7 @@
 		"Catalog of Hammers any Maces" => "A new mace for Nevis",
 		"Catalog of Medium Shields" => "?",
 		"Cooking with Minerals" => "Feeding the Guard",
-		"Crystal’s Delight for Kran" => "Jomed’s Coalchemist Problem",
+		"Crystal's Delight for Kran" => "Jomed’s Coalchemist Problem",
 		"Dishes with Fishes" => "Apprenticeship Approval",
 		"Drinks of the Dome" => "Beer Tasting Event",
 		"Enchanting Armor" => "A Most Enchanting Order",
@@ -101,7 +101,7 @@
 		//
 		array (
 			"name"		=> "Enkidukai Longbow Staff",
-			"type"		=> "P",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Enkidukai Longbow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -111,7 +111,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Shortbow Staff",
-			"type"		=> "P",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Enkidukai Shortbow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -121,7 +121,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Stonehammer Longbow",
-			"type"		=> "P",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Stonehammer Longbow Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -131,7 +131,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Stonehammer Shortbow",
-			"type"		=> "P",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Stonehammer Shortbow Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -141,7 +141,7 @@
 		),
 		array (
 			"name"		=> "Ynnwn Longbow Staff",
-			"type"		=> "P",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Ynnwn Longbow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -151,7 +151,7 @@
 		),
 		array (
 			"name"		=> "Dermorian Longbow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -161,7 +161,7 @@
 		),
 		array (
 			"name"		=> "Dermorian Shortbow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -171,7 +171,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Longbow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -181,7 +181,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Shortbow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -191,7 +191,7 @@
 		),
 		array (
 			"name"		=> "Stonehammer Longbow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Stonehammer Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -201,7 +201,7 @@
 		),
 		array (
 			"name"		=> "Stonehammer Shortbow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Stonehammer Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -211,7 +211,7 @@
 		),
 		array (
 			"name"		=> "Ynnwn Longbow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Ynnwn Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -221,7 +221,7 @@
 		),
 		array (
 			"name"		=> "Ynnwn Shortbow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Ynnwn Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -288,7 +288,7 @@
 		array (
 			"name"		=> "Enkidukai Longbow Staff Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 2 Carved Tefusang Claw, C 1 Oak Wood Grip, C 1 Fish Glue",
+			"ingredient"	=> "C 2 Carved Tefusang Claw, C 1 Oak Wood Grip, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
@@ -298,7 +298,7 @@
 		array (
 			"name"		=> "Enkidukai Shortbow Staff Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 2 Carved Tefusangling Claw, C 1 Wooden Grip, C 1 Fish Glue",
+			"ingredient"	=> "C 2 Carved Tefusangling Claw, C 1 Wooden Grip, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
@@ -308,7 +308,7 @@
 		array (
 			"name"		=> "Ynnwn Longbow Staff Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 2 Carved Ulbernaut Claw, C 1 Oak Wood Grip, C 1 Fish Glue",
+			"ingredient"	=> "C 2 Carved Ulbernaut Claw, C 1 Oak Wood Grip, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
@@ -335,66 +335,72 @@
 			"level"		=> "200",
 			"book"		=> "Advanced Bow Making"
 		),
+		//
+		// Advanced Bow Making, Enchanting Weapons
+		//
 		array (
-			"name"		=> "Unbalanced Dermorian Longbows",
+			"name"		=> "Unbalanced Dermorian Longbow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Unstrung Dermorian Longbow, C 1 Plant String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Advanced Bow Making"
+			"book"		=> "Advanced Bow Making, Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Unbalanced Dermorian Shortbows",
+			"name"		=> "Unbalanced Dermorian Shortbow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Unstrung Dermorian Shortbow, C 1 Plant String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Advanced Bow Making"
+			"book"		=> "Advanced Bow Making, Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Unbalanced Enkidukai Longbows",
+			"name"		=> "Unbalanced Enkidukai Longbow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Unstrung Enkidukai Longbow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Advanced Bow Making"
+			"book"		=> "Advanced Bow Making, Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Unbalanced Enkidukai Shortbows",
+			"name"		=> "Unbalanced Enkidukai Shortbow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Unstrung Enkidukai Shortbow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Advanced Bow Making"
+			"book"		=> "Advanced Bow Making, Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Unbalanced Ynnwn Longbows",
+			"name"		=> "Unbalanced Ynnwn Longbow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Unstrung Ynnwn Longbow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Advanced Bow Making"
+			"book"		=> "Advanced Bow Making, Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Unbalanced Ynnwn Shortbows",
+			"name"		=> "Unbalanced Ynnwn Shortbow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Unstrung Ynnwn Shortbow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Advanced Bow Making"
+			"book"		=> "Advanced Bow Making, Enchanting Weapons"
 		),
+		//
+		// Advanced Bow Making
+		//
 		array (
 			"name"		=> "Carved Curved Ulbernaut Claw",
 			"type"		=> "I",
@@ -512,7 +518,7 @@
 		//
 		array (
 			"name"		=> "Heated Untempered Stonehammer Longbow Staff",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Untempered Stonehammer Longbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -522,7 +528,7 @@
 		),
 		array (
 			"name"		=> "Heated Untempered Stonehammer Shortbow Staff",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Untempered Stonehammer Shortbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -581,7 +587,7 @@
 		//
 		array (
 			"name"		=> "Stonehammer Longbow Staff",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Untempered Stonehammer Longbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -591,7 +597,7 @@
 		),
 		array (
 			"name"		=> "Stonehammer Shortbow Staff",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Untempered Stonehammer Shortbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -770,6 +776,9 @@
 			"level"		=> "200",
 			"book"		=> "Advanced Bow Making"
 		),
+		//
+		// Advanced Bow Making, Basic Bow Making
+		//
 		array (
 			"name"		=> "Wooden Grip",
 			"type"		=> "I",
@@ -778,8 +787,11 @@
 			"tool"		=> "Smith Table + Kitchen Knife",
 			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Advanced Bow Making"
+			"book"		=> "Advanced Bow Making, Basic Bow Making"
 		),
+		//
+		// Advanced Bow Making
+		//
 		array (
 			"name"		=> "Long Oak Wood Rod",
 			"type"		=> "I",
@@ -791,17 +803,17 @@
 			"book"		=> "Advanced Bow Making"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations
 		//
 		array (
 			"name"		=> "Mix of Kikiri Feather",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Kikiri Feather",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Air Essence",
@@ -811,17 +823,17 @@
 			"tool"		=> "Decanter",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of Tloke Drone Wing",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Tloke Drone Wing",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Air Essence",
@@ -831,17 +843,17 @@
 			"tool"		=> "Decanter",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of Tloke Queen Wing",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Tloke Queen Wing",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Air Essence",
@@ -851,7 +863,7 @@
 			"tool"		=> "Decanter",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of Tloke Warrior Wing",
@@ -861,7 +873,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Air Essence",
@@ -871,17 +883,17 @@
 			"tool"		=> "Decanter using",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of Carkarass Feather",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Carkarass Feather",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Air Essence",
@@ -891,17 +903,17 @@
 			"tool"		=> "Decanter",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Alchemist Fire",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Fire Essence, C 1 Wragberry Oil, C 1 Powdered Coal",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Alchemist Fire",
@@ -911,17 +923,17 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Alchemist Freezer",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Water Essence, C 1 Wragberry Oil, C 1 Nitric spirit",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Alchemist Freezer",
@@ -931,17 +943,17 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Alchemist Glue",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Earth Essence, L 2 Tloke Drone Wax, C 1 Vitriol salt",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Alchemist Glue",
@@ -951,17 +963,17 @@
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of air water and crystal essence",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Air Essence, C 1 Water Essence, C 1 Crystal Essence",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Bright Essence",
@@ -971,7 +983,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Bright Essence",
@@ -981,21 +993,21 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
+		//
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
+		//
 		array (
 			"name"		=> "Mix of Copper ore and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Copper Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
-		//
 		array (
 			"name"		=> "Copper Ore Solution",
 			"type"		=> "I",
@@ -1004,24 +1016,21 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Mix of Copper and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Copper, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
-		//
 		array (
 			"name"		=> "Copper Solution",
 			"type"		=> "I",
@@ -1030,24 +1039,21 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Mixed Ruby and Emerald Crystal",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Ruby Crystal, C 1 Powdered Emerald Crystal, C 2 Nitric spirit",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Crystal's Delight for Kran"
 		),
-		//
-		// Alchemy Concoctions, Crystal's Delight for Kran
-		//
 		array (
 			"name"		=> "Crystal sludge",
 			"type"		=> "I",
@@ -1056,24 +1062,18 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Crystal's Delight for Kran"
 		),
-		//
-		// Alchemy Concoctions
-		//
 		array (
 			"name"		=> "Mixed Diamond and Sapphire Crystal",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Diamond Crystal, C 1 Powdered Sapphire Crystal, C 2 Salt spirit",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Crystal's Delight for Kran"
 		),
-		//
-		// Alchemy Concoctions, Crystal's Delight for Kran
-		//
 		array (
 			"name"		=> "Crystal sludge",
 			"type"		=> "I",
@@ -1082,10 +1082,10 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations
 		//
 		array (
 			"name"		=> "Crystal Essence",
@@ -1095,7 +1095,7 @@
 			"tool"		=> "Decanter + Strainer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Crystal Essence",
@@ -1105,7 +1105,7 @@
 			"tool"		=> "Decanter + Strainer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Distilled Frost Arangma Blood",
@@ -1115,10 +1115,10 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		//
-		// Alchemy Concoctions, Crystal's Delight for Kran, Healer's Remedies
+		// Alchemical Concoctations, Crystal's Delight for Kran, Healer's Remedies
 		//
 		array (
 			"name"		=> "Distilled Water",
@@ -1128,20 +1128,20 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions, Crystal's Delight for Kran, Healer's Remedies"
+			"book"		=> "Alchemical Concoctations, Crystal's Delight for Kran, Healer's Remedies"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations
 		//
 		array (
 			"name"		=> "Mixed Elder Gorweal roots",
 			"type"		=> "I",
 			"ingredient"	=> "B 2 Spirit, C 1 Incinerated Elder Gorweal cortex, L 1 Elder Gorweal roots",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Exalted Elder Gorweal extract",
@@ -1151,7 +1151,7 @@
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Earth Essence",
@@ -1161,17 +1161,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Sand Arangma Essence Mix",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Purified Sand Arangma Blood, C 1 Ground Sand Arangma Talon, B 2 Common Salt",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Earth Essence",
@@ -1181,17 +1181,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mixed Sapling Gorweal roots",
 			"type"		=> "I",
 			"ingredient"	=> "B 2 Spirit, C 1 Incinerated Sapling Gorweal cortex, L 1 Sapling Gorweal roots",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Exalted Sapling Gorweal extract",
@@ -1201,7 +1201,7 @@
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Earth Essence",
@@ -1211,17 +1211,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mixed Gorweal roots",
 			"type"		=> "I",
 			"ingredient"	=> "B 2 Spirit, C 1 Incinerated Gorweal cortex, L 1 Gorweal roots",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Exalted Gorweal extract",
@@ -1231,7 +1231,7 @@
 			"tool"		=> "Alchemist Table",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Earth Essence",
@@ -1241,7 +1241,7 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Extract of Diseased Rat Blood",
@@ -1251,17 +1251,17 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Carkarass Essence Mix",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Distilled Water, C 1 Limed Carkarass Fire Carapace, C 1 Incinerated Carkarass Fire Feather",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Fire Essence",
@@ -1271,17 +1271,17 @@
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of Fire Blood",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Purified Fire Blood",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Fire Essence",
@@ -1291,21 +1291,21 @@
 			"tool"		=> "Decanter",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
+		//
+		// Alchemical Concoctations, Cooking with Minerals, Crystal's Delight for Kran
+		//
 		array (
 			"name"		=> "Mix of Gold niter and salt spirit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Nitric spirit, C 3 Salt spirit, C 1 Powdered Gold",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Cooking with Minerals, Crystal's Delight for Kran"
 		),
-		//
-		// Alchemy Concoctions, Cooking with Minerals, Crystal's Delight for Kran
-		//
 		array (
 			"name"		=> "Gold Solution",
 			"type"		=> "I",
@@ -1314,10 +1314,10 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9",
-			"book"		=> "Alchemy Concoctions, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations
 		//
 		array (
 			"name"		=> "Ground Riverling Skull",
@@ -1327,7 +1327,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Ground Riverling Tooth",
@@ -1337,7 +1337,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Ground Sand Arangma Talon",
@@ -1347,17 +1347,17 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of Consumer Blood",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Purified Consumer Blood",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Illness Essence",
@@ -1367,17 +1367,17 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of Diseased Rat Blood",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Extract of Diseased Rat Blood",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Illness Essence",
@@ -1387,17 +1387,17 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of Neoten Consumer Blood",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Purified Neoten Consumer Blood",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Illness Essence",
@@ -1407,17 +1407,17 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of Imago Consumer Blood",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Purified Imago Consumer Blood",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Illness Essence",
@@ -1427,7 +1427,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Incinerated Carkarass Feather",
@@ -1437,7 +1437,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Incinerated Carkarass Fire Feather",
@@ -1447,7 +1447,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Incinerated Elder Gorweal cortex",
@@ -1457,7 +1457,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Incinerated Gorweal cortex",
@@ -1467,7 +1467,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Incinerated Kikiri Feather",
@@ -1477,7 +1477,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Incinerated Sapling Gorweal cortex",
@@ -1487,7 +1487,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Incinerated Tloke Drone Wing",
@@ -1497,7 +1497,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Incinerated Tloke Queen Wing",
@@ -1507,7 +1507,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Incinerated Tloke Warrior Wing",
@@ -1517,21 +1517,21 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
+		//
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
+		//
 		array (
 			"name"		=> "Mix of Iron ore and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Iron Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
-		//
 		array (
 			"name"		=> "Iron Ore Solution",
 			"type"		=> "I",
@@ -1540,24 +1540,18 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
-		//
-		// Alchemy Concoctions
-		//
 		array (
 			"name"		=> "Mix of Iron and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Iron, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
-		//
 		array (
 			"name"		=> "Iron Solution",
 			"type"		=> "I",
@@ -1566,10 +1560,10 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations
 		//
 		array (
 			"name"		=> "Limed Carkarass Fire Carapace",
@@ -1579,17 +1573,17 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Air Element Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Air Essence, C 1 Quicksilver Solution, C 1 Wyn Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Major Potion of Air Element Affinity",
@@ -1599,17 +1593,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Azure Sun Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Crystal Essence, C 1 Copper Solution, C 1 Wyn Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Major Potion of Azure Sun Affinity",
@@ -1619,17 +1613,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Dark Crystal Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Illness Essence, C 1 Silver Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Major Potion of Dark Crystal Affinity",
@@ -1639,17 +1633,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Earth Element Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Earth Essence, C 1 Zinc Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Major Potion of Earth Element Affinity",
@@ -1659,17 +1653,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Fire Dark and Earth Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 3 Murky Essence, C 2 Silver Solution, C 2 Red Mangrove Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Major Potion of Fire Dark and Earth Affinity",
@@ -1679,17 +1673,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Fire Element Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Fire Essence, C 1 Iron Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Major Potion of Fire Element Affinity",
@@ -1699,17 +1693,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Water Crystal and Air Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 3 Bright Essence, C 2 Gold Solution, C 2 Wyn Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Major Potion of Water Crystal and Air Affinity",
@@ -1719,17 +1713,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Water Element Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Water Essence, C 1 Tin Solution, C 1 Wyn Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Major Potion of Water Element Affinity",
@@ -1739,17 +1733,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Fire Dark and Earth Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Murky Essence, C 1 Silver Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Minor Potion of Fire Dark and Earth Affinity",
@@ -1759,17 +1753,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Water Crystal and Air Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Bright Essence, C 1 Gold Solution, C 1 Wyn Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Minor Potion of Water Crystal and Air Affinity",
@@ -1779,17 +1773,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Mix of fire earth and illness essence",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Fire Essence, C 1 Earth Essence, C 1 Illness Essence",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Murky Essence",
@@ -1799,7 +1793,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Murky Essence",
@@ -1809,20 +1803,23 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
+		//
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran, Healer's Remedies
+		//
 		array (
 			"name"		=> "Mix of niter and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "B 2 Niter, B 1 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran, Healer's Remedies"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Nitric spirit",
@@ -1832,20 +1829,20 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations
 		//
 		array (
 			"name"		=> "Raw Potion of Air Element Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Air Essence, C 1 Quicksilver Solution, C 1 Wyn Pulp",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Potion of Air Element Affinity",
@@ -1855,17 +1852,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Potion of Azure Sun Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Crystal Essence, C 1 Copper Ore Solution, C 1 Wyn Pulp",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Potion of Azure Sun Affinity",
@@ -1875,17 +1872,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Potion of Dark Crystal Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Illness Essence, C 1 Silver Ore Solution, C 1 Red Mangrove Pulp",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Potion of Dark Crystal Affinity",
@@ -1895,17 +1892,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Potion of Earth Element Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Earth Essence, C 1 Zinc Ore Solution, C 1 Red Mangrove Pulp",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Potion of Earth Element Affinity",
@@ -1915,17 +1912,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Potion of Fire Dark and Earth Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Murky Essence, C 2 Silver Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Potion of Fire Dark and Earth Affinity",
@@ -1935,17 +1932,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Potion of Fire Element Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Fire Essence, C 1 Iron Ore Solution, C 1 Red Mangrove Pulp",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Potion of Fire Element Affinity",
@@ -1955,17 +1952,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Potion of Water Crystal and Air Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Bright Essence, C 2 Gold Solution, C 1 Wyn Paste",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Potion of Water Crystal and Air Affinity",
@@ -1975,17 +1972,17 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Raw Potion of Water Element Affinity",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Water Essence, C 1 Tin Ore Solution, C 1 Wyn Pulp",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Potion of Water Element Affinity",
@@ -1995,10 +1992,10 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		//
-		// Alchemy Concoctions, Cooking with Minerals
+		// Alchemical Concoctations, Cooking with Minerals
 		//
 		array (
 			"name"		=> "Powdered Coal",
@@ -2008,10 +2005,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Powdered Copper",
@@ -2021,10 +2018,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
 		//
 		array (
 			"name"		=> "Powdered Copper Ore",
@@ -2034,10 +2031,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Powdered Diamond Crystal",
@@ -2047,7 +2044,7 @@
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		array (
 			"name"		=> "Powdered Emerald Crystal",
@@ -2057,10 +2054,10 @@
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations
 		//
 		array (
 			"name"		=> "Powdered Frost Arangma Feeler",
@@ -2070,7 +2067,7 @@
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Powdered Frost Arangma Quartz",
@@ -2080,10 +2077,10 @@
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		//
-		// Alchemy Concoctions, Cooking with Minerals, Crystal's Delight for Kran
+		// Alchemical Concoctations, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Powdered Gold",
@@ -2093,10 +2090,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Mystic’s Great Work
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Mystic’s Great Work
 		//
 		array (
 			"name"		=> "Powdered Iron",
@@ -2106,10 +2103,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Mystic’s Great Work"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Mystic’s Great Work"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
 		//
 		array (
 			"name"		=> "Powdered Iron Ore",
@@ -2119,10 +2116,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Powdered Ruby Crystal",
@@ -2132,7 +2129,7 @@
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		array (
 			"name"		=> "Powdered Sapphire Crystal",
@@ -2142,7 +2139,7 @@
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		array (
 			"name"		=> "Powdered Silver",
@@ -2152,10 +2149,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
 		//
 		array (
 			"name"		=> "Powdered Silver Ore",
@@ -2165,10 +2162,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Powdered Tin",
@@ -2178,10 +2175,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
 		//
 		array (
 			"name"		=> "Powdered Tin Ore",
@@ -2191,10 +2188,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Powdered Zinc",
@@ -2204,10 +2201,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
 		//
 		array (
 			"name"		=> "Powdered Zinc Ore",
@@ -2217,10 +2214,10 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations
 		//
 		array (
 			"name"		=> "Purified Consumer Blood",
@@ -2230,7 +2227,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Purified Fire Blood",
@@ -2240,7 +2237,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Purified Imago Consumer Blood",
@@ -2250,7 +2247,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Purified Neoten Consumer Blood",
@@ -2260,7 +2257,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Purified Sand Arangma Blood",
@@ -2270,21 +2267,21 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
+		//
+		// Alchemical Concoctations, Basic Potions Tome, Crystal's Delight for Kran
+		//
 		array (
 			"name"		=> "Mix of Quicksilver and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Quicksilver Vial, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Crystal's Delight for Kran"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Crystal's Delight for Kran
-		//
 		array (
 			"name"		=> "Quicksilver Solution",
 			"type"		=> "I",
@@ -2293,23 +2290,23 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran, Healer's Remedies
 		//
 		array (
 			"name"		=> "Mix of salt and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "B 2 Common Salt, B 1 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran, Healer's Remedies"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Salt spirit",
@@ -2319,24 +2316,21 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
 		//
 		array (
 			"name"		=> "Mix of Silver ore and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Silver Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
-		//
 		array (
 			"name"		=> "Silver Ore Solution",
 			"type"		=> "I",
@@ -2345,24 +2339,21 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Mix of Silver and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Silver, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
-		//
 		array (
 			"name"		=> "Silver Solution",
 			"type"		=> "I",
@@ -2371,24 +2362,21 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
 		//
 		array (
 			"name"		=> "Mix of Tin ore and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Tin Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
-		//
 		array (
 			"name"		=> "Tin Ore Solution",
 			"type"		=> "I",
@@ -2397,24 +2385,21 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations, Basic Potions Tome, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Mix of Tin and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Tin, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Crystal's Delight for Kran"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Crystal's Delight for Kran
-		//
 		array (
 			"name"		=> "Tin Solution",
 			"type"		=> "I",
@@ -2423,10 +2408,10 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemy Concoctions, Basic Potion Tome, Crystal's Delight for Kran, Healer's Remedies
+		// Alchemical Concoctations, Basic Potions Tome, Crystal's Delight for Kran, Healer's Remedies
 		//
 		array (
 			"name"		=> "Vitriol salt",
@@ -2436,7 +2421,7 @@
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Crystal's Delight for Kran, Healer's Remedies"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Crystal's Delight for Kran, Healer's Remedies"
 		),
 		array (
 			"name"		=> "Vitriol salt",
@@ -2446,20 +2431,20 @@
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Crystal's Delight for Kran, Healer's Remedies"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Crystal's Delight for Kran, Healer's Remedies"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations
 		//
 		array (
 			"name"		=> "Mix of corroded Riverling bones",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Salt spirit, C 1 Ground Riverling Skull, C 1 Ground Riverling Tooth",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Water Essence",
@@ -2469,17 +2454,17 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Frost Arangma Essence Mix",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Distilled Frost Arangma Blood, C 1 Powdered Frost Arangma Feeler, C 1 Powdered Frost Arangma Quartz",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
 		array (
 			"name"		=> "Water Essence",
@@ -2489,21 +2474,21 @@
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations"
 		),
+		//
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals
+		//
 		array (
 			"name"		=> "Mix of Zinc ore and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Zinc Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals
-		//
 		array (
 			"name"		=> "Zinc Ore Solution",
 			"type"		=> "I",
@@ -2512,24 +2497,21 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals"
 		),
 		//
-		// Alchemy Concoctions
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
 		//
 		array (
 			"name"		=> "Mix of Zinc and vitriol",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Zinc, B 2 Oil of Vitriol",
 			"result"	=> "1",
-			"tool"		=> "using Alchemy Table (combine)",
+			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
-		//
-		// Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
-		//
 		array (
 			"name"		=> "Zinc Solution",
 			"type"		=> "I",
@@ -2538,7 +2520,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemy Concoctions, Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
 		// Basic Bow Making
@@ -2606,7 +2588,7 @@
 			"book"		=> "Basic Bow Making"
 		),
 		array (
-			"name"		=> "Fletchs",
+			"name"		=> "Fletch",
 			"type"		=> "I",
 			"ingredient"	=> "L 1 Kikiri Feather",
 			"result"	=> "30",
@@ -2618,7 +2600,7 @@
 		array (
 			"name"		=> "Unassembled Iron Arrow",
 			"type"		=> "I",
-			"ingredient"	=> "C 60 Arrow Shaft, C 60 Iron Arrow Head, C 60 Fletchs",
+			"ingredient"	=> "C 60 Arrow Shaft, C 60 Iron Arrow Head, C 60 Fletch",
 			"result"	=> "60",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
@@ -2761,16 +2743,6 @@
 			"level"		=> "<11",
 			"book"		=> "Basic Bow Making"
 		),
-		array (
-			"name"		=> "Wooden Grips",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Wooden Board",
-			"result"	=> "2",
-			"tool"		=> "Smith Table + Kitchen Knife",
-			"skill"		=> "Bow Making",
-			"level"		=> "<11",
-			"book"		=> "Basic Bow Making"
-		),
 		//
 		// Basic Bow Making, Enchanting Weapons
 		//
@@ -2898,7 +2870,7 @@
 		),
 		array (
 			"name"		=> "Heated Gold Jewelry Ingot",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Gold Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -3425,71 +3397,11 @@
 		// Basic Leathermaking
 		//
 		array (
-			"name"		=> "Large Hide",
+			"name"		=> "Large Tanning Hide",
 			"type"		=> "I",
-			"ingredient"	=> "L 1 Maulbernaut Fur",
-			"result"	=> "2",
-			"tool"		=> "Leatherworking Table + Hide Scraper",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Large Hide",
-			"type"		=> "I",
-			"ingredient"	=> "L 1 Tefusang Skin",
+			"ingredient"	=> "C 1 Large Hide, B 6 Tanning Crystal Acid",
 			"result"	=> "1",
-			"tool"		=> "Leatherworking Table + Hide Scraper",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Large Hide",
-			"type"		=> "I",
-			"ingredient"	=> "L 1 Ulbernaut Fur",
-			"result"	=> "1",
-			"tool"		=> "Leatherworking Table + Hide Scraper",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Large Hide",
-			"type"		=> "I",
-			"ingredient"	=> "L 1 Vilenaut Fur",
-			"result"	=> "2",
-			"tool"		=> "Leatherworking Table + Hide Scraper",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Large Leather Armor Piece",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Leather Torso Armor",
-			"result"	=> "1",
-			"tool"		=> "Leatherworking Table + Leather Cutter",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Leather Armor Patch",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Leather Gloves",
-			"result"	=> "1",
-			"tool"		=> "Leatherworking Table + Leather Cutter",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Leather Armor Patch",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Leather Cap",
-			"result"	=> "1",
-			"tool"		=> "Leatherworking Table + Leather Cutter",
+			"tool"		=> "Leatherworking Table (combine)",
 			"skill"		=> "Leatherworking",
 			"level"		=> "200",
 			"book"		=> "Basic Leathermaking"
@@ -3505,66 +3417,6 @@
 			"book"		=> "Basic Leathermaking"
 		),
 		array (
-			"name"		=> "Medium Piece Of Leather",
-			"type"		=> "P",
-			"ingredient"	=> "C 1 Medium Tanning Hide",
-			"result"	=> "1",
-			"tool"		=> "Water Barrel",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Large Tanning Hide",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Large Hide, B 6 Tanning Crystal Acid",
-			"result"	=> "1",
-			"tool"		=> "Leatherworking Table (combine)",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Large Piece Of Leather",
-			"type"		=> "P",
-			"ingredient"	=> "C 1 Large Tanning Hide",
-			"result"	=> "1",
-			"tool"		=> "Water Barrel",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Medium Piece Of Leather",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Large Piece Of Leather",
-			"result"	=> "2",
-			"tool"		=> "Leatherworking Table + Leather Cutter",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Small Piece Of Leather",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Medium Piece Of Leather",
-			"result"	=> "3",
-			"tool"		=> "Leatherworking Table + Leather Cutter",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Small Piece Of Leather",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Leather Arms Armor",
-			"result"	=> "1",
-			"tool"		=> "Leatherworking Table + Leather Cutter",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
 			"name"		=> "Small Tanning Hide",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Small Hide, B 1 Tanning Crystal Acid",
@@ -3575,20 +3427,10 @@
 			"book"		=> "Basic Leathermaking"
 		),
 		array (
-			"name"		=> "Small Piece Of Leather",
-			"type"		=> "P",
-			"ingredient"	=> "C 1 Small Tanning Hide",
-			"result"	=> "1",
-			"tool"		=> "Water Barrel",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Leather Patch",
+			"name"		=> "Medium Piece Of Leather",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Piece Of Leather",
-			"result"	=> "3",
+			"ingredient"	=> "C 1 Large Piece Of Leather",
+			"result"	=> "2",
 			"tool"		=> "Leatherworking Table + Leather Cutter",
 			"skill"		=> "Leatherworking",
 			"level"		=> "200",
@@ -3605,9 +3447,49 @@
 			"book"		=> "Basic Leathermaking"
 		),
 		array (
-			"name"		=> "Medium Hide",
+			"name"		=> "Small Piece Of Leather",
 			"type"		=> "I",
-			"ingredient"	=> "L 1 Trepor Warrior Skin",
+			"ingredient"	=> "C 1 Medium Piece Of Leather",
+			"result"	=> "3",
+			"tool"		=> "Leatherworking Table + Leather Cutter",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Leather Patch",
+			"type"		=> "I",
+			"ingredient"	=> "C 1 Small Piece Of Leather",
+			"result"	=> "3",
+			"tool"		=> "Leatherworking Table + Leather Cutter",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Small Hide",
+			"type"		=> "I",
+			"ingredient"	=> "L 1 Diseased Rat Hide",
+			"result"	=> "1",
+			"tool"		=> "Leatherworking Table + Hide Scraper",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Large Hide",
+			"type"		=> "I",
+			"ingredient"	=> "L 1 Maulbernaut Fur",
+			"result"	=> "2",
+			"tool"		=> "Leatherworking Table + Hide Scraper",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Small Hide",
+			"type"		=> "I",
+			"ingredient"	=> "L 1 Rat Hide",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
 			"skill"		=> "Leatherworking",
@@ -3627,6 +3509,26 @@
 		array (
 			"name"		=> "Medium Hide",
 			"type"		=> "I",
+			"ingredient"	=> "L 1 Tefusangling Skin",
+			"result"	=> "1",
+			"tool"		=> "Leatherworking Table + Hide Scraper",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Large Hide",
+			"type"		=> "I",
+			"ingredient"	=> "L 1 Tefusang Skin",
+			"result"	=> "1",
+			"tool"		=> "Leatherworking Table + Hide Scraper",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Medium Hide",
+			"type"		=> "I",
 			"ingredient"	=> "L 1 Trepor Queen Skin",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3637,7 +3539,17 @@
 		array (
 			"name"		=> "Medium Hide",
 			"type"		=> "I",
-			"ingredient"	=> "L 1 Tefusangling Skin",
+			"ingredient"	=> "L 1 Trepor Warrior Skin",
+			"result"	=> "1",
+			"tool"		=> "Leatherworking Table + Hide Scraper",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Large Hide",
+			"type"		=> "I",
+			"ingredient"	=> "L 1 Ulbernaut Fur",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
 			"skill"		=> "Leatherworking",
@@ -3655,8 +3567,58 @@
 			"book"		=> "Basic Leathermaking"
 		),
 		array (
-			"name"		=> "Medium Leather Armor Piece",
+			"name"		=> "Large Hide",
 			"type"		=> "I",
+			"ingredient"	=> "L 1 Vilenaut Fur",
+			"result"	=> "2",
+			"tool"		=> "Leatherworking Table + Hide Scraper",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Small Piece Of Leather",
+			"type"		=> "O",
+			"ingredient"	=> "C 1 Leather Arms Armor",
+			"result"	=> "1",
+			"tool"		=> "Leatherworking Table + Leather Cutter",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Small Leather Armor Piece",
+			"type"		=> "O",
+			"ingredient"	=> "C 1 Leather Boots",
+			"result"	=> "1",
+			"tool"		=> "Leatherworking Table + Leather Cutter",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Leather Armor Patch",
+			"type"		=> "O",
+			"ingredient"	=> "C 1 Leather Cap",
+			"result"	=> "1",
+			"tool"		=> "Leatherworking Table + Leather Cutter",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Leather Armor Patch",
+			"type"		=> "O",
+			"ingredient"	=> "C 1 Leather Gloves",
+			"result"	=> "1",
+			"tool"		=> "Leatherworking Table + Leather Cutter",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Medium Leather Armor Piece",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Leather Pants",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Leather Cutter",
@@ -3665,37 +3627,47 @@
 			"book"		=> "Basic Leathermaking"
 		),
 		array (
-			"name"		=> "Small Hide",
-			"type"		=> "I",
-			"ingredient"	=> "L 1 Rat Hide",
-			"result"	=> "1",
-			"tool"		=> "Leatherworking Table + Hide Scraper",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Small Hide",
-			"type"		=> "I",
-			"ingredient"	=> "L 1 Diseased Rat Hide",
-			"result"	=> "1",
-			"tool"		=> "Leatherworking Table + Hide Scraper",
-			"skill"		=> "Leatherworking",
-			"level"		=> "200",
-			"book"		=> "Basic Leathermaking"
-		),
-		array (
-			"name"		=> "Small Leather Armor Piece",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Leather Boots",
+			"name"		=> "Large Leather Armor Piece",
+			"type"		=> "O",
+			"ingredient"	=> "C 1 Leather Torso Armor",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Leather Cutter",
 			"skill"		=> "Leatherworking",
 			"level"		=> "200",
 			"book"		=> "Basic Leathermaking"
 		),
+		array (
+			"name"		=> "Large Piece Of Leather",
+			"type"		=> "P",
+			"ingredient"	=> "C 1 Large Tanning Hide",
+			"result"	=> "1",
+			"tool"		=> "Water Barrel",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Medium Piece Of Leather",
+			"type"		=> "P",
+			"ingredient"	=> "C 1 Medium Tanning Hide",
+			"result"	=> "1",
+			"tool"		=> "Water Barrel",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
+		array (
+			"name"		=> "Small Piece Of Leather",
+			"type"		=> "P",
+			"ingredient"	=> "C 1 Small Tanning Hide",
+			"result"	=> "1",
+			"tool"		=> "Water Barrel",
+			"skill"		=> "Leatherworking",
+			"level"		=> "200",
+			"book"		=> "Basic Leathermaking"
+		),
 		//
-		// Basic Potion Tome
+		// Basic Potions Tome
 		//
 		array (
 			"name"		=> "Mix of Distilled Velnishi Blood",
@@ -3705,7 +3677,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Charme Essence",
@@ -3715,7 +3687,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Kikiri Blood",
@@ -3725,7 +3697,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Charme Essence",
@@ -3735,7 +3707,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Distilled Coamti Blood",
@@ -3745,7 +3717,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Charme Essence",
@@ -3755,7 +3727,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Distilled Vilenaut Blood",
@@ -3765,7 +3737,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Charme Essence",
@@ -3775,7 +3747,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Distilled Gobble Blood",
@@ -3785,7 +3757,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Charme Essence",
@@ -3795,7 +3767,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Distilled Weaver Arangma Blood",
@@ -3805,7 +3777,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Charme Essence",
@@ -3815,7 +3787,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Purified Maulberlord Blood",
@@ -3825,7 +3797,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Charme Essence",
@@ -3835,37 +3807,8 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
-		//
-		// Basic Potion Tome, Cooking with Minerals
-		//
-		array (
-			"name"		=> "Mix of Copper ore and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Copper Ore, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals"
-		),
-		//
-		// Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
-		//
-		array (
-			"name"		=> "Mix of Copper and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Copper, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
-		),
-		//
-		// Basic Potion Tome
-		//
 		array (
 			"name"		=> "Distilled Coamti Blood",
 			"type"		=> "I",
@@ -3874,7 +3817,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Distilled Gobble Blood",
@@ -3884,7 +3827,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Distilled Velnishi Blood",
@@ -3894,7 +3837,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Distilled Vilenaut Blood",
@@ -3904,7 +3847,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<26",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Distilled Weaver Arangma Blood",
@@ -3914,7 +3857,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mixed Rats foot",
@@ -3924,7 +3867,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Grace Essence",
@@ -3934,7 +3877,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mixed Clacker Leg",
@@ -3944,7 +3887,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Grace Essence",
@@ -3954,7 +3897,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mixed Thunder Clacker Leg",
@@ -3964,7 +3907,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Grace Essence",
@@ -3974,7 +3917,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mixed Consumer Leg",
@@ -3984,7 +3927,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Grace Essence",
@@ -3994,7 +3937,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Ground Rat Foot",
@@ -4004,7 +3947,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Ground Serpent Gobble Bones",
@@ -4014,7 +3957,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Ground Thunder Clacker Leg",
@@ -4024,7 +3967,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Ground Thunder Clacker Tentacle",
@@ -4034,7 +3977,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Ground Trepor Warrior Talon",
@@ -4044,7 +3987,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Ground Trepor Wiggly Feeler",
@@ -4054,7 +3997,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Ground Vesper Arangma Feeler",
@@ -4064,7 +4007,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Ground Wrath Rat Bones",
@@ -4074,7 +4017,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Arangma Talon",
@@ -4084,7 +4027,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Flayed Velnishi Talon",
@@ -4094,7 +4037,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Jade Clacker Talon",
@@ -4104,7 +4047,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Maulberlord Talon",
@@ -4114,7 +4057,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Maulberlord Talon",
@@ -4124,7 +4067,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Maulbernaut Talon",
@@ -4134,7 +4077,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Maulbernaut Talon",
@@ -4144,7 +4087,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Tefusang Claw",
@@ -4154,7 +4097,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Tefusangling Claw",
@@ -4164,7 +4107,7 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Incinerated Velnishi Talon",
@@ -4174,34 +4117,8 @@
 			"tool"		=> "Alchemist Stove",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
-		//
-		// Basic Potion Tome, Cooking with Minerals
-		//
-		array (
-			"name"		=> "Mix of Iron ore and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Iron Ore, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals"
-		),
-		array (
-			"name"		=> "Mix of Iron and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Iron, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals"
-		),
-		//
-		// Basic Potion Tome
-		//
 		array (
 			"name"		=> "Limed Carkarass Skull",
 			"type"		=> "I",
@@ -4210,7 +4127,7 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Limed Coamti Talon",
@@ -4220,7 +4137,7 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Limed Eagle Gobble Skull",
@@ -4230,7 +4147,7 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Limed Flayed Velnishi Skull",
@@ -4240,7 +4157,7 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Limed Grendol bones",
@@ -4250,7 +4167,7 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Limed Grendol bones",
@@ -4260,7 +4177,7 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Limed Marfusang Bones",
@@ -4270,7 +4187,7 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Limed Poison Carkarass Skull",
@@ -4280,7 +4197,7 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Limed Serpent Gobble Skull",
@@ -4290,7 +4207,7 @@
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Dermorian's Willpower",
@@ -4300,7 +4217,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Major Potion of Dermorian's Willpower",
@@ -4310,7 +4227,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Diaboli's Charm",
@@ -4320,7 +4237,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Major Potion of Diaboli's Charm",
@@ -4330,7 +4247,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Enkidukai's Grace",
@@ -4340,7 +4257,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Major Potion of Enkidukai's Grace",
@@ -4350,7 +4267,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Kran's Vigor",
@@ -4360,7 +4277,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Major Potion of Kran's Vigor",
@@ -4370,7 +4287,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Lemur's Smartness",
@@ -4380,7 +4297,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Major Potion of Lemur's Smartness",
@@ -4390,7 +4307,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Major Potion of Ynnwn's Toughness",
@@ -4400,7 +4317,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Major Potion of Ynnwn's Toughness",
@@ -4410,7 +4327,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Dermorian's Willpower",
@@ -4420,7 +4337,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Minor Potion of Dermorian's Willpower",
@@ -4430,7 +4347,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Diaboli's Charm",
@@ -4440,7 +4357,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Minor Potion of Diaboli's Charm",
@@ -4450,7 +4367,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Enkidukai's Grace",
@@ -4460,7 +4377,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Minor Potion of Enkidukai's Grace",
@@ -4470,7 +4387,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Kran's Vigor",
@@ -4480,7 +4397,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Minor Potion of Kran's Vigor",
@@ -4490,7 +4407,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Lemur's Smartness",
@@ -4500,7 +4417,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Minor Potion of Lemur's Smartness",
@@ -4510,7 +4427,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Ynnwn's Toughness",
@@ -4520,7 +4437,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Minor Potion of Ynnwn's Toughness",
@@ -4530,24 +4447,8 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
-		//
-		// Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran, Healer's Remedies
-		//
-		array (
-			"name"		=> "Mix of niter and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "B 2 Niter, B 1 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran, Healer's Remedies"
-		),
-		//
-		// Basic Potion Tome
-		//
 		array (
 			"name"		=> "Raw Potion of Dermorian's Willpower",
 			"type"		=> "I",
@@ -4556,7 +4457,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Potion of Dermorian's Willpower",
@@ -4566,7 +4467,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Potion of Diaboli's Charm",
@@ -4576,7 +4477,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Potion of Diaboli's Charm",
@@ -4586,7 +4487,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Potion of Enkidukai's Grace",
@@ -4596,7 +4497,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Potion of Enkidukai's Grace",
@@ -4606,7 +4507,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Potion of Kran's Vigor",
@@ -4616,7 +4517,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Potion of Kran's Vigor",
@@ -4626,7 +4527,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Potion of Lemur's Smartness",
@@ -4636,7 +4537,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Potion of Lemur's Smartness",
@@ -4646,7 +4547,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Raw Potion of Ynnwn's Toughness",
@@ -4656,7 +4557,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Potion of Ynnwn's Toughness",
@@ -4666,7 +4567,7 @@
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Powdered Clacker Leg",
@@ -4676,7 +4577,7 @@
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Powdered Consumer Antenna",
@@ -4686,7 +4587,7 @@
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Powdered Consumer Leg",
@@ -4696,7 +4597,7 @@
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Purified Kikiri Blood",
@@ -4706,7 +4607,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Purified Maulberlord Blood",
@@ -4716,63 +4617,8 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
-		//
-		// Basic Potion Tome, Crystal's Delight for Kran
-		//
-		array (
-			"name"		=> "Mix of Quicksilver and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Quicksilver Vial, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Crystal's Delight for Kran"
-		),
-		//
-		// Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran, Healer's Remedies
-		//
-		array (
-			"name"		=> "Mix of salt and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "B 2 Common Salt, B 1 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran, Healer's Remedies"
-		),
-		//
-		// Basic Potion Tome, Cooking with Minerals
-		//
-		array (
-			"name"		=> "Mix of Silver ore and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Silver Ore, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals"
-		),
-		//
-		// Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
-		//
-		array (
-			"name"		=> "Mix of Silver and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Silver, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
-		),
-		//
-		// Basic Potion Tome
-		//
 		array (
 			"name"		=> "Mixed Rats eyes",
 			"type"		=> "I",
@@ -4781,7 +4627,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Smartness Essence",
@@ -4791,7 +4637,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mixed Vesper Arangma Eye",
@@ -4801,7 +4647,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Smartness Essence",
@@ -4811,7 +4657,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mixed Coamti Eye",
@@ -4821,7 +4667,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Smartness Essence",
@@ -4831,7 +4677,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Wrath Rat Eye",
@@ -4841,7 +4687,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Smartness Essence",
@@ -4851,37 +4697,8 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
-		//
-		// Basic Potion Tome, Cooking with Minerals
-		//
-		array (
-			"name"		=> "Mix of Tin ore and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Tin Ore, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals"
-		),
-		//
-		// Basic Potion Tome, Crystal's Delight for Kran
-		//
-		array (
-			"name"		=> "Mix of Tin and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Tin, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Crystal's Delight for Kran"
-		),
-		//
-		// Basic Potion Tome
-		//
 		array (
 			"name"		=> "Mix of limed Poison Carkarass skull",
 			"type"		=> "I",
@@ -4890,7 +4707,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Toughness Essence",
@@ -4900,7 +4717,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of limed Carkarass skull",
@@ -4910,7 +4727,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Toughness Essence",
@@ -4920,7 +4737,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of limed Flayed Velnishi skull",
@@ -4930,7 +4747,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Toughness Essence",
@@ -4940,7 +4757,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Limed Marfusang Bones",
@@ -4950,7 +4767,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Toughness Essence",
@@ -4960,7 +4777,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Wrath Rat Bones",
@@ -4970,7 +4787,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Toughness Essence",
@@ -4980,7 +4797,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Ground Serpent Gobble Bones",
@@ -4990,7 +4807,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Toughness Essence",
@@ -5000,7 +4817,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of limed Serpent Gobble skull",
@@ -5010,7 +4827,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Toughness Essence",
@@ -5020,7 +4837,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Limed Grendol bones",
@@ -5030,7 +4847,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Toughness Essence",
@@ -5040,7 +4857,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of limed Eagle Gobble skull",
@@ -5050,7 +4867,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Toughness Essence",
@@ -5060,7 +4877,7 @@
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Jade Clacker Talon",
@@ -5070,7 +4887,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5080,7 +4897,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of incinerated Velnishi Talon",
@@ -5090,7 +4907,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5100,7 +4917,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Flayed Velnishi Talon",
@@ -5110,7 +4927,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5120,7 +4937,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Limed Coamti Talon",
@@ -5130,7 +4947,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5140,7 +4957,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of incinerated Arangma Talon",
@@ -5150,7 +4967,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5160,7 +4977,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Incinerated Maulberlord Talon",
@@ -5170,7 +4987,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5180,7 +4997,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of ground Trepor Warrior Talon",
@@ -5190,7 +5007,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5200,7 +5017,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Incinerated Maulbernaut Talon",
@@ -5210,7 +5027,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5220,7 +5037,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Incinerated Tefusang Claw",
@@ -5230,7 +5047,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5240,7 +5057,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Incinerated Tefusangling Claw",
@@ -5250,7 +5067,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Vigor Essence",
@@ -5260,7 +5077,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Thunder Clacker Tentacle",
@@ -5270,7 +5087,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Willpower Essence",
@@ -5280,7 +5097,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Vesper Arangma Feeler",
@@ -5290,7 +5107,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Willpower Essence",
@@ -5300,7 +5117,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Consumer Antenna",
@@ -5310,7 +5127,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Consumer Pheromone",
@@ -5320,7 +5137,7 @@
 			"tool"		=> "Alembic",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Willpower Essence",
@@ -5330,7 +5147,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">22<34",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Mix of Trepor Wiggly Feeler",
@@ -5340,7 +5157,7 @@
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
 			"level"		=> "0",
-			"book"		=> "Basic Potion Tome"
+			"book"		=> "Basic Potions Tome"
 		),
 		array (
 			"name"		=> "Willpower Essence",
@@ -5350,33 +5167,7 @@
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">9<22",
-			"book"		=> "Basic Potion Tome"
-		),
-		//
-		// Basic Potion Tome, Cooking with Minerals
-		//
-		array (
-			"name"		=> "Mix of Zinc ore and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Zinc Ore, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals"
-		),
-		//
-		// Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran
-		//
-		array (
-			"name"		=> "Mix of Zinc and vitriol",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Zinc, B 2 Oil of Vitriol",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Basic Potion Tome, Cooking with Minerals, Crystal's Delight for Kran"
+			"book"		=> "Basic Potions Tome"
 		),
 		//
 		// Book of Blades
@@ -5721,7 +5512,7 @@
 		),
 		array (
 			"name"		=> "Sabre Alpha Blade",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -5793,7 +5584,7 @@
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Dagger Blade",
 			"result"	=> "8",
-			"tool"		=> "Anvil + Hamm",
+			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
 			"level"		=> "200",
 			"book"		=> "Book of Blades"
@@ -7328,7 +7119,7 @@
 		//
 		array (
 			"name"		=> "Brittle Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Brittle Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -7338,7 +7129,7 @@
 		),
 		array (
 			"name"		=> "Brittle Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Brittle Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -7348,7 +7139,7 @@
 		),
 		array (
 			"name"		=> "Brittle Knife Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Brittle Knife Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -7358,7 +7149,7 @@
 		),
 		array (
 			"name"		=> "Brittle Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Brittle Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -7368,7 +7159,7 @@
 		),
 		array (
 			"name"		=> "Brittle Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Brittle Sabre Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -7378,7 +7169,7 @@
 		),
 		array (
 			"name"		=> "Brittle Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Brittle Shortsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -8811,7 +8602,7 @@
 			"book"		=> "Book of Blades"
 		),
 		//
-		// Catalog of Hammers any Maces
+		// Catalog of Hammers any Maces, Platinum Steel Hammers and Maces
 		//
 		array (
 			"name"		=> "Mace Battle Handle",
@@ -8821,8 +8612,11 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Mace Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Hammers any Maces"
+			"book"		=> "Catalog of Hammers any Maces, Platinum Steel Hammers and Maces"
 		),
+		//
+		// Catalog of Hammers any Maces
+		//
 		array (
 			"name"		=> "Battle Hammer Kit",
 			"type"		=> "I",
@@ -9394,7 +9188,7 @@
 			"book"		=> "Catalog of Hammers any Maces"
 		),
 		array (
-			"name"		=> "Hammer Spikes",
+			"name"		=> "Hammer Spike",
 			"type"		=> "I",
 			"ingredient"	=> "C 12 Heated Steel Ingot",
 			"result"	=> "2",
@@ -9476,9 +9270,6 @@
 			"level"		=> "200",
 			"book"		=> "Catalog of Hammers any Maces, Platinum Steel Hammers and Maces"
 		),
-		//
-		// Catalog of Hammers any Maces
-		//
 		array (
 			"name"		=> "Mace War Handle",
 			"type"		=> "I",
@@ -9487,8 +9278,11 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Mace Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Hammers any Maces"
+			"book"		=> "Catalog of Hammers any Maces, Platinum Steel Hammers and Maces"
 		),
+		//
+		// Catalog of Hammers any Maces
+		//
 		array (
 			"name"		=> "Morning Star Kit",
 			"type"		=> "I",
@@ -9812,7 +9606,7 @@
 		array (
 			"name"		=> "War Pick Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Mace War Handle, C 1 Hammer Base, C 2 Hammer Spikes",
+			"ingredient"	=> "C 1 Mace War Handle, C 1 Hammer Base, C 2 Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Mace Making",
@@ -9870,7 +9664,7 @@
 			"book"		=> "Catalog of Hammers any Maces"
 		),
 		//
-		// Catalog of Light Shields, Enchanting Heavy Shields
+		// Catalog of Light Shields, Catalog of Medium Shields, Enchanting Heavy Shields, Enchanting Light Shields, Shadow and Sunshine Shield Design
 		//
 		array (
 			"name"		=> "Small Wooden Shield Core",
@@ -9880,7 +9674,7 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "<23",
-			"book"		=> "Catalog of Light Shields, Enchanting Heavy Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Enchanting Heavy Shields, Enchanting Light Shields, Shadow and Sunshine Shield Design"
 		),
 		//
 		// Catalog of Light Shields, Enchanting Light Shields
@@ -9888,7 +9682,7 @@
 		array (
 			"name"		=> "Bronze Buckler Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Bronze Buckler Shape, B 1 Small Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Bronze Buckler Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -10001,19 +9795,19 @@
 			"level"		=> "<23",
 			"book"		=> "Catalog of Light Shields, Shadow and Sunshine Shield Design"
 		),
+		//
+		// Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design
+		//
 		array (
-			"name"		=> "Bronze Spikes",
-			"type"		=> "O",
+			"name"		=> "Bronze Spike",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Bronze Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Shield Making",
 			"level"		=> ">23",
-			"book"		=> "Catalog of Light Shields, Shadow and Sunshine Shield Design"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
-		//
-		// Catalog of Light Shields, Catalog of Medium Shields
-		//
 		array (
 			"name"		=> "Heated Bronze Spike",
 			"type"		=> "O",
@@ -10022,7 +9816,7 @@
 			"tool"		=> "Forge",
 			"skill"		=> "Shield Making",
 			"level"		=> "0",
-			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
 		array (
 			"name"		=> "Bronze Spike",
@@ -10032,7 +9826,7 @@
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Shield Making",
 			"level"		=> "0",
-			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
 		array (
 			"name"		=> "Bronze Spike",
@@ -10042,7 +9836,7 @@
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Shield Making",
 			"level"		=> ">23",
-			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
 		array (
 			"name"		=> "Super Heated Bronze Spike",
@@ -10052,7 +9846,7 @@
 			"tool"		=> "Forge",
 			"skill"		=> "Shield Making",
 			"level"		=> "0",
-			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
 		array (
 			"name"		=> "Red Hot Bronze Spike",
@@ -10062,7 +9856,7 @@
 			"tool"		=> "Forge",
 			"skill"		=> "Shield Making",
 			"level"		=> "0",
-			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
 		array (
 			"name"		=> "Bronze Spike",
@@ -10072,7 +9866,7 @@
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Shield Making",
 			"level"		=> "0",
-			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
 		array (
 			"name"		=> "Bronze Spike",
@@ -10082,7 +9876,7 @@
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Shield Making",
 			"level"		=> "0",
-			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
 		array (
 			"name"		=> "Bronze Spike",
@@ -10092,7 +9886,7 @@
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Shield Making",
 			"level"		=> ">23",
-			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
 		//
 		// Catalog of Light Shields, Enchanting Light Shields
@@ -10100,7 +9894,7 @@
 		array (
 			"name"		=> "Buckler Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Buckler Shape, B 1 Small Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Buckler Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -10182,7 +9976,7 @@
 		),
 		array (
 			"name"		=> "Buckler Shape",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Buckler Shape",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -10211,7 +10005,7 @@
 			"book"		=> "Catalog of Light Shields"
 		),
 		array (
-			"name"		=> "Iron Bands",
+			"name"		=> "Iron Band",
 			"type"		=> "I",
 			"ingredient"	=> "C 7 Heated Iron Ingot",
 			"result"	=> "3",
@@ -10306,7 +10100,7 @@
 		array (
 			"name"		=> "Iron Buckler Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Iron Buckler Shape, B 1 Small Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Iron Buckler Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -10506,19 +10300,19 @@
 			"level"		=> "<23",
 			"book"		=> "Catalog of Light Shields"
 		),
+		//
+		// Catalog of Light Shields, Catalog of Medium Shields
+		//
 		array (
-			"name"		=> "Iron Spikes",
-			"type"		=> "O",
+			"name"		=> "Iron Spike",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Iron Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Shield Making",
 			"level"		=> "<23",
-			"book"		=> "Catalog of Light Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
 		),
-		//
-		// Catalog of Light Shields, Catalog of Medium Shields
-		//
 		array (
 			"name"		=> "Heated Iron Spike",
 			"type"		=> "O",
@@ -10610,7 +10404,7 @@
 			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields"
 		),
 		//
-		// Catalog of Light Shields, Enchanting Heavy Shields
+		// Catalog of Light Shields, Catalog of Medium Shields, Enchanting Heavy Shields, Enchanting Light Shields, Enforcer Shield Diagram
 		//
 		array (
 			"name"		=> "Wooden Shield Core",
@@ -10620,7 +10414,7 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "<23",
-			"book"		=> "Catalog of Light Shields, Enchanting Heavy Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Enchanting Heavy Shields, Enchanting Light Shields, Enforcer Shield Diagram"
 		),
 		//
 		// Catalog of Light Shields, Enchanting Light Shields
@@ -10628,7 +10422,7 @@
 		array (
 			"name"		=> "Reinforced Wooden Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "B 1 Wooden Shield Core, B 1 Leather Shield Handle, C 2 Iron Edgings",
+			"ingredient"	=> "C 1 Wooden Shield Core, C 1 Leather Shield Handle, C 2 Iron Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -10784,18 +10578,15 @@
 			"level"		=> "<23",
 			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Enforcer Shield Diagram"
 		),
-		//
-		// Catalog of Light Shields
-		//
 		array (
-			"name"		=> "Shield Spikes",
-			"type"		=> "O",
+			"name"		=> "Shield Spike",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Steel Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Shield Making",
 			"level"		=> "<23",
-			"book"		=> "Catalog of Light Shields"
+			"book"		=> "Catalog of Light Shields, Catalog of Medium Shields, Enforcer Shield Diagram"
 		),
 		//
 		// Catalog of Light Shields, Enchanting Light Shields
@@ -10803,7 +10594,7 @@
 		array (
 			"name"		=> "Small Bronze Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Bronze Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Small Bronze Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -10922,7 +10713,7 @@
 		array (
 			"name"		=> "Small Iron Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Iron Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Small Iron Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -11038,7 +10829,7 @@
 		array (
 			"name"		=> "Small Round Bronze Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Round Bronze Shield Shape, B 1 Small Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Small Round Bronze Shield Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -11157,7 +10948,7 @@
 		array (
 			"name"		=> "Small Round Iron Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Round Iron Shield Shape, B 1 Small Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Small Round Iron Shield Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -11273,7 +11064,7 @@
 		array (
 			"name"		=> "Small Round Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Round Shield Shape, B 1 Small Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Small Round Shield Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -11392,7 +11183,7 @@
 		array (
 			"name"		=> "Small Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Small Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -11511,7 +11302,7 @@
 		array (
 			"name"		=> "Small Spiked Bronze Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Bronze Spike, C 1 Small Spiked Bronze Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Bronze Spike, C 1 Small Spiked Bronze Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -11547,7 +11338,7 @@
 		array (
 			"name"		=> "Small Spiked Iron Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Iron Spike, C 1 Small Spiked Iron Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Iron Spike, C 1 Small Spiked Iron Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -11663,7 +11454,7 @@
 		array (
 			"name"		=> "Small Spiked Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Shield Spike, C 1 Small Spiked Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Shield Spike, C 1 Small Spiked Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -11773,16 +11564,22 @@
 			"level"		=> "<23",
 			"book"		=> "Catalog of Light Shields"
 		),
+		//
+		// Catalog of Light Shields, Enchanting Light Shields
+		//
 		array (
 			"name"		=> "Wooden and Metal Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "B 1 Wooden Shield Core, B 1 Leather Shield Handle, C 4 Iron Bands",
+			"ingredient"	=> "C 1 Wooden Shield Core, C 1 Leather Shield Handle, C 4 Iron Band",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "<23",
-			"book"		=> "Catalog of Light Shields"
+			"book"		=> "Catalog of Light Shields, Enchanting Light Shields"
 		),
+		//
+		// Catalog of Light Shields
+		//
 		array (
 			"name"		=> "Wooden and Metal Shield",
 			"type"		=> "P",
@@ -11967,216 +11764,190 @@
 			"book"		=> "Catalog of Medium Shields"
 		),
 		//
-		// Catalog of Medium Shields, Enchanting Light Shields, Shadow and Sunshine Shield Design
+		// Catalog of Medium Shields, Enchanting Heavy Shields, Enchanting Light Shields, Enforcer Shield Diagram, Shadow and Sunshine Shield Design
 		//
 		array (
-			"name"		=> "Small Wooden Shield Cores",
-			"type"		=> "I",
-			"ingredient"	=> "C 2 Shaped Small Wooden Block",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields, Shadow and Sunshine Shield Design"
-		),
-		//
-		// Catalog of Medium Shields, Enchanting Light Shields, Enforcer Shield Diagram
-		//
-		array (
-			"name"		=> "Wooden Shield Cores",
-			"type"		=> "I",
-			"ingredient"	=> "C 2 Shaped Small Wooden Block, C 1 Shaped Wooden Block",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields, Enforcer Shield Diagram"
-		),
-		//
-		// Catalog of Medium Shields, Enchanting Light Shields, Enforcer Shield Diagram, Shadow and Sunshine Shield Design
-		//
-		array (
-			"name"		=> "Round Wooden Shield Cores",
+			"name"		=> "Round Wooden Shield Core",
 			"type"		=> "I",
 			"ingredient"	=> "C 3 Shaped Small Wooden Block",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields, Enforcer Shield Diagram, Shadow and Sunshine Shield Design"
+			"book"		=> "Catalog of Medium Shields, Enchanting Heavy Shields, Enchanting Light Shields, Enforcer Shield Diagram, Shadow and Sunshine Shield Design"
 		),
 		//
-		// Catalog of Medium Shields
+		// Catalog of Medium Shields, Enchanting Light Shields
 		//
 		array (
-			"name"		=> "Spiked Bronze Shield Kits",
+			"name"		=> "Spiked Bronze Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 4 Bronze Spike, C 1 Spiked Bronze Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 4 Bronze Spike, C 1 Spiked Bronze Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Spiked Iron Shield Kits",
+			"name"		=> "Spiked Iron Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 4 Iron Spike, C 1 Spiked Iron Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 4 Iron Spike, C 1 Spiked Iron Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Spiked Shield Kits",
+			"name"		=> "Spiked Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 4 Shield Spike, C 1 Spiked Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 4 Shield Spike, C 1 Spiked Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Bronze Shield Kits",
+			"name"		=> "Bronze Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Bronze Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Bronze Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Iron Shield Kits",
+			"name"		=> "Iron Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Iron Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Iron Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Round Bronze Shield Kits",
+			"name"		=> "Round Bronze Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Bronze Shield Shape, B 1 Round Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Round Bronze Shield Shape, C 1 Round Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Round Iron Shield Kits",
+			"name"		=> "Round Iron Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Iron Shield Shape, B 1 Round Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Round Iron Shield Shape, C 1 Round Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Round Shield Kits",
+			"name"		=> "Round Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, B 1 Round Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Round Shield Shape, C 1 Round Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Shield Kits",
+			"name"		=> "Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
+			"ingredient"	=> "C 1 Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Three Rivet Shield Wicker Kits",
+			"name"		=> "Three Rivet Shield Wicker Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Shield Handle, C 4 Bronze Band, B 1 Small Wicker Shield Core, C 2 Bronze Half Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Three Rivet Shield Kits",
+			"name"		=> "Three Rivet Shield Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Shield Handle, C 4 Bronze Band, B 1 Small Wooden Shield Core, C 2 Bronze Half Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Banded Shield Wicker Kits",
+			"name"		=> "Banded Shield Wicker Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Small Shield Shape, C 1 Shield Handle, C 3 Shield Band, B 1 Small Wicker Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Banded Shield Kits",
+			"name"		=> "Banded Shield Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Small Shield Shape, C 1 Shield Handle, C 3 Shield Band, B 1 Small Wooden Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Stinger Shield Wicker Kits",
+			"name"		=> "Stinger Shield Wicker Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, B 1 Wicker Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Stinger Shield Kits",
+			"name"		=> "Stinger Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, B 1 Wooden Shield Core, C 1 Shield Circle",
+			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 1 Wooden Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Five-Spiked Shield Wicker Kits",
+			"name"		=> "Five-Spiked Shield Wicker Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 5 Shield Spike, C 1 Shield Band, B 1 Wicker Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Five-Spiked Shield Kits",
+			"name"		=> "Five-Spiked Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 5 Shield Spike, C 1 Shield Band, B 1 Wooden Shield Core, C 1 Shield Circle",
+			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 5 Shield Spike, C 1 Shield Band, C 1 Wooden Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
+			"book"		=> "Catalog of Medium Shields, Enchanting Light Shields"
 		),
 		//
 		// Catalog of Medium Shields, Enforcer Shield Diagram, Shadow and Sunshine Shield Design
@@ -13513,22 +13284,6 @@
 			"level"		=> "200",
 			"book"		=> "Catalog of Medium Shields, Shadow and Sunshine Shield Design"
 		),
-		//
-		// Catalog of Medium Shields
-		//
-		array (
-			"name"		=> "Bronze Spike",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Heated Bronze Ingot",
-			"result"	=> "2",
-			"tool"		=> "Anvil + Hammer",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
-		),
-		//
-		// Catalog of Medium Shields, Shadow and Sunshine Shield Design
-		//
 		array (
 			"name"		=> "Round Bronze Shield Shape",
 			"type"		=> "O",
@@ -13551,19 +13306,6 @@
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Catalog of Medium Shields, Enforcer Shield Diagram, Shadow and Sunshine Shield Design"
-		),
-		//
-		// Catalog of Medium Shields
-		//
-		array (
-			"name"		=> "Iron Spike",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Heated Iron Ingot",
-			"result"	=> "2",
-			"tool"		=> "Anvil + Hammer",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields"
 		),
 		//
 		// Catalog of Medium Shields, Enforcer Shield Diagram
@@ -13697,16 +13439,6 @@
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Spiked Shield Shape",
 			"result"	=> "1",
-			"tool"		=> "Anvil + Hammer",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Catalog of Medium Shields, Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Shield Spike",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Heated Steel Ingot",
-			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
@@ -14351,16 +14083,6 @@
 			"book"		=> "Cooking with Minerals"
 		),
 		array (
-			"name"		=> "Mix of Gold niter and salt spirit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Nitric spirit, C 3 Salt spirit, C 1 Powdered Gold",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Cooking with Minerals"
-		),
-		array (
 			"name"		=> "Green Gold Soup Surprise Mix",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Powdered Coal, C 1 Gold Solution, C 1 Silver Ore Solution, C 1 Shards of Diamond Crystal",
@@ -14471,7 +14193,7 @@
 			"book"		=> "Cooking with Minerals"
 		),
 		array (
-			"name"		=> "Big chunk of Coppper",
+			"name"		=> "Big chunk of Copper",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Copper Ingot",
 			"result"	=> "3",
@@ -14481,7 +14203,7 @@
 			"book"		=> "Cooking with Minerals"
 		),
 		array (
-			"name"		=> "Small chunk of Coppper",
+			"name"		=> "Small chunk of Copper",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Big chunk of Copper",
 			"result"	=> "3",
@@ -14493,7 +14215,7 @@
 		array (
 			"name"		=> "Powdered Copper",
 			"type"		=> "I",
-			"ingredient"	=> "C 9 Small chunk of Coppper",
+			"ingredient"	=> "C 9 Small chunk of Copper",
 			"result"	=> "1",
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
@@ -14864,33 +14586,13 @@
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
-			"name"		=> "Brassed Delightful Sauces",
+			"name"		=> "Brassed Delightful Sauce",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Brassed Delightful Sauce Mix",
 			"result"	=> "2",
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> ">34",
-			"book"		=> "Crystal's Delight for Kran"
-		),
-		array (
-			"name"		=> "Mixed Ruby and Emerald Crystal",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Ruby Crystal, C 1 Powdered Emerald Crystal, C 2 Nitric spirits",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
-			"book"		=> "Crystal's Delight for Kran"
-		),
-		array (
-			"name"		=> "Mixed Diamond and Sapphire Crystal",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Powdered Diamond Crystal, C 1 Powdered Sapphire Crystal, C 2 Salt spirits",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
@@ -14904,7 +14606,7 @@
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
-			"name"		=> "Diamond Popsicles",
+			"name"		=> "Diamond Popsicle",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Diamond Popsicle Mix",
 			"result"	=> "3",
@@ -14964,23 +14666,13 @@
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
-			"name"		=> "Emerald Popsicles",
-			"type"		=> "I",
+			"name"		=> "Emerald Popsicle",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Emerald Popsicle Mix",
 			"result"	=> "3",
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Crystal's Delight for Kran"
-		),
-		array (
-			"name"		=> "Mix of Gold niter and salt spirits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Nitric spirit, C 3 Salt spirits, C 1 Powdered Gold",
-			"result"	=> "1",
-			"tool"		=> "Alchemy Table (combine)",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
@@ -15084,16 +14776,6 @@
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
-			"name"		=> "Nitric spirits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Mix of niter and vitriol",
-			"result"	=> "2",
-			"tool"		=> "Alembic",
-			"skill"		=> "Alchemy",
-			"level"		=> "<9",
-			"book"		=> "Crystal's Delight for Kran"
-		),
-		array (
 			"name"		=> "Ruby Popsicle Mix",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Crystal sludge, C 1 Shards of Ruby Crystal, C 1 Powdered Ruby Crystal",
@@ -15104,23 +14786,13 @@
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
-			"name"		=> "Ruby Popsicles",
+			"name"		=> "Ruby Popsicle",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Ruby Popsicle Mix",
 			"result"	=> "3",
 			"tool"		=> "Melting Pot + Glass Stirrer",
 			"skill"		=> "Alchemy",
 			"level"		=> "<34",
-			"book"		=> "Crystal's Delight for Kran"
-		),
-		array (
-			"name"		=> "Salt spirits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Mix of salt and vitriol",
-			"result"	=> "2",
-			"tool"		=> "Crucible + Glass Stirrer",
-			"skill"		=> "Alchemy",
-			"level"		=> "0",
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
@@ -15134,7 +14806,7 @@
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
-			"name"		=> "Sapphire Popsicles",
+			"name"		=> "Sapphire Popsicle",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Sapphire Popsicle Mix",
 			"result"	=> "3",
@@ -15174,7 +14846,7 @@
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
-			"name"		=> "Sweet Bronze Sauces",
+			"name"		=> "Sweet Bronze Sauce",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sweet Bronze Sauce Mix",
 			"result"	=> "2",
@@ -15194,7 +14866,7 @@
 			"book"		=> "Crystal's Delight for Kran"
 		),
 		array (
-			"name"		=> "Sweet Electrum Sauces",
+			"name"		=> "Sweet Electrum Sauce",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sweet Electrum Sauce Mix",
 			"result"	=> "2",
@@ -15337,17 +15009,17 @@
 			"book"		=> "Dishes with Fishes"
 		),
 		//
-		// Dishes with Fishes, Meat and Stew Recipes
+		// Dishes with Fishes, Meat and Stew Recipes, The Art of Baking
 		//
 		array (
-			"name"		=> "Egg Slops",
+			"name"		=> "Egg Slop",
 			"type"		=> "I",
 			"ingredient"	=> "B 4 Egg, C 1 Scoop of Milk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
 			"level"		=> "200",
-			"book"		=> "Dishes with Fishes, Meat and Stew Recipes"
+			"book"		=> "Dishes with Fishes, Meat and Stew Recipes, The Art of Baking"
 		),
 		//
 		// Dishes with Fishes
@@ -15737,7 +15409,7 @@
 		array (
 			"name"		=> "Unmixed Terevan Berry Wine Sauce",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Terevan Wine Bottle, C 2 Dash of Fire Spice, C 1 Diced Threestem Fruit, C 1 Pinch of Salt",
+			"ingredient"	=> "B 1 Terevan Wine Bottle, C 2 Dash of Fire Spice, C 1 Diced Threestem Fruit, C 1 Pinch of Salt",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -16024,7 +15696,7 @@
 		array (
 			"name"		=> "Cleaned Ide",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Ide",
+			"ingredient"	=> "B 1 Ide",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Cooking",
@@ -16433,7 +16105,7 @@
 			"book"		=> "Dishes with Fishes"
 		),
 		//
-		// Dishes with Fishes, Drinks of the Dome, Meat and Stew Recipes, The Pastry Chef
+		// Dishes with Fishes, Drinks of the Dome, Meat and Stew Recipes, Secrets of the Barrel, The Pastry Chef
 		//
 		array (
 			"name"		=> "Pot of Simmering Water",
@@ -16443,11 +16115,8 @@
 			"tool"		=> "Pot",
 			"skill"		=> "Cooking",
 			"level"		=> "200",
-			"book"		=> "Dishes with Fishes, Drinks of the Dome, Meat and Stew Recipes, The Pastry Chef"
+			"book"		=> "Dishes with Fishes, Drinks of the Dome, Meat and Stew Recipes, Secrets of the Barrel, The Pastry Chef"
 		),
-		//
-		// Dishes with Fishes, Drinks of the Dome, Meat and Stew Recipes, Secrets of the Barrel, The Pastry Chef
-		//
 		array (
 			"name"		=> "Pot of Boiling Water",
 			"type"		=> "I",
@@ -16494,7 +16163,7 @@
 		array (
 			"name"		=> "Reduced Red Liquor",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Simmering Red Liquor",
+			"ingredient"	=> "B 1 Simmering Red Liquor",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Cooking",
@@ -16809,7 +16478,7 @@
 			"book"		=> "Dishes with Fishes, The Art of Baking"
 		),
 		//
-		// Dishes with Fishes, Secrets of the Barrel, The Art of Baking, The Pastry Chef
+		// Dishes with Fishes, Drinks of the Dome, Secrets of the Barrel, The Art of Baking, The Pastry Chef
 		//
 		array (
 			"name"		=> "Scoop of Strimptor",
@@ -16819,7 +16488,7 @@
 			"tool"		=> "Preparation Table + Scoop",
 			"skill"		=> "Cooking",
 			"level"		=> "200",
-			"book"		=> "Dishes with Fishes, Secrets of the Barrel, The Art of Baking, The Pastry Chef"
+			"book"		=> "Dishes with Fishes, Drinks of the Dome, Secrets of the Barrel, The Art of Baking, The Pastry Chef"
 		),
 		//
 		// Dishes with Fishes, Meat and Stew Recipes
@@ -16835,7 +16504,7 @@
 			"book"		=> "Dishes with Fishes, Meat and Stew Recipes"
 		),
 		//
-		// Dishes with Fishes, Meat and Stew Recipes, Secrets of the Barrel, The Art of Baking, The Pastry Chef
+		// Dishes with Fishes, Drinks of the Dome, Meat and Stew Recipes, Secrets of the Barrel, The Art of Baking, The Pastry Chef
 		//
 		array (
 			"name"		=> "Water Pouch",
@@ -16845,7 +16514,7 @@
 			"tool"		=> "Preparation Table + Scoop",
 			"skill"		=> "Cooking",
 			"level"		=> "200",
-			"book"		=> "Dishes with Fishes, Meat and Stew Recipes, Secrets of the Barrel, The Art of Baking, The Pastry Chef"
+			"book"		=> "Dishes with Fishes, Drinks of the Dome, Meat and Stew Recipes, Secrets of the Barrel, The Art of Baking, The Pastry Chef"
 		),
 		//
 		// Dishes with Fishes, Meat and Stew Recipes, The Art of Baking
@@ -17206,7 +16875,7 @@
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
 			"skill"		=> "Cooking",
-			"level"		=> "200",
+			"level"		=> "15",
 			"book"		=> "Dishes with Fishes"
 		),
 		array (
@@ -17872,26 +17541,22 @@
 			"level"		=> "200",
 			"book"		=> "Drinks of the Dome"
 		),
-		array (
-			"name"		=> "Water Pouchs",
-			"type"		=> "I",
-			"ingredient"	=> "B 1 Water Filled Bucket",
-			"result"	=> "28",
-			"tool"		=> "Preparation Table + Scoop",
-			"skill"		=> "Brewing",
-			"level"		=> "200",
-			"book"		=> "Drinks of the Dome"
-		),
+		//
+		// Drinks of the Dome, Herbal Remedies, Secrets of the Barrel, The Art of Baking
+		//
 		array (
 			"name"		=> "Mug of Hot Water",
 			"type"		=> "I",
-			"ingredient"	=> "C 2 Water Pouchs",
+			"ingredient"	=> "B 2 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Brewing",
 			"level"		=> "200",
-			"book"		=> "Drinks of the Dome"
+			"book"		=> "Drinks of the Dome, Herbal Remedies, Secrets of the Barrel, The Art of Baking"
 		),
+		//
+		// Drinks of the Dome
+		//
 		array (
 			"name"		=> "Pale Ale Wort",
 			"type"		=> "I",
@@ -17918,16 +17583,6 @@
 			"ingredient"	=> "C 1 Pale Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Mill Stone",
-			"skill"		=> "Brewing",
-			"level"		=> "200",
-			"book"		=> "Drinks of the Dome"
-		),
-		array (
-			"name"		=> "Scoop of Strimptors",
-			"type"		=> "I",
-			"ingredient"	=> "B 1 Sack of Strimptor",
-			"result"	=> "5",
-			"tool"		=> "Preparation Table + Scoop",
 			"skill"		=> "Brewing",
 			"level"		=> "200",
 			"book"		=> "Drinks of the Dome"
@@ -19409,7 +19064,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedHorned Helm",
+			"name"		=> "Enchanted Horned Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Horned Helm Kit",
 			"result"	=> "1",
@@ -19419,7 +19074,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedHorned Helm",
+			"name"		=> "Enchanted Horned Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Horned Helm Kit",
 			"result"	=> "1",
@@ -19439,7 +19094,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Arms Armor",
+			"name"		=> "Enchanted Leather Arms Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Leather Arms Kit",
 			"result"	=> "1",
@@ -19459,7 +19114,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Arms Armor",
+			"name"		=> "Enchanted Leather Arms Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Leather Arms Kit",
 			"result"	=> "1",
@@ -19479,7 +19134,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Arms Armor",
+			"name"		=> "Enchanted Leather Arms Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Arms Kit",
 			"result"	=> "1",
@@ -19489,7 +19144,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Arms Armor",
+			"name"		=> "Enchanted Leather Arms Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Arms Kit",
 			"result"	=> "1",
@@ -19509,7 +19164,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Boots",
+			"name"		=> "Enchanted Leather Boots",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Leather Boots Kit",
 			"result"	=> "1",
@@ -19529,11 +19184,11 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Boots usi ng Smith Table with a Enchanted Ruby",
+			"name"		=> "Enchanted Leather Boots",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Leather Boots Kit",
 			"result"	=> "1",
-			"tool"		=> "some Table (combine)",
+			"tool"		=> "Smith Table + Enchanted Ruby",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Armor"
@@ -19549,7 +19204,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Boots",
+			"name"		=> "Enchanted Leather Boots",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Boots Kit",
 			"result"	=> "1",
@@ -19559,7 +19214,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Boots",
+			"name"		=> "Enchanted Leather Boots",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Boots Kit",
 			"result"	=> "1",
@@ -19579,7 +19234,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Cap",
+			"name"		=> "Enchanted Leather Cap",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Cap Kit",
 			"result"	=> "1",
@@ -19589,7 +19244,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Cap",
+			"name"		=> "Enchanted Leather Cap",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Cap Kit",
 			"result"	=> "1",
@@ -19609,7 +19264,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Cap",
+			"name"		=> "Enchanted Leather Cap",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Leather Cap Kit",
 			"result"	=> "1",
@@ -19629,7 +19284,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Cap",
+			"name"		=> "Enchanted Leather Cap",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Leather Cap Kit",
 			"result"	=> "1",
@@ -19649,7 +19304,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Gloves",
+			"name"		=> "Enchanted Leather Gloves",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Leather Gloves Kit",
 			"result"	=> "1",
@@ -19669,7 +19324,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Gloves",
+			"name"		=> "Enchanted Leather Gloves",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Leather Gloves Kit",
 			"result"	=> "1",
@@ -19689,7 +19344,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Gloves",
+			"name"		=> "Enchanted Leather Gloves",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Gloves Kit",
 			"result"	=> "1",
@@ -19699,7 +19354,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Gloves",
+			"name"		=> "Enchanted Leather Gloves",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Gloves Kit",
 			"result"	=> "1",
@@ -19719,7 +19374,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Pants",
+			"name"		=> "Enchanted Leather Pants",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Leather Pants Kit",
 			"result"	=> "1",
@@ -19739,7 +19394,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Pants",
+			"name"		=> "Enchanted Leather Pants",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Leather Pants Kit",
 			"result"	=> "1",
@@ -19759,7 +19414,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Pants",
+			"name"		=> "Enchanted Leather Pants",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Pants Kit",
 			"result"	=> "1",
@@ -19769,7 +19424,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Pants",
+			"name"		=> "Enchanted Leather Pants",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Pants Kit",
 			"result"	=> "1",
@@ -19789,7 +19444,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Torso Armor",
+			"name"		=> "Enchanted Leather Torso Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Torso Kit",
 			"result"	=> "1",
@@ -19799,7 +19454,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Torso Armor",
+			"name"		=> "Enchanted Leather Torso Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Leather Torso Kit",
 			"result"	=> "1",
@@ -19819,7 +19474,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Torso Armor",
+			"name"		=> "Enchanted Leather Torso Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Leather Torso Kit",
 			"result"	=> "1",
@@ -19839,7 +19494,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedLeather Torso Armor",
+			"name"		=> "Enchanted Leather Torso Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Leather Torso Kit",
 			"result"	=> "1",
@@ -19875,7 +19530,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedMercenary Helm",
+			"name"		=> "Enchanted Mercenary Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Mercenary Helm Kit",
 			"result"	=> "1",
@@ -19895,7 +19550,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedMercenary Helm",
+			"name"		=> "Enchanted Mercenary Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Mercenary Helm Kit",
 			"result"	=> "1",
@@ -19915,7 +19570,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedMercenary Helm",
+			"name"		=> "Enchanted Mercenary Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Mercenary Helm Kit",
 			"result"	=> "1",
@@ -19925,7 +19580,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedMercenary Helm",
+			"name"		=> "Enchanted Mercenary Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Mercenary Helm Kit",
 			"result"	=> "1",
@@ -19940,11 +19595,11 @@
 		array (
 			"name"		=> "Perfect Gem Socket",
 			"type"		=> "P",
-			"ingredient"	=> "C 3 Molten Steels",
+			"ingredient"	=> "C 3 Molten Steel",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
+			"skill"		=> "Blacksmith",
+			"level"		=> "100",
 			"book"		=> "Enchanting Armor, Enchanting Heavy Shields, Enchanting Light Shields, Enchanting Weapons"
 		),
 		//
@@ -19961,7 +19616,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Arms Armor",
+			"name"		=> "Enchanted Plate Mail Arms Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Arms Kit",
 			"result"	=> "1",
@@ -19971,7 +19626,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Arms Armor",
+			"name"		=> "Enchanted Plate Mail Arms Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Arms Kit",
 			"result"	=> "1",
@@ -19991,7 +19646,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Arms Armor",
+			"name"		=> "Enchanted Plate Mail Arms Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Riveted Plate Mail Arms Kit",
 			"result"	=> "1",
@@ -20011,7 +19666,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Arms Armor",
+			"name"		=> "Enchanted Plate Mail Arms Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Riveted Plate Mail Arms Kit",
 			"result"	=> "1",
@@ -20031,7 +19686,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Boots",
+			"name"		=> "Enchanted Plate Mail Boots",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Boots Kit",
 			"result"	=> "1",
@@ -20041,7 +19696,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Boots",
+			"name"		=> "Enchanted Plate Mail Boots",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Boots Kit",
 			"result"	=> "1",
@@ -20061,7 +19716,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Boots",
+			"name"		=> "Enchanted Plate Mail Boots",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Riveted Plate Mail Boots Kit",
 			"result"	=> "1",
@@ -20081,7 +19736,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Boots",
+			"name"		=> "Enchanted Plate Mail Boots",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Riveted Plate Mail Boots Kit",
 			"result"	=> "1",
@@ -20101,7 +19756,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Gloves",
+			"name"		=> "Enchanted Plate Mail Gloves",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Gloves Kit",
 			"result"	=> "1",
@@ -20111,7 +19766,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Gloves",
+			"name"		=> "Enchanted Plate Mail Gloves",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Gloves Kit",
 			"result"	=> "1",
@@ -20131,7 +19786,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Gloves",
+			"name"		=> "Enchanted Plate Mail Gloves",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Riveted Plate Mail Gloves Kit",
 			"result"	=> "1",
@@ -20151,7 +19806,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Gloves",
+			"name"		=> "Enchanted Plate Mail Gloves",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Riveted Plate Mail Gloves Kit",
 			"result"	=> "1",
@@ -20187,7 +19842,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Helm",
+			"name"		=> "Enchanted Plate Mail Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Plate Mail Helm Kit",
 			"result"	=> "1",
@@ -20197,7 +19852,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Helm",
+			"name"		=> "Enchanted Plate Mail Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Plate Mail Helm Kit",
 			"result"	=> "1",
@@ -20217,7 +19872,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Helm",
+			"name"		=> "Enchanted Plate Mail Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Plate Mail Helm Kit",
 			"result"	=> "1",
@@ -20237,7 +19892,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Helm",
+			"name"		=> "Enchanted Plate Mail Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Plate Mail Helm Kit",
 			"result"	=> "1",
@@ -20257,7 +19912,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Pants",
+			"name"		=> "Enchanted Plate Mail Pants",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Pants Kit",
 			"result"	=> "1",
@@ -20267,7 +19922,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Pants",
+			"name"		=> "Enchanted Plate Mail Pants",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Pants Kit",
 			"result"	=> "1",
@@ -20287,7 +19942,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Pants",
+			"name"		=> "Enchanted Plate Mail Pants",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Riveted Plate Mail Pants Kit",
 			"result"	=> "1",
@@ -20307,7 +19962,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Pants",
+			"name"		=> "Enchanted Plate Mail Pants",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Riveted Plate Mail Pants Kit",
 			"result"	=> "1",
@@ -20327,7 +19982,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Torso Armor",
+			"name"		=> "Enchanted Plate Mail Torso Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Torso Kit",
 			"result"	=> "1",
@@ -20337,7 +19992,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Torso Armor",
+			"name"		=> "Enchanted Plate Mail Torso Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Riveted Plate Mail Torso Kit",
 			"result"	=> "1",
@@ -20357,7 +20012,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Torso Armor",
+			"name"		=> "Enchanted Plate Mail Torso Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Riveted Plate Mail Torso Kit",
 			"result"	=> "1",
@@ -20377,7 +20032,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedPlate Mail Torso Armor",
+			"name"		=> "Enchanted Plate Mail Torso Armor",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Riveted Plate Mail Torso Kit",
 			"result"	=> "1",
@@ -20413,7 +20068,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSpangen",
+			"name"		=> "Enchanted Spangen",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spangen Kit",
 			"result"	=> "1",
@@ -20423,7 +20078,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSpangen",
+			"name"		=> "Enchanted Spangen",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spangen Kit",
 			"result"	=> "1",
@@ -20443,7 +20098,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSpangen",
+			"name"		=> "Enchanted Spangen",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Spangen Kit",
 			"result"	=> "1",
@@ -20463,7 +20118,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSpangen",
+			"name"		=> "Enchanted Spangen",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Spangen Kit",
 			"result"	=> "1",
@@ -20499,7 +20154,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSpangenhelm",
+			"name"		=> "Enchanted Spangenhelm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spangenhelm Kit",
 			"result"	=> "1",
@@ -20509,7 +20164,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSpangenhelm",
+			"name"		=> "Enchanted Spangenhelm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spangenhelm Kit",
 			"result"	=> "1",
@@ -20529,7 +20184,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSpangenhelm",
+			"name"		=> "Enchanted Spangenhelm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Spangenhelm Kit",
 			"result"	=> "1",
@@ -20549,7 +20204,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSpangenhelm",
+			"name"		=> "Enchanted Spangenhelm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Spangenhelm Kit",
 			"result"	=> "1",
@@ -20567,8 +20222,8 @@
 			"ingredient"	=> "C 1 Molten Steel",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
+			"skill"		=> "Blacksmith",
+			"level"		=> "0",
 			"book"		=> "Enchanting Armor, Enchanting Heavy Shields, Enchanting Light Shields, Enchanting Weapons"
 		),
 		//
@@ -20598,7 +20253,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSteel Plate Helm",
+			"name"		=> "Enchanted Steel Plate Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Steel Plate Helm Kit",
 			"result"	=> "1",
@@ -20608,7 +20263,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSteel Plate Helm",
+			"name"		=> "Enchanted Steel Plate Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Steel Plate Helm Kit",
 			"result"	=> "1",
@@ -20628,7 +20283,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSteel Plate Helm",
+			"name"		=> "Enchanted Steel Plate Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Steel Plate Helm Kit",
 			"result"	=> "1",
@@ -20648,7 +20303,7 @@
 			"book"		=> "Enchanting Armor"
 		),
 		array (
-			"name"		=> "EnchantedSteel Plate Helm",
+			"name"		=> "Enchanted Steel Plate Helm",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Steel Plate Helm Kit",
 			"result"	=> "1",
@@ -20662,12 +20317,12 @@
 		//
 		array (
 			"name"		=> "Superior Gem Socket",
-			"type"		=> "I",
-			"ingredient"	=> "C 2 Molten Steels",
+			"type"		=> "P",
+			"ingredient"	=> "C 2 Molten Steel",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
+			"skill"		=> "Blacksmith",
+			"level"		=> "50",
 			"book"		=> "Enchanting Armor, Enchanting Heavy Shields, Enchanting Light Shields, Enchanting Weapons"
 		),
 		//
@@ -20675,7 +20330,7 @@
 		//
 		array (
 			"name"		=> "Enchanted Diamond",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Diamond Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Crystal Glyph, Sight Glyph, Energy Glyph, Faith Glyph, Life Glyph, Arrow Glyph, Door Glyph",
@@ -20685,7 +20340,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Diamond",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Diamond Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Polymorph Glyph, Object Glyph, Poison Glyph, Purify Glyph, Sphere Glyph, Water Glyph, Rain Glyph",
@@ -20695,7 +20350,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Diamond",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Diamond Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Tree Glyph, Wall Glyph, Summon Glyph, Weight Glyph, Creature Glyph, Earth Glyph",
@@ -20705,7 +20360,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Emerald",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Emerald Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Energy Glyph, Life Glyph, Crystal Glyph, Faith Glyph, Sight Glyph, Door Glyph, Light Glyph",
@@ -20715,7 +20370,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Emerald",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Emerald Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Poison Glyph, Cold Glyph, Divination Glyph, Rain Glyph, Water Glyph, Sphere Glyph",
@@ -20725,7 +20380,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Emerald",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Emerald Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Rock Glyph, Armor Glyph, Summon Glyph, Wall Glyph, Tree Glyph, Weight Glyph",
@@ -20735,7 +20390,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Ruby",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Arrow Glyph",
@@ -20745,7 +20400,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Ruby",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Cold Glyph, Rain Glyph",
@@ -20755,7 +20410,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Ruby",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Armor Glyph",
@@ -20765,7 +20420,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Sapphire",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Sapphire Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Faith Glyph, Light Glyph, Arrow Glyph, Sight Glyph",
@@ -20775,7 +20430,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Sapphire",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Sapphire Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Object Glyph, Poison Glyph, Net Glyph, Key Glyph",
@@ -20785,7 +20440,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Sapphire",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Sapphire Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Armor Glyph, Rock Glyph, Weight Glyph",
@@ -20798,7 +20453,7 @@
 		//
 		array (
 			"name"		=> "Enchanted Diamond",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Diamond Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Dome Glyph, Bond Glyph, Humanoid Glyph, Mind Glyph, Sleep Glyph, Bow Glyph, Sound Glyph",
@@ -20808,7 +20463,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Diamond",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Diamond Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Lava Glyph, Hand Glyph, Fire Glyph, Lightning Glyph, Vortex Glyph, Might Glyph, Meteor Glyph",
@@ -20817,18 +20472,18 @@
 			"book"		=> "Enchanting Gems of Spirit"
 		),
 		array (
-			"name"		=> "Enchanted Diamond Enchanter of Spirit with a Illness Glyph, Daemon Glyph, Fear Glyph, Entropy Glyph, Weakness Glyph, Shadow Glyph, Blindness Glyph",
-			"type"		=> "I",
+			"name"		=> "Enchanted Diamond",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Diamond Crystal",
 			"result"	=> "1",
-			"tool"		=> "some Table (combine)",
+			"tool"		=> "Enchanter of Spirit + Illness Glyph, Daemon Glyph, Fear Glyph, Entropy Glyph, Weakness Glyph, Shadow Glyph, Blindness Glyph",
 			"skill"		=> "Dark Way",
 			"level"		=> "150",
 			"book"		=> "Enchanting Gems of Spirit"
 		),
 		array (
 			"name"		=> "Enchanted Emerald",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Emerald Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Gas Glyph, Air Glyph, Bond Glyph, Dome Glyph, Mind Glyph, Sound Glyph, Sleep Glyph",
@@ -20838,7 +20493,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Emerald",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Emerald Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Lightning Glyph, Vortex Glyph, Might Glyph, Weapon Glyph, Fire Glyph, Hand Glyph, Lava Glyph",
@@ -20848,7 +20503,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Emerald",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Emerald Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Negate Glyph, Death Glyph, Illness Glyph, Blindness Glyph, Shadow Glyph, Fear Glyph, Weakness Glyph",
@@ -20858,7 +20513,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Ruby",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Air Glyph",
@@ -20868,7 +20523,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Ruby",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Fire Glyph",
@@ -20878,7 +20533,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Ruby",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Death Glyph",
@@ -20888,7 +20543,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Sapphire",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Sapphire Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Bond Glyph, Gas Glyph, Bow Glyph",
@@ -20898,7 +20553,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Sapphire",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Sapphire Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Meteor Glyph, Weapon Glyph, Hand Glyph",
@@ -20908,7 +20563,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Sapphire",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "M 1 Sapphire Crystal",
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Death Glyph, Blindness Glyph, Daemon Glyph, Negate Glyph",
@@ -20917,18 +20572,21 @@
 			"book"		=> "Enchanting Gems of Spirit"
 		),
 		//
-		// Enchanting Heavy Shields
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
 		//
 		array (
 			"name"		=> "Battle Shield Wicker Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Shield Handle, C 1 Shield Circle, C 2 Shield Band, B 1 Round Wicker Shield Core, C 1 Shield Edgings",
+			"ingredient"	=> "C 1 Round Shield Shape, C 1 Shield Handle, C 1 Shield Circle, C 2 Shield Band, C 1 Round Wicker Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Perfect Enchanted Battle Shield Wicker Kit",
 			"type"		=> "I",
@@ -20940,7 +20598,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBattle Shield",
+			"name"		=> "Enchanted Battle Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Battle Shield Wicker Kit",
 			"result"	=> "1",
@@ -20960,7 +20618,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBattle Shield",
+			"name"		=> "Enchanted Battle Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Shield Wicker Kit",
 			"result"	=> "1",
@@ -20970,7 +20628,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBattle Shield",
+			"name"		=> "Enchanted Battle Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Shield Wicker Kit",
 			"result"	=> "1",
@@ -20979,26 +20637,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
-		array (
-			"name"		=> "Round Wooden Shield Core",
-			"type"		=> "I",
-			"ingredient"	=> "C 3 Shaped Small Wooden Block",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
-		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Battle Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Shield Handle, C 1 Shield Circle, C 2 Shield Band, B 1 Round Wooden Shield Core, C 1 Shield Edgings",
+			"ingredient"	=> "C 1 Round Shield Shape, C 1 Shield Handle, C 1 Shield Circle, C 2 Shield Band, C 1 Round Wooden Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Enchanted Battle Shield Kit",
 			"type"		=> "I",
@@ -21010,7 +20664,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBattle Shield",
+			"name"		=> "Enchanted Battle Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Battle Shield Kit",
 			"result"	=> "1",
@@ -21030,7 +20684,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBattle Shield",
+			"name"		=> "Enchanted Battle Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Battle Shield Kit",
 			"result"	=> "1",
@@ -21050,7 +20704,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBattle Shield",
+			"name"		=> "Enchanted Battle Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Battle Shield Wicker Kit",
 			"result"	=> "1",
@@ -21070,7 +20724,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBattle Shield",
+			"name"		=> "Enchanted Battle Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Shield Kit",
 			"result"	=> "1",
@@ -21080,7 +20734,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBattle Shield",
+			"name"		=> "Enchanted Battle Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Shield Kit",
 			"result"	=> "1",
@@ -21089,16 +20743,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Bulls Eye Shield Wicker Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Iron Shield Handle, C 2 Shield Circle, C 1 Iron Circle, C 4 Shield Band, B 1 Round Wicker Shield Core, C 1 Shield Edgings",
+			"ingredient"	=> "C 1 Round Shield Shape, C 1 Iron Shield Handle, C 2 Shield Circle, C 1 Iron Circle, C 4 Shield Band, C 1 Round Wicker Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Enchanted Bulls Eye Shield Wicker Kit",
 			"type"		=> "I",
@@ -21110,7 +20770,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBulls Eye Shield",
+			"name"		=> "Enchanted Bulls Eye Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Bulls Eye Shield Wicker Kit",
 			"result"	=> "1",
@@ -21119,16 +20779,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Bulls Eye Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Iron Shield Handle, C 2 Shield Circle, C 1 Iron Circle, C 4 Shield Band, B 1 Round Wooden Shield Core, C 1 Shield Edgings",
+			"ingredient"	=> "C 1 Round Shield Shape, C 1 Iron Shield Handle, C 2 Shield Circle, C 1 Iron Circle, C 4 Shield Band, C 1 Round Wooden Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted Bulls Eye Shield Kit",
 			"type"		=> "I",
@@ -21140,7 +20806,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBulls Eye Shield",
+			"name"		=> "Enchanted Bulls Eye Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Bulls Eye Shield Kit",
 			"result"	=> "1",
@@ -21150,7 +20816,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBulls Eye Shield",
+			"name"		=> "Enchanted Bulls Eye Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Bulls Eye Shield Kit",
 			"result"	=> "1",
@@ -21170,7 +20836,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBulls Eye Shield",
+			"name"		=> "Enchanted Bulls Eye Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Bulls Eye Shield Wicker Kit",
 			"result"	=> "1",
@@ -21190,7 +20856,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBulls Eye Shield",
+			"name"		=> "Enchanted Bulls Eye Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Bulls Eye Shield Wicker Kit",
 			"result"	=> "1",
@@ -21200,7 +20866,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBulls Eye Shield",
+			"name"		=> "Enchanted Bulls Eye Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Bulls Eye Shield Wicker Kit",
 			"result"	=> "1",
@@ -21220,7 +20886,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBulls Eye Shield",
+			"name"		=> "Enchanted Bulls Eye Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Bulls Eye Shield Kit",
 			"result"	=> "1",
@@ -21240,7 +20906,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedBulls Eye Shield",
+			"name"		=> "Enchanted Bulls Eye Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Bulls Eye Shield Kit",
 			"result"	=> "1",
@@ -21249,16 +20915,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Crown Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spikes, C 1 Bronze Circle, B 1 Wooden Shield Core, C 1 Bronze Band",
+			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 1 Bronze Circle, C 1 Wooden Shield Core, C 1 Bronze Band",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted Crown Shield Kit",
 			"type"		=> "I",
@@ -21270,7 +20942,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedCrown Shield",
+			"name"		=> "Enchanted Crown Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Crown Shield Kit",
 			"result"	=> "1",
@@ -21280,7 +20952,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedCrown Shield",
+			"name"		=> "Enchanted Crown Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Crown Shield Kit",
 			"result"	=> "1",
@@ -21300,7 +20972,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedCrown Shield",
+			"name"		=> "Enchanted Crown Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Crown Shield Kit",
 			"result"	=> "1",
@@ -21309,16 +20981,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Crown Shield Wicker Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spikes, C 1 Bronze Circle, B 1 Wicker Shield Core, C 1 Bronze Band",
+			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 1 Bronze Circle, B 1 Wicker Shield Core, C 1 Bronze Band",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted Crown Shield Wicker Kit",
 			"type"		=> "I",
@@ -21330,7 +21008,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedCrown Shield",
+			"name"		=> "Enchanted Crown Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Crown Shield Wicker Kit",
 			"result"	=> "1",
@@ -21340,7 +21018,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedCrown Shield",
+			"name"		=> "Enchanted Crown Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Crown Shield Wicker Kit",
 			"result"	=> "1",
@@ -21360,7 +21038,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedCrown Shield",
+			"name"		=> "Enchanted Crown Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Crown Shield Kit",
 			"result"	=> "1",
@@ -21380,7 +21058,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedCrown Shield",
+			"name"		=> "Enchanted Crown Shield",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Perfect Enchanted Crown Shield Wicker Kit",
 			"result"	=> "1",
@@ -21400,7 +21078,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedCrown Shield",
+			"name"		=> "Enchanted Crown Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Crown Shield Wicker Kit",
 			"result"	=> "1",
@@ -21409,16 +21087,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Enforcer Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 2 Shield Spikes, C 1 Bronze Circle, B 1 Wooden Shield Core, C 1 Shield Circle",
+			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 2 Shield Spike, C 1 Bronze Circle, C 1 Wooden Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Perfect Enchanted Enforcer Shield Kit",
 			"type"		=> "I",
@@ -21430,7 +21114,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedEnforcer Shield",
+			"name"		=> "Enchanted Enforcer Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Enforcer Shield Kit",
 			"result"	=> "1",
@@ -21439,16 +21123,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Enforcer Shield Wicker Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 2 Shield Spikes, C 1 Bronze Circle, B 1 Wicker Shield Core, C 1 Shield Circle",
+			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 2 Shield Spike, C 1 Bronze Circle, B 1 Wicker Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted Enforcer Shield Wicker Kit",
 			"type"		=> "I",
@@ -21460,7 +21150,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedEnforcer Shield",
+			"name"		=> "Enchanted Enforcer Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Enforcer Shield Wicker Kit",
 			"result"	=> "1",
@@ -21470,7 +21160,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedEnforcer Shield",
+			"name"		=> "Enchanted Enforcer Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Enforcer Shield Wicker Kit",
 			"result"	=> "1",
@@ -21490,7 +21180,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedEnforcer Shield",
+			"name"		=> "Enchanted Enforcer Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Enforcer Shield Wicker Kit",
 			"result"	=> "1",
@@ -21510,7 +21200,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedEnforcer Shield",
+			"name"		=> "Enchanted Enforcer Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Enforcer Shield Kit",
 			"result"	=> "1",
@@ -21520,7 +21210,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedEnforcer Shield",
+			"name"		=> "Enchanted Enforcer Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Enforcer Shield Kit",
 			"result"	=> "1",
@@ -21540,7 +21230,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedEnforcer Shield",
+			"name"		=> "Enchanted Enforcer Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Enforcer Shield Wicker Kit",
 			"result"	=> "1",
@@ -21560,7 +21250,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedEnforcer Shield",
+			"name"		=> "Enchanted Enforcer Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Enforcer Shield Kit",
 			"result"	=> "1",
@@ -21596,7 +21286,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedGolden Shield",
+			"name"		=> "Enchanted Golden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Golden Shield Kit",
 			"result"	=> "1",
@@ -21606,7 +21296,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedGolden Shield",
+			"name"		=> "Enchanted Golden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Golden Shield Kit",
 			"result"	=> "1",
@@ -21626,7 +21316,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedGolden Shield",
+			"name"		=> "Enchanted Golden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Golden Shield Kit",
 			"result"	=> "1",
@@ -21662,7 +21352,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedGolden Shield",
+			"name"		=> "Enchanted Golden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Golden Shield Wicker Kit",
 			"result"	=> "1",
@@ -21672,7 +21362,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedGolden Shield",
+			"name"		=> "Enchanted Golden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Golden Shield Wicker Kit",
 			"result"	=> "1",
@@ -21692,7 +21382,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedGolden Shield",
+			"name"		=> "Enchanted Golden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Golden Shield Kit",
 			"result"	=> "1",
@@ -21712,7 +21402,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedGolden Shield",
+			"name"		=> "Enchanted Golden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Golden Shield Wicker Kit",
 			"result"	=> "1",
@@ -21732,7 +21422,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedGolden Shield",
+			"name"		=> "Enchanted Golden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Golden Shield Wicker Kit",
 			"result"	=> "1",
@@ -21741,16 +21431,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Protector Shield Wicker Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spikes, C 2 Bronze Band, C 2 Shield Band, B 1 Wicker Shield Core, C 1 Bronze Circle",
+			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 2 Bronze Band, C 2 Shield Band, B 1 Wicker Shield Core, C 1 Bronze Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted Protector Shield Wicker Kit",
 			"type"		=> "I",
@@ -21762,7 +21458,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedProtector Shield",
+			"name"		=> "Enchanted Protector Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Protector Shield Wicker Kit",
 			"result"	=> "1",
@@ -21772,7 +21468,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedProtector Shield",
+			"name"		=> "Enchanted Protector Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Protector Shield Wicker Kit",
 			"result"	=> "1",
@@ -21792,7 +21488,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedProtector Shield",
+			"name"		=> "Enchanted Protector Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Protector Shield Wicker Kit",
 			"result"	=> "1",
@@ -21801,16 +21497,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Protector Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spikes, C 2 Bronze Band, C 2 Shield Band, B 1 Wooden Shield Core, C 1 Bronze Circle",
+			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 2 Bronze Band, C 2 Shield Band, C 1 Wooden Shield Core, C 1 Bronze Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted Protector Shield Kit",
 			"type"		=> "I",
@@ -21822,7 +21524,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedProtector Shield",
+			"name"		=> "Enchanted Protector Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Protector Shield Kit",
 			"result"	=> "1",
@@ -21832,7 +21534,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedProtector Shield",
+			"name"		=> "Enchanted Protector Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Protector Shield Kit",
 			"result"	=> "1",
@@ -21844,7 +21546,7 @@
 		array (
 			"name"		=> "Protector Shield Wicker Ki",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spikes, C 2 Bronze Band, C 2 Shield Band, B 1 Wicker Shield Core, C 1 Bronze Circle",
+			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 2 Bronze Band, C 2 Shield Band, B 1 Wicker Shield Core, C 1 Bronze Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -21862,7 +21564,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedProtector Shield",
+			"name"		=> "Enchanted Protector Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Protector Shield Wicker Kit",
 			"result"	=> "1",
@@ -21882,7 +21584,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedProtector Shield",
+			"name"		=> "Enchanted Protector Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Protector Shield Kit",
 			"result"	=> "1",
@@ -21902,7 +21604,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedProtector Shield",
+			"name"		=> "Enchanted Protector Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Protector Shield Kit",
 			"result"	=> "1",
@@ -21917,7 +21619,7 @@
 		array (
 			"name"		=> "Radiant Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Bronze Shield Handle, C 1 Bronze Circle, C 6 Bronze Band, B 1 Round Wooden Shield Core",
+			"ingredient"	=> "C 1 Round Shield Shape, C 1 Bronze Shield Handle, C 1 Bronze Circle, C 6 Bronze Band, C 1 Round Wooden Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -21938,7 +21640,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedRadiant Shield",
+			"name"		=> "Enchanted Radiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Radiant Shield Kit",
 			"result"	=> "1",
@@ -21948,7 +21650,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedRadiant Shield",
+			"name"		=> "Enchanted Radiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Radiant Shield Kit",
 			"result"	=> "1",
@@ -21968,7 +21670,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedRadiant Shield",
+			"name"		=> "Enchanted Radiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Radiant Shield Kit",
 			"result"	=> "1",
@@ -21983,7 +21685,7 @@
 		array (
 			"name"		=> "Radiant Shield Wicker Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Bronze Shield Handle, C 1 Bronze Circle, C 6 Bronze Band, B 1 Round Wicker Shield Core",
+			"ingredient"	=> "C 1 Round Shield Shape, C 1 Bronze Shield Handle, C 1 Bronze Circle, C 6 Bronze Band, C 1 Round Wicker Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -22004,7 +21706,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedRadiant Shield",
+			"name"		=> "Enchanted Radiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Radiant Shield Wicker Kit",
 			"result"	=> "1",
@@ -22014,7 +21716,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedRadiant Shield",
+			"name"		=> "Enchanted Radiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Radiant Shield Wicker Kit",
 			"result"	=> "1",
@@ -22034,7 +21736,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedRadiant Shield",
+			"name"		=> "Enchanted Radiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Radiant Shield Kit",
 			"result"	=> "1",
@@ -22054,7 +21756,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedRadiant Shield",
+			"name"		=> "Enchanted Radiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Radiant Shield Wicker Kit",
 			"result"	=> "1",
@@ -22074,7 +21776,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedRadiant Shield",
+			"name"		=> "Enchanted Radiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Radiant Shield Wicker Kit",
 			"result"	=> "1",
@@ -22089,7 +21791,7 @@
 		array (
 			"name"		=> "Shadow Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 2 Iron Half Circle, C 1 Shield Half Circle, C 2 Bronze Band, B 1 Round Wooden Shield Core",
+			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 2 Iron Half Circle, C 1 Shield Half Circle, C 2 Bronze Band, C 1 Round Wooden Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -22110,7 +21812,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedShadow Shield",
+			"name"		=> "Enchanted Shadow Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Shadow Shield Kit",
 			"result"	=> "1",
@@ -22120,7 +21822,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedShadow Shield",
+			"name"		=> "Enchanted Shadow Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Shadow Shield Kit",
 			"result"	=> "1",
@@ -22140,7 +21842,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedShadow Shield",
+			"name"		=> "Enchanted Shadow Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Shadow Shield Kit",
 			"result"	=> "1",
@@ -22154,8 +21856,8 @@
 		//
 		array (
 			"name"		=> "Shadow Shield Wicker Kit",
-			"type"		=> "P",
-			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 2 Iron Half Circle, C 1 Shield Half Circle, C 2 Bronze Band, B 1 Round Wicker Shield Core",
+			"type"		=> "I",
+			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 2 Iron Half Circle, C 1 Shield Half Circle, C 2 Bronze Band, C 1 Round Wicker Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -22176,7 +21878,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedShadow Shield",
+			"name"		=> "Enchanted Shadow Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Shadow Shield Wicker Kit",
 			"result"	=> "1",
@@ -22186,7 +21888,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedShadow Shield",
+			"name"		=> "Enchanted Shadow Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Shadow Shield Wicker Kit",
 			"result"	=> "1",
@@ -22198,7 +21900,7 @@
 		array (
 			"name"		=> "Shadow Shield Ki",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 2 Iron Half Circle, C 1 Shield Half Circle, C 2 Bronze Band, B 1 Round Wooden Shield Core",
+			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 2 Iron Half Circle, C 1 Shield Half Circle, C 2 Bronze Band, C 1 Round Wooden Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -22216,7 +21918,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedShadow Shield",
+			"name"		=> "Enchanted Shadow Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Shadow Shield Kit",
 			"result"	=> "1",
@@ -22236,7 +21938,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedShadow Shield",
+			"name"		=> "Enchanted Shadow Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Shadow Shield Wicker Kit",
 			"result"	=> "1",
@@ -22256,7 +21958,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedShadow Shield",
+			"name"		=> "Enchanted Shadow Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Shadow Shield Wicker Kit",
 			"result"	=> "1",
@@ -22271,7 +21973,7 @@
 		array (
 			"name"		=> "Sunshine Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 4 Gold Spikes, C 2 Bronze Edgings, C 1 Gold Half Circle, B 1 Round Wooden Shield Core",
+			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 4 Gold Spike, C 2 Bronze Edgings, C 1 Gold Half Circle, C 1 Round Wooden Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -22292,7 +21994,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedSunshine Shield",
+			"name"		=> "Enchanted Sunshine Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Sunshine Shield Kit",
 			"result"	=> "1",
@@ -22302,7 +22004,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedSunshine Shield",
+			"name"		=> "Enchanted Sunshine Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Sunshine Shield Kit",
 			"result"	=> "1",
@@ -22322,7 +22024,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedSunshine Shield",
+			"name"		=> "Enchanted Sunshine Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Sunshine Shield Kit",
 			"result"	=> "1",
@@ -22334,7 +22036,7 @@
 		array (
 			"name"		=> "Sunshine Shield Wicker Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 4 Gold Spikes, C 2 Bronze Edgings, C 1 Gold Half Circle, B 1 Round Wicker Shield Core",
+			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 4 Gold Spike, C 2 Bronze Edgings, C 1 Gold Half Circle, C 1 Round Wicker Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
@@ -22352,7 +22054,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedSunshine Shield",
+			"name"		=> "Enchanted Sunshine Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Sunshine Shield Wicker Kit",
 			"result"	=> "1",
@@ -22362,7 +22064,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedSunshine Shield",
+			"name"		=> "Enchanted Sunshine Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Sunshine Shield Wicker Kit",
 			"result"	=> "1",
@@ -22382,7 +22084,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedSunshine Shield",
+			"name"		=> "Enchanted Sunshine Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Sunshine Shield Kit",
 			"result"	=> "1",
@@ -22402,7 +22104,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedSunshine Shield",
+			"name"		=> "Enchanted Sunshine Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Sunshine Shield Wicker Kit",
 			"result"	=> "1",
@@ -22422,7 +22124,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedSunshine Shield",
+			"name"		=> "Enchanted Sunshine Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Sunshine Shield Wicker Kit",
 			"result"	=> "1",
@@ -22431,6 +22133,9 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Valiant Shield Wicker Kit",
 			"type"		=> "I",
@@ -22439,8 +22144,11 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Enchanted Valiant Shield Wicker Kit",
 			"type"		=> "I",
@@ -22452,7 +22160,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedValiant Shield",
+			"name"		=> "Enchanted Valiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Valiant Shield Wicker Kit",
 			"result"	=> "1",
@@ -22461,16 +22169,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Valiant Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Shield Shape, C 1 Shield Handle, C 2 Shield Band, B 1 Wooden Shield Core, C 2 Shield Edgings",
+			"ingredient"	=> "C 1 Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 1 Wooden Shield Core, C 2 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted Valiant Shield Kit",
 			"type"		=> "I",
@@ -22482,7 +22196,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedValiant Shield",
+			"name"		=> "Enchanted Valiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Valiant Shield Kit",
 			"result"	=> "1",
@@ -22492,7 +22206,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedValiant Shield",
+			"name"		=> "Enchanted Valiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Valiant Shield Kit",
 			"result"	=> "1",
@@ -22512,7 +22226,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedValiant Shield",
+			"name"		=> "Enchanted Valiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Valiant Shield Wicker Kit",
 			"result"	=> "1",
@@ -22532,7 +22246,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedValiant Shield",
+			"name"		=> "Enchanted Valiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Valiant Shield Kit",
 			"result"	=> "1",
@@ -22552,7 +22266,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedValiant Shield",
+			"name"		=> "Enchanted Valiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Valiant Shield Kit",
 			"result"	=> "1",
@@ -22572,7 +22286,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedValiant Shield",
+			"name"		=> "Enchanted Valiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Valiant Shield Wicker Kit",
 			"result"	=> "1",
@@ -22582,7 +22296,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedValiant Shield",
+			"name"		=> "Enchanted Valiant Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Valiant Shield Wicker Kit",
 			"result"	=> "1",
@@ -22591,6 +22305,9 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "War Shield Wicker Kit",
 			"type"		=> "I",
@@ -22599,8 +22316,11 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Enchanted War Shield Wicker Kit",
 			"type"		=> "I",
@@ -22612,7 +22332,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWar Shield",
+			"name"		=> "Enchanted War Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted War Shield Wicker Kit",
 			"result"	=> "1",
@@ -22621,16 +22341,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "War Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Bronze Shield Shape, C 1 Bronze Shield Handle, C 3 Shield Band, B 1 Wooden Shield Core, C 2 Shield Edgings",
+			"ingredient"	=> "C 1 Bronze Shield Shape, C 1 Bronze Shield Handle, C 3 Shield Band, C 1 Wooden Shield Core, C 2 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted War Shield Kit",
 			"type"		=> "I",
@@ -22642,7 +22368,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWar Shield",
+			"name"		=> "Enchanted War Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Shield Kit",
 			"result"	=> "1",
@@ -22652,7 +22378,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWar Shield",
+			"name"		=> "Enchanted War Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Shield Kit",
 			"result"	=> "1",
@@ -22672,7 +22398,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWar Shield",
+			"name"		=> "Enchanted War Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted War Shield Wicker Kit",
 			"result"	=> "1",
@@ -22692,7 +22418,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWar Shield",
+			"name"		=> "Enchanted War Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted War Shield Kit",
 			"result"	=> "1",
@@ -22712,7 +22438,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWar Shield",
+			"name"		=> "Enchanted War Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted War Shield Kit",
 			"result"	=> "1",
@@ -22732,7 +22458,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWar Shield",
+			"name"		=> "Enchanted War Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Shield Wicker Kit",
 			"result"	=> "1",
@@ -22742,7 +22468,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWar Shield",
+			"name"		=> "Enchanted War Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Shield Wicker Kit",
 			"result"	=> "1",
@@ -22751,6 +22477,9 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Warrior Shield Wicker Kit",
 			"type"		=> "I",
@@ -22759,8 +22488,11 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted Warrior Shield Wicker Kit",
 			"type"		=> "I",
@@ -22772,7 +22504,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWarrior Shield",
+			"name"		=> "Enchanted Warrior Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Warrior Shield Wicker Kit",
 			"result"	=> "1",
@@ -22782,7 +22514,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWarrior Shield",
+			"name"		=> "Enchanted Warrior Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Warrior Shield Wicker Kit",
 			"result"	=> "1",
@@ -22802,7 +22534,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWarrior Shield",
+			"name"		=> "Enchanted Warrior Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Warrior Shield Wicker Kit",
 			"result"	=> "1",
@@ -22811,16 +22543,22 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Heavy Shields"
 		),
+		//
+		// Enchanting Heavy Shields, Enforcer Shield Diagram
+		//
 		array (
 			"name"		=> "Warrior Shield Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Iron Shield Shape, C 1 Shield Handle, C 1 Shield Band, B 1 Wooden Shield Core, C 2 Shield Edgings",
+			"ingredient"	=> "C 1 Iron Shield Shape, C 1 Shield Handle, C 1 Shield Band, C 1 Wooden Shield Core, C 2 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Heavy Shields"
+			"book"		=> "Enchanting Heavy Shields, Enforcer Shield Diagram"
 		),
+		//
+		// Enchanting Heavy Shields
+		//
 		array (
 			"name"		=> "Sup. Enchanted Warrior Shield Kit",
 			"type"		=> "I",
@@ -22832,7 +22570,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWarrior Shield",
+			"name"		=> "Enchanted Warrior Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Warrior Shield Kit",
 			"result"	=> "1",
@@ -22842,7 +22580,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWarrior Shield",
+			"name"		=> "Enchanted Warrior Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Warrior Shield Kit",
 			"result"	=> "1",
@@ -22862,7 +22600,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWarrior Shield",
+			"name"		=> "Enchanted Warrior Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Warrior Shield Wicker Kit",
 			"result"	=> "1",
@@ -22882,7 +22620,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWarrior Shield",
+			"name"		=> "Enchanted Warrior Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Warrior Shield Kit",
 			"result"	=> "1",
@@ -22902,7 +22640,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWarrior Shield",
+			"name"		=> "Enchanted Warrior Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Warrior Shield Kit",
 			"result"	=> "1",
@@ -22938,7 +22676,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWheel Shield",
+			"name"		=> "Enchanted Wheel Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Wheel Shield Wicker Kit",
 			"result"	=> "1",
@@ -22948,7 +22686,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWheel Shield",
+			"name"		=> "Enchanted Wheel Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Wheel Shield Wicker Kit",
 			"result"	=> "1",
@@ -22984,7 +22722,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWheel Shield",
+			"name"		=> "Enchanted Wheel Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Wheel Shield Kit",
 			"result"	=> "1",
@@ -23004,7 +22742,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWheel Shield",
+			"name"		=> "Enchanted Wheel Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Wheel Shield Kit",
 			"result"	=> "1",
@@ -23024,7 +22762,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWheel Shield",
+			"name"		=> "Enchanted Wheel Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Wheel Shield Wicker Kit",
 			"result"	=> "1",
@@ -23044,7 +22782,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWheel Shield",
+			"name"		=> "Enchanted Wheel Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Wheel Shield Wicker Kit",
 			"result"	=> "1",
@@ -23064,7 +22802,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWheel Shield",
+			"name"		=> "Enchanted Wheel Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Wheel Shield Kit",
 			"result"	=> "1",
@@ -23074,7 +22812,7 @@
 			"book"		=> "Enchanting Heavy Shields"
 		),
 		array (
-			"name"		=> "EnchantedWheel Shield",
+			"name"		=> "Enchanted Wheel Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Wheel Shield Kit",
 			"result"	=> "1",
@@ -23087,16 +22825,6 @@
 		// Enchanting Light Shields
 		//
 		array (
-			"name"		=> "Banded Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Shield Shape, C 1 Shield Handle, C 3 Shield Band, B 1 Small Wooden Shield Core, C 1 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
 			"name"		=> "Perfect Enchanted Banded Shield Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Banded Shield Kit, C 1 Perfect Gem Socket",
@@ -23107,7 +22835,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBanded Shield",
+			"name"		=> "Enchanted Banded Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Banded Shield Kit",
 			"result"	=> "1",
@@ -23127,7 +22855,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBanded Shield",
+			"name"		=> "Enchanted Banded Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Banded Shield Kit",
 			"result"	=> "1",
@@ -23137,21 +22865,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBanded Shield",
+			"name"		=> "Enchanted Banded Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Banded Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Banded Shield Wicker Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Shield Shape, C 1 Shield Handle, C 3 Shield Band, B 1 Small Wicker Shield Core, C 1 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -23167,7 +22885,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBanded Shield",
+			"name"		=> "Enchanted Banded Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Banded Shield Wicker Kit",
 			"result"	=> "1",
@@ -23187,7 +22905,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBanded Shield",
+			"name"		=> "Enchanted Banded Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Banded Shield Wicker Kit",
 			"result"	=> "1",
@@ -23207,7 +22925,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBanded Shield",
+			"name"		=> "Enchanted Banded Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Banded Shield Kit",
 			"result"	=> "1",
@@ -23227,7 +22945,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBanded Shield",
+			"name"		=> "Enchanted Banded Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Banded Shield Wicker Kit",
 			"result"	=> "1",
@@ -23237,7 +22955,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBanded Shield",
+			"name"		=> "Enchanted Banded Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Banded Shield Wicker Kit",
 			"result"	=> "1",
@@ -23257,7 +22975,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBronze Buckler",
+			"name"		=> "Enchanted Bronze Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Bronze Buckler Kit",
 			"result"	=> "1",
@@ -23277,7 +22995,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBronze Buckler",
+			"name"		=> "Enchanted Bronze Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Bronze Buckler Kit",
 			"result"	=> "1",
@@ -23297,7 +23015,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBronze Buckler",
+			"name"		=> "Enchanted Bronze Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Bronze Buckler Kit",
 			"result"	=> "1",
@@ -23307,21 +23025,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBronze Buckler",
+			"name"		=> "Enchanted Bronze Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Bronze Buckler Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Bronze Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Bronze Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -23337,7 +23045,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBronze Shield",
+			"name"		=> "Enchanted Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Bronze Shield Kit",
 			"result"	=> "1",
@@ -23357,7 +23065,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBronze Shield",
+			"name"		=> "Enchanted Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Bronze Shield Kit",
 			"result"	=> "1",
@@ -23377,7 +23085,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBronze Shield",
+			"name"		=> "Enchanted Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Bronze Shield Kit",
 			"result"	=> "1",
@@ -23387,7 +23095,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBronze Shield",
+			"name"		=> "Enchanted Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Bronze Shield Kit",
 			"result"	=> "1",
@@ -23407,7 +23115,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBuckler",
+			"name"		=> "Enchanted Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Buckler Kit",
 			"result"	=> "1",
@@ -23427,7 +23135,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBuckler",
+			"name"		=> "Enchanted Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Buckler Kit",
 			"result"	=> "1",
@@ -23447,7 +23155,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBuckler",
+			"name"		=> "Enchanted Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Buckler Kit",
 			"result"	=> "1",
@@ -23457,21 +23165,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedBuckler",
+			"name"		=> "Enchanted Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Buckler Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Five-Spiked Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 5 Shield Spikes, C 1 Shield Band, B 1 Wooden Shield Core, C 1 Shield Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -23487,21 +23185,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedFive-Spiked Shield",
+			"name"		=> "Enchanted Five-Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Five-Spiked Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Five-Spiked Shield Wicker Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 5 Shield Spikes, C 1 Shield Band, B 1 Wicker Shield Core, C 1 Shield Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -23517,7 +23205,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedFive-Spiked Shield",
+			"name"		=> "Enchanted Five-Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Five-Spiked Shield Wicker Kit",
 			"result"	=> "1",
@@ -23537,7 +23225,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedFive-Spiked Shield",
+			"name"		=> "Enchanted Five-Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Five-Spiked Shield Kit",
 			"result"	=> "1",
@@ -23557,7 +23245,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedFive-Spiked Shield",
+			"name"		=> "Enchanted Five-Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Five-Spiked Shield Kit",
 			"result"	=> "1",
@@ -23567,7 +23255,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedFive-Spiked Shield",
+			"name"		=> "Enchanted Five-Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Five-Spiked Shield Kit",
 			"result"	=> "1",
@@ -23587,7 +23275,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedFive-Spiked Shield",
+			"name"		=> "Enchanted Five-Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Five-Spiked Shield Wicker Kit",
 			"result"	=> "1",
@@ -23607,7 +23295,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedFive-Spiked Shield",
+			"name"		=> "Enchanted Five-Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Five-Spiked Shield Wicker Kit",
 			"result"	=> "1",
@@ -23617,7 +23305,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedFive-Spiked Shield",
+			"name"		=> "Enchanted Five-Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Five-Spiked Shield Wicker Kit",
 			"result"	=> "1",
@@ -23637,7 +23325,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedIron Buckler",
+			"name"		=> "Enchanted Iron Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Iron Buckler Kit",
 			"result"	=> "1",
@@ -23657,7 +23345,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedIron Buckler",
+			"name"		=> "Enchanted Iron Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Iron Buckler Kit",
 			"result"	=> "1",
@@ -23667,7 +23355,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedIron Buckler",
+			"name"		=> "Enchanted Iron Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Iron Buckler Kit",
 			"result"	=> "1",
@@ -23687,21 +23375,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedIron Buckler",
+			"name"		=> "Enchanted Iron Buckler",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Iron Buckler Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Iron Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Iron Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -23717,7 +23395,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedIron Shield",
+			"name"		=> "Enchanted Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Iron Shield Kit",
 			"result"	=> "1",
@@ -23737,7 +23415,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedIron Shield",
+			"name"		=> "Enchanted Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Iron Shield Kit",
 			"result"	=> "1",
@@ -23747,11 +23425,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedIron Shieldusing Smith Table with a Enchanted Sapphire",
+			"name"		=> "Enchanted Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Iron Shield Kit",
 			"result"	=> "1",
-			"tool"		=> "some Table (combine)",
+			"tool"		=> "Smith Table + Enchanted Sapphire",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -23767,7 +23445,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedIron Shield",
+			"name"		=> "Enchanted Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Iron Shield Kit",
 			"result"	=> "1",
@@ -23787,7 +23465,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Wooden Shield",
+			"name"		=> "Enchanted Reinforced Wooden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Reinforced Wooden Shield Kit",
 			"result"	=> "1",
@@ -23797,7 +23475,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Wooden Shield",
+			"name"		=> "Enchanted Reinforced Wooden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Reinforced Wooden Shield Kit",
 			"result"	=> "1",
@@ -23817,7 +23495,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Wooden Shield",
+			"name"		=> "Enchanted Reinforced Wooden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Reinforced Wooden Shield Kit",
 			"result"	=> "1",
@@ -23837,21 +23515,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Wooden Shield",
+			"name"		=> "Enchanted Reinforced Wooden Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Reinforced Wooden Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Round Bronze Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Bronze Shield Shape, B 1 Round Wooden Shield Core, B 1 Leather Shield Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -23867,7 +23535,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Bronze Shield",
+			"name"		=> "Enchanted Round Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Round Bronze Shield Kit",
 			"result"	=> "1",
@@ -23887,7 +23555,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Bronze Shield",
+			"name"		=> "Enchanted Round Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Round Bronze Shield Kit",
 			"result"	=> "1",
@@ -23897,7 +23565,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Bronze Shield",
+			"name"		=> "Enchanted Round Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Round Bronze Shield Kit",
 			"result"	=> "1",
@@ -23917,21 +23585,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Bronze Shield",
+			"name"		=> "Enchanted Round Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Round Bronze Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Round Iron Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Iron Shield Shape, B 1 Round Wooden Shield Core, B 1 Leather Shield Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -23947,7 +23605,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Iron Shield",
+			"name"		=> "Enchanted Round Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Round Iron Shield Kit",
 			"result"	=> "1",
@@ -23967,7 +23625,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Iron Shield",
+			"name"		=> "Enchanted Round Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Round Iron Shield Kit",
 			"result"	=> "1",
@@ -23977,7 +23635,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Iron Shield",
+			"name"		=> "Enchanted Round Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Round Iron Shield Kit",
 			"result"	=> "1",
@@ -23997,21 +23655,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Iron Shield",
+			"name"		=> "Enchanted Round Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Round Iron Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Round Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, B 1 Round Wooden Shield Core, B 1 Leather Shield Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -24027,7 +23675,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Shield",
+			"name"		=> "Enchanted Round Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Round Shield Kit",
 			"result"	=> "1",
@@ -24047,7 +23695,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Shield",
+			"name"		=> "Enchanted Round Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Round Shield Kit",
 			"result"	=> "1",
@@ -24057,7 +23705,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Shield",
+			"name"		=> "Enchanted Round Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Round Shield Kit",
 			"result"	=> "1",
@@ -24077,21 +23725,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedRound Shield",
+			"name"		=> "Enchanted Round Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Round Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -24107,7 +23745,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedShield",
+			"name"		=> "Enchanted Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Shield Kit",
 			"result"	=> "1",
@@ -24127,7 +23765,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedShield",
+			"name"		=> "Enchanted Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Shield Kit",
 			"result"	=> "1",
@@ -24137,7 +23775,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedShield",
+			"name"		=> "Enchanted Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Shield Kit",
 			"result"	=> "1",
@@ -24157,7 +23795,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedShield",
+			"name"		=> "Enchanted Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Shield Kit",
 			"result"	=> "1",
@@ -24797,16 +24435,6 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "Spiked Bronze Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 4 Bronze Spikes, C 1 Spiked Bronze Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
 			"name"		=> "Enchanted Spiked Bronze Shield Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Spiked Bronze Shield Kit, C 1 Standard Gem Socket",
@@ -24817,7 +24445,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Bronze Shield",
+			"name"		=> "Enchanted Spiked Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Spiked Bronze Shield Kit",
 			"result"	=> "1",
@@ -24837,7 +24465,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Bronze Shield",
+			"name"		=> "Enchanted Spiked Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Spiked Bronze Shield Kit",
 			"result"	=> "1",
@@ -24857,7 +24485,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Bronze Shield",
+			"name"		=> "Enchanted Spiked Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spiked Bronze Shield Kit",
 			"result"	=> "1",
@@ -24867,21 +24495,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Bronze Shield",
+			"name"		=> "Enchanted Spiked Bronze Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spiked Bronze Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Spiked Iron Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 4 Iron Spikes, C 1 Spiked Iron Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -24897,7 +24515,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Iron Shield",
+			"name"		=> "Enchanted Spiked Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Spiked Iron Shield Kit",
 			"result"	=> "1",
@@ -24917,7 +24535,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Iron Shield",
+			"name"		=> "Enchanted Spiked Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Spiked Iron Shield Kit",
 			"result"	=> "1",
@@ -24937,7 +24555,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Iron Shield",
+			"name"		=> "Enchanted Spiked Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spiked Iron Shield Kit",
 			"result"	=> "1",
@@ -24947,21 +24565,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Iron Shield",
+			"name"		=> "Enchanted Spiked Iron Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spiked Iron Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Spiked Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 4 Shield Spikes, C 1 Spiked Shield Shape, B 1 Wooden Shield Core, B 1 Leather Shield Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -24977,7 +24585,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Shield",
+			"name"		=> "Enchanted Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Spiked Shield Kit",
 			"result"	=> "1",
@@ -24997,7 +24605,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Shield",
+			"name"		=> "Enchanted Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Spiked Shield Kit",
 			"result"	=> "1",
@@ -25017,7 +24625,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Shield",
+			"name"		=> "Enchanted Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spiked Shield Kit",
 			"result"	=> "1",
@@ -25027,21 +24635,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedSpiked Shield",
+			"name"		=> "Enchanted Spiked Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spiked Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Stinger Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spikes, B 1 Wooden Shield Core, C 1 Shield Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -25057,21 +24655,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedStinger Shield",
+			"name"		=> "Enchanted Stinger Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Stinger Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Stinger Shield Wicker Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spikes, B 1 Wicker Shield Core, C 1 Shield Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -25087,7 +24675,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedStinger Shield",
+			"name"		=> "Enchanted Stinger Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Stinger Shield Wicker Kit",
 			"result"	=> "1",
@@ -25107,7 +24695,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedStinger Shield",
+			"name"		=> "Enchanted Stinger Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Stinger Shield Kit",
 			"result"	=> "1",
@@ -25127,7 +24715,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedStinger Shield",
+			"name"		=> "Enchanted Stinger Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Stinger Shield Kit",
 			"result"	=> "1",
@@ -25137,7 +24725,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedStinger Shield",
+			"name"		=> "Enchanted Stinger Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Stinger Shield Kit",
 			"result"	=> "1",
@@ -25157,7 +24745,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedStinger Shield",
+			"name"		=> "Enchanted Stinger Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Stinger Shield Wicker Kit",
 			"result"	=> "1",
@@ -25177,7 +24765,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedStinger Shield",
+			"name"		=> "Enchanted Stinger Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Stinger Shield Wicker Kit",
 			"result"	=> "1",
@@ -25187,21 +24775,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedStinger Shield",
+			"name"		=> "Enchanted Stinger Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Stinger Shield Wicker Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Three Rivet Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Shield Handle, C 4 Bronze Band, B 1 Small Wooden Shield Core, C 2 Bronze Half Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -25217,21 +24795,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedThree Rivet Shield",
+			"name"		=> "Enchanted Three Rivet Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Three Rivet Shield Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Three Rivet Shield Wicker Kit",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Shield Handle, C 4 Bronze Band, B 1 Small Wicker Shield Core, C 2 Bronze Half Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -25247,7 +24815,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedThree Rivet Shield",
+			"name"		=> "Enchanted Three Rivet Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Three Rivet Shield Wicker Kit",
 			"result"	=> "1",
@@ -25267,7 +24835,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedThree Rivet Shield",
+			"name"		=> "Enchanted Three Rivet Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Three Rivet Shield Kit",
 			"result"	=> "1",
@@ -25287,7 +24855,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedThree Rivet Shield",
+			"name"		=> "Enchanted Three Rivet Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Three Rivet Shield Kit",
 			"result"	=> "1",
@@ -25297,7 +24865,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedThree Rivet Shield",
+			"name"		=> "Enchanted Three Rivet Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Three Rivet Shield Kit",
 			"result"	=> "1",
@@ -25317,7 +24885,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedThree Rivet Shield",
+			"name"		=> "Enchanted Three Rivet Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Three Rivet Shield Wicker Kit",
 			"result"	=> "1",
@@ -25337,7 +24905,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedThree Rivet Shield",
+			"name"		=> "Enchanted Three Rivet Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Three Rivet Shield Wicker Kit",
 			"result"	=> "1",
@@ -25347,21 +24915,11 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedThree Rivet Shield",
+			"name"		=> "Enchanted Three Rivet Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Three Rivet Shield Wicker Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Light Shields"
-		),
-		array (
-			"name"		=> "Wooden and Metal Shield Kit",
-			"type"		=> "I",
-			"ingredient"	=> "B 1 Wooden Shield Core, B 1 Leather Shield Handle, C 4 Iron Band",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Light Shields"
@@ -25377,7 +24935,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedWooden and Metal Shield",
+			"name"		=> "Enchanted Wooden and Metal Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Wooden and Metal Shield Kit",
 			"result"	=> "1",
@@ -25387,7 +24945,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedWooden and Metal Shield",
+			"name"		=> "Enchanted Wooden and Metal Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Wooden and Metal Shield Kit",
 			"result"	=> "1",
@@ -25407,7 +24965,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedWooden and Metal Shield",
+			"name"		=> "Enchanted Wooden and Metal Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Wooden and Metal Shield Kit",
 			"result"	=> "1",
@@ -25427,7 +24985,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		array (
-			"name"		=> "EnchantedWooden and Metal Shield",
+			"name"		=> "Enchanted Wooden and Metal Shield",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Wooden and Metal Shield Kit",
 			"result"	=> "1",
@@ -25437,7 +24995,7 @@
 			"book"		=> "Enchanting Light Shields"
 		),
 		//
-		// Enchanting Weapons
+		// Enchanting Weapons, Forging Platinum Steel Axes, Notes of an Axe Maker
 		//
 		array (
 			"name"		=> "Wooden Axe Handle",
@@ -25447,7 +25005,7 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Blades Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
+			"book"		=> "Enchanting Weapons, Forging Platinum Steel Axes, Notes of an Axe Maker"
 		),
 		//
 		// Enchanting Weapons, Notes of an Axe Maker
@@ -25476,7 +25034,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedBattle Axe",
+			"name"		=> "Enchanted Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Battle Axe Kit",
 			"result"	=> "1",
@@ -25496,7 +25054,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedBattle Axe",
+			"name"		=> "Enchanted Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Axe Kit",
 			"result"	=> "1",
@@ -25506,7 +25064,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedBattle Axe",
+			"name"		=> "Enchanted Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Axe Kit",
 			"result"	=> "1",
@@ -25526,7 +25084,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedBattle Axe",
+			"name"		=> "Enchanted Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Battle Axe Kit",
 			"result"	=> "1",
@@ -25546,7 +25104,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Battle Hammer",
+			"name"		=> "Enchanted Battle Hammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Battle Hammer Assembly",
 			"result"	=> "1",
@@ -25566,7 +25124,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Battle Hammer",
+			"name"		=> "Enchanted Battle Hammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Hammer Assembly",
 			"result"	=> "1",
@@ -25576,7 +25134,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Battle Hammer",
+			"name"		=> "Enchanted Battle Hammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Hammer Assembly",
 			"result"	=> "1",
@@ -25596,7 +25154,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Battle Hammer",
+			"name"		=> "Enchanted Battle Hammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Battle Hammer Assembly",
 			"result"	=> "1",
@@ -25616,7 +25174,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Battle Pick",
+			"name"		=> "Enchanted Battle Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Battle Pick Assembly",
 			"result"	=> "1",
@@ -25636,7 +25194,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Battle Pick",
+			"name"		=> "Enchanted Battle Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Pick Assembly",
 			"result"	=> "1",
@@ -25646,7 +25204,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Battle Pick",
+			"name"		=> "Enchanted Battle Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Battle Pick Assembly",
 			"result"	=> "1",
@@ -25666,7 +25224,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Battle Pick",
+			"name"		=> "Enchanted Battle Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Battle Pick Assembly",
 			"result"	=> "1",
@@ -25702,7 +25260,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedBroadsword",
+			"name"		=> "Enchanted Broadsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Broadsword Kit",
 			"result"	=> "1",
@@ -25712,7 +25270,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedBroadsword",
+			"name"		=> "Enchanted Broadsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Broadsword Kit",
 			"result"	=> "1",
@@ -25732,7 +25290,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedBroadsword",
+			"name"		=> "Enchanted Broadsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Broadsword Kit",
 			"result"	=> "1",
@@ -25752,7 +25310,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedBroadsword",
+			"name"		=> "Enchanted Broadsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Broadsword Kit",
 			"result"	=> "1",
@@ -25772,7 +25330,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedClaymore",
+			"name"		=> "Enchanted Claymore",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Claymore Kit",
 			"result"	=> "1",
@@ -25782,7 +25340,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedClaymore",
+			"name"		=> "Enchanted Claymore",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Claymore Kit",
 			"result"	=> "1",
@@ -25802,21 +25360,11 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedClaymore",
+			"name"		=> "Enchanted Claymore",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Claymore Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
-		),
-		array (
-			"name"		=> "Claymore Ki",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Claymore Blade, C 1 Sword Handle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Blades Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
@@ -25832,7 +25380,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedClaymore",
+			"name"		=> "Enchanted Claymore",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Claymore Kit",
 			"result"	=> "1",
@@ -25852,7 +25400,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Club",
+			"name"		=> "Enchanted Club",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Club Assembly",
 			"result"	=> "1",
@@ -25872,7 +25420,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Club",
+			"name"		=> "Enchanted Club",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Club Assembly",
 			"result"	=> "1",
@@ -25882,7 +25430,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Club",
+			"name"		=> "Enchanted Club",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Club Assembly",
 			"result"	=> "1",
@@ -25902,7 +25450,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Club",
+			"name"		=> "Enchanted Club",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Club Assembly",
 			"result"	=> "1",
@@ -25922,7 +25470,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedDagger",
+			"name"		=> "Enchanted Dagger",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Dagger Kit",
 			"result"	=> "1",
@@ -25942,7 +25490,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedDagger",
+			"name"		=> "Enchanted Dagger",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Dagger Kit",
 			"result"	=> "1",
@@ -25962,7 +25510,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedDagger",
+			"name"		=> "Enchanted Dagger",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Dagger Kit",
 			"result"	=> "1",
@@ -25972,7 +25520,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedDagger",
+			"name"		=> "Enchanted Dagger",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Dagger Kit",
 			"result"	=> "1",
@@ -25981,43 +25529,49 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
+		//
+		// Enchanting Weapons, Expert Bow Making
+		//
 		array (
 			"name"		=> "Unbalanced Dermorian Composite Bow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Unstrung Dermorian Composite Bow, C 1 Plant String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
+			"book"		=> "Enchanting Weapons, Expert Bow Making"
 		),
+		//
+		// Enchanting Weapons
+		//
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Dermorian Composite Bow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Composite Bow",
+			"name"		=> "Enchanted Dermorian Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Composite Bow",
+			"name"		=> "Enchanted Dermorian Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26027,17 +25581,17 @@
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Composite Bow",
+			"name"		=> "Enchanted Dermorian Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26047,17 +25601,17 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Composite Bow",
+			"name"		=> "Enchanted Dermorian Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26067,27 +25621,27 @@
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Hunting Bow",
+			"name"		=> "Enchanted Dermorian Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Hunting Bow",
+			"name"		=> "Enchanted Dermorian Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26097,17 +25651,17 @@
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Hunting Bow",
+			"name"		=> "Enchanted Dermorian Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26117,27 +25671,17 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Hunting Bow",
+			"name"		=> "Enchanted Dermorian Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
-		),
-		array (
-			"name"		=> "Unbalanced Dermorian Longbow",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Unstrung Dermorian Longbow, C 1 Plant String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26147,27 +25691,27 @@
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Longbow",
+			"name"		=> "Enchanted Dermorian Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Longbow",
+			"name"		=> "Enchanted Dermorian Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26177,17 +25721,17 @@
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Longbow",
+			"name"		=> "Enchanted Dermorian Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26197,27 +25741,17 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Longbow",
+			"name"		=> "Enchanted Dermorian Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
-		),
-		array (
-			"name"		=> "Unbalanced Dermorian Shortbow",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Unstrung Dermorian Shortbow, C 1 Plant String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26227,27 +25761,27 @@
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Shortbow",
+			"name"		=> "Enchanted Dermorian Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Shortbow",
+			"name"		=> "Enchanted Dermorian Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26257,17 +25791,17 @@
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Shortbow",
+			"name"		=> "Enchanted Dermorian Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26277,57 +25811,63 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Dermorian Shortbow",
+			"name"		=> "Enchanted Dermorian Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
+		//
+		// Enchanting Weapons, Expert Bow Making
+		//
 		array (
 			"name"		=> "Unbalanced Enkidukai Composite Bow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Unstrung Enkidukai Composite Bow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
+			"book"		=> "Enchanting Weapons, Expert Bow Making"
 		),
+		//
+		// Enchanting Weapons
+		//
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Enkidukai Composite Bow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Composite Bow",
+			"name"		=> "Enchanted Enkidukai Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Composite Bow",
+			"name"		=> "Enchanted Enkidukai Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26337,17 +25877,17 @@
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Composite Bow",
+			"name"		=> "Enchanted Enkidukai Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26357,17 +25897,17 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Composite Bow",
+			"name"		=> "Enchanted Enkidukai Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26377,27 +25917,27 @@
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Hunting Bow",
+			"name"		=> "Enchanted Enkidukai Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Hunting Bow",
+			"name"		=> "Enchanted Enkidukai Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26407,17 +25947,17 @@
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Hunting Bow",
+			"name"		=> "Enchanted Enkidukai Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26427,27 +25967,17 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Hunting Bow",
+			"name"		=> "Enchanted Enkidukai Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
-		),
-		array (
-			"name"		=> "Unbalanced Enkidukai Longbow",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Unstrung Enkidukai Longbow, C 1 Tendon String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26457,27 +25987,27 @@
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Longbow",
+			"name"		=> "Enchanted Enkidukai Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Longbow",
+			"name"		=> "Enchanted Enkidukai Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26487,17 +26017,17 @@
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Longbow",
+			"name"		=> "Enchanted Enkidukai Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26507,27 +26037,17 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Longbow",
+			"name"		=> "Enchanted Enkidukai Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
-		),
-		array (
-			"name"		=> "Unbalanced Enkidukai Shortbow",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Unstrung Enkidukai Shortbow, C 1 Tendon String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26537,27 +26057,27 @@
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Shortbow",
+			"name"		=> "Enchanted Enkidukai Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Shortbow",
+			"name"		=> "Enchanted Enkidukai Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26567,17 +26087,17 @@
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Shortbow",
+			"name"		=> "Enchanted Enkidukai Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26587,17 +26107,17 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Enkidukai Shortbow",
+			"name"		=> "Enchanted Enkidukai Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -26628,7 +26148,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedFalchion",
+			"name"		=> "Enchanted Falchion",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Steel Falchion Kit",
 			"result"	=> "1",
@@ -26638,7 +26158,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedFalchion",
+			"name"		=> "Enchanted Falchion",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Steel Falchion Kit",
 			"result"	=> "1",
@@ -26658,7 +26178,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedFalchion",
+			"name"		=> "Enchanted Falchion",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Steel Falchion Kit",
 			"result"	=> "1",
@@ -26678,7 +26198,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedFalchion",
+			"name"		=> "Enchanted Falchion",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Steel Falchion Kit",
 			"result"	=> "1",
@@ -26698,7 +26218,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Flail Mace",
+			"name"		=> "Enchanted Flail Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Flail Mace Assembly",
 			"result"	=> "1",
@@ -26718,7 +26238,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Flail Mace",
+			"name"		=> "Enchanted Flail Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Flail Mace Assembly",
 			"result"	=> "1",
@@ -26728,7 +26248,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Flail Mace",
+			"name"		=> "Enchanted Flail Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Flail Mace Assembly",
 			"result"	=> "1",
@@ -26748,7 +26268,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Flail Mace",
+			"name"		=> "Enchanted Flail Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Flail Mace Assembly",
 			"result"	=> "1",
@@ -26768,7 +26288,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Flanged Mace",
+			"name"		=> "Enchanted Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Flanged Mace Assembly",
 			"result"	=> "1",
@@ -26788,7 +26308,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Flanged Mace",
+			"name"		=> "Enchanted Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Flanged Mace Assembly",
 			"result"	=> "1",
@@ -26798,7 +26318,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Flanged Mace",
+			"name"		=> "Enchanted Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Flanged Mace Assembly",
 			"result"	=> "1",
@@ -26818,7 +26338,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Flanged Mace",
+			"name"		=> "Enchanted Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Flanged Mace Assembly",
 			"result"	=> "1",
@@ -26838,7 +26358,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedKnife",
+			"name"		=> "Enchanted Knife",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Knife Kit",
 			"result"	=> "1",
@@ -26858,7 +26378,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedKnife",
+			"name"		=> "Enchanted Knife",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Knife Kit",
 			"result"	=> "1",
@@ -26878,7 +26398,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedKnife",
+			"name"		=> "Enchanted Knife",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Knife Kit",
 			"result"	=> "1",
@@ -26888,7 +26408,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedKnife",
+			"name"		=> "Enchanted Knife",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Knife Kit",
 			"result"	=> "1",
@@ -26908,7 +26428,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedLongsword",
+			"name"		=> "Enchanted Longsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Longsword Kit",
 			"result"	=> "1",
@@ -26918,7 +26438,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedLongsword",
+			"name"		=> "Enchanted Longsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Longsword Kit",
 			"result"	=> "1",
@@ -26938,7 +26458,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedLongsword",
+			"name"		=> "Enchanted Longsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Longsword Kit",
 			"result"	=> "1",
@@ -26958,7 +26478,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedLongsword",
+			"name"		=> "Enchanted Longsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Longsword Kit",
 			"result"	=> "1",
@@ -26978,7 +26498,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Mace",
+			"name"		=> "Enchanted Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Mace Assembly",
 			"result"	=> "1",
@@ -26998,7 +26518,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Mace",
+			"name"		=> "Enchanted Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Mace Assembly",
 			"result"	=> "1",
@@ -27008,7 +26528,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Mace",
+			"name"		=> "Enchanted Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Mace Assembly",
 			"result"	=> "1",
@@ -27028,7 +26548,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Mace",
+			"name"		=> "Enchanted Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Mace Assembly",
 			"result"	=> "1",
@@ -27048,7 +26568,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Morning Star",
+			"name"		=> "Enchanted Morning Star",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Morning Star Assembly",
 			"result"	=> "1",
@@ -27068,7 +26588,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Morning Star",
+			"name"		=> "Enchanted Morning Star",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Morning Star Assembly",
 			"result"	=> "1",
@@ -27078,7 +26598,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Morning Star",
+			"name"		=> "Enchanted Morning Star",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Morning Star Assembly",
 			"result"	=> "1",
@@ -27098,7 +26618,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Morning Star",
+			"name"		=> "Enchanted Morning Star",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Morning Star Assembly",
 			"result"	=> "1",
@@ -27134,7 +26654,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Battle Axe Kit",
 			"result"	=> "1",
@@ -27154,7 +26674,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Battle Axe Kit",
 			"result"	=> "1",
@@ -27174,7 +26694,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Battle Axe Kit",
 			"result"	=> "1",
@@ -27184,7 +26704,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Battle Axe Kit",
 			"result"	=> "1",
@@ -27204,7 +26724,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Battle Hammer",
+			"name"		=> "Enchanted Platinum Steel Battle Hammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Battle Hammer Assembly",
 			"result"	=> "1",
@@ -27224,7 +26744,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Battle Hammer",
+			"name"		=> "Enchanted Platinum Steel Battle Hammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Battle Hammer Assembly",
 			"result"	=> "1",
@@ -27234,7 +26754,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Battle Hammer",
+			"name"		=> "Enchanted Platinum Steel Battle Hammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Battle Hammer Assembly",
 			"result"	=> "1",
@@ -27254,7 +26774,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Battle Hammer",
+			"name"		=> "Enchanted Platinum Steel Battle Hammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Battle Hammer Assembly",
 			"result"	=> "1",
@@ -27274,7 +26794,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Battle Pick",
+			"name"		=> "Enchanted Platinum Steel Battle Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Battle Pick Assembly",
 			"result"	=> "1",
@@ -27294,7 +26814,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Battle Pick",
+			"name"		=> "Enchanted Platinum Steel Battle Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Battle Pick Assembly",
 			"result"	=> "1",
@@ -27314,7 +26834,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Battle Pick",
+			"name"		=> "Enchanted Platinum Steel Battle Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Battle Pick Assembly",
 			"result"	=> "1",
@@ -27324,7 +26844,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Battle Pick",
+			"name"		=> "Enchanted Platinum Steel Battle Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Battle Pick Assembly",
 			"result"	=> "1",
@@ -27360,7 +26880,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Broadsword",
+			"name"		=> "Enchanted Platinum Steel Broadsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Broadsword Kit",
 			"result"	=> "1",
@@ -27380,7 +26900,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Broadsword",
+			"name"		=> "Enchanted Platinum Steel Broadsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Broadsword Kit",
 			"result"	=> "1",
@@ -27390,7 +26910,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Broadsword",
+			"name"		=> "Enchanted Platinum Steel Broadsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Broadsword Kit",
 			"result"	=> "1",
@@ -27410,7 +26930,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Broadsword",
+			"name"		=> "Enchanted Platinum Steel Broadsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Broadsword Kit",
 			"result"	=> "1",
@@ -27446,7 +26966,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Claymore",
+			"name"		=> "Enchanted Platinum Steel Claymore",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Claymore Kit",
 			"result"	=> "1",
@@ -27466,7 +26986,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Claymore",
+			"name"		=> "Enchanted Platinum Steel Claymore",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Claymore Kit",
 			"result"	=> "1",
@@ -27476,7 +26996,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Claymore",
+			"name"		=> "Enchanted Platinum Steel Claymore",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Claymore Kit",
 			"result"	=> "1",
@@ -27496,7 +27016,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Claymore",
+			"name"		=> "Enchanted Platinum Steel Claymore",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Claymore Kit",
 			"result"	=> "1",
@@ -27532,7 +27052,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Dagger",
+			"name"		=> "Enchanted Platinum Steel Dagger",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Dagger Kit",
 			"result"	=> "1",
@@ -27542,7 +27062,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Dagger",
+			"name"		=> "Enchanted Platinum Steel Dagger",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Dagger Kit",
 			"result"	=> "1",
@@ -27562,7 +27082,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Dagger",
+			"name"		=> "Enchanted Platinum Steel Dagger",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Dagger Kit",
 			"result"	=> "1",
@@ -27582,7 +27102,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Dagger",
+			"name"		=> "Enchanted Platinum Steel Dagger",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Dagger Kit",
 			"result"	=> "1",
@@ -27618,7 +27138,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Falchion",
+			"name"		=> "Enchanted Platinum Steel Falchion",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Falchion Kit",
 			"result"	=> "1",
@@ -27638,7 +27158,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Falchion",
+			"name"		=> "Enchanted Platinum Steel Falchion",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Falchion Kit",
 			"result"	=> "1",
@@ -27648,7 +27168,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Falchion",
+			"name"		=> "Enchanted Platinum Steel Falchion",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Falchion Kit",
 			"result"	=> "1",
@@ -27668,7 +27188,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Falchion",
+			"name"		=> "Enchanted Platinum Steel Falchion",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Falchion Kit",
 			"result"	=> "1",
@@ -27688,7 +27208,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Flanged Mace",
+			"name"		=> "Enchanted Platinum Steel Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Flanged Mace Assembly",
 			"result"	=> "1",
@@ -27708,7 +27228,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Flanged Mace",
+			"name"		=> "Enchanted Platinum Steel Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Flanged Mace Assembly",
 			"result"	=> "1",
@@ -27718,7 +27238,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Flanged Mace",
+			"name"		=> "Enchanted Platinum Steel Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Flanged Mace Assembly",
 			"result"	=> "1",
@@ -27738,7 +27258,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Flanged Mace",
+			"name"		=> "Enchanted Platinum Steel Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Flanged Mace Assembly",
 			"result"	=> "1",
@@ -27774,7 +27294,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Knife",
+			"name"		=> "Enchanted Platinum Steel Knife",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Knife Kit",
 			"result"	=> "1",
@@ -27794,7 +27314,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Knife",
+			"name"		=> "Enchanted Platinum Steel Knife",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Knife Kit",
 			"result"	=> "1",
@@ -27804,7 +27324,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Knife",
+			"name"		=> "Enchanted Platinum Steel Knife",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Knife Kit",
 			"result"	=> "1",
@@ -27824,7 +27344,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Knife",
+			"name"		=> "Enchanted Platinum Steel Knife",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Knife Kit",
 			"result"	=> "1",
@@ -27860,7 +27380,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Longsword",
+			"name"		=> "Enchanted Platinum Steel Longsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Longsword Kit",
 			"result"	=> "1",
@@ -27880,7 +27400,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Longsword",
+			"name"		=> "Enchanted Platinum Steel Longsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Longsword Kit",
 			"result"	=> "1",
@@ -27890,7 +27410,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Longsword",
+			"name"		=> "Enchanted Platinum Steel Longsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Longsword Kit",
 			"result"	=> "1",
@@ -27910,7 +27430,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Longsword",
+			"name"		=> "Enchanted Platinum Steel Longsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Longsword Kit",
 			"result"	=> "1",
@@ -27930,7 +27450,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Mace",
+			"name"		=> "Enchanted Platinum Steel Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Mace Assembly",
 			"result"	=> "1",
@@ -27950,7 +27470,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Mace",
+			"name"		=> "Enchanted Platinum Steel Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Mace Assembly",
 			"result"	=> "1",
@@ -27960,7 +27480,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Mace",
+			"name"		=> "Enchanted Platinum Steel Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Mace Assembly",
 			"result"	=> "1",
@@ -27980,7 +27500,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Mace",
+			"name"		=> "Enchanted Platinum Steel Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Mace Assembly",
 			"result"	=> "1",
@@ -28000,7 +27520,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Morning Star",
+			"name"		=> "Enchanted Platinum Steel Morning Star",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Morning Star Assembly",
 			"result"	=> "1",
@@ -28020,7 +27540,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Morning Star",
+			"name"		=> "Enchanted Platinum Steel Morning Star",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Morning Star Assembly",
 			"result"	=> "1",
@@ -28030,7 +27550,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Morning Star",
+			"name"		=> "Enchanted Platinum Steel Morning Star",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Morning Star Assembly",
 			"result"	=> "1",
@@ -28050,7 +27570,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Morning Star",
+			"name"		=> "Enchanted Platinum Steel Morning Star",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Morning Star Assembly",
 			"result"	=> "1",
@@ -28086,7 +27606,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Reinforced Axe",
+			"name"		=> "Enchanted Platinum Steel Reinforced Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Reinforced Axe Kit",
 			"result"	=> "1",
@@ -28106,7 +27626,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Reinforced Axe",
+			"name"		=> "Enchanted Platinum Steel Reinforced Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Reinforced Axe Kit",
 			"result"	=> "1",
@@ -28126,7 +27646,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Reinforced Axe",
+			"name"		=> "Enchanted Platinum Steel Reinforced Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Reinforced Axe Kit",
 			"result"	=> "1",
@@ -28136,7 +27656,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Reinforced Axe",
+			"name"		=> "Enchanted Platinum Steel Reinforced Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Reinforced Axe Kit",
 			"result"	=> "1",
@@ -28172,7 +27692,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Reinforced Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Reinforced Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Reinforced Battle Axe Kit",
 			"result"	=> "1",
@@ -28192,7 +27712,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Reinforced Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Reinforced Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Reinforced Battle Axe Kit",
 			"result"	=> "1",
@@ -28212,7 +27732,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Reinforced Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Reinforced Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Reinforced Battle Axe Kit",
 			"result"	=> "1",
@@ -28222,7 +27742,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Reinforced Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Reinforced Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Reinforced Battle Axe Kit",
 			"result"	=> "1",
@@ -28258,7 +27778,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Sabre",
+			"name"		=> "Enchanted Platinum Steel Sabre",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Sabre Kit",
 			"result"	=> "1",
@@ -28278,7 +27798,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Sabre",
+			"name"		=> "Enchanted Platinum Steel Sabre",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Sabre Kit",
 			"result"	=> "1",
@@ -28288,7 +27808,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Sabre",
+			"name"		=> "Enchanted Platinum Steel Sabre",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Sabre Kit",
 			"result"	=> "1",
@@ -28308,7 +27828,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Sabre",
+			"name"		=> "Enchanted Platinum Steel Sabre",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Sabre Kit",
 			"result"	=> "1",
@@ -28344,7 +27864,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Shortsword",
+			"name"		=> "Enchanted Platinum Steel Shortsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Shortsword Kit",
 			"result"	=> "1",
@@ -28364,7 +27884,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Shortsword",
+			"name"		=> "Enchanted Platinum Steel Shortsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Shortsword Kit",
 			"result"	=> "1",
@@ -28374,7 +27894,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Shortsword",
+			"name"		=> "Enchanted Platinum Steel Shortsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Shortsword Kit",
 			"result"	=> "1",
@@ -28394,7 +27914,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Shortsword",
+			"name"		=> "Enchanted Platinum Steel Shortsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Shortsword Kit",
 			"result"	=> "1",
@@ -28403,6 +27923,9 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
+		//
+		// Enchanting Weapons, Forging Platinum Steel Axes, Notes of an Axe Maker
+		//
 		array (
 			"name"		=> "Small Wooden Axe Handle",
 			"type"		=> "I",
@@ -28411,7 +27934,7 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Blades Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
+			"book"		=> "Enchanting Weapons, Forging Platinum Steel Axes, Notes of an Axe Maker"
 		),
 		//
 		// Enchanting Weapons, Forging Platinum Steel Axes
@@ -28440,7 +27963,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Small Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Small Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Small Battle Axe Kit",
 			"result"	=> "1",
@@ -28460,7 +27983,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Small Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Small Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Small Battle Axe Kit",
 			"result"	=> "1",
@@ -28480,7 +28003,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Small Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Small Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Small Battle Axe Kit",
 			"result"	=> "1",
@@ -28490,7 +28013,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedPlatinum Steel Small Battle Axe",
+			"name"		=> "Enchanted Platinum Steel Small Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Small Battle Axe Kit",
 			"result"	=> "1",
@@ -28510,7 +28033,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Spiked Warhammer",
+			"name"		=> "Enchanted Platinum Steel Spiked Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Spiked Warhammer Assembly",
 			"result"	=> "1",
@@ -28520,7 +28043,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Spiked Warhammer",
+			"name"		=> "Enchanted Platinum Steel Spiked Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Spiked Warhammer Assembly",
 			"result"	=> "1",
@@ -28540,7 +28063,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Spiked Warhammer",
+			"name"		=> "Enchanted Platinum Steel Spiked Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Spiked Warhammer Assembly",
 			"result"	=> "1",
@@ -28560,7 +28083,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Spiked Warhammer",
+			"name"		=> "Enchanted Platinum Steel Spiked Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Spiked Warhammer Assembly",
 			"result"	=> "1",
@@ -28580,7 +28103,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel War Flanged Mace",
+			"name"		=> "Enchanted Platinum Steel War Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel War Flanged Mace Assembly",
 			"result"	=> "1",
@@ -28600,7 +28123,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel War Flanged Mace",
+			"name"		=> "Enchanted Platinum Steel War Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel War Flanged Mace Assembly",
 			"result"	=> "1",
@@ -28610,7 +28133,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel War Flanged Mace",
+			"name"		=> "Enchanted Platinum Steel War Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel War Flanged Mace Assembly",
 			"result"	=> "1",
@@ -28630,7 +28153,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel War Flanged Mace",
+			"name"		=> "Enchanted Platinum Steel War Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel War Flanged Mace Assembly",
 			"result"	=> "1",
@@ -28650,7 +28173,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel War Pick",
+			"name"		=> "Enchanted Platinum Steel War Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel War Pick Assembly",
 			"result"	=> "1",
@@ -28660,7 +28183,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel War Pick",
+			"name"		=> "Enchanted Platinum Steel War Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel War Pick Assembly",
 			"result"	=> "1",
@@ -28680,7 +28203,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel War Pick",
+			"name"		=> "Enchanted Platinum Steel War Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel War Pick Assembly",
 			"result"	=> "1",
@@ -28700,7 +28223,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel War Pick",
+			"name"		=> "Enchanted Platinum Steel War Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel War Pick Assembly",
 			"result"	=> "1",
@@ -28720,7 +28243,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Warhammer",
+			"name"		=> "Enchanted Platinum Steel Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Platinum Steel Warhammer Assembly",
 			"result"	=> "1",
@@ -28740,7 +28263,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Warhammer",
+			"name"		=> "Enchanted Platinum Steel Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Platinum Steel Warhammer Assembly",
 			"result"	=> "1",
@@ -28760,7 +28283,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Warhammer",
+			"name"		=> "Enchanted Platinum Steel Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Warhammer Assembly",
 			"result"	=> "1",
@@ -28770,7 +28293,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Platinum Steel Warhammer",
+			"name"		=> "Enchanted Platinum Steel Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Platinum Steel Warhammer Assembly",
 			"result"	=> "1",
@@ -28806,7 +28329,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Axe",
+			"name"		=> "Enchanted Reinforced Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Reinforced Axe Kit",
 			"result"	=> "1",
@@ -28826,7 +28349,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Axe",
+			"name"		=> "Enchanted Reinforced Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Reinforced Axe Kit",
 			"result"	=> "1",
@@ -28836,7 +28359,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Axe",
+			"name"		=> "Enchanted Reinforced Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Reinforced Axe Kit",
 			"result"	=> "1",
@@ -28856,7 +28379,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Axe",
+			"name"		=> "Enchanted Reinforced Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Reinforced Axe Kit",
 			"result"	=> "1",
@@ -28892,7 +28415,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Battle Axe",
+			"name"		=> "Enchanted Reinforced Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Reinforced Battle Axe Kit",
 			"result"	=> "1",
@@ -28912,7 +28435,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Battle Axe",
+			"name"		=> "Enchanted Reinforced Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Reinforced Battle Axe Kit",
 			"result"	=> "1",
@@ -28932,7 +28455,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Battle Axe",
+			"name"		=> "Enchanted Reinforced Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Reinforced Battle Axe Kit",
 			"result"	=> "1",
@@ -28942,7 +28465,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedReinforced Battle Axe",
+			"name"		=> "Enchanted Reinforced Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Reinforced Battle Axe Kit",
 			"result"	=> "1",
@@ -28962,7 +28485,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedSabre",
+			"name"		=> "Enchanted Sabre",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Sabre Kit",
 			"result"	=> "1",
@@ -28972,7 +28495,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedSabre",
+			"name"		=> "Enchanted Sabre",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Sabre Kit",
 			"result"	=> "1",
@@ -28992,7 +28515,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedSabre",
+			"name"		=> "Enchanted Sabre",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Sabre Kit",
 			"result"	=> "1",
@@ -29012,7 +28535,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedSabre",
+			"name"		=> "Enchanted Sabre",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Sabre Kit",
 			"result"	=> "1",
@@ -29032,7 +28555,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedShortsword",
+			"name"		=> "Enchanted Shortsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Shortsword Kit",
 			"result"	=> "1",
@@ -29042,7 +28565,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedShortsword",
+			"name"		=> "Enchanted Shortsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Shortsword Kit",
 			"result"	=> "1",
@@ -29062,7 +28585,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedShortsword",
+			"name"		=> "Enchanted Shortsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Shortsword Kit",
 			"result"	=> "1",
@@ -29082,7 +28605,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedShortsword",
+			"name"		=> "Enchanted Shortsword",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Shortsword Kit",
 			"result"	=> "1",
@@ -29118,7 +28641,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedSmall Battle Axe",
+			"name"		=> "Enchanted Small Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Small Battle Axe Kit",
 			"result"	=> "1",
@@ -29138,7 +28661,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedSmall Battle Axe",
+			"name"		=> "Enchanted Small Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Small Battle Axe Kit",
 			"result"	=> "1",
@@ -29148,7 +28671,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedSmall Battle Axe",
+			"name"		=> "Enchanted Small Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Small Battle Axe Kit",
 			"result"	=> "1",
@@ -29168,7 +28691,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedSmall Battle Axe",
+			"name"		=> "Enchanted Small Battle Axe",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Small Battle Axe Kit",
 			"result"	=> "1",
@@ -29188,7 +28711,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Spiked Warhammer",
+			"name"		=> "Enchanted Spiked Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Spiked Warhammer Assembly",
 			"result"	=> "1",
@@ -29208,7 +28731,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Spiked Warhammer",
+			"name"		=> "Enchanted Spiked Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spiked Warhammer Assembly",
 			"result"	=> "1",
@@ -29218,7 +28741,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Spiked Warhammer",
+			"name"		=> "Enchanted Spiked Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Spiked Warhammer Assembly",
 			"result"	=> "1",
@@ -29238,7 +28761,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Spiked Warhammer",
+			"name"		=> "Enchanted Spiked Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Spiked Warhammer Assembly",
 			"result"	=> "1",
@@ -29274,7 +28797,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedStonehammer Compound Bow",
+			"name"		=> "Enchanted Stonehammer Compound Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Compound Bow Kit",
 			"result"	=> "1",
@@ -29294,7 +28817,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedStonehammer Compound Bow",
+			"name"		=> "Enchanted Stonehammer Compound Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Compound Bow Kit",
 			"result"	=> "1",
@@ -29314,7 +28837,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedStonehammer Compound Bow",
+			"name"		=> "Enchanted Stonehammer Compound Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Compound Bow Kit",
 			"result"	=> "1",
@@ -29324,7 +28847,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "EnchantedStonehammer Compound Bow",
+			"name"		=> "Enchanted Stonehammer Compound Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Compound Bow Kit",
 			"result"	=> "1",
@@ -29344,7 +28867,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Stonehammer Longbow",
+			"name"		=> "Enchanted Stonehammer Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Stonehammer Longbow",
 			"result"	=> "1",
@@ -29364,7 +28887,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Stonehammer Longbow",
+			"name"		=> "Enchanted Stonehammer Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Stonehammer Longbow",
 			"result"	=> "1",
@@ -29384,7 +28907,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Stonehammer Longbow",
+			"name"		=> "Enchanted Stonehammer Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Stonehammer Longbow",
 			"result"	=> "1",
@@ -29394,7 +28917,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Stonehammer Longbow",
+			"name"		=> "Enchanted Stonehammer Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Stonehammer Longbow",
 			"result"	=> "1",
@@ -29414,7 +28937,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Stonehammer Shortbow",
+			"name"		=> "Enchanted Stonehammer Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Stonehammer Shortbow",
 			"result"	=> "1",
@@ -29434,7 +28957,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Stonehammer Shortbow",
+			"name"		=> "Enchanted Stonehammer Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Stonehammer Shortbow",
 			"result"	=> "1",
@@ -29454,7 +28977,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Stonehammer Shortbow",
+			"name"		=> "Enchanted Stonehammer Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Stonehammer Shortbow",
 			"result"	=> "1",
@@ -29464,7 +28987,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Stonehammer Shortbow",
+			"name"		=> "Enchanted Stonehammer Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Stonehammer Shortbow",
 			"result"	=> "1",
@@ -29484,7 +29007,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Club",
+			"name"		=> "Enchanted War Club",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted War Club Assembly",
 			"result"	=> "1",
@@ -29504,7 +29027,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Club",
+			"name"		=> "Enchanted War Club",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Club Assembly",
 			"result"	=> "1",
@@ -29514,7 +29037,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Club",
+			"name"		=> "Enchanted War Club",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Club Assembly",
 			"result"	=> "1",
@@ -29534,7 +29057,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Club",
+			"name"		=> "Enchanted War Club",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted War Club Assembly",
 			"result"	=> "1",
@@ -29554,7 +29077,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Flanged Mace",
+			"name"		=> "Enchanted War Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted War Flanged Mace Assembly",
 			"result"	=> "1",
@@ -29574,7 +29097,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Flanged Mace",
+			"name"		=> "Enchanted War Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Flanged Mace Assembly",
 			"result"	=> "1",
@@ -29584,7 +29107,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Flanged Mace",
+			"name"		=> "Enchanted War Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Flanged Mace Assembly",
 			"result"	=> "1",
@@ -29604,7 +29127,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Flanged Mace",
+			"name"		=> "Enchanted War Flanged Mace",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted War Flanged Mace Assembly",
 			"result"	=> "1",
@@ -29624,7 +29147,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Pick",
+			"name"		=> "Enchanted War Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted War Pick Assembly",
 			"result"	=> "1",
@@ -29644,7 +29167,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Pick",
+			"name"		=> "Enchanted War Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Pick Assembly",
 			"result"	=> "1",
@@ -29654,7 +29177,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Pick",
+			"name"		=> "Enchanted War Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted War Pick Assembly",
 			"result"	=> "1",
@@ -29674,7 +29197,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "War Pick",
+			"name"		=> "Enchanted War Pick",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted War Pick Assembly",
 			"result"	=> "1",
@@ -29694,7 +29217,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Warhammer",
+			"name"		=> "Enchanted Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Warhammer Assembly",
 			"result"	=> "1",
@@ -29714,7 +29237,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Warhammer",
+			"name"		=> "Enchanted Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Warhammer Assembly",
 			"result"	=> "1",
@@ -29724,7 +29247,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Warhammer",
+			"name"		=> "Enchanted Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Warhammer Assembly",
 			"result"	=> "1",
@@ -29744,7 +29267,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Warhammer",
+			"name"		=> "Enchanted Warhammer",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Warhammer Assembly",
 			"result"	=> "1",
@@ -29753,33 +29276,39 @@
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
+		//
+		// Enchanting Weapons, Expert Bow Making
+		//
 		array (
 			"name"		=> "Unbalanced Ynnwn Composite Bow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Unstrung Ynnwn Composite Bow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
+			"book"		=> "Enchanting Weapons, Expert Bow Making"
 		),
+		//
+		// Enchanting Weapons
+		//
 		array (
 			"name"		=> "Enchanted Unbalanced Ynnwn Composite Bow",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Composite Bow",
+			"name"		=> "Enchanted Ynnwn Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -29789,17 +29318,17 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Composite Bow",
+			"name"		=> "Enchanted Ynnwn Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -29809,27 +29338,27 @@
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Composite Bow",
+			"name"		=> "Enchanted Ynnwn Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Composite Bow",
+			"name"		=> "Enchanted Ynnwn Composite Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -29839,17 +29368,17 @@
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Hunting Bow",
+			"name"		=> "Enchanted Ynnwn Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -29859,17 +29388,17 @@
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Hunting Bow",
+			"name"		=> "Enchanted Ynnwn Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -29879,37 +29408,27 @@
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Hunting Bow",
+			"name"		=> "Enchanted Ynnwn Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Hunting Bow",
+			"name"		=> "Enchanted Ynnwn Hunting Bow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
-		),
-		array (
-			"name"		=> "Unbalanced Ynnwn Longbow",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Unstrung Ynnwn Longbow, C 1 Tendon String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
+			"skill"		=> "Bow Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
 		),
@@ -29924,7 +29443,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Longbow",
+			"name"		=> "Enchanted Ynnwn Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Ynnwn Longbow",
 			"result"	=> "1",
@@ -29944,7 +29463,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Longbow",
+			"name"		=> "Enchanted Ynnwn Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Ynnwn Longbow",
 			"result"	=> "1",
@@ -29964,7 +29483,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Longbow",
+			"name"		=> "Enchanted Ynnwn Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Ynnwn Longbow",
 			"result"	=> "1",
@@ -29974,21 +29493,11 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Longbow",
+			"name"		=> "Enchanted Ynnwn Longbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Ynnwn Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Enchanting Weapons"
-		),
-		array (
-			"name"		=> "Unbalanced Ynnwn Shortbow",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Unstrung Ynnwn Shortbow, C 1 Tendon String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Blades Making",
 			"level"		=> "200",
 			"book"		=> "Enchanting Weapons"
@@ -30004,7 +29513,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Shortbow",
+			"name"		=> "Enchanted Ynnwn Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Enchanted Unbalanced Ynnwn Shortbow",
 			"result"	=> "1",
@@ -30024,7 +29533,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Shortbow",
+			"name"		=> "Enchanted Ynnwn Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Perfect Enchanted Unbalanced Ynnwn Shortbow",
 			"result"	=> "1",
@@ -30044,7 +29553,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Shortbow",
+			"name"		=> "Enchanted Ynnwn Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Ynnwn Shortbow",
 			"result"	=> "1",
@@ -30054,7 +29563,7 @@
 			"book"		=> "Enchanting Weapons"
 		),
 		array (
-			"name"		=> "Ynnwn Shortbow",
+			"name"		=> "Enchanted Ynnwn Shortbow",
 			"type"		=> "P",
 			"ingredient"	=> "C 1 Sup. Enchanted Unbalanced Ynnwn Shortbow",
 			"result"	=> "1",
@@ -30222,166 +29731,6 @@
 			"ingredient"	=> "C 1 War Shield Wicker Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "War Shield Wicker Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Bronze Shield Shape, C 1 Bronze Shield Handle, C 3 Shield Band, B 1 Wicker Shield Core, C 2 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "War Shield Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Bronze Shield Shape, C 1 Bronze Shield Handle, C 3 Shield Band, B 1 Wooden Shield Core, C 2 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Warrior Shield Wicker Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Iron Shield Shape, C 1 Shield Handle, C 1 Shield Band, B 1 Wicker Shield Core, C 2 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Warrior Shield Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Iron Shield Shape, C 1 Shield Handle, C 1 Shield Band, B 1 Wooden Shield Core, C 2 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Bulls Eye Shield Wicker Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Iron Shield Handle, C 2 Shield Circle, C 1 Iron Circle, C 4 Shield Band, B 1 Round Wicker Shield Core, C 1 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Bulls Eye Shield Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Iron Shield Handle, C 2 Shield Circle, C 1 Iron Circle, C 4 Shield Band, B 1 Round Wooden Shield Core, C 1 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Battle Shield Wicker Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Shield Handle, C 1 Shield Circle, C 2 Shield Band, B 1 Round Wicker Shield Core, C 1 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Battle Shield Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Round Shield Shape, C 1 Shield Handle, C 1 Shield Circle, C 2 Shield Band, B 1 Round Wooden Shield Core, C 1 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Valiant Shield Wicker Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Shield Shape, C 1 Shield Handle, C 2 Shield Band, B 1 Wicker Shield Core, C 2 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Valiant Shield Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Shield Shape, C 1 Shield Handle, C 2 Shield Band, B 1 Wooden Shield Core, C 2 Shield Edgings",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Enforcer Shield Wicker Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 2 Shield Spike, C 1 Bronze Circle, B 1 Wicker Shield Core, C 1 Shield Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Enforcer Shield Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 2 Shield Spike, C 1 Bronze Circle, B 1 Wooden Shield Core, C 1 Shield Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Protector Shield Wicker Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 2 Bronze Band, C 2 Shield Band, B 1 Wicker Shield Core, C 1 Bronze Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Protector Shield Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 2 Bronze Band, C 2 Shield Band, B 1 Wooden Shield Core, C 1 Bronze Circle",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Crown Shield Wicker Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 1 Bronze Circle, B 1 Wicker Shield Core, C 1 Bronze Band",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Enforcer Shield Diagram"
-		),
-		array (
-			"name"		=> "Crown Shield Kits",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 1 Bronze Circle, B 1 Wooden Shield Core, C 1 Bronze Band",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Shield Making",
 			"level"		=> "200",
 			"book"		=> "Enforcer Shield Diagram"
@@ -30828,7 +30177,7 @@
 		),
 		array (
 			"name"		=> "Compound Bow Staff",
-			"type"		=> "P",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Compound Bow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -30838,7 +30187,7 @@
 		),
 		array (
 			"name"		=> "Dermorian Composite Bow Staff",
-			"type"		=> "P",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Dermorian Composite Bow Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -30848,7 +30197,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Composite Bow Staff",
-			"type"		=> "P",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Enkidukai Composite Bow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -30858,7 +30207,7 @@
 		),
 		array (
 			"name"		=> "Ynnwn Composite Bow Staff",
-			"type"		=> "P",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Ynnwn Composite Bow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -30868,7 +30217,7 @@
 		),
 		array (
 			"name"		=> "Dermorian Composite Bow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30878,7 +30227,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Composite Bow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30888,7 +30237,7 @@
 		),
 		array (
 			"name"		=> "Ynnwn Composite Bow",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30939,7 +30288,7 @@
 		array (
 			"name"		=> "Dermorian Composite Bow Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 2 Carved Smoothed Wooden Board, C 2 Carved Smoothed Oak Wood Board, C 1 Fish Glue",
+			"ingredient"	=> "C 2 Carved Smoothed Wooden Board, C 2 Carved Smoothed Oak Wood Board, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
@@ -30959,7 +30308,7 @@
 		array (
 			"name"		=> "Enkidukai Composite Bow Staff Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 2 Smoothed Wooden Board, C 2 Smoothed piece of Tefusang Claw, C 1 Fish Glue",
+			"ingredient"	=> "C 2 Smoothed Wooden Board, C 2 Smoothed piece of Tefusang Claw, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
@@ -30969,37 +30318,7 @@
 		array (
 			"name"		=> "Ynnwn Composite Bow Staff Kit",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Smoothed Wooden Board, C 2 Smoothed Piece of Ulbernaut Claw, C 1 Fish Glue",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Bow Making",
-			"level"		=> "200",
-			"book"		=> "Expert Bow Making"
-		),
-		array (
-			"name"		=> "Unbalanced Dermorian Composite Bows",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Unstrung Dermorian Composite Bow, C 1 Plant String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Bow Making",
-			"level"		=> "200",
-			"book"		=> "Expert Bow Making"
-		),
-		array (
-			"name"		=> "Unbalanced Enkidukai Composite Bows",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Unstrung Enkidukai Composite Bow, C 1 Tendon String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Bow Making",
-			"level"		=> "200",
-			"book"		=> "Expert Bow Making"
-		),
-		array (
-			"name"		=> "Unbalanced Ynnwn Composite Bows",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Unstrung Ynnwn Composite Bow, C 1 Tendon String",
+			"ingredient"	=> "C 1 Smoothed Wooden Board, C 2 Smoothed Piece of Ulbernaut Claw, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Bow Making",
@@ -31176,7 +30495,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31186,7 +30505,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31196,7 +30515,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31206,32 +30525,12 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		//
 		// Forging Platinum Steel Axes, Notes of an Axe Maker
 		//
-		array (
-			"name"		=> "Small Wooden Axe Handles",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Small Wooden Axe Handle Shape, C 2 Leather String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Forging Platinum Steel Axes, Notes of an Axe Maker"
-		),
-		array (
-			"name"		=> "Wooden Axe Handles",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Wooden Axe Handle Shape, C 4 Leather String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Forging Platinum Steel Axes, Notes of an Axe Maker"
-		),
 		array (
 			"name"		=> "Half Oak baton",
 			"type"		=> "I",
@@ -31239,7 +30538,7 @@
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes, Notes of an Axe Maker"
 		),
 		array (
@@ -31249,7 +30548,7 @@
 			"result"	=> "4",
 			"tool"		=> "Smith Table + Wood Saw",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes, Notes of an Axe Maker"
 		),
 		//
@@ -31262,27 +30561,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31292,37 +30591,37 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "For",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31332,27 +30631,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31362,27 +30661,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31392,27 +30691,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31422,27 +30721,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Battle Axe Delta Blad",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31452,27 +30751,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Small Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31482,27 +30781,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Small Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31512,27 +30811,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31542,27 +30841,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31572,27 +30871,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31602,27 +30901,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31632,27 +30931,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31662,27 +30961,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31692,27 +30991,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Small Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Small Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31722,27 +31021,27 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Small Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Small Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31752,47 +31051,47 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31802,47 +31101,47 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31852,57 +31151,57 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Delta Blad",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forg",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -31912,807 +31211,807 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Small Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Small Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Alpha Blade",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Beta Blade",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Blade",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Delta Blade",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Alpha Blade",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Beta Blade",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Blade",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Delta Blade",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Beta Blade",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Delta Blade",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Blade",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Blade",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -32722,157 +32021,157 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Delta Blad",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -32882,7 +32181,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -32892,7 +32191,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -32902,7 +32201,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		//
@@ -32915,7 +32214,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes, Notes of an Axe Maker"
 		),
 		//
@@ -32923,202 +32222,202 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Beta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Delta Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -33128,7 +32427,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		//
@@ -33141,7 +32440,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes, Notes of an Axe Maker"
 		),
 		//
@@ -33154,7 +32453,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -33164,7 +32463,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -33174,7 +32473,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		array (
@@ -33184,7 +32483,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Axes"
 		),
 		//
@@ -33197,7 +32496,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33207,7 +32506,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33217,7 +32516,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33227,7 +32526,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33237,7 +32536,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33247,7 +32546,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33257,7 +32556,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33267,7 +32566,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33277,7 +32576,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33287,7 +32586,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33297,7 +32596,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33307,7 +32606,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33317,7 +32616,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33327,7 +32626,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33337,7 +32636,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33347,7 +32646,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33357,7 +32656,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33367,7 +32666,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33377,7 +32676,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33387,7 +32686,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33397,7 +32696,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33407,7 +32706,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33417,7 +32716,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33427,7 +32726,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33437,7 +32736,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33447,7 +32746,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33457,7 +32756,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33467,7 +32766,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33477,7 +32776,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33487,7 +32786,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33497,7 +32796,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33507,7 +32806,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33517,7 +32816,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33527,7 +32826,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33537,7 +32836,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33547,7 +32846,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33557,7 +32856,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33567,7 +32866,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33577,7 +32876,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33587,7 +32886,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33597,7 +32896,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33607,7 +32906,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33617,7 +32916,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33627,7 +32926,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33637,7 +32936,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33647,7 +32946,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33657,7 +32956,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33667,7 +32966,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33677,7 +32976,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33687,7 +32986,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33697,7 +32996,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33707,7 +33006,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33717,7 +33016,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33727,7 +33026,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33737,7 +33036,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33747,7 +33046,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33757,7 +33056,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33767,7 +33066,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33777,7 +33076,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33787,7 +33086,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33797,7 +33096,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33807,7 +33106,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33817,7 +33116,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33827,7 +33126,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33837,7 +33136,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33847,7 +33146,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33857,7 +33156,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33867,7 +33166,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33877,7 +33176,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33887,7 +33186,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33897,7 +33196,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33907,7 +33206,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33917,7 +33216,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33927,7 +33226,7 @@
 			"result"	=> "1",
 			"tool"		=> "For",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33937,7 +33236,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33947,7 +33246,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33957,7 +33256,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33967,7 +33266,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33977,7 +33276,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33987,7 +33286,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -33997,7 +33296,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34007,7 +33306,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34017,7 +33316,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34027,7 +33326,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34037,7 +33336,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34047,7 +33346,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34057,7 +33356,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34067,7 +33366,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34077,7 +33376,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34087,7 +33386,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34097,7 +33396,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34107,7 +33406,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34117,7 +33416,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34127,7 +33426,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34137,7 +33436,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34147,7 +33446,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34157,7 +33456,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34167,7 +33466,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34177,7 +33476,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34187,7 +33486,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34197,7 +33496,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34207,7 +33506,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34217,7 +33516,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34227,7 +33526,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34237,7 +33536,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34247,7 +33546,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34257,7 +33556,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34267,7 +33566,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34277,7 +33576,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34287,7 +33586,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34297,7 +33596,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34307,7 +33606,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34317,7 +33616,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34327,7 +33626,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34337,7 +33636,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34347,7 +33646,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34357,7 +33656,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34367,7 +33666,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34377,7 +33676,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34387,7 +33686,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34397,7 +33696,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34407,7 +33706,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34417,7 +33716,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34427,7 +33726,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34437,7 +33736,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34447,7 +33746,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34457,7 +33756,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34467,7 +33766,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34477,7 +33776,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34487,7 +33786,7 @@
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34497,7 +33796,7 @@
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34507,7 +33806,7 @@
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34517,7 +33816,7 @@
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34527,7 +33826,7 @@
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34537,7 +33836,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34547,7 +33846,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34557,7 +33856,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34567,7 +33866,7 @@
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34577,7 +33876,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34587,7 +33886,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34597,7 +33896,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34607,7 +33906,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34617,7 +33916,7 @@
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34627,7 +33926,7 @@
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34637,7 +33936,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34647,7 +33946,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34657,7 +33956,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34667,7 +33966,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34677,7 +33976,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34687,7 +33986,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34697,7 +33996,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34707,7 +34006,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34717,7 +34016,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34727,7 +34026,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34737,7 +34036,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34747,7 +34046,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34757,7 +34056,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34767,7 +34066,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34777,7 +34076,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34787,7 +34086,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34797,7 +34096,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34807,7 +34106,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34817,7 +34116,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34827,7 +34126,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34837,7 +34136,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34847,7 +34146,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34857,7 +34156,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34867,7 +34166,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34877,7 +34176,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34887,7 +34186,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34897,7 +34196,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34907,7 +34206,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34917,7 +34216,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34927,7 +34226,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34937,7 +34236,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34947,7 +34246,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34957,7 +34256,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34967,7 +34266,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34977,7 +34276,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34987,7 +34286,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -34997,7 +34296,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35007,7 +34306,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35017,7 +34316,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35027,7 +34326,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35037,7 +34336,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35047,7 +34346,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35057,7 +34356,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35067,7 +34366,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35077,7 +34376,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35087,7 +34386,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35097,7 +34396,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35107,7 +34406,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35117,7 +34416,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35127,7 +34426,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35137,7 +34436,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35147,7 +34446,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35157,7 +34456,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35167,7 +34466,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35177,7 +34476,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35187,7 +34486,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35197,7 +34496,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35207,7 +34506,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35217,7 +34516,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35227,7 +34526,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35237,7 +34536,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35247,7 +34546,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35257,7 +34556,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35267,7 +34566,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35277,7 +34576,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35287,7 +34586,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35297,7 +34596,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35307,7 +34606,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35317,7 +34616,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35327,7 +34626,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35337,7 +34636,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35347,7 +34646,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35357,7 +34656,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35367,7 +34666,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35377,7 +34676,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35387,7 +34686,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35397,7 +34696,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35407,7 +34706,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35417,7 +34716,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35427,7 +34726,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35437,7 +34736,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35447,7 +34746,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35457,7 +34756,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35467,7 +34766,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35477,7 +34776,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35487,7 +34786,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35497,7 +34796,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35507,7 +34806,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35517,7 +34816,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35527,7 +34826,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35537,7 +34836,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35547,7 +34846,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35557,7 +34856,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35567,7 +34866,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35577,7 +34876,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35587,7 +34886,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35597,7 +34896,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35607,7 +34906,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35617,7 +34916,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35627,7 +34926,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35637,7 +34936,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35647,7 +34946,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35657,7 +34956,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35667,7 +34966,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35677,7 +34976,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35687,7 +34986,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35697,7 +34996,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35707,7 +35006,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35717,7 +35016,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35727,7 +35026,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35737,7 +35036,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35747,7 +35046,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35757,7 +35056,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35767,7 +35066,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35777,7 +35076,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35787,7 +35086,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35797,7 +35096,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35807,7 +35106,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35817,7 +35116,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35827,7 +35126,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35837,7 +35136,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35847,7 +35146,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35857,7 +35156,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35867,7 +35166,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35877,7 +35176,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35887,7 +35186,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35897,7 +35196,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35907,7 +35206,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35917,7 +35216,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35927,7 +35226,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35937,7 +35236,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35947,7 +35246,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35957,7 +35256,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35967,7 +35266,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35977,7 +35276,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35987,7 +35286,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -35997,7 +35296,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36007,7 +35306,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36017,7 +35316,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36027,7 +35326,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36037,7 +35336,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36047,7 +35346,7 @@
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Blacksmith",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36057,7 +35356,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36067,7 +35366,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36077,7 +35376,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36087,7 +35386,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36097,7 +35396,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		array (
@@ -36107,7 +35406,7 @@
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
 			"skill"		=> "Blades Making",
-			"level"		=> "200",
+			"level"		=> "75",
 			"book"		=> "Forging Platinum Steel Blades"
 		),
 		//
@@ -36204,7 +35503,7 @@
 			"book"		=> "Gemstone Jewelry"
 		),
 		array (
-			"name"		=> "Gold Strands",
+			"name"		=> "Gold Strand",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Gold Wire",
 			"result"	=> "4",
@@ -36214,7 +35513,7 @@
 			"book"		=> "Gemstone Jewelry"
 		),
 		array (
-			"name"		=> "Platinum Strands",
+			"name"		=> "Platinum Strand",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Platinum Wire",
 			"result"	=> "4",
@@ -36224,7 +35523,7 @@
 			"book"		=> "Gemstone Jewelry"
 		),
 		array (
-			"name"		=> "Silver Strands",
+			"name"		=> "Silver Strand",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Silver Wire",
 			"result"	=> "4",
@@ -36955,32 +36254,32 @@
 		),
 		array (
 			"name"		=> "Gold Gem Socket",
-			"type"		=> "I",
-			"ingredient"	=> "C 2 Gold Strands",
+			"type"		=> "P",
+			"ingredient"	=> "C 2 Gold Strand",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "50",
 			"book"		=> "Gemstone Jewelry"
 		),
 		array (
 			"name"		=> "Platinum Gem Socket",
-			"type"		=> "I",
-			"ingredient"	=> "C 2 Platinum Strands",
+			"type"		=> "P",
+			"ingredient"	=> "C 2 Platinum Strand",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "100",
 			"book"		=> "Gemstone Jewelry"
 		),
 		array (
 			"name"		=> "Silver Gem Socket",
-			"type"		=> "I",
-			"ingredient"	=> "C 2 Silver Strands",
+			"type"		=> "P",
+			"ingredient"	=> "C 2 Silver Strand",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "Gemstone Jewelry"
 		),
 		//
@@ -36993,7 +36292,7 @@
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Herbal",
-			"level"		=> "40",
+			"level"		=> "<34",
 			"book"		=> "Gifts of Xiosia"
 		),
 		array (
@@ -37013,7 +36312,7 @@
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
-			"level"		=> "40",
+			"level"		=> "<34",
 			"book"		=> "Gifts of Xiosia"
 		),
 		array (
@@ -38058,6 +37357,9 @@
 			"level"		=> "200",
 			"book"		=> "Helms of Darmeth"
 		),
+		//
+		// Helms of Darmeth, Making Chainmail Armor
+		//
 		array (
 			"name"		=> "Four in One Pattern",
 			"type"		=> "I",
@@ -38066,8 +37368,11 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
-			"book"		=> "Helms of Darmeth"
+			"book"		=> "Helms of Darmeth, Making Chainmail Armor"
 		),
+		//
+		// Helms of Darmeth
+		//
 		array (
 			"name"		=> "Riveted Bronze Four in One Pattern",
 			"type"		=> "I",
@@ -38078,6 +37383,9 @@
 			"level"		=> "200",
 			"book"		=> "Helms of Darmeth"
 		),
+		//
+		// Helms of Darmeth, Making Chainmail Armor
+		//
 		array (
 			"name"		=> "Riveted Four in One Pattern",
 			"type"		=> "I",
@@ -38086,8 +37394,11 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
-			"book"		=> "Helms of Darmeth"
+			"book"		=> "Helms of Darmeth, Making Chainmail Armor"
 		),
+		//
+		// Helms of Darmeth
+		//
 		array (
 			"name"		=> "Bronze Six in One Pattern",
 			"type"		=> "I",
@@ -38098,6 +37409,9 @@
 			"level"		=> "200",
 			"book"		=> "Helms of Darmeth"
 		),
+		//
+		// Helms of Darmeth, Making Chainmail Armor
+		//
 		array (
 			"name"		=> "Six in One Pattern",
 			"type"		=> "I",
@@ -38106,8 +37420,11 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
-			"book"		=> "Helms of Darmeth"
+			"book"		=> "Helms of Darmeth, Making Chainmail Armor"
 		),
+		//
+		// Helms of Darmeth
+		//
 		array (
 			"name"		=> "Riveted Bronze Six in One Pattern",
 			"type"		=> "I",
@@ -38118,6 +37435,9 @@
 			"level"		=> "200",
 			"book"		=> "Helms of Darmeth"
 		),
+		//
+		// Helms of Darmeth, Making Chainmail Armor
+		//
 		array (
 			"name"		=> "Riveted Six in One Pattern",
 			"type"		=> "I",
@@ -38126,8 +37446,11 @@
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
-			"book"		=> "Helms of Darmeth"
+			"book"		=> "Helms of Darmeth, Making Chainmail Armor"
 		),
+		//
+		// Helms of Darmeth
+		//
 		array (
 			"name"		=> "Dozen Open Bronze Ring",
 			"type"		=> "I",
@@ -39726,6 +39049,9 @@
 			"level"		=> "200",
 			"book"		=> "Helms of Darmeth"
 		),
+		//
+		// Helms of Darmeth, Making Chainmail Armor
+		//
 		array (
 			"name"		=> "Chain Mail Strip",
 			"type"		=> "I",
@@ -39734,8 +39060,11 @@
 			"tool"		=> "Smith Table",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
-			"book"		=> "Helms of Darmeth"
+			"book"		=> "Helms of Darmeth, Making Chainmail Armor"
 		),
+		//
+		// Helms of Darmeth
+		//
 		array (
 			"name"		=> "Bronze Chain Mail Strip",
 			"type"		=> "I",
@@ -39756,6 +39085,9 @@
 			"level"		=> "200",
 			"book"		=> "Helms of Darmeth"
 		),
+		//
+		// Helms of Darmeth, Making Chainmail Armor
+		//
 		array (
 			"name"		=> "Chain Mail Strip",
 			"type"		=> "I",
@@ -39764,7 +39096,7 @@
 			"tool"		=> "Smith Table",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
-			"book"		=> "Helms of Darmeth"
+			"book"		=> "Helms of Darmeth, Making Chainmail Armor"
 		),
 		array (
 			"name"		=> "Chain Mail Strip",
@@ -39774,7 +39106,7 @@
 			"tool"		=> "Smith Table",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
-			"book"		=> "Helms of Darmeth"
+			"book"		=> "Helms of Darmeth, Making Chainmail Armor"
 		),
 		array (
 			"name"		=> "Chain Mail Strip",
@@ -39784,8 +39116,11 @@
 			"tool"		=> "Smith Table",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
-			"book"		=> "Helms of Darmeth"
+			"book"		=> "Helms of Darmeth, Making Chainmail Armor"
 		),
+		//
+		// Helms of Darmeth
+		//
 		array (
 			"name"		=> "Small Bronze Chain Mail Piece",
 			"type"		=> "I",
@@ -40378,22 +39713,6 @@
 			"level"		=> "15",
 			"book"		=> "Herbal Remedies"
 		),
-		//
-		// Herbal Remedies, Secrets of the Barrel, The Art of Baking
-		//
-		array (
-			"name"		=> "Mug of Hot Water",
-			"type"		=> "I",
-			"ingredient"	=> "B 2 Water Pouch",
-			"result"	=> "1",
-			"tool"		=> "Pot",
-			"skill"		=> "Herbal",
-			"level"		=> "0",
-			"book"		=> "Herbal Remedies, Secrets of the Barrel, The Art of Baking"
-		),
-		//
-		// Herbal Remedies
-		//
 		array (
 			"name"		=> "Mug of Hot Water",
 			"type"		=> "I",
@@ -40633,86 +39952,6 @@
 			"ingredient"	=> "C 1 Steel Wire",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mand",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
-			"book"		=> "Making Chainmail Armor"
-		),
-		array (
-			"name"		=> "Four in One Patterns",
-			"type"		=> "I",
-			"ingredient"	=> "C 4 Dozen Open Steel Ring, C 1 Dozen Closed Steel Ring",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
-			"book"		=> "Making Chainmail Armor"
-		),
-		array (
-			"name"		=> "Chain Mail Strip",
-			"type"		=> "I",
-			"ingredient"	=> "C 3 Four in One Patterns",
-			"result"	=> "1",
-			"tool"		=> "Smith Table",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
-			"book"		=> "Making Chainmail Armor"
-		),
-		array (
-			"name"		=> "Six in One Patterns",
-			"type"		=> "I",
-			"ingredient"	=> "C 6 Dozen Open Steel Ring, C 1 Dozen Closed Steel Ring",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
-			"book"		=> "Making Chainmail Armor"
-		),
-		array (
-			"name"		=> "Chain Mail Strip",
-			"type"		=> "I",
-			"ingredient"	=> "C 3 Six in One Patterns",
-			"result"	=> "1",
-			"tool"		=> "Smith Table",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
-			"book"		=> "Making Chainmail Armor"
-		),
-		array (
-			"name"		=> "Riveted Four in One Patterns",
-			"type"		=> "I",
-			"ingredient"	=> "C 4 Dozen Riveted Open Steel Ring, C 1 Dozen Riveted Closed Steel Ring",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
-			"book"		=> "Making Chainmail Armor"
-		),
-		array (
-			"name"		=> "Chain Mail Strip",
-			"type"		=> "I",
-			"ingredient"	=> "C 3 Riveted Four in One Patterns",
-			"result"	=> "1",
-			"tool"		=> "Smith Table",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
-			"book"		=> "Making Chainmail Armor"
-		),
-		array (
-			"name"		=> "Riveted Six in One Patterns",
-			"type"		=> "I",
-			"ingredient"	=> "C 6 Dozen Riveted Open Steel Ring, C 1 Dozen Riveted Closed Steel Ring",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Armor Making",
-			"level"		=> "200",
-			"book"		=> "Making Chainmail Armor"
-		),
-		array (
-			"name"		=> "Chain Mail Strip",
-			"type"		=> "I",
-			"ingredient"	=> "C 3 Riveted Six in One Patterns",
-			"result"	=> "1",
-			"tool"		=> "Smith Table",
 			"skill"		=> "Armor Making",
 			"level"		=> "200",
 			"book"		=> "Making Chainmail Armor"
@@ -41889,7 +41128,7 @@
 		array (
 			"name"		=> "Cooking Bamboo Rice",
 			"type"		=> "I",
-			"ingredient"	=> "B 2 Water Pouch, C 1 Bamboo Rice",
+			"ingredient"	=> "B 2 Water Pouch, B 1 Bamboo Rice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -41959,7 +41198,7 @@
 		array (
 			"name"		=> "Seasoned Bamboo Rice Mix",
 			"type"		=> "I",
-			"ingredient"	=> "B 8 Water Pouch, C 1 Bamboo Rice, C 2 Pinch of Orilliphia",
+			"ingredient"	=> "B 8 Water Pouch, B 1 Bamboo Rice, C 2 Pinch of Orilliphia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -45681,16 +44920,6 @@
 			"book"		=> "Platinum Steel Hammers and Maces"
 		),
 		array (
-			"name"		=> "Mace Battle Handles",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Mace Battle Handle Shape, C 2 Leather String",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Platinum Steel Hammers and Maces"
-		),
-		array (
 			"name"		=> "Platinum Steel War Flanged Mace Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Platinum Steel Flanged Mace Head",
@@ -45734,16 +44963,6 @@
 			"name"		=> "Platinum Steel Morning Star Kit",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Platinum Steel Spiked Mace Head",
-			"result"	=> "1",
-			"tool"		=> "Smith Table (combine)",
-			"skill"		=> "Blades Making",
-			"level"		=> "200",
-			"book"		=> "Platinum Steel Hammers and Maces"
-		),
-		array (
-			"name"		=> "Mace War Handles",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Mace War Handle Shape, C 4 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Blades Making",
@@ -46814,16 +46033,6 @@
 			"book"		=> "Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Pot of Hot Water",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Full Pot of Water",
-			"result"	=> "1",
-			"tool"		=> "Pot Heat Pot of Hot Water into Pot of Simmering Water using Pot",
-			"skill"		=> "Brewing",
-			"level"		=> "200",
-			"book"		=> "Secrets of the Barrel"
-		),
-		array (
 			"name"		=> "Apple Pulp",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Cored Apple",
@@ -46997,16 +46206,6 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Heated Bronze Spikes",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Bronze Spikes",
-			"result"	=> "1",
-			"tool"		=> "Forge",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Shadow and Sunshine Shield Design"
-		),
-		array (
 			"name"		=> "Heated Gold Band",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Gold Band",
@@ -47057,9 +46256,9 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Heated Gold Spikes",
+			"name"		=> "Heated Gold Spike",
 			"type"		=> "O",
-			"ingredient"	=> "C 1 Gold Spikes",
+			"ingredient"	=> "C 1 Gold Spike",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Shield Making",
@@ -47070,16 +46269,6 @@
 			"name"		=> "Super Heated Bronze Edgings",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Bronze Edgings",
-			"result"	=> "1",
-			"tool"		=> "Forge",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Shadow and Sunshine Shield Design"
-		),
-		array (
-			"name"		=> "Super Heated Bronze Spikes",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Heated Bronze Spikes",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Shield Making",
@@ -47137,9 +46326,9 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Super Heated Gold Spikes",
+			"name"		=> "Super Heated Gold Spike",
 			"type"		=> "O",
-			"ingredient"	=> "C 1 Heated Gold Spikes",
+			"ingredient"	=> "C 1 Heated Gold Spike",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Shield Making",
@@ -47237,16 +46426,6 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Red Hot Bronze Spikes",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Super Heated Bronze Spikes",
-			"result"	=> "1",
-			"tool"		=> "Forge",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Shadow and Sunshine Shield Design"
-		),
-		array (
 			"name"		=> "Red Hot Gold Band",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Gold Band",
@@ -47297,9 +46476,9 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Red Hot Gold Spikes",
+			"name"		=> "Red Hot Gold Spike",
 			"type"		=> "O",
-			"ingredient"	=> "C 1 Super Heated Gold Spikes",
+			"ingredient"	=> "C 1 Super Heated Gold Spike",
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Shield Making",
@@ -47357,16 +46536,6 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Bronze Spikes",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Heated Bronze Spikes",
-			"result"	=> "1",
-			"tool"		=> "Quench Tank",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Shadow and Sunshine Shield Design"
-		),
-		array (
 			"name"		=> "Gold Band",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Gold Band",
@@ -47417,9 +46586,9 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Gold Spikes",
+			"name"		=> "Gold Spike",
 			"type"		=> "O",
-			"ingredient"	=> "C 1 Heated Gold Spikes",
+			"ingredient"	=> "C 1 Heated Gold Spike",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Shield Making",
@@ -47477,16 +46646,6 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Bronze Spikes",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Red Hot Bronze Spikes",
-			"result"	=> "1",
-			"tool"		=> "Quench Tank",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Shadow and Sunshine Shield Design"
-		),
-		array (
 			"name"		=> "Gold Band",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Gold Band",
@@ -47537,9 +46696,9 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Gold Spikes",
+			"name"		=> "Gold Spike",
 			"type"		=> "O",
-			"ingredient"	=> "C 1 Red Hot Gold Spikes",
+			"ingredient"	=> "C 1 Red Hot Gold Spike",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Shield Making",
@@ -47580,16 +46739,6 @@
 			"name"		=> "Bronze Edgings",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Bronze Edgings",
-			"result"	=> "1",
-			"tool"		=> "Quench Tank",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Shadow and Sunshine Shield Design"
-		),
-		array (
-			"name"		=> "Bronze Spikes",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Super Heated Bronze Spikes",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Shield Making",
@@ -47647,9 +46796,9 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Gold Spikes",
+			"name"		=> "Gold Spike",
 			"type"		=> "O",
-			"ingredient"	=> "C 1 Super Heated Gold Spikes",
+			"ingredient"	=> "C 1 Super Heated Gold Spike",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Shield Making",
@@ -47758,8 +46907,8 @@
 		),
 		array (
 			"name"		=> "Bronze Ingot",
-			"type"		=> "I",
-			"ingredient"	=> "C 2 Red Hot Bronze Spikes",
+			"type"		=> "O",
+			"ingredient"	=> "C 2 Red Hot Bronze Spike",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hamme",
 			"skill"		=> "Shield Making",
@@ -47768,7 +46917,7 @@
 		),
 		array (
 			"name"		=> "Bronze Ingot",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 3 Red Hot Bronze Band",
 			"result"	=> "7",
 			"tool"		=> "Anvil + Hammer",
@@ -47817,16 +46966,6 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Bronze Spikes",
-			"type"		=> "I",
-			"ingredient"	=> "C 1 Heated Bronze Spikes",
-			"result"	=> "1",
-			"tool"		=> "Anvil + Hammer",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Shadow and Sunshine Shield Design"
-		),
-		array (
 			"name"		=> "Gold Band",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Gold Band",
@@ -47867,7 +47006,7 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Gold Spikes",
+			"name"		=> "Gold Spike",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Gold Ingot",
 			"result"	=> "2",
@@ -47887,9 +47026,9 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Gold Spikes",
+			"name"		=> "Gold Spike",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Heated Gold Spikes",
+			"ingredient"	=> "C 1 Heated Gold Spike",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Shield Making",
@@ -48057,16 +47196,6 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Bronze Spikes",
-			"type"		=> "O",
-			"ingredient"	=> "C 1 Super Heated Bronze Spikes",
-			"result"	=> "1",
-			"tool"		=> "Anvil + Hammer",
-			"skill"		=> "Shield Making",
-			"level"		=> "200",
-			"book"		=> "Shadow and Sunshine Shield Design"
-		),
-		array (
 			"name"		=> "Gold Band",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Gold Band",
@@ -48117,9 +47246,9 @@
 			"book"		=> "Shadow and Sunshine Shield Design"
 		),
 		array (
-			"name"		=> "Gold Spikes",
+			"name"		=> "Gold Spike",
 			"type"		=> "O",
-			"ingredient"	=> "C 1 Super Heated Gold Spikes",
+			"ingredient"	=> "C 1 Super Heated Gold Spike",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Shield Making",
@@ -48991,7 +48120,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Broadsword Dull Blade",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Broadsword Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49224,7 +48353,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Brittle Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49234,7 +48363,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Brittle Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49244,7 +48373,7 @@
 		),
 		array (
 			"name"		=> "Heated Broadsword Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49254,7 +48383,7 @@
 		),
 		array (
 			"name"		=> "Heated Broadsword Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Broadsword Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49274,7 +48403,7 @@
 		),
 		array (
 			"name"		=> "Heated Broadsword Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Broadsword Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49284,7 +48413,7 @@
 		),
 		array (
 			"name"		=> "Heated Dull Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Dull Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49294,7 +48423,7 @@
 		),
 		array (
 			"name"		=> "Heated Dull Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Dull Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49324,7 +48453,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Broadsword Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49334,7 +48463,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Broadsword Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Broadsword Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49344,7 +48473,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49354,7 +48483,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Broadsword Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Broadsword Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49364,7 +48493,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Dull Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49374,7 +48503,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Dull Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49384,7 +48513,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Steel Falchion Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49394,7 +48523,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Steel Falchion Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Steel Falchion Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49404,7 +48533,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49414,7 +48543,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Steel Falchion Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Steel Falchion Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49424,7 +48553,7 @@
 		),
 		array (
 			"name"		=> "Heated Dull Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Rough Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49434,7 +48563,7 @@
 		),
 		array (
 			"name"		=> "Heated Steel Falchion Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49444,7 +48573,7 @@
 		),
 		array (
 			"name"		=> "Heated Steel Falchion Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Steel Falchion Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49454,7 +48583,7 @@
 		),
 		array (
 			"name"		=> "Heated Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49464,7 +48593,7 @@
 		),
 		array (
 			"name"		=> "Heated Steel Falchion Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Steel Falchion Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49474,7 +48603,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Broadsword Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Super Heated Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49484,7 +48613,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Broadsword Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Broadsword Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49494,7 +48623,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49504,7 +48633,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Broadsword Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Broadsword Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49514,7 +48643,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Dull Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Dull Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49524,7 +48653,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Dull Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Dull Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49534,7 +48663,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Steel Falchion Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Super Heated Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49544,7 +48673,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Steel Falchion Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Steel Falchion Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49554,7 +48683,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49564,7 +48693,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Steel Falchion Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Steel Falchion Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -49594,7 +48723,7 @@
 		),
 		array (
 			"name"		=> "Brittle Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Brittle Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49604,7 +48733,7 @@
 		),
 		array (
 			"name"		=> "Broadsword Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49614,7 +48743,7 @@
 		),
 		array (
 			"name"		=> "Broadsword Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Broadsword Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49634,7 +48763,7 @@
 		),
 		array (
 			"name"		=> "Broadsword Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Broadsword Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49654,7 +48783,7 @@
 		),
 		array (
 			"name"		=> "Dull Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Dull Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49664,7 +48793,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49674,7 +48803,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Steel Falchion Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49684,7 +48813,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49694,7 +48823,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Steel Falchion Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49714,7 +48843,7 @@
 		),
 		array (
 			"name"		=> "Brittle Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Broadsword Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49734,7 +48863,7 @@
 		),
 		array (
 			"name"		=> "Brittle Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Broadsword Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49754,7 +48883,7 @@
 		),
 		array (
 			"name"		=> "Dull Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Dull Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49764,7 +48893,7 @@
 		),
 		array (
 			"name"		=> "Brittle Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Red Hot Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49774,7 +48903,7 @@
 		),
 		array (
 			"name"		=> "Brittle Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Steel Falchion Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49784,7 +48913,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49794,7 +48923,7 @@
 		),
 		array (
 			"name"		=> "Brittle Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Red Hot Steel Falchion Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49804,7 +48933,7 @@
 		),
 		array (
 			"name"		=> "Broadsword Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49814,7 +48943,7 @@
 		),
 		array (
 			"name"		=> "Broadsword Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Broadsword Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49824,7 +48953,7 @@
 		),
 		array (
 			"name"		=> "Broadsword Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49834,7 +48963,7 @@
 		),
 		array (
 			"name"		=> "Broadsword Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Broadsword Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49844,7 +48973,7 @@
 		),
 		array (
 			"name"		=> "Dull Broadsword Blade",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Super Heated Dull Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49854,7 +48983,7 @@
 		),
 		array (
 			"name"		=> "Dull Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Super Heated Dull Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49864,7 +48993,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Alpha Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49874,7 +49003,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Beta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Steel Falchion Beta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49884,7 +49013,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49894,7 +49023,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Delta Blade",
-			"type"		=> "-",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Super Heated Steel Falchion Delta Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -49964,7 +49093,7 @@
 		),
 		array (
 			"name"		=> "Dull Broadsword Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -50359,16 +49488,6 @@
 			"name"		=> "Frying Nut Dough",
 			"type"		=> "I",
 			"ingredient"	=> "C 2 Hot Cooking Oil, C 1 Ball of Nut Dough",
-			"result"	=> "1",
-			"tool"		=> "Preparation Table (combine)",
-			"skill"		=> "Baking",
-			"level"		=> "200",
-			"book"		=> "The Art of Baking"
-		),
-		array (
-			"name"		=> "Egg Slop",
-			"type"		=> "I",
-			"ingredient"	=> "B 4 Egg, C 1 Scoop of Milk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
@@ -51778,7 +50897,7 @@
 			"book"		=> "Working with Rare Stock"
 		),
 		array (
-			"name"		=> "Molten Blue Steels",
+			"name"		=> "Molten Blue Steel",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Blue Steel Stock",
 			"result"	=> "5",
@@ -51890,7 +51009,7 @@
 		array (
 			"name"		=> "Blue Steel Stock",
 			"type"		=> "P",
-			"ingredient"	=> "C 5 Molten Blue Steels",
+			"ingredient"	=> "C 5 Molten Blue Steel",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
 			"skill"		=> "Metallurgy",
@@ -51922,7 +51041,7 @@
 		//
 		array (
 			"name"		=> "Heated Bronze Ingot",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -52154,7 +51273,7 @@
 			"book"		=> "Working with Rare Stock"
 		),
 		array (
-			"name"		=> "Molten Lumiums",
+			"name"		=> "Molten Lumium",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Lumium Stock",
 			"result"	=> "5",
@@ -52266,7 +51385,7 @@
 		array (
 			"name"		=> "Lumium Stock",
 			"type"		=> "P",
-			"ingredient"	=> "C 5 Molten Lumiums",
+			"ingredient"	=> "C 5 Molten Lumium",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
 			"skill"		=> "Metallurgy",
@@ -52370,7 +51489,7 @@
 			"book"		=> "Working with Rare Stock"
 		),
 		array (
-			"name"		=> "Molten Platinum Steels",
+			"name"		=> "Molten Platinum Steel",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Platinum Steel Stock",
 			"result"	=> "5",
@@ -52482,7 +51601,7 @@
 		array (
 			"name"		=> "Platinum Steel Stock",
 			"type"		=> "P",
-			"ingredient"	=> "C 5 Molten Platinum Steels",
+			"ingredient"	=> "C 5 Molten Platinum Steel",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
 			"skill"		=> "Metallurgy",
@@ -52491,7 +51610,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Stock",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -52644,7 +51763,7 @@
 		),
 		array (
 			"name"		=> "Heated Steel Ingot",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -52736,7 +51855,7 @@
 			"book"		=> "Working with Rare Stock"
 		),
 		array (
-			"name"		=> "Molten Tigrain Steels",
+			"name"		=> "Molten Tigrain Steel",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Tigrain Steel Stock",
 			"result"	=> "5",
@@ -52848,7 +51967,7 @@
 		array (
 			"name"		=> "Tigrain Steel Stock",
 			"type"		=> "P",
-			"ingredient"	=> "C 5 Molten Tigrain Steels",
+			"ingredient"	=> "C 5 Molten Tigrain Steel",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
 			"skill"		=> "Metallurgy",
@@ -52970,7 +52089,7 @@
 		),
 		array (
 			"name"		=> "Bronze Ingot",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Molten Bronze",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
@@ -52981,7 +52100,7 @@
 		array (
 			"name"		=> "Bronze Stock",
 			"type"		=> "O",
-			"ingredient"	=> "C 10 Molten Bronzes",
+			"ingredient"	=> "C 10 Molten Bronze",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
 			"skill"		=> "Metallurgy",
@@ -52990,7 +52109,7 @@
 		),
 		array (
 			"name"		=> "Heated Bronze Stock",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Bronze Stock",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -53430,7 +52549,7 @@
 		),
 		array (
 			"name"		=> "Heated Iron Ingot",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Iron Ingot",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -53540,7 +52659,7 @@
 		),
 		array (
 			"name"		=> "Iron Ingot",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Molten Iron",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
@@ -53679,7 +52798,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Bronzes",
+			"name"		=> "Molten Bronze",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Bronze Stock",
 			"result"	=> "10",
@@ -53739,7 +52858,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Dagger",
 			"result"	=> "4",
@@ -53749,7 +52868,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Small Battle Axe",
 			"result"	=> "5",
@@ -53759,7 +52878,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Chain Mail Torso Armor",
 			"result"	=> "15",
@@ -53769,7 +52888,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Battle Axe",
 			"result"	=> "10",
@@ -53779,7 +52898,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Chain Mail Arms Armor",
 			"result"	=> "12",
@@ -53789,7 +52908,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Longsword",
 			"result"	=> "15",
@@ -53799,7 +52918,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Broadsword",
 			"result"	=> "20",
@@ -53809,7 +52928,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Chain Mail Gloves",
 			"result"	=> "6",
@@ -53829,7 +52948,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Claymore",
 			"result"	=> "20",
@@ -53839,7 +52958,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Chain Mail Pants",
 			"result"	=> "12",
@@ -53849,7 +52968,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Chain Mail Boots",
 			"result"	=> "9",
@@ -53859,7 +52978,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Falchion",
 			"result"	=> "10",
@@ -53869,7 +52988,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Steel Stock",
 			"result"	=> "10",
@@ -53879,7 +52998,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Reinforced Axe",
 			"result"	=> "15",
@@ -53889,7 +53008,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Shortsword",
 			"result"	=> "10",
@@ -53899,7 +53018,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Sabre",
 			"result"	=> "5",
@@ -53909,7 +53028,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Plate Mail Torso Armor",
 			"result"	=> "27",
@@ -53919,7 +53038,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Plate Mail Arms Armor",
 			"result"	=> "22",
@@ -53929,7 +53048,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Plate Mail Gloves",
 			"result"	=> "11",
@@ -53939,7 +53058,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Plate Mail Pants",
 			"result"	=> "22",
@@ -53949,7 +53068,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Plate Mail Boots",
 			"result"	=> "17",
@@ -53959,7 +53078,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "C 1 Reinforced Battle Axe",
 			"result"	=> "20",
@@ -53969,7 +53088,7 @@
 			"book"		=> "Working with Stock"
 		),
 		array (
-			"name"		=> "Molten Steels",
+			"name"		=> "Molten Steel",
 			"type"		=> "O",
 			"ingredient"	=> "L 1 Knife",
 			"result"	=> "2",
@@ -54341,7 +53460,7 @@
 		array (
 			"name"		=> "Steel Stock",
 			"type"		=> "P",
-			"ingredient"	=> "C 10 Molten Steels",
+			"ingredient"	=> "C 10 Molten Steel",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
 			"skill"		=> "Metallurgy",
@@ -54350,7 +53469,7 @@
 		),
 		array (
 			"name"		=> "Heated Steel Stock",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Forge",

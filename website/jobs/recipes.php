@@ -43,8 +43,8 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 	if ( $recipe->num_rows == 0 )
 	{
 		print "<tr><td colspan='6'>";
-		print "<mark>'$recipe_name': no recipe found!</mark>";
-		print "q: $q";
+		print "'$recipe_name': no recipe found!";
+		// print "q: $q";
 		print "</td></tr>\n";
 		return;
 	}
@@ -104,7 +104,7 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			}
 			$ing .= "$amount ";
 			$ing .= $name;
-			// $ing .= " ($type)";
+			$ing .= " ($type)";
 			$count++;
 		}
 		$r_name = $r['name'];
@@ -115,14 +115,14 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			print "<td>".$r['tool']."</td>\n";
 			print "<td>".$r['result']."</td>\n";
 			print "<td>";
-				print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name</a>";
-				// print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name ($r_type)</a>";
+				//print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name</a>";
+				print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name ($r_type)</a>";
 				// print " ($id)\n";
 			print "</td>\n";
 			print "<td>".$r['skill']."</td>\n";
 			print "<td>".$r['level']."</td>\n";
 			print "<td>";
-				$book = $r['book'];
+				$book = str_replace ( ","," +<br>", $r['book'] );
 				print "<a href='".$_SERVER['PHP_SELF']."?book=$book'>$book</a>";
 			print "</td>";
 		print "</tr>";
@@ -201,10 +201,6 @@ function show_recipes ( $pval )
 	$q = "
 		SELECT DISTINCT skill FROM recipes
 	";
-	/*
-	if ( $pval['skill'] != "" )
-		$q .= "WHERE skill='".$pval['skill']."'";
-	*/
 	if ( $pval['book'] != "" )
 		$q .= "WHERE book like \"%".str_replace ( "'", "&apos;", $pval["book"] )."%\"";
 	$q .= "
@@ -214,7 +210,7 @@ function show_recipes ( $pval )
 	if ( $skills_db->num_rows == 0 )
 	{
 		print "no recipes found!<br><br>\n";
-		print "q: $q<br>";
+		// print "q: $q<br>";
 		return;
 	}
 	$url = $_SERVER['PHP_SELF'];
@@ -296,7 +292,7 @@ function show_recipes ( $pval )
 	{
 		$q .= "AND skill='".$pval['skill']."' ";
 	}
-	$q .= "GROUP BY name,book ORDER BY skill,level,name";
+	$q .= "GROUP BY name,book ORDER BY name,skill,level";
 	$preps = $mysqli->query ($q);
 	print $preps->num_rows." recipes found:";
 	?>
@@ -319,8 +315,8 @@ function show_recipes ( $pval )
 			<td>
 				<?php
 				$name = $p['name'];
-				href ( $name, $url, "?recipe=$name" );
-				// href ( $name." (".$p['type'].")", $url, "?recipe=$name" );
+				//href ( $name, $url, "?recipe=$name" );
+				href ( $name." (".$p['type'].")", $url, "?recipe=$name" );
 				?>
 			</td>
 			<td><?php print $p['level']; ?></td>
@@ -329,6 +325,7 @@ function show_recipes ( $pval )
 				<?php
 				$book = $p['book'];
 				$param = add_url_param ( $param, "book=".$p['book'] );
+				$book = str_replace ( ","," +<br>", $book );
 				href ( $book, $url, $param );
 				?>
 			</td>
