@@ -1,0 +1,621 @@
+-- Battle Axe ----- 
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Battle Axe Blade, Wooden Axe Handle, into 0 Battle Axe Kit.
+   Combine Standard Gem Socket, Battle Axe Kit, into 1 Enchanted Battle Axe Kit.
+   Set Enchanted Battle Axe Kit into Battle Axe using Smith Table with a Ruby Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Battle Axe Blade, Wooden Axe Handle, into 0 Battle Axe Kit.
+   Combine Superior Gem Socket, Battle Axe Kit, into 1 Sup. Enchanted Battle Axe Kit.
+   Set Sup. Enchanted Battle Axe Kit into Battle Axe using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Battle Axe Kit into Battle Axe using Smith Table with a Sapphire Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Battle Axe Blade, Wooden Axe Handle, into 0 Battle Axe Kit.
+   Combine Perfect Gem Socket, Battle Axe Kit, into 1 Perfect Enchanted Battle Axe Kit.
+   Set Perfect Enchanted Battle Axe Kit into Battle Axe using Smith Table with a Diamond Crystal.
+-- Battle Hammer ----- 
+   Combine Perfect Gem Socket, Battle Hammer Assembly, into 1 Perfect Enchanted Battle Hammer Assembly.
+   Set Perfect Enchanted Battle Hammer Assembly into Battle Hammer using Smith Table with a Diamond Crysta
+   Combine Superior Gem Socket, Battle Hammer Assembly, into 1 Sup. Enchanted Battle Hammer Assembly.
+   Set Sup. Enchanted Battle Hammer Assembly into Battle Hammer using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Battle Hammer Assembly into Battle Hammer using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Battle Hammer Assembly, into 1 Enchanted Battle Hammer Assembly.
+   Set Enchanted Battle Hammer Assembly into Battle Hammer using Smith Table with a Ruby Crystal.
+-- Battle Pick ----- 
+   Combine Perfect Gem Socket, Battle Pick Assembly, into 1 Perfect Enchanted Battle Pick Assembly.
+   Set Perfect Enchanted Battle Pick Assembly into Battle Pick using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Battle Pick Assembly, into 1 Sup. Enchanted Battle Pick Assembly.
+   Set Sup. Enchanted Battle Pick Assembly into Battle Pick using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Battle Pick Assembly into Battle Pick using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Battle Pick Assembly, into 1 Enchanted Battle Pick Assembly.
+   Set Enchanted Battle Pick Assembly into Battle Pick using Smith Table with a Ruby Crystal.
+-- Broadsword ----- 
+   Combine Broadsword Blade, Broadsword Handle, into 0 Broadsword Kit.
+   Combine Superior Gem Socket, Broadsword Kit, into 1 Sup. Enchanted Broadsword Kit.
+   Set Sup. Enchanted Broadsword Kit into Broadsword using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Broadsword Kit into Broadsword using Smith Table with a Sapphire Crystal.
+   Combine Broadsword Blade, Broadsword Handle, into 0 Broadsword Kit.
+   Combine Standard Gem Socket, Broadsword Kit, into 1 Enchanted Broadsword Kit.
+   Set Enchanted Broadsword Kit into Broadsword using Smith Table with a Ruby Crystal.
+   Combine Broadsword Blade, Broadsword Handle, into 0 Broadsword Kit.
+   Combine Perfect Gem Socket, Broadsword Kit, into 1 Perfect Enchanted Broadsword Kit.
+   Set Perfect Enchanted Broadsword Kit into Broadsword using Smith Table with a Diamond Crystal.
+-- Claymore ----- 
+   Combine Claymore Blade, Sword Handle, into 0 Claymore Kit.
+   Combine Superior Gem Socket, Claymore Kit, into 1 Sup. Enchanted Claymore Kit.
+   Set Sup. Enchanted Claymore Kit into Claymore using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Claymore Kit into Claymore using Smith Table with a Sapphire Crystal.
+   Combine Claymore Blade, Sword Handle, into 0 Claymore Kit.
+   Combine Standard Gem Socket, Claymore Kit, into 1 Enchanted Claymore Kit.
+   Set Enchanted Claymore Kit into Claymore using Smith Table with a Ruby Crystal.
+   Combine Claymore Blade, Sword Handle, into 0 Claymore Kit
+   Combine Perfect Gem Socket, Claymore Kit, into 1 Perfect Enchanted Claymore Kit.
+   Set Perfect Enchanted Claymore Kit into Claymore using Smith Table with a Diamond Crystal.
+-- Club ----- 
+   Combine Perfect Gem Socket, Club Assembly, into 1 Perfect Enchanted Club Assembly.
+   Set Perfect Enchanted Club Assembly into Club using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Club Assembly, into 1 Sup. Enchanted Club Assembly.
+   Set Sup. Enchanted Club Assembly into Club using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Club Assembly into Club using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Club Assembly, into 1 Enchanted Club Assembly.
+   Set Enchanted Club Assembly into Club using Smith Table with a Ruby Crystal.
+-- Dagger ----- 
+   Combine Dagger Blade, Leather Knife Handle, into 0 Dagger Kit.
+   Combine Standard Gem Socket, Dagger Kit, into 1 Enchanted Dagger Kit.
+   Set Enchanted Dagger Kit into Dagger using Smith Table with a Ruby Crystal.
+   Combine Dagger Blade, Leather Knife Handle, into 0 Dagger Kit.
+   Combine Perfect Gem Socket, Dagger Kit, into 1 Perfect Enchanted Dagger Kit.
+   Set Perfect Enchanted Dagger Kit into Dagger using Smith Table with a Diamond Crystal.
+   Combine Dagger Blade, Leather Knife Handle, into 0 Dagger Kit.
+   Combine Superior Gem Socket, Dagger Kit, into 1 Sup. Enchanted Dagger Kit.
+   Set Sup. Enchanted Dagger Kit into Dagger using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Dagger Kit into Dagger using Smith Table with a Sapphire Crystal.
+-- Dermorian Composite Bow ----- 
+   Combine Unstrung Dermorian Composite Bow, Plant String, into 0 Unbalanced Dermorian Composite Bow.
+   Combine Superior Gem Socket, Unbalanced Dermorian Composite Bow, into 1 Sup. Enchanted Unbalanced Dermorian Composite Bow.
+   Set Sup. Enchanted Unbalanced Dermorian Composite Bow into Dermorian Composite Bow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Dermorian Composite Bow into Dermorian Composite Bow using Smith Table with a Sapphire Crystal.
+   Combine Unstrung Dermorian Composite Bow, Plant String, into 0 Unbalanced Dermorian Composite Bow.
+   Combine Standard Gem Socket, Unbalanced Dermorian Composite Bow, into 1 Enchanted Unbalanced Dermorian Composite Bow.
+   Set Enchanted Unbalanced Dermorian Composite Bow into Dermorian Composite Bow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Dermorian Composite Bow, Plant String, into 0 Unbalanced Dermorian Composite Bow.
+   Combine Perfect Gem Socket, Unbalanced Dermorian Composite Bow, into 1 Perfect Enchanted Unbalanced Dermorian Composite Bow.
+   Set Perfect Enchanted Unbalanced Dermorian Composite Bow into Dermorian Composite Bow using Smith Table with a Diamond Crystal.
+-- Dermorian Hunting Bow ----- 
+   Combine Unstrung Dermorian Hunting Bow, Plant String, into 0 Unbalanced Dermorian Hunting Bow.
+   Combine Superior Gem Socket, Unbalanced Dermorian Hunting Bow, into 1 Sup. Enchanted Unbalanced Dermorian Hunting Bow.
+   Set Sup. Enchanted Unbalanced Dermorian Hunting Bow into Dermorian Hunting Bow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Dermorian Hunting Bow into Dermorian Hunting Bow using Smith Table with a Sapphire Crystal.
+   Combine Unstrung Dermorian Hunting Bow, Plant String, into 0 Unbalanced Dermorian Hunting Bow.
+   Combine Standard Gem Socket, Unbalanced Dermorian Hunting Bow, into 1 Enchanted Unbalanced Dermorian Hunting Bow.
+   Set Enchanted Unbalanced Dermorian Hunting Bow into Dermorian Hunting Bow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Dermorian Hunting Bow, Plant String, into 0 Unbalanced Dermorian Hunting Bow.
+   Combine Perfect Gem Socket, Unbalanced Dermorian Hunting Bow, into 1 Perfect Enchanted Unbalanced Dermorian Hunting Bow.
+   Set Perfect Enchanted Unbalanced Dermorian Hunting Bow into Dermorian Hunting Bow using Smith Table with a Diamond Crystal.
+-- Dermorian Longbow ----- 
+   Combine Unstrung Dermorian Longbow, Plant String, into 0 Unbalanced Dermorian Longbow.
+   Combine Superior Gem Socket, Unbalanced Dermorian Longbow, into 1 Sup. Enchanted Unbalanced Dermorian Longbow.
+   Set Sup. Enchanted Unbalanced Dermorian Longbow into Dermorian Longbow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Dermorian Longbow into Dermorian Longbow using Smith Table with a Sapphire Crystal.
+   Combine Unstrung Dermorian Longbow, Plant String, into 0 Unbalanced Dermorian Longbow.
+   Combine Standard Gem Socket, Unbalanced Dermorian Longbow, into 1 Enchanted Unbalanced Dermorian Longbow.
+   Set Enchanted Unbalanced Dermorian Longbow into Dermorian Longbow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Dermorian Longbow, Plant String, into 0 Unbalanced Dermorian Longbow.
+   Combine Perfect Gem Socket, Unbalanced Dermorian Longbow, into 1 Perfect Enchanted Unbalanced Dermorian Longbow.
+   Set Perfect Enchanted Unbalanced Dermorian Longbow into Dermorian Longbow using Smith Table with a Diamond Crystal.
+-- Dermorian Shortbow ----- 
+   Combine Unstrung Dermorian Shortbow, Plant String, into 0 Unbalanced Dermorian Shortbow.
+   Combine Superior Gem Socket, Unbalanced Dermorian Shortbow, into 1 Sup. Enchanted Unbalanced Dermorian Shortbow.
+   Set Sup. Enchanted Unbalanced Dermorian Shortbow into Dermorian Shortbow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Dermorian Shortbow into Dermorian Shortbow using Smith Table with a Sapphire Crystal.
+   Combine Unstrung Dermorian Shortbow, Plant String, into 0 Unbalanced Dermorian Shortbow.
+   Combine Standard Gem Socket, Unbalanced Dermorian Shortbow, into 1 Enchanted Unbalanced Dermorian Shortbow.
+   Set Enchanted Unbalanced Dermorian Shortbow into Dermorian Shortbow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Dermorian Shortbow, Plant String, into 0 Unbalanced Dermorian Shortbow.
+   Combine Perfect Gem Socket, Unbalanced Dermorian Shortbow, into 1 Perfect Enchanted Unbalanced Dermorian Shortbow.
+   Set Perfect Enchanted Unbalanced Dermorian Shortbow into Dermorian Shortbow using Smith Table with a Diamond Crystal.
+-- Enkidukai Composite Bow ----- 
+   Combine Unstrung Enkidukai Composite Bow, Tendon String, into 0 Unbalanced Enkidukai Composite Bow.
+   Combine Superior Gem Socket, Unbalanced Enkidukai Composite Bow, into 1 Sup. Enchanted Unbalanced Enkidukai Composite Bow.
+   Set Sup. Enchanted Unbalanced Enkidukai Composite Bow into Enkidukai Composite Bow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Enkidukai Composite Bow into Enkidukai Composite Bow using Smith Table with a Sapphire Crystal.
+   Combine Unstrung Enkidukai Composite Bow, Tendon String, into 0 Unbalanced Enkidukai Composite Bow.
+   Combine Standard Gem Socket, Unbalanced Enkidukai Composite Bow, into 1 Enchanted Unbalanced Enkidukai Composite Bow.
+   Set Enchanted Unbalanced Enkidukai Composite Bow into Enkidukai Composite Bow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Enkidukai Composite Bow, Tendon String, into 0 Unbalanced Enkidukai Composite Bow.
+   Combine Perfect Gem Socket, Unbalanced Enkidukai Composite Bow, into 1 Perfect Enchanted Unbalanced Enkidukai Composite Bow.
+   Set Perfect Enchanted Unbalanced Enkidukai Composite Bow into Enkidukai Composite Bow using Smith Table with a Diamond Crystal.
+-- Enkidukai Hunting Bow ----- 
+   Combine Unstrung Enkidukai Hunting Bow, Tendon String, into 0 Unbalanced Enkidukai Hunting Bow.
+   Combine Superior Gem Socket, Unbalanced Enkidukai Hunting Bow, into 1 Sup. Enchanted Unbalanced Enkidukai Hunting Bow.
+   Set Sup. Enchanted Unbalanced Enkidukai Hunting Bow into Enkidukai Hunting Bow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Enkidukai Hunting Bow into Enkidukai Hunting Bow using Smith Table with a Sapphire Crystal.
+   Combine Unstrung Enkidukai Hunting Bow, Tendon String, into 0 Unbalanced Enkidukai Hunting Bow.
+   Combine Standard Gem Socket, Unbalanced Enkidukai Hunting Bow, into 1 Enchanted Unbalanced Enkidukai Hunting Bow.
+   Set Enchanted Unbalanced Enkidukai Hunting Bow into Enkidukai Hunting Bow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Enkidukai Hunting Bow, Tendon String, into 0 Unbalanced Enkidukai Hunting Bow.
+   Combine Perfect Gem Socket, Unbalanced Enkidukai Hunting Bow, into 1 Perfect Enchanted Unbalanced Enkidukai Hunting Bow.
+   Set Perfect Enchanted Unbalanced Enkidukai Hunting Bow into Enkidukai Hunting Bow using Smith Table with a Diamond Crystal.
+-- Enkidukai Longbow ----- 
+   Combine Unstrung Enkidukai Longbow, Tendon String, into 0 Unbalanced Enkidukai Longbow.
+   Combine Superior Gem Socket, Unbalanced Enkidukai Longbow, into 1 Sup. Enchanted Unbalanced Enkidukai Longbow.
+   Set Sup. Enchanted Unbalanced Enkidukai Longbow into Enkidukai Longbow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Enkidukai Longbow into Enkidukai Longbow using Smith Table with a Sapphire Crystal.
+   Combine Unstrung Enkidukai Longbow, Tendon String, into 0 Unbalanced Enkidukai Longbow.
+   Combine Standard Gem Socket, Unbalanced Enkidukai Longbow, into 1 Enchanted Unbalanced Enkidukai Longbow.
+   Set Enchanted Unbalanced Enkidukai Longbow into Enkidukai Longbow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Enkidukai Longbow, Tendon String, into 0 Unbalanced Enkidukai Longbow.
+   Combine Perfect Gem Socket, Unbalanced Enkidukai Longbow, into 1 Perfect Enchanted Unbalanced Enkidukai Longbow.
+   Set Perfect Enchanted Unbalanced Enkidukai Longbow into Enkidukai Longbow using Smith Table with a Diamond Crystal.
+-- Enkidukai Shortbow ----- 
+   Combine Unstrung Enkidukai Shortbow, Tendon String, into 0 Unbalanced Enkidukai Shortbow.
+   Combine Superior Gem Socket, Unbalanced Enkidukai Shortbow, into 1 Sup. Enchanted Unbalanced Enkidukai Shortbow.
+   Set Sup. Enchanted Unbalanced Enkidukai Shortbow into Enkidukai Shortbow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Enkidukai Shortbow into Enkidukai Shortbow using Smith Table with a Sapphire Crystal.
+   Combine Unstrung Enkidukai Shortbow, Tendon String, into 0 Unbalanced Enkidukai Shortbow.
+   Combine Standard Gem Socket, Unbalanced Enkidukai Shortbow, into 1 Enchanted Unbalanced Enkidukai Shortbow.
+   Set Enchanted Unbalanced Enkidukai Shortbow into Enkidukai Shortbow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Enkidukai Shortbow, Tendon String, into 0 Unbalanced Enkidukai Shortbow.
+   Combine Perfect Gem Socket, Unbalanced Enkidukai Shortbow, into 1 Perfect Enchanted Unbalanced Enkidukai Shortbow.
+   Set Perfect Enchanted Unbalanced Enkidukai Shortbow into Enkidukai Shortbow using Smith Table with a Diamond Crystal.
+-- Falchion ----- 
+   Combine Steel Falchion Blade, Sword Handle, into 0 Steel Falchion Kit.
+   Combine Superior Gem Socket, Steel Falchion Kit, into 1 Sup. Enchanted Steel Falchion Kit.
+   Set Sup. Enchanted Steel Falchion Kit into Falchion using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Steel Falchion Kit into Falchion using Smith Table with a Sapphire Crystal.
+   Combine Steel Falchion Blade, Sword Handle, into 0 Steel Falchion Kit.
+   Combine Standard Gem Socket, Steel Falchion Kit, into 1 Enchanted Steel Falchion Kit.
+   Set Enchanted Steel Falchion Kit into Falchion using Smith Table with a Ruby Crystal.
+   Combine Steel Falchion Blade, Sword Handle, into 0 Steel Falchion Kit.
+   Combine Perfect Gem Socket, Steel Falchion Kit, into 1 Perfect Enchanted Steel Falchion Kit.
+   Set Perfect Enchanted Steel Falchion Kit into Falchion using Smith Table with a Diamond Crystal.
+-- Flail Mace ----- 
+   Combine Perfect Gem Socket, Flail Mace Assembly, into 1 Perfect Enchanted Flail Mace Assembly.
+   Set Perfect Enchanted Flail Mace Assembly into Flail Mace using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Flail Mace Assembly, into 1 Sup. Enchanted Flail Mace Assembly.
+   Set Sup. Enchanted Flail Mace Assembly into Flail Mace using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Flail Mace Assembly into Flail Mace using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Flail Mace Assembly, into 1 Enchanted Flail Mace Assembly.
+   Set Enchanted Flail Mace Assembly into Flail Mace using Smith Table with a Ruby Crystal.
+-- Flanged Mace ----- 
+   Combine Perfect Gem Socket, Flanged Mace Assembly, into 1 Perfect Enchanted Flanged Mace Assembly.
+   Set Perfect Enchanted Flanged Mace Assembly into Flanged Mace using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Flanged Mace Assembly, into 1 Sup. Enchanted Flanged Mace Assembly.
+   Set Sup. Enchanted Flanged Mace Assembly into Flanged Mace using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Flanged Mace Assembly into Flanged Mace using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Flanged Mace Assembly, into 1 Enchanted Flanged Mace Assembly.
+   Set Enchanted Flanged Mace Assembly into Flanged Mace using Smith Table with a Ruby Crystal.
+-- Knife ----- 
+   Combine Knife Blade, Leather Knife Handle, into 0 Knife Kit.
+   Combine Standard Gem Socket, Knife Kit, into 1 Enchanted Knife Kit.
+   Set Enchanted Knife Kit into Knife using Smith Table with a Ruby Crystal.
+   Combine Knife Blade, Leather Knife Handle, into 0 Knife Kit.
+   Combine Perfect Gem Socket, Knife Kit, into 1 Perfect Enchanted Knife Kit.
+   Set Perfect Enchanted Knife Kit into Knife using Smith Table with a Diamond Crystal.
+   Combine Knife Blade, Leather Knife Handle, into 0 Knife Kit.
+   Combine Superior Gem Socket, Knife Kit, into 1 Sup. Enchanted Knife Kit.
+   Set Sup. Enchanted Knife Kit into Knife using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Knife Kit into Knife using Smith Table with a Sapphire Crystal.
+-- Longsword ----- 
+   Combine Longsword Blade, Sword Handle, into 0 Longsword Kit.
+   Combine Superior Gem Socket, Longsword Kit, into 1 Sup. Enchanted Longsword Kit.
+   Set Sup. Enchanted Longsword Kit into Longsword using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Longsword Kit into Longsword using Smith Table with a Sapphire Crystal.
+   Combine Longsword Blade, Sword Handle, into 0 Longsword Kit.
+   Combine Standard Gem Socket, Longsword Kit, into 1 Enchanted Longsword Kit.
+   Set Enchanted Longsword Kit into Longsword using Smith Table with a Ruby Crystal.
+   Combine Longsword Blade, Sword Handle, into 0 Longsword Kit.
+   Combine Perfect Gem Socket, Longsword Kit, into 1 Perfect Enchanted Longsword Kit.
+   Set Perfect Enchanted Longsword Kit into Longsword using Smith Table with a Diamond Crystal.
+-- Mace ----- 
+   Combine Perfect Gem Socket, Mace Assembly, into 1 Perfect Enchanted Mace Assembly.
+   Set Perfect Enchanted Mace Assembly into Mace using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Mace Assembly, into 1 Sup. Enchanted Mace Assembly.
+   Set Sup. Enchanted Mace Assembly into Mace using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Mace Assembly into Mace using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Mace Assembly, into 1 Enchanted Mace Assembly.
+   Set Enchanted Mace Assembly into Mace using Smith Table with a Ruby Crystal.
+-- Morning Star ----- 
+   Combine Perfect Gem Socket, Morning Star Assembly, into 1 Perfect Enchanted Morning Star Assembly.
+   Set Perfect Enchanted Morning Star Assembly into Morning Star using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Morning Star Assembly, into 1 Sup. Enchanted Morning Star Assembly.
+   Set Sup. Enchanted Morning Star Assembly into Morning Star using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Morning Star Assembly into Morning Star using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Morning Star Assembly, into 1 Enchanted Morning Star Assembly.
+   Set Enchanted Morning Star Assembly into Morning Star using Smith Table with a Ruby Crystal.
+-- Perfect Gem Socket ----- 
+   Shape 3 Molten Steels into Perfect Gem Socket using Anvil with a Hammer.
+-- Platinum Steel Battle Axe ----- 
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Wooden Axe Handle, Platinum Steel Battle Axe Blade, into 0 Platinum Steel Battle Axe Kit.
+   Combine Perfect Gem Socket, Platinum Steel Battle Axe Kit, into 1 Perfect Enchanted Platinum Steel Battle Axe Kit.
+   Set Perfect Enchanted Platinum Steel Battle Axe Kit into Platinum Steel Battle Axe using Smith Table with a Diamond Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Wooden Axe Handle, Platinum Steel Battle Axe Blade, into 0 Platinum Steel Battle Axe Kit.
+   Combine Standard Gem Socket, Platinum Steel Battle Axe Kit, into 1 Enchanted Platinum Steel Battle Axe Kit.
+   Set Enchanted Platinum Steel Battle Axe Kit into Platinum Steel Battle Axe using Smith Table with a Ruby Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Wooden Axe Handle, Platinum Steel Battle Axe Blade, into 0 Platinum Steel Battle Axe Kit.
+   Combine Superior Gem Socket, Platinum Steel Battle Axe Kit, into 1 Sup. Enchanted Platinum Steel Battle Axe Kit.
+   Set Sup. Enchanted Platinum Steel Battle Axe Kit into Platinum Steel Battle Axe using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Battle Axe Kit into Platinum Steel Battle Axe using Smith Table with a Sapphire Crystal.
+-- Platinum Steel Battle Hammer ----- 
+   Combine Perfect Gem Socket, Platinum Steel Battle Hammer Assembly, into 1 Perfect Enchanted Platinum Steel Battle Hammer Assembly.
+   Set Perfect Enchanted Platinum Steel Battle Hammer Assembly into Platinum Steel Battle Hammer using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Platinum Steel Battle Hammer Assembly, into 1 Sup. Enchanted Platinum Steel Battle Hammer Assembly.
+   Set Sup. Enchanted Platinum Steel Battle Hammer Assembly into Platinum Steel Battle Hammer using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Battle Hammer Assembly into Platinum Steel Battle Hammer using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Platinum Steel Battle Hammer Assembly, into 1 Enchanted Platinum Steel Battle Hammer Assembly.
+   Set Enchanted Platinum Steel Battle Hammer Assembly into Platinum Steel Battle Hammer using Smith Table with a Ruby Crystal.
+-- Platinum Steel Battle Pick ----- 
+   Combine Standard Gem Socket, Platinum Steel Battle Pick Assembly, into 1 Enchanted Platinum Steel Battle Pick Assembly.
+   Set Enchanted Platinum Steel Battle Pick Assembly into Platinum Steel Battle Pick using Smith Table with a Ruby Crystal.
+   Combine Perfect Gem Socket, Platinum Steel Battle Pick Assembly, into 1 Perfect Enchanted Platinum Steel Battle Pick Assembly.
+   Set Perfect Enchanted Platinum Steel Battle Pick Assembly into Platinum Steel Battle Pick using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Platinum Steel Battle Pick Assembly, into 1 Sup. Enchanted Platinum Steel Battle Pick Assembly.
+   Set Sup. Enchanted Platinum Steel Battle Pick Assembly into Platinum Steel Battle Pick using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Battle Pick Assembly into Platinum Steel Battle Pick using Smith Table with a Sapphire Crystal.
+-- Platinum Steel Broadsword ----- 
+   Combine Broadsword Handle, Platinum Steel Broadsword Blade, into 0 Platinum Steel Broadsword Kit.
+   Combine Perfect Gem Socket, Platinum Steel Broadsword Kit, into 1 Perfect Enchanted Platinum Steel Broadsword Kit.
+   Set Perfect Enchanted Platinum Steel Broadsword Kit into Platinum Steel Broadsword using Smith Table with a Diamond Crystal.
+   Combine Broadsword Handle, Platinum Steel Broadsword Blade, into 0 Platinum Steel Broadsword Kit.
+   Combine Superior Gem Socket, Platinum Steel Broadsword Kit, into 1 Sup. Enchanted Platinum Steel Broadsword Kit.
+   Set Sup. Enchanted Platinum Steel Broadsword Kit into Platinum Steel Broadsword using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Broadsword Kit into Platinum Steel Broadsword using Smith Table with a Sapphire Crystal.
+   Combine Broadsword Handle, Platinum Steel Broadsword Blade, into 0 Platinum Steel Broadsword Kit.
+   Combine Standard Gem Socket, Platinum Steel Broadsword Kit, into 1 Enchanted Platinum Steel Broadsword Kit.
+   Set Enchanted Platinum Steel Broadsword Kit into Platinum Steel Broadsword using Smith Table with a Ruby Crystal.
+-- Platinum Steel Claymore ----- 
+   Combine Sword Handle, Platinum Steel Claymore Blade, into 0 Platinum Steel Claymore Kit.
+   Combine Perfect Gem Socket, Platinum Steel Claymore Kit, into 1 Perfect Enchanted Platinum Steel Claymore Kit.
+   Set Perfect Enchanted Platinum Steel Claymore Kit into Platinum Steel Claymore using Smith Table with a Diamond Crystal.
+   Combine Sword Handle, Platinum Steel Claymore Blade, into 0 Platinum Steel Claymore Kit.
+   Combine Superior Gem Socket, Platinum Steel Claymore Kit, into 1 Sup. Enchanted Platinum Steel Claymore Kit.
+   Set Sup. Enchanted Platinum Steel Claymore Kit into Platinum Steel Claymore using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Claymore Kit into Platinum Steel Claymore using Smith Table with a Sapphire Crystal.
+   Combine Sword Handle, Platinum Steel Claymore Blade, into 0 Platinum Steel Claymore Kit.
+   Combine Standard Gem Socket, Platinum Steel Claymore Kit, into 1 Enchanted Platinum Steel Claymore Kit.
+   Set Enchanted Platinum Steel Claymore Kit into Platinum Steel Claymore using Smith Table with a Ruby Crystal.
+-- Platinum Steel Dagger ----- 
+   Combine Leather Knife Handle, Platinum Steel Dagger Blade, into 0 Platinum Steel Dagger Kit.
+   Combine Superior Gem Socket, Platinum Steel Dagger Kit, into 1 Sup. Enchanted Platinum Steel Dagger Kit.
+   Set Sup. Enchanted Platinum Steel Dagger Kit into Platinum Steel Dagger using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Dagger Kit into Platinum Steel Dagger using Smith Table with a Sapphire Crystal.
+   Combine Leather Knife Handle, Platinum Steel Dagger Blade, into 0 Platinum Steel Dagger Kit.
+   Combine Standard Gem Socket, Platinum Steel Dagger Kit, into 1 Enchanted Platinum Steel Dagger Kit.
+   Set Enchanted Platinum Steel Dagger Kit into Platinum Steel Dagger using Smith Table with a Ruby Crystal.
+   Combine Leather Knife Handle, Platinum Steel Dagger Blade, into 0 Platinum Steel Dagger Kit.
+   Combine Perfect Gem Socket, Platinum Steel Dagger Kit, into 1 Perfect Enchanted Platinum Steel Dagger Kit.
+   Set Perfect Enchanted Platinum Steel Dagger Kit into Platinum Steel Dagger using Smith Table with a Diamond Crystal.
+-- Platinum Steel Falchion ----- 
+   Combine Sword Handle, Platinum Steel Falchion Blade, into 0 Platinum Steel Falchion Kit.
+   Combine Perfect Gem Socket, Platinum Steel Falchion Kit, into 1 Perfect Enchanted Platinum Steel Falchion Kit.
+   Set Perfect Enchanted Platinum Steel Falchion Kit into Platinum Steel Falchion using Smith Table with a Diamond Crystal.
+   Combine Sword Handle, Platinum Steel Falchion Blade, into 0 Platinum Steel Falchion Kit.
+   Combine Superior Gem Socket, Platinum Steel Falchion Kit, into 1 Sup. Enchanted Platinum Steel Falchion Kit.
+   Set Sup. Enchanted Platinum Steel Falchion Kit into Platinum Steel Falchion using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Falchion Kit into Platinum Steel Falchion using Smith Table with a Sapphire Crystal.
+   Combine Sword Handle, Platinum Steel Falchion Blade, into 0 Platinum Steel Falchion Kit.
+   Combine Standard Gem Socket, Platinum Steel Falchion Kit, into 1 Enchanted Platinum Steel Falchion Kit.
+   Set Enchanted Platinum Steel Falchion Kit into Platinum Steel Falchion using Smith Table with a Ruby Crystal.
+-- Platinum Steel Flanged Mace ----- 
+   Combine Perfect Gem Socket, Platinum Steel Flanged Mace Assembly, into 1 Perfect Enchanted Platinum Steel Flanged Mace Assembly.
+   Set Perfect Enchanted Platinum Steel Flanged Mace Assembly into Platinum Steel Flanged Mace using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Platinum Steel Flanged Mace Assembly, into 1 Sup. Enchanted Platinum Steel Flanged Mace Assembly.
+   Set Sup. Enchanted Platinum Steel Flanged Mace Assembly into Platinum Steel Flanged Mace using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Flanged Mace Assembly into Platinum Steel Flanged Mace using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Platinum Steel Flanged Mace Assembly, into 1 Enchanted Platinum Steel Flanged Mace Assembly.
+   Set Enchanted Platinum Steel Flanged Mace Assembly into Platinum Steel Flanged Mace using Smith Table with a Ruby Crystal.
+-- Platinum Steel Knife ----- 
+   Combine Leather Knife Handle, Platinum Steel Knife Blade, into 0 Platinum Steel Knife Kit.
+   Combine Perfect Gem Socket, Platinum Steel Knife Kit, into 1 Perfect Enchanted Platinum Steel Knife Kit.
+   Set Perfect Enchanted Platinum Steel Knife Kit into Platinum Steel Knife using Smith Table with a Diamond Crystal.
+   Combine Leather Knife Handle, Platinum Steel Knife Blade, into 0 Platinum Steel Knife Kit.
+   Combine Superior Gem Socket, Platinum Steel Knife Kit, into 1 Sup. Enchanted Platinum Steel Knife Kit.
+   Set Sup. Enchanted Platinum Steel Knife Kit into Platinum Steel Knife using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Knife Kit into Platinum Steel Knife using Smith Table with a Sapphire Crystal.
+   Combine Leather Knife Handle, Platinum Steel Knife Blade, into 0 Platinum Steel Knife Kit.
+   Combine Standard Gem Socket, Platinum Steel Knife Kit, into 1 Enchanted Platinum Steel Knife Kit.
+   Set Enchanted Platinum Steel Knife Kit into Platinum Steel Knife using Smith Table with a Ruby Crystal.
+-- Platinum Steel Longsword ----- 
+   Combine Platinum Steel Longsword Blade, Sword Handle, into 0 Platinum Steel Longsword Kit.
+   Combine Perfect Gem Socket, Platinum Steel Longsword Kit, into 1 Perfect Enchanted Platinum Steel Longsword Kit.
+   Set Perfect Enchanted Platinum Steel Longsword Kit into Platinum Steel Longsword using Smith Table with a Diamond Crystal.
+   Combine Platinum Steel Longsword Blade, Sword Handle, into 0 Platinum Steel Longsword Kit.
+   Combine Superior Gem Socket, Platinum Steel Longsword Kit, into 1 Sup. Enchanted Platinum Steel Longsword Kit.
+   Set Sup. Enchanted Platinum Steel Longsword Kit into Platinum Steel Longsword using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Longsword Kit into Platinum Steel Longsword using Smith Table with a Sapphire Crystal.
+   Combine Platinum Steel Longsword Blade, Sword Handle, into 0 Platinum Steel Longsword Kit.
+   Combine Standard Gem Socket, Platinum Steel Longsword Kit, into 1 Enchanted Platinum Steel Longsword Kit.
+   Set Enchanted Platinum Steel Longsword Kit into Platinum Steel Longsword using Smith Table with a Ruby Crystal.
+-- Platinum Steel Mace ----- 
+   Combine Perfect Gem Socket, Platinum Steel Mace Assembly, into 1 Perfect Enchanted Platinum Steel Mace Assembly.
+   Set Perfect Enchanted Platinum Steel Mace Assembly into Platinum Steel Mace using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Platinum Steel Mace Assembly, into 1 Sup. Enchanted Platinum Steel Mace Assembly.
+   Set Sup. Enchanted Platinum Steel Mace Assembly into Platinum Steel Mace using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Mace Assembly into Platinum Steel Mace using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Platinum Steel Mace Assembly, into 1 Enchanted Platinum Steel Mace Assembly.
+   Set Enchanted Platinum Steel Mace Assembly into Platinum Steel Mace using Smith Table with a Ruby Crystal.
+-- Platinum Steel Morning Star ----- 
+   Combine Perfect Gem Socket, Platinum Steel Morning Star Assembly, into 1 Perfect Enchanted Platinum Steel Morning Star Assembly.
+   Set Perfect Enchanted Platinum Steel Morning Star Assembly into Platinum Steel Morning Star using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Platinum Steel Morning Star Assembly, into 1 Sup. Enchanted Platinum Steel Morning Star Assembly.
+   Set Sup. Enchanted Platinum Steel Morning Star Assembly into Platinum Steel Morning Star using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Morning Star Assembly into Platinum Steel Morning Star using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Platinum Steel Morning Star Assembly, into 1 Enchanted Platinum Steel Morning Star Assembly.
+   Set Enchanted Platinum Steel Morning Star Assembly into Platinum Steel Morning Star using Smith Table with a Ruby Crystal.
+-- Platinum Steel Reinforced Axe ----- 
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Wooden Axe Handle, Platinum Steel Reinforced Axe Blade, into 0 Platinum Steel Reinforced Axe Kit.
+   Combine Perfect Gem Socket, Platinum Steel Reinforced Axe Kit, into 1 Perfect Enchanted Platinum Steel Reinforced Axe Kit.
+   Set Perfect Enchanted Platinum Steel Reinforced Axe Kit into Platinum Steel Reinforced Axe using Smith Table with a Diamond Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Wooden Axe Handle, Platinum Steel Reinforced Axe Blade, into 0 Platinum Steel Reinforced Axe Kit.
+   Combine Standard Gem Socket, Platinum Steel Reinforced Axe Kit, into 1 Enchanted Platinum Steel Reinforced Axe Kit.
+   Set Enchanted Platinum Steel Reinforced Axe Kit into Platinum Steel Reinforced Axe using Smith Table with a Ruby Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Wooden Axe Handle, Platinum Steel Reinforced Axe Blade, into 0 Platinum Steel Reinforced Axe Kit.
+   Combine Superior Gem Socket, Platinum Steel Reinforced Axe Kit, into 1 Sup. Enchanted Platinum Steel Reinforced Axe Kit.
+   Set Sup. Enchanted Platinum Steel Reinforced Axe Kit into Platinum Steel Reinforced Axe using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Reinforced Axe Kit into Platinum Steel Reinforced Axe using Smith Table with a Sapphire Crystal.
+-- Platinum Steel Reinforced Battle Axe ----- 
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Wooden Axe Handle, Platinum Steel Reinforced Battle Axe Blade, into 0 Platinum Steel Reinforced Battle Axe Kit.
+   Combine Perfect Gem Socket, Platinum Steel Reinforced Battle Axe Kit, into 1 Perfect Enchanted Platinum Steel Reinforced Battle Axe Kit.
+   Set Perfect Enchanted Platinum Steel Reinforced Battle Axe Kit into Platinum Steel Reinforced Battle Axe using Smith Table with a Diamond Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Wooden Axe Handle, Platinum Steel Reinforced Battle Axe Blade, into 0 Platinum Steel Reinforced Battle Axe Kit.
+   Combine Standard Gem Socket, Platinum Steel Reinforced Battle Axe Kit, into 1 Enchanted Platinum Steel Reinforced Battle Axe Kit.
+   Set Enchanted Platinum Steel Reinforced Battle Axe Kit into Platinum Steel Reinforced Battle Axe using Smith Table with a Ruby Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Wooden Axe Handle, Platinum Steel Reinforced Battle Axe Blade, into 0 Platinum Steel Reinforced Battle Axe Kit.
+   Combine Superior Gem Socket, Platinum Steel Reinforced Battle Axe Kit, into 1 Sup. Enchanted Platinum Steel Reinforced Battle Axe Kit.
+   Set Sup. Enchanted Platinum Steel Reinforced Battle Axe Kit into Platinum Steel Reinforced Battle Axe using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Reinforced Battle Axe Kit into Platinum Steel Reinforced Battle Axe using Smith Table with a Sapphire Crystal.
+-- Platinum Steel Sabre ----- 
+   Combine Sword Handle, Platinum Steel Sabre Blade, into 0 Platinum Steel Sabre Kit.
+   Combine Perfect Gem Socket, Platinum Steel Sabre Kit, into 1 Perfect Enchanted Platinum Steel Sabre Kit.
+   Set Perfect Enchanted Platinum Steel Sabre Kit into Platinum Steel Sabre using Smith Table with a Diamond Crystal.
+   Combine Sword Handle, Platinum Steel Sabre Blade, into 0 Platinum Steel Sabre Kit.
+   Combine Superior Gem Socket, Platinum Steel Sabre Kit, into 1 Sup. Enchanted Platinum Steel Sabre Kit.
+   Set Sup. Enchanted Platinum Steel Sabre Kit into Platinum Steel Sabre using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Sabre Kit into Platinum Steel Sabre using Smith Table with a Sapphire Crystal.
+   Combine Sword Handle, Platinum Steel Sabre Blade, into 0 Platinum Steel Sabre Kit.
+   Combine Standard Gem Socket, Platinum Steel Sabre Kit, into 1 Enchanted Platinum Steel Sabre Kit.
+   Set Enchanted Platinum Steel Sabre Kit into Platinum Steel Sabre using Smith Table with a Ruby Crystal.
+-- Platinum Steel Shortsword ----- 
+   Combine Sword Handle, Platinum Steel Shortsword Blade, into 0 Platinum Steel Shortsword Kit.
+   Combine Perfect Gem Socket, Platinum Steel Shortsword Kit, into 1 Perfect Enchanted Platinum Steel Shortsword Kit.
+   Set Perfect Enchanted Platinum Steel Shortsword Kit into Platinum Steel Shortsword using Smith Table with a Diamond Crystal.
+   Combine Sword Handle, Platinum Steel Shortsword Blade, into 0 Platinum Steel Shortsword Kit.
+   Combine Superior Gem Socket, Platinum Steel Shortsword Kit, into 1 Sup. Enchanted Platinum Steel Shortsword Kit.
+   Set Sup. Enchanted Platinum Steel Shortsword Kit into Platinum Steel Shortsword using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Shortsword Kit into Platinum Steel Shortsword using Smith Table with a Sapphire Crystal.
+   Combine Sword Handle, Platinum Steel Shortsword Blade, into 0 Platinum Steel Shortsword Kit.
+   Combine Standard Gem Socket, Platinum Steel Shortsword Kit, into 1 Enchanted Platinum Steel Shortsword Kit.
+   Set Enchanted Platinum Steel Shortsword Kit into Platinum Steel Shortsword using Smith Table with a Ruby Crystal.
+-- Platinum Steel Small Battle Axe ----- 
+   Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handle.
+   Combine Small Wooden Axe Handle, Platinum Steel Small Battle Axe Blade, into 0 Platinum Steel Small Battle Axe Kit.
+   Combine Perfect Gem Socket, Platinum Steel Small Battle Axe Kit, into 1 Perfect Enchanted Platinum Steel Small Battle Axe Kit.
+   Set Perfect Enchanted Platinum Steel Small Battle Axe Kit into Platinum Steel Small Battle Axe using Smith Table with a Diamond Crystal.
+   Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handle.
+   Combine Small Wooden Axe Handle, Platinum Steel Small Battle Axe Blade, into 0 Platinum Steel Small Battle Axe Kit.
+   Combine Standard Gem Socket, Platinum Steel Small Battle Axe Kit, into 1 Enchanted Platinum Steel Small Battle Axe Kit.
+   Set Enchanted Platinum Steel Small Battle Axe Kit into Platinum Steel Small Battle Axe using Smith Table with a Ruby Crystal.
+   Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handle.
+   Combine Small Wooden Axe Handle, Platinum Steel Small Battle Axe Blade, into 0 Platinum Steel Small Battle Axe Kit.
+   Combine Superior Gem Socket, Platinum Steel Small Battle Axe Kit, into 1 Sup. Enchanted Platinum Steel Small Battle Axe Kit.
+   Set Sup. Enchanted Platinum Steel Small Battle Axe Kit into Platinum Steel Small Battle Axe using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Small Battle Axe Kit into Platinum Steel Small Battle Axe using Smith Table with a Sapphire Crystal.
+-- Platinum Steel Spiked Warhammer ----- 
+   Combine Superior Gem Socket, Platinum Steel Spiked Warhammer Assembly, into 1 Sup. Enchanted Platinum Steel Spiked Warhammer Assembly.
+   Set Sup. Enchanted Platinum Steel Spiked Warhammer Assembly into Platinum Steel Spiked Warhammer using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Spiked Warhammer Assembly into Platinum Steel Spiked Warhammer using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Platinum Steel Spiked Warhammer Assembly, into 1 Enchanted Platinum Steel Spiked Warhammer Assembly.
+   Set Enchanted Platinum Steel Spiked Warhammer Assembly into Platinum Steel Spiked Warhammer using Smith Table with a Ruby Crystal.
+   Combine Perfect Gem Socket, Platinum Steel Spiked Warhammer Assembly, into 1 Perfect Enchanted Platinum Steel Spiked Warhammer Assembly.
+   Set Perfect Enchanted Platinum Steel Spiked Warhammer Assembly into Platinum Steel Spiked Warhammer using Smith Table with a Diamond Crystal.
+-- Platinum Steel War Flanged Mace ----- 
+   Combine Perfect Gem Socket, Platinum Steel War Flanged Mace Assembly, into 1 Perfect Enchanted Platinum Steel War Flanged Mace Assembly.
+   Set Perfect Enchanted Platinum Steel War Flanged Mace Assembly into Platinum Steel War Flanged Mace using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Platinum Steel War Flanged Mace Assembly, into 1 Sup. Enchanted Platinum Steel War Flanged Mace Assembly.
+   Set Sup. Enchanted Platinum Steel War Flanged Mace Assembly into Platinum Steel War Flanged Mace using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel War Flanged Mace Assembly into Platinum Steel War Flanged Mace using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Platinum Steel War Flanged Mace Assembly, into 1 Enchanted Platinum Steel War Flanged Mace Assembly.
+   Set Enchanted Platinum Steel War Flanged Mace Assembly into Platinum Steel War Flanged Mace using Smith Table with a Ruby Crystal.
+-- Platinum Steel War Pick ----- 
+   Combine Superior Gem Socket, Platinum Steel War Pick Assembly, into 1 Sup. Enchanted Platinum Steel War Pick Assembly.
+   Set Sup. Enchanted Platinum Steel War Pick Assembly into Platinum Steel War Pick using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel War Pick Assembly into Platinum Steel War Pick using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Platinum Steel War Pick Assembly, into 1 Enchanted Platinum Steel War Pick Assembly.
+   Set Enchanted Platinum Steel War Pick Assembly into Platinum Steel War Pick using Smith Table with a Ruby Crystal.
+   Combine Perfect Gem Socket, Platinum Steel War Pick Assembly, into 1 Perfect Enchanted Platinum Steel War Pick Assembly.
+   Set Perfect Enchanted Platinum Steel War Pick Assembly into Platinum Steel War Pick using Smith Table with a Diamond Crystal.
+-- Platinum Steel Warhammer ----- 
+   Combine Standard Gem Socket, Platinum Steel Warhammer Assembly, into 1 Enchanted Platinum Steel Warhammer Assembly.
+   Set Enchanted Platinum Steel Warhammer Assembly into Platinum Steel Warhammer using Smith Table with a Ruby Crystal.
+   Combine Perfect Gem Socket, Platinum Steel Warhammer Assembly, into 1 Perfect Enchanted Platinum Steel Warhammer Assembly.
+   Set Perfect Enchanted Platinum Steel Warhammer Assembly into Platinum Steel Warhammer using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Platinum Steel Warhammer Assembly, into 1 Sup. Enchanted Platinum Steel Warhammer Assembly.
+   Set Sup. Enchanted Platinum Steel Warhammer Assembly into Platinum Steel Warhammer using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Platinum Steel Warhammer Assembly into Platinum Steel Warhammer using Smith Table with a Sapphire Crystal.
+-- Reinforced Axe ----- 
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Reinforced Axe Blade, Wooden Axe Handle, into 0 Reinforced Axe Kit.
+   Combine Standard Gem Socket, Reinforced Axe Kit, into 1 Enchanted Reinforced Axe Kit.
+   Set Enchanted Reinforced Axe Kit into Reinforced Axe using Smith Table with a Ruby Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Reinforced Axe Blade, Wooden Axe Handle, into 0 Reinforced Axe Kit.
+   Combine Superior Gem Socket, Reinforced Axe Kit, into 1 Sup. Enchanted Reinforced Axe Kit.
+   Set Sup. Enchanted Reinforced Axe Kit into Reinforced Axe using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Reinforced Axe Kit into Reinforced Axe using Smith Table with a Sapphire Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Reinforced Axe Blade, Wooden Axe Handle, into 0 Reinforced Axe Kit.
+   Combine Perfect Gem Socket, Reinforced Axe Kit, into 1 Perfect Enchanted Reinforced Axe Kit.
+   Set Perfect Enchanted Reinforced Axe Kit into Reinforced Axe using Smith Table with a Diamond Crystal.
+-- Reinforced Battle Axe ----- 
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Reinforced Battle Axe Blade, Wooden Axe Handle, into 0 Reinforced Battle Axe Kit.
+   Combine Perfect Gem Socket, Reinforced Battle Axe Kit, into 1 Perfect Enchanted Reinforced Battle Axe Kit.
+   Set Perfect Enchanted Reinforced Battle Axe Kit into Reinforced Battle Axe using Smith Table with a Diamond Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Reinforced Battle Axe Blade, Wooden Axe Handle, into 0 Reinforced Battle Axe Kit.
+   Combine Standard Gem Socket, Reinforced Battle Axe Kit, into 1 Enchanted Reinforced Battle Axe Kit.
+   Set Enchanted Reinforced Battle Axe Kit into Reinforced Battle Axe using Smith Table with a Ruby Crystal.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle.
+   Combine Reinforced Battle Axe Blade, Wooden Axe Handle, into 0 Reinforced Battle Axe Kit.
+   Combine Superior Gem Socket, Reinforced Battle Axe Kit, into 1 Sup. Enchanted Reinforced Battle Axe Kit.
+   Set Sup. Enchanted Reinforced Battle Axe Kit into Reinforced Battle Axe using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Reinforced Battle Axe Kit into Reinforced Battle Axe using Smith Table with a Sapphire Crystal.
+-- Sabre ----- 
+   Combine Sabre Blade, Sword Handle, into 0 Sabre Kit.
+   Combine Superior Gem Socket, Sabre Kit, into 1 Sup. Enchanted Sabre Kit.
+   Set Sup. Enchanted Sabre Kit into Sabre using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Sabre Kit into Sabre using Smith Table with a Sapphire Crystal.
+   Combine Sabre Blade, Sword Handle, into 0 Sabre Kit.
+   Combine Standard Gem Socket, Sabre Kit, into 1 Enchanted Sabre Kit.
+   Set Enchanted Sabre Kit into Sabre using Smith Table with a Ruby Crystal.
+   Combine Sabre Blade, Sword Handle, into 0 Sabre Kit.
+   Combine Perfect Gem Socket, Sabre Kit, into 1 Perfect Enchanted Sabre Kit.
+   Set Perfect Enchanted Sabre Kit into Sabre using Smith Table with a Diamond Crystal.
+-- Shortsword ----- 
+   Combine Shortsword Blade, Sword Handle, into 0 Shortsword Kit.
+   Combine Superior Gem Socket, Shortsword Kit, into 1 Sup. Enchanted Shortsword Kit.
+   Set Sup. Enchanted Shortsword Kit into Shortsword using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Shortsword Kit into Shortsword using Smith Table with a Sapphire Crystal.
+   Combine Shortsword Blade, Sword Handle, into 0 Shortsword Kit.
+   Combine Standard Gem Socket, Shortsword Kit, into 1 Enchanted Shortsword Kit.
+   Set Enchanted Shortsword Kit into Shortsword using Smith Table with a Ruby Crystal.
+   Combine Shortsword Blade, Sword Handle, into 0 Shortsword Kit.
+   Combine Perfect Gem Socket, Shortsword Kit, into 1 Perfect Enchanted Shortsword Kit.
+   Set Perfect Enchanted Shortsword Kit into Shortsword using Smith Table with a Diamond Crystal.
+-- Small Battle Axe ----- 
+   Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handle.
+   Combine Small Battle Axe Blade, Small Wooden Axe Handle, into 0 Small Battle Axe Kit.
+   Combine Standard Gem Socket, Small Battle Axe Kit, into 1 Enchanted Small Battle Axe Kit.
+   Set Enchanted Small Battle Axe Kit into Small Battle Axe using Smith Table with a Ruby Crystal.
+   Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handle.
+   Combine Small Battle Axe Blade, Small Wooden Axe Handle, into 0 Small Battle Axe Kit.
+   Combine Superior Gem Socket, Small Battle Axe Kit, into 1 Sup. Enchanted Small Battle Axe Kit.
+   Set Sup. Enchanted Small Battle Axe Kit into Small Battle Axe using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Small Battle Axe Kit into Small Battle Axe using Smith Table with a Sapphire Crystal.
+   Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handle.
+   Combine Small Battle Axe Blade, Small Wooden Axe Handle, into 0 Small Battle Axe Kit.
+   Combine Perfect Gem Socket, Small Battle Axe Kit, into 1 Perfect Enchanted Small Battle Axe Kit.
+   Set Perfect Enchanted Small Battle Axe Kit into Small Battle Axe using Smith Table with a Diamond Crystal.
+-- Spiked Warhammer ----- 
+   Combine Perfect Gem Socket, Spiked Warhammer Assembly, into 1 Perfect Enchanted Spiked Warhammer Assembly.
+   Set Perfect Enchanted Spiked Warhammer Assembly into Spiked Warhammer using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Spiked Warhammer Assembly, into 1 Sup. Enchanted Spiked Warhammer Assembly.
+   Set Sup. Enchanted Spiked Warhammer Assembly into Spiked Warhammer using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Spiked Warhammer Assembly into Spiked Warhammer using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Spiked Warhammer Assembly, into 1 Enchanted Spiked Warhammer Assembly.
+   Set Enchanted Spiked Warhammer Assembly into Spiked Warhammer using Smith Table with a Ruby Crystal.
+-- Standard Gem Socket ----- 
+   Shape1 Molten Steel into Standard Gem Socket using Anvil with a Hammer.
+-- Stonehammer Compound Bow ----- 
+   Combine Compound Bow Staff, Steel String, into 0 Compound Bow Kit.
+   Combine Standard Gem Socket, Compound Bow Kit, into 1 Enchanted Compound Bow Kit.
+   Set Enchanted Compound Bow Kit into Stonehammer Compound Bow using Smith Table with a Ruby Crystal.
+   Combine Compound Bow Staff, Steel String, into 0 Compound Bow Kit.
+   Combine Perfect Gem Socket, Compound Bow Kit, into 1 Perfect Enchanted Compound Bow Kit.
+   Set Perfect Enchanted Compound Bow Kit into Stonehammer Compound Bow using Smith Table with a Diamond Crystal.
+   Combine Compound Bow Staff, Steel String, into 0 Compound Bow Kit.
+   Combine Superior Gem Socket, Compound Bow Kit, into 1 Sup. Enchanted Compound Bow Kit.
+   Set Sup. Enchanted Compound Bow Kit into Stonehammer Compound Bow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Compound Bow Kit into Stonehammer Compound Bow using Smith Table with a Sapphire Crystal.
+-- Stonehammer Longbow ----- 
+   Combine Standard Gem Socket, Unbalanced Stonehammer Longbow, into 1 Enchanted Unbalanced Stonehammer Longbow.
+   Set Enchanted Unbalanced Stonehammer Longbow into Stonehammer Longbow using Smith Table with a Ruby Crystal.
+   Combine Perfect Gem Socket, Unbalanced Stonehammer Longbow, into 1 Perfect Enchanted Unbalanced Stonehammer Longbow.
+   Set Perfect Enchanted Unbalanced Stonehammer Longbow into Stonehammer Longbow using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Unbalanced Stonehammer Longbow, into 1 Sup. Enchanted Unbalanced Stonehammer Longbow.
+   Set Sup. Enchanted Unbalanced Stonehammer Longbow into Stonehammer Longbow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Stonehammer Longbow into Stonehammer Longbow using Smith Table with a Sapphire Crystal.
+-- Stonehammer Shortbow ----- 
+   Combine Standard Gem Socket, Unbalanced Stonehammer Shortbow, into 1 Enchanted Unbalanced Stonehammer Shortbow.
+   Set Enchanted Unbalanced Stonehammer Shortbow into Stonehammer Shortbow using Smith Table with a Ruby Crystal.
+   Combine Perfect Gem Socket, Unbalanced Stonehammer Shortbow, into 1 Perfect Enchanted Unbalanced Stonehammer Shortbow.
+   Set Perfect Enchanted Unbalanced Stonehammer Shortbow into Stonehammer Shortbow using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Unbalanced Stonehammer Shortbow, into 1 Sup. Enchanted Unbalanced Stonehammer Shortbow.
+   Set Sup. Enchanted Unbalanced Stonehammer Shortbow into Stonehammer Shortbow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Stonehammer Shortbow into Stonehammer Shortbow using Smith Table with a Sapphire Crystal.
+-- Superior Gem Socket ----- 
+   Shape2 2 Molten Steels into Superior Gem Socket using Anvil with a Hammer.
+-- War Club ----- 
+   Combine Perfect Gem Socket, War Club Assembly, into 1 Perfect Enchanted War Club Assembly.
+   Set Perfect Enchanted War Club Assembly into War Club using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, War Club Assembly, into 1 Sup. Enchanted War Club Assembly.
+   Set Sup. Enchanted War Club Assembly into War Club using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted War Club Assembly into War Club using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, War Club Assembly, into 1 Enchanted War Club Assembly.
+   Set Enchanted War Club Assembly into War Club using Smith Table with a Ruby Crystal.
+-- War Flanged Mace ----- 
+   Combine Perfect Gem Socket, War Flanged Mace Assembly, into 1 Perfect Enchanted War Flanged Mace Assembly.
+   Set Perfect Enchanted War Flanged Mace Assembly into War Flanged Mace using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, War Flanged Mace Assembly, into 1 Sup. Enchanted War Flanged Mace Assembly.
+   Set Sup. Enchanted War Flanged Mace Assembly into War Flanged Mace using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted War Flanged Mace Assembly into War Flanged Mace using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, War Flanged Mace Assembly, into 1 Enchanted War Flanged Mace Assembly.
+   Set Enchanted War Flanged Mace Assembly into War Flanged Mace using Smith Table with a Ruby Crystal.
+-- War Pick ----- 
+   Combine Perfect Gem Socket, War Pick Assembly, into 1 Perfect Enchanted War Pick Assembly.
+   Set Perfect Enchanted War Pick Assembly into War Pick using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, War Pick Assembly, into 1 Sup. Enchanted War Pick Assembly.
+   Set Sup. Enchanted War Pick Assembly into War Pick using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted War Pick Assembly into War Pick using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, War Pick Assembly, into 1 Enchanted War Pick Assembly.
+   Set Enchanted War Pick Assembly into War Pick using Smith Table with a Ruby Crystal.
+-- Warhammer ----- 
+   Combine Perfect Gem Socket, Warhammer Assembly, into 1 Perfect Enchanted Warhammer Assembly.
+   Set Perfect Enchanted Warhammer Assembly into Warhammer using Smith Table with a Diamond Crystal.
+   Combine Superior Gem Socket, Warhammer Assembly, into 1 Sup. Enchanted Warhammer Assembly.
+   Set Sup. Enchanted Warhammer Assembly into Warhammer using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Warhammer Assembly into Warhammer using Smith Table with a Sapphire Crystal.
+   Combine Standard Gem Socket, Warhammer Assembly, into 1 Enchanted Warhammer Assembly.
+   Set Enchanted Warhammer Assembly into Warhammer using Smith Table with a Ruby Crystal.
+-- Ynnwn Composite Bow ----- 
+   Combine Unstrung Ynnwn Composite Bow, Tendon String, into 0 Unbalanced Ynnwn Composite Bow.
+   Combine Standard Gem Socket, Unbalanced Ynnwn Composite Bow, into 1 Enchanted Unbalanced Ynnwn Composite Bow.
+   Set Enchanted Unbalanced Ynnwn Composite Bow into Ynnwn Composite Bow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Ynnwn Composite Bow, Tendon String, into 0 Unbalanced Ynnwn Composite Bow.
+   Combine Perfect Gem Socket, Unbalanced Ynnwn Composite Bow, into 1 Perfect Enchanted Unbalanced Ynnwn Composite Bow.
+   Set Perfect Enchanted Unbalanced Ynnwn Composite Bow into Ynnwn Composite Bow using Smith Table with a Diamond Crystal.
+   Combine Unstrung Ynnwn Composite Bow, Tendon String, into 0 Unbalanced Ynnwn Composite Bow.
+   Combine Superior Gem Socket, Unbalanced Ynnwn Composite Bow, into 1 Sup. Enchanted Unbalanced Ynnwn Composite Bow.
+   Set Sup. Enchanted Unbalanced Ynnwn Composite Bow into Ynnwn Composite Bow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Ynnwn Composite Bow into Ynnwn Composite Bow using Smith Table with a Sapphire Crystal.
+-- Ynnwn Hunting Bow ----- 
+   Combine Unstrung Ynnwn Hunting Bow, Tendon String, into 0 Unbalanced Ynnwn Hunting Bow.
+   Combine Standard Gem Socket, Unbalanced Ynnwn Hunting Bow, into 1 Enchanted Unbalanced Ynnwn Hunting Bow.
+   Set Enchanted Unbalanced Ynnwn Hunting Bow into Ynnwn Hunting Bow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Ynnwn Hunting Bow, Tendon String, into 0 Unbalanced Ynnwn Hunting Bow.
+   Combine Perfect Gem Socket, Unbalanced Ynnwn Hunting Bow, into 1 Perfect Enchanted Unbalanced Ynnwn Hunting Bow.
+   Set Perfect Enchanted Unbalanced Ynnwn Hunting Bow into Ynnwn Hunting Bow using Smith Table with a Diamond Crystal.
+   Combine Unstrung Ynnwn Hunting Bow, Tendon String, into 0 Unbalanced Ynnwn Hunting Bow.
+   Combine Superior Gem Socket, Unbalanced Ynnwn Hunting Bow, into 1 Sup. Enchanted Unbalanced Ynnwn Hunting Bow.
+   Set Sup. Enchanted Unbalanced Ynnwn Hunting Bow into Ynnwn Hunting Bow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Ynnwn Hunting Bow into Ynnwn Hunting Bow using Smith Table with a Sapphire Crystal.
+-- Ynnwn Longbow ----- 
+   Combine Unstrung Ynnwn Longbow, Tendon String, into 0 Unbalanced Ynnwn Longbow.
+   Combine Standard Gem Socket, Unbalanced Ynnwn Longbow, into 1 Enchanted Unbalanced Ynnwn Longbow.
+   Set Enchanted Unbalanced Ynnwn Longbow into Ynnwn Longbow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Ynnwn Longbow, Tendon String, into 0 Unbalanced Ynnwn Longbow.
+   Combine Perfect Gem Socket, Unbalanced Ynnwn Longbow, into 1 Perfect Enchanted Unbalanced Ynnwn Longbow.
+   Set Perfect Enchanted Unbalanced Ynnwn Longbow into Ynnwn Longbow using Smith Table with a Diamond Crystal.
+   Combine Unstrung Ynnwn Longbow, Tendon String, into 0 Unbalanced Ynnwn Longbow.
+   Combine Superior Gem Socket, Unbalanced Ynnwn Longbow, into 1 Sup. Enchanted Unbalanced Ynnwn Longbow.
+   Set Sup. Enchanted Unbalanced Ynnwn Longbow into Ynnwn Longbow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Ynnwn Longbow into Ynnwn Longbow using Smith Table with a Sapphire Crystal.
+-- Ynnwn Shortbow ----- 
+   Combine Unstrung Ynnwn Shortbow, Tendon String, into 0 Unbalanced Ynnwn Shortbow.
+   Combine Standard Gem Socket, Unbalanced Ynnwn Shortbow, into 1 Enchanted Unbalanced Ynnwn Shortbow.
+   Set Enchanted Unbalanced Ynnwn Shortbow into Ynnwn Shortbow using Smith Table with a Ruby Crystal.
+   Combine Unstrung Ynnwn Shortbow, Tendon String, into 0 Unbalanced Ynnwn Shortbow.
+   Combine Perfect Gem Socket, Unbalanced Ynnwn Shortbow, into 1 Perfect Enchanted Unbalanced Ynnwn Shortbow.
+   Set Perfect Enchanted Unbalanced Ynnwn Shortbow into Ynnwn Shortbow using Smith Table with a Diamond Crystal.
+   Combine Unstrung Ynnwn Shortbow, Tendon String, into 0 Unbalanced Ynnwn Shortbow.
+   Combine Superior Gem Socket, Unbalanced Ynnwn Shortbow, into 1 Sup. Enchanted Unbalanced Ynnwn Shortbow.
+   Set Sup. Enchanted Unbalanced Ynnwn Shortbow into Ynnwn Shortbow using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Unbalanced Ynnwn Shortbow into Ynnwn Shortbow using Smith Table with a Sapphire Crystal.

@@ -1,0 +1,261 @@
+   Assemble Battle Axe Kit into Battle Axe using Smith Table.
+   Assemble Reinforced Axe Kit into Reinforced Axe using Smith Table.
+   Assemble Reinforced Battle Axe Kit into Reinforced Battle Axe using Smith Table.
+   Assemble Small Battle Axe Kit into Small Battle Axe using Smith Table.
+-- Battle Axe ----- 
+-- Battle Axe Alpha Blade ----- 
+-- Battle Axe Beta Blade ----- 
+-- Battle Axe Blade ----- 
+-- Battle Axe Delta Blade ----- 
+-- Brittle Battle Axe Blade ----- 
+-- Brittle Reinforced Axe Blade ----- 
+-- Brittle Reinforced Battle Axe Blade ----- 
+-- Brittle Small Battle Axe Blade ----- 
+   Combine Battle Axe Blade, Wooden Axe Handle, into 0 Battle Axe Kit.
+   Combine Reinforced Axe Blade, Wooden Axe Handle, into 0 Reinforced Axe Kit.
+   Combine Reinforced Battle Axe Blade, Wooden Axe Handle, into 0 Reinforced Battle Axe Kit.
+   Combine Small Battle Axe Blade, Small Wooden Axe Handle, into 0 Small Battle Axe Kit.
+   Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handles.
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handles.
+   Cut Oak Baton into 2 Half Oak baton using Smith Table with a Wood Saw.
+   Cut White Oak Wood into 4 Oak Baton using Smith Table with a Wood Saw.
+-- Dull Battle Axe Blade ----- 
+-- Dull Reinforced Axe Blade ----- 
+-- Dull Reinforced Battle Axe Blade ----- 
+-- Dull Small Battle Axe Blade ----- 
+   Forge Battle Axe Alpha Blade into Heated Battle Axe Alpha Blade using Forge.
+   Forge Battle Axe Beta Blade into Heated Battle Axe Beta Blade using Forge.
+   Forge Battle Axe Blade into Heated Battle Axe Blade using Forge.
+   Forge Battle Axe Delta Blade into Heated Battle Axe Delta Blade using Forge.
+   Forge Brittle Battle Axe Blade into Heated Brittle Battle Axe Blade using Forge.
+   Forge Brittle Reinforced Axe Blade into Heated Brittle Reinforced Axe Blade using Forge.
+   Forge Brittle Reinforced Battle Axe Blade into Heated Brittle Reinforced Battle Axe Blade using Forge.
+   Forge Brittle Small Battle Axe Blade into Heated Brittle Small Battle Axe Blade using Forge.
+   Forge Dull Battle Axe Blade into Heated Dull Battle Axe Blade using Forge.
+   Forge Dull Reinforced Axe Blade into Heated Dull Reinforced Axe Blade using Forge.
+   Forge Dull Reinforced Battle Axe Blade into Heated Dull Reinforced Battle Axe Blade using Forge.
+   Forge Dull Small Battle Axe Blade into Heated Dull Small Battle Axe Blade using Forge.
+   Forge Heated Battle Axe Alpha Blade into Super Heated Battle Axe Alpha Blade using Forge.
+   Forge Heated Battle Axe Beta Blade into Super Heated Battle Axe Beta Blade using Forge.
+   Forge Heated Battle Axe Blade into Super Heated Battle Axe Blade using Forge.
+   Forge Heated Battle Axe Delta Blade into Super Heated Battle Axe Delta Blade using Forge.
+   Forge Heated Brittle Battle Axe Blade into Super Heated Dull Battle Axe Blade using Forge.
+   Forge Heated Brittle Reinforced Axe Blade into Super Heated Dull Reinforced Axe Blade using Forge.
+   Forge Heated Brittle Reinforced Battle Axe Blade into Super Heated Dull Reinforced Battle Axe Blade using Forge.
+   Forge Heated Brittle Small Battle Axe Blade into Super Heated Dull Small Battle Axe Blade using Forge.
+   Forge Heated Dull Battle Axe Blade into Super Heated Dull Battle Axe Blade using Forge.
+   Forge Heated Dull Reinforced Axe Blade into Super Heated Dull Reinforced Axe Blade using Forge.
+   Forge Heated Dull Reinforced Battle Axe Blade into Super Heated Dull Reinforced Battle Axe Blade using Forge.
+   Forge Heated Dull Small Battle Axe Blade into Super Heated Dull Small Battle Axe Blade using Forge.
+   Forge Heated Reinforced Axe Alpha Blade into Super Heated Reinforced Axe Alpha Blade using Forge.
+   Forge Heated Reinforced Axe Beta Blade into Super Heated Reinforced Axe Beta Blade using Forge.
+   Forge Heated Reinforced Axe Blade into Super Heated Reinforced Axe Blade using Forge.
+   Forge Heated Reinforced Axe Delta Blade into Super Heated Reinforced Axe Delta Blade using Forge.
+   Forge Heated Reinforced Battle Axe Alpha Blade into Super Heated Reinforced Battle Axe Alpha Blade using Forge.
+   Forge Heated Reinforced Battle Axe Beta Blade into Super Heated Reinforced Battle Axe Beta Blade using Forge.
+   Forge Heated Reinforced Battle Axe Blade into Super Heated Reinforced Battle Axe Blade using Forge.
+   Forge Heated Reinforced Battle Axe Delta Blade into Super Heated Reinforced Battle Axe Delta Blade using Forge.
+   Forge Heated Small Battle Axe Alpha Blade into Super Heated Small Battle Axe Alpha Blade using Forge.
+   Forge Heated Small Battle Axe Beta Blade into Super Heated Small Battle Axe Beta Blade using Forge.
+   Forge Heated Small Battle Axe Blade into Super Heated Small Battle Axe Blade using Forge.
+   Forge Heated Small Battle Axe Delta Blade into Super Heated Small Battle Axe Delta Blade using Forge.
+   Forge Reinforced Axe Alpha Blade into Heated Reinforced Axe Alpha Blade using Forge.
+   Forge Reinforced Axe Beta Blade into Heated Reinforced Axe Beta Blade using Forge.
+   Forge Reinforced Axe Blade into Heated Reinforced Axe Blade using Forge.
+   Forge Reinforced Axe Delta Blade into Heated Reinforced Axe Delta Blade using Forge.
+   Forge Reinforced Battle Axe Alpha Blade into Heated Reinforced Battle Axe Alpha Blade using Forge.
+   Forge Reinforced Battle Axe Beta Blade into Heated Reinforced Battle Axe Beta Blade using Forge.
+   Forge Reinforced Battle Axe Blade into Heated Reinforced Battle Axe Blade using Forge.
+   Forge Reinforced Battle Axe Delta Blade into Heated Reinforced Battle Axe Delta Blade using Forge.
+   Forge Small Battle Axe Alpha Blade into Heated Small Battle Axe Alpha Blade using Forge.
+   Forge Small Battle Axe Beta Blade into Heated Small Battle Axe Beta Blade using Forge.
+   Forge Small Battle Axe Blade into Heated Small Battle Axe Blade using Forge.
+   Forge Small Battle Axe Delta Blade into Heated Small Battle Axe Delta Blade using Forge.
+   Forge Super Heated Battle Axe Alpha Blade into Red Hot Battle Axe Alpha Blade using Forge.
+   Forge Super Heated Battle Axe Beta Blade into Red Hot Battle Axe Beta Blade using Forge.
+   Forge Super Heated Battle Axe Blade into Red Hot Battle Axe Blade using Forge.
+   Forge Super Heated Battle Axe Delta Blade into Red Hot Battle Axe Delta Blade using Forge.
+   Forge Super Heated Dull Battle Axe Blade into Red Hot Dull Battle Axe Blade using Forge.
+   Forge Super Heated Dull Reinforced Axe Blade into Red Hot Dull Reinforced Axe Blade using Forge.
+   Forge Super Heated Dull Reinforced Battle Axe Blade into Red Hot Dull Reinforced Battle Axe Blade using Forge.
+   Forge Super Heated Dull Small Battle Axe Blade into Red Hot Dull Small Battle Axe Blade using Forge.
+   Forge Super Heated Reinforced Axe Alpha Blade into Red Hot Reinforced Axe Alpha Blade using Forge.
+   Forge Super Heated Reinforced Axe Beta Blade into Red Hot Reinforced Axe Beta Blade using Forge.
+   Forge Super Heated Reinforced Axe Blade into Red Hot Reinforced Axe Blade using Forge.
+   Forge Super Heated Reinforced Axe Delta Blade into Red Hot Reinforced Axe Delta Blade using Forge.
+   Forge Super Heated Reinforced Battle Axe Alpha Blade into Red Hot Reinforced Battle Axe Alpha Blade using Forge.
+   Forge Super Heated Reinforced Battle Axe Beta Blade into Red Hot Reinforced Battle Axe Beta Blade using Forge.
+   Forge Super Heated Reinforced Battle Axe Blade into Red Hot Reinforced Battle Axe Blade using Forge.
+   Forge Super Heated Reinforced Battle Axe Delta Blade into Red Hot Reinforced Battle Axe Delta Blade using Forge.
+   Forge Super Heated Small Battle Axe Alpha Blade into Red Hot Small Battle Axe Alpha Blade using Forge.
+   Forge Super Heated Small Battle Axe Beta Blade into Red Hot Small Battle Axe Beta Blade using Forge.
+   Forge Super Heated Small Battle Axe Blade into Red Hot Small Battle Axe Blade using Forge.
+   Forge Super Heated Small Battle Axe Delta Blade into Red Hot Small Battle Axe Delta Blade using Forge.
+   Quench Heated Battle Axe Alpha Blade into Battle Axe Alpha Blade using Quench Tank.
+   Quench Heated Battle Axe Beta Blade into Battle Axe Beta Blade using Quench Tank.
+   Quench Heated Battle Axe Blade into Battle Axe Blade using Quench Tank.
+   Quench Heated Battle Axe Delta Blade into Battle Axe Delta Blade using Quench Tank.
+   Quench Heated Brittle Battle Axe Blade into Brittle Battle Axe Blade using Quench Tank.
+   Quench Heated Brittle Reinforced Axe Blade into Brittle Reinforced Axe Blade using Quench Tank.
+   Quench Heated Brittle Reinforced Battle Axe Blade into Brittle Reinforced Battle Axe Blade using Quench Tank.
+   Quench Heated Brittle Small Battle Axe Blade into Brittle Small Battle Axe Blade using Quench Tank.
+   Quench Heated Dull Battle Axe Blade into Dull Battle Axe Blade using Quench Tank.
+   Quench Heated Dull Reinforced Axe Blade into Dull Reinforced Axe Blade using Quench Tank.
+   Quench Heated Dull Reinforced Battle Axe Blade into Dull Reinforced Battle Axe Blade using Quench Tank.
+   Quench Heated Dull Small Battle Axe Blade into Dull Small Battle Axe Blade using Quench Tank.
+   Quench Heated Reinforced Axe Alpha Blade into Reinforced Axe Alpha Blade using Quench Tank.
+   Quench Heated Reinforced Axe Beta Blade into Reinforced Axe Beta Blade using Quench Tank.
+   Quench Heated Reinforced Axe Blade into Reinforced Axe Blade using Quench Tank.
+   Quench Heated Reinforced Axe Delta Blade into Reinforced Axe Delta Blade using Quench Tank.
+   Quench Heated Reinforced Battle Axe Alpha Blade into Reinforced Battle Axe Alpha Blade using Quench Tank.
+   Quench Heated Reinforced Battle Axe Beta Blade into Reinforced Battle Axe Beta Blade using Quench Tank.
+   Quench Heated Reinforced Battle Axe Blade into Reinforced Battle Axe Blade using Quench Tank.
+   Quench Heated Reinforced Battle Axe Delta Blade into Reinforced Battle Axe Delta Blade using Quench Tank.
+   Quench Heated Small Battle Axe Alpha Blade into Small Battle Axe Alpha Blade using Quench Tank.
+   Quench Heated Small Battle Axe Beta Blade into Small Battle Axe Beta Blade using Quench Tank.
+   Quench Heated Small Battle Axe Blade into Small Battle Axe Blade using Quench Tank.
+   Quench Heated Small Battle Axe Delta Blade into Small Battle Axe Delta Blade using Quench Tank.
+   Quench Red Hot Battle Axe Alpha Blade into Battle Axe Alpha Blade using Quench Tank.
+   Quench Red Hot Battle Axe Alpha Blade into Brittle Battle Axe Blade using Quench Tank.
+   Quench Red Hot Battle Axe Beta Blade into Battle Axe Beta Blade using Quench Tank.
+   Quench Red Hot Battle Axe Beta Blade into Brittle Battle Axe Blade using Quench Tank.
+   Quench Red Hot Battle Axe Blade into Battle Axe Blade using Quench Tank.
+   Quench Red Hot Battle Axe Delta Blade into Battle Axe Delta Blade using Quench Tank.
+   Quench Red Hot Battle Axe Delta Blade into Brittle Battle Axe Blade using Quench Tank.
+   Quench Red Hot Dull Battle Axe Blade into Dull Battle Axe Blade using Quench Tank.
+   Quench Red Hot Dull Reinforced Axe Blade into Dull Reinforced Axe Blade using Quench Tank.
+   Quench Red Hot Dull Reinforced Battle Axe Blade into Dull Reinforced Battle Axe Blade using Quench Tank.
+   Quench Red Hot Dull Small Battle Axe Blade into Dull Small Battle Axe Blade using Quench Tank.
+   Quench Red Hot Reinforced Axe Alpha Blade into Brittle Reinforced Axe Blade using Quench Tank.
+   Quench Red Hot Reinforced Axe Alpha Blade into Reinforced Axe Alpha Blade using Quench Tank.
+   Quench Red Hot Reinforced Axe Beta Blade into Brittle Reinforced Axe Blade using Quench Tank.
+   Quench Red Hot Reinforced Axe Beta Blade into Reinforced Axe Beta Blade using Quench Tank.
+   Quench Red Hot Reinforced Axe Blade into Reinforced Axe Blade using Quench Tank.
+   Quench Red Hot Reinforced Axe Delta Blade into Brittle Reinforced Axe Blade using Quench Tank.
+   Quench Red Hot Reinforced Axe Delta Blade into Reinforced Axe Delta Blade using Quench Tank.
+   Quench Red Hot Reinforced Battle Axe Alpha Blade into Brittle Reinforced Battle Axe Blade using Quench Tank.
+   Quench Red Hot Reinforced Battle Axe Alpha Blade into Reinforced Battle Axe Alpha Blade using Quench Tank.
+   Quench Red Hot Reinforced Battle Axe Beta Blade into Brittle Reinforced Battle Axe Blade using Quench Tank.
+   Quench Red Hot Reinforced Battle Axe Beta Blade into Reinforced Battle Axe Beta Blade using Quench Tank.
+   Quench Red Hot Reinforced Battle Axe Blade into Reinforced Battle Axe Blade using Quench Tank.
+   Quench Red Hot Reinforced Battle Axe Delta Blade into Brittle Reinforced Battle Axe Blade using Quench Tank.
+   Quench Red Hot Reinforced Battle Axe Delta Blade into Reinforced Battle Axe Delta Blade using Quench Tank.
+   Quench Red Hot Small Battle Axe Alpha Blade into Brittle Small Battle Axe Blade using Quench Tank.
+   Quench Red Hot Small Battle Axe Alpha Blade into Small Battle Axe Alpha Blade using Quench Tank.
+   Quench Red Hot Small Battle Axe Beta Blade into Brittle Small Battle Axe Blade using Quench Tank.
+   Quench Red Hot Small Battle Axe Beta Blade into Small Battle Axe Beta Blade using Quench Tank.
+   Quench Red Hot Small Battle Axe Blade into Small Battle Axe Blade using Quench Tank.
+   Quench Red Hot Small Battle Axe Delta Blade into Brittle Small Battle Axe Blade using Quench Tank.
+   Quench Red Hot Small Battle Axe Delta Blade into Small Battle Axe Delta Blade using Quench Tank.
+   Quench Super Heated Battle Axe Alpha Blade into Battle Axe Alpha Blade using Quench Tank.
+   Quench Super Heated Battle Axe Beta Blade into Battle Axe Beta Blade using Quench Tank.
+   Quench Super Heated Battle Axe Blade into Battle Axe Blade using Quench Tank.
+   Quench Super Heated Battle Axe Delta Blade into Battle Axe Delta Blade using Quench Tank.
+   Quench Super Heated Dull Battle Axe Blade into Dull Battle Axe Blade using Quench Tank.
+   Quench Super Heated Dull Reinforced Axe Blade into Dull Reinforced Axe Blade using Quench Tank.
+   Quench Super Heated Dull Reinforced Battle Axe Blade into Dull Reinforced Battle Axe Blade using Quench Tank.
+   Quench Super Heated Dull Small Battle Axe Blade into Dull Small Battle Axe Blade using Quench Tank.
+   Quench Super Heated Reinforced Axe Alpha Blade into Reinforced Axe Alpha Blade using Quench Tank.
+   Quench Super Heated Reinforced Axe Beta Blade into Reinforced Axe Beta Blade using Quench Tank.
+   Quench Super Heated Reinforced Axe Blade into Reinforced Axe Blade using Quench Tank.
+   Quench Super Heated Reinforced Axe Delta Blade into Reinforced Axe Delta Blade using Quench Tank.
+   Quench Super Heated Reinforced Battle Axe Alpha Blade into Reinforced Battle Axe Alpha Blade using Quench Tank.
+   Quench Super Heated Reinforced Battle Axe Beta Blade into Reinforced Battle Axe Beta Blade using Quench Tank.
+   Quench Super Heated Reinforced Battle Axe Blade into Reinforced Battle Axe Blade using Quench Tank.
+   Quench Super Heated Reinforced Battle Axe Delta Blade into Reinforced Battle Axe Delta Blade using Quench Tank.
+   Quench Super Heated Small Battle Axe Alpha Blade into Small Battle Axe Alpha Blade using Quench Tank.
+   Quench Super Heated Small Battle Axe Beta Blade into Small Battle Axe Beta Blade using Quench Tank.
+   Quench Super Heated Small Battle Axe Blade into Small Battle Axe Blade using Quench Tank
+   Quench Super Heated Small Battle Axe Delta Blade into Small Battle Axe Delta Blade using Quench Tank.
+-- Reinforced Axe ----- 
+-- Reinforced Axe Alpha Blade ----- 
+-- Reinforced Axe Beta Blade ----- 
+-- Reinforced Axe Blade ----- 
+-- Reinforced Axe Delta Blade ----- 
+-- Reinforced Battle Axe ----- 
+-- Reinforced Battle Axe Alpha Blade ----- 
+-- Reinforced Battle Axe Beta Blade ----- 
+-- Reinforced Battle Axe Blade ----- 
+-- Reinforced Battle Axe Delta Blade ----- 
+   Shape 2 Heated Steel Stock into Battle Axe Alpha Blade using Anvil with a Hammer.
+   Shape 3 Heated Steel Stock into Reinforced Axe Alpha Blade using Anvil with a Hammer.
+   Shape 4 Heated Steel Stock into Reinforced Battle Axe Alpha Blade using Anvil with a Hammer.
+   Shape Half Oak baton into Small Wooden Axe Handle Shape using Smith Table with a Wood Chisel.
+   Shape Heated Battle Axe Alpha Blade into Battle Axe Beta Blade using Anvil with a Hammer.
+   Shape Heated Battle Axe Beta Blade into Battle Axe Delta Blade using Anvil with a Hammer.
+   Shape Heated Battle Axe Blade into Dull Battle Axe Blade using Anvil with a Hammer.
+   Shape Heated Brittle Battle Axe Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Heated Brittle Reinforced Axe Blade into 3 Steel Stock using Anvil with a Hammer.
+   Shape Heated Brittle Reinforced Battle Axe Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Heated Brittle Small Battle Axe Blade into Steel Stock using Anvil with a Hammer.
+   Shape Heated Dull Battle Axe Blade into Dull Battle Axe Blade using Anvil with a Hammer.
+   Shape Heated Dull Reinforced Axe Blade into Dull Reinforced Axe Blade using Anvil with a Hammer.
+   Shape Heated Dull Reinforced Battle Axe Blade into Dull Reinforced Battle Axe Blade using Anvil with a Hammer.
+   Shape Heated Dull Small Battle Axe Blade into Dull Small Battle Axe Blade using Anvil with a Hammer.
+   Shape Heated Reinforced Axe Alpha Blade into Reinforced Axe Beta Blade using Anvil with a Hammer.
+   Shape Heated Reinforced Axe Beta Blade into Reinforced Axe Delta Blade using Anvil with a Hammer.
+   Shape Heated Reinforced Axe Blade into Dull Reinforced Axe Blade using Anvil with a Hammer.
+   Shape Heated Reinforced Battle Axe Alpha Blade into Reinforced Battle Axe Beta Blade using Anvil with a Hammer.
+   Shape Heated Reinforced Battle Axe Beta Blade into Reinforced Battle Axe Delta Blade using Anvil with a Hammer.
+   Shape Heated Reinforced Battle Axe Blade into Dull Reinforced Battle Axe Blade using Anvil with a Hammer.
+   Shape Heated Small Battle Axe Alpha Blade into Small Battle Axe Beta Blade using Anvil with a Hammer.
+   Shape Heated Small Battle Axe Beta Blade into Small Battle Axe Delta Blade using Anvil with a Hammer.
+   Shape Heated Small Battle Axe Blade into Dull Small Battle Axe Blade using Anvil with a Hammer.
+   Shape Heated Steel Stock into Small Battle Axe Alpha Blade using Anvil with a Hammer.
+   Shape Oak Baton into Wooden Axe Handle Shape using Smith Table with a Wood Chisel.
+   Shape Red Hot Battle Axe Alpha Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Battle Axe Beta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Battle Axe Blade into Dull Battle Axe Blade using Anvil with a Hammer.
+   Shape Red Hot Battle Axe Delta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Dull Battle Axe Blade into Dull Battle Axe Blade using Anvil with a Hammer.
+   Shape Red Hot Dull Reinforced Axe Blade into Dull Reinforced Axe Blade using Anvil with a Hammer.
+   Shape Red Hot Dull Reinforced Battle Axe Blade into Dull Reinforced Battle Axe Blade using Anvil with a Hammer.
+   Shape Red Hot Dull Small Battle Axe Blade into Dull Small Battle Axe Blade using Anvil with a Hammer.
+   Shape Red Hot Reinforced Axe Alpha Blade into 3 Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Reinforced Axe Beta Blade into 3 Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Reinforced Axe Blade into Dull Reinforced Axe Blade using Anvil with a Hammer.
+   Shape Red Hot Reinforced Axe Delta Blade into 3 Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Reinforced Battle Axe Alpha Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Reinforced Battle Axe Beta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Reinforced Battle Axe Blade into Dull Reinforced Battle Axe Blade using Anvil with a Hammer.
+   Shape Red Hot Reinforced Battle Axe Delta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Small Battle Axe Alpha Blade into Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Small Battle Axe Beta Blade into Steel Stock using Anvil with a Hammer.
+   Shape Red Hot Small Battle Axe Blade into Dull Small Battle Axe Blade using Anvil with a Hammer.
+   Shape Red Hot Small Battle Axe Delta Blade into Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Battle Axe Alpha Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Battle Axe Beta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Battle Axe Blade into Dull Battle Axe Blade using Anvil with a Hammer.
+   Shape Super Heated Battle Axe Delta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Dull Battle Axe Blade into Dull Battle Axe Blade using Anvil with a Hammer.
+   Shape Super Heated Dull Reinforced Axe Blade into Dull Reinforced Axe Blade using Anvil with a Hammer.
+   Shape Super Heated Dull Reinforced Battle Axe Blade into Dull Reinforced Battle Axe Blade using Anvil with a Hammer.
+   Shape Super Heated Dull Small Battle Axe Blade into Dull Small Battle Axe Blade using Anvil with a Hammer.
+   Shape Super Heated Reinforced Axe Alpha Blade into 3 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Reinforced Axe Beta Blade into 3 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Reinforced Axe Blade into Dull Reinforced Axe Blade using Anvil with a Hammer.
+   Shape Super Heated Reinforced Axe Delta Blade into 3 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Reinforced Battle Axe Alpha Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Reinforced Battle Axe Beta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Reinforced Battle Axe Blade into Dull Reinforced Battle Axe Blade using Anvil with a Hammer.
+   Shape Super Heated Reinforced Battle Axe Delta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Small Battle Axe Alpha Blade into Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Small Battle Axe Beta Blade into Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Small Battle Axe Blade into Dull Small Battle Axe Blade using Anvil with a Hammer.
+   Shape Super Heated Small Battle Axe Delta Blade into Steel Stock using Anvil with a Hammer.
+   Sharpen Dull Battle Axe Blade into Battle Axe Blade using Sharpening Stone.
+   Sharpen Dull Reinforced Axe Blade into Reinforced Axe Blade using Sharpening Stone.
+   Sharpen Dull Reinforced Battle Axe Blade into Reinforced Battle Axe Blade using Sharpening Stone.
+   Sharpen Dull Small Battle Axe Blade into Small Battle Axe Blade using Sharpening Stone.
+-- Small Battle Axe ----- 
+-- Small Battle Axe Alpha Blade ----- 
+-- Small Battle Axe Beta Blade ----- 
+-- Small Battle Axe Blade ----- 
+-- Small Battle Axe Delta Blade ----- 
+-- Small Wooden Axe Handle Shape ----- 
+-- Steel Stock ----- 
+-- Super Heated Dull Battle Axe Blade ----- 
+-- Super Heated Dull Reinforced Axe Blade ----- 
+-- Super Heated Dull Reinforced Battle Axe Blade ----- 
+-- Super Heated Dull Small Battle Axe Blade ----- 
+-- Wooden Axe Handle Shape ----- 

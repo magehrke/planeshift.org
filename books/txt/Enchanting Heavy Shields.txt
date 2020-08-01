@@ -1,0 +1,318 @@
+-- Battle Shield ----- 
+   Combine Round Shield Shape, Shield Handle, Shield Circle, 2 Shield Bands, Round Wicker Shield Core, Shield Edging, into 0 Battle Shield Wicker Kit.
+   Combine Battle Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Battle Shield Wicker Kit.
+   Set Perfect Enchanted Battle Shield Wicker Kit into Battle Shield using Smith Table with a Diamond Crystal.
+   Combine Round Shield Shape, Shield Handle, Shield Circle, 2 Shield Bands, Round Wicker Shield Core, Shield Edging, into 0 Battle Shield Wicker Kit.
+   Combine Battle Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Battle Shield Wicker Kit.
+   Set Sup. Enchanted Battle Shield Wicker Kit into Battle Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Battle Shield Wicker Kit into Battle Shield using Smith Table with a Sapphire Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Shield Handle, Shield Circle, 2 Shield Bands, Round Wooden Shield Core, Shield Edging, into 0 Battle Shield Kit.
+   Combine Battle Shield Kit, Standard Gem Socket, into 1 Enchanted Battle Shield Kit.
+   Set Enchanted Battle Shield Kit into Battle Shield using Smith Table with a Ruby Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Shield Handle, Shield Circle, 2 Shield Bands, Round Wooden Shield Core, Shield Edging, into 0 Battle Shield Kit.
+   Combine Battle Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Battle Shield Kit.
+   Set Perfect Enchanted Battle Shield Kit into Battle Shield using Smith Table with a Diamond Crystal.
+   Combine Round Shield Shape, Shield Handle, Shield Circle, 2 Shield Bands, Round Wicker Shield Core, Shield Edging, into 0 Battle Shield Wicker Kit.
+   Combine Battle Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Battle Shield Wicker Kit.
+   Set Enchanted Battle Shield Wicker Kit into Battle Shield using Smith Table with a Ruby Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Shield Handle, Shield Circle, 2 Shield Bands, Round Wooden Shield Core, Shield Edging, into 0 Battle Shield Kit.
+   Combine Battle Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Battle Shield Kit.
+   Set Sup. Enchanted Battle Shield Kit into Battle Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Battle Shield Kit into Battle Shield using Smith Table with a Sapphire Crystal.
+-- Bulls Eye Shield ----- 
+   Combine Round Shield Shape, Iron Shield Handle, 2 Shield Circles, Iron Circle, 4 Shield Bands, Round Wicker Shield Core, Shield Edging, into 0 Bulls Eye Shield Wicker Kit.
+   Combine Bulls Eye Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Bulls Eye Shield Wicker Kit.
+   Set Enchanted Bulls Eye Shield Wicker Kit into Bulls Eye Shield using Smith Table with a Ruby Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Iron Shield Handle, 2 Shield Circles, Iron Circle, 4 Shield Bands, Round Wooden Shield Core, Shield Edging, into 0 Bulls Eye Shield Kit.
+   Combine Bulls Eye Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Bulls Eye Shield Kit.
+   Set Sup. Enchanted Bulls Eye Shield Kit into Bulls Eye Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Bulls Eye Shield Kit into Bulls Eye Shield using Smith Table with a Sapphire Crystal.
+   Combine Round Shield Shape, Iron Shield Handle, 2 Shield Circles, Iron Circle, 4 Shield Bands, Round Wicker Shield Core, Shield Edging, into 0 Bulls Eye Shield Wicker Kit.
+   Combine Bulls Eye Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Bulls Eye Shield Wicker Kit.
+   Set Perfect Enchanted Bulls Eye Shield Wicker Kit into Bulls Eye Shield using Smith Table with a Diamond Crystal.
+   Combine Round Shield Shape, Iron Shield Handle, 2 Shield Circles, Iron Circle, 4 Shield Bands, Round Wicker Shield Core, Shield Edging, into 0 Bulls Eye Shield Wicker Kit.
+   Combine Bulls Eye Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Bulls Eye Shield Wicker Kit.
+   Set Sup. Enchanted Bulls Eye Shield Wicker Kit into Bulls Eye Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Bulls Eye Shield Wicker Kit into Bulls Eye Shield using Smith Table with a Sapphire Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Iron Shield Handle, 2 Shield Circles, Iron Circle, 4 Shield Bands, Round Wooden Shield Core, Shield Edging, into 0 Bulls Eye Shield Kit.
+   Combine Bulls Eye Shield Kit, Standard Gem Socket, into 1 Enchanted Bulls Eye Shield Kit.
+   Set Enchanted Bulls Eye Shield Kit into Bulls Eye Shield using Smith Table with a Ruby Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Iron Shield Handle, 2 Shield Circles, Iron Circle, 4 Shield Bands, Round Wooden Shield Core, Shield Edging, into 0 Bulls Eye Shield Kit.
+   Combine Bulls Eye Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Bulls Eye Shield Kit.
+   Set Perfect Enchanted Bulls Eye Shield Kit into Bulls Eye Shield using Smith Table with a Diamond Crystal.
+-- Crown Shield ----- 
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, Bronze Circle, Wooden Shield Core, Bronze Band, into 0 Crown Shield Kit.
+   Combine Crown Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Crown Shield Kit.
+   Set Sup. Enchanted Crown Shield Kit into Crown Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Crown Shield Kit into Crown Shield using Smith Table with a Sapphire Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, Bronze Circle, Wooden Shield Core, Bronze Band, into 0 Crown Shield Kit.
+   Combine Crown Shield Kit, Standard Gem Socket, into 1 Enchanted Crown Shield Kit.
+   Set Enchanted Crown Shield Kit into Crown Shield using Smith Table with a Ruby Crystal.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, Bronze Circle, Wicker Shield Core, Bronze Band, into 0 Crown Shield Wicker Kit.
+   Combine Crown Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Crown Shield Wicker Kit.
+   Set Sup. Enchanted Crown Shield Wicker Kit into Crown Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Crown Shield Wicker Kit into Crown Shield using Smith Table with a Sapphire Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, Bronze Circle, Wooden Shield Core, Bronze Band, into 0 Crown Shield Kit.
+   Combine Crown Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Crown Shield Kit.
+   Set Perfect Enchanted Crown Shield Kit into Crown Shield using Smith Table with a Diamond Crystal.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, Bronze Circle, Wicker Shield Core, Bronze Band, into 0 Crown Shield Wicker Kit.
+   Combine Crown Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Crown Shield Wicker Kit.
+   Set Perfect Enchanted Crown Shield Wicker Kit into Crown Shield using Smith Table with a Diamond Crystal.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, Bronze Circle, Wicker Shield Core, Bronze Band, into 0 Crown Shield Wicker Kit.
+   Combine Crown Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Crown Shield Wicker Kit.
+   Set Enchanted Crown Shield Wicker Kit into Crown Shield using Smith Table with a Ruby Crystal.
+-- Enforcer Shield ----- 
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 2 Shield Bands, 2 Shield Spikes, Bronze Circle, Wooden Shield Core, Shield Circle, into 0 Enforcer Shield Kit.
+   Combine Enforcer Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Enforcer Shield Kit.
+   Set Perfect Enchanted Enforcer Shield Kit into Enforcer Shield using Smith Table with a Diamond Crystal.
+   Combine Spiked Shield Shape, Shield Handle, 2 Shield Bands, 2 Shield Spikes, Bronze Circle, Wicker Shield Core, Shield Circle, into 0 Enforcer Shield Wicker Kit.
+   Combine Enforcer Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Enforcer Shield Wicker Kit.
+   Set Sup. Enchanted Enforcer Shield Wicker Kit into Enforcer Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Enforcer Shield Wicker Kit into Enforcer Shield using Smith Table with a Sapphire Crystal.
+   Combine Spiked Shield Shape, Shield Handle, 2 Shield Bands, 2 Shield Spikes, Bronze Circle, Wicker Shield Core, Shield Circle, into 0 Enforcer Shield Wicker Kit.
+   Combine Enforcer Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Enforcer Shield Wicker Kit.
+   Set Enchanted Enforcer Shield Wicker Kit into Enforcer Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 2 Shield Bands, 2 Shield Spikes, Bronze Circle, Wooden Shield Core, Shield Circle, into 0 Enforcer Shield Kit.
+   Combine Enforcer Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Enforcer Shield Kit.
+   Set Sup. Enchanted Enforcer Shield Kit into Enforcer Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Enforcer Shield Kit into Enforcer Shield using Smith Table with a Sapphire Crystal.
+   Combine Spiked Shield Shape, Shield Handle, 2 Shield Bands, 2 Shield Spikes, Bronze Circle, Wicker Shield Core, Shield Circle, into 0 Enforcer Shield Wicker Kit.
+   Combine Enforcer Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Enforcer Shield Wicker Kit.
+   Set Perfect Enchanted Enforcer Shield Wicker Kit into Enforcer Shield using Smith Table with a Diamond Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 2 Shield Bands, 2 Shield Spikes, Bronze Circle, Wooden Shield Core, Shield Circle, into 0 Enforcer Shield Kit.
+   Combine Enforcer Shield Kit, Standard Gem Socket, into 1 Enchanted Enforcer Shield Kit.
+   Set Enchanted Enforcer Shield Kit into Enforcer Shield using Smith Table with a Ruby Crystal.
+-- Golden Shield ----- 
+   Combine 2 Shaped Small Wooden Blocks, into 0 Small Wooden Shield Cores.
+   Combine Small Round Shield Shape, Gold Shield Handle, Gold Circle, 2 Gold Bands, Small Wooden Shield Core, Gold Edging, into 0 Golden Shield Kit.
+   Combine Golden Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Golden Shield Kit.
+   Set Sup. Enchanted Golden Shield Kit into Golden Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Golden Shield Kit into Golden Shield using Smith Table with a Sapphire Crystal.
+   Combine 2 Shaped Small Wooden Blocks, into 0 Small Wooden Shield Cores.
+   Combine Small Round Shield Shape, Gold Shield Handle, Gold Circle, 2 Gold Bands, Small Wooden Shield Core, Gold Edging, into 0 Golden Shield Kit.
+   Combine Golden Shield Kit, Standard Gem Socket, into 1 Enchanted Golden Shield Kit.
+   Set Enchanted Golden Shield Kit into Golden Shield using Smith Table with a Ruby Crystal.
+   Combine Small Round Shield Shape, Gold Shield Handle, Gold Circle, 2 Gold Bands, Small Wicker Shield Core, Gold Edging, into 0 Golden Shield Wicker Kit.
+   Combine Golden Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Golden Shield Wicker Kit.
+   Set Sup. Enchanted Golden Shield Wicker Kit into Golden Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Golden Shield Wicker Kit into Golden Shield using Smith Table with a Sapphire Crystal.
+   Combine 2 Shaped Small Wooden Blocks, into 0 Small Wooden Shield Cores.
+   Combine Small Round Shield Shape, Gold Shield Handle, Gold Circle, 2 Gold Bands, Small Wooden Shield Core, Gold Edging, into 0 Golden Shield Kit.
+   Combine Golden Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Golden Shield Kit.
+   Set Perfect Enchanted Golden Shield Kit into Golden Shield using Smith Table with a Diamond Crystal.
+   Combine Small Round Shield Shape, Gold Shield Handle, Gold Circle, 2 Gold Bands, Small Wicker Shield Core, Gold Edging, into 0 Golden Shield Wicker Kit.
+   Combine Golden Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Golden Shield Wicker Kit.
+   Set Enchanted Golden Shield Wicker Kit into Golden Shield using Smith Table with a Ruby Crystal.
+   Combine Small Round Shield Shape, Gold Shield Handle, Gold Circle, 2 Gold Bands, Small Wicker Shield Core, Gold Edging, into 0 Golden Shield Wicker Kit.
+   Combine Golden Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Golden Shield Wicker Kit.
+   Set Perfect Enchanted Golden Shield Wicker Kit into Golden Shield using Smith Table with a Diamond Crystal.
+-- Perfect Gem Socket ----- 
+   Shape 3 Molten Steels into Perfect Gem Socket using Anvil with a Hammer.
+-- Protector Shield ----- 
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, 2 Bronze Bands, 2 Shield Bands, Wicker Shield Core, Bronze Circle, into 0 Protector Shield Wicker Kit.
+   Combine Protector Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Protector Shield Wicker Kit.
+   Set Sup. Enchanted Protector Shield Wicker Kit into Protector Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Protector Shield Wicker Kit into Protector Shield using Smith Table with a Sapphire Crystal.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, 2 Bronze Bands, 2 Shield Bands, Wicker Shield Core, Bronze Circle, into 0 Protector Shield Wicker Kit.
+   Combine Protector Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Protector Shield Wicker Kit.
+   Set Enchanted Protector Shield Wicker Kit into Protector Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, 2 Bronze Bands, 2 Shield Bands, Wooden Shield Core, Bronze Circle, into 0 Protector Shield Kit.
+   Combine Protector Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Protector Shield Kit.
+   Set Sup. Enchanted Protector Shield Kit into Protector Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Protector Shield Kit into Protector Shield using Smith Table with a Sapphire Crystal.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, 2 Bronze Bands, 2 Shield Bands, Wicker Shield Core, Bronze Circle, into 0 Protector Shield Wicker Kit
+   Combine Protector Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Protector Shield Wicker Kit.
+   Set Perfect Enchanted Protector Shield Wicker Kit into Protector Shield using Smith Table with a Diamond Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, 2 Bronze Bands, 2 Shield Bands, Wooden Shield Core, Bronze Circle, into 0 Protector Shield Kit.
+   Combine Protector Shield Kit, Standard Gem Socket, into 1 Enchanted Protector Shield Kit.
+   Set Enchanted Protector Shield Kit into Protector Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spikes, 2 Bronze Bands, 2 Shield Bands, Wooden Shield Core, Bronze Circle, into 0 Protector Shield Kit.
+   Combine Protector Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Protector Shield Kit.
+   Set Perfect Enchanted Protector Shield Kit into Protector Shield using Smith Table with a Diamond Crystal.
+-- Radiant Shield ----- 
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Bronze Shield Handle, Bronze Circle, 6 Bronze Bands, Round Wooden Shield Core, into 0 Radiant Shield Kit.
+   Combine Radiant Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Radiant Shield Kit.
+   Set Sup. Enchanted Radiant Shield Kit into Radiant Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Radiant Shield Kit into Radiant Shield using Smith Table with a Sapphire Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Bronze Shield Handle, Bronze Circle, 6 Bronze Bands, Round Wooden Shield Core, into 0 Radiant Shield Kit.
+   Combine Radiant Shield Kit, Standard Gem Socket, into 1 Enchanted Radiant Shield Kit.
+   Set Enchanted Radiant Shield Kit into Radiant Shield using Smith Table with a Ruby Crystal.
+   Combine Round Shield Shape, Bronze Shield Handle, Bronze Circle, 6 Bronze Bands, Round Wicker Shield Core, into 0 Radiant Shield Wicker Kit.
+   Combine Radiant Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Radiant Shield Wicker Kit.
+   Set Sup. Enchanted Radiant Shield Wicker Kit into Radiant Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Radiant Shield Wicker Kit into Radiant Shield using Smith Table with a Sapphire Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Bronze Shield Handle, Bronze Circle, 6 Bronze Bands, Round Wooden Shield Core, into 0 Radiant Shield Kit.
+   Combine Radiant Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Radiant Shield Kit.
+   Set Perfect Enchanted Radiant Shield Kit into Radiant Shield using Smith Table with a Diamond Crystal.
+   Combine Round Shield Shape, Bronze Shield Handle, Bronze Circle, 6 Bronze Bands, Round Wicker Shield Core, into 0 Radiant Shield Wicker Kit.
+   Combine Radiant Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Radiant Shield Wicker Kit.
+   Set Enchanted Radiant Shield Wicker Kit into Radiant Shield using Smith Table with a Ruby Crystal.
+   Combine Round Shield Shape, Bronze Shield Handle, Bronze Circle, 6 Bronze Bands, Round Wicker Shield Core, into 0 Radiant Shield Wicker Kit.
+   Combine Radiant Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Radiant Shield Wicker Kit.
+   Set Perfect Enchanted Radiant Shield Wicker Kit into Radiant Shield using Smith Table with a Diamond Crystal.
+-- Shadow Shield ----- 
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 2 Iron Half Circles, Shield Half Circle, 2 Bronze Bands, Round Wooden Shield Core, into 0 Shadow Shield Kit.
+   Combine Shadow Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Shadow Shield Kit.
+   Set Sup. Enchanted Shadow Shield Kit into Shadow Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Shadow Shield Kit into Shadow Shield using Smith Table with a Sapphire Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 2 Iron Half Circles, Shield Half Circle, 2 Bronze Bands, Round Wooden Shield Core, into 0 Shadow Shield Kit.
+   Combine Shadow Shield Kit, Standard Gem Socket, into 1 Enchanted Shadow Shield Kit.
+   Set Enchanted Shadow Shield Kit into Shadow Shield using Smith Table with a Ruby Crystal.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 2 Iron Half Circles, Shield Half Circle, 2 Bronze Bands, Round Wicker Shield Core, into 0 Shadow Shield Wicker Kit.
+   Combine Shadow Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Shadow Shield Wicker Kit.
+   Set Sup. Enchanted Shadow Shield Wicker Kit into Shadow Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Shadow Shield Wicker Kit into Shadow Shield using Smith Table with a Sapphire Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 2 Iron Half Circles, Shield Half Circle, 2 Bronze Bands, Round Wooden Shield Core, into 0 Shadow Shield Kit
+   Combine Shadow Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Shadow Shield Kit.
+   Set Perfect Enchanted Shadow Shield Kit into Shadow Shield using Smith Table with a Diamond Crystal.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 2 Iron Half Circles, Shield Half Circle, 2 Bronze Bands, Round Wicker Shield Core, into 0 Shadow Shield Wicker Kit.
+   Combine Shadow Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Shadow Shield Wicker Kit.
+   Set Enchanted Shadow Shield Wicker Kit into Shadow Shield using Smith Table with a Ruby Crystal.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 2 Iron Half Circles, Shield Half Circle, 2 Bronze Bands, Round Wicker Shield Core, into 0 Shadow Shield Wicker Kit.
+   Combine Shadow Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Shadow Shield Wicker Kit.
+   Set Perfect Enchanted Shadow Shield Wicker Kit into Shadow Shield using Smith Table with a Diamond Crystal.
+-- Standard Gem Socket ----- 
+   Shape 1 Molten Steel into Standard Gem Socket using Anvil with a Hammer.
+-- Sunshine Shield ----- 
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 4 Gold Spikes, 2 Bronze Edgings, Gold Half Circle, Round Wooden Shield Core, into 0 Sunshine Shield Kit.
+   Combine Sunshine Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Sunshine Shield Kit.
+   Set Sup. Enchanted Sunshine Shield Kit into Sunshine Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Sunshine Shield Kit into Sunshine Shield using Smith Table with a Sapphire Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 4 Gold Spikes, 2 Bronze Edgings, Gold Half Circle, Round Wooden Shield Core, into 0 Sunshine Shield Kit.
+   Combine Sunshine Shield Kit, Standard Gem Socket, into 1 Enchanted Sunshine Shield Kit.
+   Set Enchanted Sunshine Shield Kit into Sunshine Shield using Smith Table with a Ruby Crystal.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 4 Gold Spikes, 2 Bronze Edgings, Gold Half Circle, Round Wicker Shield Core, into 0 Sunshine Shield Wicker Kit.
+   Combine Sunshine Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Sunshine Shield Wicker Kit.
+   Set Sup. Enchanted Sunshine Shield Wicker Kit into Sunshine Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Sunshine Shield Wicker Kit into Sunshine Shield using Smith Table with a Sapphire Crystal.
+   Combine 3 Shaped Small Wooden Blocks, into 0 Round Wooden Shield Cores.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 4 Gold Spikes, 2 Bronze Edgings, Gold Half Circle, Round Wooden Shield Core, into 0 Sunshine Shield Kit.
+   Combine Sunshine Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Sunshine Shield Kit.
+   Set Perfect Enchanted Sunshine Shield Kit into Sunshine Shield using Smith Table with a Diamond Crystal.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 4 Gold Spikes, 2 Bronze Edgings, Gold Half Circle, Round Wicker Shield Core, into 0 Sunshine Shield Wicker Kit.
+   Combine Sunshine Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Sunshine Shield Wicker Kit.
+   Set Enchanted Sunshine Shield Wicker Kit into Sunshine Shield using Smith Table with a Ruby Crystal.
+   Combine Round Blue Steel Shield Shape, Shield Handle, 4 Gold Spikes, 2 Bronze Edgings, Gold Half Circle, Round Wicker Shield Core, into 0 Sunshine Shield Wicker Kit.
+   Combine Sunshine Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Sunshine Shield Wicker Kit.
+   Set Perfect Enchanted Sunshine Shield Wicker Kit into Sunshine Shield using Smith Table with a Diamond Crystal.
+-- Superior Gem Socket ----- 
+   Shape2 2 Molten Steels into Superior Gem Socket using Anvil with a Hammer.
+-- Valiant Shield ----- 
+   Combine Shield Shape, Shield Handle, 2 Shield Bands, Wicker Shield Core, 2 Shield Edgings, into 0 Valiant Shield Wicker Kit.
+   Combine Valiant Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Valiant Shield Wicker Kit.
+   Set Enchanted Valiant Shield Wicker Kit into Valiant Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Shield Shape, Shield Handle, 2 Shield Bands, Wooden Shield Core, 2 Shield Edgings, into 0 Valiant Shield Kit.
+   Combine Valiant Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Valiant Shield Kit.
+   Set Sup. Enchanted Valiant Shield Kit into Valiant Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Valiant Shield Kit into Valiant Shield using Smith Table with a Sapphire Crystal.
+   Combine Shield Shape, Shield Handle, 2 Shield Bands, Wicker Shield Core, 2 Shield Edgings, into 0 Valiant Shield Wicker Kit.
+   Combine Valiant Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Valiant Shield Wicker Kit.
+   Set Perfect Enchanted Valiant Shield Wicker Kit into Valiant Shield using Smith Table with a Diamond Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Shield Shape, Shield Handle, 2 Shield Bands, Wooden Shield Core, 2 Shield Edgings, into 0 Valiant Shield Kit.
+   Combine Valiant Shield Kit, Standard Gem Socket, into 1 Enchanted Valiant Shield Kit.
+   Set Enchanted Valiant Shield Kit into Valiant Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Shield Shape, Shield Handle, 2 Shield Bands, Wooden Shield Core, 2 Shield Edgings, into 0 Valiant Shield Kit.
+   Combine Valiant Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Valiant Shield Kit.
+   Set Perfect Enchanted Valiant Shield Kit into Valiant Shield using Smith Table with a Diamond Crystal.
+   Combine Shield Shape, Shield Handle, 2 Shield Bands, Wicker Shield Core, 2 Shield Edgings, into 0 Valiant Shield Wicker Kit.
+   Combine Valiant Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Valiant Shield Wicker Kit.
+   Set Sup. Enchanted Valiant Shield Wicker Kit into Valiant Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Valiant Shield Wicker Kit into Valiant Shield using Smith Table with a Sapphire Crystal.
+-- War Shield ----- 
+   Combine Bronze Shield Shape, Bronze Shield Handle, 3 Shield Bands, Wicker Shield Core, 2 Shield Edgings, into 0 War Shield Wicker Kit.
+   Combine War Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted War Shield Wicker Kit.
+   Set Enchanted War Shield Wicker Kit into War Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Bronze Shield Shape, Bronze Shield Handle, 3 Shield Bands, Wooden Shield Core, 2 Shield Edgings, into 0 War Shield Kit.
+   Combine War Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted War Shield Kit.
+   Set Sup. Enchanted War Shield Kit into War Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted War Shield Kit into War Shield using Smith Table with a Sapphire Crystal.
+   Combine Bronze Shield Shape, Bronze Shield Handle, 3 Shield Bands, Wicker Shield Core, 2 Shield Edgings, into 0 War Shield Wicker Kit.
+   Combine War Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted War Shield Wicker Kit.
+   Set Perfect Enchanted War Shield Wicker Kit into War Shield using Smith Table with a Diamond Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Bronze Shield Shape, Bronze Shield Handle, 3 Shield Bands, Wooden Shield Core, 2 Shield Edgings, into 0 War Shield Kit.
+   Combine War Shield Kit, Standard Gem Socket, into 1 Enchanted War Shield Kit.
+   Set Enchanted War Shield Kit into War Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Bronze Shield Shape, Bronze Shield Handle, 3 Shield Bands, Wooden Shield Core, 2 Shield Edgings, into 0 War Shield Kit.
+   Combine War Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted War Shield Kit.
+   Set Perfect Enchanted War Shield Kit into War Shield using Smith Table with a Diamond Crystal.
+   Combine Bronze Shield Shape, Bronze Shield Handle, 3 Shield Bands, Wicker Shield Core, 2 Shield Edgings, into 0 War Shield Wicker Kit.
+   Combine War Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted War Shield Wicker Kit.
+   Set Sup. Enchanted War Shield Wicker Kit into War Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted War Shield Wicker Kit into War Shield using Smith Table with a Sapphire Crystal.
+-- Warrior Shield ----- 
+   Combine Iron Shield Shape, Shield Handle, Shield Band, Wicker Shield Core, 2 Shield Edgings, into 0 Warrior Shield Wicker Kit.
+   Combine Warrior Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Warrior Shield Wicker Kit.
+   Set Sup. Enchanted Warrior Shield Wicker Kit into Warrior Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Warrior Shield Wicker Kit into Warrior Shield using Smith Table with a Sapphire Crystal.
+   Combine Iron Shield Shape, Shield Handle, Shield Band, Wicker Shield Core, 2 Shield Edgings, into 0 Warrior Shield Wicker Kit.
+   Combine Warrior Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Warrior Shield Wicker Kit.
+   Set Enchanted Warrior Shield Wicker Kit into Warrior Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Iron Shield Shape, Shield Handle, Shield Band, Wooden Shield Core, 2 Shield Edgings, into 0 Warrior Shield Kit.
+   Combine Warrior Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Warrior Shield Kit.
+   Set Sup. Enchanted Warrior Shield Kit into Warrior Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Warrior Shield Kit into Warrior Shield using Smith Table with a Sapphire Crystal.
+   Combine Iron Shield Shape, Shield Handle, Shield Band, Wicker Shield Core, 2 Shield Edgings, into 0 Warrior Shield Wicker Kit.
+   Combine Warrior Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Warrior Shield Wicker Kit.
+   Set Perfect Enchanted Warrior Shield Wicker Kit into Warrior Shield using Smith Table with a Diamond Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Iron Shield Shape, Shield Handle, Shield Band, Wooden Shield Core, 2 Shield Edgings, into 0 Warrior Shield Kit.
+   Combine Warrior Shield Kit, Standard Gem Socket, into 1 Enchanted Warrior Shield Kit.
+   Set Enchanted Warrior Shield Kit into Warrior Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Iron Shield Shape, Shield Handle, Shield Band, Wooden Shield Core, 2 Shield Edgings, into 0 Warrior Shield Kit.
+   Combine Warrior Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Warrior Shield Kit.
+   Set Perfect Enchanted Warrior Shield Kit into Warrior Shield using Smith Table with a Diamond Crystal.
+-- Wheel Shield ----- 
+   Combine Small Round Shield Shape, Shield Handle, 5 Bronze Bands, 2 Shield Circles, Small Wicker Shield Core, 4 Shield Edgings, into 0 Wheel Shield Wicker Kit.
+   Combine Wheel Shield Wicker Kit, Superior Gem Socket, into 1 Sup. Enchanted Wheel Shield Wicker Kit.
+   Set Sup. Enchanted Wheel Shield Wicker Kit into Wheel Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Wheel Shield Wicker Kit into Wheel Shield using Smith Table with a Sapphire Crystal.
+   Combine 2 Shaped Small Wooden Blocks, into 0 Small Wooden Shield Cores.
+   Combine Small Round Shield Shape, Shield Handle, 5 Bronze Bands, 2 Shield Circles, Small Wooden Shield Core, 4 Shield Edgings, into 0 Wheel Shield Kit.
+   Combine Wheel Shield Kit, Standard Gem Socket, into 1 Enchanted Wheel Shield Kit.
+   Set Enchanted Wheel Shield Kit into Wheel Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, into 0 Small Wooden Shield Cores.
+   Combine Small Round Shield Shape, Shield Handle, 5 Bronze Bands, 2 Shield Circles, Small Wooden Shield Core, 4 Shield Edgings, into 0 Wheel Shield Kit.
+   Combine Wheel Shield Kit, Perfect Gem Socket, into 1 Perfect Enchanted Wheel Shield Kit.
+   Set Perfect Enchanted Wheel Shield Kit into Wheel Shield using Smith Table with a Diamond Crystal.
+   Combine Small Round Shield Shape, Shield Handle, 5 Bronze Bands, 2 Shield Circles, Small Wicker Shield Core, 4 Shield Edgings, into 0 Wheel Shield Wicker Kit.
+   Combine Wheel Shield Wicker Kit, Perfect Gem Socket, into 1 Perfect Enchanted Wheel Shield Wicker Kit.
+   Set Perfect Enchanted Wheel Shield Wicker Kit into Wheel Shield using Smith Table with a Diamond Crystal.
+   Combine Small Round Shield Shape, Shield Handle, 5 Bronze Bands, 2 Shield Circles, Small Wicker Shield Core, 4 Shield Edgings, into 0 Wheel Shield Wicker Kit.
+   Combine Wheel Shield Wicker Kit, Standard Gem Socket, into 1 Enchanted Wheel Shield Wicker Kit.
+   Set Enchanted Wheel Shield Wicker Kit into Wheel Shield using Smith Table with a Ruby Crystal.
+   Combine 2 Shaped Small Wooden Blocks, into 0 Small Wooden Shield Cores.
+   Combine Small Round Shield Shape, Shield Handle, 5 Bronze Bands, 2 Shield Circles, Small Wooden Shield Core, 4 Shield Edgings, into 0 Wheel Shield Kit.
+   Combine Wheel Shield Kit, Superior Gem Socket, into 1 Sup. Enchanted Wheel Shield Kit.
+   Set Sup. Enchanted Wheel Shield Kit into Wheel Shield using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Wheel Shield Kit into Wheel Shield using Smith Table with a Sapphire Crystal.

@@ -1,0 +1,193 @@
+-- Brittle Broadsword Blade ----- 
+   Forge Brittle Broadsword Blade into Heated Brittle Broadsword Blade using Forge.
+   Quench Heated Brittle Broadsword Blade into Brittle Broadsword Blade using Quench Tank.
+   Forge Broadsword Alpha Blade into Heated Broadsword Alpha Blade using Forge.
+   Forge Heated Broadsword Alpha Blade into Super Heated Broadsword Alpha Blade using Forge.
+   Forge Super Heated Broadsword Alpha Blade into Red Hot Broadsword Alpha Blade using Forge.
+   Quench Red Hot Broadsword Alpha Blade into Brittle Broadsword Blade using Quench Tank.
+   Forge Broadsword Beta Blade into Heated Broadsword Beta Blade using Forge.
+   Forge Heated Broadsword Beta Blade into Super Heated Broadsword Beta Blade using Forge.
+   Forge Super Heated Broadsword Beta Blade into Red Hot Broadsword Beta Blade using Forge.
+   Quench Red Hot Broadsword Beta Blade into Brittle Broadsword Blade using Quench Tank.
+   Forge Broadsword Delta Blade into Heated Broadsword Delta Blade using Forge.
+   Forge Heated Broadsword Delta Blade into Super Heated Broadsword Delta Blade using Forge.
+   Forge Super Heated Broadsword Delta Blade into Red Hot Broadsword Delta Blade using Forge.
+   Quench Red Hot Broadsword Delta Blade into Brittle Broadsword Blade using Quench Tank.
+-- Brittle Steel Falchion Blade ----- 
+   Forge Brittle Steel Falchion Blade into Heated Brittle Steel Falchion Blade using Forge.
+   Quench Heated Brittle Steel Falchion Blade into Brittle Steel Falchion Blade using Quench Tank.
+   Forge Steel Falchion Alpha Blade into Heated Steel Falchion Alpha Blade using Forge.
+   Forge Heated Steel Falchion Alpha Blade into Super Heated Steel Falchion Alpha Blade using Forge.
+   Forge Super Heated Steel Falchion Alpha Blade into Red Hot Steel Falchion Alpha Blade using Forge.
+   Quench Red Hot Steel Falchion Alpha Blade into Brittle Steel Falchion Blade using Quench Tank.
+   Forge Steel Falchion Beta Blade into Heated Steel Falchion Beta Blade using Forge.
+   Forge Heated Steel Falchion Beta Blade into Super Heated Steel Falchion Beta Blade using Forge.
+   Forge Super Heated Steel Falchion Beta Blade into Red Hot Steel Falchion Beta Blade using Forge.
+   Quench Red Hot Steel Falchion Beta Blade into Brittle Steel Falchion Blade using Quench Tank.
+   Forge Steel Falchion Delta Blade into Heated Steel Falchion Delta Blade using Forge.
+   Forge Heated Steel Falchion Delta Blade into Super Heated Steel Falchion Delta Blade using Forge.
+   Forge Super Heated Steel Falchion Delta Blade into Red Hot Steel Falchion Delta Blade using Forge.
+   Quench Red Hot Steel Falchion Delta Blade into Brittle Steel Falchion Blade using Quench Tank.
+-- Broadsword ----- 
+   Combine Broadsword Blade, Broadsword Handle, into 0 Broadsword Kit.
+   Assemble Broadsword Kit into Broadsword using Smith Table.
+-- Broadsword Alpha Blade ----- 
+   Shape 4 Heated Steel Stock into Broadsword Alpha Blade using Anvil with a Hammer.
+   Forge Broadsword Alpha Blade into Heated Broadsword Alpha Blade using Forge.
+   Quench Heated Broadsword Alpha Blade into Broadsword Alpha Blade using Quench Tank.
+   Forge Heated Broadsword Alpha Blade into Super Heated Broadsword Alpha Blade using Forge.
+   Quench Super Heated Broadsword Alpha Blade into Broadsword Alpha Blade using Quench Tank.
+-- Broadsword Beta Blade ----- 
+   Forge Broadsword Alpha Blade into Heated Broadsword Alpha Blade using Forge.
+   Shape Heated Broadsword Alpha Blade into Broadsword Beta Blade using Anvil with a Hammer.
+   Forge Broadsword Beta Blade into Heated Broadsword Beta Blade using Forge.
+   Quench Heated Broadsword Beta Blade into Broadsword Beta Blade using Quench Tank.
+   Forge Heated Broadsword Beta Blade into Super Heated Broadsword Beta Blade using Forge.
+   Quench Super Heated Broadsword Beta Blade into Broadsword Beta Blade using Quench Tank.
+-- Broadsword Blade ----- 
+   Forge Broadsword Blade into Heated Broadsword Blade using Forge.
+   Quench Heated Broadsword Blade into Broadsword Blade using Quench Tank.
+   Forge Heated Broadsword Blade into Super Heated Broadsword Blade using Forge.
+   Forge Super Heated Broadsword Blade into Red Hot Broadsword Blade using Forge.
+   Quench Red Hot Broadsword Blade into Broadsword Blade using Quench Tank.
+   Quench Super Heated Broadsword Blade into Broadsword Blade using Quench Tank.
+   Sharpen Dull Broadsword Blade into Rough Broadsword Blade using Sharpening Stone.
+   Furrow Rough Broadsword Blade into Broadsword Blade using Smith Table with a Furrower.
+-- Broadsword Delta Blade ----- 
+   Forge Broadsword Delta Blade into Heated Broadsword Delta Blade using Forge.
+   Forge Heated Broadsword Delta Blade into Super Heated Broadsword Delta Blade using Forge.
+   Quench Super Heated Broadsword Delta Blade into Broadsword Delta Blade using Quench Tank.
+   Forge Broadsword Beta Blade into Heated Broadsword Beta Blade using Forge.
+   Shape Heated Broadsword Beta Blade into Broadsword Delta Blade using Anvil with a Hammer.
+   Quench Heated Broadsword Delta Blade into Broadsword Delta Blade using Quench Tank.
+-- Broadsword Handle ----- 
+   Forge Broadsword Handle into Heated Broadsword Handle using Forge.
+   Quench Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+   Shape Heated Broadsword Handle into Broadsword Handle using Anvil with a Hammer.
+   Forge Heated Broadsword Handle into Super Heated Broadsword Handle using Forge.
+   Quench Super Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+   Forge Super Heated Broadsword Handle into Red Hot Broadsword Handle using Forge.
+   Quench Red Hot Broadsword Handle into Broadsword Handle using Quench Tank.
+   Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
+-- Dull Broadsword Blade ----- 
+   Forge Broadsword Blade into Heated Broadsword Blade using Forge.
+   Shape Heated Broadsword Blade into Dull Broadsword Blade using Anvil with a Hammer.
+   Quench Heated Dull Broadsword Blade into Dull Broadsword Blade using Quench Tank.
+   Shape Heated Dull Broadsword Blade into Dull Broadsword Blade using Anvil with a Hammer.
+   Forge Brittle Broadsword Blade into Heated Brittle Broadsword Blade using Forge.
+   Forge Heated Brittle Broadsword Blade into Super Heated Dull Broadsword Blade using Forge.
+   Forge Heated Dull Broadsword Blade into Super Heated Dull Broadsword Blade using Forge.
+   Forge Super Heated Dull Broadsword Blade into Red Hot Dull Broadsword Blade using Forge.
+   Quench Red Hot Dull Broadsword Blade into Dull Broadsword Blade using Quench Tank.
+   Quench Super Heated Dull Broadsword Blade into Dull Broadsword Blade using Quench Tank.
+-- Dull Steel Falchion Blade ----- 
+   Forge Dull Steel Falchion Blade into Heated Dull Steel Falchion Blade using Forge.
+   Shape Heated Dull Steel Falchion Blade into Dull Steel Falchion Blade using Anvil with a Hammer.
+   Quench Heated Dull Steel Falchion Blade into Dull Steel Falchion Blade using Quench Tank.
+   Forge Super Heated Dull Steel Falchion Blade into Red Hot Dull Steel Falchion Blade using Forge.
+   Quench Red Hot Dull Steel Falchion Blade into Dull Steel Falchion Blade using Quench Tank.
+   Quench Super Heated Dull Steel Falchion Blade into Dull Steel Falchion Blade using Quench Tank.
+   Forge Steel Falchion Blade into Heated Steel Falchion Blade using Forge.
+   Shape Heated Steel Falchion Blade into Dull Steel Falchion Blade using Anvil with a Hammer.
+-- Falchion ----- 
+   Combine Steel Falchion Blade, Sword Handle, into 0 Steel Falchion Kit.
+   Assemble Steel Falchion Kit into Falchion using Smith Table.
+-- Heated Dull Broadsword Blade ----- 
+   Forge Dull Broadsword Blade into Heated Dull Broadsword Blade using Forge.
+   Sharpen Dull Broadsword Blade into Rough Broadsword Blade using Sharpening Stone.
+   Forge Rough Broadsword Blade into Heated Dull Broadsword Blade using Forge.
+-- Steel Falchion Alpha Blade ----- 
+   Shape 2 Heated Steel Stock into Steel Falchion Alpha Blade using Anvil with a Hammer.
+   Forge Steel Falchion Alpha Blade into Heated Steel Falchion Alpha Blade using Forge.
+   Quench Heated Steel Falchion Alpha Blade into Steel Falchion Alpha Blade using Quench Tank.
+   Forge Heated Steel Falchion Alpha Blade into Super Heated Steel Falchion Alpha Blade using Forge.
+   Quench Super Heated Steel Falchion Alpha Blade into Steel Falchion Alpha Blade using Quench Tank.
+-- Steel Falchion Beta Blade ----- 
+   Forge Steel Falchion Alpha Blade into Heated Steel Falchion Alpha Blade using Forge.
+   Shape Heated Steel Falchion Alpha Blade into Steel Falchion Beta Blade using Anvil with a Hammer.
+   Forge Steel Falchion Beta Blade into Heated Steel Falchion Beta Blade using Forge.
+   Quench Heated Steel Falchion Beta Blade into Steel Falchion Beta Blade using Quench Tank.
+   Forge Heated Steel Falchion Beta Blade into Super Heated Steel Falchion Beta Blade using Forge.
+   Quench Super Heated Steel Falchion Beta Blade into Steel Falchion Beta Blade using Quench Tank.
+-- Steel Falchion Blade ----- 
+   Forge Steel Falchion Blade into Heated Steel Falchion Blade using Forge.
+   Forge Heated Steel Falchion Blade into Super Heated Steel Falchion Blade using Forge.
+   Forge Super Heated Steel Falchion Blade into Red Hot Steel Falchion Blade using Forge.
+   Quench Red Hot Steel Falchion Blade into Steel Falchion Blade using Quench Tank.
+   Quench Super Heated Steel Falchion Blade into Steel Falchion Blade using Quench Tank.
+   Sharpen Dull Steel Falchion Blade into Steel Falchion Blade using Sharpening Stone.
+   Quench Heated Steel Falchion Blade into Steel Falchion Blade using Quench Tank.
+-- Steel Falchion Delta Blade ----- 
+   Forge Steel Falchion Beta Blade into Heated Steel Falchion Beta Blade using Forge.
+   Shape Heated Steel Falchion Beta Blade into Steel Falchion Delta Blade using Anvil with a Hammer.
+   Forge Steel Falchion Delta Blade into Heated Steel Falchion Delta Blade using Forge.
+   Quench Heated Steel Falchion Delta Blade into Steel Falchion Delta Blade using Quench Tank.
+   Forge Heated Steel Falchion Delta Blade into Super Heated Steel Falchion Delta Blade using Forge.
+   Quench Super Heated Steel Falchion Delta Blade into Steel Falchion Delta Blade using Quench Tank.
+-- Steel Stock ----- 
+   Forge Broadsword Delta Blade into Heated Broadsword Delta Blade using Forge.
+   Forge Heated Broadsword Delta Blade into Super Heated Broadsword Delta Blade using Forge.
+   Shape Super Heated Broadsword Delta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Forge Steel Falchion Blade into Heated Steel Falchion Blade using Forge.
+   Forge Heated Steel Falchion Blade into Super Heated Steel Falchion Blade using Forge.
+   Forge Super Heated Steel Falchion Blade into Red Hot Steel Falchion Blade using Forge.
+   Shape Red Hot Steel Falchion Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Steel Falchion Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Broadsword Blade into Heated Broadsword Blade using Forge.
+   Forge Heated Broadsword Blade into Super Heated Broadsword Blade using Forge.
+   Forge Super Heated Broadsword Blade into Red Hot Broadsword Blade using Forge.
+   Shape Red Hot Broadsword Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Broadsword Blade into 4 Steel Stock using Anvil with a Hammer.
+   Forge Brittle Steel Falchion Blade into Heated Brittle Steel Falchion Blade using Forge.
+   Shape Heated Brittle Steel Falchion Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Brittle Broadsword Blade into Heated Brittle Broadsword Blade using Forge.
+   Shape Heated Brittle Broadsword Blade into 4 Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Dull Steel Falchion Blade into Red Hot Dull Steel Falchion Blade using Forge.
+   Shape Red Hot Dull Steel Falchion Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Dull Steel Falchion Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Heated Brittle Broadsword Blade into Super Heated Dull Broadsword Blade using Forge.
+   Forge Heated Dull Broadsword Blade into Super Heated Dull Broadsword Blade using Forge.
+   Forge Super Heated Dull Broadsword Blade into Red Hot Dull Broadsword Blade using Forge.
+   Shape Red Hot Dull Broadsword Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Dull Broadsword Blade into 4 Steel Stock using Anvil with a Hammer.
+   Forge Steel Falchion Alpha Blade into Heated Steel Falchion Alpha Blade using Forge.
+   Forge Heated Steel Falchion Alpha Blade into Super Heated Steel Falchion Alpha Blade using Forge.
+   Forge Super Heated Steel Falchion Alpha Blade into Red Hot Steel Falchion Alpha Blade using Forge.
+   Shape Red Hot Steel Falchion Alpha Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Steel Falchion Alpha Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Broadsword Alpha Blade into Heated Broadsword Alpha Blade using Forge.
+   Forge Heated Broadsword Alpha Blade into Super Heated Broadsword Alpha Blade using Forge.
+   Forge Super Heated Broadsword Alpha Blade into Red Hot Broadsword Alpha Blade using Forge.
+   Shape Red Hot Broadsword Alpha Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Broadsword Alpha Blade into 4 Steel Stock using Anvil with a Hammer.
+   Forge Steel Falchion Beta Blade into Heated Steel Falchion Beta Blade using Forge.
+   Forge Heated Steel Falchion Beta Blade into Super Heated Steel Falchion Beta Blade using Forge.
+   Forge Super Heated Steel Falchion Beta Blade into Red Hot Steel Falchion Beta Blade using Forge.
+   Shape Red Hot Steel Falchion Beta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Steel Falchion Beta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Broadsword Beta Blade into Heated Broadsword Beta Blade using Forge.
+   Forge Heated Broadsword Beta Blade into Super Heated Broadsword Beta Blade using Forge.
+   Forge Super Heated Broadsword Beta Blade into Red Hot Broadsword Beta Blade using Forge.
+   Shape Red Hot Broadsword Beta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Broadsword Beta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Forge Steel Falchion Delta Blade into Heated Steel Falchion Delta Blade using Forge.
+   Forge Heated Steel Falchion Delta Blade into Super Heated Steel Falchion Delta Blade using Forge.
+   Forge Super Heated Steel Falchion Delta Blade into Red Hot Steel Falchion Delta Blade using Forge.
+   Shape Red Hot Steel Falchion Delta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Steel Falchion Delta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Broadsword Delta Blade into Red Hot Broadsword Delta Blade using Forge.
+   Shape Red Hot Broadsword Delta Blade into 4 Steel Stock using Anvil with a Hammer.
+-- Super Heated Dull Steel Falchion Blade ----- 
+   Forge Brittle Steel Falchion Blade into Heated Brittle Steel Falchion Blade using Forge.
+   Forge Heated Brittle Steel Falchion Blade into Super Heated Dull Steel Falchion Blade using Forge.
+   Forge Dull Steel Falchion Blade into Heated Dull Steel Falchion Blade using Forge.
+   Forge Heated Dull Steel Falchion Blade into Super Heated Dull Steel Falchion Blade using Forge.
+-- Sword Handle ----- 
+   Forge Sword Handle into Heated Sword Handle using Forge.
+   Forge Heated Sword Handle into Super Heated Sword Handle using Forge.
+   Quench Super Heated Sword Handle into Sword Handle using Quench Tank.
+   Forge Super Heated Sword Handle into Red Hot Sword Handle using Forge.
+   Quench Red Hot Sword Handle into Sword Handle using Quench Tank.
+   Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
+   Quench Heated Sword Handle into Sword Handle using Quench Tank.
+   Shape Heated Sword Handle into Sword Handle using Anvil with a Hammer.

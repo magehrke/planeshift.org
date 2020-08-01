@@ -1,0 +1,99 @@
+-- Brassed Delightful Sauce ----- 
+   Combine Zinc Solution, Copper Solution, Crystal sludge, Powdered Ruby Crystal, into 0 Brassed Delightful Sauce Mix.
+   Cerate Brassed Delightful Sauce Mix into 2 Brassed Delightful Sauces using Alchemist Stove with a Wooden Stirrer.
+-- Copper Solution ----- 
+   Combine Powdered Copper, 2 Oil of Vitriol, into 0 Mix of Copper and vitriol.
+   Corrode Mix of Copper and vitriol into 2 Copper Solution using Crucible with a Glass Stirrer.
+-- Crystal sludge ----- 
+   Combine Powdered Ruby Crystal, Powdered Emerald Crystal, 2 Nitric spirits, into 0 Mixed Ruby and Emerald Crystal.
+   Amalgamate Mixed Ruby and Emerald Crystal into Crystal sludge using Melting Pot with a Glass Stirrer.
+   Combine Powdered Diamond Crystal, Powdered Sapphire Crystal, 2 Salt spirits, into 0 Mixed Diamond and Sapphire Crystal.
+   Amalgamate Mixed Diamond and Sapphire Crystal into Crystal sludge using Melting Pot with a Glass Stirrer.
+-- Diamond Popsicle ----- 
+   Combine Crystal sludge, Shards of Diamond Crystal, Powdered Diamond Crystal, into 0 Diamond Popsicle Mix.
+   Amalgamate Diamond Popsicle Mix into 3 Diamond Popsicles using Melting Pot with a Glass Stirrer.
+-- Distilled Water ----- 
+   Distill Water Filled Bucket into 2 Distilled Water using Alembic.
+-- Dusted Diamond and Ruby Delight ----- 
+   Combine Powdered Ruby Crystal, Powdered Diamond Crystal, 4 Small chunk of Coal, into 0 Dusted Diamond and Ruby Delight Mix.
+   Cook Dusted Diamond and Ruby Delight Mix into Dusted Diamond and Ruby Delight using Alchemist Stove with a Iron Stirrer.
+-- Dusted Emerald and Sapphire Delight ----- 
+   Combine Powdered Sapphire Crystal, Powdered Emerald Crystal, 4 Small chunk of Coal, into 0 Dusted Emerald and Sapphire Delight Mix.
+   Cook Dusted Emerald and Sapphire Delight Mix into Dusted Emerald and Sapphire Delight using Alchemist Stove with a Iron Stirrer.
+-- Emerald Popsicle ----- 
+   Combine Crystal sludge, Shards of Emerald Crystal, Powdered Emerald Crystal, into 0 Emerald Popsicle Mix.
+   Amalgamate Emerald Popsicle Mix into 3 Emerald Popsicles using Melting Pot with a Glass Stirrer.
+-- Gold Solution ----- 
+   Combine Nitric spirit, 3 Salt spirits, Powdered Gold, into 0 Mix of Gold niter and salt spirits.
+   Corrode Mix of Gold niter and salt spirit into 2 Gold Solution using Crucible with a Glass Stirrer.
+-- Golden Sunrise ----- 
+   Combine Nitric spirit, Salt spirit, Small chunk of Gold Ore, into 3 Golden Sunrise Mix.
+   Corrode Golden Sunrise Mix into Golden Sunrise using Crucible with a Glass Stirrer.
+-- Kran Ale ----- 
+   Combine Distilled Water, Salt spirit, Vitriol salt, Nitric spirit, into 4 Kran Ale Mix.
+   Corrode Kran Ale Mix into Kran Ale using Crucible with a Glass Stirrer.
+-- Kran Liquor ----- 
+   Combine Quicksilver Solution, Nitric spirit, Distilled Water, into 3 Kran Liquor Mix.
+   Corrode Kran Liquor Mix into Kran Liquor using Crucible with a Glass Stirrer.
+-- Kran Sweeties ----- 
+   Combine Shards of Sapphire Crystal, Shards of Diamond Crystal, Shards of Ruby Crystal, Shards of Emerald Crystal, into 0 Kran Sweeties Mix.
+   Amalgamate Kran Sweeties Mix into 3 Kran Sweeties using Melting Pot with a Glass Stirrer.
+-- Minter's Delight ----- 
+   Combine Small chunk of Silver Ore, Small chunk of Zinc, Powdered Diamond Crystal, Powdered Ruby Crystal, into 0 Minter's Delight Mix.
+   Amalgamate Minter's Delight Mix into Minter's Delight using Melting Pot with a Glass Stirrer.
+-- Nitric spirit ----- 
+   Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol.
+   Distill Mix of niter and vitriol into 2 Nitric spirits using Alembic.
+-- Powdered Copper ----- 
+   Grind Copper Ingot into Powdered Copper using Alchemist Table with a Wooden Mallet.
+-- Powdered Diamond Crystal ----- 
+   Pulverize Diamond Crystal into 2 Powdered Diamond Crystal using Mortar and Pestle.
+-- Powdered Emerald Crystal ----- 
+   Pulverize Emerald Crystal into 2 Powdered Emerald Crystal using Mortar and Pestle.
+-- Powdered Gold ----- 
+   Grind Gold Ingot into Powdered Gold using Alchemist Table with a Wooden Mallet.
+-- Powdered Ruby Crystal ----- 
+   Pulverize Ruby Crystal into 2 Powdered Ruby Crystal using Mortar and Pestle.
+-- Powdered Sapphire Crystal ----- 
+   Pulverize Sapphire Crystal into 2 Powdered Sapphire Crystal using Mortar and Pestle.
+-- Powdered Silver ----- 
+   Grind Silver Ingot into Powdered Silver using Alchemist Table with a Wooden Mallet.
+-- Powdered Tin ----- 
+   Grind Tin Ingot into Powdered Tin using Alchemist Table with a Wooden Mallet.
+-- Powdered Zinc ----- 
+   Grind Zinc Ingot into Powdered Zinc using Alchemist Table with a Wooden Mallet.
+-- Quicksilver Solution ----- 
+   Combine Quicksilver Vial, 2 Oil of Vitriol, into 0 Mix of Quicksilver and vitriol.
+   Corrode Mix of Quicksilver and vitriol into 2 Quicksilver Solution using Crucible with a Glass Stirrer.
+-- Ruby Popsicle ----- 
+   Combine Crystal sludge, Shards of Ruby Crystal, Powdered Ruby Crystal, into 0 Ruby Popsicle Mix.
+   Amalgamate Ruby Popsicle Mix into 3 Ruby Popsicles using Melting Pot with a Glass Stirrer.
+-- Salt spirit ----- 
+   Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol.
+   Corrode Mix of salt and vitriol into 2 Salt spirits using Crucible with a Glass Stirrer.
+-- Sapphire Popsicle ----- 
+   Combine Crystal sludge, Shards of Sapphire Crystal, Powdered Sapphire Crystal, into 0 Sapphire Popsicle Mix.
+   Amalgamate Sapphire Popsicle Mix into 3 Sapphire Popsicles using Melting Pot with a Glass Stirrer.
+-- Silver Solution ----- 
+   Combine Powdered Silver, 2 Oil of Vitriol, into 0 Mix of Silver and vitriol.
+   Corrode Mix of Silver and vitriol into 2 Silver Solution using Crucible with a Glass Stirrer.
+-- Smith's Delight ----- 
+   Combine Small chunk of Iron, Powdered Diamond Crystal, Powdered Ruby Crystal, into 0 Smith's Delight Mix.
+   Amalgamate Smith's Delight Mix into Smith's Delight using Melting Pot with a Glass Stirrer.
+-- Sweet Bronze Sauce ----- 
+   Combine Silver Solution, Tin Solution, Copper Solution, Powdered Sapphire Crystal, Powdered Emerald Crystal, into 0 Sweet Bronze Sauce Mix.
+   Cerate Sweet Bronze Sauce Mix into 2 Sweet Bronze Sauces using Alchemist Stove with a Wooden Stirrer.
+-- Sweet Electrum Sauce ----- 
+   Combine Gold Solution, Copper Solution, Powdered Diamond Crystal, into 0 Sweet Electrum Sauce Mix.
+   Cerate Sweet Electrum Sauce Mix into 2 Sweet Electrum Sauces using Alchemist Stove with a Wooden Stirrer.
+-- Tin Solution ----- 
+   Combine Powdered Tin, 2 Oil of Vitriol, into 0 Mix of Tin and vitriol.
+   Corrode Mix of Tin and vitriol into 2 Tin Solution using Crucible with a Glass Stirrer.
+-- Vitriol salt ----- 
+   Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol.
+   Evaporate Mix of niter and vitriol into 2 Vitriol salt using Athanor.
+   Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol.
+   Evaporate Mix of salt and vitriol into 2 Vitriol salt using Athanor.
+-- Zinc Solution ----- 
+   Combine Powdered Zinc, 2 Oil of Vitriol, into 0 Mix of Zinc and vitriol.
+   Corrode Mix of Zinc and vitriol into 2 Zinc Solution using Crucible with a Glass Stirrer.

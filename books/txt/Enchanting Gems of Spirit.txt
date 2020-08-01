@@ -1,0 +1,16 @@
+-- Diamond Crystal ----- 
+   Enchant Diamond Crystal into Enchanted Diamond Crystal using Enchanter of Spirit with a Dome Glyph, Bond Glyph, Humanoid Glyph, Mind Glyph, Sleep Glyph, Bow Glyph, Sound Glyph.
+   Enchant Diamond Crystal into Enchanted Diamond Crystal using Enchanter of Spirit with a Lava Glyph, Hand Glyph, Fire Glyph, Lightning Glyph, Vortex Glyph, Might Glyph, Meteor Glyph.
+   Enchant Diamond Crystal into Enchanted Diamond Crystal using Enchanter of Spirit with a Illness Glyph, Daemon Glyph, Fear Glyph, Entropy Glyph, Weakness Glyph, Shadow Glyph, Blindness Glyph.
+-- Emerald Crystal ----- 
+   Enchant Emerald Crystal into Enchanted Emerald Crystal using Enchanter of Spirit with a Gas Glyph, Air Glyph, Bond Glyph, Dome Glyph, Mind Glyph, Sound Glyph, Sleep Glyph.
+   Enchant Emerald Crystal into Enchanted Emerald Crystal using Enchanter of Spirit with a Lightning Glyph, Vortex Glyph, Might Glyph, Weapon Glyph, Fire Glyph, Hand Glyph, Lava Glyph.
+   Enchant Emerald Crystal into Enchanted Emerald Crystal using Enchanter of Spirit with a Negate Glyph, Death Glyph, Illness Glyph, Blindness Glyph, Shadow Glyph, Fear Glyph, Weakness Glyph.
+-- Ruby Crystal ----- 
+   Enchant Ruby Crystal into Enchanted Ruby Crystal using Enchanter of Spirit with a Air Glyph.
+   Enchant Ruby Crystal into Enchanted Ruby Crystal using Enchanter of Spirit with a Fire Glyph.
+   Enchant Ruby Crystal into Enchanted Ruby Crystal using Enchanter of Spirit with a Death Glyph.
+-- Sapphire Crystal ----- 
+   Enchant Sapphire Crystal into Enchanted Sapphire Crystal using Enchanter of Spirit with a Bond Glyph, Gas Glyph, Bow Glyph.
+   Enchant Sapphire Crystal into Enchanted Sapphire Crystal using Enchanter of Spirit with a Meteor Glyph, Weapon Glyph, Hand Glyph.
+   Enchant Sapphire Crystal into Enchanted Sapphire Crystal using Enchanter of Spirit with a Death Glyph, Blindness Glyph, Daemon Glyph, Negate Glyph.

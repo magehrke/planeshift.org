@@ -1,0 +1,50 @@
+-- Arrow Shaft ----- 
+   Whittle Threestem Wood into 60 Arrow Shaft using Smith Table with a Kitchen Knife.
+-- Dermorian Hunting Bow ----- 
+   Combine Unstrung Dermorian Hunting Bow, Plant String, into 0 Unbalanced Dermorian Hunting Bow.
+   Balance Unbalanced Dermorian Hunting Bow into Dermorian Hunting Bow using Smith Table.
+-- Enkidukai Hunting Bow ----- 
+   Combine Unstrung Enkidukai Hunting Bow, Tendon String, into 0 Unbalanced Enkidukai Hunting Bow.
+   Balance Unbalanced Enkidukai Hunting Bow into Enkidukai Hunting Bow using Smith Table.
+-- Fletch ----- 
+   Fletch Kikiri Feather into 30 Fletchs using Smith Table with a Kitchen Knife.
+-- Iron Arrow ----- 
+   Combine 60 Arrow Shaft, 60 Iron Arrow Head, 60 Fletchs, into 60 Unassembled Iron Arrow.
+   Assemble Unassembled Iron Arrow into Iron Arrow using Riveter.
+-- Iron Arrow Head ----- 
+   Cast Molten Iron into 60 Iron Arrow Head using Stock Casting with a Arrow-head Mold.
+-- Plant String ----- 
+   Season 3 Couchgrass into Dried Couchgrass using Smith Table.
+   Spin 3 Dried Couchgrass into Thread using Smith Table with a Mandrel.
+   Spin 3 Thread into Plant String using Smith Table with a Mandrel.
+-- Smoothed Wooden Board ----- 
+   Cut Threestem Wood into 2 Wooden Board using Smith Table with a Wood Saw.
+   Cut Wooden Board into 2 Small Wooden Board using Smith Table with a Wood Saw.
+   Smooth Small Wooden Board into Smoothed Wooden Board using Smith Table with a Wood Plane.
+-- Tendon String ----- 
+   Loosen Clacker Leg into Tendon using Smith Table with a Kitchen Knife.
+   Loosen Consumer Leg into 3 Tendon using Smith Table with a Kitchen Knife.
+   Loosen Thunder Clacker Leg into 2 Tendon using Smith Table with a Kitchen Knife.
+   Spin 3 Tendon into Tendon String using Smith Table with a Mandrel.
+-- Unstrung Dermorian Hunting Bow ----- 
+   Cut Threestem Wood into 2 Wooden Board using Smith Table with a Wood Saw.
+   Carve Wooden Board into Wooden Carved Board using Smith Table with a Wood Chisel.
+   Curve Wooden Carved Board into Wooden Carved Curved Board using Smith Table.
+   Season Wooden Carved Curved Board into Unstrung Dermorian Hunting Bow using Smith Table.
+-- Unstrung Enkidukai Hunting Bow ----- 
+   Carve Tefusang Claw into Carved Tefusang Claw using Smith Table with a Wood Chisel.
+   Curve Carved Tefusang Claw into Carved Curved Tefusang Claw using Smith Table.
+   Season Carved Curved Tefusang Claw into Unstrung Enkidukai Hunting Bow using Smith Table.
+-- Unstrung Ynnwn Hunting Bow ----- 
+   Combine Marfusang Bones, Conservation Potion, into 0 Treated Marfusang Bones Kit.
+   Assemble Treated Marfusang Bones Kit into Treated Marfusang Bones using Riveter.
+   Carve Treated Marfusang Bones into Carved Marfusang bones using Smith Table with a Wood Chisel.
+   Curve Carved Marfusang bones into Carved Curved Marfusang Bones using Smith Table.
+   Season Carved Curved Marfusang Bones into Unstrung Ynnwn Hunting Bow using Smith Table.
+-- Wooden Grip ----- 
+   Cut Threestem Wood into 2 Wooden Board using Smith Table with a Wood Saw.
+   Cut Wooden Board into 2 Small Wooden Board using Smith Table with a Wood Saw.
+   Whittle Small Wooden Board into 2 Wooden Grips using Smith Table with a Kitchen Knife.
+-- Ynnwn Hunting Bow ----- 
+   Combine Unstrung Ynnwn Hunting Bow, Tendon String, into 0 Unbalanced Ynnwn Hunting Bow.
+   Balance Unbalanced Ynnwn Hunting Bow into Ynnwn Hunting Bow using Smith Table.

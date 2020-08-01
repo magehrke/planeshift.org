@@ -1,0 +1,53 @@
+-- Chain Mail Arms Armor ----- 
+   Combine 4 Medium Chain Mail Pieces, into 0 Chain Mail Arms Kit.
+   Assemble Chain Mail Arms Kit into Chain Mail Arms Armor using Smith Table.
+-- Chain Mail Boots ----- 
+   Combine 3 Chain Mail Strip, into 0 Small Chain Mail Parts.
+   Weave Small Chain Mail Parts into Small Chain Mail Piece using Smith Table.
+   Combine 2 Small Chain Mail Pieces, 2 Medium Chain Mail Pieces, into 0 Chain Mail Boots Kit.
+   Assemble Chain Mail Boots Kit into Chain Mail Boots using Smith Table.
+-- Chain Mail Gloves ----- 
+   Combine 3 Chain Mail Strip, into 0 Small Chain Mail Parts.
+   Weave Small Chain Mail Parts into Small Chain Mail Piece using Smith Table.
+   Combine 4 Small Chain Mail Pieces, into 0 Chain Mail Gloves Kit.
+   Assemble Chain Mail Gloves Kit into Chain Mail Gloves using Smith Table.
+-- Chain Mail Pants ----- 
+   Combine 3 Chain Mail Strip, into 0 Small Chain Mail Parts.
+   Weave Small Chain Mail Parts into Small Chain Mail Piece using Smith Table.
+   Combine 2 Small Chain Mail Pieces, 2 Large Chain Mail Pieces, into 0 Chain Mail Pants Kit.
+   Assemble Chain Mail Pants Kit into Chain Mail Pants using Smith Table.
+-- Chain Mail Strip ----- 
+   Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+   Wind Steel Wire into Steel Coil using Smith Table with a Mandr
+   Cut Steel Coil into 15 Dozen Open Steel Rings using Smith Table with a Cutters.
+   Hammer Dozen Open Steel Rings into Dozen Closed Steel Rings using Anvil with a Hammer.
+   Combine 4 Dozen Open Steel Rings, Dozen Closed Steel Rings, into 0 Four in One Patterns.
+   Weave 3 Four in One Patterns into Chain Mail Strip using Smith Table.
+   Cut Steel Coil into 15 Dozen Open Steel Rings using Smith Table with a Cutters.
+   Hammer Dozen Open Steel Rings into Dozen Closed Steel Rings using Anvil with a Hammer.
+   Combine 6 Dozen Open Steel Rings, Dozen Closed Steel Rings, into 0 Six in One Patterns.
+   Weave 3 Six in One Patterns into Chain Mail Strip using Smith Table.
+   Combine 4 Dozen Riveted Open Steel Rings, Dozen Riveted Closed Steel Rings, into 0 Riveted Four in One Patterns.
+   Weave 3 Riveted Four in One Patterns into Chain Mail Strip using Smith Table.
+   Combine 6 Dozen Riveted Open Steel Rings, Dozen Riveted Closed Steel Rings, into 0 Riveted Six in One Patterns.
+   Weave 3 Riveted Six in One Patterns into Chain Mail Strip using Smith Table.
+-- Chain Mail Torso Armor ----- 
+   Combine 2 Medium Chain Mail Pieces, 2 Large Chain Mail Pieces, into 0 Chain Mail Torso Kit.
+   Assemble Chain Mail Torso Kit into Chain Mail Torso Armor using Smith Table.
+-- Dozen Riveted Closed Steel Rings ----
+   Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+   Wind Steel Wire into Steel Coil using Smith Table with a Mandrel.
+   Cut Steel Coil into 15 Dozen Open Steel Rings using Smith Table with a Cutters.
+   Hammer Dozen Open Steel Rings into Dozen Closed Steel Rings using Anvil with a Hammer.
+   Rivet Dozen Closed Steel Rings into Dozen Riveted Closed Steel Rings using Riveter.
+-- Dozen Riveted Open Steel Rings ----- 
+   Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+   Wind Steel Wire into Steel Coil using Smith Table with a Mandrel.
+   Cut Steel Coil into 15 Dozen Open Steel Rings using Smith Table with a Cutters.
+   Rivet Dozen Open Steel Rings into Dozen Riveted Open Steel Rings using Riveter.
+-- Large Chain Mail Piece ----- 
+   Combine 9 Chain Mail Strip, into 0 Large Chain Mail Parts.
+   Weave Large Chain Mail Parts into Large Chain Mail Piece using Smith Table.
+-- Medium Chain Mail Piece ----- 
+   Combine 6 Chain Mail Strip, into 0 Medium Chain Mail Parts.
+   Weave Medium Chain Mail Parts into Medium Chain Mail Piece using Smith Table.

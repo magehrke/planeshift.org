@@ -1,0 +1,182 @@
+-- Beer Keg ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Cooled Beer Mash, Liquid Bread Rise, into 0 Beer Wort.
+   Brew Beer Wort into Beer Keg using Brewer's Vat.
+-- Bitter Beer Keg ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Cooled Bitter Mash, Liquid Bread Rise, into 0 Bitter Wort.
+   Brew Bitter Wort into Bitter Beer Keg using Brewer's Vat.
+-- Black Roasted Malt ----- 
+   Roast Sack of Barley into Dry Roasted Barley using Brewer's Kiln.
+   Roast Dry Roasted Barley into Pale Roasted Barley using Brewer's Kiln.
+   Roast Pale Roasted Barley into Crystal Roasted Barley using Brewer's Kiln.
+   Roast Crystal Roasted Barley into Golden Roasted Barley using Brewer's Kiln.
+   Roast Golden Roasted Barley into Brown Roasted Barley using Brewer's Kiln.
+   Roast Brown Roasted Barley into Black Roasted Barley using Brewer's Kiln.
+   Grind Black Roasted Barley into Black Roasted Malt using Mill Stone.
+-- Brewed Mead Base ----- 
+   Combine 8 Honey, Pot of Boiling Water, into 0 Mead Base.
+   Brew Mead Base into Brewed Mead Base using Brewer's Vat.
+-- Brown Ale Keg ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Cooled Brown Ale Mash, Liquid Bread Rise, into 0 Brown Ale Wort.
+   Brew Brown Ale Wort into Brown Ale Keg using Brewer's Vat.
+-- Brown Roasted Malt ----- 
+   Roast Sack of Barley into Dry Roasted Barley using Brewer's Kiln.
+   Roast Dry Roasted Barley into Pale Roasted Barley using Brewer's Kiln.
+   Roast Pale Roasted Barley into Crystal Roasted Barley using Brewer's Kiln.
+   Roast Crystal Roasted Barley into Golden Roasted Barley using Brewer's Kiln.
+   Roast Golden Roasted Barley into Brown Roasted Barley using Brewer's Kiln.
+   Grind Brown Roasted Barley into Brown Roasted Malt using Mill Stone.
+-- Cooled Beer Mash ----- 
+   Combine Heated Beer Mash, 8 Hops, into 0 Boiling Beer Mash.
+   Cool Boiling Beer Mash into Cooled Beer Mash using Brewer's Vat.
+-- Cooled Bitter Mash ----- 
+   Combine Heated Golden Mash, 10 Hops, 2 Pot of Boiling Water, into 0 Boiling Bitter Mash.
+   Cool Boiling Bitter Mash into Cooled Bitter Mash using Brewer's Vat.
+-- Cooled Brown Ale Mash ----- 
+   Combine Heated Brown Mash, 9 Hops, 2 Pot of Boiling Water, into 0 Boiling Brown Ale Mash.
+   Cool Boiling Brown Ale Mash into Cooled Brown Ale Mash using Brewer's Vat.
+-- Cooled Lager Mash ----- 
+   Combine Heated Crystal Mash, 9 Hops, 2 Pot of Boiling Water, into 0 Boiling Lager Mash.
+   Cool Boiling Lager Mash into Cooled Lager Mash using Brewer's Vat.
+-- Cooled Pale Ale Mash ----- 
+   Combine Heated Pale Mash, 8 Hops, 2 Pot of Boiling Water, into 0 Boiling Pale Ale Mash.
+   Cool Boiling Pale Ale Mash into Cooled Pale Ale Mash using Brewer's Vat.
+-- Cooled Stout Mash ----- 
+   Combine Heated Black Mash, 8 Hops, 2 Pot of Boiling Water, into 0 Boiling Stout Mash.
+   Cool Boiling Stout Mash into Cooled Stout Mash using Brewer's Vat.
+-- Crystal Roasted Malt ----- 
+   Roast Sack of Barley into Dry Roasted Barley using Brewer's Kiln.
+   Roast Dry Roasted Barley into Pale Roasted Barley using Brewer's Kiln.
+   Roast Pale Roasted Barley into Crystal Roasted Barley using Brewer's Kiln.
+   Grind Crystal Roasted Barley into Crystal Roasted Malt using Mill Stone.
+-- Dandelion Melomel Barrel ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Strained Dandelion Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Dandelion Melomel.
+   Brew Half Brewed Dandelion Melomel into Dandelion Melomel Barrel using Brewer's Vat.
+-- Dandelion Pulp ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Combine 5 Dandelion Flower, Pot of Hot Water, into 0 Steeping Dandelion Flower.
+   Press Steeping Dandelion Flower into Dandelion Pulp using Fruit Press.
+-- Dash of Powdered Bread Rise ----- 
+   Measure Sack of Powdered Bread Rise into 25 Dash of Powdered Bread Rise using Preparation Table with a Scoop.
+-- Dry Roasted Malt ----- 
+   Roast Sack of Barley into Dry Roasted Barley using Brewer's Kiln.
+   Grind Dry Roasted Barley into Dry Roasted Malt using Mill Stone.
+-- Golden Roasted Malt ----- 
+   Roast Sack of Barley into Dry Roasted Barley using Brewer's Kiln.
+   Roast Dry Roasted Barley into Pale Roasted Barley using Brewer's Kiln.
+   Roast Pale Roasted Barley into Crystal Roasted Barley using Brewer's Kiln.
+   Roast Crystal Roasted Barley into Golden Roasted Barley using Brewer's Kiln.
+   Grind Golden Roasted Barley into Golden Roasted Malt using Mill Stone.
+-- Heated Beer Mash ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Combine 2 Dry Roasted Malt, Pot of Hot Water, into 0 Beer Mash.
+   Heat Beer Mash into Heated Beer Mash using Pot.
+-- Heated Black Mash ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Combine 2 Black Roasted Malt, Pot of Hot Water, into 0 Black Mash.
+   Heat Black Mash into Heated Black Mash using Pot.
+-- Heated Brown Mash ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Combine 2 Brown Roasted Malt, Pot of Hot Water, into 0 Brown Mash.
+   Heat Brown Mash into Heated Brown Mash using Pot.
+-- Heated Crystal Mash ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Combine 2 Crystal Roasted Malt, Pot of Hot Water, into 0 Crystal Mash.
+   Heat Crystal Mash into Heated Crystal Mash using Pot.
+-- Heated Golden Mash ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Combine 2 Golden Roasted Malt, Pot of Hot Water, into 0 Golden Mash.
+   Heat Golden Mash into Heated Golden Mash using Pot.
+-- Heated Pale Mash ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Combine 2 Pale Roasted Malt, Pot of Hot Water, into 0 Pale Mash.
+   Heat Pale Mash into Heated Pale Mash using Pot.
+-- Joopiner Berry Pulp ----- 
+   Press Bunch of Joopiner Berries into Joopiner Berry Pulp using Fruit Press.
+-- Joopiner Melomel Barrel ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Strained Joopiner Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Joopiner Melomel.
+   Brew Half Brewed Joopiner Melomel into Joopiner Melomel Barrel using Brewer's Vat.
+-- Juiceberry Melomel Barrel ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Strained Juiceberry Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Juiceberry Melomel.
+   Brew Half Brewed Juiceberry Melomel into Juiceberry Melomel Barrel using Brewer's Vat.
+-- Juiceberry Pulp ----- 
+   Press Juiceberry Fruit into Juiceberry Pulp using Fruit Press.
+-- Lager Beer Keg ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Cooled Lager Mash, Liquid Bread Rise, into 0 Lager Wort.
+   Brew Lager Wort into Lager Beer Keg using Brewer's Vat.
+-- Macca Melomel Barrel ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Strained Macca Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Macca Melomel.
+   Brew Half Brewed Macca Melomel into Macca Melomel Barrel using Brewer's Vat.
+-- Macca Pulp ----- 
+   Press Macca into Macca Pulp using Fruit Press.
+-- Mead Barrel ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Brewed Mead Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Mead.
+   Brew Half Brewed Mead into Mead Barrel using Brewer's Vat.
+-- Mug of Hot Water ----- 
+   Measure Water Filled Bucket into 28 Water Pouchs using Preparation Table with a Scoop.
+   Heat 2 Water Pouchs into Mug of Hot Water using Pot.
+-- Pale Ale Keg ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Cooled Pale Ale Mash, Liquid Bread Rise, into 0 Pale Ale Wort.
+   Brew Pale Ale Wort into Pale Ale Keg using Brewer's Vat.
+-- Pale Roasted Malt ----- 
+   Roast Sack of Barley into Dry Roasted Barley using Brewer's Kiln.
+   Roast Dry Roasted Barley into Pale Roasted Barley using Brewer's Kiln.
+   Grind Pale Roasted Barley into Pale Roasted Malt using Mill Stone.
+-- Pot of Boiling Water ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Heat Pot of Hot Water into Pot of Simmering Water using Pot.
+   Heat Pot of Simmering Water into Pot of Boiling Water using Pot.
+-- Scoop of Strimptor ----- 
+   Measure Sack of Strimptor into 5 Scoop of Strimptors using Preparation Table with a Scoop.
+-- Stout Beer Keg ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Cooled Stout Mash, Liquid Bread Rise, into 0 Stout Wort.
+   Brew Stout Wort into Stout Beer Keg using Brewer's Vat.
+-- Strained Dandelion Base ----- 
+   Combine 8 Honey, Pot of Boiling Water, into 0 Mead Base.
+   Combine 5 Dandelion Pulp, Mead Base, into 0 Dandelion Base.
+   Brew Dandelion Base into Brewed Dandelion Base using Brewer's Vat.
+   Strain Brewed Dandelion Base into Strained Dandelion Base using Brewer's Vat with a Strainer.
+-- Strained Joopiner Base ----- 
+   Combine 8 Honey, Pot of Boiling Water, into 0 Mead Base.
+   Combine 5 Joopiner Berry Pulp, Mead Base, into 0 Joopiner Berry Base.
+   Brew Joopiner Berry Base into Brewed Joopiner Berry Base using Brewer's Vat.
+   Strain Brewed Joopiner Berry Base into Strained Joopiner Base using Brewer's Vat with a Strainer.
+-- Strained Juiceberry Base ----- 
+   Combine 8 Honey, Pot of Boiling Water, into 0 Mead Base.
+   Combine 5 Juiceberry Pulp, Mead Base, into 0 Juiceberry Base.
+   Brew Juiceberry Base into Brewed Juiceberry Base using Brewer's Vat.
+   Strain Brewed Juiceberry Base into Strained Juiceberry Base using Brewer's Vat with a Strainer.
+-- Strained Macca Base ----- 
+   Combine 8 Honey, Pot of Boiling Water, into 0 Mead Base.
+   Combine 5 Macca Pulp, Mead Base, into 0 Macca Base.
+   Brew Macca Base into Brewed Macca Base using Brewer's Vat.
+   Strain Brewed Macca Base into Strained Macca Base using Brewer's Vat with a Strainer.
+-- Strained Terevan Base ----- 
+   Combine 8 Honey, Pot of Boiling Water, into 0 Mead Base.
+   Combine 5 Terevan Berry Pulp, Mead Base, into 0 Terevan Berry Base.
+   Brew Terevan Berry Base into Brewed Terevan Berry Base using Brewer's Vat.
+   Strain Brewed Terevan Berry Base into Strained Terevan Base using Brewer's Vat with a Strainer.
+-- Terevan Berry Pulp ----- 
+   Press Bunch of Terevan Berries into Terevan Berry Pulp using Fruit Press.
+-- Terevan Melomel Barrel ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise.
+   Combine Strained Terevan Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Terevan Melomel.
+   Brew Half Brewed Terevan Melomel into Terevan Melomel Barrel using Brewer's Vat.

@@ -1,0 +1,249 @@
+-- Gold Chain ----- 
+   Smelt Gold Jewelry Ingot into Small Molten Gold using Furnace.
+   Shape Small Molten Gold into Gold Wire using Forge with a Wire mold.
+   Wind Gold Wire into Gold Coil using Smith Table with a Mandrel.
+   Cut Gold Coil into 5 Gold Necklace Links using Smith Table with a Cutters.
+   Link 50 Gold Necklace Links into Gold Chain using Smith Table with a Pliers.
+-- Gold Diamond Bracer ----- 
+   Combine 2 Unpolished Gold Bracer, Gold Gem Socket, into 1 Gold Gem Bracer Kit.
+   Set Gold Gem Bracer Kit into Unpolished Gold Diamond Bracer using Smith Table with a Diamond Crystal.
+   Polish Unpolished Gold Diamond Bracer into Gold Diamond Bracer using Smith Table with a Kormi Wool.
+-- Gold Diamond Necklace ----- 
+   Combine Unpolished Gold Necklace, Gold Gem Socket, into 1 Gold Gem Necklace Kit.
+   Set Gold Gem Necklace Kit into Unpolished Gold Diamond Necklace using Smith Table with a Diamond Crystal.
+   Polish Unpolished Gold Diamond Necklace into Gold Diamond Necklace using Smith Table with a Kormi Wool.
+-- Gold Diamond Ring ----- 
+   Combine Unpolished Gold Ring, Gold Gem Socket, into 1 Gold Gem Ring Kit.
+   Set Gold Gem Ring Kit into Unpolished Gold Diamond Ring using Smith Table with a Diamond Crystal.
+   Polish Unpolished Gold Diamond Ring into Gold Diamond Ring using Smith Table with a Kormi Wool.
+-- Gold Emerald Bracer ----- 
+   Combine 2 Unpolished Gold Bracer, Gold Gem Socket, into 1 Gold Gem Bracer Kit.
+   Set Gold Gem Bracer Kit into Unpolished Gold Emerald Bracer using Smith Table with a Emerald Crystal.
+   Polish Unpolished Gold Emerald Bracer into Gold Emerald Bracer using Smith Table with a Kormi Wool.
+-- Gold Emerald Necklace ----- 
+   Combine Unpolished Gold Necklace, Gold Gem Socket, into 1 Gold Gem Necklace Kit.
+   Set Gold Gem Necklace Kit into Unpolished Gold Emerald Necklace using Smith Table with a Emerald Crystal.
+   Polish Unpolished Gold Emerald Necklace into Gold Emerald Necklace using Smith Table with a Kormi Wool.
+-- Gold Emerald Ring ----- 
+   Combine Unpolished Gold Ring, Gold Gem Socket, into 1 Gold Gem Ring Kit.
+   Set Gold Gem Ring Kit into Unpolished Gold Emerald Ring using Smith Table with a Emerald Crystal.
+   Polish Unpolished Gold Emerald Ring into Gold Emerald Ring using Smith Table with a Kormi Wool.
+-- Gold Gem Socket ----- 
+   Smelt Gold Jewelry Ingot into Small Molten Gold using Furnace.
+   Shape Small Molten Gold into Gold Wire using Forge with a Wire mold.
+   Cut Gold Wire into 4 Gold Strands using Smith Table with a Cutters.
+   Shape 2 Gold Strands into Gold Gem Socket using Smith Table with a Pliers.
+-- Gold Jewelry Ingot ----- 
+   Cast Molten Gold into 5 Gold Jewelry Ingot using Stock Casting.
+   Forge Gold Jewelry Ingot into Heated Gold Jewelry Ingot using Forge.
+   Quench Heated Gold Jewelry Ingot into Gold Jewelry Ingot using Quench Tank.
+   Smelt Gold Jewelry Ingot into Small Molten Gold using Furnace.
+   Cast Small Molten Gold into Gold Jewelry Ingot using Stock Casting.
+-- Gold Necklace Clasp ----- 
+   Smelt Gold Jewelry Ingot into Small Molten Gold using Furnace.
+   Shape Small Molten Gold into Gold Wire using Forge with a Wire mold.
+   Wind Gold Wire into Gold Coil using Smith Table with a Mandrel.
+   Cut Gold Coil into 5 Gold Necklace Links using Smith Table with a Cutters.
+   Shape 2 Gold Necklace Links into Gold Necklace Clasp using Smith Table with a Pliers.
+-- Gold Ruby Bracer ----- 
+   Combine 2 Unpolished Gold Bracer, Gold Gem Socket, into 1 Gold Gem Bracer Kit.
+   Set Gold Gem Bracer Kit into Unpolished Gold Ruby Bracer using Smith Table with a Ruby Crystal.
+   Polish Unpolished Gold Ruby Bracer into Gold Ruby Bracer using Smith Table with a Kormi Wool.
+-- Gold Ruby Necklace ----- 
+   Combine Unpolished Gold Necklace, Gold Gem Socket, into 1 Gold Gem Necklace Kit.
+   Set Gold Gem Necklace Kit into Unpolished Gold Ruby Necklace using Smith Table with a Ruby Crystal.
+   Polish Unpolished Gold Ruby Necklace into Gold Ruby Necklace using Smith Table with a Kormi Wool.
+-- Gold Ruby Ring ----- 
+   Combine Unpolished Gold Ring, Gold Gem Socket, into 1 Gold Gem Ring Kit.
+   Set Gold Gem Ring Kit into Unpolished Gold Ruby Ring using Smith Table with a Ruby Crystal.
+   Polish Unpolished Gold Ruby Ring into Gold Ruby Ring using Smith Table with a Kormi Wool.
+-- Gold Sapphire Bracer ----- 
+   Combine 2 Unpolished Gold Bracer, Gold Gem Socket, into 1 Gold Gem Bracer Kit.
+   Set Gold Gem Bracer Kit into Unpolished Gold Sapphire Bracer using Smith Table with a Sapphire Crystal.
+   Polish Unpolished Gold Sapphire Bracer into Gold Sapphire Bracer using Smith Table with a Kormi Wool.
+-- Gold Sapphire Necklace ----- 
+   Combine Unpolished Gold Necklace, Gold Gem Socket, into 1 Gold Gem Necklace Kit.
+   Set Gold Gem Necklace Kit into Unpolished Gold Sapphire Necklace using Smith Table with a Sapphire Crystal.
+   Polish Unpolished Gold Sapphire Necklace into Gold Sapphire Necklace using Smith Table with a Kormi Wool.
+-- Gold Sapphire Ring ----- 
+   Combine Unpolished Gold Ring, Gold Gem Socket, into 1 Gold Gem Ring Kit.
+   Set Gold Gem Ring Kit into Unpolished Gold Sapphire Ring using Smith Table with a Sapphire Crystal.
+   Polish Unpolished Gold Sapphire Ring into Gold Sapphire Ring using Smith Table with a Kormi Wool.
+-- Half Gold Bracer ----- 
+   Forge Gold Jewelry Ingot into Heated Gold Jewelry Ingot using Forge.
+   Hammer Heated Gold Jewelry Ingot into Half Gold Bracer using Anvil with a Hammer.
+-- Half Platinum Bracer ----- 
+   Forge Platinum Jewelry Ingot into Heated Platinum Jewelry Ingot using Forge.
+   Hammer Heated Platinum Jewelry Ingot into Half Platinum Bracer using Anvil with a Hammer.
+-- Half Silver Bracer ----- 
+   Forge Silver Jewelry Ingot into Heated Silver Jewelry Ingot using Forge.
+   Hammer Heated Silver Jewelry Ingot into Half Silver Bracer using Anvil with a Hammer.
+-- Platinum Chain ----- 
+   Smelt Platinum Jewelry Ingot into Small Molten Platinum using Furnace.
+   Shape Small Molten Platinum into Platinum Wire using Forge with a Wire mold.
+   Wind Platinum Wire into Platinum Coil using Smith Table with a Mandrel.
+   Cut Platinum Coil into 5 Platinum Necklace Links using Smith Table with a Cutters.
+   Link 50 Platinum Necklace Links into Platinum Chain using Smith Table with a Pliers.
+-- Platinum Diamond Bracer ---
+   Combine 2 Unpolished Platinum Bracer, Platinum Gem Socket, into 1 Platinum Gem Bracer Kit.
+   Set Platinum Gem Bracer Kit into Unpolished Platinum Diamond Bracer using Smith Table with a Diamond Crystal.
+   Polish Unpolished Platinum Diamond Bracer into Platinum Diamond Bracer using Smith Table with a Kormi Wool.
+-- Platinum Diamond Necklace ----- 
+   Combine Unpolished Platinum Necklace, Platinum Gem Socket, into 1 Platinum Gem Necklace Kit.
+   Set Platinum Gem Necklace Kit into Unpolished Platinum Diamond Necklace using Smith Table with a Diamond Crystal.
+   Polish Unpolished Platinum Diamond Necklace into Platinum Diamond Necklace using Smith Table with a Kormi Wool.
+-- Platinum Diamond Ring ----- 
+   Combine Unpolished Platinum Ring, Platinum Gem Socket, into 1 Platinum Gem Ring Kit.
+   Set Platinum Gem Ring Kit into Unpolished Platinum Diamond Ring using Smith Table with a Diamond Crystal.
+   Polish Unpolished Platinum Diamond Ring into Platinum Diamond Ring using Smith Table with a Kormi Wool.
+-- Platinum Emerald Bracer ----- 
+   Combine 2 Unpolished Platinum Bracer, Platinum Gem Socket, into 1 Platinum Gem Bracer Kit.
+   Set Platinum Gem Bracer Kit into Unpolished Platinum Emerald Bracer using Smith Table with a Emerald Crystal.
+   Polish Unpolished Platinum Emerald Bracer into Platinum Emerald Bracer using Smith Table with a Kormi Wool.
+-- Platinum Emerald Necklace ----- 
+   Combine Unpolished Platinum Necklace, Platinum Gem Socket, into 1 Platinum Gem Necklace Kit.
+   Set Platinum Gem Necklace Kit into Unpolished Platinum Emerald Necklace using Smith Table with a Emerald Crystal.
+   Polish Unpolished Platinum Emerald Necklace into Platinum Emerald Necklace using Smith Table with a Kormi Wool.
+-- Platinum Emerald Ring ----- 
+   Combine Unpolished Platinum Ring, Platinum Gem Socket, into 1 Platinum Gem Ring Kit.
+   Set Platinum Gem Ring Kit into Unpolished Platinum Emerald Ring using Smith Table with a Emerald Crystal.
+   Polish Unpolished Platinum Emerald Ring into Platinum Emerald Ring using Smith Table with a Kormi Wool.
+-- Platinum Gem Socket ----- 
+   Smelt Platinum Jewelry Ingot into Small Molten Platinum using Furnace.
+   Shape Small Molten Platinum into Platinum Wire using Forge with a Wire mold.
+   Cut Platinum Wire into 4 Platinum Strands using Smith Table with a Cutters.
+   Shape 2 Platinum Strands into Platinum Gem Socket using Smith Table with a Pliers.
+-- Platinum Jewelry Ingot ----- 
+   Cast Molten Platinum into 5 Platinum Jewelry Ingot using Stock Casting.
+   Forge Platinum Jewelry Ingot into Heated Platinum Jewelry Ingot using Forge.
+   Quench Heated Platinum Jewelry Ingot into Platinum Jewelry Ingot using Quench Tank.
+   Smelt Platinum Jewelry Ingot into Small Molten Platinum using Furnace.
+   Cast Small Molten Platinum into Platinum Jewelry Ingot using Stock Casting.
+-- Platinum Necklace Clasp ----- 
+   Smelt Platinum Jewelry Ingot into Small Molten Platinum using Furnace.
+   Shape Small Molten Platinum into Platinum Wire using Forge with a Wire mold.
+   Wind Platinum Wire into Platinum Coil using Smith Table with a Mandrel.
+   Cut Platinum Coil into 5 Platinum Necklace Links using Smith Table with a Cutters.
+   Shape 2 Platinum Necklace Links into Platinum Necklace Clasp using Smith Table with a Pliers.
+-- Platinum Ruby Bracer ----- 
+   Combine 2 Unpolished Platinum Bracer, Platinum Gem Socket, into 1 Platinum Gem Bracer Kit.
+   Set Platinum Gem Bracer Kit into Unpolished Platinum Ruby Bracer using Smith Table with a Ruby Crystal.
+   Polish Unpolished Platinum Ruby Bracer into Platinum Ruby Bracer using Smith Table with a Kormi Wool.
+-- Platinum Ruby Necklace ----- 
+   Combine Unpolished Platinum Necklace, Platinum Gem Socket, into 1 Platinum Gem Necklace Kit.
+   Set Platinum Gem Necklace Kit into Unpolished Platinum Ruby Necklace using Smith Table with a Ruby Crystal.
+   Polish Unpolished Platinum Ruby Necklace into Platinum Ruby Necklace using Smith Table with a Kormi Wool.
+-- Platinum Ruby Ring ----- 
+   Combine Unpolished Platinum Ring, Platinum Gem Socket, into 1 Platinum Gem Ring Kit.
+   Set Platinum Gem Ring Kit into Unpolished Platinum Ruby Ring using Smith Table with a Ruby Crystal.
+   Polish Unpolished Platinum Ruby Ring into Platinum Ruby Ring using Smith Table with a Kormi Wool.
+-- Platinum Sapphire Bracer ----- 
+   Combine 2 Unpolished Platinum Bracer, Platinum Gem Socket, into 1 Platinum Gem Bracer Kit.
+   Set Platinum Gem Bracer Kit into Unpolished Platinum Sapphire Bracer using Smith Table with a Sapphire Crystal.
+   Polish Unpolished Platinum Sapphire Bracer into Platinum Sapphire Bracer using Smith Table with a Kormi Wool.
+-- Platinum Sapphire Necklace ----- 
+   Combine Unpolished Platinum Necklace, Platinum Gem Socket, into 1 Platinum Gem Necklace Kit.
+   Set Platinum Gem Necklace Kit into Unpolished Platinum Sapphire Necklace using Smith Table with a Sapphire Crystal.
+   Polish Unpolished Platinum Sapphire Necklace into Platinum Sapphire Necklace using Smith Table with a Kormi Wool.
+-- Platinum Sapphire Ring ----- 
+   Combine Unpolished Platinum Ring, Platinum Gem Socket, into 1 Platinum Gem Ring Kit.
+   Set Platinum Gem Ring Kit into Unpolished Platinum Sapphire Ring using Smith Table with a Sapphire Crystal.
+   Polish Unpolished Platinum Sapphire Ring into Platinum Sapphire Ring using Smith Table with a Kormi Wool.
+-- Silver Chain ----- 
+   Smelt Silver Jewelry Ingot into Small Molten Silver using Furnace.
+   Shape Small Molten Silver into Silver Wire using Forge with a Wire mold.
+   Wind Silver Wire into Silver Coil using Smith Table with a Mandrel.
+   Cut Silver Coil into 5 Silver Necklace Links using Smith Table with a Cutters.
+   Link 50 Silver Necklace Links into Silver Chain using Smith Table with a Pliers.
+-- Silver Diamond Bracer ----- 
+   Combine 2 Unpolished Silver Bracer, Silver Gem Socket, into 1 Silver Gem Bracer Kit.
+   Set Silver Gem Bracer Kit into Unpolished Silver Diamond Bracer using Smith Table with a Diamond Crystal.
+   Polish Unpolished Silver Diamond Bracer into Silver Diamond Bracer using Smith Table with a Kormi Wool.
+-- Silver Diamond Necklace ----- 
+   Combine Unpolished Silver Necklace, Silver Gem Socket, into 1 Silver Gem Necklace Kit.
+   Set Silver Gem Necklace Kit into Unpolished Silver Diamond Necklace using Smith Table with a Diamond Crystal.
+   Polish Unpolished Silver Diamond Necklace into Silver Diamond Necklace using Smith Table with a Kormi Wool.
+-- Silver Diamond Ring ----- 
+   Combine Unpolished Silver Ring, Silver Gem Socket, into 1 Silver Gem Ring Kit.
+   Set Silver Gem Ring Kit into Unpolished Silver Diamond Ring using Smith Table with a Diamond Crystal.
+   Polish Unpolished Silver Diamond Ring into Silver Diamond Ring using Smith Table with a Kormi Wool.
+-- Silver Emerald Bracer ----- 
+   Combine 2 Unpolished Silver Bracer, Silver Gem Socket, into 1 Silver Gem Bracer Kit.
+   Set Silver Gem Bracer Kit into Unpolished Silver Emerald Bracer using Smith Table with a Emerald Crystal.
+   Polish Unpolished Silver Emerald Bracer into Silver Emerald Bracer using Smith Table with a Kormi Wool.
+-- Silver Emerald Necklace ----- 
+   Combine Unpolished Silver Necklace, Silver Gem Socket, into 1 Silver Gem Necklace Kit.
+   Set Silver Gem Necklace Kit into Unpolished Silver Emerald Necklace using Smith Table with a Emerald Crystal.
+   Polish Unpolished Silver Emerald Necklace into Silver Emerald Necklace using Smith Table with a Kormi Wool.
+-- Silver Emerald Ring ----- 
+   Combine Unpolished Silver Ring, Silver Gem Socket, into 1 Silver Gem Ring Kit.
+   Set Silver Gem Ring Kit into Unpolished Silver Emerald Ring using Smith Table with a Emerald Crystal.
+   Polish Unpolished Silver Emerald Ring into Silver Emerald Ring using Smith Table with a Kormi Wool.
+-- Silver Gem Socket ----- 
+   Smelt Silver Jewelry Ingot into Small Molten Silver using Furnace.
+   Shape Small Molten Silver into Silver Wire using Forge with a Wire mold.
+   Cut Silver Wire into 4 Silver Strands using Smith Table with a Cutters.
+   Shape 2 Silver Strands into Silver Gem Socket using Smith Table with a Pliers.
+-- Silver Jewelry Ingot ----- 
+   Forge Silver Jewelry Ingot into Heated Silver Jewelry Ingot using Forge.
+   Quench Heated Silver Jewelry Ingot into Silver Jewelry Ingot using Quench Tank.
+   Smelt Silver Jewelry Ingot into Small Molten Silver using Furnace.
+   Cast Small Molten Silver into Silver Jewelry Ingot using Stock Casting.
+   Cast Molten Silver into 5 Silver Jewelry Ingot using Stock Casting.
+-- Silver Necklace Clasp ----- 
+   Smelt Silver Jewelry Ingot into Small Molten Silver using Furnace.
+   Shape Small Molten Silver into Silver Wire using Forge with a Wire mold.
+   Wind Silver Wire into Silver Coil using Smith Table with a Mandrel.
+   Cut Silver Coil into 5 Silver Necklace Links using Smith Table with a Cutters.
+   Shape 2 Silver Necklace Links into Silver Necklace Clasp using Smith Table with a Pliers.
+-- Silver Ruby Bracer ----- 
+   Combine 2 Unpolished Silver Bracer, Silver Gem Socket, into 1 Silver Gem Bracer Kit.
+   Set Silver Gem Bracer Kit into Unpolished Silver Ruby Bracer using Smith Table with a Ruby Crystal.
+   Polish Unpolished Silver Ruby Bracer into Silver Ruby Bracer using Smith Table with a Kormi Wool.
+-- Silver Ruby Necklace ----- 
+   Combine Unpolished Silver Necklace, Silver Gem Socket, into 1 Silver Gem Necklace Kit.
+   Set Silver Gem Necklace Kit into Unpolished Silver Ruby Necklace using Smith Table with a Ruby Crystal.
+   Polish Unpolished Silver Ruby Necklace into Silver Ruby Necklace using Smith Table with a Kormi Wool.
+-- Silver Ruby Ring ----- 
+   Combine Unpolished Silver Ring, Silver Gem Socket, into 1 Silver Gem Ring Kit.
+   Set Silver Gem Ring Kit into Unpolished Silver Ruby Ring using Smith Table with a Ruby Crystal.
+   Polish Unpolished Silver Ruby Ring into Silver Ruby Ring using Smith Table with a Kormi Wool.
+-- Silver Sapphire Bracer ----- 
+   Combine 2 Unpolished Silver Bracer, Silver Gem Socket, into 1 Silver Gem Bracer Kit.
+   Set Silver Gem Bracer Kit into Unpolished Silver Sapphire Bracer using Smith Table with a Sapphire Crystal.
+   Polish Unpolished Silver Sapphire Bracer into Silver Sapphire Bracer using Smith Table with a Kormi Wool.
+-- Silver Sapphire Necklace ----- 
+   Combine Unpolished Silver Necklace, Silver Gem Socket, into 1 Silver Gem Necklace Kit.
+   Set Silver Gem Necklace Kit into Unpolished Silver Sapphire Necklace using Smith Table with a Sapphire Crystal.
+   Polish Unpolished Silver Sapphire Necklace into Silver Sapphire Necklace using Smith Table with a Kormi Wool.
+-- Silver Sapphire Ring ----- 
+   Combine Unpolished Silver Ring, Silver Gem Socket, into 1 Silver Gem Ring Kit.
+   Set Silver Gem Ring Kit into Unpolished Silver Sapphire Ring using Smith Table with a Sapphire Crystal.
+   Polish Unpolished Silver Sapphire Ring into Silver Sapphire Ring using Smith Table with a Kormi Wool.
+-- Unpolished Gold Bracer ----- 
+   Combine 2 Half Gold Bracer, 2 Leather String, into 0 Gold Bracer Kit.
+   Assemble Gold Bracer Kit into Unpolished Gold Bracer using Smith Table with a Pliers.
+-- Unpolished Gold Necklace ----- 
+   Combine Gold Chain, Gold Necklace Clasp, into 0 Gold Necklace Kit.
+   Assemble Gold Necklace Kit into Unpolished Gold Necklace using Smith Table with a Pliers.
+-- Unpolished Gold Ring ----- 
+   Smelt Gold Jewelry Ingot into Small Molten Gold using Furnace.
+   Mold Small Molten Gold into Unpolished Gold Ring using Forge with a Ring Mold.
+-- Unpolished Platinum Bracer ----- 
+   Combine 2 Half Platinum Bracer, 2 Leather String, into 0 Platinum Bracer Kit.
+   Assemble Platinum Bracer Kit into Unpolished Platinum Bracer using Smith Table with a Pliers.
+-- Unpolished Platinum Necklace ----- 
+   Combine Platinum Chain, Platinum Necklace Clasp, into 0 Platinum Necklace Kit.
+   Assemble Platinum Necklace Kit into Unpolished Platinum Necklace using Smith Table with a Pliers.
+-- Unpolished Platinum Ring ----- 
+   Smelt Platinum Jewelry Ingot into Small Molten Platinum using Furnace.
+   Mold Small Molten Platinum into Unpolished Platinum Ring using Forge with a Ring Mold.
+-- Unpolished Silver Bracer ----- 
+   Combine 2 Half Silver Bracer, 2 Leather String, into 0 Silver Bracer Kit.
+   Assemble Silver Bracer Kit into Unpolished Silver Bracer using Smith Table with a Pliers.
+-- Unpolished Silver Necklace ----- 
+   Combine Silver Chain, Silver Necklace Clasp, into 0 Silver Necklace Kit.
+   Assemble Silver Necklace Kit into Unpolished Silver Necklace using Smith Table with a Pliers.
+-- Unpolished Silver Ring ----- 
+   Smelt Silver Jewelry Ingot into Small Molten Silver using Furnace.
+   Mold Small Molten Silver into Unpolished Silver Ring using Forge with a Ring Mold.

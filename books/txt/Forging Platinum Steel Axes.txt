@@ -1,0 +1,336 @@
+-- Platinum Steel Battle Axe ----- 
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handles.
+   Combine Wooden Axe Handle, Platinum Steel Battle Axe Blade, into 0 Platinum Steel Battle Axe Kit.
+   Assemble Platinum Steel Battle Axe Kit into Platinum Steel Battle Axe using Smith Table.
+-- Platinum Steel Battle Axe Alpha Blade ----- 
+   Shape 2 Heated Platinum Steel Stock into Platinum Steel Battle Axe Alpha Blade using Anvil with a Hammer.
+   Forge Platinum Steel Battle Axe Alpha Blade into Heated Platinum Steel Battle Axe Alpha Blade using Forge.
+   Quench Heated Platinum Steel Battle Axe Alpha Blade into Platinum Steel Battle Axe Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Battle Axe Alpha Blade into Super Heated Platinum Steel Battle Axe Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Battle Axe Alpha Blade into Platinum Steel Battle Axe Alpha Blade using Quench Tank.
+-- Platinum Steel Battle Axe Beta Blade ----- 
+   Forge Platinum Steel Battle Axe Alpha Blade into Heated Platinum Steel Battle Axe Alpha Blade using Forge.
+   Shape Heated Platinum Steel Battle Axe Alpha Blade into Platinum Steel Battle Axe Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Battle Axe Beta Blade into Heated Platinum Steel Battle Axe Beta Blade using Forge.
+   Quench Heated Platinum Steel Battle Axe Beta Blade into Platinum Steel Battle Axe Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Battle Axe Beta Blade into Super Heated Platinum Steel Battle Axe Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Battle Axe Beta Blade into Platinum Steel Battle Axe Beta Blade using Quench Tank.
+-- Platinum Steel Battle Axe Blade ----- 
+   Sharpen Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Blade using Sharpening Stone.
+   Forge Platinum Steel Battle Axe Blade into Heated Platinum Steel Battle Axe Blade using Forge.
+   Quench Heated Platinum Steel Battle Axe Blade into Platinum Steel Battle Axe Blade using Quench Tank.
+   Forge Heated Platinum Steel Battle Axe Blade into Super Heated Platinum Steel Battle Axe Blade using Forge.
+   Quench Super Heated Platinum Steel Battle Axe Blade into Platinum Steel Battle Axe Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Battle Axe Blade into Red Hot Platinum Steel Battle Axe Blade using Forge.
+   Quench Red Hot Platinum Steel Battle Axe Blade into Platinum Steel Battle Axe Blade using Quench Tank.
+-- Platinum Steel Battle Axe Brittle Blade ----- 
+   Forge Platinum Steel Battle Axe Delta Blade into Heated Platinum Steel Battle Axe Delta Blade using Forge.
+   Forge Heated Platinum Steel Battle Axe Delta Blade into Super Heated Platinum Steel Battle Axe Delta Blade using Forg
+   Forge Super Heated Platinum Steel Battle Axe Delta Blade into Red Hot Platinum Steel Battle Axe Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Battle Axe Delta Blade into Platinum Steel Battle Axe Brittle Blade using Quench Tank.
+   Forge Platinum Steel Battle Axe Brittle Blade into Heated Platinum Steel Battle Axe Brittle Blade using Forge.
+   Quench Heated Platinum Steel Battle Axe Brittle Blade into Platinum Steel Battle Axe Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Battle Axe Brittle Blade into Platinum Steel Battle Axe Brittle Blade using Anvil with a Hammer.
+   Forge Platinum Steel Battle Axe Alpha Blade into Heated Platinum Steel Battle Axe Alpha Blade using Forge.
+   Forge Heated Platinum Steel Battle Axe Alpha Blade into Super Heated Platinum Steel Battle Axe Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Battle Axe Alpha Blade into Red Hot Platinum Steel Battle Axe Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Battle Axe Alpha Blade into Platinum Steel Battle Axe Brittle Blade using Quench Tank.
+   Forge Platinum Steel Battle Axe Beta Blade into Heated Platinum Steel Battle Axe Beta Blade using Forge.
+   Forge Heated Platinum Steel Battle Axe Beta Blade into Super Heated Platinum Steel Battle Axe Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Battle Axe Beta Blade into Red Hot Platinum Steel Battle Axe Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Battle Axe Beta Blade into Platinum Steel Battle Axe Brittle Blade using Quench Tank.
+-- Platinum Steel Battle Axe Delta Blade ----- 
+   Forge Platinum Steel Battle Axe Delta Blade into Heated Platinum Steel Battle Axe Delta Blade using Forge.
+   Quench Heated Platinum Steel Battle Axe Delta Blade into Platinum Steel Battle Axe Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Battle Axe Delta Blade into Super Heated Platinum Steel Battle Axe Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Battle Axe Delta Blade into Platinum Steel Battle Axe Delta Blade using Quench Tank.
+   Forge Platinum Steel Battle Axe Beta Blade into Heated Platinum Steel Battle Axe Beta Blade using Forge.
+   Shape Heated Platinum Steel Battle Axe Beta Blade into Platinum Steel Battle Axe Delta Blade using Anvil with a Hammer.
+-- Platinum Steel Battle Axe Dull Blade ----- 
+   Forge Platinum Steel Battle Axe Dull Blade into Heated Platinum Steel Battle Axe Dull Blade using Forge.
+   Quench Heated Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Battle Axe Dull Blade into Red Hot Platinum Steel Battle Axe Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Dull Blade using Quench Tank.
+   Forge Platinum Steel Battle Axe Blade into Heated Platinum Steel Battle Axe Blade using Forge.
+   Shape Heated Platinum Steel Battle Axe Blade into Platinum Steel Battle Axe Dull Blade using Anvil with a Hammer.
+-- Platinum Steel Reinforced Axe ----- 
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handles.
+   Combine Wooden Axe Handle, Platinum Steel Reinforced Axe Blade, into 0 Platinum Steel Reinforced Axe Kit.
+   Assemble Platinum Steel Reinforced Axe Kit into Platinum Steel Reinforced Axe using Smith Table.
+-- Platinum Steel Reinforced Axe Alpha Blade ----- 
+   Shape 3 Heated Platinum Steel Stock into Platinum Steel Reinforced Axe Alpha Blade using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Axe Alpha Blade into Heated Platinum Steel Reinforced Axe Alpha Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Axe Alpha Blade into Platinum Steel Reinforced Axe Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Reinforced Axe Alpha Blade into Super Heated Platinum Steel Reinforced Axe Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Reinforced Axe Alpha Blade into Platinum Steel Reinforced Axe Alpha Blade using Quench Tank.
+-- Platinum Steel Reinforced Axe Beta Blade ----- 
+   Forge Platinum Steel Reinforced Axe Alpha Blade into Heated Platinum Steel Reinforced Axe Alpha Blade using Forge.
+   Shape Heated Platinum Steel Reinforced Axe Alpha Blade into Platinum Steel Reinforced Axe Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Axe Beta Blade into Heated Platinum Steel Reinforced Axe Beta Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Axe Beta Blade into Platinum Steel Reinforced Axe Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Reinforced Axe Beta Blade into Super Heated Platinum Steel Reinforced Axe Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Reinforced Axe Beta Blade into Platinum Steel Reinforced Axe Beta Blade using Quench Tank.
+-- Platinum Steel Reinforced Axe Blade ----- 
+   Sharpen Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Blade using Sharpening Stone.
+   Forge Platinum Steel Reinforced Axe Blade into Heated Platinum Steel Reinforced Axe Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Axe Blade into Platinum Steel Reinforced Axe Blade using Quench Tank.
+   Forge Heated Platinum Steel Reinforced Axe Blade into Super Heated Platinum Steel Reinforced Axe Blade using Forge.
+   Quench Super Heated Platinum Steel Reinforced Axe Blade into Platinum Steel Reinforced Axe Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Reinforced Axe Blade into Red Hot Platinum Steel Reinforced Axe Blade using Forge.
+   Quench Red Hot Platinum Steel Reinforced Axe Blade into Platinum Steel Reinforced Axe Blade using Quench Tank.
+-- Platinum Steel Reinforced Axe Brittle Blade ----- 
+   Forge Platinum Steel Reinforced Axe Delta Blade into Heated Platinum Steel Reinforced Axe Delta Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Delta Blade into Super Heated Platinum Steel Reinforced Axe Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Reinforced Axe Delta Blade into Red Hot Platinum Steel Reinforced Axe Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Reinforced Axe Delta Blade into Platinum Steel Reinforced Axe Brittle Blade using Quench Tank.
+   Forge Platinum Steel Reinforced Axe Brittle Blade into Heated Platinum Steel Reinforced Axe Brittle Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Axe Brittle Blade into Platinum Steel Reinforced Axe Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Reinforced Axe Brittle Blade into Platinum Steel Reinforced Axe Brittle Blade using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Axe Alpha Blade into Heated Platinum Steel Reinforced Axe Alpha Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Alpha Blade into Super Heated Platinum Steel Reinforced Axe Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Reinforced Axe Alpha Blade into Red Hot Platinum Steel Reinforced Axe Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Reinforced Axe Alpha Blade into Platinum Steel Reinforced Axe Brittle Blade using Quench Tank.
+   Forge Platinum Steel Reinforced Axe Beta Blade into Heated Platinum Steel Reinforced Axe Beta Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Beta Blade into Super Heated Platinum Steel Reinforced Axe Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Reinforced Axe Beta Blade into Red Hot Platinum Steel Reinforced Axe Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Reinforced Axe Beta Blade into Platinum Steel Reinforced Axe Brittle Blade using Quench Tank.
+-- Platinum Steel Reinforced Axe Delta Blade ----- 
+   Forge Platinum Steel Reinforced Axe Delta Blade into Heated Platinum Steel Reinforced Axe Delta Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Delta Blade into Super Heated Platinum Steel Reinforced Axe Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Reinforced Axe Delta Blade into Platinum Steel Reinforced Axe Delta Blade using Quench Tank.
+   Forge Platinum Steel Reinforced Axe Beta Blade into Heated Platinum Steel Reinforced Axe Beta Blade using Forge.
+   Shape Heated Platinum Steel Reinforced Axe Beta Blade into Platinum Steel Reinforced Axe Delta Blade using Anvil with a Hammer.
+   Quench Heated Platinum Steel Reinforced Axe Delta Blade into Platinum Steel Reinforced Axe Delta Blade using Quench Tank.
+-- Platinum Steel Reinforced Axe Dull Blade ----- 
+   Forge Platinum Steel Reinforced Axe Dull Blade into Heated Platinum Steel Reinforced Axe Dull Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Reinforced Axe Dull Blade into Red Hot Platinum Steel Reinforced Axe Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Dull Blade using Quench Tank.
+   Forge Platinum Steel Reinforced Axe Blade into Heated Platinum Steel Reinforced Axe Blade using Forge.
+   Shape Heated Platinum Steel Reinforced Axe Blade into Platinum Steel Reinforced Axe Dull Blade using Anvil with a Hammer.
+-- Platinum Steel Reinforced Battle Axe ----- 
+   Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handles.
+   Combine Wooden Axe Handle, Platinum Steel Reinforced Battle Axe Blade, into 0 Platinum Steel Reinforced Battle Axe Kit.
+   Assemble Platinum Steel Reinforced Battle Axe Kit into Platinum Steel Reinforced Battle Axe using Smith Table.
+-- Platinum Steel Reinforced Battle Axe Alpha Blade ----- 
+   Shape 4 Heated Platinum Steel Stock into Platinum Steel Reinforced Battle Axe Alpha Blade using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Battle Axe Alpha Blade into Heated Platinum Steel Reinforced Battle Axe Alpha Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Battle Axe Alpha Blade into Platinum Steel Reinforced Battle Axe Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Reinforced Battle Axe Alpha Blade into Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad using Forge.
+   Quench Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad into Platinum Steel Reinforced Battle Axe Alpha Blade using Quench Tank.
+-- Platinum Steel Reinforced Battle Axe Beta Blade ----- 
+   Forge Platinum Steel Reinforced Battle Axe Alpha Blade into Heated Platinum Steel Reinforced Battle Axe Alpha Blade using Forge.
+   Shape Heated Platinum Steel Reinforced Battle Axe Alpha Blade into Platinum Steel Reinforced Battle Axe Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Battle Axe Beta Blade into Heated Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Battle Axe Beta Blade into Platinum Steel Reinforced Battle Axe Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Reinforced Battle Axe Beta Blade into Super Heated Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Reinforced Battle Axe Beta Blade into Platinum Steel Reinforced Battle Axe Beta Blade using Quench Tank.
+-- Platinum Steel Reinforced Battle Axe Blade ----- 
+   Sharpen Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Blade using Sharpening Stone.
+   Forge Platinum Steel Reinforced Battle Axe Blade into Heated Platinum Steel Reinforced Battle Axe Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Battle Axe Blade into Platinum Steel Reinforced Battle Axe Blade using Quench Tank.
+   Forge Heated Platinum Steel Reinforced Battle Axe Blade into Super Heated Platinum Steel Reinforced Battle Axe Blade using Forge.
+   Quench Super Heated Platinum Steel Reinforced Battle Axe Blade into Platinum Steel Reinforced Battle Axe Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Blade into Red Hot Platinum Steel Reinforced Battle Axe Blade using Forge.
+   Quench Red Hot Platinum Steel Reinforced Battle Axe Blade into Platinum Steel Reinforced Battle Axe Blade using Quench Tank.
+-- Platinum Steel Reinforced Battle Axe Brittle Blade ----- 
+   Forge Platinum Steel Reinforced Battle Axe Brittle Blade into Heated Platinum Steel Reinforced Battle Axe Brittle Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Battle Axe Brittle Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Reinforced Battle Axe Brittle Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Battle Axe Alpha Blade into Heated Platinum Steel Reinforced Battle Axe Alpha Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Battle Axe Alpha Blade into Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad using Forge.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad into Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Quench Tank.
+   Forge Platinum Steel Reinforced Battle Axe Beta Blade into Heated Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Battle Axe Beta Blade into Super Heated Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Beta Blade into Red Hot Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Reinforced Battle Axe Beta Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Quench Tank.
+   Forge Platinum Steel Reinforced Battle Axe Delta Blade into Heated Platinum Steel Reinforced Battle Axe Delta Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Battle Axe Delta Blade into Super Heated Platinum Steel Reinforced Battle Axe Delta Blad using Forge.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Delta Blad into Red Hot Platinum Steel Reinforced Battle Axe Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Reinforced Battle Axe Delta Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Quench Tank.
+-- Platinum Steel Reinforced Battle Axe Delta Blade ----- 
+   Forge Platinum Steel Reinforced Battle Axe Beta Blade into Heated Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+   Shape Heated Platinum Steel Reinforced Battle Axe Beta Blade into Platinum Steel Reinforced Battle Axe Delta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Battle Axe Delta Blade into Heated Platinum Steel Reinforced Battle Axe Delta Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Battle Axe Delta Blade into Platinum Steel Reinforced Battle Axe Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Reinforced Battle Axe Delta Blade into Super Heated Platinum Steel Reinforced Battle Axe Delta Blad using Forge.
+   Quench Super Heated Platinum Steel Reinforced Battle Axe Delta Blad into Platinum Steel Reinforced Battle Axe Delta Blade using Quench Tank.
+-- Platinum Steel Reinforced Battle Axe Dull Blade ----- 
+   Forge Platinum Steel Reinforced Battle Axe Dull Blade into Heated Platinum Steel Reinforced Battle Axe Dull Blade using Forge.
+   Quench Heated Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Dull Blade into Red Hot Platinum Steel Reinforced Battle Axe Dull Blade using Forge
+   Quench Red Hot Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Quench Tank.
+   Forge Platinum Steel Reinforced Battle Axe Blade into Heated Platinum Steel Reinforced Battle Axe Blade using Forge.
+   Shape Heated Platinum Steel Reinforced Battle Axe Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Anvil with a Hammer.
+-- Platinum Steel Small Battle Axe ----- 
+   Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handles.
+   Combine Small Wooden Axe Handle, Platinum Steel Small Battle Axe Blade, into 0 Platinum Steel Small Battle Axe Kit.
+   Assemble Platinum Steel Small Battle Axe Kit into Platinum Steel Small Battle Axe using Smith Table.
+-- Platinum Steel Small Battle Axe Alpha Blade ----- 
+   Forge Platinum Steel Small Battle Axe Alpha Blade into Heated Platinum Steel Small Battle Axe Alpha Blade using Forge.
+   Quench Heated Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Small Battle Axe Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Small Battle Axe Alpha Blade into Super Heated Platinum Steel Small Battle Axe Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Small Battle Axe Alpha Blade using Quench Tank.
+   Shape Heated Platinum Steel Stock into Platinum Steel Small Battle Axe Alpha Blade using Anvil with a Hammer.
+-- Platinum Steel Small Battle Axe Beta Blade ----- 
+   Forge Platinum Steel Small Battle Axe Alpha Blade into Heated Platinum Steel Small Battle Axe Alpha Blade using Forge.
+   Shape Heated Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Small Battle Axe Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Small Battle Axe Beta Blade into Heated Platinum Steel Small Battle Axe Beta Blade using Forge.
+   Quench Heated Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Small Battle Axe Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Small Battle Axe Beta Blade into Super Heated Platinum Steel Small Battle Axe Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Small Battle Axe Beta Blade using Quench Tank.
+-- Platinum Steel Small Battle Axe Blade ----- 
+   Sharpen Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Blade using Sharpening Stone.
+   Forge Platinum Steel Small Battle Axe Blade into Heated Platinum Steel Small Battle Axe Blade using Forge.
+   Quench Heated Platinum Steel Small Battle Axe Blade into Platinum Steel Small Battle Axe Blade using Quench Tank.
+   Forge Heated Platinum Steel Small Battle Axe Blade into Super Heated Platinum Steel Small Battle Axe Blade using Forge.
+   Quench Super Heated Platinum Steel Small Battle Axe Blade into Platinum Steel Small Battle Axe Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Small Battle Axe Blade into Red Hot Platinum Steel Small Battle Axe Blade using Forge.
+   Quench Red Hot Platinum Steel Small Battle Axe Blade into Platinum Steel Small Battle Axe Blade using Quench Tank.
+-- Platinum Steel Small Battle Axe Brittle Blade ----- 
+   Forge Platinum Steel Small Battle Axe Beta Blade into Heated Platinum Steel Small Battle Axe Beta Blade using Forge.
+   Forge Heated Platinum Steel Small Battle Axe Beta Blade into Super Heated Platinum Steel Small Battle Axe Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Small Battle Axe Beta Blade into Red Hot Platinum Steel Small Battle Axe Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Small Battle Axe Brittle Blade using Quench Tank.
+   Forge Platinum Steel Small Battle Axe Delta Blade into Heated Platinum Steel Small Battle Axe Delta Blade using Forge.
+   Forge Heated Platinum Steel Small Battle Axe Delta Blade into Super Heated Platinum Steel Small Battle Axe Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Small Battle Axe Delta Blade into Red Hot Platinum Steel Small Battle Axe Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Small Battle Axe Delta Blade into Platinum Steel Small Battle Axe Brittle Blade using Quench Tank.
+   Forge Platinum Steel Small Battle Axe Brittle Blade into Heated Platinum Steel Small Battle Axe Brittle Blade using Forge.
+   Quench Heated Platinum Steel Small Battle Axe Brittle Blade into Platinum Steel Small Battle Axe Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Small Battle Axe Brittle Blade into Platinum Steel Small Battle Axe Brittle Blade using Anvil with a Hammer.
+   Forge Platinum Steel Small Battle Axe Alpha Blade into Heated Platinum Steel Small Battle Axe Alpha Blade using Forge.
+   Forge Heated Platinum Steel Small Battle Axe Alpha Blade into Super Heated Platinum Steel Small Battle Axe Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Small Battle Axe Alpha Blade into Red Hot Platinum Steel Small Battle Axe Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Small Battle Axe Brittle Blade using Quench Tank.
+-- Platinum Steel Small Battle Axe Delta Blade ----- 
+   Forge Platinum Steel Small Battle Axe Delta Blade into Heated Platinum Steel Small Battle Axe Delta Blade using Forge.
+   Quench Heated Platinum Steel Small Battle Axe Delta Blade into Platinum Steel Small Battle Axe Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Small Battle Axe Delta Blade into Super Heated Platinum Steel Small Battle Axe Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Small Battle Axe Delta Blade into Platinum Steel Small Battle Axe Delta Blade using Quench Tank.
+   Forge Platinum Steel Small Battle Axe Beta Blade into Heated Platinum Steel Small Battle Axe Beta Blade using Forge.
+   Shape Heated Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Small Battle Axe Delta Blade using Anvil with a Hammer.
+-- Platinum Steel Small Battle Axe Dull Blade ----- 
+   Forge Platinum Steel Small Battle Axe Dull Blade into Heated Platinum Steel Small Battle Axe Dull Blade using Forge.
+   Quench Heated Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Small Battle Axe Dull Blade into Red Hot Platinum Steel Small Battle Axe Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Dull Blade using Quench Tank.
+   Forge Platinum Steel Small Battle Axe Blade into Heated Platinum Steel Small Battle Axe Blade using Forge.
+   Shape Heated Platinum Steel Small Battle Axe Blade into Platinum Steel Small Battle Axe Dull Blade using Anvil with a Hammer.
+-- Platinum Steel Stock ----- 
+   Forge Platinum Steel Small Battle Axe Beta Blade into Heated Platinum Steel Small Battle Axe Beta Blade using Forge.
+   Forge Heated Platinum Steel Small Battle Axe Beta Blade into Super Heated Platinum Steel Small Battle Axe Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Small Battle Axe Beta Blade into Red Hot Platinum Steel Small Battle Axe Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Axe Delta Blade into Heated Platinum Steel Reinforced Axe Delta Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Delta Blade into Super Heated Platinum Steel Reinforced Axe Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Reinforced Axe Delta Blade into Red Hot Platinum Steel Reinforced Axe Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Axe Delta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Battle Axe Delta Blade into Heated Platinum Steel Battle Axe Delta Blade using Forge.
+   Forge Heated Platinum Steel Battle Axe Delta Blade into Super Heated Platinum Steel Battle Axe Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Battle Axe Delta Blade into Red Hot Platinum Steel Battle Axe Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Battle Axe Delta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Reinforced Battle Axe Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Small Battle Axe Delta Blade into Heated Platinum Steel Small Battle Axe Delta Blade using Forge.
+   Forge Heated Platinum Steel Small Battle Axe Delta Blade into Super Heated Platinum Steel Small Battle Axe Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Small Battle Axe Delta Blade into Red Hot Platinum Steel Small Battle Axe Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Small Battle Axe Delta Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Dull Blade into Red Hot Platinum Steel Reinforced Battle Axe Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Battle Axe Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Reinforced Axe Dull Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Battle Axe Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Reinforced Axe Dull Blade into Red Hot Platinum Steel Reinforced Axe Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Axe Dull Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Battle Axe Blade into Heated Platinum Steel Reinforced Battle Axe Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Battle Axe Blade into Super Heated Platinum Steel Reinforced Battle Axe Blade using Forge.
+   Hammer Super Heated Platinum Steel Reinforced Battle Axe Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Small Battle Axe Alpha Blade into Heated Platinum Steel Small Battle Axe Alpha Blade using Forge.
+   Forge Heated Platinum Steel Small Battle Axe Alpha Blade into Super Heated Platinum Steel Small Battle Axe Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Small Battle Axe Alpha Blade into Red Hot Platinum Steel Small Battle Axe Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Battle Axe Dull Blade into Red Hot Platinum Steel Battle Axe Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Battle Axe Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Blade into Red Hot Platinum Steel Reinforced Battle Axe Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Battle Axe Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Small Battle Axe Dull Blade into Red Hot Platinum Steel Small Battle Axe Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Axe Blade into Heated Platinum Steel Reinforced Axe Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Blade into Super Heated Platinum Steel Reinforced Axe Blade using Forge.
+   Hammer Super Heated Platinum Steel Reinforced Axe Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Battle Axe Blade into Heated Platinum Steel Battle Axe Blade using Forge.
+   Forge Heated Platinum Steel Battle Axe Blade into Super Heated Platinum Steel Battle Axe Blade using Forge.
+   Hammer Super Heated Platinum Steel Battle Axe Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Reinforced Axe Blade into Red Hot Platinum Steel Reinforced Axe Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Axe Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Battle Axe Blade into Red Hot Platinum Steel Battle Axe Blade using Forge.
+   Hammer Red Hot Platinum Steel Battle Axe Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Small Battle Axe Blade into Heated Platinum Steel Small Battle Axe Blade using Forge.
+   Forge Heated Platinum Steel Small Battle Axe Blade into Super Heated Platinum Steel Small Battle Axe Blade using Forge.
+   Hammer Super Heated Platinum Steel Small Battle Axe Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Battle Axe Alpha Blade into Heated Platinum Steel Reinforced Battle Axe Alpha Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Battle Axe Alpha Blade into Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad using Forge.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad into Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Small Battle Axe Blade into Red Hot Platinum Steel Small Battle Axe Blade using Forge.
+   Hammer Red Hot Platinum Steel Small Battle Axe Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Battle Axe Alpha Blade into Heated Platinum Steel Battle Axe Alpha Blade using Forge.
+   Forge Heated Platinum Steel Battle Axe Alpha Blade into Super Heated Platinum Steel Battle Axe Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Battle Axe Alpha Blade into Red Hot Platinum Steel Battle Axe Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Battle Axe Alpha Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Axe Alpha Blade into Heated Platinum Steel Reinforced Axe Alpha Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Alpha Blade into Super Heated Platinum Steel Reinforced Axe Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Reinforced Axe Alpha Blade into Red Hot Platinum Steel Reinforced Axe Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Axe Alpha Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Battle Axe Beta Blade into Heated Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Battle Axe Beta Blade into Super Heated Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Beta Blade into Red Hot Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Battle Axe Beta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Battle Axe Beta Blade into Heated Platinum Steel Battle Axe Beta Blade using Forge.
+   Forge Heated Platinum Steel Battle Axe Beta Blade into Super Heated Platinum Steel Battle Axe Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Battle Axe Beta Blade into Red Hot Platinum Steel Battle Axe Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Battle Axe Beta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Axe Beta Blade into Heated Platinum Steel Reinforced Axe Beta Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Beta Blade into Super Heated Platinum Steel Reinforced Axe Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Reinforced Axe Beta Blade into Red Hot Platinum Steel Reinforced Axe Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Axe Beta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Reinforced Battle Axe Delta Blade into Heated Platinum Steel Reinforced Battle Axe Delta Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Battle Axe Delta Blade into Super Heated Platinum Steel Reinforced Battle Axe Delta Blad using Forge.
+   Forge Super Heated Platinum Steel Reinforced Battle Axe Delta Blad into Red Hot Platinum Steel Reinforced Battle Axe Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Reinforced Battle Axe Delta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+-- Small Wooden Axe Handle Shape ----- 
+   Cut White Oak Wood into 4 Oak Baton using Smith Table with a Wood Saw.
+   Cut Oak Baton into 2 Half Oak baton using Smith Table with a Wood Saw.
+   Shape Half Oak baton into Small Wooden Axe Handle Shape using Smith Table with a Wood Chisel.
+-- Super Heated Platinum Steel Battle Axe Dull Blade ----- 
+   Forge Platinum Steel Battle Axe Brittle Blade into Heated Platinum Steel Battle Axe Brittle Blade using Forge.
+   Forge Heated Platinum Steel Battle Axe Brittle Blade into Super Heated Platinum Steel Battle Axe Dull Blade using Forge.
+   Forge Platinum Steel Battle Axe Dull Blade into Heated Platinum Steel Battle Axe Dull Blade using Forge.
+   Forge Heated Platinum Steel Battle Axe Dull Blade into Super Heated Platinum Steel Battle Axe Dull Blade using Forge.
+-- Super Heated Platinum Steel Reinforced Axe Dull Blade ----- 
+   Forge Platinum Steel Reinforced Axe Brittle Blade into Heated Platinum Steel Reinforced Axe Brittle Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Brittle Blade into Super Heated Platinum Steel Reinforced Axe Dull Blade using Forge.
+   Forge Platinum Steel Reinforced Axe Dull Blade into Heated Platinum Steel Reinforced Axe Dull Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Axe Dull Blade into Super Heated Platinum Steel Reinforced Axe Dull Blade using Forge.
+-- Super Heated Platinum Steel Reinforced Battle Axe Dull Blade ----- 
+   Forge Platinum Steel Reinforced Battle Axe Brittle Blade into Heated Platinum Steel Reinforced Battle Axe Brittle Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Battle Axe Brittle Blade into Super Heated Platinum Steel Reinforced Battle Axe Dull Blade using Forge.
+   Forge Platinum Steel Reinforced Battle Axe Dull Blade into Heated Platinum Steel Reinforced Battle Axe Dull Blade using Forge.
+   Forge Heated Platinum Steel Reinforced Battle Axe Dull Blade into Super Heated Platinum Steel Reinforced Battle Axe Dull Blade using Forge.
+-- Super Heated Platinum Steel Small Battle Axe Dull Blade ----- 
+   Forge Platinum Steel Small Battle Axe Brittle Blade into Heated Platinum Steel Small Battle Axe Brittle Blade using Forge.
+   Forge Heated Platinum Steel Small Battle Axe Brittle Blade into Super Heated Platinum Steel Small Battle Axe Dull Blade using Forge.
+   Forge Platinum Steel Small Battle Axe Dull Blade into Heated Platinum Steel Small Battle Axe Dull Blade using Forge.
+   Forge Heated Platinum Steel Small Battle Axe Dull Blade into Super Heated Platinum Steel Small Battle Axe Dull Blade using Forge.
+-- Wooden Axe Handle Shape ----- 
+   Cut White Oak Wood into 4 Oak Baton using Smith Table with a Wood Saw.
+   Shape Oak Baton into Wooden Axe Handle Shape using Smith Table with a Wood Chisel.

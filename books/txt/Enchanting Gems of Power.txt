@@ -1,0 +1,16 @@
+-- Diamond Crystal ----- 
+   Enchant Diamond Crystal into Enchanted Diamond Crystal using Enchanter of Power with a Crystal Glyph, Sight Glyph, Energy Glyph, Faith Glyph, Life Glyph, Arrow Glyph, Door Glyph.
+   Enchant Diamond Crystal into Enchanted Diamond Crystal using Enchanter of Power with a Polymorph Glyph, Object Glyph, Poison Glyph, Purify Glyph, Sphere Glyph, Water Glyph, Rain Glyph.
+   Enchant Diamond Crystal into Enchanted Diamond Crystal using Enchanter of Power with a Tree Glyph, Wall Glyph, Summon Glyph, Weight Glyph, Creature Glyph, Earth Glyph.
+-- Emerald Crystal ----- 
+   Enchant Emerald Crystal into Enchanted Emerald Crystal using Enchanter of Power with a Energy Glyph, Life Glyph, Crystal Glyph, Faith Glyph, Sight Glyph, Door Glyph, Light Glyph.
+   Enchant Emerald Crystal into Enchanted Emerald Crystal using Enchanter of Power with a Poison Glyph, Cold Glyph, Divination Glyph, Rain Glyph, Water Glyph, Sphere Glyph.
+   Enchant Emerald Crystal into Enchanted Emerald Crystal using Enchanter of Power with a Rock Glyph, Armor Glyph, Summon Glyph, Wall Glyph, Tree Glyph, Weight Glyph.
+-- Ruby Crystal ----- 
+   Enchant Ruby Crystal into Enchanted Ruby Crystal using Enchanter of Power with a Arrow Glyph.
+   Enchant Ruby Crystal into Enchanted Ruby Crystal using Enchanter of Power with a Cold Glyph, Rain Glyph.
+   Enchant Ruby Crystal into Enchanted Ruby Crystal using Enchanter of Power with a Armor Glyph.
+-- Sapphire Crystal ----- 
+   Enchant Sapphire Crystal into Enchanted Sapphire Crystal using Enchanter of Power with a Faith Glyph, Light Glyph, Arrow Glyph, Sight Glyph.
+   Enchant Sapphire Crystal into Enchanted Sapphire Crystal using Enchanter of Power with a Object Glyph, Poison Glyph, Net Glyph, Key Glyph.
+   Enchant Sapphire Crystal into Enchanted Sapphire Crystal using Enchanter of Power with a Armor Glyph, Rock Glyph, Weight Glyph.

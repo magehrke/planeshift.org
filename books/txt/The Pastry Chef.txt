@@ -1,0 +1,192 @@
+-- Apple Filling --
+Combine 8 Sliced Apple, 2 Scoop of Strimptor, 4 Pat of Butter, into Apple Mash.
+Mash Apple Mash into Apple Filling using Preparation Table with a Masher.
+-- Apple Hand Pie --
+Combine Dough-Wrapped Apple Slice, Hot Cooking Oil, into Uncooked Apple Hand Pie.
+Bake Uncooked Apple Hand Pie into Apple Hand Pie using Oven.
+-- Apple Jam Biscuit ---
+Combine Scoop of Apple Jam, Open Biscuit, into Biscuit Apple Jam.
+Spread Biscuit Apple Jam into Apple Jam Biscuit using Preparation Table with a Spreader.
+-- Appleauce --
+Measure Water-Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+Combine 4 Sliced Apple, Water Pouch, into Cooking Apple.
+Heat Cooking Apple into Cooked Apple using Pot.
+Measure Cooked Apple into 4 Appleauce using Preparation Table with a Scoop.
+-- Bread with Apple Jam --
+Cut Bread into 5 Slice of Bread using Preparation Table with a Kitchen Knife.
+Combine Slice of Bread, Scoop of Apple Jam, into Spreading Apple Jam.
+Spread Spreading Apple Jam into Bread with Apple Jam using Preparation Table with a Spreader.
+-- Bread with Duppong Jam --
+Cut Bread into 5 Slice of Bread using Preparation Table with a Kitchen Knife.
+Combine Slice of Bread, Scoop of Duppong Jam, into Spreading Duppong Jam.
+Spread Spreading Duppong Jam into Bread with Duppong Jam using Preparation Table with a Spreader
+-- Bread with Joopiner Berry Jam --
+Cut Bread into 5 Slice of Bread using Preparation Table with a Kitchen Knife.
+Combine Slice of Bread, Scoop of Joopiner Berry Jam, into Spreading Joopiner Jam.
+Spread Spreading Joopiner Jam into Bread with Joopiner Berry Jam using Preparation Table with a Spreader
+-- Bread with Macca Jam --
+Cut Bread into 5 Slice of Bread using Preparation Table with a Kitchen Knife.
+Combine Slice of Bread, Scoop of Macca Jam, into Spreading Macca Jam.
+Spread Spreading Macca Jam into Bread with Macca Jam using Preparation Table with a Spreader.
+-- Bread with Terevan Berry Jam --
+Cut Bread into 5 Slice of Bread using Preparation Table with a Kitchen Knife.
+Combine Slice of Bread, Scoop of Terevan Berry Jam, into Spreading Terevan Jam.
+Spread Spreading Terevan Jam into Bread with Terevan Berry Jam using Preparation Table with a Spreader
+-- Buttered Biscuit --
+Combine Pat of Butter, Open Biscuit, into Buttering Biscuits.
+Spread Buttering Biscuit into Buttered Biscuit using Preparation Table with a Spreader.
+-- Cooked Carrot --
+Combine 2 Sliced Carrot, Pot of Boiling Water, into Cooking Carrot.
+Heat Cooking Carrot into 2 Cooked Carrot using Pot.
+-- Cram --
+Combine 3 Scoop of Milk, 8 Scoop of Flour, Lump of Lard, 2 Pinch of Salt, 3 Scoop of Strimptor, into Cram Mixes.
+Mix Cram Mix into Cram Dough using Wooden Bowl with a Wooden Spoon.
+Roll Cram Dough into Rolled Cram Dough using Preparation Table with a Rolling Pin.
+Cut Rolled Cram Dough into 25 Raw Cram using Preparation Table with a Kitchen Knife.
+Bake Raw Cram into Cram using Oven.
+-- Dash of Cinnamon --
+Measure Ground Cinnamon into 25 Dash of Cinnamon using Preparation Table with a Scoop.
+-- Dough-Wrapped Apple Slice --
+Combine Rolled Pastry Dough, 5 Sliced Apple, into Apple in Dough.
+Wrap Apple in Dough into 5 Dough-Wrapped Apple Slice using Preparation Table.
+-- Duppong Jam Biscuit --
+Combine Open Biscuit, Scoop of Duppong Jam, into Biscuit Duppong Jam.
+Spread Biscuit Duppong Jam into Duppong Jam Biscuit using Preparation Table with a Spreader.
+-- Filling Apple Pie ---
+Combine Rolled Pastry Dough, Apple Filling, into 5 Unbaked Filling Apple Pies.
+Bake Unbaked Filling Apple Pie into Filling Apple Pie using Oven.
+-- Fried Apple --
+Cut Apple into Peeled Apple using Preparation Table with a Kitchen Knife.
+Cut Peeled Apple into Cored Apple using Preparation Table with a Kitchen Knife.
+Combine Cored Apple, Hot Cooking Oil, into Frying Apple.
+Panfry Frying Apple into Fried Apple using Iron Skillet.
+-- Fried Apple Hand Pie --
+Combine Dough-Wrapped Apple Slice, Hot Cooking Oil, into Uncooked Apple Hand Pies.
+Panfry Uncooked Apple Hand Pie into Fried Apple Hand Pie using Iron Skillet.
+-- Honey-Glazed Carrot --
+Combine 3 Cooked Carrot, 4 Pat of Butter, 2 Scoop of Honey, into Carrot-Honey Mixtures.
+Mix Carrot-Honey Mixture into 5 Honey-Glazed Carrot using Wooden Bowl with a Wooden Spoon
+-- Hot Cooking Oil --
+Measure Lump of Lard into 25 Scoop of Lard using Preparation Table with a Scoop.
+Panfry Scoop of Lard into Hot Cooking Oil using Iron Skillet.
+-- Joopiner Berry Jam Biscuit --
+Combine Open Biscuit, Scoop of Joopiner Berry Jam, into Biscuit Joopiner Jam.
+Spread Biscuit Joopiner Jam into Joopiner Berry Jam Biscuit using Preparation Table with a Spreader.
+-- Macca Jam Biscuit --
+Combine Open Biscuit, Scoop of Macca Jam, into Biscuit Macca Jam.
+Spread Biscuit Macca Jam into Macca Jam Biscuit using Preparation Table with a Spreader.
+-- Mashed Joopiner Berrie --
+Measure Bunch of Joopiner Berrie into 12 Joopiner Berrie using Preparation Table with a Scoop
+Mash 5 Joopiner Berrie into Mashed Joopiner Berrie using Preparation Table with a Masher.
+-- Mashed Terevan Berrie --
+Measure Bunch of Terevan Berrie into 12 Whole Terevan Berrie using Preparation Table with a Scoop.
+Mash 5 Whole Terevan Berrie into Mashed Terevan Berrie using Preparation Table with a Masher.
+-- Open Biscuit --
+Cut Biscuit into Open Biscuit using Preparation Table with a Kitchen Knife.
+-- Pat of Butter --
+Measure Lump of Butter into 25 Pat of Butter using Preparation Table with a Scoop.
+-- Pinch of Salt --
+Measure Bag of Salt into 50 Pinch of Salt using Preparation Table with a Scoop.
+-- Pot of Boiling Water --
+Heat Water-Filled Bucket into Full Pot of Water using Pot.
+Heat Full Pot of Water into Pot of Hot Water using Pot.
+Heat Pot of Hot Water into Pot of Simmering Water using Pot.
+Heat Pot of Simmering Water into Pot of Boiling Water using Pot.
+-- Rolled Pastry Dough --
+Measure Lump of Lard into 25 Scoop of Lard using Preparation Table with a Scoop.
+Measure Water-Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+Combine Scoop of Flour, Pinch of Salt, 15 Scoop of Lard, Water Pouch, into Flour-Lard Mixtures.
+Blend Flour-Lard Mixture into Pastry Dough using Wooden Bowl with a Mixer.
+Roll Pastry Dough into Rolled Pastry Dough using Preparation Table with a Rolling Pin.
+-- Scoop of Apple Jam --
+Measure Water-Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+Combine 5 Sliced Apple, Water Pouch, 3 Scoop of Strimptor, into Sweet Apple Mash.
+Heat Sweet Apple Mash into Apple Jam using Pot.
+Measure Apple Jam into 50 Scoop of Apple Jam using Preparation Table with a Scoop.
+-- Scoop of Duppong Jam --
+Measure Water-Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+Combine 5 Sliced and Seeded Duppongs, Water Pouch, 3 Scoop of Strimptor, into Sweet Duppong Mash.
+Heat Sweet Duppong Mash into Duppong Jam using Pot.
+Measure Duppong Jam into 50 Scoop of Duppong Jam using Preparation Table with a Scoop.
+-- Scoop of Flour --
+Measure Flour into 5 Scoop of Flour using Preparation Table with a Scoop.
+-- Scoop of Honey --
+Measure Honey into 5 Scoop of Honey using Preparation Table with a Scoop.
+-- Scoop of Joopiner Berry Jam --
+Measure Water-Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+Combine Water Pouch, 2 Scoop of Strimptor, Mashed Joopiner Berrie, into Sweet Joopiner Mash.
+Heat Sweet Joopiner Mash into Joopiner Berry Jam using Pot.
+Measure Joopiner Berry Jam into 50 Scoop of Joopiner Berry Jam using Preparation Table with a Scoop.
+-- Scoop of Macca Jam --
+Measure Water-Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+Combine 5 Sliced and Seeded Maccas, Water Pouch, 3 Scoop of Strimptor, into Sweet Macca Mash.
+Heat Sweet Macca Mash into Macca Jam using Pot.
+Measure Macca Jam into 50 Scoop of Macca Jam using Preparation Table with a Scoop
+-- Scoop of Milk --
+Measure Milk into 4 Scoop of Milk using Preparation Table with a Scoop.
+-- Scoop of Strimptor --
+Measure Sack of Strimptor into 5 Scoop of Strimptor using Preparation Table with a Scoop.
+-- Scoop of Terevan Berry Jam --
+Measure Water-Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+Combine Mashed Terevan Berrie, Water Pouch, 2 Scoop of Strimptor, into Sweet Terevan Mash.
+Heat Sweet Terevan Mash into Terevan Berry Jam using Pot.
+Measure Terevan Berry Jam into 50 Scoop of Terevan Berry Jam using Preparation Table with a Scoop.
+-- Slice of Apple Pie --
+Combine 3 Sliced Apple, Scoop of Strimptor, 2 Rolled Pastry Doughs, 3 Pat of Butter, into Unbaked Apple Pies.
+Bake Unbaked Apple Pie into Apple Pie using Oven.
+Cut Apple Pie into 8 Slice of Apple Pie using Preparation Table with a Kitchen Knife.
+-- Slice of Cinnamon Apple Pie --
+Combine 3 Sliced Apple, Scoop of Strimptor, 2 Rolled Pastry Doughs, Dash of Cinnamon, 3 Pat of Butter, into Unbaked Cinnamon Apple Pie.
+Bake Unbaked Cinnamon Apple Pie into Cinnamon Apple Pie using Oven.
+Cut Cinnamon Apple Pie into 8 Slice of Cinnamon Apple Pie using Preparation Table with a Kitchen Knife.
+-- Slice of Duppong Pie --
+Combine 3 Sliced and Seeded Duppongs, 2 Rolled Pastry Doughs, 3 Pat of Butter, Scoop of Strimptor, into Unbaked Duppong Pie.
+Bake Unbaked Duppong Pie into Duppong Pie using Oven.
+Cut Duppong Pie into 8 Slice of Duppong Pie using Preparation Table with a Kitchen Knife.
+-- Slice of Joopiner Berry Pie --
+Combine Mashed Joopiner Berrie, Rolled Pastry Dough, 3 Pat of Butter, Scoop of Strimptor, into Unbaked Joopiner Pie.
+Bake Unbaked Joopiner Pie into Joopiner Berry Pie using Oven.
+Cut Joopiner Berry Pie into 8 Slice of Joopiner Berry Pie using Preparation Table with a Kitchen Knife.
+-- Slice of Macca Pie --
+Combine 3 Sliced and Seeded Maccas, 2 Rolled Pastry Doughs, Scoop of Strimptor, 3 Pat of Butter, into Unbaked Macca Pie.
+Bake Unbaked Macca Pie into Macca Pie using Oven.
+Cut Macca Pie into 8 Slice of Macca Pie using Preparation Table with a Kitchen Knife.
+-- Slice of Pie --
+Combine Scoop of Strimptor, 2 Rolled Pastry Doughs, 3 Pat of Butter, into Unbaked Pie.
+Bake Unbaked Pie into Pie using Oven.
+Cut Pie into 8 Slice of Pie using Preparation Table with a Kitchen Knife.
+-- Slice of Terevan Berry Pie --
+Combine Mashed Terevan Berrie, Rolled Pastry Dough, 3 Pat of Butter, Scoop of Strimptor, into Unbaked Terevan Berry Pie.
+Bake Unbaked Terevan Berry Pie into Terevan Berry Pie using Oven.
+Cut Terevan Berry Pie into 8 Slice of Terevan Berry Pie using Preparation Table with a Kitchen Knife.
+-- Sliced Apple --
+Cut Apple into Peeled Apple using Preparation Table with a Kitchen Knife.
+Cut Peeled Apple into Cored Apple using Preparation Table with a Kitchen Knife.
+Cut Cored Apple into 4 Sliced Apple using Preparation Table with a Kitchen Knife.
+-- Sliced Carrot --
+Cut Carrot into Sliced Carrot using Preparation Table with a Kitchen Knife.
+-- Sliced and Seeded Duppong --
+Cut Duppong into Sliced and Seeded Duppong using Preparation Table with a Kitchen Knife.
+-- Sliced and Seeded Macca --
+Cut Macca into Sliced and Seeded Macca using Preparation Table with a Kitchen Knife.
+-- Sweet Cinnamon Apple Slice --
+Combine Sliced Apple, 3 Dash of Cinnamon, Scoop of Strimptor, into Cinnamon Apple Mixes.
+Mix Cinnamon Apple Mix into 4 Sweet Cinnamon Apple Slice using Wooden Bowl with a Wooden Spoon.
+-- Terevan Berry Jam Biscuit --
+Combine Open Biscuit, Scoop of Terevan Berry Jam, into Biscuit Terevan Jam.
+Spread Biscuit Terevan Jam into Terevan Berry Jam Biscuit using Preparation Table with a Spreader.
+-- Apple Pie --
+Cut Apple into Peeled Apple using Preparation Table with a Kitchen Knife.
+Cut Peeled Apple into Cored Apple using Preparation Table with a Kitchen Knife.
+Cut Cored Apple into 4 Sliced Apple using Preparation Table with a Kitchen Knife.
+Measure Sack of Strimptor into 5 Scoop of Strimptor using Preparation Table with a Scoop.
+Measure Lump of Lard into 25 Scoop of Lard using Preparation Table with a Scoop.
+Measure Water-Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+Measure Flour into 5 Scoop of Flour using Preparation Table with a Scoop.
+Measure Bag of Salt into 50 Pinch of Salt using Preparation Table with a Scoop.
+Combine Scoop of Flour, Pinch of Salt, 15 Scoop of Lard, Water Pouch, into Flour-Lard Mixtures.
+Blend Flour-Lard Mixture into Pastry Dough using Wooden Bowl with a Mixer.
+Roll Pastry Dough into Rolled Pastry Dough using Preparation Table with a Rolling Pin.
+Measure Lump of Butter into 25 Pat of Butter using Preparation Table with a Scoop.
+Combine 3 Sliced Apple, Scoop of Strimptor, 2 Rolled Pastry Doughs, 3 Pat of Butter, into Unbaked Apple Pies.
+Bake Unbaked Apple Pie into Apple Pie using Oven.

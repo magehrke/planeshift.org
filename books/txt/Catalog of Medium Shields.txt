@@ -1,0 +1,279 @@
+-- Banded Shield ----- 
+   Combine 2 Shaped Small Wooden Block, into 0 Small Wooden Shield Cores.
+   Combine Small Shield Shape, Shield Handle, 3 Shield Band, Small Wooden Shield Core, Shield Edging, into 0 Banded Shield Kits.
+   Assemble Banded Shield Kit into Banded Shield using Riveter.
+   Combine Small Shield Shape, Shield Handle, 3 Shield Band, Small Wicker Shield Core, Shield Edging, into 0 Banded Shield Wicker Kits.
+   Assemble Banded Shield Wicker Kit into Banded Shield using Riveter.
+-- Bronze Band ----- 
+   Shape 7 Heated Bronze Ingot into 3 Bronze Band using Anvil with a Hammer.
+   Forge Bronze Band into Heated Bronze Band using Forge.
+   Quench Heated Bronze Band into Bronze Band using Quench Tank.
+   Shape Heated Bronze Band into Bronze Band using Anvil with a Hammer.
+   Forge Heated Bronze Band into Super Heated Bronze Band using Forge.
+   Forge Super Heated Bronze Band into Red Hot Bronze Band using Forge.
+   Quench Red Hot Bronze Band into Bronze Band using Quench Tank.
+   Quench Super Heated Bronze Band into Bronze Band using Quench Tank.
+   Shape Super Heated Bronze Band into Bronze Band using Anvil with a Hammer.
+-- Bronze Half Circle ----- 
+   Shape 2 Heated Bronze Ingot into 2 Bronze Half Circle using Anvil with a Hammer.
+   Forge Bronze Half Circle into Heated Bronze Half Circle using Forge.
+   Quench Heated Bronze Half Circle into Bronze Half Circle using Quench Tank.
+   Shape Heated Bronze Half Circle into Bronze Half Circle using Anvil with a Hammer.
+   Forge Heated Bronze Half Circle into Super Heated Bronze Half Circle using Forge.
+   Forge Super Heated Bronze Half Circle into Red Hot Bronze Half Circle using Forge.
+   Quench Red Hot Bronze Half Circle into Bronze Half Circle using Quench Tank.
+   Quench Super Heated Bronze Half Circle into Bronze Half Circle using Quench Tank.
+   Shape Super Heated Bronze Half Circle into Bronze Half Circle using Anvil with a Hammer.
+-- Bronze Shield ----- 
+   Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Bronze Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Bronze Shield Kits.
+   Assemble Bronze Shield Kit into Bronze Shield using Riveter.
+-- Bronze Shield Shape ----- 
+   Forge Bronze Shield Shape into Heated Bronze Shield Shape using Forge.
+   Quench Heated Bronze Shield Shape into Bronze Shield Shape using Quench Tank.
+   Shape Heated Bronze Shield Shape into Bronze Shield Shape using Anvil with a Hammer.
+   Forge Heated Bronze Shield Shape into Super Heated Bronze Shield Shape using Forge.
+   Forge Super Heated Bronze Shield Shape into Red Hot Bronze Shield Shape using Forge.
+   Quench Red Hot Bronze Shield Shape into Bronze Shield Shape using Quench Tank.
+   Quench Super Heated Bronze Shield Shape into Bronze Shield Shape using Quench Tank.
+   Shape Super Heated Bronze Shield Shape into Bronze Shield Shape using Anvil with a Hammer.
+   Shape 10 Heated Bronze Ingot into Bronze Shield Shape using Anvil with a Hammer.
+-- Bronze Spike ----- 
+   Shape Heated Bronze Ingot into 2 Bronze Spike using Anvil with a Hammer.
+   Forge Bronze Spike into Heated Bronze Spike using Forge.
+   Quench Heated Bronze Spike into Bronze Spike using Quench Tank.
+   Shape Heated Bronze Spike into Bronze Spike using Anvil with a Hammer.
+   Forge Heated Bronze Spike into Super Heated Bronze Spike using Forge.
+   Forge Super Heated Bronze Spike into Red Hot Bronze Spike using Forge.
+   Quench Red Hot Bronze Spike into Bronze Spike using Quench Tank.
+   Quench Super Heated Bronze Spike into Bronze Spike using Quench Tank.
+   Shape Super Heated Bronze Spike into Bronze Spike using Anvil with a Hammer.
+-- Five-Spiked Shield ----- 
+   Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 5 Shield Spike, Shield Band, Wooden Shield Core, Shield Circle, into 0 Five-Spiked Shield Kits.
+   Assemble Five-Spiked Shield Kit into Five-Spiked Shield using Riveter.
+   Combine Spiked Shield Shape, Shield Handle, 5 Shield Spike, Shield Band, Wicker Shield Core, Shield Circle, into 0 Five-Spiked Shield Wicker Kits.
+   Assemble Five-Spiked Shield Wicker Kit into Five-Spiked Shield using Riveter.
+-- Iron Shield ----- 
+   Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Iron Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Iron Shield Kits.
+   Assemble Iron Shield Kit into Iron Shield using Riveter.
+-- Iron Shield Shape ----- 
+   Shape 10 Heated Iron Ingot into Iron Shield Shape using Anvil with a Hammer.
+   Forge Iron Shield Shape into Heated Iron Shield Shape using Forge.
+   Quench Heated Iron Shield Shape into Iron Shield Shape using Quench Tank.
+   Shape Heated Iron Shield Shape into Iron Shield Shape using Anvil with a Hammer.
+   Forge Heated Iron Shield Shape into Super Heated Iron Shield Shape using Forge.
+   Forge Super Heated Iron Shield Shape into Red Hot Iron Shield Shape using Forge.
+   Quench Red Hot Iron Shield Shape into Iron Shield Shape using Quench Tank.
+   Quench Super Heated Iron Shield Shape into Iron Shield Shape using Quench Tank.
+   Shape Super Heated Iron Shield Shape into Iron Shield Shape using Anvil with a Hammer.
+-- Iron Spike ----- 
+   Shape Heated Iron Ingot into 2 Iron Spike using Anvil with a Hammer.
+   Forge Iron Spike into Heated Iron Spike using Forge.
+   Quench Heated Iron Spike into Iron Spike using Quench Tank.
+   Shape Heated Iron Spike into Iron Spike using Anvil with a Hammer.
+   Forge Heated Iron Spike into Super Heated Iron Spike using Forge.
+   Forge Super Heated Iron Spike into Red Hot Iron Spike using Forge.
+   Quench Red Hot Iron Spike into Iron Spike using Quench Tank.
+   Quench Super Heated Iron Spike into Iron Spike using Quench Tank.
+   Shape Super Heated Iron Spike into Iron Spike using Anvil with a Hammer.
+-- Leather Shield Handle ----- 
+   Weave 4 Leather String into Leather Shield Handle using Smith Table.
+-- Round Bronze Shield ----- 
+   Combine 3 Shaped Small Wooden Block, into 0 Round Wooden Shield Cores.
+   Combine Round Bronze Shield Shape, Round Wooden Shield Core, Leather Shield Handle, into 0 Round Bronze Shield Kits.
+   Assemble Round Bronze Shield Kit into Round Bronze Shield using Riveter.
+-- Round Bronze Shield Shape ----- 
+   Shape 9 Heated Bronze Ingot into Round Bronze Shield Shape using Anvil with a Hammer.
+   Forge Round Bronze Shield Shape into Heated Bronze Round Shield Shape using Forge.
+   Quench Heated Bronze Round Shield Shape into Round Bronze Shield Shape using Quench Tank.
+   Shape Heated Bronze Round Shield Shape into Round Bronze Shield Shape using Anvil with a Hammer.
+   Forge Heated Bronze Round Shield Shape into Super Heated Bronze Round Shield Shape using Forge.
+   Forge Super Heated Bronze Round Shield Shape into Red Hot Bronze Round Shield Shape using Forge.
+   Quench Red Hot Bronze Round Shield Shape into Round Bronze Shield Shape using Quench Tank.
+   Quench Super Heated Bronze Round Shield Shape into Round Bronze Shield Shape using Quench Tank.
+   Shape Super Heated Bronze Round Shield Shape into Round Bronze Shield Shape using Anvil with a Hammer.
+-- Round Iron Shield ----- 
+   Combine 3 Shaped Small Wooden Block, into 0 Round Wooden Shield Cores.
+   Combine Round Iron Shield Shape, Round Wooden Shield Core, Leather Shield Handle, into 0 Round Iron Shield Kits.
+   Assemble Round Iron Shield Kit into Round Iron Shield using Riveter.
+-- Round Iron Shield Shape ----- 
+   Shape 9 Heated Iron Ingot into Round Iron Shield Shape using Anvil with a Hammer.
+   Forge Round Iron Shield Shape into Heated Round Iron Shield Shape using Forge.
+   Quench Heated Round Iron Shield Shape into Round Iron Shield Shape using Quench Tank.
+   Shape Heated Round Iron Shield Shape into Round Iron Shield Shape using Anvil with a Hammer.
+   Forge Heated Round Iron Shield Shape into Super Heated Round Iron Shield Shape using Forge.
+   Forge Super Heated Round Iron Shield Shape into Red Hot Round Iron Shield Shape using Forge.
+   Quench Red Hot Round Iron Shield Shape into Round Iron Shield Shape using Quench Tank.
+   Quench Super Heated Round Iron Shield Shape into Round Iron Shield Shape using Quench Tank.
+   Shape Super Heated Round Iron Shield Shape into Round Iron Shield Shape using Anvil with a Hammer.
+-- Round Shield ----- 
+   Combine 3 Shaped Small Wooden Block, into 0 Round Wooden Shield Cores.
+   Combine Round Shield Shape, Round Wooden Shield Core, Leather Shield Handle, into 0 Round Shield Kits.
+   Assemble Round Shield Kit into Round Shield using Riveter.
+-- Round Shield Shape ----- 
+   Forge Round Shield Shape into Heated Round Shield Shape using Forge.
+   Quench Heated Round Shield Shape into Round Shield Shape using Quench Tank.
+   Shape Heated Round Shield Shape into Round Shield Shape using Anvil with a Hammer.
+   Forge Heated Round Shield Shape into Super Heated Round Shield Shape using Forge.
+   Forge Super Heated Round Shield Shape into Red Hot Round Shield Shape using Forge.
+   Quench Red Hot Round Shield Shape into Round Shield Shape using Quench Tank.
+   Quench Super Heated Round Shield Shape into Round Shield Shape using Quench Tank.
+   Shape Super Heated Round Shield Shape into Round Shield Shape using Anvil with a Hammer.
+   Shape 9 Heated Steel Ingot into Round Shield Shape using Anvil with a Hammer.
+-- Shaped Small Wooden Block ----- 
+   Cut Threestem Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+   Cut White Oak Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+   Cut Wooden Block into 2 Small Wooden Block using Smith Table with a Wood Saw.
+   Carve Small Wooden Block into Shaped Small Wooden Block using Smith Table with a Wood Chisel.
+-- Shaped Wooden Block ----- 
+   Cut Threestem Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+   Cut White Oak Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+   Carve Wooden Block into Shaped Wooden Block using Smith Table with a Wood Chisel.
+-- Shield ----- 
+   Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Shield Kits.
+   Assemble Shield Kit into Shield using Riveter.
+-- Shield Band ----- 
+   Forge Shield Band into Heated Shield Band using Forge.
+   Quench Heated Shield Band into Shield Band using Quench Tank.
+   Shape Heated Shield Band into Shield Band using Anvil with a Hammer.
+   Forge Heated Shield Band into Super Heated Shield Band using Forge.
+   Forge Super Heated Shield Band into Red Hot Shield Band using Forge.
+   Quench Red Hot Shield Band into Shield Band using Quench Tank.
+   Shape 7 Heated Steel Ingot into 3 Shield Band using Anvil with a Hammer.
+   Quench Super Heated Shield Band into Shield Band using Quench Tank.
+   Shape Super Heated Shield Band into Shield Band using Anvil with a Hammer.
+-- Shield Circle ----- 
+   Forge Shield Circle into Heated Shield Circle using Forge.
+   Forge Heated Shield Circle into Super Heated Shield Circle using Forge.
+   Forge Super Heated Shield Circle into Red Hot Shield Circle using Forge.
+   Quench Red Hot Shield Circle into Shield Circle using Quench Tank.
+   Quench Super Heated Shield Circle into Shield Circle using Quench Tank.
+   Shape Super Heated Shield Circle into Shield Circle using Anvil with a Hammer.
+   Shape 8 Heated Steel Ingot into 4 Shield Circle using Anvil with a Hammer.
+   Quench Heated Shield Circle into Shield Circle using Quench Tank.
+   Shape Heated Shield Circle into Shield Circle using Anvil with a Hammer.
+-- Shield Edging ----- 
+   Forge Shield Edging into Heated Shield Edging using Forge.
+   Quench Heated Shield Edging into Shield Edging using Quench Tank.
+   Shape Heated Shield Edging into Shield Edging using Anvil with a Hammer.
+   Forge Heated Shield Edging into Super Heated Shield Edging using Forge.
+   Forge Super Heated Shield Edging into Red Hot Shield Edging using Forge.
+   Quench Red Hot Shield Edging into Shield Edging using Quench Tank.
+   Quench Super Heated Shield Edging into Shield Edging using Quench Tank.
+   Shape Super Heated Shield Edging into Shield Edging using Anvil with a Hammer.
+   Shape 14 Heated Steel Ingot into 7 Shield Edging using Anvil with a Hammer.
+-- Shield Handle ----- 
+   Forge Shield Handle into Heated Shield Handle using Forge.
+   Quench Heated Shield Handle into Shield Handle using Quench Tank.
+   Shape Heated Shield Handle into Shield Handle using Anvil with a Hammer.
+   Forge Heated Shield Handle into Super Heated Shield Handle using Forge.
+   Forge Super Heated Shield Handle into Red Hot Shield Handle using Forge.
+   Quench Red Hot Shield Handle into Shield Handle using Quench Tank.
+   Quench Super Heated Shield Handle into Shield Handle using Quench Tank.
+   Shape Super Heated Shield Handle into Shield Handle using Anvil with a Hammer.
+   Shape 12 Heated Steel Ingot into 6 Shield Handle using Anvil with a Hammer.
+-- Shield Shape ----- 
+   Forge Shield Shape into Heated Shield Shape using Forge.
+   Quench Heated Shield Shape into Shield Shape using Quench Tank.
+   Shape Heated Shield Shape into Shield Shape using Anvil with a Hammer.
+   Forge Heated Shield Shape into Super Heated Shield Shape using Forge.
+   Forge Super Heated Shield Shape into Red Hot Shield Shape using Forge.
+   Quench Red Hot Shield Shape into Shield Shape using Quench Tank.
+   Quench Super Heated Shield Shape into Shield Shape using Quench Tank.
+   Shape Super Heated Shield Shape into Shield Shape using Anvil with a Hammer.
+   Shape 10 Heated Steel Ingot into Shield Shape using Anvil with a Hammer.
+-- Shield Spike ----- 
+   Forge Shield Spike into Heated Shield Spike using Forge.
+   Quench Heated Shield Spike into Shield Spike using Quench Tank.
+   Shape Heated Shield Spike into Shield Spike using Anvil with a Hammer.
+   Forge Heated Shield Spike into Super Heated Shield Spike using Forge.
+   Forge Super Heated Shield Spike into Red Hot Shield Spike using Forge.
+   Quench Red Hot Shield Spike into Shield Spike using Quench Tank.
+   Quench Super Heated Shield Spike into Shield Spike using Quench Tank.
+   Shape Super Heated Shield Spike into Shield Spike using Anvil with a Hammer.
+   Shape Heated Steel Ingot into 2 Shield Spike using Anvil with a Hammer.
+-- Small Round Shield Shape ----- 
+   Forge Small Round Shield Shape into Heated Small Round Shield Shape using Forge.
+   Quench Heated Small Round Shield Shape into Small Round Shield Shape using Quench Tank.
+   Shape Heated Small Round Shield Shape into Small Round Shield Shape using Anvil with a Hammer.
+   Forge Heated Small Round Shield Shape into Super Heated Small Round Shield Shape using Forge.
+   Forge Super Heated Small Round Shield Shape into Red Hot Small Round Shield Shape using Forge.
+   Quench Red Hot Small Round Shield Shape into Small Round Shield Shape using Quench Tank.
+   Quench Super Heated Small Round Shield Shape into Small Round Shield Shape using Quench Tank.
+   Shape Super Heated Small Round Shield Shape into Small Round Shield Shape using Anvil with a Hammer.
+   Shape 4 Heated Steel Ingot into Small Round Shield Shape using Anvil with a Hammer.
+-- Small Shield Shape ----- 
+   Forge Small Shield Shape into Heated Small Shield Shape using Forge.
+   Forge Heated Small Shield Shape into Super Heated Small Shield Shape using Forge.
+   Quench Super Heated Small Shield Shape into Small Shield Shape using Quench Tank.
+   Shape Super Heated Small Shield Shape into Small Shield Shape using Anvil with a Hammer.
+   Shape 5 Heated Steel Ingot into Small Shield Shape using Anvil with a Hammer.
+   Quench Heated Small Shield Shape into Small Shield Shape using Quench Tank.
+   Shape Heated Small Shield Shape into Small Shield Shape using Anvil with a Hammer.
+   Forge Super Heated Small Shield Shape into Red Hot Small Shield Shape using Forge.
+   Quench Red Hot Small Shield Shape into Small Shield Shape using Quench Tank.
+-- Small Wicker Shield Core ----- 
+   Dry Wyn Reed into Dried Reed using Smith Table.
+   Weave 8 Dried Reed into Wicker Section using Smith Table.
+   Weave 2 Wicker Section into Small Wicker Shield Core using Smith Table.
+-- Spiked Bronze Shield ----- 
+   Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine 4 Bronze Spike, Spiked Bronze Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Spiked Bronze Shield Kits.
+   Assemble Spiked Bronze Shield Kit into Spiked Bronze Shield using Riveter.
+-- Spiked Bronze Shield Shape ----- 
+   Forge Spiked Bronze Shield Shape into Heated Spiked Bronze Shield Shape using Forge.
+   Quench Heated Spiked Bronze Shield Shape into Spiked Bronze Shield Shape using Quench Tank.
+   Shape Heated Spiked Bronze Shield Shape into Spiked Bronze Shield Shape using Anvil with a Hammer.
+   Forge Heated Spiked Bronze Shield Shape into Super Heated Spiked Bronze Shield Shape using Forge.
+   Forge Super Heated Spiked Bronze Shield Shape into Red Hot Spiked Bronze Shield Shape using Forge.
+   Quench Red Hot Spiked Bronze Shield Shape into Spiked Bronze Shield Shape using Quench Tank.
+   Shape 11 Heated Bronze Ingot into Spiked Bronze Shield Shape using Anvil with a Hammer.
+   Quench Super Heated Spiked Bronze Shield Shape into Spiked Bronze Shield Shape using Quench Tank.
+   Shape Super Heated Spiked Bronze Shield Shape into Spiked Bronze Shield Shape using Anvil with a Hammer.
+-- Spiked Iron Shield ----- 
+   Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine 4 Iron Spike, Spiked Iron Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Spiked Iron Shield Kits.
+   Assemble Spiked Iron Shield Kit into Spiked Iron Shield using Riveter.
+-- Spiked Iron Shield Shape ----- 
+   Shape 11 Heated Iron Ingot into Spiked Iron Shield Shape using Anvil with a Hammer.
+   Forge Spiked Iron Shield Shape into Heated Spiked Iron Shield Shape using Forge.
+   Quench Heated Spiked Iron Shield Shape into Spiked Iron Shield Shape using Quench Tank.
+   Shape Heated Spiked Iron Shield Shape into Spiked Iron Shield Shape using Anvil with a Hammer.
+   Forge Heated Spiked Iron Shield Shape into Super Heated Spiked Iron Shield Shape using Forge.
+   Forge Super Heated Spiked Iron Shield Shape into Red Hot Spiked Iron Shield Shape using Forge.
+   Quench Red Hot Spiked Iron Shield Shape into Spiked Iron Shield Shape using Quench Tank.
+   Quench Super Heated Spiked Iron Shield Shape into Spiked Iron Shield Shape using Quench Tank.
+   Shape Super Heated Spiked Iron Shield Shape into Spiked Iron Shield Shape using Anvil with a Hammer.
+-- Spiked Shield ----- 
+   Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine 4 Shield Spike, Spiked Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Spiked Shield Kits.
+   Assemble Spiked Shield Kit into Spiked Shield using Riveter.
+-- Spiked Shield Shape ----- 
+   Forge Spiked Shield Shape into Heated Spiked Shield Shape using Forge.
+   Quench Heated Spiked Shield Shape into Spiked Shield Shape using Quench Tank.
+   Shape Heated Spiked Shield Shape into Spiked Shield Shape using Anvil with a Hammer.
+   Forge Heated Spiked Shield Shape into Super Heated Spiked Shield Shape using Forge.
+   Forge Super Heated Spiked Shield Shape into Red Hot Spiked Shield Shape using Forge.
+   Quench Red Hot Spiked Shield Shape into Spiked Shield Shape using Quench Tank.
+   Quench Super Heated Spiked Shield Shape into Spiked Shield Shape using Quench Tank.
+   Shape Super Heated Spiked Shield Shape into Spiked Shield Shape using Anvil with a Hammer.
+   Shape 11 Heated Steel Ingot into Spiked Shield Shape using Anvil with a Hammer.
+-- Stinger Shield ----- 
+   Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Cores.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, Wooden Shield Core, Shield Circle, into 0 Stinger Shield Kits.
+   Assemble Stinger Shield Kit into Stinger Shield using Riveter.
+   Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, Wicker Shield Core, Shield Circle, into 0 Stinger Shield Wicker Kits.
+   Assemble Stinger Shield Wicker Kit into Stinger Shield using Riveter.
+-- Three Rivet Shield ----- 
+   Combine 2 Shaped Small Wooden Block, into 0 Small Wooden Shield Cores.
+   Combine Small Round Shield Shape, Shield Handle, 4 Bronze Band, Small Wooden Shield Core, 2 Bronze Half Circle, into 0 Three Rivet Shield Kits.
+   Assemble Three Rivet Shield Kit into Three Rivet Shield using Riveter.
+   Combine Small Round Shield Shape, Shield Handle, 4 Bronze Band, Small Wicker Shield Core, 2 Bronze Half Circle, into 0 Three Rivet Shield Wicker Kits.
+   Assemble Three Rivet Shield Wicker Kit into Three Rivet Shield using Riveter.
+-- Wicker Shield Core ----- 
+   Dry Wyn Reed into Dried Reed using Smith Table.
+   Weave 8 Dried Reed into Wicker Section using Smith Table.
+   Weave 4 Wicker Section into Wicker Shield Core using Smith Table.

@@ -1,0 +1,314 @@
+-- Banded Mail Helm ----- 
+   Combine Chain Mail Helm, Set of Steel Bands, into 0 Banded Mail Helm Kit.
+   Combine Perfect Gem Socket, Banded Mail Helm Kit, into 1 Perfect Enchanted Banded Mail Helm Kit.
+   Set Perfect Enchanted Banded Mail Helm Kit into Banded Mail Helm using Smith Table with a Diamond Crystal.
+   Combine Chain Mail Helm, Set of Steel Bands, into 0 Banded Mail Helm Kit.
+   Combine Superior Gem Socket, Banded Mail Helm Kit, into 1 Sup. Enchanted Banded Mail Helm Kit.
+   Set Sup. Enchanted Banded Mail Helm Kit into Banded Mail Helm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Banded Mail Helm Kit into Banded Mail Helm using Smith Table with a Sapphire Crystal.
+   Combine Chain Mail Helm, Set of Steel Bands, into 0 Banded Mail Helm Kit.
+   Combine Standard Gem Socket, Banded Mail Helm Kit, into 1 Enchanted Banded Mail Helm Kit.
+   Set Enchanted Banded Mail Helm Kit into Banded Mail Helm using Smith Table with a Ruby Crystal.
+-- Battle Helm ----- 
+   Combine 4 Sharpened Deadly Claw, Steel Plate Helm, into 0 Battle Helm Kit.
+   Combine Standard Gem Socket, Battle Helm Kit, into 1 Enchanted Battle Helm Kit.
+   Set Enchanted Battle Helm Kit into Battle Helm using Smith Table with a Ruby Crystal.
+   Combine 4 Sharpened Deadly Claw, Steel Plate Helm, into 0 Battle Helm Kit.
+   Combine Perfect Gem Socket, Battle Helm Kit, into 1 Perfect Enchanted Battle Helm Kit.
+   Set Perfect Enchanted Battle Helm Kit into Battle Helm using Smith Table with a Diamond Crystal.
+   Combine 4 Sharpened Deadly Claw, Steel Plate Helm, into 0 Battle Helm Kit.
+   Combine Superior Gem Socket, Battle Helm Kit, into 1 Sup. Enchanted Battle Helm Kit.
+   Set Sup. Enchanted Battle Helm Kit into Battle Helm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Battle Helm Kit into Battle Helm using Smith Table with a Sapphire Crystal.
+-- Brigandine Helm ----- 
+   Combine Mercenary Helm, Set of Steel Plates, into 0 Brigandine Helm Kit.
+   Combine Standard Gem Socket, Brigandine Helm Kit, into 1 Enchanted Brigandine Helm Kit.
+   Set Enchanted Brigandine Helm Kit into Brigandine Helm using Smith Table with a Ruby Crystal.
+   Combine Mercenary Helm, Set of Steel Plates, into 0 Brigandine Helm Kit.
+   Combine Perfect Gem Socket, Brigandine Helm Kit, into 1 Perfect Enchanted Brigandine Helm Kit.
+   Set Perfect Enchanted Brigandine Helm Kit into Brigandine Helm using Smith Table with a Diamond Crystal.
+   Combine Mercenary Helm, Set of Steel Plates, into 0 Brigandine Helm Kit.
+   Combine Superior Gem Socket, Brigandine Helm Kit, into 1 Sup. Enchanted Brigandine Helm K
+   Set Sup. Enchanted Brigandine Helm Kit into Brigandine Helm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Brigandine Helm Kit into Brigandine Helm using Smith Table with a Sapphire Crystal.
+-- Bronze Serpent Helm ----- 
+   Combine Bronze Spangen, Bronze Scale Mail Cloth, into 0 Bronze Serpent Helm Kit.
+   Combine Standard Gem Socket, Bronze Serpent Helm Kit, into 1 Enchanted Bronze Serpent Helm Kit.
+   Set Enchanted Bronze Serpent Helm Kit into Bronze Serpent Helm using Smith Table with a Ruby Crystal.
+   Combine Bronze Spangen, Bronze Scale Mail Cloth, into 0 Bronze Serpent Helm Kit.
+   Combine Perfect Gem Socket, Bronze Serpent Helm Kit, into 1 Perfect Enchanted Bronze Serpent Helm Kit.
+   Set Perfect Enchanted Bronze Serpent Helm Kit into Bronze Serpent Helm using Smith Table with a Diamond Crystal.
+   Combine Bronze Spangen, Bronze Scale Mail Cloth, into 0 Bronze Serpent Helm Kit.
+   Combine Superior Gem Socket, Bronze Serpent Helm Kit, into 1 Sup. Enchanted Bronze Serpent Helm Kit.
+   Set Sup. Enchanted Bronze Serpent Helm Kit into Bronze Serpent Helm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Bronze Serpent Helm Kit into Bronze Serpent Helm using Smith Table with a Sapphire Crystal.
+-- Bronze Spangen ----- 
+   Combine Bronze Helm Headband, Bronze Helm Topband, into 0 Bronze Spangen Kit.
+   Combine Standard Gem Socket, Bronze Spangen Kit, into 1 Enchanted Bronze Spangen Kit.
+   Set Enchanted Bronze Spangen Kit into Bronze Spangen using Smith Table with a Ruby Crystal.
+   Combine Bronze Helm Headband, Bronze Helm Topband, into 0 Bronze Spangen Kit.
+   Combine Perfect Gem Socket, Bronze Spangen Kit, into 1 Perfect Enchanted Bronze Spangen Kit.
+   Set Perfect Enchanted Bronze Spangen Kit into Bronze Spangen using Smith Table with a Diamond Crystal.
+   Combine Bronze Helm Headband, Bronze Helm Topband, into 0 Bronze Spangen Kit.
+   Combine Superior Gem Socket, Bronze Spangen Kit, into 1 Sup. Enchanted Bronze Spangen Kit.
+   Set Sup. Enchanted Bronze Spangen Kit into Bronze Spangen using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Bronze Spangen Kit into Bronze Spangen using Smith Table with a Sapphire Crystal.
+-- Bronze Spangenhelm ----- 
+   Combine Bronze Spangen, Bronze Helm Skullcap, into 0 Bronze Spangenhelm Kit.
+   Combine Standard Gem Socket, Bronze Spangenhelm Kit, into 1 Enchanted Bronze Spangenhelm Kit.
+   Set Enchanted Bronze Spangenhelm Kit into Bronze Spangenhelm using Smith Table with a Ruby Crystal.
+   Combine Bronze Spangen, Bronze Helm Skullcap, into 0 Bronze Spangenhelm Kit.
+   Combine Perfect Gem Socket, Bronze Spangenhelm Kit, into 1 Perfect Enchanted Bronze Spangenhelm Kit.
+   Set Perfect Enchanted Bronze Spangenhelm Kit into Bronze Spangenhelm using Smith Table with a Diamond Crystal.
+   Combine Bronze Spangen, Bronze Helm Skullcap, into 0 Bronze Spangenhelm Kit.
+   Combine Superior Gem Socket, Bronze Spangenhelm Kit, into 1 Sup. Enchanted Bronze Spangenhelm Kit.
+   Set Sup. Enchanted Bronze Spangenhelm Kit into Bronze Spangenhelm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Bronze Spangenhelm Kit into Bronze Spangenhelm using Smith Table with a Sapphire Crystal.
+-- Chain Mail Arms Armor ----- 
+   Combine 4 Medium Chain Mail Piece, into 0 Chain Mail Arms Kit.
+   Combine Superior Gem Socket, Chain Mail Arms Kit, into 1 Sup. Enchanted Chain Mail Arms Kit.
+   Set Sup. Enchanted Chain Mail Arms Kit into Chain Mail Arms Armor using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Chain Mail Arms Kit into Chain Mail Arms Armor using Smith Table with a Sapphire Crystal.
+   Combine 4 Medium Chain Mail Piece, into 0 Chain Mail Arms Kit.
+   Combine Perfect Gem Socket, Chain Mail Arms Kit, into 1 Perfect Enchanted Chain Mail Arms Kit.
+   Set Perfect Enchanted Chain Mail Arms Kit into Chain Mail Arms Armor using Smith Table with a Diamond Crystal.
+   Combine 4 Medium Chain Mail Piece, into 0 Chain Mail Arms Kit.
+   Combine Standard Gem Socket, Chain Mail Arms Kit, into 1 Enchanted Chain Mail Arms Kit.
+   Set Enchanted Chain Mail Arms Kit into Chain Mail Arms Armor using Smith Table with a Ruby Crystal.
+-- Chain Mail Boots ----- 
+   Combine 2 Small Chain Mail Piece, 2 Medium Chain Mail Piece, into 0 Chain Mail Boots Kit.
+   Combine Superior Gem Socket, Chain Mail Boots Kit, into 1 Sup. Enchanted Chain Mail Boots Kit.
+   Set Sup. Enchanted Chain Mail Boots Kit into Chain Mail Boots using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Chain Mail Boots Kit into Chain Mail Boots using Smith Table with a Sapphire Crystal.
+   Combine 2 Small Chain Mail Piece, 2 Medium Chain Mail Piece, into 0 Chain Mail Boots Kit.
+   Combine Perfect Gem Socket, Chain Mail Boots Kit, into 1 Perfect Enchanted Chain Mail Boots Kit.
+   Set Perfect Enchanted Chain Mail Boots Kit into Chain Mail Boots using Smith Table with a Diamond Crystal.
+   Combine 2 Small Chain Mail Piece, 2 Medium Chain Mail Piece, into 0 Chain Mail Boots Kit.
+   Combine Standard Gem Socket, Chain Mail Boots Kit, into 1 Enchanted Chain Mail Boots Kit.
+   Set Enchanted Chain Mail Boots Kit into Chain Mail Boots using Smith Table with a Ruby Crystal.
+-- Chain Mail Gloves ----- 
+   Combine 4 Small Chain Mail Piece, into 0 Chain Mail Gloves Kit.
+   Combine Superior Gem Socket, Chain Mail Gloves Kit, into 1 Sup. Enchanted Chain Mail Gloves Kit.
+   Set Sup. Enchanted Chain Mail Gloves Kit into Chain Mail Gloves using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Chain Mail Gloves Kit into Chain Mail Gloves using Smith Table with a Sapphire Crystal.
+   Combine 4 Small Chain Mail Piece, into 0 Chain Mail Gloves Kit.
+   Combine Perfect Gem Socket, Chain Mail Gloves Kit, into 1 Perfect Enchanted Chain Mail Gloves Kit.
+   Set Perfect Enchanted Chain Mail Gloves Kit into Chain Mail Gloves using Smith Table with a Diamond Crystal.
+   Combine 4 Small Chain Mail Piece, into 0 Chain Mail Gloves Kit.
+   Combine Standard Gem Socket, Chain Mail Gloves Kit, into 1 Enchanted Chain Mail Gloves Kit.
+   Set Enchanted Chain Mail Gloves Kit into Chain Mail Gloves using Smith Table with a Ruby Crystal.
+-- Chain Mail Helm ----- 
+   Combine Spangen, Large Mail Cloth, into 0 Chain Mail Helm Kit.
+   Combine Superior Gem Socket, Chain Mail Helm Kit, into 1 Sup. Enchanted Chain Mail Helm Kit.
+   Set Sup. Enchanted Chain Mail Helm Kit into Chain Mail Helm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Chain Mail Helm Kit into Chain Mail Helm using Smith Table with a Sapphire Crystal.
+   Combine Spangen, Large Mail Cloth, into 0 Chain Mail Helm Kit.
+   Combine Perfect Gem Socket, Chain Mail Helm Kit, into 1 Perfect Enchanted Chain Mail Helm Kit.
+   Set Perfect Enchanted Chain Mail Helm Kit into Chain Mail Helm using Smith Table with a Diamond Crystal.
+   Combine Spangen, Large Mail Cloth, into 0 Chain Mail Helm Kit.
+   Combine Standard Gem Socket, Chain Mail Helm Kit, into 1 Enchanted Chain Mail Helm Kit.
+   Set Enchanted Chain Mail Helm Kit into Chain Mail Helm using Smith Table with a Ruby Crystal.
+-- Chain Mail Pants ----- 
+   Combine 2 Small Chain Mail Piece, 2 Large Chain Mail Piece, into 0 Chain Mail Pants Kit.
+   Combine Superior Gem Socket, Chain Mail Pants Kit, into 1 Sup. Enchanted Chain Mail Pants Kit.
+   Set Sup. Enchanted Chain Mail Pants Kit into Chain Mail Pants using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Chain Mail Pants Kit into Chain Mail Pants using Smith Table with a Sapphire Crystal.
+   Combine 2 Small Chain Mail Piece, 2 Large Chain Mail Piece, into 0 Chain Mail Pants Kit.
+   Combine Perfect Gem Socket, Chain Mail Pants Kit, into 1 Perfect Enchanted Chain Mail Pants Kit.
+   Set Perfect Enchanted Chain Mail Pants Kit into Chain Mail Pants using Smith Table with a Diamond Crystal.
+   Combine 2 Small Chain Mail Piece, 2 Large Chain Mail Piece, into 0 Chain Mail Pants Kit.
+   Combine Standard Gem Socket, Chain Mail Pants Kit, into 1 Enchanted Chain Mail Pants Kit.
+   Set Enchanted Chain Mail Pants Kit into Chain Mail Pants using Smith Table with a Ruby Crystal.
+-- Chain Mail Torso Armor ----- 
+   Combine 2 Medium Chain Mail Piece, 2 Large Chain Mail Piece, into 0 Chain Mail Torso Kit.
+   Combine Standard Gem Socket, Chain Mail Torso Kit, into 1 Enchanted Chain Mail Torso Kit.
+   Set Enchanted Chain Mail Torso Kit into Chain Mail Torso Armor using Smith Table with a Ruby Crystal.
+   Combine 2 Medium Chain Mail Piece, 2 Large Chain Mail Piece, into 0 Chain Mail Torso Kit.
+   Combine Superior Gem Socket, Chain Mail Torso Kit, into 1 Sup. Enchanted Chain Mail Torso Kit.
+   Set Sup. Enchanted Chain Mail Torso Kit into Chain Mail Torso Armor using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Chain Mail Torso Kit into Chain Mail Torso Armor using Smith Table with a Sapphire Crystal.
+   Combine 2 Medium Chain Mail Piece, 2 Large Chain Mail Piece, into 0 Chain Mail Torso Kit.
+   Combine Perfect Gem Socket, Chain Mail Torso Kit, into 1 Perfect Enchanted Chain Mail Torso Kit.
+   Set Perfect Enchanted Chain Mail Torso Kit into Chain Mail Torso Armor using Smith Table with a Diamond Crystal.
+-- Full Spangenhelm ----- 
+   Combine Spangenhelm, Helm Neck Wrap, into 0 Full Spangenhelm Kit.
+   Combine Standard Gem Socket, Full Spangenhelm Kit, into 1 Enchanted Full Spangenhelm Kit.
+   Set Enchanted Full Spangenhelm Kit into Full Spangenhelm using Smith Table with a Ruby Crystal.
+   Combine Spangenhelm, Helm Neck Wrap, into 0 Full Spangenhelm Kit.
+   Combine Perfect Gem Socket, Full Spangenhelm Kit, into 1 Perfect Enchanted Full Spangenhelm Kit.
+   Set Perfect Enchanted Full Spangenhelm Kit into Full Spangenhelm using Smith Table with a Diamond Crystal.
+   Combine Spangenhelm, Helm Neck Wrap, into 0 Full Spangenhelm Kit.
+   Combine Superior Gem Socket, Full Spangenhelm Kit, into 1 Sup. Enchanted Full Spangenhelm Kit.
+   Set Sup. Enchanted Full Spangenhelm Kit into Full Spangenhelm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Full Spangenhelm Kit into Full Spangenhelm using Smith Table with a Sapphire Crystal.
+-- Holy Helmet ----- 
+   Combine Bronze Spangenhelm, Bronze Helm Neck Wrap, into 0 Holy Helmet Kit.
+   Combine Standard Gem Socket, Holy Helmet Kit, into 1 Enchanted Holy Helmet Kit.
+   Set Enchanted Holy Helmet Kit into Holy Helmet using Smith Table with a Ruby Crystal.
+   Combine Bronze Spangenhelm, Bronze Helm Neck Wrap, into 0 Holy Helmet Kit.
+   Combine Perfect Gem Socket, Holy Helmet Kit, into 1 Perfect Enchanted Holy Helmet Kit.
+   Set Perfect Enchanted Holy Helmet Kit into Holy Helmet using Smith Table with a Diamond Crystal.
+   Combine Bronze Spangenhelm, Bronze Helm Neck Wrap, into 0 Holy Helmet Kit.
+   Combine Superior Gem Socket, Holy Helmet Kit, into 1 Sup. Enchanted Holy Helmet Kit.
+   Set Sup. Enchanted Holy Helmet Kit into Holy Helmet using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Holy Helmet Kit into Holy Helmet using Smith Table with a Sapphire Crystal.
+-- Horned Helm ----- 
+   Combine 2 Sharpened Deadly Claw, Steel Plate Helm, into 0 Horned Helm Kit.
+   Combine Standard Gem Socket, Horned Helm Kit, into 1 Enchanted Horned Helm Kit.
+   Set Enchanted Horned Helm Kit into Horned Helm using Smith Table with a Ruby Crystal.
+   Combine 2 Sharpened Deadly Claw, Steel Plate Helm, into 0 Horned Helm Kit.
+   Combine Perfect Gem Socket, Horned Helm Kit, into 1 Perfect Enchanted Horned Helm Kit.
+   Set Perfect Enchanted Horned Helm Kit into Horned Helm using Smith Table with a Diamond Crystal.
+   Combine 2 Sharpened Deadly Claw, Steel Plate Helm, into 0 Horned Helm Kit.
+   Combine Superior Gem Socket, Horned Helm Kit, into 1 Sup. Enchanted Horned Helm Kit.
+   Set Sup. Enchanted Horned Helm Kit into Horned Helm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Horned Helm Kit into Horned Helm using Smith Table with a Sapphire Crystal.
+-- Leather Arms Armor ----- 
+   Combine Perfect Gem Socket, Leather Arms Kit, into 1 Perfect Enchanted Leather Arms Kit.
+   Set Perfect Enchanted Leather Arms Kit into Leather Arms Armor using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Leather Arms Kit, into 1 Enchanted Leather Arms Kit.
+   Set Enchanted Leather Arms Kit into Leather Arms Armor using Smith Table with a Ruby Crystal.
+   Combine Superior Gem Socket, Leather Arms Kit, into 1 Sup. Enchanted Leather Arms Kit.
+   Set Sup. Enchanted Leather Arms Kit into Leather Arms Armor using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Leather Arms Kit into Leather Arms Armor using Smith Table with a Sapphire Crystal.
+-- Leather Boots ----- 
+   Combine Perfect Gem Socket, Leather Boots Kit, into 1 Perfect Enchanted Leather Boots Kit.
+   Set Perfect Enchanted Leather Boots Kit into Leather Boots using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Leather Boots Kit, into 1 Enchanted Leather Boots Kit.
+   Set Enchanted Leather Boots Kit into Leather Boots usi ng Smith Table with a Ruby Crystal.
+   Combine Superior Gem Socket, Leather Boots Kit, into 1 Sup. Enchanted Leather Boots Kit.
+   Set Sup. Enchanted Leather Boots Kit into Leather Boots using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Leather Boots Kit into Leather Boots using Smith Table with a Sapphire Crystal.
+-- Leather Cap ----- 
+   Combine Superior Gem Socket, Leather Cap Kit, into 1 Sup. Enchanted Leather Cap Kit.
+   Set Sup. Enchanted Leather Cap Kit into Leather Cap using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Leather Cap Kit into Leather Cap using Smith Table with a Sapphire Crystal.
+   Combine Perfect Gem Socket, Leather Cap Kit, into 1 Perfect Enchanted Leather Cap Kit.
+   Set Perfect Enchanted Leather Cap Kit into Leather Cap using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Leather Cap Kit, into 1 Enchanted Leather Cap Kit.
+   Set Enchanted Leather Cap Kit into Leather Cap using Smith Table with a Ruby Crystal.
+-- Leather Gloves ----- 
+   Combine Perfect Gem Socket, Leather Gloves Kit, into 1 Perfect Enchanted Leather Gloves Kit.
+   Set Perfect Enchanted Leather Gloves Kit into Leather Gloves using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Leather Gloves Kit, into 1 Enchanted Leather Gloves Kit.
+   Set Enchanted Leather Gloves Kit into Leather Gloves using Smith Table with a Ruby Crystal.
+   Combine Superior Gem Socket, Leather Gloves Kit, into 1 Sup. Enchanted Leather Gloves Kit.
+   Set Sup. Enchanted Leather Gloves Kit into Leather Gloves using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Leather Gloves Kit into Leather Gloves using Smith Table with a Sapphire Crystal.
+-- Leather Pants ----- 
+   Combine Perfect Gem Socket, Leather Pants Kit, into 1 Perfect Enchanted Leather Pants Kit.
+   Set Perfect Enchanted Leather Pants Kit into Leather Pants using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Leather Pants Kit, into 1 Enchanted Leather Pants Kit.
+   Set Enchanted Leather Pants Kit into Leather Pants using Smith Table with a Ruby Crystal.
+   Combine Superior Gem Socket, Leather Pants Kit, into 1 Sup. Enchanted Leather Pants Kit.
+   Set Sup. Enchanted Leather Pants Kit into Leather Pants using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Leather Pants Kit into Leather Pants using Smith Table with a Sapphire Crystal.
+-- Leather Torso Armor ----- 
+   Combine Superior Gem Socket, Leather Torso Kit, into 1 Sup. Enchanted Leather Torso Kit.
+   Set Sup. Enchanted Leather Torso Kit into Leather Torso Armor using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Leather Torso Kit into Leather Torso Armor using Smith Table with a Sapphire Crystal.
+   Combine Perfect Gem Socket, Leather Torso Kit, into 1 Perfect Enchanted Leather Torso Kit.
+   Set Perfect Enchanted Leather Torso Kit into Leather Torso Armor using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Leather Torso Kit, into 1 Enchanted Leather Torso Kit.
+   Set Enchanted Leather Torso Kit into Leather Torso Armor using Smith Table with a Ruby Crystal.
+-- Mercenary Helm ----- 
+   Combine 2 Leather Cheekplate, Leather Ridge, into 0 Mercenary Helm Kit.
+   Combine Standard Gem Socket, Mercenary Helm Kit, into 1 Enchanted Mercenary Helm Kit.
+   Set Enchanted Mercenary Helm Kit into Mercenary Helm using Smith Table with a Ruby Crystal.
+   Combine 2 Leather Cheekplate, Leather Ridge, into 0 Mercenary Helm Kit.
+   Combine Perfect Gem Socket, Mercenary Helm Kit, into 1 Perfect Enchanted Mercenary Helm Kit.
+   Set Perfect Enchanted Mercenary Helm Kit into Mercenary Helm using Smith Table with a Diamond Crystal.
+   Combine 2 Leather Cheekplate, Leather Ridge, into 0 Mercenary Helm Kit.
+   Combine Superior Gem Socket, Mercenary Helm Kit, into 1 Sup. Enchanted Mercenary Helm Kit.
+   Set Sup. Enchanted Mercenary Helm Kit into Mercenary Helm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Mercenary Helm Kit into Mercenary Helm using Smith Table with a Sapphire Crystal.
+-- Perfect Gem Socket ----- 
+   Shape 3 Molten Steels into Perfect Gem Socket using Anvil with a Hammer.
+-- Plate Mail Arms Armor ----- 
+   Combine Superior Gem Socket, Riveted Plate Mail Arms Kit, into 1 Sup. Enchanted Riveted Plate Mail Arms Kit.
+   Set Sup. Enchanted Riveted Plate Mail Arms Kit into Plate Mail Arms Armor using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Riveted Plate Mail Arms Kit into Plate Mail Arms Armor using Smith Table with a Sapphire Crystal.
+   Combine Perfect Gem Socket, Riveted Plate Mail Arms Kit, into 1 Perfect Enchanted Riveted Plate Mail Arms Kit.
+   Set Perfect Enchanted Riveted Plate Mail Arms Kit into Plate Mail Arms Armor using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Riveted Plate Mail Arms Kit, into 1 Enchanted Riveted Plate Mail Arms Kit.
+   Set Enchanted Riveted Plate Mail Arms Kit into Plate Mail Arms Armor using Smith Table with a Ruby Crystal.
+-- Plate Mail Boots ----- 
+   Combine Superior Gem Socket, Riveted Plate Mail Boots Kit, into 1 Sup. Enchanted Riveted Plate Mail Boots Kit.
+   Set Sup. Enchanted Riveted Plate Mail Boots Kit into Plate Mail Boots using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Riveted Plate Mail Boots Kit into Plate Mail Boots using Smith Table with a Sapphire Crystal.
+   Combine Perfect Gem Socket, Riveted Plate Mail Boots Kit, into 1 Perfect Enchanted Riveted Plate Mail Boots Kit.
+   Set Perfect Enchanted Riveted Plate Mail Boots Kit into Plate Mail Boots using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Riveted Plate Mail Boots Kit, into 1 Enchanted Riveted Plate Mail Boots Kit.
+   Set Enchanted Riveted Plate Mail Boots Kit into Plate Mail Boots using Smith Table with a Ruby Crystal.
+-- Plate Mail Gloves ----- 
+   Combine Superior Gem Socket, Riveted Plate Mail Gloves Kit, into 1 Sup. Enchanted Riveted Plate Mail Gloves Kit.
+   Set Sup. Enchanted Riveted Plate Mail Gloves Kit into Plate Mail Gloves using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Riveted Plate Mail Gloves Kit into Plate Mail Gloves using Smith Table with a Sapphire Crystal.
+   Combine Perfect Gem Socket, Riveted Plate Mail Gloves Kit, into 1 Perfect Enchanted Riveted Plate Mail Gloves Kit.
+   Set Perfect Enchanted Riveted Plate Mail Gloves Kit into Plate Mail Gloves using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Riveted Plate Mail Gloves Kit, into 1 Enchanted Riveted Plate Mail Gloves Kit.
+   Set Enchanted Riveted Plate Mail Gloves Kit into Plate Mail Gloves using Smith Table with a Ruby Crystal.
+-- Plate Mail Helm ----- 
+   Combine Chain Mail Helm, Set of Steel Plates, into 0 Plate Mail Helm Kit.
+   Combine Superior Gem Socket, Plate Mail Helm Kit, into 1 Sup. Enchanted Plate Mail Helm Kit.
+   Set Sup. Enchanted Plate Mail Helm Kit into Plate Mail Helm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Plate Mail Helm Kit into Plate Mail Helm using Smith Table with a Sapphire Crystal.
+   Combine Chain Mail Helm, Set of Steel Plates, into 0 Plate Mail Helm Kit.
+   Combine Standard Gem Socket, Plate Mail Helm Kit, into 1 Enchanted Plate Mail Helm Kit.
+   Set Enchanted Plate Mail Helm Kit into Plate Mail Helm using Smith Table with a Ruby Crystal.
+   Combine Chain Mail Helm, Set of Steel Plates, into 0 Plate Mail Helm Kit.
+   Combine Perfect Gem Socket, Plate Mail Helm Kit, into 1 Perfect Enchanted Plate Mail Helm Kit.
+   Set Perfect Enchanted Plate Mail Helm Kit into Plate Mail Helm using Smith Table with a Diamond Crystal.
+-- Plate Mail Pants ----- 
+   Combine Superior Gem Socket, Riveted Plate Mail Pants Kit, into 1 Sup. Enchanted Riveted Plate Mail Pants Kit.
+   Set Sup. Enchanted Riveted Plate Mail Pants Kit into Plate Mail Pants using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Riveted Plate Mail Pants Kit into Plate Mail Pants using Smith Table with a Sapphire Crystal.
+   Combine Perfect Gem Socket, Riveted Plate Mail Pants Kit, into 1 Perfect Enchanted Riveted Plate Mail Pants Kit.
+   Set Perfect Enchanted Riveted Plate Mail Pants Kit into Plate Mail Pants using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Riveted Plate Mail Pants Kit, into 1 Enchanted Riveted Plate Mail Pants Kit.
+   Set Enchanted Riveted Plate Mail Pants Kit into Plate Mail Pants using Smith Table with a Ruby Crystal.
+-- Plate Mail Torso Armor ----- 
+   Combine Superior Gem Socket, Riveted Plate Mail Torso Kit, into 1 Sup. Enchanted Riveted Plate Mail Torso Kit.
+   Set Sup. Enchanted Riveted Plate Mail Torso Kit into Plate Mail Torso Armor using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Riveted Plate Mail Torso Kit into Plate Mail Torso Armor using Smith Table with a Sapphire Crystal.
+   Combine Perfect Gem Socket, Riveted Plate Mail Torso Kit, into 1 Perfect Enchanted Riveted Plate Mail Torso Kit.
+   Set Perfect Enchanted Riveted Plate Mail Torso Kit into Plate Mail Torso Armor using Smith Table with a Diamond Crystal.
+   Combine Standard Gem Socket, Riveted Plate Mail Torso Kit, into 1 Enchanted Riveted Plate Mail Torso Kit.
+   Set Enchanted Riveted Plate Mail Torso Kit into Plate Mail Torso Armor using Smith Table with a Ruby Crystal.
+-- Spangen ----- 
+   Combine Helm Headband, Helm Topband, into 0 Spangen Kit.
+   Combine Superior Gem Socket, Spangen Kit, into 1 Sup. Enchanted Spangen Kit.
+   Set Sup. Enchanted Spangen Kit into Spangen using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Spangen Kit into Spangen using Smith Table with a Sapphire Crystal.
+   Combine Helm Headband, Helm Topband, into 0 Spangen Kit.
+   Combine Standard Gem Socket, Spangen Kit, into 1 Enchanted Spangen Kit.
+   Set Enchanted Spangen Kit into Spangen using Smith Table with a Ruby Crystal.
+   Combine Helm Headband, Helm Topband, into 0 Spangen Kit.
+   Combine Perfect Gem Socket, Spangen Kit, into 1 Perfect Enchanted Spangen Kit.
+   Set Perfect Enchanted Spangen Kit into Spangen using Smith Table with a Diamond Crystal.
+-- Spangenhelm ----- 
+   Combine Spangen, Helm Skullcap, into 0 Spangenhelm Kit.
+   Combine Superior Gem Socket, Spangenhelm Kit, into 1 Sup. Enchanted Spangenhelm Kit.
+   Set Sup. Enchanted Spangenhelm Kit into Spangenhelm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Spangenhelm Kit into Spangenhelm using Smith Table with a Sapphire Crystal.
+   Combine Spangen, Helm Skullcap, into 0 Spangenhelm Kit.
+   Combine Standard Gem Socket, Spangenhelm Kit, into 1 Enchanted Spangenhelm Kit.
+   Set Enchanted Spangenhelm Kit into Spangenhelm using Smith Table with a Ruby Crystal.
+   Combine Spangen, Helm Skullcap, into 0 Spangenhelm Kit.
+   Combine Perfect Gem Socket, Spangenhelm Kit, into 1 Perfect Enchanted Spangenhelm Kit.
+   Set Perfect Enchanted Spangenhelm Kit into Spangenhelm using Smith Table with a Diamond Crystal.
+-- Standard Gem Socket ----- 
+   Shape1 Molten Steel into Standard Gem Socket using Anvil with a Hammer.
+-- Steel Plate Helm ----- 
+   Combine 2 Steel Cheekplate, Steel Ridge, Spangen, into 0 Steel Plate Helm Kit.
+   Combine Superior Gem Socket, Steel Plate Helm Kit, into 1 Sup. Enchanted Steel Plate Helm Kit.
+   Set Sup. Enchanted Steel Plate Helm Kit into Steel Plate Helm using Smith Table with a Emerald Crystal.
+   Set Sup. Enchanted Steel Plate Helm Kit into Steel Plate Helm using Smith Table with a Sapphire Crystal.
+   Combine 2 Steel Cheekplate, Steel Ridge, Spangen, into 0 Steel Plate Helm Kit.
+   Combine Standard Gem Socket, Steel Plate Helm Kit, into 1 Enchanted Steel Plate Helm Kit.
+   Set Enchanted Steel Plate Helm Kit into Steel Plate Helm using Smith Table with a Ruby Crystal.
+   Combine 2 Steel Cheekplate, Steel Ridge, Spangen, into 0 Steel Plate Helm Kit.
+   Combine Perfect Gem Socket, Steel Plate Helm Kit, into 1 Perfect Enchanted Steel Plate Helm Kit.
+   Set Perfect Enchanted Steel Plate Helm Kit into Steel Plate Helm using Smith Table with a Diamond Crystal.
+-- Superior Gem Socket ----- 
+   Shape2 2 Molten Steels into Superior Gem Socket using Anvil with a Hammer.

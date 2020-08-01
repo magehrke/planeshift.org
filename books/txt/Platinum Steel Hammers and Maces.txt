@@ -1,0 +1,124 @@
+-- Mace Battle Handle Shape ----- 
+   Cut Threestem Wood into 4 Wooden Baton using Smith Table with a Wood Saw.
+   Cut Wooden Baton into 2 Half Wooden baton using Smith Table with a Wood Saw.
+   Shape Half Wooden baton into Mace Battle Handle Shape using Smith Table with a Wood Chisel.
+-- Mace War Handle Shape ----- 
+   Cut Threestem Wood into 4 Wooden Baton using Smith Table with a Wood Saw.
+   Shape Wooden Baton into Mace War Handle Shape using Smith Table with a Wood Chisel.
+-- Platinum Steel Battle Hammer ----- 
+   Combine Mace Battle Handle Shape, 2 Leather Strings, into 0 Mace Battle Handles.
+   Combine Mace Battle Handle, Platinum Steel Hammer Base, Platinum Steel Hammer Head, into 0 Platinum Steel Battle Hammer Kits.
+   Assemble Platinum Steel Battle Hammer Kit into Platinum Steel Battle Hammer Assembly using Riveter.
+   Shape Platinum Steel Battle Hammer Assembly into Platinum Steel Battle Hammer using Anvil with a Hammer.
+-- Platinum Steel Battle Pick ----- 
+   Combine Mace Battle Handle Shape, 2 Leather Strings, into 0 Mace Battle Handles.
+   Combine Mace Battle Handle, Platinum Steel Hammer Base, Platinum Steel Hammer Spike, into 0 Platinum Steel Battle Pick Kits.
+   Assemble Platinum Steel Battle Pick Kit into Platinum Steel Battle Pick Assembly using Riveter.
+   Shape Platinum Steel Battle Pick Assembly into Platinum Steel Battle Pick using Anvil with a Hammer.
+-- Platinum Steel Flanged Mace ----- 
+   Combine Mace Battle Handle Shape, 2 Leather Strings, into 0 Mace Battle Handles.
+   Combine Mace Battle Handle, Platinum Steel Flanged Mace Head, into 0 Platinum Steel Flanged Mace Kits.
+   Assemble Platinum Steel Flanged Mace Kit into Platinum Steel Flanged Mace Assembly using Riveter.
+   Shape Platinum Steel Flanged Mace Assembly into Platinum Steel Flanged Mace using Anvil with a Hammer.
+-- Platinum Steel Flanged Mace Head ----- 
+   Forge Platinum Steel Flanged Mace Head into Heated Platinum Steel Flanged Mace Head using Forge.
+   Quench Heated Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Quench Tank.
+   Shape Heated Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Anvil with a Hammer.
+   Forge Heated Platinum Steel Flanged Mace Head into Super Heated Platinum Steel Flanged Mace Head using Forge.
+   Quench Super Heated Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Quench Tank.
+   Forge Super Heated Platinum Steel Flanged Mace Head into Red Hot Platinum Steel Flanged Mace Head using Forge.
+   Quench Red Hot Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Quench Tank.
+   Shape 8 Heated Platinum Steel Ingot into Platinum Steel Flanged Mace Head using Anvil with a Hammer.
+-- Platinum Steel Hammer Base ----- 
+   Forge Platinum Steel Hammer Base into Heated Platinum Steel Hammer Base using Forge.
+   Quench Heated Platinum Steel Hammer Base into Platinum Steel Hammer Base using Quench Tank.
+   Shape Heated Platinum Steel Hammer Base into Platinum Steel Hammer Base using Anvil with a Hammer.
+   Shape 7 Heated Platinum Steel Ingot into Platinum Steel Hammer Base using Anvil with a Hammer.
+   Forge Heated Platinum Steel Hammer Base into Super Heated Platinum Steel Hammer Base using Forge.
+   Quench Super Heated Platinum Steel Hammer Base into Platinum Steel Hammer Base using Quench Tank.
+   Forge Super Heated Platinum Steel Hammer Base into Red Hot Platinum Steel Hammer Base using Forge.
+   Quench Red Hot Platinum Steel Hammer Base into Platinum Steel Hammer Base using Quench Tank.
+-- Platinum Steel Hammer Head ----- 
+   Forge Platinum Steel Hammer Head into Heated Platinum Steel Hammer Head using Forge.
+   Quench Heated Platinum Steel Hammer Head into Platinum Steel Hammer Head using Quench Tank.
+   Shape Heated Platinum Steel Hammer Head into Platinum Steel Hammer Head using Anvil with a Hammer.
+   Forge Heated Platinum Steel Hammer Head into Super Heated Platinum Steel Hammer Head using Forge.
+   Quench Super Heated Platinum Steel Hammer Head into Platinum Steel Hammer Head using Quench Tank.
+   Forge Super Heated Platinum Steel Hammer Head into Red Hot Platinum Steel Hammer Head using Forge.
+   Quench Red Hot Platinum Steel Hammer Head into Platinum Steel Hammer Head using Quench Tank.
+   Shape 2 Heated Platinum Steel Stock into Platinum Steel Hammer Head using Anvil with a Hammer.
+-- Platinum Steel Hammer Spike ----- 
+   Shape 12 Heated Platinum Steel Ingot into 2 Platinum Steel Hammer Spike using Anvil with a Hammer.
+   Forge Platinum Steel Hammer Spike into Heated Platinum Steel Hammer Spike using Forge.
+   Quench Heated Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Quench Tank.
+   Shape Heated Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Anvil with a Hammer.
+   Forge Heated Platinum Steel Hammer Spike into Super Heated Platinum Steel Hammer Spike using Forge.
+   Quench Super Heated Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Quench Tank.
+   Forge Super Heated Platinum Steel Hammer Spike into Red Hot Platinum Steel Hammer Spike using Forge.
+   Quench Red Hot Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Quench Tank.
+-- Platinum Steel Ingot ----- 
+   Forge Platinum Steel Spiked Mace Head into Heated Platinum Steel Spiked Mace Head using Forge.
+   Forge Heated Platinum Steel Spiked Mace Head into Super Heated Platinum Steel Spiked Mace Head using Forge.
+   Shape Super Heated Platinum Steel Spiked Mace Head into 9 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Spiked Mace Head into Red Hot Platinum Steel Spiked Mace Head using Forge.
+   Shape Red Hot Platinum Steel Spiked Mace Head into 9 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Flanged Mace Head into Heated Platinum Steel Flanged Mace Head using Forge.
+   Forge Heated Platinum Steel Flanged Mace Head into Super Heated Platinum Steel Flanged Mace Head using Forge.
+   Shape Super Heated Platinum Steel Flanged Mace Head into 8 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Flanged Mace Head into Red Hot Platinum Steel Flanged Mace Head using Forge.
+   Shape Red Hot Platinum Steel Flanged Mace Head into 8 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Hammer Base into Heated Platinum Steel Hammer Base using Forge.
+   Forge Heated Platinum Steel Hammer Base into Super Heated Platinum Steel Hammer Base using Forge.
+   Shape Super Heated Platinum Steel Hammer Base into 7 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Hammer Base into Red Hot Platinum Steel Hammer Base using Forge.
+   Shape Red Hot Platinum Steel Hammer Base into 7 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Hammer Spike into Heated Platinum Steel Hammer Spike using Forge.
+   Forge Heated Platinum Steel Hammer Spike into Super Heated Platinum Steel Hammer Spike using Forge.
+   Shape Super Heated Platinum Steel Hammer Spike into 6 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Hammer Spike into Red Hot Platinum Steel Hammer Spike using Forge.
+   Shape Red Hot Platinum Steel Hammer Spike into 6 Platinum Steel Ingot using Anvil with a Hammer.
+-- Platinum Steel Mace ----- 
+   Combine Mace Battle Handle Shape, 2 Leather Strings, into 0 Mace Battle Handles.
+   Combine Mace Battle Handle, Platinum Steel Spiked Mace Head, into 0 Platinum Steel Mace Kits.
+   Assemble Platinum Steel Mace Kit into Platinum Steel Mace Assembly using Riveter.
+   Shape Platinum Steel Mace Assembly into Platinum Steel Mace using Anvil with a Hammer.
+-- Platinum Steel Morning Star ----- 
+   Combine Mace War Handle Shape, 4 Leather Strings, into 0 Mace War Handles.
+   Combine Mace War Handle, Platinum Steel Spiked Mace Head, into 0 Platinum Steel Morning Star Kits.
+   Assemble Platinum Steel Morning Star Kit into Platinum Steel Morning Star Assembly using Riveter.
+   Shape Platinum Steel Morning Star Assembly into Platinum Steel Morning Star using Anvil with a Hammer.
+-- Platinum Steel Spiked Mace Head ----- 
+   Forge Platinum Steel Spiked Mace Head into Heated Platinum Steel Spiked Mace Head using Forge.
+   Quench Heated Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Quench Tank.
+   Shape Heated Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Anvil with a Hammer.
+   Forge Heated Platinum Steel Spiked Mace Head into Super Heated Platinum Steel Spiked Mace Head using Forge.
+   Quench Super Heated Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Quench Tank.
+   Forge Super Heated Platinum Steel Spiked Mace Head into Red Hot Platinum Steel Spiked Mace Head using Forge.
+   Quench Red Hot Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Quench Tank.
+   Shape 9 Heated Platinum Steel Ingot into Platinum Steel Spiked Mace Head using Anvil with a Hammer.
+-- Platinum Steel Spiked Warhammer ----- 
+   Combine Mace War Handle Shape, 4 Leather Strings, into 0 Mace War Handles.
+   Combine Mace War Handle, Platinum Steel Hammer Base, Platinum Steel Hammer Head, Platinum Steel Hammer Spike, into 0 Platinum Steel Spiked Warhammer Kits.
+   Assemble Platinum Steel Spiked Warhammer Kit into Platinum Steel Spiked Warhammer Assembly using Riveter.
+   Shape Platinum Steel Spiked Warhammer Assembly into Platinum Steel Spiked Warhammer using Anvil with a Hammer.
+-- Platinum Steel Stock ----- 
+   Forge Platinum Steel Hammer Head into Heated Platinum Steel Hammer Head using Forge.
+   Forge Heated Platinum Steel Hammer Head into Super Heated Platinum Steel Hammer Head using Forge.
+   Shape Super Heated Platinum Steel Hammer Head into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Hammer Head into Red Hot Platinum Steel Hammer Head using Forge.
+   Shape Red Hot Platinum Steel Hammer Head into 2 Platinum Steel Stock using Anvil with a Hammer.
+-- Platinum Steel War Flanged Mace ----- 
+   Combine Mace War Handle Shape, 4 Leather Strings, into 0 Mace War Handles.
+   Combine Mace War Handle, Platinum Steel Flanged Mace Head, into 0 Platinum Steel War Flanged Mace Kits.
+   Assemble Platinum Steel War Flanged Mace Kit into Platinum Steel War Flanged Mace Assembly using Riveter.
+   Shape Platinum Steel War Flanged Mace Assembly into Platinum Steel War Flanged Mace using Anvil with a Hammer.
+-- Platinum Steel War Pick ----- 
+   Combine Mace War Handle Shape, 4 Leather Strings, into 0 Mace War Handles.
+   Combine Mace War Handle, Platinum Steel Hammer Base, 2 Platinum Steel Hammer Spike, into 0 Platinum Steel War Pick Kits.
+   Assemble Platinum Steel War Pick Kit into Platinum Steel War Pick Assembly using Riveter.
+   Shape Platinum Steel War Pick Assembly into Platinum Steel War Pick using Anvil with a Hammer.
+-- Platinum Steel Warhammer ----- 
+   Combine Mace War Handle Shape, 4 Leather Strings, into 0 Mace War Handles.
+   Combine Mace War Handle, Platinum Steel Hammer Base, 2 Platinum Steel Hammer Heads, into 0 Platinum Steel Warhammer Kits.
+   Assemble Platinum Steel Warhammer Kit into Platinum Steel Warhammer Assembly using Riveter.
+   Shape Platinum Steel Warhammer Assembly into Platinum Steel Warhammer using Anvil with a Hammer.

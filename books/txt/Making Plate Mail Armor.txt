@@ -1,0 +1,130 @@
+-- Large Steel Piece ----- 
+   Forge Large Steel Piece into Heated Large Steel Piece using Forge.
+   Forge Heated Large Steel Piece into Super Heated Large Steel Piece using Forge.
+   Quench Super Heated Large Steel Piece into Large Steel Piece using Quench Tank.
+   Forge Super Heated Large Steel Piece into Red Hot Large Steel Piece using Forge.
+   Quench Red Hot Large Steel Piece into Large Steel Piece using Quench Tank.
+   Shape 7 Heated Steel Ingot into Large Steel Piece using Anvil with a Hammer.
+   Quench Heated Large Steel Piece into Large Steel Piece using Quench Tank.
+-- Large Steel Plate ----- 
+   Forge Large Steel Piece into Heated Large Steel Piece using Forge.
+   Forge Heated Large Steel Piece into Super Heated Large Steel Piece using Forge.
+   Shape Super Heated Large Steel Piece into Large Steel Plate using Anvil with a Hammer.
+   Forge Large Steel Plate into Heated Large Steel Plate using Forge.
+   Quench Heated Large Steel Plate into Large Steel Plate using Quench Tank.
+   Forge Heated Large Steel Plate into Super Heated Large Steel Plate using Forge.
+   Quench Super Heated Large Steel Plate into Large Steel Plate using Quench Tank.
+   Shape Heated Large Steel Piece into Large Steel Plate using Anvil with a Hammer.
+   Forge Super Heated Large Steel Plate into Red Hot Large Steel Plate using For
+   Quench Red Hot Large Steel Plate into Large Steel Plate using Quench Tank.
+-- Medium Steel Piece ----- 
+   Forge Medium Steel Piece into Heated Medium Steel Piece using Forge.
+   Forge Heated Medium Steel Piece into Super Heated Medium Steel Piece using Forge.
+   Quench Super Heated Medium Steel Piece into Medium Steel Piece using Quench Tank.
+   Forge Super Heated Medium Steel Piece into Red Hot Medium Steel Piece using Forge.
+   Quench Red Hot Medium Steel Piece into Medium Steel Piece using Quench Tank.
+   Quench Heated Medium Steel Piece into Medium Steel Piece using Quench Tank.
+   Shape 5 Heated Steel Ingot into Medium Steel Piece using Anvil with a Hammer.
+-- Medium Steel Plate ----- 
+   Forge Medium Steel Piece into Heated Medium Steel Piece using Forge.
+   Forge Heated Medium Steel Piece into Super Heated Medium Steel Piece using Forge.
+   Shape Super Heated Medium Steel Piece into Medium Steel Plate using Anvil with a Hammer.
+   Forge Medium Steel Plate into Heated Medium Steel Plate using Forge.
+   Quench Heated Medium Steel Plate into Medium Steel Plate using Quench Tank.
+   Forge Heated Medium Steel Plate into Super Heated Medium Steel Plate using Forge.
+   Quench Super Heated Medium Steel Plate into Medium Steel Plate using Quench Tank.
+   Shape Heated Medium Steel Piece into Medium Steel Plate using Anvil with a Hammer.
+   Forge Super Heated Medium Steel Plate into Red Hot Medium Steel Plate using Forge.
+   Quench Red Hot Medium Steel Plate into Medium Steel Plate using Quench Tank.
+-- Plate Mail Arms Armor ----- 
+   Combine 4 Medium Steel Plates, Chain Mail Arms Armor, into 0 Plate Mail Arms Kit.
+   Rivet Plate Mail Arms Kit into Riveted Plate Mail Arms Kit using Riveter.
+   Shape Riveted Plate Mail Arms Kit into Plate Mail Arms Armor using Anvil with a Hammer.
+-- Plate Mail Boot ----- 
+   Combine 2 Small Steel Plates, 2 Medium Steel Plates, Chain Mail Boot, into 0 Plate Mail Boot Kit.
+   Rivet Plate Mail Boot Kit into Riveted Plate Mail Boot Kit using Riveter.
+   Shape Riveted Plate Mail Boot Kit into Plate Mail Boot using Anvil with a Hammer.
+-- Plate Mail Glove ----- 
+   Combine 2 Set of Steel Plates, 2 Small Steel Plates, Chain Mail Glove, into 0 Plate Mail Glove Kit.
+   Rivet Plate Mail Glove Kit into Riveted Plate Mail Glove Kit using Riveter.
+   Shape Riveted Plate Mail Glove Kit into Plate Mail Glove using Anvil with a Hammer.
+-- Plate Mail Pant ----- 
+   Combine 2 Small Steel Plates, 2 Large Steel Plates, Chain Mail Pant, into 0 Plate Mail Pant Kit.
+   Rivet Plate Mail Pant Kit into Riveted Plate Mail Pant Kit using Riveter.
+   Shape Riveted Plate Mail Pant Kit into Plate Mail Pant using Anvil with a Hammer.
+-- Plate Mail Torso Armor ----- 
+   Combine 2 Medium Steel Plates, 2 Large Steel Plates, Chain Mail Torso Armor, into 0 Plate Mail Torso Kit.
+   Rivet Plate Mail Torso Kit into Riveted Plate Mail Torso Kit using Riveter.
+   Shape Riveted Plate Mail Torso Kit into Plate Mail Torso Armor using Anvil with a Hammer.
+-- Set of Steel Piece ----- 
+   Forge Set of Steel Piece into Heated Set of Steel Piece using Forge.
+   Forge Heated Set of Steel Piece into Super Heated Set of Steel Piece using Forge.
+   Forge Super Heated Set of Steel Piece into Red Hot Set of Steel Piece using Forge.
+   Quench Red Hot Set of Steel Piece into Set of Steel Piece using Quench Tank.
+   Quench Heated Set of Steel Piece into Set of Steel Piece using Quench Tank.
+   Shape 2 Heated Steel Ingot into Set of Steel Piece using Anvil with a Hammer.
+   Quench Super Heated Set of Steel Piece into Set of Steel Piece using Quench Tank.
+-- Set of Steel Plates ----- 
+   Forge Set of Steel Plates into Heated Set of Steel Plates using Forge.
+   Shape Heated Set of Steel Plates into Set of Steel Plates using Anvil with a Hammer.
+   Quench Heated Set of Steel Plates into Set of Steel Plates using Quench Tank.
+   Forge Heated Set of Steel Plates into Super Heated Set of Steel Plates using Forge.
+   Quench Super Heated Set of Steel Plates into Set of Steel Plates using Quench Tank.
+   Forge Set of Steel Piece into Heated Set of Steel Piece using Forge.
+   Shape Heated Set of Steel Piece into Set of Steel Plates using Anvil with a Hammer.
+   Forge Super Heated Set of Steel Plates into Red Hot Set of Steel Plates using Forge.
+   Quench Red Hot Set of Steel Plates into Set of Steel Plates using Quench Tank.
+   Forge Heated Set of Steel Piece into Super Heated Set of Steel Piece using Forge.
+   Shape Super Heated Set of Steel Piece into Set of Steel Plates using Anvil with a Hammer.
+-- Small Steel Piece ----- 
+   Forge Small Steel Piece into Heated Small Steel Piece using Forge.
+   Forge Heated Small Steel Piece into Super Heated Small Steel Piece using Forge.
+   Forge Super Heated Small Steel Piece into Red Hot Small Steel Piece using Forge.
+   Quench Red Hot Small Steel Piece into Small Steel Piece using Quench Tank.
+   Quench Heated Small Steel Piece into Small Steel Piece using Quench Tank.
+   Shape 3 Heated Steel Ingot into Small Steel Piece using Anvil with a Hammer.
+   Quench Super Heated Small Steel Piece into Small Steel Piece using Quench Tank.
+-- Small Steel Plate ----- 
+   Forge Small Steel Plate into Heated Small Steel Plate using Forge.
+   Quench Heated Small Steel Plate into Small Steel Plate using Quench Tank.
+   Forge Heated Small Steel Plate into Super Heated Small Steel Plate using Forge.
+   Quench Super Heated Small Steel Plate into Small Steel Plate using Quench Tank.
+   Forge Small Steel Piece into Heated Small Steel Piece using Forge.
+   Shape Heated Small Steel Piece into Small Steel Plate using Anvil with a Hammer.
+   Forge Super Heated Small Steel Plate into Red Hot Small Steel Plate using Forge.
+   Quench Red Hot Small Steel Plate into Small Steel Plate using Quench Tank.
+   Forge Heated Small Steel Piece into Super Heated Small Steel Piece using Forge.
+   Shape Super Heated Small Steel Piece into Small Steel Plate using Anvil with a Hammer.
+-- Steel Ingot ----- 
+   Forge Set of Steel Piece into Heated Set of Steel Piece using Forge.
+   Forge Heated Set of Steel Piece into Super Heated Set of Steel Piece using Forge.
+   Forge Super Heated Set of Steel Piece into Red Hot Set of Steel Piece using Forge.
+   Shape Red Hot Set of Steel Piece into 2 Steel Ingot using Anvil with a Hammer.
+   Forge Small Steel Piece into Heated Small Steel Piece using Forge.
+   Forge Heated Small Steel Piece into Super Heated Small Steel Piece using Forge.
+   Forge Super Heated Small Steel Piece into Red Hot Small Steel Piece using Forge.
+   Shape Red Hot Small Steel Piece into 3 Steel Ingot using Anvil with a Hammer.
+   Forge Medium Steel Piece into Heated Medium Steel Piece using Forge.
+   Forge Heated Medium Steel Piece into Super Heated Medium Steel Piece using Forge.
+   Forge Super Heated Medium Steel Piece into Red Hot Medium Steel Piece using Forge.
+   Shape Red Hot Medium Steel Piece into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Large Steel Piece into Heated Large Steel Piece using Forge.
+   Forge Heated Large Steel Piece into Super Heated Large Steel Piece using Forge.
+   Forge Super Heated Large Steel Piece into Red Hot Large Steel Piece using Forge.
+   Shape Red Hot Large Steel Piece into 7 Steel Ingot using Anvil with a Hammer.
+   Forge Set of Steel Plates into Heated Set of Steel Plates using Forge.
+   Forge Heated Set of Steel Plates into Super Heated Set of Steel Plates using Forge.
+   Forge Super Heated Set of Steel Plates into Red Hot Set of Steel Plates using Forge.
+   Shape Red Hot Set of Steel Plates into 2 Steel Ingot using Anvil with a Hammer.
+   Forge Small Steel Plate into Heated Small Steel Plate using Forge.
+   Forge Heated Small Steel Plate into Super Heated Small Steel Plate using Forge.
+   Forge Super Heated Small Steel Plate into Red Hot Small Steel Plate using Forge.
+   Shape Red Hot Small Steel Plate into 3 Steel Ingot using Anvil with a Hammer.
+   Forge Medium Steel Plate into Heated Medium Steel Plate using Forge.
+   Forge Heated Medium Steel Plate into Super Heated Medium Steel Plate using Forge.
+   Forge Super Heated Medium Steel Plate into Red Hot Medium Steel Plate using Forge.
+   Shape Red Hot Medium Steel Plate into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Large Steel Plate into Heated Large Steel Plate using Forge.
+   Forge Heated Large Steel Plate into Super Heated Large Steel Plate using Forge.
+   Forge Super Heated Large Steel Plate into Red Hot Large Steel Plate using Forge.
+   Shape Red Hot Large Steel Plate into 7 Steel Ingot using Anvil with a Hammer.

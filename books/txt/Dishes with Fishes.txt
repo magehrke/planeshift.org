@@ -1,0 +1,303 @@
+-- Baked Ide ----- 
+   Cut Ide into Cleaned Ide using Preparation Table with a Kitchen Knife.
+   Combine Cleaned Ide, 2 Pinch of Salt, Wragberry Oil, into 0 Seasoned Ide.
+   Bake Seasoned Ide into Baked Ide using Oven.
+-- Baked Orfe With Night Mushroom ----- 
+   Combine Filleted Orfe, Fried Mushroom and Tuber, Pinch of Sinaflar, Pinch of Salt, Wragberry Oil, into 0 Uncooked Orfe with Night Mushroom.
+   Bake Uncooked Orfe with Night Mushroom into Baked Orfe With Night Mushroom using Oven.
+-- Baked Roltok ----- 
+   Cut Trout into Cleaned Trout using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Trout into 2 Filleted Trout using Preparation Table with a Kitchen Knife.
+   Combine 15 Pat of Butter, 2 Filleted Trout, Rolled Pastry Dough, into 0 Wrapping Fish and Doughs.
+   Wrap Wrapping Fish and Dough into Raw Roltok using Preparation Table.
+   Bake Raw Roltok into Baked Roltok using Oven.
+-- Banut ----- 
+   Measure Sack of Banut into 25 Banut using Preparation Table with a Scoop.
+-- Beer Batter ----- 
+   Combine 2 Scoop of Flour, Egg Mixture, Beer Mug, Pinch of Salt, into 0 Unmixed Beer Batters.
+   Mix Unmixed Beer Batter into Beer Batter using Wooden Bowl with a Wooden Spoon.
+-- Boiled Eel Pie Filling ----- 
+   Cut Eel into Cleaned Eel using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Eel into 2 Filleted Eel using Preparation Table with a Kitchen Knife.
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine Filleted Eel, 4 Sliced Night Mushroom, Dash of Ground Corium Seed, Pinch of Salt, Red Liquor Mug, Water Pouch, into 0 Unmixed Eel Pie Fillings.
+   Mix Unmixed Eel Pie Filling into Uncooked Eel Pie Filling using Wooden Bowl with a Wooden Spoon.
+   Heat Uncooked Eel Pie Filling into Hot Eel Pie Filling using Pot.
+   Heat Hot Eel Pie Filling into Simmered Eel Pie Filling using Pot.
+   Heat Simmered Eel Pie Filling into Boiled Eel Pie Filling using Pot.
+-- Boiled Kartoffel ----- 
+   Combine Pot of Boiling Water, 4 Cubed Kartoffel, into 0 Boiling Kartoffel.
+   Heat Boiling Kartoffel into 6 Boiled Kartoffel using Pot.
+-- Boiling Terevan Berry Wine Sauce ----- 
+   Combine Terevan Wine Bottle, 2 Dash of Fire Spice, Diced Threestem Fruit, Pinch of Salt, into 0 Unmixed Terevan Berry Wine Sauce.
+   Mix Unmixed Terevan Berry Wine Sauce into Terevan Berry Wine Sauce using Wooden Bowl with a Wooden Spoon.
+   Heat Terevan Berry Wine Sauce into Hot Terevan Berry Wine Sauce using Pot.
+   Heat Hot Terevan Berry Wine Sauce into Simmering Terevan Berry Wine Sauce using Pot.
+   Heat Simmering Terevan Berry Wine Sauce into Boiling Terevan Berry Wine Sauce using Pot.
+-- Burr Nut ----- 
+   Measure Sack of Burr Nut into 25 Burr Nut using Preparation Table with a Scoop.
+-- Carp Delight ----- 
+   Combine 6 Seared Carp Fishs, Thick Apple Glaze, into 6 Glazed Carp Fishs.
+   Measure Glazed Carp Fish into Carp Delight using Preparation Table with a Scoop.
+-- Clamod Perch And Rat Stew ----- 
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine Fried Stew Mix, 2 Water Pouch, Diced Threestem Fruit, Pinch of Salt, Pile of Diced Rat Meat, Diced Perch, into 0 Uncooked Perch and Rat Stews.
+   Heat Uncooked Perch and Rat Stew into Hot Perch and Rat Stew using Pot.
+   Heat Hot Perch and Rat Stew into Simmering Perch and Rat Stew using Pot.
+   Heat Simmering Perch and Rat Stew into Clamod Perch And Rat Stew using Pot.
+-- Coppernose Delight ----- 
+   Combine 6 Seared Coppernose, Thick Apple Glaze, into 6 Glazed Coppernose.
+   Measure Glazed Coppernose into Coppernose Delight using Preparation Table with a Scoop.
+-- Crayfish And Kartoffel Soup ----- 
+   Combine 6 Boiled Kartoffel, 2 Sliced Carrots, Fried Crayfish and Clacker Mix, Thickening Sauce, into 0 Unmixed Crayfish And Kartoffel Soups.
+   Mix Unmixed Crayfish And Kartoffel Soup into Uncooked Crayfish And Kartoffel Soup using Wooden Bowl with a Wooden Spoon.
+   Heat Uncooked Crayfish And Kartoffel Soup into Hot Crayfish And Kartoffel Soup using Pot.
+   Heat Hot Crayfish And Kartoffel Soup into Simmered Crayfish And Kartoffel Soup using Pot.
+   Heat Simmered Crayfish And Kartoffel Soup into Crayfish And Kartoffel Soup using Pot.
+-- Crayfish Delight ----- 
+   Combine 6 Seared Crayfish, Thick Apple Glaze, into 6 Glazed Crayfish.
+   Measure Glazed Crayfish into Crayfish Delight using Preparation Table with a Scoop.
+-- Cubed Kartoffel ----- 
+   Cut Kartoffel into Peeled Kartoffel using Preparation Table with a Kitchen Knife.
+   Cut Peeled Kartoffel into Cubed Kartoffel using Preparation Table with a Kitchen Knife.
+-- Dace Delight ----- 
+   Combine 6 Seared Dace, Thick Apple Glaze, into 6 Glazed Dace Fishs.
+   Measure Glazed Dace Fish into Dace Delight using Preparation Table with a Scoop.
+-- Dash of Fire Spice ----- 
+   Combine Diced Fire Fruit, 5 Dash of Ground Corium Seed, 5 Pinch of Salt, into 0 Fire Spice.
+   Measure Fire Spice into 10 Dash of Fire Spice using Preparation Table with a Scoop.
+-- Dash of Ground Corium Seed ----- 
+   Measure Jar of Corium Seed into 50 Dash of Ground Corium Seed using Preparation Table with a Scoop.
+-- Dash of Ground Eyebright ----- 
+   Grind 10 Eyebright into Ground Eyebright using Mortar and Pestle.
+   Measure Ground Eyebright into 25 Dash of Ground Eyebright using Preparation Table with a Scoop.
+-- Dash of Ground Wyn Reed ----- 
+   Cut Wyn Reed into Ground Wyn Reed using Preparation Table with a Kitchen Knife.
+   Measure Ground Wyn Reed into 30 Dash of Ground Wyn Reed using Preparation Table with a Scoop.
+-- Dash of Saffron ----- 
+   Measure Saffron into 25 Dash of Saffron using Preparation Table with a Scoop.
+-- Dash of Trefoil ----- 
+   Measure Bunch of Trefoil into 25 Dash of Trefoil using Preparation Table with a Scoop.
+-- Diced Bogo Pepper ----- 
+   Cut Bogo Pepper into Sliced Bogo Pepper using Preparation Table with a Kitchen Knife.
+   Cut Sliced Bogo Pepper into Diced Bogo Pepper using Preparation Table with a Kitchen Knife.
+-- Diced Fire Fruit ----- 
+   Cut Fire Fruit into Sliced Fire Fruit using Preparation Table with a Kitchen Knife.
+   Cut Sliced Fire Fruit into Diced Fire Fruit using Preparation Table with a Kitchen Knife.
+-- Diced Perch ----- 
+   Cut Perch into Cleaned Perch using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Perch into 2 Perch Steak using Preparation Table with a Kitchen Knife.
+   Cut Perch Steak into Diced Perch using Preparation Table with a Kitchen Knife.
+-- Diced Threestem Fruit ----- 
+   Cut Threestem Fruit into Sliced Threestem Fruit using Preparation Table with a Kitchen Knife.
+   Cut Sliced Threestem Fruit into Diced Threestem Fruit using Preparation Table with a Kitchen Knife.
+-- Dwarven Dace Steak ----- 
+   Cut Dace into Cleaned Dace using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Dace into 2 Filleted Dace using Preparation Table with a Kitchen Knife.
+   Combine 2 Filleted Dace, Beer Mug, into 0 Marinated Dace Steak.
+   Grill Marinated Dace Steak into Dwarven Dace Steak using Grill.
+-- Eel Delight ----- 
+   Combine 6 Seared Eel, Thick Apple Glaze, into 6 Glazed Eel.
+   Measure Glazed Eel into Eel Delight using Preparation Table with a Scoop.
+-- Eel Pie ----- 
+   Combine Boiled Eel Pie Filling, Juiceberry Sauce, 2 Rolled Pastry Doughs, into 0 Unbaked Eel Pies.
+   Bake Unbaked Eel Pie into Eel Pie using Oven.
+-- Egg Mixture ----- 
+   Combine 4 Eggs, Scoop of Milk, into 0 Egg Slops.
+   Mix Egg Slop into Egg Mixture using Wooden Bowl with a Wooden Spoon.
+-- Filleted Bream ----- 
+   Cut Bream into Cleaned Bream using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Bream into 2 Filleted Bream using Preparation Table with a Kitchen Knife.
+-- Filleted Lionfish ----- 
+   Cut Lionfish into Cleaned LionFish using Preparation Table with a Kitchen Knife.
+   Cut Cleaned LionFish into 2 Filleted Lionfish using Preparation Table with a Kitchen Knife.
+-- Filleted Orfe ----- 
+   Cut Orfe into Cleaned Orfe using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Orfe into 2 Filleted Orfe using Preparation Table with a Kitchen Knife.
+-- Fried Crayfish and Clacker Mix ----- 
+   Cut Crayfish into Crayfish Meat using Preparation Table with a Kitchen Knife.
+   Cut Bogo Pepper into Sliced Bogo Pepper using Preparation Table with a Kitchen Knife.
+   Combine 2 Crayfish Meats, Pile of Cubed Clacker Meat, Minced Pungent Tuber, Sliced Bogo Pepper, 2 Dash of Ground Wyn Reed, Pinch of Barberry, into 0 Crayfish and Clacker Mix.
+   Panfry Crayfish and Clacker Mix into Fried Crayfish and Clacker Mix using Iron Skillet.
+-- Fried Mushroom and Tuber ----- 
+   Combine 2 Minced Pungent Tuber, 3 Sliced Night Mushroom, Dash of Saffron, Wragberry Oil, into 0 Unmixed Mushroom and Tuber.
+   Mix Unmixed Mushroom and Tuber into Mixed Mushroom and Tuber using Wooden Bowl with a Wooden Spoon.
+   Panfry Mixed Mushroom and Tuber into Fried Mushroom and Tuber using Iron Skillet.
+-- Fried Pepper Garnish ----- 
+   Combine Pat of Butter, Diced Bogo Pepper, Pinch of Barberry, into 0 Uncooked Pepper Garnishs.
+   Panfry Uncooked Pepper Garnish into Fried Pepper Garnish using Iron Skillet.
+-- Fried Roltok ----- 
+   Cut Trout into Cleaned Trout using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Trout into 2 Filleted Trout using Preparation Table with a Kitchen Knife.
+   Combine 15 Pat of Butter, 2 Filleted Trout, Rolled Pastry Dough, into 0 Wrapping Fish and Doughs.
+   Wrap Wrapping Fish and Dough into Raw Roltok using Preparation Table.
+   Combine Raw Roltok, Hot Cooking Oil, into 0 Frying Roltok.
+   Panfry Frying Roltok into 5 Fried Roltok using Iron Skillet.
+-- Fried Stew Mix ----- 
+   Cut Pungent Tuber into Sliced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Cut Bogo Pepper into Sliced Bogo Pepper using Preparation Table with a Kitchen Knife.
+   Combine Wragberry Oil, 2 Sliced Pungent Tuber, 2 Sliced Bogo Peppers, 4 Cubed Kartoffel, into 0 Uncooked Stew Mix.
+   Panfry Uncooked Stew Mix into Fried Stew Mix using Iron Skillet.
+-- Grilled Filleted Unicornfish ----- 
+   Cut Unicornfish into Cleaned Unicornfish using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Unicornfish into 2 Filleted Unicorfish using Preparation Table with a Kitchen Knife.
+   Grill Filleted Unicornfish into Grilled Filleted Unicornfish using Grill.
+-- Hot Cooking Oil ----- 
+   Measure Lump of Lard into 25 Scoop of Lard using Preparation Table with a Scoop.
+   Panfry Scoop of Lard into Hot Cooking Oil using Iron Skillet.
+-- Hot Pungent Tuber Mash ----- 
+   Combine Minced Pungent Tuber, 2 Pat of Butter, into 0 Unmixed Pungent Tuber Mashs.
+   Mix Unmixed Pungent Tuber Mash into Mixed Pungent Tuber Mash using Wooden Bowl with a Wooden Spoon.
+   Heat Mixed Pungent Tuber Mash into Hot Pungent Tuber Mash using Pot.
+-- Hot Wragberry Oil ----- 
+   Panfry Wragberry Oil into Hot Wragberry Oil using Iron Skillet.
+-- Ide Delight ----- 
+   Combine 6 Seared Ide, Thick Apple Glaze, into 6 Glazed Ide.
+   Measure Glazed Ide into Ide Delight using Preparation Table with a Scoop.
+-- Jookan ----- 
+   Measure Sack of Jookan into 25 Jookan using Preparation Table with a Scoop.
+-- Juiceberry Sauce ----- 
+   Combine 4 Pat of Butter, 2 Scoop of Flour, Juiceberry Juice, into 0 Unmixed Juiceberry Sauce.
+   Mix Unmixed Juiceberry Sauce into Juiceberry Sauce using Wooden Bowl with a Wooden Spoon.
+-- Lionfish Souffle ----- 
+   Combine Hot Pungent Tuber Mash, 2 Scoop of Milk, into 0 Pungent Tuber Sauce.
+   Combine Pungent Tuber Sauce, Mashed Kartoffel, Egg Mixture, Mashed Lionfish, into 0 Unmixed Lionfish Souffles.
+   Mix Unmixed Lionfish Souffle into Uncooked Lionfish Souffle using Wooden Bowl with a Wooden Spoon.
+   Bake Uncooked Lionfish Souffle into Lionfish Souffle using Oven.
+-- Mashed Lionfish ----- 
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine 2 Filleted Lionfish, Water Pouch, Pinch of Salt, into 0 Lionfish in Salted Waters.
+   Heat Lionfish in Salted Water into Hot Lionfish in Salted Water using Pot.
+   Heat Hot Lionfish in Salted Water into Simmered Lionfish using Pot.
+   Mash Simmered Lionfish into Mashed Lionfish using Preparation Table with a Masher.
+-- Minced Pungent Tuber ----- 
+   Cut Pungent Tuber into Sliced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Cut Sliced Pungent Tuber into Diced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Cut Diced Pungent Tuber into Minced Pungent Tuber using Preparation Table with a Kitchen Knife.
+-- Octarchs Delight ----- 
+   Combine Grilled Filleted Unicornfish, 2 Boiling Terevan Berry Wine Sauce, Dash of Ground Eyebright, into 0 Unmixed Octarchs Deligh
+   Mix Unmixed Octarchs Delight into Octarchs Delight using Wooden Bowl with a Wooden Spoon.
+-- Oven Baked Bream ----- 
+   Combine Spiced Stuffing, Filleted Bream, into 0 Uncooked Stuffed Bream.
+   Bake Uncooked Stuffed Bream into Oven Baked Bream using Oven.
+-- Pan-Fried Carp ----- 
+   Cut Carp Fish into Cleaned Carp Fish using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Carp Fish into 2 Filleted Carp using Preparation Table with a Kitchen Knife.
+   Combine Filleted Carp, Pat of Butter, into 0 Buttery Carp.
+   Panfry Buttery Carp into Pan-Fried Carp using Iron Skillet.
+-- Pan-Fried Coppernose ----- 
+   Cut Coppernose into Cleaned Coppernose using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Coppernose into 2 Filleted Coppernose using Preparation Table with a Kitchen Knife.
+   Combine Filleted Coppernose, Pat of Butter, into 0 Buttery Coppernose.
+   Panfry Buttery Coppernose into Pan-Fried Coppernose using Iron Skillet.
+-- Pan-Fried Crayfish ----- 
+   Cut Crayfish into Crayfish Meat using Preparation Table with a Kitchen Knife.
+   Cut Crayfish Meat into 2 Filleted Crayfish using Preparation Table with a Kitchen Knife.
+   Combine Filleted Crayfish, Pat of Butter, into 0 Buttery Crayfish.
+   Panfry Buttery Crayfish into Pan-Fried Crayfish using Iron Skillet.
+-- Pan-Fried Dace ----- 
+   Cut Dace into Cleaned Dace using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Dace into 2 Filleted Dace using Preparation Table with a Kitchen Knife.
+   Combine Filleted Dace, Pat of Butter, into 0 Buttery Dace.
+   Panfry Buttery Dace into Pan-Fried Dace using Iron Skillet.
+-- Pan-Fried Eel ----- 
+   Cut Eel into Cleaned Eel using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Eel into 2 Filleted Eel using Preparation Table with a Kitchen Knife.
+   Combine Filleted Eel, Pat of Butter, into 0 Buttery Eel.
+   Panfry Buttery Eel into Pan-Fried Eel using Iron Skillet.
+-- Pan-Fried Ide ----- 
+   Cut Ide into Cleaned Ide using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Ide into 2 Filleted Ide using Preparation Table with a Kitchen Knife.
+   Combine Filleted Ide, Pat of Butter, into 0 Buttery Ide.
+   Panfry Buttery Ide into Pan-Fried Ide using Iron Skillet.
+-- Pan-Fried Trout ----- 
+   Cut Trout into Cleaned Trout using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Trout into 2 Filleted Trout using Preparation Table with a Kitchen Knife.
+   Combine Filleted Trout, Pat of Butter, into 0 Buttery Trout.
+   Panfry Buttery Trout into Pan-Fried Trout using Iron Skillet.
+-- Pat of Butter ----- 
+   Measure Lump of Butter into 25 Pat of Butter using Preparation Table with a Scoop.
+-- Pile of Diced Rat Meat ----- 
+   Cut Rat Meat into Pile of Rat Meat Chunk using Preparation Table with a Kitchen Knife.
+   Cut Pile of Rat Meat Chunk into Pile of Diced Rat Meat using Preparation Table with a Kitchen Knife.
+-- Pinch of Barberry ----- 
+   Grind Barberry Root into 25 Pinch of Barberry using Mortar and Pestle.
+-- Pinch of Salt ----- 
+   Measure Bag of Salt into 50 Pinch of Salt using Preparation Table with a Scoop.
+-- Pinch of Sinaflar ----- 
+   Grind Sinaflar Root into 25 Pinch of Sinaflar using Mortar and Pestle.
+-- Pot of Boiling Water ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Heat Pot of Hot Water into Pot of Simmering Water using Pot.
+   Heat Pot of Simmering Water into Pot of Boiling Water using Pot.
+-- Reduced Red Liquor ----- 
+   Heat 2 Red Liquor Mug into 2 Simmering Red Liqour using Pot.
+   Heat Simmering Red Liquor into Reduced Red Liquor using Pot.
+-- Scoop of Flour ----- 
+   Measure Flour into 5 Scoop of Flour using Preparation Table with a Scoop.
+-- Scoop of Milk ----- 
+   Measure Milk into 4 Scoop of Milk using Preparation Table with a Scoop.
+-- Scoop of Strimptor ----- 
+   Measure Sack of Strimptor into 5 Scoop of Strimptor using Preparation Table with a Scoop.
+-- Seared Carp Fish ----- 
+   Cut Carp Fish into Cleaned Carp Fish using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Carp Fish into 2 Filleted Carp using Preparation Table with a Kitchen Knife.
+   Panfry Filleted Carp into Seared Carp Fish using Iron Skillet.
+-- Seared Coppernose ----- 
+   Cut Coppernose into Cleaned Coppernose using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Coppernose into 2 Filleted Coppernose using Preparation Table with a Kitchen Knife.
+   Panfry Filleted Coppernose into Seared Coppernose using Iron Skillet.
+-- Seared Crayfish ----- 
+   Cut Crayfish into Crayfish Meat using Preparation Table with a Kitchen Knife.
+   Cut Crayfish Meat into 2 Filleted Crayfish using Preparation Table with a Kitchen Knife.
+   Panfry Filleted Crayfish into Seared Crayfish using Iron Skillet.
+-- Seared Dace ----- 
+   Cut Dace into Cleaned Dace using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Dace into 2 Filleted Dace using Preparation Table with a Kitchen Knife.
+   Panfry Filleted Dace into Seared Dace using Iron Skille
+-- Seared Eel ----- 
+   Cut Eel into Cleaned Eel using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Eel into 2 Filleted Eel using Preparation Table with a Kitchen Knife.
+   Panfry Filleted Eel into Seared Eel using Iron Skillet.
+-- Seared Ide ----- 
+   Cut Ide into Cleaned Ide using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Ide into 2 Filleted Ide using Preparation Table with a Kitchen Knife.
+   Panfry Filleted Ide into Seared Ide using Iron Skillet.
+-- Seared Trout ----- 
+   Cut Trout into Cleaned Trout using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Trout into 2 Filleted Trout using Preparation Table with a Kitchen Knife.
+   Panfry Filleted Trout into Seared Trout using Iron Skillet.
+-- Sliced Apple ----- 
+   Cut Apple into Peeled Apple using Preparation Table with a Kitchen Knife.
+   Cut Peeled Apple into Cored Apple using Preparation Table with a Kitchen Knife.
+   Cut Cored Apple into 4 Sliced Apple using Preparation Table with a Kitchen Knife.
+-- Sliced Carrot ----- 
+   Cut Carrot into Sliced Carrot using Preparation Table with a Kitchen Knife.
+-- Sliced Night Mushroom ----- 
+   Cut Night Mushroom into Sliced Night Mushroom using Preparation Table with a Kitchen Knife.
+-- Spiced Stuffing ----- 
+   Combine Pinch of Salt, Dash of Trefoil, 2 Minced Pungent Tuber, Cider Mug, Wragberry Oil, into 0 Unmixed Spiced Stuffing.
+   Mix Unmixed Spiced Stuffing into Spiced Stuffing using Wooden Bowl with a Wooden Spoon.
+-- Spicy Pan-Fried Coppernose ----- 
+   Combine Pan-Fried Coppernose, Fried Pepper Garnish, Juiceberry Juice, into 0 Unmixed Spicy Coppernose.
+   Mix Unmixed Spicy Coppernose into Spicy Pan-Fried Coppernose using Wooden Bowl with a Wooden Spoon.
+-- Thick Apple Glaze ----- 
+   Combine Reduced Red Liquor, 2 Sliced Apple, 3 Scoop of Strimptor, into 0 Thin Apple Glazes.
+   Heat Thin Apple Glaze into Thick Apple Glaze using Pot.
+-- Thickening Sauce ----- 
+   Combine Scoop of Flour, Pat of Butter, 2 Scoop of Milk, into 0 Unmixed Thickening Sauce.
+   Mix Unmixed Thickening Sauce into Thickening Sauce using Wooden Bowl with a Wooden Spoon.
+-- Trasok's Beer Battered Trout ----- 
+   Cut Trout into Cleaned Trout using Preparation Table with a Kitchen Knife.
+   Cut Cleaned Trout into 2 Filleted Trout using Preparation Table with a Kitchen Knife.
+   Combine Beer Batter, Filleted Trout, Hot Wragberry Oil, into 0 Unfried Trasok's Beer Battered Trout.
+   Panfry Unfried Trasok's Beer Battered Trout into Trasok's Beer Battered Trout using Iron Skillet.
+-- Trout Delight -----
+   Combine 6 Seared Trout, Thick Apple Glaze, into 6 Glazed Trout.
+   Measure Glazed Trout into Trout Delight using Preparation Table with a Scoop.
+-- Ynnwn Fish Platter ----- 
+   Combine 5 Burr Nut, 4 Jookan, 5 Banut, into 0 Mixed Nut.
+   Cut Mixed Nut into Chopped Nut using Preparation Table with a Kitchen Knife.
+   Combine Dash of Ground Wyn Reed, Baked Ide, Chopped Nut, Juiceberry Juice, into 0 Unmixed Ynnwn Fish Platters.
+   Blend Unmixed Ynnwn Fish Platter into Ynnwn Fish Platter using Wooden Bowl with a Mixer.

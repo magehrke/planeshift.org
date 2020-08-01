@@ -1,0 +1,492 @@
+-- Brittle Platinum Steel Longsword Blade ----- 
+   Forge Platinum Steel Longsword Delta Blade into Heated Platinum Steel Longsword Delta Blade using Forge.
+   Forge Heated Platinum Steel Longsword Delta Blade into Super Heated Platinum Steel Longsword Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Longsword Delta Blade into Red Hot Platinum Steel Longsword Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Longsword Delta Blade into Brittle Platinum Steel Longsword Blade using Quench Tank.
+   Forge Brittle Platinum Steel Longsword Blade into Heated Brittle Platinum Steel Longsword Blade using Forge.
+   Quench Heated Brittle Platinum Steel Longsword Blade into Brittle Platinum Steel Longsword Blade using Quench Tank.
+   Forge Platinum Steel Longsword Alpha Blade into Heated Platinum Steel Longsword Alpha Blade using Forge.
+   Forge Heated Platinum Steel Longsword Alpha Blade into Super Heated Platinum Steel Longsword Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Longsword Alpha Blade into Red Hot Platinum Steel Longsword Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Longsword Alpha Blade into Brittle Platinum Steel Longsword Blade using Quench Tank.
+   Forge Platinum Steel Longsword Beta Blade into Heated Platinum Steel Longsword Beta Blade using Forge.
+   Forge Heated Platinum Steel Longsword Beta Blade into Super Heated Platinum Steel Longsword Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Longsword Beta Blade into Red Hot Platinum Steel Longsword Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Longsword Beta Blade into Brittle Platinum Steel Longsword Blade using Quench Tank.
+-- Dull Platinum Steel Longsword Blade ----- 
+   Forge Platinum Steel Longsword Blade into Heated Platinum Steel Longsword Blade using Forge.
+   Shape Heated Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Anvil with a Hammer.
+   Forge Dull Platinum Steel Longsword Blade into Heated Dull Platinum Steel Longsword Blade using Forge.
+   Quench Heated Dull Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Quench Tank.
+   Shape Heated Dull Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Anvil with a Hammer.
+   Forge Super Heated Dull Platinum Steel Longsword Blade into Red Hot Dull Platinum Steel Longsword Blade using Forge.
+   Quench Red Hot Dull Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Quench Tank.
+   Quench Super Heated Dull Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Quench Tank.
+-- Platinum Steel Claymore ----- 
+   Combine Sword Handle, Platinum Steel Claymore Blade, into 0 Platinum Steel Claymore Kit.
+   Assemble Platinum Steel Claymore Kit into Platinum Steel Claymore using Smith Table.
+-- Platinum Steel Claymore Alpha Blade ----- 
+   Shape 4 Heated Platinum Steel Stock into Platinum Steel Claymore Alpha Blade using Anvil with a Hammer.
+   Forge Platinum Steel Claymore Alpha Blade into Heated Platinum Steel Claymore Alpha Blade using Forge.
+   Quench Heated Platinum Steel Claymore Alpha Blade into Platinum Steel Claymore Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Claymore Alpha Blade into Super Heated Platinum Steel Claymore Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Claymore Alpha Blade into Platinum Steel Claymore Alpha Blade using Quench Tank.
+-- Platinum Steel Claymore Beta Blade ----- 
+   Forge Platinum Steel Claymore Alpha Blade into Heated Platinum Steel Claymore Alpha Blade using Forge.
+   Shape Heated Platinum Steel Claymore Alpha Blade into Platinum Steel Claymore Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Claymore Beta Blade into Heated Platinum Steel Claymore Beta Blade using Forge.
+   Quench Heated Platinum Steel Claymore Beta Blade into Platinum Steel Claymore Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Claymore Beta Blade into Super Heated Platinum Steel Claymore Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Claymore Beta Blade into Platinum Steel Claymore Beta Blade using Quench Tank.
+-- Platinum Steel Claymore Blade ----- 
+   Sharpen Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Blade using Sharpening Stone.
+   Forge Platinum Steel Claymore Blade into Heated Platinum Steel Claymore Blade using Forge.
+   Quench Heated Platinum Steel Claymore Blade into Platinum Steel Claymore Blade using Quench Tank.
+   Forge Heated Platinum Steel Claymore Blade into Super Heated Platinum Steel Claymore Blade using Forge.
+   Quench Super Heated Platinum Steel Claymore Blade into Platinum Steel Claymore Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Claymore Blade into Red Hot Platinum Steel Claymore Blade using Forge.
+   Quench Red Hot Platinum Steel Claymore Blade into Platinum Steel Claymore Blade using Quench Tank.
+-- Platinum Steel Claymore Brittle Blade ----- 
+   Forge Platinum Steel Claymore Delta Blade into Heated Platinum Steel Claymore Delta Blade using Forge.
+   Forge Heated Platinum Steel Claymore Delta Blade into Super Heated Platinum Steel Claymore Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Claymore Delta Blade into Red Hot Platinum Steel Claymore Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Claymore Delta Blade into Platinum Steel Claymore Brittle Blade using Quench Tank.
+   Forge Platinum Steel Claymore Brittle Blade into Heated Platinum Steel Claymore Brittle Blade using Forge.
+   Quench Heated Platinum Steel Claymore Brittle Blade into Platinum Steel Claymore Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Claymore Brittle Blade into Platinum Steel Claymore Brittle Blade using Anvil with a Hammer.
+   Forge Platinum Steel Claymore Alpha Blade into Heated Platinum Steel Claymore Alpha Blade using Forge.
+   Forge Heated Platinum Steel Claymore Alpha Blade into Super Heated Platinum Steel Claymore Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Claymore Alpha Blade into Red Hot Platinum Steel Claymore Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Claymore Alpha Blade into Platinum Steel Claymore Brittle Blade using Quench Tank.
+   Forge Platinum Steel Claymore Beta Blade into Heated Platinum Steel Claymore Beta Blade using Forge.
+   Forge Heated Platinum Steel Claymore Beta Blade into Super Heated Platinum Steel Claymore Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Claymore Beta Blade into Red Hot Platinum Steel Claymore Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Claymore Beta Blade into Platinum Steel Claymore Brittle Blade using Quench Tank.
+-- Platinum Steel Claymore Delta Blade ----- 
+   Forge Platinum Steel Claymore Beta Blade into Heated Platinum Steel Claymore Beta Blade using Forge.
+   Shape Heated Platinum Steel Claymore Beta Blade into Platinum Steel Claymore Delta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Claymore Delta Blade into Heated Platinum Steel Claymore Delta Blade using Forge.
+   Quench Heated Platinum Steel Claymore Delta Blade into Platinum Steel Claymore Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Claymore Delta Blade into Super Heated Platinum Steel Claymore Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Claymore Delta Blade into Platinum Steel Claymore Delta Blade using Quench Tank.
+-- Platinum Steel Claymore Dull Blade ----- 
+   Forge Platinum Steel Claymore Dull Blade into Heated Platinum Steel Claymore Dull Blade using Forge.
+   Quench Heated Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Claymore Dull Blade into Red Hot Platinum Steel Claymore Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Dull Blade using Quench Tank.
+   Forge Platinum Steel Claymore Blade into Heated Platinum Steel Claymore Blade using Forge.
+   Shape Heated Platinum Steel Claymore Blade into Platinum Steel Claymore Dull Blade using Anvil with a Hammer.
+-- Platinum Steel Dagger ----- 
+   Combine Leather Knife Handle, Platinum Steel Dagger Blade, into 0 Platinum Steel Dagger Kit.
+   Assemble Platinum Steel Dagger Kit into Platinum Steel Dagger using Smith Table.
+-- Platinum Steel Dagger Alpha Blade ----- 
+   Forge Platinum Steel Dagger Alpha Blade into Heated Platinum Steel Dagger Alpha Blade using Forge.
+   Quench Heated Platinum Steel Dagger Alpha Blade into Platinum Steel Dagger Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Dagger Alpha Blade into Super Heated Platinum Steel Dagger Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Dagger Alpha Blade into Platinum Steel Dagger Alpha Blade using Quench Tank.
+   Shape 4 Heated Platinum Steel Ingot into Platinum Steel Dagger Alpha Blade using Anvil with a Hammer.
+-- Platinum Steel Dagger Beta Blade ----- 
+   Forge Platinum Steel Dagger Alpha Blade into Heated Platinum Steel Dagger Alpha Blade using Forge.
+   Shape Heated Platinum Steel Dagger Alpha Blade into Platinum Steel Dagger Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Dagger Beta Blade into Heated Platinum Steel Dagger Beta Blade using Forge.
+   Quench Heated Platinum Steel Dagger Beta Blade into Platinum Steel Dagger Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Dagger Beta Blade into Super Heated Platinum Steel Dagger Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Dagger Beta Blade into Platinum Steel Dagger Beta Blade using Quench Tank.
+-- Platinum Steel Dagger Blade ----- 
+   Forge Platinum Steel Dagger Blade into Heated Platinum Steel Dagger Blade using Forge.
+   Quench Heated Platinum Steel Dagger Blade into Platinum Steel Dagger Blade using Quench Tank.
+   Forge Heated Platinum Steel Dagger Blade into Super Heated Platinum Steel Dagger Blade using Forge.
+   Quench Super Heated Platinum Steel Dagger Blade into Platinum Steel Dagger Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Dagger Blade into Red Hot Platinum Steel Dagger Blade using Forge.
+   Quench Red Hot Platinum Steel Dagger Blade into Platinum Steel Dagger Blade using Quench Tank.
+   Sharpen Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Blade using Sharpening Stone.
+-- Platinum Steel Dagger Brittle Blade ----- 
+   Forge Platinum Steel Dagger Alpha Blade into Heated Platinum Steel Dagger Alpha Blade using Forge.
+   Forge Heated Platinum Steel Dagger Alpha Blade into Super Heated Platinum Steel Dagger Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Dagger Alpha Blade into Red Hot Platinum Steel Dagger Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Dagger Alpha Blade into Platinum Steel Dagger Brittle Blade using Quench Tank.
+   Forge Platinum Steel Dagger Beta Blade into Heated Platinum Steel Dagger Beta Blade using Forge.
+   Forge Heated Platinum Steel Dagger Beta Blade into Super Heated Platinum Steel Dagger Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Dagger Beta Blade into Red Hot Platinum Steel Dagger Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Dagger Beta Blade into Platinum Steel Dagger Brittle Blade using Quench Tank.
+   Forge Platinum Steel Dagger Delta Blade into Heated Platinum Steel Dagger Delta Blade using Forge.
+   Forge Heated Platinum Steel Dagger Delta Blade into Super Heated Platinum Steel Dagger Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Dagger Delta Blade into Red Hot Platinum Steel Dagger Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Dagger Delta Blade into Platinum Steel Dagger Brittle Blade using Quench Tank.
+   Forge Platinum Steel Dagger Brittle Blade into Heated Platinum Steel Dagger Brittle Blade using Forge.
+   Quench Heated Platinum Steel Dagger Brittle Blade into Platinum Steel Dagger Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Dagger Brittle Blade into Platinum Steel Dagger Brittle Blade using Anvil with a Hammer.
+-- Platinum Steel Dagger Delta Blade ----- 
+   Forge Platinum Steel Dagger Beta Blade into Heated Platinum Steel Dagger Beta Blade using Forge.
+   Shape Heated Platinum Steel Dagger Beta Blade into Platinum Steel Dagger Delta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Dagger Delta Blade into Heated Platinum Steel Dagger Delta Blade using Forge.
+   Quench Heated Platinum Steel Dagger Delta Blade into Platinum Steel Dagger Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Dagger Delta Blade into Super Heated Platinum Steel Dagger Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Dagger Delta Blade into Platinum Steel Dagger Delta Blade using Quench Tank.
+-- Platinum Steel Dagger Dull Blade ----- 
+   Quench Super Heated Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Dagger Dull Blade into Red Hot Platinum Steel Dagger Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Dull Blade using Quench Tank.
+   Forge Platinum Steel Dagger Blade into Heated Platinum Steel Dagger Blade using Forge.
+   Shape Heated Platinum Steel Dagger Blade into Platinum Steel Dagger Dull Blade using Anvil with a Hammer.
+   Forge Platinum Steel Dagger Dull Blade into Heated Platinum Steel Dagger Dull Blade using Forge.
+   Quench Heated Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Dull Blade using Anvil with a Hammer.
+-- Platinum Steel Ingot ----- 
+   Hammer Super Heated Platinum Steel Dagger Dull Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Knife Dull Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Dagger Dull Blade into Red Hot Platinum Steel Dagger Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Dagger Dull Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Knife Dull Blade into Red Hot Platinum Steel Knife Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Knife Dull Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Dagger Blade into Heated Platinum Steel Dagger Blade using Forge.
+   Forge Heated Platinum Steel Dagger Blade into Super Heated Platinum Steel Dagger Blade using Forge.
+   Hammer Super Heated Platinum Steel Dagger Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Knife Blade into Heated Platinum Steel Knife Blade using Forge.
+   Forge Heated Platinum Steel Knife Blade into Super Heated Platinum Steel Knife Blade using Forge.
+   Hammer Super Heated Platinum Steel Knife Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Dagger Blade into Red Hot Platinum Steel Dagger Blade using Forge.
+   Hammer Red Hot Platinum Steel Dagger Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Knife Blade into Red Hot Platinum Steel Knife Blade using Forge.
+   Hammer Red Hot Platinum Steel Knife Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Dagger Alpha Blade into Heated Platinum Steel Dagger Alpha Blade using Forge.
+   Forge Heated Platinum Steel Dagger Alpha Blade into Super Heated Platinum Steel Dagger Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Dagger Alpha Blade into Red Hot Platinum Steel Dagger Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Dagger Alpha Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Knife Alpha Blade into Heated Platinum Steel Knife Alpha Blade using Forge.
+   Forge Heated Platinum Steel Knife Alpha Blade into Super Heated Platinum Steel Knife Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Knife Alpha Blade into Red Hot Platinum Steel Knife Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Knife Alpha Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Dagger Beta Blade into Heated Platinum Steel Dagger Beta Blade using Forge.
+   Forge Heated Platinum Steel Dagger Beta Blade into Super Heated Platinum Steel Dagger Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Dagger Beta Blade into Red Hot Platinum Steel Dagger Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Dagger Beta Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Knife Beta Blade into Heated Platinum Steel Knife Beta Blade using Forge.
+   Forge Heated Platinum Steel Knife Beta Blade into Super Heated Platinum Steel Knife Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Knife Beta Blade into Red Hot Platinum Steel Knife Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Knife Beta Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Dagger Delta Blade into Heated Platinum Steel Dagger Delta Blade using Forge.
+   Forge Heated Platinum Steel Dagger Delta Blade into Super Heated Platinum Steel Dagger Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Dagger Delta Blade into Red Hot Platinum Steel Dagger Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Dagger Delta Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Platinum Steel Knife Delta Blade into Heated Platinum Steel Knife Delta Blade using Forge.
+   Forge Heated Platinum Steel Knife Delta Blade into Super Heated Platinum Steel Knife Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Knife Delta Blade into Red Hot Platinum Steel Knife Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Knife Delta Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+-- Platinum Steel Knife ----- 
+   Combine Leather Knife Handle, Platinum Steel Knife Blade, into 0 Platinum Steel Knife Kit.
+   Assemble Platinum Steel Knife Kit into Platinum Steel Knife using Smith Table.
+-- Platinum Steel Knife Alpha Blade ----- 
+   Forge Platinum Steel Knife Alpha Blade into Heated Platinum Steel Knife Alpha Blade using Forge.
+   Quench Heated Platinum Steel Knife Alpha Blade into Platinum Steel Knife Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Knife Alpha Blade into Super Heated Platinum Steel Knife Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Knife Alpha Blade into Platinum Steel Knife Alpha Blade using Quench Tank.
+   Shape 3 Heated Platinum Steel Ingot into Platinum Steel Knife Alpha Blade using Anvil with a Hammer.
+-- Platinum Steel Knife Beta Blade ----- 
+   Forge Platinum Steel Knife Alpha Blade into Heated Platinum Steel Knife Alpha Blade using Forge.
+   Shape Heated Platinum Steel Knife Alpha Blade into Platinum Steel Knife Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Knife Beta Blade into Heated Platinum Steel Knife Beta Blade using Forge.
+   Quench Heated Platinum Steel Knife Beta Blade into Platinum Steel Knife Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Knife Beta Blade into Super Heated Platinum Steel Knife Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Knife Beta Blade into Platinum Steel Knife Beta Blade using Quench Tank.
+-- Platinum Steel Knife Blade ----- 
+   Forge Platinum Steel Knife Blade into Heated Platinum Steel Knife Blade using Forge.
+   Quench Heated Platinum Steel Knife Blade into Platinum Steel Knife Blade using Quench Tank.
+   Forge Heated Platinum Steel Knife Blade into Super Heated Platinum Steel Knife Blade using Forge.
+   Quench Super Heated Platinum Steel Knife Blade into Platinum Steel Knife Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Knife Blade into Red Hot Platinum Steel Knife Blade using Forge.
+   Quench Red Hot Platinum Steel Knife Blade into Platinum Steel Knife Blade using Quench Tank.
+   Sharpen Platinum Steel Knife Dull Blade into Platinum Steel Knife Blade using Sharpening Stone.
+-- Platinum Steel Knife Brittle Blade ----- 
+   Forge Platinum Steel Knife Alpha Blade into Heated Platinum Steel Knife Alpha Blade using Forge.
+   Forge Heated Platinum Steel Knife Alpha Blade into Super Heated Platinum Steel Knife Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Knife Alpha Blade into Red Hot Platinum Steel Knife Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Knife Alpha Blade into Platinum Steel Knife Brittle Blade using Quench Tank.
+   Forge Platinum Steel Knife Beta Blade into Heated Platinum Steel Knife Beta Blade using Forge.
+   Forge Heated Platinum Steel Knife Beta Blade into Super Heated Platinum Steel Knife Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Knife Beta Blade into Red Hot Platinum Steel Knife Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Knife Beta Blade into Platinum Steel Knife Brittle Blade using Quench Tank.
+   Forge Platinum Steel Knife Delta Blade into Heated Platinum Steel Knife Delta Blade using Forge.
+   Forge Heated Platinum Steel Knife Delta Blade into Super Heated Platinum Steel Knife Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Knife Delta Blade into Red Hot Platinum Steel Knife Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Knife Delta Blade into Platinum Steel Knife Brittle Blade using Quench Tank.
+   Forge Platinum Steel Knife Brittle Blade into Heated Platinum Steel Knife Brittle Blade using Forge.
+   Quench Heated Platinum Steel Knife Brittle Blade into Platinum Steel Knife Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Knife Brittle Blade into Platinum Steel Knife Brittle Blade using Anvil with a Hammer.
+-- Platinum Steel Knife Delta Blade ----- 
+   Forge Platinum Steel Knife Beta Blade into Heated Platinum Steel Knife Beta Blade using Forge.
+   Shape Heated Platinum Steel Knife Beta Blade into Platinum Steel Knife Delta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Knife Delta Blade into Heated Platinum Steel Knife Delta Blade using Forge.
+   Quench Heated Platinum Steel Knife Delta Blade into Platinum Steel Knife Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Knife Delta Blade into Super Heated Platinum Steel Knife Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Knife Delta Blade into Platinum Steel Knife Delta Blade using Quench Tank.
+-- Platinum Steel Knife Dull Blade ----- 
+   Forge Platinum Steel Knife Dull Blade into Heated Platinum Steel Knife Dull Blade using Forge.
+   Quench Heated Platinum Steel Knife Dull Blade into Platinum Steel Knife Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Knife Dull Blade into Platinum Steel Knife Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Knife Dull Blade into Platinum Steel Knife Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Knife Dull Blade into Red Hot Platinum Steel Knife Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Knife Dull Blade into Platinum Steel Knife Dull Blade using Quench Tank.
+   Forge Platinum Steel Knife Blade into Heated Platinum Steel Knife Blade using Forge.
+   Shape Heated Platinum Steel Knife Blade into Platinum Steel Knife Dull Blade using Anvil with a Hammer.
+-- Platinum Steel Longsword ----- 
+   Combine Platinum Steel Longsword Blade, Sword Handle, into 0 Platinum Steel Longsword Kit.
+   Assemble Platinum Steel Longsword Kit into Platinum Steel Longsword using Smith Table.
+-- Platinum Steel Longsword Alpha Blade ----- 
+   Shape 3 Heated Platinum Steel Stock into Platinum Steel Longsword Alpha Blade using Anvil with a Hammer.
+   Forge Platinum Steel Longsword Alpha Blade into Heated Platinum Steel Longsword Alpha Blade using Forge.
+   Quench Heated Platinum Steel Longsword Alpha Blade into Platinum Steel Longsword Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Longsword Alpha Blade into Super Heated Platinum Steel Longsword Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Longsword Alpha Blade into Platinum Steel Longsword Alpha Blade using Quench Tank.
+-- Platinum Steel Longsword Beta Blade ----- 
+   Forge Platinum Steel Longsword Alpha Blade into Heated Platinum Steel Longsword Alpha Blade using Forge.
+   Shape Heated Platinum Steel Longsword Alpha Blade into Platinum Steel Longsword Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Longsword Beta Blade into Heated Platinum Steel Longsword Beta Blade using Forge.
+   Quench Heated Platinum Steel Longsword Beta Blade into Platinum Steel Longsword Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Longsword Beta Blade into Super Heated Platinum Steel Longsword Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Longsword Beta Blade into Platinum Steel Longsword Beta Blade using Quench Tank.
+-- Platinum Steel Longsword Blade ----- 
+   Forge Platinum Steel Longsword Blade into Heated Platinum Steel Longsword Blade using Forge.
+   Quench Heated Platinum Steel Longsword Blade into Platinum Steel Longsword Blade using Quench Tank.
+   Forge Heated Platinum Steel Longsword Blade into Super Heated Platinum Steel Longsword Blade using Forge.
+   Forge Super Heated Platinum Steel Longsword Blade into Red Hot Platinum Steel Longsword Blade using Forge.
+   Quench Red Hot Platinum Steel Longsword Blade into Platinum Steel Longsword Blade using Quench Tank.
+   Quench Super Heated Platinum Steel Longsword Blade into Platinum Steel Longsword Blade using Quench Tank.
+   Sharpen Dull Platinum Steel Longsword Blade into Platinum Steel Longsword Blade using Sharpening Stone.
+-- Platinum Steel Longsword Delta Blade ----- 
+   Forge Platinum Steel Longsword Delta Blade into Heated Platinum Steel Longsword Delta Blade using Forge.
+   Quench Heated Platinum Steel Longsword Delta Blade into Platinum Steel Longsword Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Longsword Delta Blade into Super Heated Platinum Steel Longsword Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Longsword Delta Blade into Platinum Steel Longsword Delta Blade using Quench Tank.
+   Forge Platinum Steel Longsword Beta Blade into Heated Platinum Steel Longsword Beta Blade using Forge.
+   Shape Heated Platinum Steel Longsword Beta Blade into Platinum Steel Longsword Delta Blade using Anvil with a Hammer.
+-- Platinum Steel Sabre ----- 
+   Combine Sword Handle, Platinum Steel Sabre Blade, into 0 Platinum Steel Sabre Kit.
+   Assemble Platinum Steel Sabre Kit into Platinum Steel Sabre using Smith Table.
+-- Platinum Steel Sabre Alpha Blade ----- 
+   Forge Platinum Steel Sabre Alpha Blade into Heated Platinum Steel Sabre Alpha Blade using Forge.
+   Quench Heated Platinum Steel Sabre Alpha Blade into Platinum Steel Sabre Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Sabre Alpha Blade into Super Heated Platinum Steel Sabre Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Sabre Alpha Blade into Platinum Steel Sabre Alpha Blade using Quench Tank.
+   Shape Heated Platinum Steel Stock into Platinum Steel Sabre Alpha Blade using Anvil with a Hammer.
+-- Platinum Steel Sabre Beta Blade ----- 
+   Forge Platinum Steel Sabre Alpha Blade into Heated Platinum Steel Sabre Alpha Blade using Forge.
+   Shape Heated Platinum Steel Sabre Alpha Blade into Platinum Steel Sabre Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Sabre Beta Blade into Heated Platinum Steel Sabre Beta Blade using Forge.
+   Quench Heated Platinum Steel Sabre Beta Blade into Platinum Steel Sabre Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Sabre Beta Blade into Super Heated Platinum Steel Sabre Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Sabre Beta Blade into Platinum Steel Sabre Beta Blade using Quench Tank.
+-- Platinum Steel Sabre Blade ----- 
+   Forge Platinum Steel Sabre Blade into Heated Platinum Steel Sabre Blade using Forge.
+   Quench Heated Platinum Steel Sabre Blade into Platinum Steel Sabre Blade using Quench Tank.
+   Forge Heated Platinum Steel Sabre Blade into Super Heated Platinum Steel Sabre Blade using Forge.
+   Quench Super Heated Platinum Steel Sabre Blade into Platinum Steel Sabre Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Sabre Blade into Red Hot Platinum Steel Sabre Blade using Forge.
+   Quench Red Hot Platinum Steel Sabre Blade into Platinum Steel Sabre Blade using Quench Tank.
+   Sharpen Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Blade using Sharpening Stone.
+-- Platinum Steel Sabre Brittle Blade ----- 
+   Forge Platinum Steel Sabre Alpha Blade into Heated Platinum Steel Sabre Alpha Blade using Forge.
+   Forge Heated Platinum Steel Sabre Alpha Blade into Super Heated Platinum Steel Sabre Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Sabre Alpha Blade into Red Hot Platinum Steel Sabre Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Sabre Alpha Blade into Platinum Steel Sabre Brittle Blade using Quench Tank.
+   Forge Platinum Steel Sabre Beta Blade into Heated Platinum Steel Sabre Beta Blade using Forge.
+   Forge Heated Platinum Steel Sabre Beta Blade into Super Heated Platinum Steel Sabre Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Sabre Beta Blade into Red Hot Platinum Steel Sabre Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Sabre Beta Blade into Platinum Steel Sabre Brittle Blade using Quench Tank.
+   Forge Platinum Steel Sabre Delta Blade into Heated Platinum Steel Sabre Delta Blade using Forge.
+   Forge Heated Platinum Steel Sabre Delta Blade into Super Heated Platinum Steel Sabre Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Sabre Delta Blade into Red Hot Platinum Steel Sabre Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Sabre Delta Blade into Platinum Steel Sabre Brittle Blade using Quench Tank.
+   Forge Platinum Steel Sabre Brittle Blade into Heated Platinum Steel Sabre Brittle Blade using Forge.
+   Quench Heated Platinum Steel Sabre Brittle Blade into Platinum Steel Sabre Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Sabre Brittle Blade into Platinum Steel Sabre Brittle Blade using Anvil with a Hammer.
+-- Platinum Steel Sabre Delta Blade ----- 
+   Forge Platinum Steel Sabre Beta Blade into Heated Platinum Steel Sabre Beta Blade using Forge.
+   Shape Heated Platinum Steel Sabre Beta Blade into Platinum Steel Sabre Delta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Sabre Delta Blade into Heated Platinum Steel Sabre Delta Blade using Forge.
+   Quench Heated Platinum Steel Sabre Delta Blade into Platinum Steel Sabre Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Sabre Delta Blade into Super Heated Platinum Steel Sabre Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Sabre Delta Blade into Platinum Steel Sabre Delta Blade using Quench Tank.
+-- Platinum Steel Sabre Dull Blade ----- 
+   Forge Super Heated Platinum Steel Sabre Dull Blade into Red Hot Platinum Steel Sabre Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Dull Blade using Quench Tank.
+   Forge Platinum Steel Sabre Blade into Heated Platinum Steel Sabre Blade using Forge.
+   Shape Heated Platinum Steel Sabre Blade into Platinum Steel Sabre Dull Blade using Anvil with a Hammer.
+   Forge Platinum Steel Sabre Dull Blade into Heated Platinum Steel Sabre Dull Blade using Forge.
+   Quench Heated Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Dull Blade using Quench Tank.
+-- Platinum Steel Shortsword ----- 
+   Combine Sword Handle, Platinum Steel Shortsword Blade, into 0 Platinum Steel Shortsword Kit.
+   Assemble Platinum Steel Shortsword Kit into Platinum Steel Shortsword using Smith Table.
+-- Platinum Steel Shortsword Alpha Blade ----- 
+   Shape 2 Heated Platinum Steel Stock into Platinum Steel Shortsword Alpha Blade using Anvil with a Hammer.
+   Forge Platinum Steel Shortsword Alpha Blade into Heated Platinum Steel Shortsword Alpha Blade using Forge.
+   Quench Heated Platinum Steel Shortsword Alpha Blade into Platinum Steel Shortsword Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Shortsword Alpha Blade into Super Heated Platinum Steel Shortsword Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Shortsword Alpha Blade into Platinum Steel Shortsword Alpha Blade using Quench Tank.
+-- Platinum Steel Shortsword Beta Blade ----- 
+   Forge Platinum Steel Shortsword Alpha Blade into Heated Platinum Steel Shortsword Alpha Blade using Forge.
+   Shape Heated Platinum Steel Shortsword Alpha Blade into Platinum Steel Shortsword Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Shortsword Beta Blade into Heated Platinum Steel Shortsword Beta Blade using Forge.
+   Quench Heated Platinum Steel Shortsword Beta Blade into Platinum Steel Shortsword Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Shortsword Beta Blade into Super Heated Platinum Steel Shortsword Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Shortsword Beta Blade into Platinum Steel Shortsword Beta Blade using Quench Tank.
+-- Platinum Steel Shortsword Blade ----- 
+   Sharpen Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Blade using Sharpening Stone.
+   Forge Platinum Steel Shortsword Blade into Heated Platinum Steel Shortsword Blade using Forge.
+   Quench Heated Platinum Steel Shortsword Blade into Platinum Steel Shortsword Blade using Quench Tank.
+   Forge Heated Platinum Steel Shortsword Blade into Super Heated Platinum Steel Shortsword Blade using Forge.
+   Quench Super Heated Platinum Steel Shortsword Blade into Platinum Steel Shortsword Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Shortsword Blade into Red Hot Platinum Steel Shortsword Blade using Forge.
+   Quench Red Hot Platinum Steel Shortsword Blade into Platinum Steel Shortsword Blade using Quench Tank.
+-- Platinum Steel Shortsword Brittle Blade ----- 
+   Forge Platinum Steel Shortsword Delta Blade into Heated Platinum Steel Shortsword Delta Blade using Forge.
+   Forge Heated Platinum Steel Shortsword Delta Blade into Super Heated Platinum Steel Shortsword Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Shortsword Delta Blade into Red Hot Platinum Steel Shortsword Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Shortsword Delta Blade into Platinum Steel Shortsword Brittle Blade using Quench Tank.
+   Forge Platinum Steel Shortsword Brittle Blade into Heated Platinum Steel Shortsword Brittle Blade using Forge.
+   Quench Heated Platinum Steel Shortsword Brittle Blade into Platinum Steel Shortsword Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Shortsword Brittle Blade into Platinum Steel Shortsword Brittle Blade using Anvil with a Hammer.
+   Forge Platinum Steel Shortsword Alpha Blade into Heated Platinum Steel Shortsword Alpha Blade using Forge.
+   Forge Heated Platinum Steel Shortsword Alpha Blade into Super Heated Platinum Steel Shortsword Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Shortsword Alpha Blade into Red Hot Platinum Steel Shortsword Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Shortsword Alpha Blade into Platinum Steel Shortsword Brittle Blade using Quench Tank.
+   Forge Platinum Steel Shortsword Beta Blade into Heated Platinum Steel Shortsword Beta Blade using Forge.
+   Forge Heated Platinum Steel Shortsword Beta Blade into Super Heated Platinum Steel Shortsword Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Shortsword Beta Blade into Red Hot Platinum Steel Shortsword Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Shortsword Beta Blade into Platinum Steel Shortsword Brittle Blade using Quench Tank.
+-- Platinum Steel Shortsword Delta Blade ----- 
+   Forge Platinum Steel Shortsword Delta Blade into Heated Platinum Steel Shortsword Delta Blade using Forge.
+   Quench Heated Platinum Steel Shortsword Delta Blade into Platinum Steel Shortsword Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Shortsword Delta Blade into Super Heated Platinum Steel Shortsword Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Shortsword Delta Blade into Platinum Steel Shortsword Delta Blade using Quench Tank.
+   Forge Platinum Steel Shortsword Beta Blade into Heated Platinum Steel Shortsword Beta Blade using Forg
+   Shape Heated Platinum Steel Shortsword Beta Blade into Platinum Steel Shortsword Delta Blade using Anvil with a Hammer.
+-- Platinum Steel Shortsword Dull Blade ----- 
+   Forge Platinum Steel Shortsword Dull Blade into Heated Platinum Steel Shortsword Dull Blade using Forge.
+   Quench Heated Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Shortsword Dull Blade into Red Hot Platinum Steel Shortsword Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Dull Blade using Quench Tank.
+   Forge Platinum Steel Shortsword Blade into Heated Platinum Steel Shortsword Blade using Forge.
+   Shape Heated Platinum Steel Shortsword Blade into Platinum Steel Shortsword Dull Blade using Anvil with a Hammer.
+-- Platinum Steel Stock ----- 
+   Forge Super Heated Platinum Steel Sabre Dull Blade into Red Hot Platinum Steel Sabre Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Sabre Dull Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Claymore Delta Blade into Heated Platinum Steel Claymore Delta Blade using Forge.
+   Forge Heated Platinum Steel Claymore Delta Blade into Super Heated Platinum Steel Claymore Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Claymore Delta Blade into Red Hot Platinum Steel Claymore Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Claymore Delta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Longsword Delta Blade into Heated Platinum Steel Longsword Delta Blade using Forge.
+   Forge Heated Platinum Steel Longsword Delta Blade into Super Heated Platinum Steel Longsword Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Longsword Delta Blade into Red Hot Platinum Steel Longsword Delta Blade using Forge.
+   Shape Red Hot Platinum Steel Longsword Delta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Platinum Steel Longsword Delta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Sabre Blade into Heated Platinum Steel Sabre Blade using Forge.
+   Forge Heated Platinum Steel Sabre Blade into Super Heated Platinum Steel Sabre Blade using Forge.
+   Hammer Super Heated Platinum Steel Sabre Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Shortsword Delta Blade into Heated Platinum Steel Shortsword Delta Blade using Forge.
+   Forge Heated Platinum Steel Shortsword Delta Blade into Super Heated Platinum Steel Shortsword Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Shortsword Delta Blade into Red Hot Platinum Steel Shortsword Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Shortsword Delta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Longsword Blade into Heated Platinum Steel Longsword Blade using Forge.
+   Forge Heated Platinum Steel Longsword Blade into Super Heated Platinum Steel Longsword Blade using Forge.
+   Forge Super Heated Platinum Steel Longsword Blade into Red Hot Platinum Steel Longsword Blade using Forge.
+   Shape Red Hot Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Sabre Blade into Red Hot Platinum Steel Sabre Blade using Forge.
+   Hammer Red Hot Platinum Steel Sabre Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Claymore Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Claymore Dull Blade into Red Hot Platinum Steel Claymore Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Claymore Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Brittle Platinum Steel Longsword Blade into Heated Brittle Platinum Steel Longsword Blade using Forge.
+   Shape Heated Brittle Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Shortsword Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Sabre Alpha Blade into Heated Platinum Steel Sabre Alpha Blade using Forge.
+   Forge Heated Platinum Steel Sabre Alpha Blade into Super Heated Platinum Steel Sabre Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Sabre Alpha Blade into Red Hot Platinum Steel Sabre Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Sabre Alpha Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Shortsword Dull Blade into Red Hot Platinum Steel Shortsword Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Shortsword Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Claymore Blade into Heated Platinum Steel Claymore Blade using Forge.
+   Forge Heated Platinum Steel Claymore Blade into Super Heated Platinum Steel Claymore Blade using Forge.
+   Hammer Super Heated Platinum Steel Claymore Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Claymore Blade into Red Hot Platinum Steel Claymore Blade using Forge.
+   Hammer Red Hot Platinum Steel Claymore Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Dull Platinum Steel Longsword Blade into Red Hot Dull Platinum Steel Longsword Blade using Forge.
+   Shape Red Hot Dull Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Shortsword Blade into Heated Platinum Steel Shortsword Blade using Forge.
+   Forge Heated Platinum Steel Shortsword Blade into Super Heated Platinum Steel Shortsword Blade using Forge.
+   Hammer Super Heated Platinum Steel Shortsword Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Dull Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Sabre Beta Blade into Heated Platinum Steel Sabre Beta Blade using Forge.
+   Forge Heated Platinum Steel Sabre Beta Blade into Super Heated Platinum Steel Sabre Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Sabre Beta Blade into Red Hot Platinum Steel Sabre Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Sabre Beta Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Shortsword Blade into Red Hot Platinum Steel Shortsword Blade using Forge.
+   Hammer Red Hot Platinum Steel Shortsword Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Claymore Alpha Blade into Heated Platinum Steel Claymore Alpha Blade using Forge.
+   Forge Heated Platinum Steel Claymore Alpha Blade into Super Heated Platinum Steel Claymore Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Claymore Alpha Blade into Red Hot Platinum Steel Claymore Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Claymore Alpha Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Longsword Alpha Blade into Heated Platinum Steel Longsword Alpha Blade using Forge.
+   Forge Heated Platinum Steel Longsword Alpha Blade into Super Heated Platinum Steel Longsword Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Longsword Alpha Blade into Red Hot Platinum Steel Longsword Alpha Blade using Forge.
+   Shape Red Hot Platinum Steel Longsword Alpha Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Platinum Steel Longsword Alpha Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Sabre Delta Blade into Heated Platinum Steel Sabre Delta Blade using Forge.
+   Forge Heated Platinum Steel Sabre Delta Blade into Super Heated Platinum Steel Sabre Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Sabre Delta Blade into Red Hot Platinum Steel Sabre Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Sabre Delta Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Shortsword Alpha Blade into Heated Platinum Steel Shortsword Alpha Blade using Forge.
+   Forge Heated Platinum Steel Shortsword Alpha Blade into Super Heated Platinum Steel Shortsword Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Shortsword Alpha Blade into Red Hot Platinum Steel Shortsword Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Shortsword Alpha Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Claymore Beta Blade into Heated Platinum Steel Claymore Beta Blade using Forge.
+   Forge Heated Platinum Steel Claymore Beta Blade into Super Heated Platinum Steel Claymore Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Claymore Beta Blade into Red Hot Platinum Steel Claymore Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Claymore Beta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Longsword Beta Blade into Heated Platinum Steel Longsword Beta Blade using Forge.
+   Forge Heated Platinum Steel Longsword Beta Blade into Super Heated Platinum Steel Longsword Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Longsword Beta Blade into Red Hot Platinum Steel Longsword Beta Blade using Forge.
+   Shape Red Hot Platinum Steel Longsword Beta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Platinum Steel Longsword Beta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Sabre Dull Blade into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Shortsword Beta Blade into Heated Platinum Steel Shortsword Beta Blade using Forge.
+   Forge Heated Platinum Steel Shortsword Beta Blade into Super Heated Platinum Steel Shortsword Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Shortsword Beta Blade into Red Hot Platinum Steel Shortsword Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Shortsword Beta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+-- Super Heated Dull Platinum Steel Longsword Blade ----- 
+   Forge Brittle Platinum Steel Longsword Blade into Heated Brittle Platinum Steel Longsword Blade using Forge.
+   Forge Heated Brittle Platinum Steel Longsword Blade into Super Heated Dull Platinum Steel Longsword Blade using Forge.
+   Forge Dull Platinum Steel Longsword Blade into Heated Dull Platinum Steel Longsword Blade using Forge.
+   Forge Heated Dull Platinum Steel Longsword Blade into Super Heated Dull Platinum Steel Longsword Blade using Forge.
+-- Super Heated Platinum Steel Claymore Dull Blade ----- 
+   Forge Platinum Steel Claymore Brittle Blade into Heated Platinum Steel Claymore Brittle Blade using Forge.
+   Forge Heated Platinum Steel Claymore Brittle Blade into Super Heated Platinum Steel Claymore Dull Blade using Forge.
+   Forge Platinum Steel Claymore Dull Blade into Heated Platinum Steel Claymore Dull Blade using Forge.
+   Forge Heated Platinum Steel Claymore Dull Blade into Super Heated Platinum Steel Claymore Dull Blade using Forge.
+-- Super Heated Platinum Steel Dagger Dull Blade ----- 
+   Forge Platinum Steel Dagger Brittle Blade into Heated Platinum Steel Dagger Brittle Blade using Forge.
+   Forge Heated Platinum Steel Dagger Brittle Blade into Super Heated Platinum Steel Dagger Dull Blade using Forge.
+   Forge Platinum Steel Dagger Dull Blade into Heated Platinum Steel Dagger Dull Blade using Forge.
+   Forge Heated Platinum Steel Dagger Dull Blade into Super Heated Platinum Steel Dagger Dull Blade using Forge.
+-- Super Heated Platinum Steel Knife Dull Blade ----- 
+   Forge Platinum Steel Knife Dull Blade into Heated Platinum Steel Knife Dull Blade using Forge.
+   Forge Heated Platinum Steel Knife Dull Blade into Super Heated Platinum Steel Knife Dull Blade using Forge.
+   Forge Platinum Steel Knife Brittle Blade into Heated Platinum Steel Knife Brittle Blade using Forge.
+   Forge Heated Platinum Steel Knife Brittle Blade into Super Heated Platinum Steel Knife Dull Blade using Forge.
+-- Super Heated Platinum Steel Sabre Dull Blade ----- 
+   Forge Platinum Steel Sabre Brittle Blade into Heated Platinum Steel Sabre Brittle Blade using Forge.
+   Forge Heated Platinum Steel Sabre Brittle Blade into Super Heated Platinum Steel Sabre Dull Blade using Forge.
+   Forge Platinum Steel Sabre Dull Blade into Heated Platinum Steel Sabre Dull Blade using Forge.
+   Forge Heated Platinum Steel Sabre Dull Blade into Super Heated Platinum Steel Sabre Dull Blade using Forge.
+-- Super Heated Platinum Steel Shortsword Dull Blade ----- 
+   Forge Platinum Steel Shortsword Brittle Blade into Heated Platinum Steel Shortsword Brittle Blade using Forge.
+   Forge Heated Platinum Steel Shortsword Brittle Blade into Super Heated Platinum Steel Shortsword Dull Blade using Forge.
+   Forge Platinum Steel Shortsword Dull Blade into Heated Platinum Steel Shortsword Dull Blade using Forge.
+   Forge Heated Platinum Steel Shortsword Dull Blade into Super Heated Platinum Steel Shortsword Dull Blade using Forge.

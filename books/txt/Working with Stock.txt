@@ -1,0 +1,265 @@
+-- Bronze Ingot ----- 
+   Forge Bronze Ingot into Heated Bronze Ingot using Forge.
+   Quench Heated Bronze Ingot into Bronze Ingot using Quench Tank.
+   Forge Heated Bronze Ingot into Super Heated Bronze Ingot using Forge.
+   Quench Super Heated Bronze Ingot into Bronze Ingot using Quench Tank.
+   Hammer Super Heated Bronze Ingot into Bronze Ingot using Anvil with a Hammer.
+   Forge Super Heated Bronze Ingot into Red Hot Bronze Ingot using Forge.
+   Quench Red Hot Bronze Ingot into Bronze Ingot using Quench Tank.
+   Hammer Red Hot Bronze Ingot into Bronze Ingot using Anvil with a Hammer.
+   Cast Molten Bronze into Bronze Ingot using Stock Casting.
+-- Bronze Stock ----- 
+   Cast 10 Molten Bronzes into Bronze Stock using Stock Casting.
+   Forge Bronze Stock into Heated Bronze Stock using Forge.
+   Quench Heated Bronze Stock into Bronze Stock using Quench Tank.
+   Forge Heated Bronze Stock into Super Heated Bronze Stock using Forge.
+   Quench Super Heated Bronze Stock into Bronze Stock using Quench Tank.
+   Hammer Super Heated Bronze Stock into Bronze Stock using Anvil with a Hammer.
+   Forge Super Heated Bronze Stock into Red Hot Bronze Stock using Forge.
+   Quench Red Hot Bronze Stock into Bronze Stock using Quench Tank.
+   Hammer Red Hot Bronze Stock into Bronze Stock using Anvil with a Hammer.
+-- Copper Ingot ----- 
+   Forge Copper Ingot into Heated Copper Ingot using Forge.
+   Quench Heated Copper Ingot into Copper Ingot using Quench Tank.
+   Smelt Copper Ingot into Molten Copper using Furnace.
+   Smelt Copper Stock into 10 Molten Copper using Furnace.
+   Smelt Copper Ore into Molten Copper using Furnace.
+   Cast Molten Copper into Copper Ingot using Stock Casting.
+   Forge Heated Copper Ingot into Super Heated Copper Ingot using Forge.
+   Hammer Super Heated Copper Ingot into Copper Ingot using Anvil with a Hammer.
+   Quench Super Heated Copper Ingot into Copper Ingot using Quench Tank.
+   Forge Super Heated Copper Ingot into Red Hot Copper Ingot using Forge.
+   Hammer Red Hot Copper Ingot into Copper Ingot using Anvil with a Hammer.
+   Quench Red Hot Copper Ingot into Copper Ingot using Quench Tank.
+-- Copper Stock ----- 
+   Smelt Copper Ingot into Molten Copper using Furnace.
+   Smelt Copper Stock into 10 Molten Copper using Furnace.
+   Smelt Copper Ore into Molten Copper using Furnace.
+   Cast 10 Molten Copper into Copper Stock using Stock Casting.
+   Forge Copper Stock into Heated Copper Stock using Forge.
+   Quench Heated Copper Stock into Copper Stock using Quench Tank.
+   Forge Heated Copper Stock into Super Heated Copper Stock using Forge.
+   Hammer Super Heated Copper Stock into Copper Stock using Anvil with a Hammer.
+   Quench Super Heated Copper Stock into Copper Stock using Quench Tank.
+   Forge Super Heated Copper Stock into Red Hot Copper Stock using Forge.
+   Hammer Red Hot Copper Stock into Copper Stock using Anvil with a Hammer.
+   Quench Red Hot Copper Stock into Copper Stock using Quench Tank.
+-- Gold Ingot ----- 
+   Smelt Gold Ingot into Molten Gold using Furnace.
+   Smelt Gold Stock into 5 Molten Gold using Furnace.
+   Smelt Gold Ore into Molten Gold using Furnace.
+   Cast Molten Gold into Gold Ingot using Stock Casting.
+   Forge Gold Ingot into Heated Gold Ingot using Forge.
+   Quench Heated Gold Ingot into Gold Ingot using Quench Tank.
+   Forge Heated Gold Ingot into Super Heated Gold Ingot using Forge.
+   Quench Super Heated Gold Ingot into Gold Ingot using Quench Tank.
+   Hammer Super Heated Gold Ingot into Gold Ingot using Anvil with a Hammer.
+   Forge Super Heated Gold Ingot into Red Hot Gold Ingot using Forge.
+   Quench Red Hot Gold Ingot into Gold Ingot using Quench Tank.
+   Hammer Red Hot Gold Ingot into Gold Ingot using Anvil with a Hammer.
+-- Gold Stock ----- 
+   Smelt Gold Ingot into Molten Gold using Furnace.
+   Smelt Gold Stock into 5 Molten Gold using Furnace.
+   Smelt Gold Ore into Molten Gold using Furnace.
+   Cast 5 Molten Gold into Gold Stock using Stock Casting.
+   Forge Gold Stock into Heated Gold Stock using Forge.
+   Quench Heated Gold Stock into Gold Stock using Quench Tank.
+   Forge Heated Gold Stock into Super Heated Gold Stock using Forge.
+   Quench Super Heated Gold Stock into Gold Stock using Quench Tank.
+   Hammer Super Heated Gold Stock into Gold Stock using Anvil with a Hammer.
+   Forge Super Heated Gold Stock into Red Hot Gold Stock using Forge.
+   Quench Red Hot Gold Stock into Gold Stock using Quench Tank.
+   Hammer Red Hot Gold Stock into Gold Stock using Anvil with a Hammer.
+-- Heated Bronze Stock ----- 
+   Forge Bronze Stock into Heated Bronze Stock using Forge.
+-- Heated Gold Stock ----- 
+   Forge Gold Stock into Heated Gold Stock using Forge.
+-- Iron Ingot ----- 
+   Forge Iron Ingot into Heated Iron Ingot using Forge.
+   Quench Heated Iron Ingot into Iron Ingot using Quench Tank.
+   Forge Heated Iron Ingot into Super Heated Iron Ingot using Forge.
+   Quench Super Heated Iron Ingot into Iron Ingot using Quench Tank.
+   Hammer Super Heated Iron Ingot into Iron Ingot using Anvil with a Hammer.
+   Forge Super Heated Iron Ingot into Red Hot Iron Ingot using Forge.
+   Quench Red Hot Iron Ingot into Iron Ingot using Quench Tank.
+   Hammer Red Hot Iron Ingot into Iron Ingot using Anvil with a Hammer.
+   Smelt Iron Ingot into Molten Iron using Furnace.
+   Smelt Iron Ore into Molten Iron using Furnace.
+   Smelt Iron Stock into 10 Molten Iron using Furnace.
+   Cast Molten Iron into Iron Ingot using Stock Casting.
+-- Iron Stock ----- 
+   Forge Iron Stock into Heated Iron Stock using Forge.
+   Quench Heated Iron Stock into Iron Stock using Quench Tank.
+   Forge Heated Iron Stock into Super Heated Iron Stock using Forge.
+   Quench Super Heated Iron Stock into Iron Stock using Quench Tank.
+   Hammer Super Heated Iron Stock into Iron Stock using Anvil with a Hammer.
+   Forge Super Heated Iron Stock into Red Hot Iron Stock using Forge.
+   Quench Red Hot Iron Stock into Iron Stock using Quench Tank.
+   Hammer Red Hot Iron Stock into Iron Stock using Anvil with a Hammer.
+   Smelt Iron Ingot into Molten Iron using Furnace.
+   Smelt Iron Ore into Molten Iron using Furnace.
+   Smelt Iron Stock into 10 Molten Iron using Furnace.
+   Cast 10 Molten Iron into Iron Stock using Stock Casting.
+-- Molten Bronze ----- 
+   Combine 4 Tin Ore, 6 Copper Ore, into 10 Bronze Sludge.
+   Smelt Bronze Sludge into Molten Bronze using Furnace.
+   Combine 7 Copper Ore, 3 Tin Ore, into 10 Copper Sludge.
+   Smelt Copper Sludge into Molten Bronze using Furnace.
+   Smelt Bronze Stock into 10 Molten Bronzes using Furnace.
+   Combine 5 Tin Ore, 5 Copper Ore, into 10 Tin Sludge.
+   Smelt Tin Sludge into Molten Bronze using Furnace.
+   Smelt Bronze Ingot into Molten Bronze using Furnace.
+-- Molten Steel ----- 
+   Combine 8 Iron Ore, 2 Coal Lump, into 10 Coal Sludge.
+   Smelt Coal Sludge into Molten Steel using Furnace.
+   Recycle Dagger into 4 Molten Steels using Furnace.
+   Recycle Small Battle Axe into 5 Molten Steels using Furnace.
+   Recycle Chain Mail Torso Armor into 15 Molten Steels using Furnace.
+   Recycle Battle Axe into 10 Molten Steels using Furnace.
+   Recycle Chain Mail Arms Armor into 12 Molten Steels using Furnace.
+   Recycle Longsword into 15 Molten Steels using Furnace.
+   Recycle Broadsword into 20 Molten Steels using Furnace.
+   Recycle Chain Mail Gloves into 6 Molten Steels using Furnace.
+   Smelt Steel Ingot into Molten Steel using Furnace.
+   Recycle Claymore into 20 Molten Steels using Furnace.
+   Recycle Chain Mail Pants into 12 Molten Steels using Furnace.
+   Recycle Chain Mail Boots into 9 Molten Steels using Furnace.
+   Recycle Falchion into 10 Molten Steels using Furnace.
+   Smelt Steel Stock into 10 Molten Steels using Furnace.
+   Recycle Reinforced Axe into 15 Molten Steels using Furnace.
+   Recycle Shortsword into 10 Molten Steels using Furnace.
+   Recycle Sabre into 5 Molten Steels using Furnace.
+   Recycle Plate Mail Torso Armor into 27 Molten Steels using Furnace.
+   Recycle Plate Mail Arms Armor into 22 Molten Steels using Furnace.
+   Recycle Plate Mail Gloves into 11 Molten Steels using Furnace.
+   Recycle Plate Mail Pants into 22 Molten Steels using Furnace.
+   Recycle Plate Mail Boots into 17 Molten Steels using Furnace.
+   Recycle Reinforced Battle Axe into 20 Molten Steels using Furnace.
+   Recycle Knife into 2 Molten Steels using Furnace.
+   Combine 9 Iron Ore, Coal Lump, into 10 Steel Sludge.
+   Smelt Steel Sludge into Molten Steel using Furnace.
+-- Platinum Ingot ----- 
+   Smelt Platinum Ingot into Molten Platinum using Furnace.
+   Smelt Platinum Stock into 5 Molten Platinum using Furnace.
+   Smelt Platinum Ore into Molten Platinum using Furnace.
+   Cast Molten Platinum into Platinum Ingot using Stock Casting.
+   Forge Platinum Ingot into Heated Platinum Ingot using Forge.
+   Quench Heated Platinum Ingot into Platinum Ingot using Quench Tank.
+   Forge Heated Platinum Ingot into Super Heated Platinum Ingot using Forge.
+   Hammer Super Heated Platinum Ingot into Platinum Ingot using Anvil with a Hammer.
+   Quench Super Heated Platinum Ingot into Platinum Ingot using Quench Tank.
+   Forge Super Heated Platinum Ingot into Red Hot Platinum Ingot using Forge.
+   Hammer Red Hot Platinum Ingot into Platinum Ingot using Anvil with a Hammer.
+   Quench Red Hot Platinum Ingot into Platinum Ingot using Quench Tank.
+-- Platinum Stock ----- 
+   Smelt Platinum Ingot into Molten Platinum using Furnace.
+   Smelt Platinum Stock into 5 Molten Platinum using Furnace.
+   Smelt Platinum Ore into Molten Platinum using Furnace.
+   Cast 5 Molten Platinum into Platinum Stock using Stock Casting.
+   Forge Platinum Stock into Heated Platinum Stock using Forge.
+   Quench Heated Platinum Stock into Platinum Stock using Quench Tank.
+   Forge Heated Platinum Stock into Super Heated Platinum Stock using Forge.
+   Hammer Super Heated Platinum Stock into Platinum Stock using Anvil with a Hammer.
+   Quench Super Heated Platinum Stock into Platinum Stock using Quench Tank.
+   Forge Super Heated Platinum Stock into Red Hot Platinum Stock using Forge.
+   Hammer Red Hot Platinum Stock into Platinum Stock using Anvil with a Hammer.
+   Quench Red Hot Platinum Stock into Platinum Stock using Quench Tank.
+-- Quicksilver Vial ----- 
+   Smelt Cinnabar Ore into Quicksilver Vial using Furnace.
+-- Silver Ingot ----- 
+   Forge Silver Ingot into Heated Silver Ingot using Forge.
+   Quench Heated Silver Ingot into Silver Ingot using Quench Tank.
+   Forge Heated Silver Ingot into Super Heated Silver Ingot using Forge.
+   Hammer Super Heated Silver Ingot into Silver Ingot using Anvil with a Hammer.
+   Quench Super Heated Silver Ingot into Silver Ingot using Quench Tank.
+   Forge Super Heated Silver Ingot into Red Hot Silver Ingot using Forge.
+   Hammer Red Hot Silver Ingot into Silver Ingot using Anvil with a Hammer.
+   Quench Red Hot Silver Ingot into Silver Ingot using Quench Tank.
+   Smelt Silver Ingot into Molten Silver using Furnace.
+   Smelt Silver Stock into 5 Molten Silver using Furnace.
+   Smelt Silver Ore into Molten Silver using Furnace.
+   Cast Molten Silver into Silver Ingot using Stock Casting.
+-- Silver Stock ----- 
+   Smelt Silver Ingot into Molten Silver using Furnace.
+   Smelt Silver Stock into 5 Molten Silver using Furnace.
+   Smelt Silver Ore into Molten Silver using Furnace.
+   Cast 5 Molten Silver into Silver Stock using Stock Casting.
+   Forge Silver Stock into Heated Silver Stock using Forge.
+   Forge Heated Silver Stock into Super Heated Silver Stock using Forge.
+   Forge Super Heated Silver Stock into Red Hot Silver Stock using Forge.
+   Hammer Red Hot Silver Stock into Silver Stock using Anvil with a Hammer.
+   Quench Red Hot Silver Stock into Silver Stock using Quench Tank.
+   Quench Super Heated Silver Stock into Silver Stock using Quench Tank.
+   Hammer Super Heated Silver Stock into Silver Stock using Anvil with a Hammer.
+   Quench Heated Silver Stock into Silver Stock using Quench Tank.
+-- Steel Ingot ----- 
+   Cast Molten Steel into Steel Ingot using Stock Casting.
+   Forge Steel Ingot into Heated Steel Ingot using Forge.
+   Quench Heated Steel Ingot into Steel Ingot using Quench Tank.
+   Forge Heated Steel Ingot into Super Heated Steel Ingot using Forge.
+   Quench Super Heated Steel Ingot into Steel Ingot using Quench Tank.
+   Hammer Super Heated Steel Ingot into Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Steel Ingot into Red Hot Steel Ingot using Forge.
+   Quench Red Hot Steel Ingot into Steel Ingot using Quench Tank.
+   Hammer Red Hot Steel Ingot into Steel Ingot using Anvil with a Hammer.
+-- Steel Stock ----- 
+   Cast 10 Molten Steels into Steel Stock using Stock Casting.
+   Forge Steel Stock into Heated Steel Stock using Forge.
+   Quench Heated Steel Stock into Steel Stock using Quench Tank.
+   Forge Heated Steel Stock into Super Heated Steel Stock using Forge.
+   Quench Super Heated Steel Stock into Steel Stock using Quench Tank.
+   Hammer Super Heated Steel Stock into Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Steel Stock into Red Hot Steel Stock using Forge.
+   Quench Red Hot Steel Stock into Steel Stock using Quench Tank.
+   Hammer Red Hot Steel Stock into Steel Stock using Anvil with a Hammer.
+-- Super Heated Steel Stock ----- 
+   Forge Steel Stock into Heated Steel Stock using Forge.
+   Forge Heated Steel Stock into Super Heated Steel Stock using Forge.
+-- Tin Ingot ----- 
+   Forge Tin Ingot into Heated Tin Ingot using Forge.
+   Quench Heated Tin Ingot into Tin Ingot using Quench Tank.
+   Smelt Tin Stock into 10 Molten Tin using Furnace.
+   Smelt Tin Ingot into Molten Tin using Furnace.
+   Smelt Tin Ore into Molten Tin using Furnace.
+   Cast Molten Tin into Tin Ingot using Stock Casting.
+   Forge Heated Tin Ingot into Super Heated Tin Ingot using Forge.
+   Hammer Super Heated Tin Ingot into Tin Ingot using Anvil with a Hammer.
+   Quench Super Heated Tin Ingot into Tin Ingot using Quench Tank.
+   Forge Super Heated Tin Ingot into Red Hot Tin Ingot using Forge.
+   Hammer Red Hot Tin Ingot into Tin Ingot using Anvil with a Hammer.
+   Quench Red Hot Tin Ingot into Tin Ingot using Quench Tank.
+-- Tin Stock ----- 
+   Smelt Tin Stock into 10 Molten Tin using Furnace.
+   Smelt Tin Ingot into Molten Tin using Furnace.
+   Smelt Tin Ore into Molten Tin using Furnace.
+   Cast 10 Molten Tin into Tin Stock using Stock Casting.
+   Forge Tin Stock into Heated Tin Stock using Forge.
+   Quench Heated Tin Stock into Tin Stock using Quench Tank.
+   Forge Heated Tin Stock into Super Heated Tin Stock using Forge.
+   Hammer Super Heated Tin Stock into Tin Stock using Anvil with a Hammer.
+   Quench Super Heated Tin Stock into Tin Stock using Quench Tank.
+   Forge Super Heated Tin Stock into Red Hot Tin Stock using Forge.
+   Hammer Red Hot Tin Stock into Tin Stock using Anvil with a Hammer.
+   Quench Red Hot Tin Stock into Tin Stock using Quench Tank.
+-- Zinc Ingot ----- 
+   Forge Zinc Ingot into Heated Zinc Ingot using Forge.
+   Quench Heated Zinc Ingot into Zinc Ingot using Quench Tank.
+   Forge Heated Zinc Ingot into Super Heated Zinc Ingot using Forge.
+   Quench Super Heated Zinc Ingot into Zinc Ingot using Quench Tank.
+   Smelt Zinc Ore into Molten Zinc using Furnace.
+   Smelt Zinc Stock into 10 Molten Zinc using Furnace.
+   Smelt Zinc Ingot into Molten Zinc using Furnace.
+   Cast Molten Zinc into Zinc Ingot using Stock Casting.
+   Forge Super Heated Zinc Ingot into Red Hot Zinc Ingot using Forge.
+   Quench Red Hot Zinc Ingot into Zinc Ingot using Quench Tank.
+-- Zinc Stock ----- 
+   Smelt Zinc Ore into Molten Zinc using Furnace.
+   Smelt Zinc Stock into 10 Molten Zinc using Furnace.
+   Smelt Zinc Ingot into Molten Zinc using Furnace.
+   Cast 10 Molten Zinc into Zinc Stock using Stock Casting.
+   Forge Zinc Stock into Heated Zinc Stock using Forge.
+   Quench Heated Zinc Stock into Zinc Stock using Quench Tank.
+   Forge Heated Zinc Stock into Super Heated Zinc Stock using Forge.
+   Quench Super Heated Zinc Stock into Zinc Stock using Quench Tank.
+   Forge Super Heated Zinc Stock into Red Hot Zinc Stock using Forge.
+   Quench Red Hot Zinc Stock into Zinc Stock using Quench Tank.

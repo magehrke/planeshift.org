@@ -1,0 +1,153 @@
+-- Blue Steel Ingot ----- 
+   Forge Blue Steel Ingot into Heated Blue Steel Ingot using Forge.
+   Forge Heated Blue Steel Ingot into Super Heated Blue Steel Ingot using Forge.
+   Forge Super Heated Blue Steel Ingot into Red Hot Blue Steel Ingot using Forge.
+   Quench Red Hot Blue Steel Ingot into Blue Steel Ingot using Quench Tank.
+   Hammer Red Hot Blue Steel Ingot into Blue Steel Ingot using Anvil with a Hammer.
+   Quench Super Heated Blue Steel Ingot into Blue Steel Ingot using Quench Tank.
+   Hammer Super Heated Blue Steel Ingot into Blue Steel Ingot using Anvil with a Hammer.
+   Smelt Blue Steel Ingot into Molten Blue Steel using Furnace.
+   Combine 5 Steel Ingot, 3 Lumium Ingot, Bronze Ingot, into 5 Blue Steel Sludge.
+   Smelt Blue Steel Sludge into Molten Blue Steel using Furnace.
+   Smelt Blue Steel Stock into 5 Molten Blue Steels using Furnace.
+   Cast Molten Blue Steel into Blue Steel Ingot using Stock Casting.
+   Quench Heated Blue Steel Ingot into Blue Steel Ingot using Quench Tank.
+   Hammer Heated Blue Steel Ingot into Blue Steel Ingot using Anvil with a Hammer.
+-- Blue Steel Stock ----- 
+   Forge Blue Steel Stock into Heated Blue Steel Stock using Forge.
+   Forge Heated Blue Steel Stock into Super Heated Blue Steel Stock using Forge.
+   Forge Super Heated Blue Steel Stock into Red Hot Blue Steel Stock using Forge.
+   Quench Red Hot Blue Steel Stock into Blue Steel Stock using Quench Tank.
+   Hammer Red Hot Blue Steel Stock into Blue Steel Stock using Anvil with a Hammer.
+   Quench Super Heated Blue Steel Stock into Blue Steel Stock using Quench Tank.
+   Hammer Super Heated Blue Steel Stock into Blue Steel Stock using Anvil with a Hammer.
+   Smelt Blue Steel Ingot into Molten Blue Steel using Furnace.
+   Combine 5 Steel Ingot, 3 Lumium Ingot, Bronze Ingot, into 5 Blue Steel Sludge.
+   Smelt Blue Steel Sludge into Molten Blue Steel using Furnace.
+   Smelt Blue Steel Stock into 5 Molten Blue Steels using Furnace.
+   Cast 5 Molten Blue Steels into Blue Steel Stock using Stock Casting.
+   Quench Heated Blue Steel Stock into Blue Steel Stock using Quench Tank.
+   Hammer Heated Blue Steel Stock into Blue Steel Stock using Anvil with a Hammer.
+-- Bronze Ingot ----- 
+   Forge Bronze Ingot into Heated Bronze Ingot using Forge.
+   Quench Heated Bronze Ingot into Bronze Ingot using Quench Tank.
+   Forge Heated Bronze Ingot into Super Heated Bronze Ingot using Forge.
+   Quench Super Heated Bronze Ingot into Bronze Ingot using Quench Tank.
+   Forge Super Heated Bronze Ingot into Red Hot Bronze Ingot using Forge.
+   Quench Red Hot Bronze Ingot into Bronze Ingot using Quench Tank.
+-- Gold Ingot ----- 
+   Forge Gold Ingot into Heated Gold Ingot using Forge.
+   Quench Heated Gold Ingot into Gold Ingot using Quench Tank.
+   Forge Heated Gold Ingot into Super Heated Gold Ingot using Forge.
+   Quench Super Heated Gold Ingot into Gold Ingot using Quench Tank.
+   Forge Super Heated Gold Ingot into Red Hot Gold Ingot using Forge.
+   Quench Red Hot Gold Ingot into Gold Ingot using Quench Tank.
+-- Lumium Ingot ----- 
+   Forge Lumium Ingot into Heated Lumium Ingot using Forge.
+   Quench Heated Lumium Ingot into Lumium Ingot using Quench Tank.
+   Hammer Heated Lumium Ingot into Lumium Ingot using Anvil with a Hammer.
+   Forge Heated Lumium Ingot into Super Heated Lumium Ingot using Forge.
+   Forge Super Heated Lumium Ingot into Red Hot Lumium Ingot using Forge.
+   Quench Red Hot Lumium Ingot into Lumium Ingot using Quench Tank.
+   Hammer Red Hot Lumium Ingot into Lumium Ingot using Anvil with a Hammer.
+   Quench Super Heated Lumium Ingot into Lumium Ingot using Quench Tank.
+   Hammer Super Heated Lumium Ingot into Lumium Ingot using Anvil with a Hammer.
+   Smelt Lumium Ore into Molten Lumium using Furnace.
+   Smelt Lumium Ingot into Molten Lumium using Furnace.
+   Smelt Lumium Stock into 5 Molten Lumiums using Furnace.
+   Cast Molten Lumium into Lumium Ingot using Stock Casting.
+-- Lumium Stock ----- 
+   Forge Lumium Stock into Heated Lumium Stock using Forge.
+   Quench Heated Lumium Stock into Lumium Stock using Quench Tank.
+   Hammer Heated Lumium Stock into Lumium Stock using Anvil with a Hammer.
+   Forge Heated Lumium Stock into Super Heated Lumium Stock using Forge.
+   Forge Super Heated Lumium Stock into Red Hot Lumium Stock using Forge.
+   Quench Red Hot Lumium Stock into Lumium Stock using Quench Tank.
+   Hammer Red Hot Lumium Stock into Lumium Stock using Anvil with a Hammer.
+   Quench Super Heated Lumium Stock into Lumium Stock using Quench Tank.
+   Hammer Super Heated Lumium Stock into Lumium Stock using Anvil with a Hammer.
+   Smelt Lumium Ore into Molten Lumium using Furnace.
+   Smelt Lumium Ingot into Molten Lumium using Furnace.
+   Smelt Lumium Stock into 5 Molten Lumiums using Furnace.
+   Cast 5 Molten Lumiums into Lumium Stock using Stock Casting.
+-- Platinum Ingot ----- 
+   Forge Platinum Ingot into Heated Platinum Ingot using Forge.
+   Quench Heated Platinum Ingot into Platinum Ingot using Quench Tank.
+   Forge Heated Platinum Ingot into Super Heated Platinum Ingot using Forge.
+   Quench Super Heated Platinum Ingot into Platinum Ingot using Quench Tank.
+   Forge Super Heated Platinum Ingot into Red Hot Platinum Ingot using Forge.
+   Quench Red Hot Platinum Ingot into Platinum Ingot using Quench Tank.
+-- Platinum Steel Ingot ----- 
+   Smelt Platinum Steel Ingot into Molten Platinum Steel using Furnace.
+   Combine Platinum Ingot, 4 Steel Ingot, Silver Ingot, into 5 Platinum Steel Sludge.
+   Smelt Platinum Steel Sludge into Molten Platinum Steel using Furnace.
+   Smelt Platinum Steel Stock into 5 Molten Platinum Steels using Furnace.
+   Cast Molten Platinum Steel into Platinum Steel Ingot using Stock Casting.
+   Forge Platinum Steel Ingot into Heated Platinum Steel Ingot using Forge.
+   Quench Heated Platinum Steel Ingot into Platinum Steel Ingot using Quench Tank.
+   Hammer Heated Platinum Steel Ingot into Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Heated Platinum Steel Ingot into Super Heated Platinum Steel Ingot using Forge.
+   Quench Super Heated Platinum Steel Ingot into Platinum Steel Ingot using Quench Tank.
+   Hammer Super Heated Platinum Steel Ingot into Platinum Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Ingot into Red Hot Platinum Steel Ingot using Forge.
+   Quench Red Hot Platinum Steel Ingot into Platinum Steel Ingot using Quench Tank.
+   Hammer Red Hot Platinum Steel Ingot into Platinum Steel Ingot using Anvil with a Hammer.
+-- Platinum Steel Stock ----- 
+   Smelt Platinum Steel Ingot into Molten Platinum Steel using Furnace.
+   Combine Platinum Ingot, 4 Steel Ingot, Silver Ingot, into 5 Platinum Steel Sludge.
+   Smelt Platinum Steel Sludge into Molten Platinum Steel using Furnace.
+   Smelt Platinum Steel Stock into 5 Molten Platinum Steels using Furnace.
+   Cast 5 Molten Platinum Steels into Platinum Steel Stock using Stock Casting.
+   Forge Platinum Steel Stock into Heated Platinum Steel Stock using Forge.
+   Quench Heated Platinum Steel Stock into Platinum Steel Stock using Quench Tank.
+   Hammer Heated Platinum Steel Stock into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Heated Platinum Steel Stock into Super Heated Platinum Steel Stock using Forge.
+   Quench Super Heated Platinum Steel Stock into Platinum Steel Stock using Quench Tank.
+   Hammer Super Heated Platinum Steel Stock into Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Stock into Red Hot Platinum Steel Stock using Forge.
+   Quench Red Hot Platinum Steel Stock into Platinum Steel Stock using Quench Tank.
+   Hammer Red Hot Platinum Steel Stock into Platinum Steel Stock using Anvil with a Hammer.
+-- Silver Ingot ----- 
+   Forge Silver Ingot into Heated Silver Ingot using Forge.
+   Quench Heated Silver Ingot into Silver Ingot using Quench Tank.
+   Forge Heated Silver Ingot into Super Heated Silver Ingot using Forge.
+   Quench Super Heated Silver Ingot into Silver Ingot using Quench Tank.
+   Forge Super Heated Silver Ingot into Red Hot Silver Ingot using Forge.
+   Quench Red Hot Silver Ingot into Silver Ingot using Quench Tank.
+-- Steel Ingot ----- 
+   Forge Steel Ingot into Heated Steel Ingot using Forge.
+   Quench Heated Steel Ingot into Steel Ingot using Quench Tank.
+   Forge Heated Steel Ingot into Super Heated Steel Ingot using Forge.
+   Quench Super Heated Steel Ingot into Steel Ingot using Quench Tank.
+   Forge Super Heated Steel Ingot into Red Hot Steel Ingot using Forge.
+   Quench Red Hot Steel Ingot into Steel Ingot using Quench Tank.
+-- Tigrain Steel Ingot ----- 
+   Smelt Tigrain Steel Ingot into Molten Tigrain Steel using Furnace.
+   Combine 2 Lumium Ingot, 4 Gold Ingot, 2 Silver Ingot, 3 Ulbernaut Hearts, into 5 Tigrain Steel Sludge.
+   Smelt Tigrain Steel Sludge into Molten Tigrain Steel using Furnace.
+   Smelt Tigrain Steel Stock into 5 Molten Tigrain Steels using Furnace.
+   Cast Molten Tigrain Steel into Tigrain Steel Ingot using Stock Casting.
+   Forge Tigrain Steel Ingot into Heated Tigrain Steel Ingot using Forge.
+   Forge Heated Tigrain Steel Ingot into Super Heated Tigrain Steel Ingot using Forge.
+   Quench Super Heated Tigrain Steel Ingot into Tigrain Steel Ingot using Quench Tank.
+   Hammer Super Heated Tigrain Steel Ingot into Tigrain Steel Ingot using Anvil with a Hammer.
+   Quench Heated Tigrain Steel Ingot into Tigrain Steel Ingot using Quench Tank.
+   Hammer Heated Tigrain Steel Ingot into Tigrain Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Tigrain Steel Ingot into Red Hot Tigrain Steel Ingot using Forge.
+   Quench Red Hot Tigrain Steel Ingot into Tigrain Steel Ingot using Quench Tank.
+   Hammer Red Hot Tigrain Steel Ingot into Tigrain Steel Ingot using Anvil with a Hammer.
+-- Tigrain Steel Stock ----- 
+   Smelt Tigrain Steel Ingot into Molten Tigrain Steel using Furnace.
+   Combine 2 Lumium Ingot, 4 Gold Ingot, 2 Silver Ingot, 3 Ulbernaut Hearts, into 5 Tigrain Steel Sludge.
+   Smelt Tigrain Steel Sludge into Molten Tigrain Steel using Furnace.
+   Smelt Tigrain Steel Stock into 5 Molten Tigrain Steels using Furnace.
+   Cast 5 Molten Tigrain Steels into Tigrain Steel Stock using Stock Casting.
+   Forge Tigrain Steel Stock into Heated Tigrain Steel Stock using Forge.
+   Forge Heated Tigrain Steel Stock into Super Heated Tigrain Steel Stock using Forge.
+   Forge Super Heated Tigrain Steel Stock into Red Hot Tigrain Steel Stock using Forge.
+   Quench Red Hot Tigrain Steel Stock into Tigrain Steel Stock using Quench Tank.
+   Hammer Red Hot Tigrain Steel Stock into Tigrain Steel Stock using Anvil with a Hammer.
+   Quench Super Heated Tigrain Steel Stock into Tigrain Steel Stock using Quench Tank.
+   Hammer Super Heated Tigrain Steel Stock into Tigrain Steel Stock using Anvil with a Hammer.
+   Quench Heated Tigrain Steel Stock into Tigrain Steel Stock using Quench Tank.
+   Hammer Heated Tigrain Steel Stock into Tigrain Steel Stock using Anvil with a Hammer.

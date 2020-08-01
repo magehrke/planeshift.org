@@ -1,0 +1,189 @@
+-- Broadsword Handle ----- 
+   Forge Broadsword Handle into Heated Broadsword Handle using Forge.
+   Quench Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+   Shape Heated Broadsword Handle into Broadsword Handle using Anvil with a Hammer.
+   Forge Heated Broadsword Handle into Super Heated Broadsword Handle using Forge.
+   Quench Super Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+   Forge Super Heated Broadsword Handle into Red Hot Broadsword Handle using Forge.
+   Quench Red Hot Broadsword Handle into Broadsword Handle using Quench Tank.
+   Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
+-- Platinum Steel Broadsword ----- 
+   Combine Broadsword Handle, Platinum Steel Broadsword Blade, into 0 Platinum Steel Broadsword Kits.
+   Assemble Platinum Steel Broadsword Kit into Platinum Steel Broadsword using Smith Table.
+-- Platinum Steel Broadsword Alpha Blade ----- 
+   Shape 4 Heated Platinum Steel Stock into Platinum Steel Broadsword Alpha Blade using Anvil with a Hammer.
+   Forge Platinum Steel Broadsword Alpha Blade into Heated Platinum Steel Broadsword Alpha Blade using Forge.
+   Quench Heated Platinum Steel Broadsword Alpha Blade into Platinum Steel Broadsword Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Broadsword Alpha Blade into Super Heated Platinum Steel Broadsword Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Broadsword Alpha Blade into Platinum Steel Broadsword Alpha Blade using Quench Tank.
+-- Platinum Steel Broadsword Beta Blade ----- 
+   Forge Platinum Steel Broadsword Alpha Blade into Heated Platinum Steel Broadsword Alpha Blade using Forge.
+   Shape Heated Platinum Steel Broadsword Alpha Blade into Platinum Steel Broadsword Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Broadsword Beta Blade into Heated Platinum Steel Broadsword Beta Blade using Forge.
+   Quench Heated Platinum Steel Broadsword Beta Blade into Platinum Steel Broadsword Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Broadsword Beta Blade into Super Heated Platinum Steel Broadsword Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Broadsword Beta Blade into Platinum Steel Broadsword Beta Blade using Quench Tank.
+-- Platinum Steel Broadsword Blade ----- 
+   Forge Platinum Steel Broadsword Blade into Heated Platinum Steel Broadsword Blade using Forge.
+   Quench Heated Platinum Steel Broadsword Blade into Platinum Steel Broadsword Blade using Quench Tank.
+   Forge Heated Platinum Steel Broadsword Blade into Super Heated Platinum Steel Broadsword Blade using Forge.
+   Quench Super Heated Platinum Steel Broadsword Blade into Platinum Steel Broadsword Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Broadsword Blade into Red Hot Platinum Steel Broadsword Blade using Forge.
+   Quench Red Hot Platinum Steel Broadsword Blade into Platinum Steel Broadsword Blade using Quench Tank.
+   Furrow Platinum Steel Broadsword Rough Blade into Platinum Steel Broadsword Blade using Smith Table with a Furrower.
+-- Platinum Steel Broadsword Brittle Blade ----- 
+   Forge Platinum Steel Broadsword Brittle Blade into Heated Platinum Steel Broadsword Brittle Blade using Forge.
+   Quench Heated Platinum Steel Broadsword Brittle Blade into Platinum Steel Broadsword Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Broadsword Brittle Blade into Platinum Steel Broadsword Brittle Blade using Anvil with a Hammer.
+   Forge Platinum Steel Broadsword Alpha Blade into Heated Platinum Steel Broadsword Alpha Blade using Forge.
+   Forge Heated Platinum Steel Broadsword Alpha Blade into Super Heated Platinum Steel Broadsword Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Broadsword Alpha Blade into Red Hot Platinum Steel Broadsword Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Broadsword Alpha Blade into Platinum Steel Broadsword Brittle Blade using Quench Tank.
+   Forge Platinum Steel Broadsword Beta Blade into Heated Platinum Steel Broadsword Beta Blade using Forge.
+   Forge Heated Platinum Steel Broadsword Beta Blade into Super Heated Platinum Steel Broadsword Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Broadsword Beta Blade into Red Hot Platinum Steel Broadsword Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Broadsword Beta Blade into Platinum Steel Broadsword Brittle Blade using Quench Tank.
+   Forge Platinum Steel Broadsword Delta Blade into Heated Platinum Steel Broadsword Delta Blade using Forge.
+   Forge Heated Platinum Steel Broadsword Delta Blade into Super Heated Platinum Steel Broadsword Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Broadsword Delta Blade into Red Hot Platinum Steel Broadsword Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Broadsword Delta Blade into Platinum Steel Broadsword Brittle Blade using Quench Tank.
+-- Platinum Steel Broadsword Delta Blade ----- 
+   Forge Platinum Steel Broadsword Beta Blade into Heated Platinum Steel Broadsword Beta Blade using Forge.
+   Shape Heated Platinum Steel Broadsword Beta Blade into Platinum Steel Broadsword Delta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Broadsword Delta Blade into Heated Platinum Steel Broadsword Delta Blade using Forge.
+   Quench Heated Platinum Steel Broadsword Delta Blade into Platinum Steel Broadsword Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Broadsword Delta Blade into Super Heated Platinum Steel Broadsword Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Broadsword Delta Blade into Platinum Steel Broadsword Delta Blade using Quench Tank.
+-- Platinum Steel Broadsword Dull Blade ----- 
+   Forge Platinum Steel Broadsword Dull Blade into Heated Platinum Steel Broadsword Dull Blade using Forge.
+   Quench Heated Platinum Steel Broadsword Dull Blade into Platinum Steel Broadsword Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Broadsword Dull Blade into Platinum Steel Broadsword Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Broadsword Dull Blade into Platinum Steel Broadsword Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Broadsword Dull Blade into Red Hot Platinum Steel Broadsword Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Broadsword Dull Blade into Platinum Steel Broadsword Dull Blade using Quench Tank.
+-- Platinum Steel Broadsword Rough Blade ----- 
+   Sharpen Platinum Steel Broadsword Dull Blade into Platinum Steel Broadsword Rough Blade using Sharpening Stone.
+   Forge Platinum Steel Broadsword Blade into Heated Platinum Steel Broadsword Blade using Forge.
+   Shape Heated Platinum Steel Broadsword Blade into Platinum Steel Broadsword Rough Blade using Anvil with a Hammer.
+   Forge Platinum Steel Broadsword Rough Blade into Heated Platinum Steel Broadsword Rough Blade using Forge.
+   Quench Heated Platinum Steel Broadsword Rough Blade into Platinum Steel Broadsword Rough Blade using Quench Tank.
+   Forge Heated Platinum Steel Broadsword Rough Blade into Super Heated Platinum Steel Broadsword Rough Blade using Forge.
+   Quench Super Heated Platinum Steel Broadsword Rough Blade into Platinum Steel Broadsword Rough Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Broadsword Rough Blade into Red Hot Platinum Steel Broadsword Rough Blade using Forge.
+   Quench Red Hot Platinum Steel Broadsword Rough Blade into Platinum Steel Broadsword Rough Blade using Quench Tank.
+-- Platinum Steel Falchion ----- 
+   Combine Sword Handle, Platinum Steel Falchion Blade, into 0 Platinum Steel Falchion Kits.
+   Assemble Platinum Steel Falchion Kit into Platinum Steel Falchion using Smith Table.
+-- Platinum Steel Falchion Alpha Blade ----- 
+   Shape 2 Heated Platinum Steel Stock into Platinum Steel Falchion Alpha Blade using Anvil with a Hammer.
+   Forge Platinum Steel Falchion Alpha Blade into Heated Platinum Steel Falchion Alpha Blade using Forge.
+   Quench Heated Platinum Steel Falchion Alpha Blade into Platinum Steel Falchion Alpha Blade using Quench Tank.
+   Forge Heated Platinum Steel Falchion Alpha Blade into Super Heated Platinum Steel Falchion Alpha Blade using Forge.
+   Quench Super Heated Platinum Steel Falchion Alpha Blade into Platinum Steel Falchion Alpha Blade using Quench Tank.
+-- Platinum Steel Falchion Beta Blade ----- 
+   Forge Platinum Steel Falchion Alpha Blade into Heated Platinum Steel Falchion Alpha Blade using Forge.
+   Shape Heated Platinum Steel Falchion Alpha Blade into Platinum Steel Falchion Beta Blade using Anvil with a Hammer.
+   Forge Platinum Steel Falchion Beta Blade into Heated Platinum Steel Falchion Beta Blade using Forge.
+   Quench Heated Platinum Steel Falchion Beta Blade into Platinum Steel Falchion Beta Blade using Quench Tank.
+   Forge Heated Platinum Steel Falchion Beta Blade into Super Heated Platinum Steel Falchion Beta Blade using Forge.
+   Quench Super Heated Platinum Steel Falchion Beta Blade into Platinum Steel Falchion Beta Blade using Quench Tank.
+-- Platinum Steel Falchion Blade ----- 
+   Sharpen Platinum Steel Falchion Dull Blade into Platinum Steel Falchion Blade using Sharpening Stone.
+   Forge Platinum Steel Falchion Blade into Heated Platinum Steel Falchion Blade using Forge.
+   Quench Heated Platinum Steel Falchion Blade into Platinum Steel Falchion Blade using Quench Tank.
+   Forge Heated Platinum Steel Falchion Blade into Super Heated Platinum Steel Falchion Blade using Forge.
+   Quench Super Heated Platinum Steel Falchion Blade into Platinum Steel Falchion Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Falchion Blade into Red Hot Platinum Steel Falchion Blade using Forge.
+   Quench Red Hot Platinum Steel Falchion Blade into Platinum Steel Falchion Blade using Quench Tank.
+-- Platinum Steel Falchion Brittle Blade ----- 
+   Forge Platinum Steel Falchion Delta Blade into Heated Platinum Steel Falchion Delta Blade using Forge.
+   Forge Heated Platinum Steel Falchion Delta Blade into Super Heated Platinum Steel Falchion Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Falchion Delta Blade into Red Hot Platinum Steel Falchion Delta Blade using Forge.
+   Quench Red Hot Platinum Steel Falchion Delta Blade into Platinum Steel Falchion Brittle Blade using Quench Tank.
+   Forge Platinum Steel Falchion Brittle Blade into Heated Platinum Steel Falchion Brittle Blade using Forge.
+   Quench Heated Platinum Steel Falchion Brittle Blade into Platinum Steel Falchion Brittle Blade using Quench Tank.
+   Shape Heated Platinum Steel Falchion Brittle Blade into Platinum Steel Falchion Brittle Blade using Anvil with a Hammer.
+   Forge Platinum Steel Falchion Alpha Blade into Heated Platinum Steel Falchion Alpha Blade using Forge.
+   Forge Heated Platinum Steel Falchion Alpha Blade into Super Heated Platinum Steel Falchion Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Falchion Alpha Blade into Red Hot Platinum Steel Falchion Alpha Blade using Forge.
+   Quench Red Hot Platinum Steel Falchion Alpha Blade into Platinum Steel Falchion Brittle Blade using Quench Tank.
+   Forge Platinum Steel Falchion Beta Blade into Heated Platinum Steel Falchion Beta Blade using Forge.
+   Forge Heated Platinum Steel Falchion Beta Blade into Super Heated Platinum Steel Falchion Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Falchion Beta Blade into Red Hot Platinum Steel Falchion Beta Blade using Forge.
+   Quench Red Hot Platinum Steel Falchion Beta Blade into Platinum Steel Falchion Brittle Blade using Quench Tank.
+-- Platinum Steel Falchion Delta Blade ----- 
+   Forge Platinum Steel Falchion Delta Blade into Heated Platinum Steel Falchion Delta Blade using Forge.
+   Quench Heated Platinum Steel Falchion Delta Blade into Platinum Steel Falchion Delta Blade using Quench Tank.
+   Forge Heated Platinum Steel Falchion Delta Blade into Super Heated Platinum Steel Falchion Delta Blade using Forge.
+   Quench Super Heated Platinum Steel Falchion Delta Blade into Platinum Steel Falchion Delta Blade using Quench Tank.
+   Forge Platinum Steel Falchion Beta Blade into Heated Platinum Steel Falchion Beta Blade using Forge.
+   Shape Heated Platinum Steel Falchion Beta Blade into Platinum Steel Falchion Delta Blade using Anvil with a Hammer.
+-- Platinum Steel Falchion Dull Blade ----- 
+   Forge Platinum Steel Falchion Dull Blade into Heated Platinum Steel Falchion Dull Blade using Forge.
+   Quench Heated Platinum Steel Falchion Dull Blade into Platinum Steel Falchion Dull Blade using Quench Tank.
+   Shape Heated Platinum Steel Falchion Dull Blade into Platinum Steel Falchion Dull Blade using Anvil with a Hammer.
+   Quench Super Heated Platinum Steel Falchion Dull Blade into Platinum Steel Falchion Dull Blade using Quench Tank.
+   Forge Super Heated Platinum Steel Falchion Dull Blade into Red Hot Platinum Steel Falchion Dull Blade using Forge.
+   Quench Red Hot Platinum Steel Falchion Dull Blade into Platinum Steel Falchion Dull Blade using Quench Tank.
+   Forge Platinum Steel Falchion Blade into Heated Platinum Steel Falchion Blade using Forge.
+   Shape Heated Platinum Steel Falchion Blade into Platinum Steel Falchion Dull Blade using Anvil with a Hammer.
+-- Platinum Steel Stock ----- 
+   Forge Platinum Steel Falchion Delta Blade into Heated Platinum Steel Falchion Delta Blade using Forge.
+   Forge Heated Platinum Steel Falchion Delta Blade into Super Heated Platinum Steel Falchion Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Falchion Delta Blade into Red Hot Platinum Steel Falchion Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Falchion Delta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Broadsword Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Broadsword Dull Blade into Red Hot Platinum Steel Broadsword Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Broadsword Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Hammer Super Heated Platinum Steel Falchion Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Falchion Dull Blade into Red Hot Platinum Steel Falchion Dull Blade using Forge.
+   Hammer Red Hot Platinum Steel Falchion Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Broadsword Blade into Heated Platinum Steel Broadsword Blade using Forge.
+   Forge Heated Platinum Steel Broadsword Blade into Super Heated Platinum Steel Broadsword Blade using Forge.
+   Hammer Super Heated Platinum Steel Broadsword Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Broadsword Blade into Red Hot Platinum Steel Broadsword Blade using For
+   Hammer Red Hot Platinum Steel Broadsword Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Falchion Blade into Heated Platinum Steel Falchion Blade using Forge.
+   Forge Heated Platinum Steel Falchion Blade into Super Heated Platinum Steel Falchion Blade using Forge.
+   Hammer Super Heated Platinum Steel Falchion Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Platinum Steel Falchion Blade into Red Hot Platinum Steel Falchion Blade using Forge.
+   Hammer Red Hot Platinum Steel Falchion Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Broadsword Alpha Blade into Heated Platinum Steel Broadsword Alpha Blade using Forge.
+   Forge Heated Platinum Steel Broadsword Alpha Blade into Super Heated Platinum Steel Broadsword Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Broadsword Alpha Blade into Red Hot Platinum Steel Broadsword Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Broadsword Alpha Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Falchion Alpha Blade into Heated Platinum Steel Falchion Alpha Blade using Forge.
+   Forge Heated Platinum Steel Falchion Alpha Blade into Super Heated Platinum Steel Falchion Alpha Blade using Forge.
+   Forge Super Heated Platinum Steel Falchion Alpha Blade into Red Hot Platinum Steel Falchion Alpha Blade using Forge.
+   Hammer Red Hot Platinum Steel Falchion Alpha Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Broadsword Beta Blade into Heated Platinum Steel Broadsword Beta Blade using Forge.
+   Forge Heated Platinum Steel Broadsword Beta Blade into Super Heated Platinum Steel Broadsword Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Broadsword Beta Blade into Red Hot Platinum Steel Broadsword Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Broadsword Beta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Falchion Beta Blade into Heated Platinum Steel Falchion Beta Blade using Forge.
+   Forge Heated Platinum Steel Falchion Beta Blade into Super Heated Platinum Steel Falchion Beta Blade using Forge.
+   Forge Super Heated Platinum Steel Falchion Beta Blade into Red Hot Platinum Steel Falchion Beta Blade using Forge.
+   Hammer Red Hot Platinum Steel Falchion Beta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+   Forge Platinum Steel Broadsword Delta Blade into Heated Platinum Steel Broadsword Delta Blade using Forge.
+   Forge Heated Platinum Steel Broadsword Delta Blade into Super Heated Platinum Steel Broadsword Delta Blade using Forge.
+   Forge Super Heated Platinum Steel Broadsword Delta Blade into Red Hot Platinum Steel Broadsword Delta Blade using Forge.
+   Hammer Red Hot Platinum Steel Broadsword Delta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+-- Super Heated Platinum Steel Broadsword Dull Blade ----- 
+   Forge Platinum Steel Broadsword Brittle Blade into Heated Platinum Steel Broadsword Brittle Blade using Forge.
+   Forge Heated Platinum Steel Broadsword Brittle Blade into Super Heated Platinum Steel Broadsword Dull Blade using Forge.
+   Forge Platinum Steel Broadsword Dull Blade into Heated Platinum Steel Broadsword Dull Blade using Forge.
+   Forge Heated Platinum Steel Broadsword Dull Blade into Super Heated Platinum Steel Broadsword Dull Blade using Forge.
+-- Super Heated Platinum Steel Falchion Dull Blade ----- 
+   Forge Platinum Steel Falchion Brittle Blade into Heated Platinum Steel Falchion Brittle Blade using Forge.
+   Forge Heated Platinum Steel Falchion Brittle Blade into Super Heated Platinum Steel Falchion Dull Blade using Forge.
+   Forge Platinum Steel Falchion Dull Blade into Heated Platinum Steel Falchion Dull Blade using Forge.
+   Forge Heated Platinum Steel Falchion Dull Blade into Super Heated Platinum Steel Falchion Dull Blade using Forge.
+-- Sword Handle ----- 
+   Forge Sword Handle into Heated Sword Handle using Forge.
+   Forge Heated Sword Handle into Super Heated Sword Handle using Forge.
+   Quench Super Heated Sword Handle into Sword Handle using Quench Tank.
+   Forge Super Heated Sword Handle into Red Hot Sword Handle using Forge.
+   Quench Red Hot Sword Handle into Sword Handle using Quench Tank.
+   Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
+   Quench Heated Sword Handle into Sword Handle using Quench Tank.
+   Shape Heated Sword Handle into Sword Handle using Anvil with a Hammer.

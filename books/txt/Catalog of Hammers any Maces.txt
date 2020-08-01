@@ -1,0 +1,184 @@
+-- Battle Hammer ----- 
+   Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Handle.
+   Combine Mace Battle Handle, Hammer Base, Hammer Head, into 0 Battle Hammer Kit.
+   Assemble Battle Hammer Kit into Battle Hammer Assembly using Riveter.
+   Shape Battle Hammer Assembly into Battle Hammer using Anvil with a Hammer.
+-- Battle Pick ----- 
+   Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Handle.
+   Combine Mace Battle Handle, Hammer Base, Hammer Spike, into 0 Battle Pick Kit.
+   Assemble Battle Pick Kit into Battle Pick Assembly using Riveter.
+   Shape Battle Pick Assembly into Battle Pick using Anvil with a Hammer.
+-- Broadsword Handle ----- 
+   Forge Broadsword Handle into Heated Broadsword Handle using Forge.
+   Quench Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+   Shape Heated Broadsword Handle into Broadsword Handle using Anvil with a Hammer.
+   Forge Heated Broadsword Handle into Super Heated Broadsword Handle using Forge.
+   Quench Super Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+   Forge Super Heated Broadsword Handle into Red Hot Broadsword Handle using Forge.
+   Quench Red Hot Broadsword Handle into Broadsword Handle using Quench Tank.
+   Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
+-- Closed Chain ----- 
+   Shape 5 Heated Steel Ingot into 6 Chain Links using Anvil with a Hammer.
+   Shape 4 Chain Links into Closed Chain using Anvil with a Hammer.
+-- Club ----- 
+   Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Handle.
+   Combine Mace Battle Handle, Club Head, into 0 Club Kit.
+   Assemble Club Kit into Club Assembly using Riveter.
+   Shape Club Assembly into Club using Anvil with a Hammer.
+-- Club Head ----- 
+   Forge Club Head into Heated Club Head using Forge.
+   Quench Heated Club Head into Club Head using Quench Tank.
+   Shape Heated Club Head into Club Head using Anvil with a Hammer.
+   Forge Heated Club Head into Super Heated Club Head using Forge.
+   Quench Super Heated Club Head into Club Head using Quench Tank.
+   Forge Super Heated Club Head into Red Hot Club Head using Forge.
+   Quench Red Hot Club Head into Club Head using Quench Tank.
+   Shape 6 Heated Steel Ingot into Club Head using Anvil with a Hammer.
+-- Flail Mace ----- 
+   Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Handle.
+   Combine Mace Battle Handle, Closed Chain, Spiked Mace Head, into 0 Flail Mace Kit.
+   Assemble Flail Mace Kit into Flail Mace Assembly using Riveter.
+   Shape Flail Mace Assembly into Flail Mace using Anvil with a Hammer.
+-- Flanged Mace ----- 
+   Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Handl
+   Combine Mace Battle Handle, Flanged Mace Head, into 0 Flanged Mace Kit.
+   Assemble Flanged Mace Kit into Flanged Mace Assembly using Riveter.
+   Shape Flanged Mace Assembly into Flanged Mace using Anvil with a Hammer.
+-- Flanged Mace Head ----- 
+   Forge Flanged Mace Head into Heated Flanged Mace Head using Forge.
+   Quench Heated Flanged Mace Head into Flanged Mace Head using Quench Tank.
+   Shape Heated Flanged Mace Head into Flanged Mace Head using Anvil with a Hammer.
+   Forge Heated Flanged Mace Head into Super Heated Flanged Mace Head using Forge.
+   Quench Super Heated Flanged Mace Head into Flanged Mace Head using Quench Tank.
+   Forge Super Heated Flanged Mace Head into Red Hot Flanged Mace Head using Forge.
+   Quench Red Hot Flanged Mace Head into Flanged Mace Head using Quench Tank.
+   Shape 8 Heated Steel Ingot into Flanged Mace Head using Anvil with a Hammer.
+-- Hammer Base ----- 
+   Forge Hammer Base into Heated Hammer Base using Forge.
+   Quench Heated Hammer Base into Hammer Base using Quench Tank.
+   Shape Heated Hammer Base into Hammer Base using Anvil with a Hammer.
+   Shape 7 Heated Steel Ingot into Hammer Base using Anvil with a Hammer.
+   Forge Heated Hammer Base into Super Heated Hammer Base using Forge.
+   Quench Super Heated Hammer Base into Hammer Base using Quench Tank.
+   Forge Super Heated Hammer Base into Red Hot Hammer Base using Forge.
+   Quench Red Hot Hammer Base into Hammer Base using Quench Tank.
+-- Hammer Head ----- 
+   Forge Hammer Head into Heated Hammer Head using Forge.
+   Quench Heated Hammer Head into Hammer Head using Quench Tank.
+   Shape Heated Hammer Head into Hammer Head using Anvil with a Hammer.
+   Forge Heated Hammer Head into Super Heated Hammer Head using Forge.
+   Quench Super Heated Hammer Head into Hammer Head using Quench Tank.
+   Forge Super Heated Hammer Head into Red Hot Hammer Head using Forge.
+   Quench Red Hot Hammer Head into Hammer Head using Quench Tank.
+   Shape Heated Steel Stock into Hammer Head using Anvil with a Hammer.
+-- Hammer Spike ----- 
+   Forge Hammer Spike into Heated Hammer Spike using Forge.
+   Quench Heated Hammer Spike into Hammer Spike using Quench Tank.
+   Shape Heated Hammer Spike into Hammer Spike using Anvil with a Hammer.
+   Forge Heated Hammer Spike into Super Heated Hammer Spike using Forge.
+   Quench Super Heated Hammer Spike into Hammer Spike using Quench Tank.
+   Forge Super Heated Hammer Spike into Red Hot Hammer Spike using Forge.
+   Quench Red Hot Hammer Spike into Hammer Spike using Quench Tank.
+   Shape 12 Heated Steel Ingot into 2 Hammer Spikes using Anvil with a Hammer.
+-- Mace ----- 
+   Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Handle.
+   Combine Mace Battle Handle, Spiked Mace Head, into 0 Mace Kit.
+   Assemble Mace Kit into Mace Assembly using Riveter.
+   Shape Mace Assembly into Mace using Anvil with a Hammer.
+-- Mace Battle Handle Shape ----- 
+   Cut Threestem Wood into 4 Wooden Baton using Smith Table with a Wood Saw.
+   Cut Wooden Baton into 2 Half Wooden baton using Smith Table with a Wood Saw.
+   Shape Half Wooden baton into Mace Battle Handle Shape using Smith Table with a Wood Chisel.
+-- Mace War Handle Shape ----- 
+   Cut Threestem Wood into 4 Wooden Baton using Smith Table with a Wood Saw.
+   Shape Wooden Baton into Mace War Handle Shape using Smith Table with a Wood Chisel.
+-- Morning Star ----- 
+   Combine Mace War Handle Shape, 4 Leather String, into 0 Mace War Handle.
+   Combine Mace War Handle, Spiked Mace Head, into 0 Morning Star Kit.
+   Assemble Morning Star Kit into Morning Star Assembly using Riveter.
+   Shape Morning Star Assembly into Morning Star using Anvil with a Hammer.
+-- Spiked Mace Head ----- 
+   Forge Spiked Mace Head into Heated Spiked Mace Head using Forge.
+   Quench Heated Spiked Mace Head into Spiked Mace Head using Quench Tank.
+   Shape Heated Spiked Mace Head into Spiked Mace Head using Anvil with a Hammer.
+   Forge Heated Spiked Mace Head into Super Heated Spiked Mace Head using Forge.
+   Quench Super Heated Spiked Mace Head into Spiked Mace Head using Quench Tank.
+   Forge Super Heated Spiked Mace Head into Red Hot Spiked Mace Head using Forge.
+   Quench Red Hot Spiked Mace Head into Spiked Mace Head using Quench Tank.
+   Shape 9 Heated Steel Ingot into Spiked Mace Head using Anvil with a Hammer.
+-- Spiked Warhammer ----- 
+   Combine Mace War Handle Shape, 4 Leather String, into 0 Mace War Handle.
+   Combine Mace War Handle, Hammer Base, Hammer Head, Hammer Spike, into 0 Spiked Warhammer Kit.
+   Assemble Spiked Warhammer Kit into Spiked Warhammer Assembly using Riveter.
+   Shape Spiked Warhammer Assembly into Spiked Warhammer using Anvil with a Hammer.
+-- Steel Ingot ----- 
+   Forge Sword Handle into Heated Sword Handle using Forge.
+   Forge Heated Sword Handle into Super Heated Sword Handle using Forge.
+   Shape Super Heated Sword Handle into 2 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Sword Handle into Red Hot Sword Handle using Forge.
+   Shape Red Hot Sword Handle into 2 Steel Ingot using Anvil with a Hammer.
+   Forge Hammer Spike into Heated Hammer Spike using Forge.
+   Forge Heated Hammer Spike into Super Heated Hammer Spike using Forge.
+   Shape Super Heated Hammer Spike into 6 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Hammer Spike into Red Hot Hammer Spike using Forge.
+   Shape Red Hot Hammer Spike into 6 Steel Ingot using Anvil with a Hammer.
+   Forge Broadsword Handle into Heated Broadsword Handle using Forge.
+   Forge Heated Broadsword Handle into Super Heated Broadsword Handle using Forge.
+   Shape Super Heated Broadsword Handle into 3 Steel Ingot using Anvil with a Hammer.
+   Forge Spiked Mace Head into Heated Spiked Mace Head using Forge.
+   Forge Heated Spiked Mace Head into Super Heated Spiked Mace Head using Forge.
+   Shape Super Heated Spiked Mace Head into 9 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Broadsword Handle into Red Hot Broadsword Handle using Forge.
+   Shape Red Hot Broadsword Handle into 3 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Spiked Mace Head into Red Hot Spiked Mace Head using Forge.
+   Shape Red Hot Spiked Mace Head into 9 Steel Ingot using Anvil with a Hammer.
+   Forge Flanged Mace Head into Heated Flanged Mace Head using Forge.
+   Forge Heated Flanged Mace Head into Super Heated Flanged Mace Head using Forge.
+   Shape Super Heated Flanged Mace Head into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Flanged Mace Head into Red Hot Flanged Mace Head using Forge.
+   Shape Red Hot Flanged Mace Head into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Club Head into Heated Club Head using Forge.
+   Forge Heated Club Head into Super Heated Club Head using Forge.
+   Shape Super Heated Club Head into 6 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Club Head into Red Hot Club Head using Forge.
+   Shape Red Hot Club Head into 6 Steel Ingot using Anvil with a Hammer.
+   Forge Hammer Base into Heated Hammer Base using Forge.
+   Forge Heated Hammer Base into Super Heated Hammer Base using Forge.
+   Shape Super Heated Hammer Base into 7 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Hammer Base into Red Hot Hammer Base using Forge.
+   Shape Red Hot Hammer Base into 7 Steel Ingot using Anvil with a Hammer.
+-- Steel Stock ----- 
+   Forge Hammer Head into Heated Hammer Head using Forge.
+   Forge Heated Hammer Head into Super Heated Hammer Head using Forge.
+   Shape Super Heated Hammer Head into Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Hammer Head into Red Hot Hammer Head using Forge.
+   Shape Red Hot Hammer Head into Steel Stock using Anvil with a Hammer.
+-- Sword Handle ----- 
+   Forge Sword Handle into Heated Sword Handle using Forge.
+   Forge Heated Sword Handle into Super Heated Sword Handle using Forge.
+   Quench Super Heated Sword Handle into Sword Handle using Quench Tank.
+   Forge Super Heated Sword Handle into Red Hot Sword Handle using Forge.
+   Quench Red Hot Sword Handle into Sword Handle using Quench Tank.
+   Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
+   Quench Heated Sword Handle into Sword Handle using Quench Tank.
+   Shape Heated Sword Handle into Sword Handle using Anvil with a Hammer.
+-- War Club ----- 
+   Combine Mace War Handle Shape, 4 Leather String, into 0 Mace War Handle.
+   Combine Mace War Handle, Club Head, into 0 War Club Kit.
+   Assemble War Club Kit into War Club Assembly using Riveter.
+   Shape War Club Assembly into War Club using Anvil with a Hammer.
+-- War Flanged Mace ----- 
+   Combine Mace War Handle Shape, 4 Leather String, into 0 Mace War Handle.
+   Combine Mace War Handle, Flanged Mace Head, into 0 War Flanged Mace Kit.
+   Assemble War Flanged Mace Kit into War Flanged Mace Assembly using Riveter.
+   Shape War Flanged Mace Assembly into War Flanged Mace using Anvil with a Hammer.
+-- War Pick ----- 
+   Combine Mace War Handle Shape, 4 Leather String, into 0 Mace War Handle.
+   Combine Mace War Handle, Hammer Base, 2 Hammer Spikes, into 0 War Pick Kit.
+   Assemble War Pick Kit into War Pick Assembly using Riveter.
+   Shape War Pick Assembly into War Pick using Anvil with a Hammer.
+-- Warhammer ----- 
+   Combine Mace War Handle Shape, 4 Leather String, into 0 Mace War Handle.
+   Combine Mace War Handle, Hammer Base, 2 Hammer Head, into 0 Warhammer Kit.
+   Assemble Warhammer Kit into Warhammer Assembly using Riveter.
+   Shape Warhammer Assembly into Warhammer using Anvil with a Hammer.

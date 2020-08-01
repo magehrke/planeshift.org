@@ -1,0 +1,542 @@
+-- Brittle Claymore Blade ----- 
+   Forge Claymore Alpha Blade into Heated Claymore Alpha Blade using Forge.
+   Forge Heated Claymore Alpha Blade into Super Heated Claymore Alpha Blade using Forge.
+   Forge Super Heated Claymore Alpha Blade into Red Hot Claymore Alpha Blade using Forge.
+   Quench Red Hot Claymore Alpha Blade into Brittle Claymore Blade using Quench Tank.
+   Forge Claymore Beta Blade into Heated Claymore Beta Blade using Forge.
+   Forge Heated Claymore Beta Blade into Super Heated Claymore Beta Blade using Forge.
+   Forge Super Heated Claymore Beta Blade into Red Hot Claymore Beta Blade using Forge.
+   Quench Red Hot Claymore Beta Blade into Brittle Claymore Blade using Quench Tank.
+   Forge Claymore Delta Blade into Heated Claymore Delta Blade using Forge.
+   Forge Heated Claymore Delta Blade into Super Heated Claymore Delta Blade using Forge.
+   Forge Super Heated Claymore Delta Blade into Red Hot Claymore Delta Blade using Forge.
+   Quench Red Hot Claymore Delta Blade into Brittle Claymore Blade using Quench Tank.
+   Forge Brittle Claymore Blade into Heated Brittle Claymore Blade using Forge.
+   Quench Heated Brittle Claymore Blade into Brittle Claymore Blade using Quench Tank.
+-- Brittle Dagger Blade ----- 
+   Forge Dagger Delta Blade into Heated Dagger Delta Blade using Forge.
+   Forge Heated Dagger Delta Blade into Super Heated Dagger Delta Blade using Forge.
+   Forge Super Heated Dagger Delta Blade into Red Hot Dagger Delta Blade using Forge.
+   Quench Red Hot Dagger Delta Blade into Brittle Dagger Blade using Quench Tank.
+   Forge Brittle Dagger Blade into Heated Brittle Dagger Blade using Forge.
+   Quench Heated Brittle Dagger Blade into Brittle Dagger Blade using Quench Tank.
+   Forge Dagger Alpha Blade into Heated Dagger Alpha Blade using Forge.
+   Forge Heated Dagger Alpha Blade into Super Heated Dagger Alpha Blade using Forge.
+   Forge Super Heated Dagger Alpha Blade into Red Hot Dagger Alpha Blade using Forge.
+   Quench Red Hot Dagger Alpha Blade into Brittle Dagger Blade using Quench Tank.
+   Forge Dagger Beta Blade into Heated Dagger Beta Blade using Forge.
+   Forge Heated Dagger Beta Blade into Super Heated Dagger Beta Blade using Forge.
+   Forge Super Heated Dagger Beta Blade into Red Hot Dagger Beta Blade using Forge.
+   Quench Red Hot Dagger Beta Blade into Brittle Dagger Blade using Quench Tank.
+-- Brittle Knife Blade ----- 
+   Forge Knife Delta Blade into Heated Knife Delta Blade using Forge.
+   Forge Heated Knife Delta Blade into Super Heated Knife Delta Blade using Forge.
+   Forge Super Heated Knife Delta Blade into Red Hot Knife Delta Blade using Forge.
+   Quench Red Hot Knife Delta Blade into Brittle Knife Blade using Quench Tank.
+   Forge Brittle Knife Blade into Heated Brittle Knife Blade using Forge.
+   Quench Heated Brittle Knife Blade into Brittle Knife Blade using Quench Tank.
+   Forge Knife Alpha Blade into Heated Knife Alpha Blade using Forge.
+   Forge Heated Knife Alpha Blade into Super Heated Knife Alpha Blade using Forge.
+   Forge Super Heated Knife Alpha Blade into Red Hot Knife Alpha Blade using Forge.
+   Quench Red Hot Knife Alpha Blade into Brittle Knife Blade using Quench Tank.
+   Forge Knife Beta Blade into Heated Knife Beta Blade using Forge.
+   Forge Heated Knife Beta Blade into Super Heated Knife Beta Blade using Forge.
+   Forge Super Heated Knife Beta Blade into Red Hot Knife Beta Blade using Forge.
+   Quench Red Hot Knife Beta Blade into Brittle Knife Blade using Quench Tank.
+-- Brittle Longsword Blade ----- 
+   Forge Longsword Delta Blade into Heated Longsword Delta Blade using Forge.
+   Forge Heated Longsword Delta Blade into Super Heated Longsword Delta Blade using Forge.
+   Forge Super Heated Longsword Delta Blade into Red Hot Longsword Delta Blade using Forge.
+   Quench Red Hot Longsword Delta Blade into Brittle Longsword Blade using Quench Tank.
+   Forge Brittle Longsword Blade into Heated Brittle Longsword Blade using Forge.
+   Quench Heated Brittle Longsword Blade into Brittle Longsword Blade using Quench Tank.
+   Forge Longsword Alpha Blade into Heated Longsword Alpha Blade using Forge.
+   Forge Heated Longsword Alpha Blade into Super Heated Longsword Alpha Blade using Forge.
+   Forge Super Heated Longsword Alpha Blade into Red Hot Longsword Alpha Blade using Forge.
+   Quench Red Hot Longsword Alpha Blade into Brittle Longsword Blade using Quench Tank.
+   Forge Longsword Beta Blade into Heated Longsword Beta Blade using Forge.
+   Forge Heated Longsword Beta Blade into Super Heated Longsword Beta Blade using Forge.
+   Forge Super Heated Longsword Beta Blade into Red Hot Longsword Beta Blade using Forge.
+   Quench Red Hot Longsword Beta Blade into Brittle Longsword Blade using Quench Tank.
+-- Brittle Sabre Blade ----- 
+   Forge Sabre Beta Blade into Heated Sabre Beta Blade using Forge.
+   Forge Heated Sabre Beta Blade into Super Heated Sabre Beta Blade using Forge.
+   Forge Super Heated Sabre Beta Blade into Red Hot Sabre Beta Blade using Forge.
+   Quench Red Hot Sabre Beta Blade into Brittle Sabre Blade using Quench Tank.
+   Forge Sabre Delta Blade into Heated Sabre Delta Blade using Forge.
+   Forge Heated Sabre Delta Blade into Super Heated Sabre Delta Blade using Forge.
+   Forge Super Heated Sabre Delta Blade into Red Hot Sabre Delta Blade using Forge.
+   Quench Red Hot Sabre Delta Blade into Brittle Sabre Blade using Quench Tank.
+   Forge Brittle Sabre Blade into Heated Brittle Sabre Blade using Forge.
+   Quench Heated Brittle Sabre Blade into Brittle Sabre Blade using Quench Tank.
+   Forge Sabre Alpha Blade into Heated Sabre Alpha Blade using Forge.
+   Forge Heated Sabre Alpha Blade into Super Heated Sabre Alpha Blade using Forge.
+   Forge Super Heated Sabre Alpha Blade into Red Hot Sabre Alpha Blade using Forge.
+   Quench Red Hot Sabre Alpha Blade into Brittle Sabre Blade using Quench Tank.
+-- Brittle Shortsword Blade ----- 
+   Forge Shortsword Beta Blade into Heated Shortsword Beta Blade using Forge.
+   Forge Heated Shortsword Beta Blade into Super Heated Shortsword Beta Blade using Forge.
+   Forge Super Heated Shortsword Beta Blade into Red Hot Shortsword Beta Blade using Forge.
+   Quench Red Hot Shortsword Beta Blade into Brittle Shortsword Blade using Quench Tank.
+   Forge Shortsword Delta Blade into Heated Shortsword Delta Blade using Forge.
+   Forge Heated Shortsword Delta Blade into Super Heated Shortsword Delta Blade using Forge.
+   Forge Super Heated Shortsword Delta Blade into Red Hot Shortsword Delta Blade using Forge.
+   Quench Red Hot Shortsword Delta Blade into Brittle Shortsword Blade using Quench Tank.
+   Forge Brittle Shortsword Blade into Heated Brittle Shortsword Blade using Forge.
+   Quench Heated Brittle Shortsword Blade into Brittle Shortsword Blade using Quench Tank.
+   Forge Shortsword Alpha Blade into Heated Shortsword Alpha Blade using Forge.
+   Forge Heated Shortsword Alpha Blade into Super Heated Shortsword Alpha Blade using Forge.
+   Forge Super Heated Shortsword Alpha Blade into Red Hot Shortsword Alpha Blade using Forge.
+   Quench Red Hot Shortsword Alpha Blade into Brittle Shortsword Blade using Quench Tank.
+-- Broadsword Handle ----- 
+   Forge Broadsword Handle into Heated Broadsword Handle using Forge.
+   Quench Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+   Shape Heated Broadsword Handle into Broadsword Handle using Anvil with a Hammer.
+   Forge Heated Broadsword Handle into Super Heated Broadsword Handle using Forge.
+   Quench Super Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+   Forge Super Heated Broadsword Handle into Red Hot Broadsword Handle using Forge.
+   Quench Red Hot Broadsword Handle into Broadsword Handle using Quench Tank.
+   Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
+-- Claymore ----- 
+   Combine Claymore Blade, Sword Handle, into 0 Claymore Kit.
+   Assemble Claymore Kit into Claymore using Smith Table.
+-- Claymore Alpha Blade ----- 
+   Forge Claymore Alpha Blade into Heated Claymore Alpha Blade using Forge.
+   Forge Heated Claymore Alpha Blade into Super Heated Claymore Alpha Blade using Forge.
+   Quench Super Heated Claymore Alpha Blade into Claymore Alpha Blade using Quench Tank.
+   Shape 4 Heated Steel Stock into Claymore Alpha Blade using Anvil with a Hammer.
+   Quench Heated Claymore Alpha Blade into Claymore Alpha Blade using Quench Tank.
+-- Claymore Beta Blade ----- 
+   Forge Claymore Beta Blade into Heated Claymore Beta Blade using Forge.
+   Quench Heated Claymore Beta Blade into Claymore Beta Blade using Quench Tank.
+   Forge Heated Claymore Beta Blade into Super Heated Claymore Beta Blade using Forge.
+   Quench Super Heated Claymore Beta Blade into Claymore Beta Blade using Quench Tank.
+   Forge Claymore Alpha Blade into Heated Claymore Alpha Blade using Forge.
+   Shape Heated Claymore Alpha Blade into Claymore Beta Blade using Anvil with a Hammer.
+-- Claymore Blade ----- 
+   Forge Claymore Blade into Heated Claymore Blade using Forge.
+   Quench Heated Claymore Blade into Claymore Blade using Quench Tank.
+   Forge Heated Claymore Blade into Super Heated Claymore Blade using Forge.
+   Forge Super Heated Claymore Blade into Red Hot Claymore Blade using Forge.
+   Quench Red Hot Claymore Blade into Claymore Blade using Quench Tank.
+   Quench Super Heated Claymore Blade into Claymore Blade using Quench Tank.
+   Sharpen Dull Claymore Blade into Claymore Blade using Sharpening Stone.
+-- Claymore Delta Blade ----- 
+   Forge Claymore Beta Blade into Heated Claymore Beta Blade using Forge.
+   Shape Heated Claymore Beta Blade into Claymore Delta Blade using Anvil with a Hammer.
+   Forge Claymore Delta Blade into Heated Claymore Delta Blade using Forge.
+   Quench Heated Claymore Delta Blade into Claymore Delta Blade using Quench Tank.
+   Forge Heated Claymore Delta Blade into Super Heated Claymore Delta Blade using Forge.
+   Quench Super Heated Claymore Delta Blade into Claymore Delta Blade using Quench Tank.
+-- Dagger ----- 
+   Combine Dagger Blade, Leather Knife Handle, into 0 Dagger Kit.
+   Assemble Dagger Kit into Dagger using Smith Table.
+-- Dagger Alpha Blade ----- 
+   Forge Dagger Alpha Blade into Heated Dagger Alpha Blade using Forge.
+   Quench Heated Dagger Alpha Blade into Dagger Alpha Blade using Quench Tank.
+   Forge Heated Dagger Alpha Blade into Super Heated Dagger Alpha Blade using Forge.
+   Quench Super Heated Dagger Alpha Blade into Dagger Alpha Blade using Quench Tank.
+   Shape 8 Heated Steel Ingot into Dagger Alpha Blade using Anvil with a Hammer.
+-- Dagger Beta Blade ----- 
+   Forge Dagger Alpha Blade into Heated Dagger Alpha Blade using Forge.
+   Shape Heated Dagger Alpha Blade into Dagger Beta Blade using Anvil with a Hammer.
+   Forge Dagger Beta Blade into Heated Dagger Beta Blade using Forge.
+   Quench Heated Dagger Beta Blade into Dagger Beta Blade using Quench Tank.
+   Forge Heated Dagger Beta Blade into Super Heated Dagger Beta Blade using Forge.
+   Quench Super Heated Dagger Beta Blade into Dagger Beta Blade using Quench Tank.
+-- Dagger Blade ----- 
+   Forge Dagger Blade into Heated Dagger Blade using Forge.
+   Quench Heated Dagger Blade into Dagger Blade using Quench Tank.
+   Forge Heated Dagger Blade into Super Heated Dagger Blade using Forge.
+   Forge Super Heated Dagger Blade into Red Hot Dagger Blade using Forge.
+   Quench Red Hot Dagger Blade into Dagger Blade using Quench Tank.
+   Quench Super Heated Dagger Blade into Dagger Blade using Quench Tank.
+   Sharpen Dull Dagger Blade into Dagger Blade using Sharpening Stone.
+-- Dagger Delta Blade ----- 
+   Forge Dagger Delta Blade into Heated Dagger Delta Blade using Forge.
+   Forge Heated Dagger Delta Blade into Super Heated Dagger Delta Blade using Forge.
+   Quench Super Heated Dagger Delta Blade into Dagger Delta Blade using Quench Tank.
+   Forge Dagger Beta Blade into Heated Dagger Beta Blade using Forge.
+   Shape Heated Dagger Beta Blade into Dagger Delta Blade using Anvil with a Hammer.
+   Quench Heated Dagger Delta Blade into Dagger Delta Blade using Quench Tank.
+-- Dull Claymore Blade ----- 
+   Forge Claymore Blade into Heated Claymore Blade using Forge.
+   Shape Heated Claymore Blade into Dull Claymore Blade using Anvil with a Hammer.
+   Forge Dull Claymore Blade into Heated Dull Claymore Blade using Forge.
+   Quench Heated Dull Claymore Blade into Dull Claymore Blade using Quench Tank.
+   Shape Heated Dull Claymore Blade into Dull Claymore Blade using Anvil with a Hammer.
+   Forge Super Heated Dull Claymore Blade into Red Hot Dull Claymore Blade using Forge.
+   Quench Red Hot Dull Claymore Blade into Dull Claymore Blade using Quench Tank.
+   Quench Super Heated Dull Claymore Blade into Dull Claymore Blade using Quench Tank.
+-- Dull Dagger Blade ----- 
+   Forge Dagger Blade into Heated Dagger Blade using Forge.
+   Shape Heated Dagger Blade into Dull Dagger Blade using Anvil with a Hammer.
+   Forge Dull Dagger Blade into Heated Dull Dagger Blade using Forge.
+   Quench Heated Dull Dagger Blade into Dull Dagger Blade using Quench Tank.
+   Shape Heated Dull Dagger Blade into Dull Dagger Blade using Anvil with a Hammer.
+   Forge Super Heated Dull Dagger Blade into Red Hot Dull Dagger Blade using Forge.
+   Quench Red Hot Dull Dagger Blade into Dull Dagger Blade using Quench Tank.
+   Quench Super Heated Dull Dagger Blade into Dull Dagger Blade using Quench Tank.
+-- Dull Knife Blade ----- 
+   Forge Knife Blade into Heated Knife Blade using Forge.
+   Shape Heated Knife Blade into Dull Knife Blade using Anvil with a Hammer.
+   Forge Dull Knife Blade into Heated Dull Knife Blade using Forge.
+   Quench Heated Dull Knife Blade into Dull Knife Blade using Quench Tank.
+   Shape Heated Dull Knife Blade into Dull Knife Blade using Anvil with a Hammer.
+   Forge Super Heated Dull Knife Blade into Red Hot Dull Knife Blade using Forge.
+   Quench Red Hot Dull Knife Blade into Dull Knife Blade using Quench Tank.
+   Quench Super Heated Dull Knife Blade into Dull Knife Blade using Quench Tank.
+-- Dull Longsword Blade ----- 
+   Forge Longsword Blade into Heated Longsword Blade using Forge.
+   Shape Heated Longsword Blade into Dull Longsword Blade using Anvil with a Hammer.
+   Forge Dull Longsword Blade into Heated Dull Longsword Blade using Forge.
+   Quench Heated Dull Longsword Blade into Dull Longsword Blade using Quench Tank.
+   Shape Heated Dull Longsword Blade into Dull Longsword Blade using Anvil with a Hammer.
+   Forge Super Heated Dull Longsword Blade into Red Hot Dull Longsword Blade using Forge.
+   Quench Red Hot Dull Longsword Blade into Dull Longsword Blade using Quench Tank.
+   Quench Super Heated Dull Longsword Blade into Dull Longsword Blade using Quench Tank.
+-- Dull Sabre Blade ----- 
+   Forge Sabre Blade into Heated Sabre Blade using Forge.
+   Shape Heated Sabre Blade into Dull Sabre Blade using Anvil with a Hammer.
+   Forge Dull Sabre Blade into Heated Dull Sabre Blade using Forge.
+   Quench Heated Dull Sabre Blade into Dull Sabre Blade using Quench Tank.
+   Shape Heated Dull Sabre Blade into Dull Sabre Blade using Anvil with a Hammer.
+   Forge Super Heated Dull Sabre Blade into Red Hot Dull Sabre Blade using Forge.
+   Quench Red Hot Dull Sabre Blade into Dull Sabre Blade using Quench Tank.
+   Quench Super Heated Dull Sabre Blade into Dull Sabre Blade using Quench Tank.
+-- Dull Shortsword Blade ----- 
+   Forge Shortsword Blade into Heated Shortsword Blade using Forge.
+   Shape Heated Shortsword Blade into Dull Shortsword Blade using Anvil with a Hammer.
+   Forge Dull Shortsword Blade into Heated Dull Shortsword Blade using Forge.
+   Quench Heated Dull Shortsword Blade into Dull Shortsword Blade using Quench Tank.
+   Shape Heated Dull Shortsword Blade into Dull Shortsword Blade using Anvil with a Hammer.
+   Forge Super Heated Dull Shortsword Blade into Red Hot Dull Shortsword Blade using Forge.
+   Quench Red Hot Dull Shortsword Blade into Dull Shortsword Blade using Quench Tank.
+   Quench Super Heated Dull Shortsword Blade into Dull Shortsword Blade using Quench Tank.
+-- Knife ----- 
+   Combine Knife Blade, Leather Knife Handle, into 0 Knife Kit.
+   Assemble Knife Kit into Knife using Smith Table.
+-- Knife Alpha Blade ----- 
+   Forge Knife Alpha Blade into Heated Knife Alpha Blade using Forge.
+   Quench Heated Knife Alpha Blade into Knife Alpha Blade using Quench Tank.
+   Forge Heated Knife Alpha Blade into Super Heated Knife Alpha Blade using Forge.
+   Quench Super Heated Knife Alpha Blade into Knife Alpha Blade using Quench Tank.
+   Shape 5 Heated Steel Ingot into Knife Alpha Blade using Anvil with a Hammer.
+-- Knife Beta Blade ----- 
+   Forge Knife Alpha Blade into Heated Knife Alpha Blade using Forge.
+   Shape Heated Knife Alpha Blade into Knife Beta Blade using Anvil with a Hammer.
+   Forge Knife Beta Blade into Heated Knife Beta Blade using Forge.
+   Quench Heated Knife Beta Blade into Knife Beta Blade using Quench Tank.
+   Forge Heated Knife Beta Blade into Super Heated Knife Beta Blade using Forge.
+   Quench Super Heated Knife Beta Blade into Knife Beta Blade using Quench Tank.
+-- Knife Blade ----- 
+   Forge Knife Blade into Heated Knife Blade using Forge.
+   Quench Heated Knife Blade into Knife Blade using Quench Tank.
+   Forge Heated Knife Blade into Super Heated Knife Blade using Forge.
+   Forge Super Heated Knife Blade into Red Hot Knife Blade using Forge.
+   Quench Red Hot Knife Blade into Knife Blade using Quench Tank.
+   Quench Super Heated Knife Blade into Knife Blade using Quench Tank.
+   Sharpen Dull Knife Blade into Knife Blade using Sharpening Stone.
+-- Knife Delta Blade ----- 
+   Forge Knife Delta Blade into Heated Knife Delta Blade using Forge.
+   Quench Heated Knife Delta Blade into Knife Delta Blade using Quench Tank.
+   Forge Heated Knife Delta Blade into Super Heated Knife Delta Blade using Forge.
+   Quench Super Heated Knife Delta Blade into Knife Delta Blade using Quench Tank.
+   Forge Knife Beta Blade into Heated Knife Beta Blade using Forge.
+   Shape Heated Knife Beta Blade into Knife Delta Blade using Anvil with a Hammer.
+-- Leather Knife Handle ----- 
+   Sew 2 Leather String into Leather Knife Handle using Smith Table with a Copper Needle and Thread.
+-- Longsword ----- 
+   Combine Longsword Blade, Sword Handle, into 0 Longsword Kit.
+   Assemble Longsword Kit into Longsword using Smith Table.
+-- Longsword Alpha Blade ----- 
+   Shape 3 Heated Steel Stock into Longsword Alpha Blade using Anvil with a Hammer.
+   Forge Longsword Alpha Blade into Heated Longsword Alpha Blade using Forge.
+   Quench Heated Longsword Alpha Blade into Longsword Alpha Blade using Quench Tank.
+   Forge Heated Longsword Alpha Blade into Super Heated Longsword Alpha Blade using Forge.
+   Quench Super Heated Longsword Alpha Blade into Longsword Alpha Blade using Quench Tank.
+-- Longsword Beta Blade ----- 
+   Forge Longsword Beta Blade into Heated Longsword Beta Blade using Forge.
+   Forge Heated Longsword Beta Blade into Super Heated Longsword Beta Blade using Forge.
+   Quench Super Heated Longsword Beta Blade into Longsword Beta Blade using Quench Tank.
+   Forge Longsword Alpha Blade into Heated Longsword Alpha Blade using Forge.
+   Shape Heated Longsword Alpha Blade into Longsword Beta Blade using Anvil with a Hammer.
+   Quench Heated Longsword Beta Blade into Longsword Beta Blade using Quench Tank.
+-- Longsword Blade ----- 
+   Forge Longsword Blade into Heated Longsword Blade using Forge.
+   Quench Heated Longsword Blade into Longsword Blade using Quench Tank.
+   Forge Heated Longsword Blade into Super Heated Longsword Blade using Forge.
+   Forge Super Heated Longsword Blade into Red Hot Longsword Blade using Forge.
+   Quench Red Hot Longsword Blade into Longsword Blade using Quench Tank.
+   Quench Super Heated Longsword Blade into Longsword Blade using Quench Tank.
+   Sharpen Dull Longsword Blade into Longsword Blade using Sharpening Stone.
+-- Longsword Delta Blade ----- 
+   Forge Longsword Delta Blade into Heated Longsword Delta Blade using Forge.
+   Quench Heated Longsword Delta Blade into Longsword Delta Blade using Quench Tank.
+   Forge Heated Longsword Delta Blade into Super Heated Longsword Delta Blade using Forge.
+   Quench Super Heated Longsword Delta Blade into Longsword Delta Blade using Quench Tank.
+   Forge Longsword Beta Blade into Heated Longsword Beta Blade using Forge.
+   Shape Heated Longsword Beta Blade into Longsword Delta Blade using Anvil with a Hammer.
+-- Sabre ----- 
+   Combine Sabre Blade, Sword Handle, into 0 Sabre Kit.
+   Assemble Sabre Kit into Sabre using Smith Table.
+-- Sabre Alpha Blade ----- 
+   Shape Heated Steel Stock into Sabre Alpha Blade using Anvil with a Hammer.
+   Forge Sabre Alpha Blade into Heated Sabre Alpha Blade using Forge.
+   Quench Heated Sabre Alpha Blade into Sabre Alpha Blade using Quench Tank.
+   Forge Heated Sabre Alpha Blade into Super Heated Sabre Alpha Blade using Forge.
+   Quench Super Heated Sabre Alpha Blade into Sabre Alpha Blade using Quench Tank.
+-- Sabre Beta Blade ----- 
+   Forge Sabre Beta Blade into Heated Sabre Beta Blade using Forge.
+   Forge Heated Sabre Beta Blade into Super Heated Sabre Beta Blade using Forge.
+   Quench Super Heated Sabre Beta Blade into Sabre Beta Blade using Quench Tank.
+   Forge Sabre Alpha Blade into Heated Sabre Alpha Blade using Forge.
+   Shape Heated Sabre Alpha Blade into Sabre Beta Blade using Anvil with a Hammer.
+   Quench Heated Sabre Beta Blade into Sabre Beta Blade using Quench Tank.
+-- Sabre Blade ----- 
+   Forge Sabre Blade into Heated Sabre Blade using Forge.
+   Quench Heated Sabre Blade into Sabre Blade using Quench Tank.
+   Forge Heated Sabre Blade into Super Heated Sabre Blade using Forge.
+   Forge Super Heated Sabre Blade into Red Hot Sabre Blade using Forge.
+   Quench Red Hot Sabre Blade into Sabre Blade using Quench Tank.
+   Quench Super Heated Sabre Blade into Sabre Blade using Quench Tank.
+   Sharpen Dull Sabre Blade into Sabre Blade using Sharpening Stone.
+-- Sabre Delta Blade ----- 
+   Forge Sabre Delta Blade into Heated Sabre Delta Blade using Forge.
+   Quench Heated Sabre Delta Blade into Sabre Delta Blade using Quench Tank.
+   Forge Heated Sabre Delta Blade into Super Heated Sabre Delta Blade using Forge.
+   Quench Super Heated Sabre Delta Blade into Sabre Delta Blade using Quench Tank.
+   Forge Sabre Beta Blade into Heated Sabre Beta Blade using Forge.
+   Shape Heated Sabre Beta Blade into Sabre Delta Blade using Anvil with a Hammer.
+-- Shortsword ----- 
+   Combine Shortsword Blade, Sword Handle, into 0 Shortsword Kit.
+   Assemble Shortsword Kit into Shortsword using Smith Table.
+-- Shortsword Alpha Blade ----- 
+   Shape 2 Heated Steel Stock into Shortsword Alpha Blade using Anvil with a Hammer.
+   Forge Shortsword Alpha Blade into Heated Shortsword Alpha Blade using Forge.
+   Quench Heated Shortsword Alpha Blade into Shortsword Alpha Blade using Quench Tank.
+   Forge Heated Shortsword Alpha Blade into Super Heated Shortsword Alpha Blade using Forge.
+   Quench Super Heated Shortsword Alpha Blade into Shortsword Alpha Blade using Quench Tank.
+-- Shortsword Beta Blade ----- 
+   Forge Shortsword Beta Blade into Heated Shortsword Beta Blade using Forge.
+   Quench Heated Shortsword Beta Blade into Shortsword Beta Blade using Quench Tank.
+   Forge Heated Shortsword Beta Blade into Super Heated Shortsword Beta Blade using Forge.
+   Quench Super Heated Shortsword Beta Blade into Shortsword Beta Blade using Quench Tank.
+   Forge Shortsword Alpha Blade into Heated Shortsword Alpha Blade using Forge.
+   Shape Heated Shortsword Alpha Blade into Shortsword Beta Blade using Anvil with a Hammer.
+-- Shortsword Blade ----- 
+   Forge Shortsword Blade into Heated Shortsword Blade using Forge.
+   Quench Heated Shortsword Blade into Shortsword Blade using Quench Tank.
+   Forge Heated Shortsword Blade into Super Heated Shortsword Blade using Forge.
+   Forge Super Heated Shortsword Blade into Red Hot Shortsword Blade using Forge.
+   Quench Red Hot Shortsword Blade into Shortsword Blade using Quench Tank.
+   Quench Super Heated Shortsword Blade into Shortsword Blade using Quench Tank.
+   Sharpen Dull Shortsword Blade into Shortsword Blade using Sharpening Stone.
+-- Shortsword Delta Blade ----- 
+   Forge Shortsword Beta Blade into Heated Shortsword Beta Blade using Forge.
+   Shape Heated Shortsword Beta Blade into Shortsword Delta Blade using Anvil with a Hammer.
+   Forge Shortsword Delta Blade into Heated Shortsword Delta Blade using Forge.
+   Quench Heated Shortsword Delta Blade into Shortsword Delta Blade using Quench Tank.
+   Forge Heated Shortsword Delta Blade into Super Heated Shortsword Delta Blade using Forge.
+   Quench Super Heated Shortsword Delta Blade into Shortsword Delta Blade using Quench Tank.
+-- Steel Ingot ----- 
+   Forge Sword Handle into Heated Sword Handle using Forge.
+   Forge Heated Sword Handle into Super Heated Sword Handle using Forge.
+   Shape Super Heated Sword Handle into 2 Steel Ingot using Anvil with a Hammer.
+   Forge Dagger Delta Blade into Heated Dagger Delta Blade using Forge.
+   Forge Heated Dagger Delta Blade into Super Heated Dagger Delta Blade using Forge.
+   Forge Super Heated Dagger Delta Blade into Red Hot Dagger Delta Blade using Forge.
+   Shape Red Hot Dagger Delta Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Sword Handle into Red Hot Sword Handle using Forge.
+   Shape Red Hot Sword Handle into 2 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Dagger Delta Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Knife Delta Blade into Heated Knife Delta Blade using Forge.
+   Forge Heated Knife Delta Blade into Super Heated Knife Delta Blade using Forge.
+   Forge Super Heated Knife Delta Blade into Red Hot Knife Delta Blade using Forge.
+   Shape Red Hot Knife Delta Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Knife Delta Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Dagger Blade into Heated Dagger Blade using Forge.
+   Forge Heated Dagger Blade into Super Heated Dagger Blade using Forge.
+   Forge Super Heated Dagger Blade into Red Hot Dagger Blade using Forge.
+   Shape Red Hot Dagger Blade into 8 Steel Ingot using Anvil with a Hamme
+   Shape Super Heated Dagger Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Knife Blade into Heated Knife Blade using Forge.
+   Forge Heated Knife Blade into Super Heated Knife Blade using Forge.
+   Forge Super Heated Knife Blade into Red Hot Knife Blade using Forge.
+   Shape Red Hot Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Brittle Dagger Blade into Heated Brittle Dagger Blade using Forge.
+   Shape Heated Brittle Dagger Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Broadsword Handle into Heated Broadsword Handle using Forge.
+   Forge Heated Broadsword Handle into Super Heated Broadsword Handle using Forge.
+   Shape Super Heated Broadsword Handle into 3 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Broadsword Handle into Red Hot Broadsword Handle using Forge.
+   Shape Red Hot Broadsword Handle into 3 Steel Ingot using Anvil with a Hammer.
+   Forge Brittle Knife Blade into Heated Brittle Knife Blade using Forge.
+   Shape Heated Brittle Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Dull Dagger Blade into Red Hot Dull Dagger Blade using Forge.
+   Shape Red Hot Dull Dagger Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Dull Dagger Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Dull Knife Blade into Red Hot Dull Knife Blade using Forge.
+   Shape Red Hot Dull Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Dull Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Dagger Alpha Blade into Heated Dagger Alpha Blade using Forge.
+   Forge Heated Dagger Alpha Blade into Super Heated Dagger Alpha Blade using Forge.
+   Forge Super Heated Dagger Alpha Blade into Red Hot Dagger Alpha Blade using Forge.
+   Shape Red Hot Dagger Alpha Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Dagger Alpha Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Knife Alpha Blade into Heated Knife Alpha Blade using Forge.
+   Forge Heated Knife Alpha Blade into Super Heated Knife Alpha Blade using Forge.
+   Forge Super Heated Knife Alpha Blade into Red Hot Knife Alpha Blade using Forge.
+   Shape Red Hot Knife Alpha Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Knife Alpha Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Dagger Beta Blade into Heated Dagger Beta Blade using Forge.
+   Forge Heated Dagger Beta Blade into Super Heated Dagger Beta Blade using Forge.
+   Forge Super Heated Dagger Beta Blade into Red Hot Dagger Beta Blade using Forge.
+   Shape Red Hot Dagger Beta Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Dagger Beta Blade into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Knife Beta Blade into Heated Knife Beta Blade using Forge.
+   Forge Heated Knife Beta Blade into Super Heated Knife Beta Blade using Forge.
+   Forge Super Heated Knife Beta Blade into Red Hot Knife Beta Blade using Forge.
+   Shape Red Hot Knife Beta Blade into 5 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Knife Beta Blade into 5 Steel Ingot using Anvil with a Hammer.
+-- Steel Stock ----- 
+   Forge Sabre Beta Blade into Heated Sabre Beta Blade using Forge.
+   Forge Heated Sabre Beta Blade into Super Heated Sabre Beta Blade using Forge.
+   Forge Super Heated Sabre Beta Blade into Red Hot Sabre Beta Blade using Forge.
+   Shape Red Hot Sabre Beta Blade into Steel Stock using Anvil with a Hammer.
+   Forge Longsword Beta Blade into Heated Longsword Beta Blade using Forge.
+   Forge Heated Longsword Beta Blade into Super Heated Longsword Beta Blade using Forge.
+   Shape Super Heated Longsword Beta Blade into 3 Steel Stock using Anvil with a Hammer.
+   Forge Claymore Alpha Blade into Heated Claymore Alpha Blade using Forge.
+   Forge Heated Claymore Alpha Blade into Super Heated Claymore Alpha Blade using Forge.
+   Forge Super Heated Claymore Alpha Blade into Red Hot Claymore Alpha Blade using Forge.
+   Shape Red Hot Claymore Alpha Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Sabre Beta Blade into Steel Stock using Anvil with a Hammer.
+   Forge Shortsword Beta Blade into Heated Shortsword Beta Blade using Forge.
+   Forge Heated Shortsword Beta Blade into Super Heated Shortsword Beta Blade using Forge.
+   Forge Super Heated Shortsword Beta Blade into Red Hot Shortsword Beta Blade using Forge.
+   Shape Red Hot Shortsword Beta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Claymore Alpha Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Shortsword Beta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Longsword Delta Blade into Heated Longsword Delta Blade using Forge.
+   Forge Heated Longsword Delta Blade into Super Heated Longsword Delta Blade using Forge.
+   Forge Super Heated Longsword Delta Blade into Red Hot Longsword Delta Blade using Forge.
+   Shape Red Hot Longsword Delta Blade into 3 Steel Stock using Anvil with a Hammer.
+   Forge Sabre Delta Blade into Heated Sabre Delta Blade using Forge.
+   Forge Heated Sabre Delta Blade into Super Heated Sabre Delta Blade using Forge.
+   Forge Super Heated Sabre Delta Blade into Red Hot Sabre Delta Blade using Forge.
+   Shape Red Hot Sabre Delta Blade into Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Longsword Delta Blade into 3 Steel Stock using Anvil with a Hammer.
+   Forge Claymore Beta Blade into Heated Claymore Beta Blade using Forge.
+   Forge Heated Claymore Beta Blade into Super Heated Claymore Beta Blade using Forge.
+   Forge Super Heated Claymore Beta Blade into Red Hot Claymore Beta Blade using Forge.
+   Shape Red Hot Claymore Beta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Sabre Delta Blade into Steel Stock using Anvil with a Hammer.
+   Forge Shortsword Delta Blade into Heated Shortsword Delta Blade using Forge.
+   Forge Heated Shortsword Delta Blade into Super Heated Shortsword Delta Blade using Forge.
+   Forge Super Heated Shortsword Delta Blade into Red Hot Shortsword Delta Blade using Forge.
+   Shape Red Hot Shortsword Delta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Claymore Beta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Shortsword Delta Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Longsword Blade into Heated Longsword Blade using Forge.
+   Forge Heated Longsword Blade into Super Heated Longsword Blade using Forge.
+   Forge Super Heated Longsword Blade into Red Hot Longsword Blade using Forge.
+   Shape Red Hot Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+   Forge Sabre Blade into Heated Sabre Blade using Forge.
+   Forge Heated Sabre Blade into Super Heated Sabre Blade using Forge.
+   Forge Super Heated Sabre Blade into Red Hot Sabre Blade using Forge.
+   Shape Red Hot Sabre Blade into Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+   Forge Claymore Delta Blade into Heated Claymore Delta Blade using Forge.
+   Forge Heated Claymore Delta Blade into Super Heated Claymore Delta Blade using Forge.
+   Forge Super Heated Claymore Delta Blade into Red Hot Claymore Delta Blade using Forge.
+   Shape Red Hot Claymore Delta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Sabre Blade into Steel Stock using Anvil with a Hammer.
+   Forge Shortsword Blade into Heated Shortsword Blade using Forge.
+   Forge Heated Shortsword Blade into Super Heated Shortsword Blade using Forge.
+   Forge Super Heated Shortsword Blade into Red Hot Shortsword Blade using Forge.
+   Shape Red Hot Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Brittle Longsword Blade into Heated Brittle Longsword Blade using Forge.
+   Shape Heated Brittle Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Claymore Delta Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Brittle Sabre Blade into Heated Brittle Sabre Blade using Forge.
+   Shape Heated Brittle Sabre Blade into Steel Stock using Anvil with a Hammer.
+   Forge Brittle Shortsword Blade into Heated Brittle Shortsword Blade using Forge.
+   Shape Heated Brittle Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Claymore Blade into Heated Claymore Blade using Forge.
+   Forge Heated Claymore Blade into Super Heated Claymore Blade using Forge.
+   Forge Super Heated Claymore Blade into Red Hot Claymore Blade using Forge.
+   Shape Red Hot Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+   Forge Brittle Claymore Blade into Heated Brittle Claymore Blade using Forge.
+   Shape Heated Brittle Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Dull Longsword Blade into Red Hot Dull Longsword Blade using Forge.
+   Shape Red Hot Dull Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Dull Sabre Blade into Red Hot Dull Sabre Blade using Forge.
+   Shape Red Hot Dull Sabre Blade into Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Dull Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Dull Sabre Blade into Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Dull Shortsword Blade into Red Hot Dull Shortsword Blade using Forge.
+   Shape Red Hot Dull Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Dull Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Longsword Alpha Blade into Heated Longsword Alpha Blade using Forge.
+   Forge Heated Longsword Alpha Blade into Super Heated Longsword Alpha Blade using Forge.
+   Forge Super Heated Longsword Alpha Blade into Red Hot Longsword Alpha Blade using Forge.
+   Shape Red Hot Longsword Alpha Blade into 3 Steel Stock using Anvil with a Hammer.
+   Forge Sabre Alpha Blade into Heated Sabre Alpha Blade using Forge.
+   Forge Heated Sabre Alpha Blade into Super Heated Sabre Alpha Blade using Forge.
+   Forge Super Heated Sabre Alpha Blade into Red Hot Sabre Alpha Blade using Forge.
+   Shape Red Hot Sabre Alpha Blade into Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Longsword Alpha Blade into 3 Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Dull Claymore Blade into Red Hot Dull Claymore Blade using Forge.
+   Shape Red Hot Dull Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Sabre Alpha Blade into Steel Stock using Anvil with a Hammer.
+   Forge Shortsword Alpha Blade into Heated Shortsword Alpha Blade using Forge.
+   Forge Heated Shortsword Alpha Blade into Super Heated Shortsword Alpha Blade using Forge.
+   Forge Super Heated Shortsword Alpha Blade into Red Hot Shortsword Alpha Blade using Forge.
+   Shape Red Hot Shortsword Alpha Blade into 2 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Dull Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+   Shape Super Heated Shortsword Alpha Blade into 2 Steel Stock using Anvil with a Hammer.
+   Forge Super Heated Longsword Beta Blade into Red Hot Longsword Beta Blade using Forge.
+   Shape Red Hot Longsword Beta Blade into 3 Steel Stock using Anvil with a Hammer.
+-- Super Heated Dull Claymore Blade ----- 
+   Forge Brittle Claymore Blade into Heated Brittle Claymore Blade using Forge.
+   Forge Heated Brittle Claymore Blade into Super Heated Dull Claymore Blade using Forge.
+   Forge Dull Claymore Blade into Heated Dull Claymore Blade using Forge.
+   Forge Heated Dull Claymore Blade into Super Heated Dull Claymore Blade using Forge.
+-- Super Heated Dull Dagger Blade ----- 
+   Forge Brittle Dagger Blade into Heated Brittle Dagger Blade using Forge.
+   Forge Heated Brittle Dagger Blade into Super Heated Dull Dagger Blade using Forge.
+   Forge Dull Dagger Blade into Heated Dull Dagger Blade using Forge.
+   Forge Heated Dull Dagger Blade into Super Heated Dull Dagger Blade using Forge.
+-- Super Heated Dull Knife Blade ----- 
+   Forge Brittle Knife Blade into Heated Brittle Knife Blade using Forge.
+   Forge Heated Brittle Knife Blade into Super Heated Dull Knife Blade using Forge.
+   Forge Dull Knife Blade into Heated Dull Knife Blade using Forge.
+   Forge Heated Dull Knife Blade into Super Heated Dull Knife Blade using Forge.
+-- Super Heated Dull Longsword Blade ----- 
+   Forge Brittle Longsword Blade into Heated Brittle Longsword Blade using Forge.
+   Forge Heated Brittle Longsword Blade into Super Heated Dull Longsword Blade using Forge.
+   Forge Dull Longsword Blade into Heated Dull Longsword Blade using Forge.
+   Forge Heated Dull Longsword Blade into Super Heated Dull Longsword Blade using Forge.
+-- Super Heated Dull Sabre Blade ----- 
+   Forge Brittle Sabre Blade into Heated Brittle Sabre Blade using Forge.
+   Forge Heated Brittle Sabre Blade into Super Heated Dull Sabre Blade using Forge.
+   Forge Dull Sabre Blade into Heated Dull Sabre Blade using Forge.
+   Forge Heated Dull Sabre Blade into Super Heated Dull Sabre Blade using Forge.
+-- Super Heated Dull Shortsword Blade ----- 
+   Forge Brittle Shortsword Blade into Heated Brittle Shortsword Blade using Forge.
+   Forge Heated Brittle Shortsword Blade into Super Heated Dull Shortsword Blade using Forge.
+   Forge Dull Shortsword Blade into Heated Dull Shortsword Blade using Forge.
+   Forge Heated Dull Shortsword Blade into Super Heated Dull Shortsword Blade using Forge.
+-- Sword Handle ----- 
+   Forge Sword Handle into Heated Sword Handle using Forge.
+   Forge Heated Sword Handle into Super Heated Sword Handle using Forge.
+   Quench Super Heated Sword Handle into Sword Handle using Quench Tank.
+   Forge Super Heated Sword Handle into Red Hot Sword Handle using Forge.
+   Quench Red Hot Sword Handle into Sword Handle using Quench Tank.
+   Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
+   Quench Heated Sword Handle into Sword Handle using Quench Tank.
+   Shape Heated Sword Handle into Sword Handle using Anvil with a Hammer.

@@ -1,0 +1,75 @@
+-- Carved Smoothed Oak Wood Board ----- 
+   Cut White Oak Wood into 2 Oak Wood Board using Smith Table with a Wood Saw.
+   Cut Oak Wood Board into 2 Small Oak Wood Board using Smith Table with a Wood Saw.
+   Smooth Small Oak Wood Board into Smoothed Oak Wood Board using Smith Table with a Wood Plane.
+   Carve Smoothed Oak Wood Board into Carved Smoothed Oak Wood Board using Smith Table with a Wood Chisel.
+-- Carved Smoothed Wooden Board ----- 
+   Cut Threestem Wood into 2 Wooden Board using Smith Table with a Wood Saw.
+   Cut Wooden Board into 2 Small Wooden Board using Smith Table with a Wood Saw.
+   Smooth Small Wooden Board into Smoothed Wooden Board using Smith Table with a Wood Plane.
+   Carve Smoothed Wooden Board into Carved Smoothed Wooden Board using Smith Table with a Wood Chisel.
+-- Compound Bow Arm ----- 
+   Shape 4 Heated Steel Ingot into Untempered Compound Bow Arm using Anvil with a Hammer.
+   Forge Untempered Compound Bow Arm into Heated Untempered Compound Bow Arm using Forge.
+   Quench Heated Untempered Compound Bow Arm into Compound Bow Arm using Quench Tank.
+-- Compound Bow Grip ----- 
+   Shape 3 Heated Steel Ingot into Compound Bow Grip using Anvil with a Hammer.
+-- Compound Bow Staff ----- 
+   Combine 2 Pulley Wheels, Compound Bow Grip, 2 Compound Bow Arms, into 0 Compound Bow Staff Kits.
+   Assemble Compound Bow Staff Kit into Compound Bow Staff using Riveter.
+-- Dermorian Composite Bow ----- 
+   Combine Unstrung Dermorian Composite Bow, Plant String, into 0 Unbalanced Dermorian Composite Bows.
+   Balance Unbalanced Dermorian Composite Bow into Dermorian Composite Bow using Smith Table.
+-- Enkidukai Composite Bow ----- 
+   Combine Unstrung Enkidukai Composite Bow, Tendon String, into 0 Unbalanced Enkidukai Composite Bows.
+   Balance Unbalanced Enkidukai Composite Bow into Enkidukai Composite Bow using Smith Table.
+-- Plant String ----- 
+   Season 3 Couchgrass into Dried Couchgrass using Smith Table.
+   Spin 3 Dried Couchgrass into Thread using Smith Table with a Mandrel.
+   Spin 3 Thread into Plant String using Smith Table with a Mandrel.
+-- Pulley Wheel ----- 
+   Shape Heated Steel Ingot into Pulley Wheel using Anvil with a Hammer.
+-- Smoothed Piece of Ulbernaut Claw ----- 
+   Cut Ulbernaut Claw into 2 Piece of Ulbernaut Claw using Smith Table with a Wood Saw.
+   Smooth Piece of Ulbernaut Claw into Smoothed Piece of Ulbernaut Claw using Smith Table with a Wood Plane.
+-- Smoothed piece of Tefusang Claw ----- 
+   Cut Tefusang Claw into 2 Piece of Tefusang Claw using Smith Table with a Wood Saw.
+   Cut Tefusangling Claw into Piece of Tefusang Claw using Smith Table with a Wood Saw.
+   Smooth Piece of Tefusang Claw into Smoothed piece of Tefusang Claw using Smith Table with a Wood Plane.
+-- Steel String ----- 
+   Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+   Spin 3 Steel Wire into Steel String using Smith Table with a Mandrel.
+-- Stonehammer Compound Bow ----- 
+   Combine Compound Bow Staff, Steel String, into 0 Compound Bow Kits.
+   Assemble Compound Bow Kit into Stonehammer Compound Bow using Riveter.
+-- Tendon String ----- 
+   Loosen Clacker Leg into Tendon using Smith Table with a Kitchen Knife.
+   Loosen Consumer Leg into 3 Tendon using Smith Table with a Kitchen Knife.
+   Loosen Thunder Clacker Leg into 2 Tendon using Smith Table with a Kitchen Knife.
+   Spin 3 Tendon into Tendon String using Smith Table with a Mandrel.
+-- Unstrung Dermorian Composite Bow ----- 
+   Combine 2 Carved Smoothed Wooden Board, 2 Carved Smoothed Oak Wood Board, Fish Glue, into 0 Dermorian Composite Bow Kits.
+   Assemble Dermorian Composite Bow Kit into Dermorian Composite Bow Staff using Riveter.
+   Curve Dermorian Composite Bow Staff into Curved Dermorian Composite Staff using Smith Table.
+   Season Curved Dermorian Composite Staff into Unstrung Dermorian Composite Bow using Smith Table.
+-- Unstrung Enkidukai Composite Bow ----- 
+   Cut Threestem Wood into 2 Wooden Board using Smith Table with a Wood Saw.
+   Cut Wooden Board into 2 Small Wooden Board using Smith Table with a Wood Saw.
+   Smooth Small Wooden Board into Smoothed Wooden Board using Smith Table with a Wood Plane.
+   Combine 2 Smoothed Wooden Board, 2 Smoothed piece of Tefusang Claw, Fish Glue, into 0 Enkidukai Composite Bow Staff Kits.
+   Assemble Enkidukai Composite Bow Staff Kit into Enkidukai Composite Bow Staff using Riveter.
+   Carve Enkidukai Composite Bow Staff into Carved Enkidukai Composite Bow Staff using Smith Table with a Wood Chisel.
+   Curve Carved Enkidukai Composite Bow Staff into Carved Curved Enkidukai Composite Bow Staff using Smith Table.
+   Season Carved Curved Enkidukai Composite Bow Staff into Unstrung Enkidukai Composite Bow using Smith Table.
+-- Unstrung Ynnwn Composite Bow ----- 
+   Cut Threestem Wood into 2 Wooden Board using Smith Table with a Wood Saw.
+   Cut Wooden Board into 2 Small Wooden Board using Smith Table with a Wood Saw.
+   Smooth Small Wooden Board into Smoothed Wooden Board using Smith Table with a Wood Plane.
+   Combine Smoothed Wooden Board, 2 Smoothed Piece of Ulbernaut Claw, Fish Glue, into 0 Ynnwn Composite Bow Staff Kits.
+   Assemble Ynnwn Composite Bow Staff Kit into Ynnwn Composite Bow Staff using Riveter.
+   Carve Ynnwn Composite Bow Staff into Carved Ynnwn Composite Bow Staff using Smith Table with a Wood Chisel.
+   Curve Carved Ynnwn Composite Bow Staff into Carved Curved Ynnwn Composite Bow Staff using Smith Table.
+   Season Carved Curved Ynnwn Composite Bow Staff into Unstrung Ynnwn Composite Bow using Smith Table.
+-- Ynnwn Composite Bow ----- 
+   Combine Unstrung Ynnwn Composite Bow, Tendon String, into 0 Unbalanced Ynnwn Composite Bows.
+   Balance Unbalanced Ynnwn Composite Bow into Ynnwn Composite Bow using Smith Table.

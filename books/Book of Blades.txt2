@@ -1,0 +1,333 @@
+Blacksmith P 200 Assemble Claymore Kit into Claymore using Smith Table.
+Blacksmith P 200 Assemble Dagger Kit into Dagger using Smith Table.
+Blacksmith P 200 Assemble Knife Kit into Knife using Smith Table.
+Blacksmith P 200 Assemble Longsword Kit into Longsword using Smith Table.
+Blacksmith P 200 Assemble Sabre Kit into Sabre using Smith Table.
+Blacksmith P 200 Assemble Shortsword Kit into Shortsword using Smith Table.
+Blacksmith I 200 Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
+Blacksmith I 200 Shape 2 Heated Steel Stock into Shortsword Alpha Blade using Anvil with a Hammer.
+Blacksmith I 200 Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
+Blacksmith I 200 Shape 3 Heated Steel Stock into Longsword Alpha Blade using Anvil with a Hammer.
+Blacksmith I 200 Shape 4 Heated Steel Stock into Claymore Alpha Blade using Anvil with a Hammer.
+Blacksmith I 200 Shape 5 Heated Steel Ingot into Knife Alpha Blade using Anvil with a Hammer.
+Blacksmith I 200 Shape 8 Heated Steel Ingot into Dagger Alpha Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Brittle Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Brittle Dagger Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Brittle Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Brittle Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Brittle Sabre Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Brittle Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Broadsword Handle into Broadsword Handle using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Claymore Blade into Dull Claymore Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Dagger Blade into Dull Dagger Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Dull Claymore Blade into Dull Claymore Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Dull Dagger Blade into Dull Dagger Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Dull Knife Blade into Dull Knife Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Dull Longsword Blade into Dull Longsword Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Dull Sabre Blade into Dull Sabre Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Dull Shortsword Blade into Dull Shortsword Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Knife Blade into Dull Knife Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Longsword Blade into Dull Longsword Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Sabre Blade into Dull Sabre Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Shortsword Blade into Dull Shortsword Blade using Anvil with a Hammer.
+Blacksmith I 200 Shape Heated Steel Stock into Sabre Alpha Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Sword Handle into Sword Handle using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Broadsword Handle into 3 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Claymore Alpha Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dagger Alpha Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dagger Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dull Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dull Dagger Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dull Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dull Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dull Sabre Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dull Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Knife Alpha Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Longsword Alpha Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Sabre Alpha Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Sabre Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Shortsword Alpha Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Sword Handle into 2 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Broadsword Handle into 3 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dagger Alpha Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dagger Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dull Claymore Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dull Dagger Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dull Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dull Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dull Sabre Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dull Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Knife Alpha Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Knife Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Longsword Alpha Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Longsword Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Sabre Alpha Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Shortsword Alpha Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Shortsword Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Sword Handle into 2 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Claymore Alpha Blade into Claymore Beta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Claymore Beta Blade into Claymore Delta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Dagger Alpha Blade into Dagger Beta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Dagger Beta Blade into Dagger Delta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Knife Alpha Blade into Knife Beta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Knife Beta Blade into Knife Delta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Longsword Alpha Blade into Longsword Beta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Longsword Beta Blade into Longsword Delta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Sabre Alpha Blade into Sabre Beta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Sabre Beta Blade into Sabre Delta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Shortsword Alpha Blade into Shortsword Beta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Heated Shortsword Beta Blade into Shortsword Delta Blade using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Claymore Beta Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Claymore Delta Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dagger Beta Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Dagger Delta Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Knife Beta Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Knife Delta Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Longsword Beta Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Longsword Delta Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Sabre Beta Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Sabre Delta Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Shortsword Beta Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Red Hot Shortsword Delta Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Claymore Alpha Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Claymore Beta Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Claymore Delta Blade into 4 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dagger Beta Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Dagger Delta Blade into 8 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Knife Beta Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Knife Delta Blade into 5 Steel Ingot using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Longsword Beta Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Longsword Delta Blade into 3 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Sabre Beta Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Sabre Delta Blade into Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Shortsword Beta Blade into 2 Steel Stock using Anvil with a Hammer.
+Blacksmith O 200 Shape Super Heated Shortsword Delta Blade into 2 Steel Stock using Anvil with a Hammer.
+Blades Making I 200 Combine Claymore Blade, Sword Handle, into 0 Claymore Kit using Smith Table (combine).
+Blades Making I 200 Combine Dagger Blade, Leather Knife Handle, into 0 Dagger Kit using Smith Table (combine).
+Blades Making I 200 Combine Knife Blade, Leather Knife Handle, into 0 Knife Kit using Smith Table (combine).
+Blades Making I 200 Combine Longsword Blade, Sword Handle, into 0 Longsword Kit using Smith Table (combine).
+Blades Making I 200 Combine Sabre Blade, Sword Handle, into 0 Sabre Kit using Smith Table (combine).
+Blades Making I 200 Combine Shortsword Blade, Sword Handle, into 0 Shortsword Kit using Smith Table (combine).
+Blades Making I 200 Forge Brittle Claymore Blade into Heated Brittle Claymore Blade using Forge.
+Blades Making I 200 Forge Brittle Dagger Blade into Heated Brittle Dagger Blade using Forge.
+Blades Making I 200 Forge Brittle Knife Blade into Heated Brittle Knife Blade using Forge.
+Blades Making I 200 Forge Brittle Longsword Blade into Heated Brittle Longsword Blade using Forge.
+Blades Making I 200 Forge Brittle Sabre Blade into Heated Brittle Sabre Blade using Forge.
+Blades Making I 200 Forge Brittle Shortsword Blade into Heated Brittle Shortsword Blade using Forge.
+Blades Making O 200 Forge Broadsword Handle into Heated Broadsword Handle using Forge.
+Blades Making I 200 Forge Claymore Alpha Blade into Heated Claymore Alpha Blade using Forge.
+Blades Making I 200 Forge Claymore Blade into Heated Claymore Blade using Forge.
+Blades Making I 200 Forge Dagger Alpha Blade into Heated Dagger Alpha Blade using Forge.
+Blades Making I 200 Forge Dagger Blade into Heated Dagger Blade using Forge.
+Blades Making O 200 Forge Dull Claymore Blade into Heated Dull Claymore Blade using Forge.
+Blades Making O 200 Forge Dull Dagger Blade into Heated Dull Dagger Blade using Forge.
+Blades Making O 200 Forge Dull Knife Blade into Heated Dull Knife Blade using Forge.
+Blades Making O 200 Forge Dull Longsword Blade into Heated Dull Longsword Blade using Forge.
+Blades Making O 200 Forge Dull Sabre Blade into Heated Dull Sabre Blade using Forge.
+Blades Making O 200 Forge Dull Shortsword Blade into Heated Dull Shortsword Blade using Forge.
+Blades Making I 200 Forge Heated Brittle Claymore Blade into Super Heated Dull Claymore Blade using Forge.
+Blades Making I 200 Forge Heated Brittle Dagger Blade into Super Heated Dull Dagger Blade using Forge.
+Blades Making I 200 Forge Heated Brittle Knife Blade into Super Heated Dull Knife Blade using Forge.
+Blades Making I 200 Forge Heated Brittle Longsword Blade into Super Heated Dull Longsword Blade using Forge.
+Blades Making I 200 Forge Heated Brittle Sabre Blade into Super Heated Dull Sabre Blade using Forge.
+Blades Making I 200 Forge Heated Brittle Shortsword Blade into Super Heated Dull Shortsword Blade using Forge.
+Blades Making O 200 Forge Heated Broadsword Handle into Super Heated Broadsword Handle using Forge.
+Blades Making I 200 Forge Heated Claymore Alpha Blade into Super Heated Claymore Alpha Blade using Forge.
+Blades Making O 200 Forge Heated Claymore Blade into Super Heated Claymore Blade using Forge.
+Blades Making I 200 Forge Heated Dagger Alpha Blade into Super Heated Dagger Alpha Blade using Forge.
+Blades Making O 200 Forge Heated Dagger Blade into Super Heated Dagger Blade using Forge.
+Blades Making O 200 Forge Heated Dull Claymore Blade into Super Heated Dull Claymore Blade using Forge.
+Blades Making O 200 Forge Heated Dull Dagger Blade into Super Heated Dull Dagger Blade using Forge.
+Blades Making O 200 Forge Heated Dull Knife Blade into Super Heated Dull Knife Blade using Forge.
+Blades Making O 200 Forge Heated Dull Longsword Blade into Super Heated Dull Longsword Blade using Forge.
+Blades Making O 200 Forge Heated Dull Sabre Blade into Super Heated Dull Sabre Blade using Forge.
+Blades Making O 200 Forge Heated Dull Shortsword Blade into Super Heated Dull Shortsword Blade using Forge.
+Blades Making I 200 Forge Heated Knife Alpha Blade into Super Heated Knife Alpha Blade using Forge.
+Blades Making O 200 Forge Heated Knife Blade into Super Heated Knife Blade using Forge.
+Blades Making I 200 Forge Heated Longsword Alpha Blade into Super Heated Longsword Alpha Blade using Forge.
+Blades Making O 200 Forge Heated Longsword Blade into Super Heated Longsword Blade using Forge.
+Blades Making I 200 Forge Heated Sabre Alpha Blade into Super Heated Sabre Alpha Blade using Forge.
+Blades Making O 200 Forge Heated Sabre Blade into Super Heated Sabre Blade using Forge.
+Blades Making I 200 Forge Heated Shortsword Alpha Blade into Super Heated Shortsword Alpha Blade using Forge.
+Blades Making O 200 Forge Heated Shortsword Blade into Super Heated Shortsword Blade using Forge.
+Blades Making O 200 Forge Heated Sword Handle into Super Heated Sword Handle using Forge.
+Blades Making I 200 Forge Knife Alpha Blade into Heated Knife Alpha Blade using Forge.
+Blades Making O 200 Forge Knife Blade into Heated Knife Blade using Forge.
+Blades Making I 200 Forge Longsword Alpha Blade into Heated Longsword Alpha Blade using Forge.
+Blades Making O 200 Forge Longsword Blade into Heated Longsword Blade using Forge.
+Blades Making I 200 Forge Sabre Alpha Blade into Heated Sabre Alpha Blade using Forge.
+Blades Making O 200 Forge Sabre Blade into Heated Sabre Blade using Forge.
+Blades Making I 200 Forge Shortsword Alpha Blade into Heated Shortsword Alpha Blade using Forge.
+Blades Making O 200 Forge Shortsword Blade into Heated Shortsword Blade using Forge.
+Blades Making O 200 Forge Super Heated Broadsword Handle into Red Hot Broadsword Handle using Forge.
+Blades Making I 200 Forge Super Heated Claymore Alpha Blade into Red Hot Claymore Alpha Blade using Forge.
+Blades Making O 200 Forge Super Heated Claymore Blade into Red Hot Claymore Blade using Forge.
+Blades Making I 200 Forge Super Heated Dagger Alpha Blade into Red Hot Dagger Alpha Blade using Forge.
+Blades Making O 200 Forge Super Heated Dagger Blade into Red Hot Dagger Blade using Forge.
+Blades Making O 200 Forge Super Heated Dull Claymore Blade into Red Hot Dull Claymore Blade using Forge.
+Blades Making O 200 Forge Super Heated Dull Dagger Blade into Red Hot Dull Dagger Blade using Forge.
+Blades Making O 200 Forge Super Heated Dull Knife Blade into Red Hot Dull Knife Blade using Forge.
+Blades Making O 200 Forge Super Heated Dull Longsword Blade into Red Hot Dull Longsword Blade using Forge.
+Blades Making O 200 Forge Super Heated Dull Sabre Blade into Red Hot Dull Sabre Blade using Forge.
+Blades Making O 200 Forge Super Heated Dull Shortsword Blade into Red Hot Dull Shortsword Blade using Forge.
+Blades Making I 200 Forge Super Heated Knife Alpha Blade into Red Hot Knife Alpha Blade using Forge.
+Blades Making O 200 Forge Super Heated Knife Blade into Red Hot Knife Blade using Forge.
+Blades Making I 200 Forge Super Heated Longsword Alpha Blade into Red Hot Longsword Alpha Blade using Forge.
+Blades Making O 200 Forge Super Heated Longsword Blade into Red Hot Longsword Blade using Forge.
+Blades Making I 200 Forge Super Heated Sabre Alpha Blade into Red Hot Sabre Alpha Blade using Forge.
+Blades Making O 200 Forge Super Heated Sabre Blade into Red Hot Sabre Blade using Forge.
+Blades Making I 200 Forge Super Heated Shortsword Alpha Blade into Red Hot Shortsword Alpha Blade using Forge.
+Blades Making O 200 Forge Super Heated Shortsword Blade into Red Hot Shortsword Blade using Forge.
+Blades Making O 200 Forge Super Heated Sword Handle into Red Hot Sword Handle using Forge.
+Blades Making O 200 Forge Sword Handle into Heated Sword Handle using Forge.
+Blades Making O 200 Quench Heated Brittle Claymore Blade into Brittle Claymore Blade using Quench Tank.
+Blades Making O 200 Quench Heated Brittle Dagger Blade into Brittle Dagger Blade using Quench Tank.
+Blades Making O 200 Quench Heated Brittle Knife Blade into Brittle Knife Blade using Quench Tank.
+Blades Making O 200 Quench Heated Brittle Longsword Blade into Brittle Longsword Blade using Quench Tank.
+Blades Making O 200 Quench Heated Brittle Sabre Blade into Brittle Sabre Blade using Quench Tank.
+Blades Making O 200 Quench Heated Brittle Shortsword Blade into Brittle Shortsword Blade using Quench Tank.
+Blades Making O 200 Quench Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+Blades Making O 200 Quench Heated Claymore Alpha Blade into Claymore Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Heated Claymore Blade into Claymore Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dagger Alpha Blade into Dagger Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dagger Blade into Dagger Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dull Claymore Blade into Dull Claymore Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dull Dagger Blade into Dull Dagger Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dull Knife Blade into Dull Knife Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dull Longsword Blade into Dull Longsword Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dull Sabre Blade into Dull Sabre Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dull Shortsword Blade into Dull Shortsword Blade using Quench Tank.
+Blades Making O 200 Quench Heated Knife Alpha Blade into Knife Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Heated Knife Blade into Knife Blade using Quench Tank.
+Blades Making O 200 Quench Heated Longsword Alpha Blade into Longsword Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Heated Longsword Blade into Longsword Blade using Quench Tank.
+Blades Making O 200 Quench Heated Sabre Alpha Blade into Sabre Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Heated Sabre Blade into Sabre Blade using Quench Tank.
+Blades Making O 200 Quench Heated Shortsword Alpha Blade into Shortsword Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Heated Shortsword Blade into Shortsword Blade using Quench Tank.
+Blades Making O 200 Quench Heated Sword Handle into Sword Handle using Quench Tank.
+Blades Making O 200 Quench Red Hot Broadsword Handle into Broadsword Handle using Quench Tank.
+Blades Making I 200 Quench Red Hot Claymore Alpha Blade into Brittle Claymore Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Claymore Blade into Claymore Blade using Quench Tank.
+Blades Making I 200 Quench Red Hot Dagger Alpha Blade into Brittle Dagger Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Dagger Blade into Dagger Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Dull Claymore Blade into Dull Claymore Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Dull Dagger Blade into Dull Dagger Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Dull Knife Blade into Dull Knife Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Dull Longsword Blade into Dull Longsword Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Dull Sabre Blade into Dull Sabre Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Dull Shortsword Blade into Dull Shortsword Blade using Quench Tank.
+Blades Making I 200 Quench Red Hot Knife Alpha Blade into Brittle Knife Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Knife Blade into Knife Blade using Quench Tank.
+Blades Making I 200 Quench Red Hot Longsword Alpha Blade into Brittle Longsword Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Longsword Blade into Longsword Blade using Quench Tank.
+Blades Making I 200 Quench Red Hot Sabre Alpha Blade into Brittle Sabre Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Sabre Blade into Sabre Blade using Quench Tank.
+Blades Making I 200 Quench Red Hot Shortsword Alpha Blade into Brittle Shortsword Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Shortsword Blade into Shortsword Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Sword Handle into Sword Handle using Quench Tank.
+Blades Making O 200 Quench Super Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+Blades Making O 200 Quench Super Heated Claymore Alpha Blade into Claymore Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Claymore Blade into Claymore Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Dagger Alpha Blade into Dagger Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Dagger Blade into Dagger Blade using Quench Tank.
+Blades Making I 200 Quench Super Heated Dull Claymore Blade into Dull Claymore Blade using Quench Tank.
+Blades Making I 200 Quench Super Heated Dull Dagger Blade into Dull Dagger Blade using Quench Tank.
+Blades Making I 200 Quench Super Heated Dull Knife Blade into Dull Knife Blade using Quench Tank.
+Blades Making I 200 Quench Super Heated Dull Longsword Blade into Dull Longsword Blade using Quench Tank.
+Blades Making I 200 Quench Super Heated Dull Sabre Blade into Dull Sabre Blade using Quench Tank.
+Blades Making I 200 Quench Super Heated Dull Shortsword Blade into Dull Shortsword Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Knife Alpha Blade into Knife Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Knife Blade into Knife Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Longsword Alpha Blade into Longsword Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Longsword Blade into Longsword Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Sabre Alpha Blade into Sabre Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Sabre Blade into Sabre Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Shortsword Alpha Blade into Shortsword Alpha Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Shortsword Blade into Shortsword Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Sword Handle into Sword Handle using Quench Tank.
+Blades Making I 200 Sew 2 Leather String into Leather Knife Handle using Smith Table with a Copper Needle and Thread.
+Blades Making O 200 Shape Super Heated Sabre Blade into Steel Stock using Anvil with a Hammer.
+Blades Making I 200 Sharpen Dull Claymore Blade into Claymore Blade using Sharpening Stone.
+Blades Making I 200 Sharpen Dull Dagger Blade into Dagger Blade using Sharpening Stone.
+Blades Making I 200 Sharpen Dull Knife Blade into Knife Blade using Sharpening Stone.
+Blades Making I 200 Sharpen Dull Longsword Blade into Longsword Blade using Sharpening Stone.
+Blades Making I 200 Sharpen Dull Sabre Blade into Sabre Blade using Sharpening Stone.
+Blades Making I 200 Sharpen Dull Shortsword Blade into Shortsword Blade using Sharpening Stone.
+Blades Making O 200 Forge Claymore Beta Blade into Heated Claymore Beta Blade using Forge.
+Blades Making O 200 Forge Claymore Delta Blade into Heated Claymore Delta Blade using Forge.
+Blades Making O 200 Forge Dagger Beta Blade into Heated Dagger Beta Blade using Forge.
+Blades Making O 200 Forge Dagger Delta Blade into Heated Dagger Delta Blade using Forge.
+Blades Making O 200 Forge Heated Claymore Beta Blade into Super Heated Claymore Beta Blade using Forge.
+Blades Making O 200 Forge Heated Claymore Delta Blade into Super Heated Claymore Delta Blade using Forge.
+Blades Making O 200 Forge Heated Dagger Beta Blade into Super Heated Dagger Beta Blade using Forge.
+Blades Making O 200 Forge Heated Dagger Delta Blade into Super Heated Dagger Delta Blade using Forge.
+Blades Making O 200 Forge Heated Knife Beta Blade into Super Heated Knife Beta Blade using Forge.
+Blades Making O 200 Forge Heated Knife Delta Blade into Super Heated Knife Delta Blade using Forge.
+Blades Making O 200 Forge Heated Longsword Beta Blade into Super Heated Longsword Beta Blade using Forge.
+Blades Making O 200 Forge Heated Longsword Delta Blade into Super Heated Longsword Delta Blade using Forge.
+Blades Making O 200 Forge Heated Sabre Beta Blade into Super Heated Sabre Beta Blade using Forge.
+Blades Making O 200 Forge Heated Sabre Delta Blade into Super Heated Sabre Delta Blade using Forge.
+Blades Making O 200 Forge Heated Shortsword Beta Blade into Super Heated Shortsword Beta Blade using Forge.
+Blades Making O 200 Forge Heated Shortsword Delta Blade into Super Heated Shortsword Delta Blade using Forge.
+Blades Making O 200 Forge Knife Beta Blade into Heated Knife Beta Blade using Forge.
+Blades Making O 200 Forge Knife Delta Blade into Heated Knife Delta Blade using Forge.
+Blades Making O 200 Forge Longsword Beta Blade into Heated Longsword Beta Blade using Forge.
+Blades Making O 200 Forge Longsword Delta Blade into Heated Longsword Delta Blade using Forge.
+Blades Making O 200 Forge Sabre Beta Blade into Heated Sabre Beta Blade using Forge.
+Blades Making O 200 Forge Sabre Delta Blade into Heated Sabre Delta Blade using Forge.
+Blades Making O 200 Forge Shortsword Beta Blade into Heated Shortsword Beta Blade using Forge.
+Blades Making O 200 Forge Shortsword Delta Blade into Heated Shortsword Delta Blade using Forge.
+Blades Making O 200 Forge Super Heated Claymore Beta Blade into Red Hot Claymore Beta Blade using Forge.
+Blades Making O 200 Forge Super Heated Claymore Delta Blade into Red Hot Claymore Delta Blade using Forge.
+Blades Making O 200 Forge Super Heated Dagger Beta Blade into Red Hot Dagger Beta Blade using Forge.
+Blades Making O 200 Forge Super Heated Dagger Delta Blade into Red Hot Dagger Delta Blade using Forge.
+Blades Making O 200 Forge Super Heated Knife Beta Blade into Red Hot Knife Beta Blade using Forge.
+Blades Making O 200 Forge Super Heated Knife Delta Blade into Red Hot Knife Delta Blade using Forge.
+Blades Making O 200 Forge Super Heated Longsword Beta Blade into Red Hot Longsword Beta Blade using Forge.
+Blades Making O 200 Forge Super Heated Longsword Delta Blade into Red Hot Longsword Delta Blade using Forge.
+Blades Making O 200 Forge Super Heated Sabre Beta Blade into Red Hot Sabre Beta Blade using Forge.
+Blades Making O 200 Forge Super Heated Sabre Delta Blade into Red Hot Sabre Delta Blade using Forge.
+Blades Making O 200 Forge Super Heated Shortsword Beta Blade into Red Hot Shortsword Beta Blade using Forge.
+Blades Making O 200 Forge Super Heated Shortsword Delta Blade into Red Hot Shortsword Delta Blade using Forge.
+Blades Making O 200 Quench Heated Claymore Beta Blade into Claymore Beta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Claymore Delta Blade into Claymore Delta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dagger Beta Blade into Dagger Beta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Dagger Delta Blade into Dagger Delta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Knife Beta Blade into Knife Beta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Knife Delta Blade into Knife Delta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Longsword Beta Blade into Longsword Beta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Longsword Delta Blade into Longsword Delta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Sabre Beta Blade into Sabre Beta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Sabre Delta Blade into Sabre Delta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Shortsword Beta Blade into Shortsword Beta Blade using Quench Tank.
+Blades Making O 200 Quench Heated Shortsword Delta Blade into Shortsword Delta Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Claymore Beta Blade into Brittle Claymore Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Claymore Delta Blade into Brittle Claymore Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Dagger Beta Blade into Brittle Dagger Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Dagger Delta Blade into Brittle Dagger Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Knife Beta Blade into Brittle Knife Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Knife Delta Blade into Brittle Knife Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Longsword Beta Blade into Brittle Longsword Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Longsword Delta Blade into Brittle Longsword Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Sabre Beta Blade into Brittle Sabre Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Sabre Delta Blade into Brittle Sabre Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Shortsword Beta Blade into Brittle Shortsword Blade using Quench Tank.
+Blades Making O 200 Quench Red Hot Shortsword Delta Blade into Brittle Shortsword Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Claymore Beta Blade into Claymore Beta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Claymore Delta Blade into Claymore Delta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Dagger Beta Blade into Dagger Beta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Dagger Delta Blade into Dagger Delta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Knife Beta Blade into Knife Beta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Knife Delta Blade into Knife Delta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Longsword Beta Blade into Longsword Beta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Longsword Delta Blade into Longsword Delta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Sabre Beta Blade into Sabre Beta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Sabre Delta Blade into Sabre Delta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Shortsword Beta Blade into Shortsword Beta Blade using Quench Tank.
+Blades Making O 200 Quench Super Heated Shortsword Delta Blade into Shortsword Delta Blade using Quench Tank.

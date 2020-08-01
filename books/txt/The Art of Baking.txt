@@ -1,0 +1,161 @@
+-- Baked Apple ----- 
+   Cut Apple into Peeled Apple using Preparation Table with a Kitchen Knife.
+   Cut Peeled Apple into Cored Apple using Preparation Table with a Kitchen Knife.
+   Bake Cored Apple into Baked Apple using Oven.
+-- Baked Honey Glazed Apple ----- 
+   Cut Apple into Peeled Apple using Preparation Table with a Kitchen Knife.
+   Cut Peeled Apple into Cored Apple using Preparation Table with a Kitchen Knife.
+   Combine 5 Cored Apples, Scoop of Honey, into 5 Honey Glazed Apples.
+   Bake Honey Glazed Apple into Baked Honey Glazed Apple using Oven.
+-- Banut ----- 
+   Measure Sack of Banuts into 25 Banuts using Preparation Table with a Scoop.
+-- Biscuit ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Dough into Ball of Dough using Preparation Table.
+   Roll Ball of Dough into Rolled Dough using Preparation Table with a Rolling Pin.
+   Form Rolled Dough into 8 Biscuit Dough using Preparation Table with a Circle Cutter.
+   Bake Biscuit Dough into Biscuit using Oven.
+-- Bread Piece ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Dough into Ball of Dough using Preparation Table.
+   Bake Ball of Dough into Bread using Oven.
+   Cut Bread into 5 Slice of Breads using Preparation Table with a Kitchen Knife.
+   Cut Slice of Bread into 5 Bread Piece using Preparation Table with a Kitchen Knife.
+-- Burr Nut ----- 
+   Measure Sack of Burr Nuts into 25 Burr Nuts using Preparation Table with a Scoop.
+-- Buttered Bread ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Dough into Ball of Dough using Preparation Table.
+   Bake Ball of Dough into Bread using Oven.
+   Cut Bread into 5 Slice of Breads using Preparation Table with a Kitchen Knife.
+   Combine Slice of Bread, Pat of Butter, into 0 Buttering Breads.
+   Spread Buttering Bread into Buttered Bread using Preparation Table with a Spreader.
+-- Cinnamon Egg Mixture ----- 
+   Combine Egg Mixture, Dash of Cinnamon, into 0 Unmixed Cinnamon Eggs.
+   Mix Unmixed Cinnamon Egg into Cinnamon Egg Mixture using Wooden Bowl with a Wooden Spoon.
+-- Cinnamon Morning Bread ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Dough into Ball of Dough using Preparation Table.
+   Bake Ball of Dough into Bread using Oven.
+   Cut Bread into 5 Slice of Breads using Preparation Table with a Kitchen Knife.
+   Combine Cinnamon Egg Mixture, 10 Slice of Breads, into 10 Cinnamon Egg Soaked Breads.
+   Panfry Cinnamon Egg Soaked Bread into Cinnamon Morning Bread using Iron Skillet.
+-- Dash of Cinnamon ----- 
+   Measure Ground Cinnamon into 25 Dash of Cinnamons using Preparation Table with a Scoop.
+-- Dash of Powdered Bread Rise ----- 
+   Measure Sack of Powdered Bread Rise into 25 Dash of Powdered Bread Rises using Preparation Table with a Scoop.
+-- Egg Mixture ----- 
+   Combine 4 Eggs, Scoop of Milk, into 0 Egg Slops.
+   Mix Egg Slop into Egg Mixture using Wooden Bowl with a Wooden Spoon.
+-- Foaming Water ----- 
+   Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rises, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rises, into 0 Liquid Bread Rises.
+   Mix Liquid Bread Rise into Foaming Water using Wooden Bowl with a Wooden Spoon.
+-- Fried Dough ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Dough into Ball of Dough using Preparation Table.
+   Combine 2 Hot Cooking Oils, Ball of Dough, into 0 Frying Dough.
+   Panfry Frying Dough into 5 Fried Dough using Iron Skillet.
+-- Fried Honey Dough ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Combine Dough, Scoop of Honey, into 0 Unmixed Honey Dough.
+   Mix Unmixed Honey Dough into Honey Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Honey Dough into Ball of Honey Dough using Preparation Table.
+   Combine 2 Hot Cooking Oils, Ball of Honey Dough, into 0 Frying Honey Dough.
+   Panfry Frying Honey Dough into 5 Fried Honey Dough using Iron Skillet.
+-- Fried Honey Nut Dough ----- 
+   Combine 5 Burr Nuts, 4 Jookans, 5 Banuts, into 0 Mixed Nuts.
+   Cut Mixed Nuts into Chopped Nuts using Preparation Table with a Kitchen Knife.
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Combine Dough, Scoop of Honey, into 0 Unmixed Honey Dough.
+   Mix Unmixed Honey Dough into Honey Dough using Wooden Bowl with a Wooden Spoon.
+   Combine Chopped Nuts, Honey Dough, into 0 Unmixed Honey Nut Dough.
+   Mix Unmixed Honey Nut Dough into Honey Nut Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Honey Nut Dough into Ball of Honey Nut Dough using Preparation Table.
+   Combine 2 Hot Cooking Oils, Ball of Honey Nut Dough, into 0 Frying Honey Nut Dough.
+   Panfry Frying Honey Nut Dough into 5 Fried Honey Nut Dough using Iron Skillet.
+-- Fried Nut Dough ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Combine 5 Burr Nuts, 4 Jookans, 5 Banuts, into 0 Mixed Nuts.
+   Cut Mixed Nuts into Chopped Nuts using Preparation Table with a Kitchen Knife.
+   Combine Dough, Chopped Nuts, into 0 Unmixed Nut Dough.
+   Mix Unmixed Nut Dough into Nut Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Nut Dough into Ball of Nut Dough using Preparation Table.
+   Combine 2 Hot Cooking Oils, Ball of Nut Dough, into 0 Frying Nut Dough.
+   Panfry Frying Nut Dough into 5 Fried Nut Dough using Iron Skillet.
+-- Honey Nut Bread ----- 
+   Combine 5 Burr Nuts, 4 Jookans, 5 Banuts, into 0 Mixed Nuts.
+   Cut Mixed Nuts into Chopped Nuts using Preparation Table with a Kitchen Knife.
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Combine Dough, Scoop of Honey, into 0 Unmixed Honey Dough.
+   Mix Unmixed Honey Dough into Honey Dough using Wooden Bowl with a Wooden Spoon.
+   Combine Chopped Nuts, Honey Dough, into 0 Unmixed Honey Nut Dough.
+   Mix Unmixed Honey Nut Dough into Honey Nut Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Honey Nut Dough into Ball of Honey Nut Dough using Preparation Table.
+   Bake Ball of Honey Nut Dough into Honey Nut Bread using Oven.
+-- Honey Sweet Bread ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Combine Dough, Scoop of Honey, into 0 Unmixed Honey Dough.
+   Mix Unmixed Honey Dough into Honey Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Honey Dough into Ball of Honey Dough using Preparation Table.
+   Bake Ball of Honey Dough into Honey Sweet Bread using Oven.
+-- Hot Cooking Oil ----- 
+   Measure Lump of Lard into 25 Scoop of Lards using Preparation Table with a Scoop.
+   Panfry Scoop of Lard into Hot Cooking Oil using Iron Skillet.
+-- Jookan ----- 
+   Measure Sack of Jookans into 25 Jookans using Preparation Table with a Scoop.
+-- Liquid Bread Mix ----- 
+   Measure Lump of Lard into 25 Scoop of Lards using Preparation Table with a Scoop.
+   Combine Foaming Water, 14 Scoop of Lards, 2 Pinch of Salt, into 0 Unmixed Liquid Bread Dough.
+   Mix Unmixed Liquid Bread Dough into Liquid Bread Mix using Wooden Bowl with a Wooden Spoon.
+-- Morning Bread ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Dough into Ball of Dough using Preparation Table.
+   Bake Ball of Dough into Bread using Oven.
+   Cut Bread into 5 Slice of Breads using Preparation Table with a Kitchen Knife.
+   Combine Egg Mixture, 10 Slice of Breads, into 10 Egg Soaked Breads.
+   Panfry Egg Soaked Bread into Morning Bread using Iron Skillet.
+-- Mug of Hot Water ----- 
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Heat 2 Water Pouch into Mug of Hot Water using Pot.
+-- Nut Bread ----- 
+   Combine Liquid Bread Mix, 2 Scoop of Flour, into 0 Unmixed Dough.
+   Mix Unmixed Dough into Dough using Wooden Bowl with a Wooden Spoon.
+   Combine 5 Burr Nuts, 4 Jookans, 5 Banuts, into 0 Mixed Nuts.
+   Cut Mixed Nuts into Chopped Nuts using Preparation Table with a Kitchen Knife.
+   Combine Dough, Chopped Nuts, into 0 Unmixed Nut Dough.
+   Mix Unmixed Nut Dough into Nut Dough using Wooden Bowl with a Wooden Spoon.
+   Knead Nut Dough into Ball of Nut Dough using Preparation Table.
+   Bake Ball of Nut Dough into Nut Bread using Oven.
+-- Pat of Butter ----- 
+   Measure Lump of Butter into 25 Pat of Butter using Preparation Table with a Scoop.
+-- Pinch of Salt ----- 
+   Measure Bag of Salt into 50 Pinch of Salt using Preparation Table with a Scoop.
+-- Sand Cookie ----- 
+   Combine Pinch of Salt, 3 Scoop of Strimptor, 3 Pat of Butter, Scoop of Flour, into 0 Sand Cookie Mix.
+   Mix Sand Cookie Mix into Sand Dough using Wooden Bowl with a Wooden Spoon.
+   Roll Sand Dough into Rolled Sand Dough using Preparation Table with a Rolling Pin.
+   Form Rolled Sand Dough into 10 Unbaked Sand Cookie using Preparation Table with a Circle Cutter.
+   Bake Unbaked Sand Cookie into Sand Cookie using Oven.
+-- Scoop of Flour ----- 
+   Measure Flour into 5 Scoop of Flour using Preparation Table with a Scoop.
+-- Scoop of Honey ----- 
+   Measure Honey into 5 Scoop of Honey using Preparation Table with a Scoop.
+-- Scoop of Milk ----- 
+   Measure Milk into 4 Scoop of Milk using Preparation Table with a Scoop.
+-- Scoop of Strimptor ----- 
+   Measure Sack of Strimptor into 5 Scoop of Strimptor using Preparation Table with a Scoop.
+-- Sliced Apple ----- 
+   Cut Apple into Peeled Apple using Preparation Table with a Kitchen Knife.
+   Cut Peeled Apple into Cored Apple using Preparation Table with a Kitchen Knife.
+   Cut Cored Apple into 4 Sliced Apples using Preparation Table with a Kitchen Knife.

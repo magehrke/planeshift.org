@@ -1,0 +1,38 @@
+-- Large Leather Armor Piece ----- 
+   Sew 2 Large Piece Of Leathers into Large Leather Armor Piece using Leatherworking Table with a Copper Needle and Thread.
+-- Leather Armor Patch ----- 
+   Sew 2 Leather Patch into Leather Armor Patch using Leatherworking Table with a Copper Needle and Thread.
+-- Leather Arms Armor ----- 
+   Combine Medium Leather Armor Piece, 2 Leather String, into 0 Leather Arms Part.
+   Punch Leather Arms Part into Leather Arms Kit using Puncher.
+   Sew Leather Arms Kit into Leather Arms Armor using Leatherworking Table with a Copper Needle and Thread.
+-- Leather Boots ----- 
+   Combine 2 Small Leather Armor Piece, 2 Leather String, into 0 Leather Boots Part.
+   Punch Leather Boots Part into Leather Boots Kit using Puncher.
+   Sew Leather Boots Kit into Leather Boots using Leatherworking Table with a Copper Needle and Thread.
+-- Leather Cap ----- 
+   Combine Small Leather Armor Piece, Leather Armor Patch, 2 Leather String, into 0 Leather Cap Part.
+   Punch Leather Cap Part into Leather Cap Kit using Puncher.
+   Sew Leather Cap Kit into Leather Cap using Leatherworking Table with a Copper Needle and Thread.
+-- Leather Cheekplate ----- 
+   Combine 3 Leather String, 2 Leather Armor Patch, into 0 Leather Cheekplate Kit.
+   Sew Leather Cheekplate Kit into Leather Cheekplate using Leatherworking Table with a Copper Needle and Thread.
+-- Leather Gloves ----- 
+   Combine 4 Leather Armor Patch, 2 Leather String, into 0 Leather Gloves Part.
+   Punch Leather Gloves Part into Leather Gloves Kit using Puncher.
+   Sew Leather Gloves Kit into Leather Gloves using Leatherworking Table with a Copper Needle and Thread.
+-- Leather Pants ----- 
+   Combine 2 Medium Leather Armor Piece, 5 Leather String, into 0 Leather Pants Part.
+   Punch Leather Pants Part into Leather Pants Kit using Puncher.
+   Sew Leather Pants Kit into Leather Pants using Leatherworking Table with a Copper Needle and Thread.
+-- Leather Ridge ----- 
+   Combine 4 Leather String, 4 Leather Armor Patch, into 0 Leather Ridge Kit.
+   Sew Leather Ridge Kit into Leather Ridge using Leatherworking Table with a Copper Needle and Thread.
+-- Leather Torso Armor ----- 
+   Combine Large Leather Armor Piece, 2 Leather Armor Patch, 2 Leather String, into 0 Leather Torso Part.
+   Punch Leather Torso Part into Leather Torso Kit using Puncher.
+   Sew Leather Torso Kit into Leather Torso Armor using Leatherworking Table with a Copper Needle and Thread.
+-- Medium Leather Armor Piece ----- 
+   Sew 2 Medium Piece Of Leathers into Medium Leather Armor Piece using Leatherworking Table with a Copper Needle and Thread.
+-- Small Leather Armor Piece ----
+   Sew 2 Small Piece Of Leathers into Small Leather Armor Piece using Leatherworking Table with a Copper Needle and Thread.

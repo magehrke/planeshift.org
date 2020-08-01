@@ -1,0 +1,10 @@
+-- Blackbush Powder ----- 
+   Grind Blackbush Stem into Blackbush Powder using Mortar and Pestle.
+-- Gobo Salve ----- 
+   Combine Gobo Oil, Blackbush Powder, into 0 Unfinished Gobo Salve.
+   Heat Unfinished Gobo Salve into Gobo Salve using Pot.
+-- Lavender Salve ----- 
+   Combine Lavender Oil, Sicklepod Powder, into 0 Unfinished Lavender Salve.
+   Heat Unfinished Lavender Salve into Lavender Salve using Pot.
+-- Sicklepod Powder ----- 
+   Grind Sicklepod Flower into Sicklepod Powder using Mortar and Pestle.

@@ -1,0 +1,241 @@
+Metallurgy I 10 Forge Bronze Ingot into Heated Bronze Ingot using Forge.
+Metallurgy O 10 Quench Heated Bronze Ingot into Bronze Ingot using Quench Tank.
+Metallurgy O 10 Forge Heated Bronze Ingot into Super Heated Bronze Ingot using Forge.
+Metallurgy O 10 Quench Super Heated Bronze Ingot into Bronze Ingot using Quench Tank.
+Metallurgy O 10 Hammer Super Heated Bronze Ingot into Bronze Ingot using Anvil with a Hammer.
+Metallurgy O 10 Forge Super Heated Bronze Ingot into Red Hot Bronze Ingot using Forge.
+Metallurgy O 10 Quench Red Hot Bronze Ingot into Bronze Ingot using Quench Tank.
+Metallurgy O 10 Hammer Red Hot Bronze Ingot into Bronze Ingot using Anvil with a Hammer.
+Metallurgy I 10 Cast Molten Bronze into Bronze Ingot using Stock Casting.
+Metallurgy O 10 Cast 10 Molten Bronze into Bronze Stock using Stock Casting.
+Metallurgy I 10 Forge Bronze Stock into Heated Bronze Stock using Forge.
+Metallurgy O 10 Quench Heated Bronze Stock into Bronze Stock using Quench Tank.
+Metallurgy O 10 Forge Heated Bronze Stock into Super Heated Bronze Stock using Forge.
+Metallurgy O 10 Quench Super Heated Bronze Stock into Bronze Stock using Quench Tank.
+Metallurgy O 10 Hammer Super Heated Bronze Stock into Bronze Stock using Anvil with a Hammer.
+Metallurgy O 10 Forge Super Heated Bronze Stock into Red Hot Bronze Stock using Forge.
+Metallurgy O 10 Quench Red Hot Bronze Stock into Bronze Stock using Quench Tank.
+Metallurgy O 10 Hammer Red Hot Bronze Stock into Bronze Stock using Anvil with a Hammer.
+Metallurgy O 10 Forge Copper Ingot into Heated Copper Ingot using Forge.
+Metallurgy O 10 Quench Heated Copper Ingot into Copper Ingot using Quench Tank.
+Metallurgy O 10 Smelt Copper Ingot into Molten Copper using Furnace.
+Metallurgy O 10 Smelt Copper Stock into 10 Molten Copper using Furnace.
+Metallurgy I 10 Smelt Copper Ore into Molten Copper using Furnace.
+Metallurgy P 10 Cast Molten Copper into Copper Ingot using Stock Casting.
+Metallurgy O 10 Forge Heated Copper Ingot into Super Heated Copper Ingot using Forge.
+Metallurgy O 10 Hammer Super Heated Copper Ingot into Copper Ingot using Anvil with a Hammer.
+Metallurgy O 10 Quench Super Heated Copper Ingot into Copper Ingot using Quench Tank.
+Metallurgy O 10 Forge Super Heated Copper Ingot into Red Hot Copper Ingot using Forge.
+Metallurgy O 10 Hammer Red Hot Copper Ingot into Copper Ingot using Anvil with a Hammer.
+Metallurgy O 10 Quench Red Hot Copper Ingot into Copper Ingot using Quench Tank.
+Metallurgy O 10 Smelt Copper Ingot into Molten Copper using Furnace.
+Metallurgy O 10 Smelt Copper Stock into 10 Molten Copper using Furnace.
+Metallurgy I 10 Smelt Copper Ore into Molten Copper using Furnace.
+Metallurgy P 10 Cast 10 Molten Copper into Copper Stock using Stock Casting.
+Metallurgy O 10 Forge Copper Stock into Heated Copper Stock using Forge.
+Metallurgy O 10 Quench Heated Copper Stock into Copper Stock using Quench Tank.
+Metallurgy O 10 Forge Heated Copper Stock into Super Heated Copper Stock using Forge.
+Metallurgy O 10 Hammer Super Heated Copper Stock into Copper Stock using Anvil with a Hammer.
+Metallurgy O 10 Quench Super Heated Copper Stock into Copper Stock using Quench Tank.
+Metallurgy O 10 Forge Super Heated Copper Stock into Red Hot Copper Stock using Forge.
+Metallurgy O 10 Hammer Red Hot Copper Stock into Copper Stock using Anvil with a Hammer.
+Metallurgy O 10 Quench Red Hot Copper Stock into Copper Stock using Quench Tank.
+Metallurgy O 35 Smelt Gold Ingot into Molten Gold using Furnace.
+Metallurgy O 50 Smelt Gold Stock into 5 Molten Gold using Furnace.
+Metallurgy I 35 Smelt Gold Ore into Molten Gold using Furnace.
+Metallurgy P 35 Cast Molten Gold into Gold Ingot using Stock Casting.
+Metallurgy O 35 Forge Gold Ingot into Heated Gold Ingot using Forge.
+Metallurgy O 35 Quench Heated Gold Ingot into Gold Ingot using Quench Tank.
+Metallurgy O 35 Forge Heated Gold Ingot into Super Heated Gold Ingot using Forge.
+Metallurgy O 35 Quench Super Heated Gold Ingot into Gold Ingot using Quench Tank.
+Metallurgy O 35 Hammer Super Heated Gold Ingot into Gold Ingot using Anvil with a Hammer.
+Metallurgy O 35 Forge Super Heated Gold Ingot into Red Hot Gold Ingot using Forge.
+Metallurgy O 35 Quench Red Hot Gold Ingot into Gold Ingot using Quench Tank.
+Metallurgy O 35 Hammer Red Hot Gold Ingot into Gold Ingot using Anvil with a Hammer.
+Metallurgy O 35 Smelt Gold Ingot into Molten Gold using Furnace.
+Metallurgy O 50 Smelt Gold Stock into 5 Molten Gold using Furnace.
+Metallurgy I 35 Smelt Gold Ore into Molten Gold using Furnace.
+Metallurgy P 50 Cast 5 Molten Gold into Gold Stock using Stock Casting.
+Metallurgy O 50 Forge Gold Stock into Heated Gold Stock using Forge.
+Metallurgy O 50 Quench Heated Gold Stock into Gold Stock using Quench Tank.
+Metallurgy O 50 Forge Heated Gold Stock into Super Heated Gold Stock using Forge.
+Metallurgy O 50 Quench Super Heated Gold Stock into Gold Stock using Quench Tank.
+Blacksmith O 50 Hammer Super Heated Gold Stock into Gold Stock using Anvil with a Hammer.
+Metallurgy O 50 Forge Super Heated Gold Stock into Red Hot Gold Stock using Forge.
+Metallurgy O 50 Quench Red Hot Gold Stock into Gold Stock using Quench Tank.
+Blacksmith O 50 Hammer Red Hot Gold Stock into Gold Stock using Anvil with a Hammer.
+Metallurgy O 50 Forge Bronze Stock into Heated Bronze Stock using Forge.
+Metallurgy O 50 Forge Gold Stock into Heated Gold Stock using Forge.
+Metallurgy I 0 Forge Iron Ingot into Heated Iron Ingot using Forge.
+Metallurgy O 0 Quench Heated Iron Ingot into Iron Ingot using Quench Tank.
+Metallurgy O 0 Forge Heated Iron Ingot into Super Heated Iron Ingot using Forge.
+Metallurgy O 0 Quench Super Heated Iron Ingot into Iron Ingot using Quench Tank.
+Blacksmith O 0 Hammer Super Heated Iron Ingot into Iron Ingot using Anvil with a Hammer.
+Metallurgy O 0 Forge Super Heated Iron Ingot into Red Hot Iron Ingot using Forge.
+Metallurgy O 0 Quench Red Hot Iron Ingot into Iron Ingot using Quench Tank.
+Blacksmith O 0 Hammer Red Hot Iron Ingot into Iron Ingot using Anvil with a Hammer.
+Metallurgy O 0 Smelt Iron Ingot into Molten Iron using Furnace.
+Metallurgy I 0 Smelt Iron Ore into Molten Iron using Furnace.
+Metallurgy O 0 Smelt Iron Stock into 10 Molten Iron using Furnace.
+Metallurgy I 0 Cast Molten Iron into Iron Ingot using Stock Casting.
+Metallurgy O 0 Forge Iron Stock into Heated Iron Stock using Forge.
+Metallurgy O 0 Quench Heated Iron Stock into Iron Stock using Quench Tank.
+Metallurgy O 0 Forge Heated Iron Stock into Super Heated Iron Stock using Forge.
+Metallurgy O 0 Quench Super Heated Iron Stock into Iron Stock using Quench Tank.
+Blacksmith O 0 Hammer Super Heated Iron Stock into Iron Stock using Anvil with a Hammer.
+Metallurgy O 0 Forge Super Heated Iron Stock into Red Hot Iron Stock using Forge.
+Metallurgy O 0 Quench Red Hot Iron Stock into Iron Stock using Quench Tank.
+Blacksmith O 0 Hammer Red Hot Iron Stock into Iron Stock using Anvil with a Hammer.
+Metallurgy O 0 Smelt Iron Ingot into Molten Iron using Furnace.
+Metallurgy I 0 Smelt Iron Ore into Molten Iron using Furnace.
+Metallurgy O 0 Smelt Iron Stock into 10 Molten Iron using Furnace.
+Metallurgy P 0 Cast 10 Molten Iron into Iron Stock using Stock Casting.
+Metallurgy I 10 Combine 4 Tin Ore, 6 Copper Ore, into 10 Bronze Sludge using Stock Casting (combine).
+Metallurgy I 10 Smelt Bronze Sludge into Molten Bronze using Furnace.
+Metallurgy I 10 Combine 7 Copper Ore, 3 Tin Ore, into 10 Copper Sludge using Stock Casting (combine).
+Metallurgy I 10 Smelt Copper Sludge into Molten Bronze using Furnace.
+Metallurgy O 10 Smelt Bronze Stock into 10 Molten Bronze using Furnace.
+Metallurgy I 10 Combine 5 Tin Ore, 5 Copper Ore, into 10 Tin Sludge using Stock Casting (combine).
+Metallurgy I 10 Smelt Tin Sludge into Molten Bronze using Furnace.
+Metallurgy O 10 Smelt Bronze Ingot into Molten Bronze using Furnace.
+Metallurgy I 5 Combine 8 Iron Ore, 2 Coal Lump, into 10 Coal Sludge using Stock Casting (combine).
+Metallurgy I 5 Smelt Coal Sludge into Molten Steel using Furnace.
+Metallurgy O 5 Recycle Dagger into 4 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Small Battle Axe into 5 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Chain Mail Torso Armor into 15 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Battle Axe into 10 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Chain Mail Arms Armor into 12 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Longsword into 15 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Broadsword into 20 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Chain Mail Gloves into 6 Molten Steel using Furnace.
+Metallurgy O 5 Smelt Steel Ingot into Molten Steel using Furnace.
+Metallurgy O 5 Recycle Claymore into 20 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Chain Mail Pants into 12 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Chain Mail Boots into 9 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Falchion into 10 Molten Steel using Furnace.
+Metallurgy O 5 Smelt Steel Stock into 10 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Reinforced Axe into 15 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Shortsword into 10 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Sabre into 5 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Plate Mail Torso Armor into 27 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Plate Mail Arms Armor into 22 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Plate Mail Gloves into 11 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Plate Mail Pants into 22 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Plate Mail Boots into 17 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Reinforced Battle Axe into 20 Molten Steel using Furnace.
+Metallurgy O 5 Recycle Knife into 2 Molten Steel using Furnace.
+Metallurgy I 5 Combine 9 Iron Ore, Coal Lump, into 10 Steel Sludge using Stock Casting (combine).
+Metallurgy I 5 Smelt Steel Sludge into Molten Steel using Furnace.
+Metallurgy I 65 Smelt Platinum Ingot into Molten Platinum using Furnace.
+Metallurgy I 75 Smelt Platinum Stock into 5 Molten Platinum using Furnace.
+Metallurgy I 65 Smelt Platinum Ore into Molten Platinum using Furnace.
+Metallurgy P 65 Cast Molten Platinum into Platinum Ingot using Stock Casting.
+Metallurgy O 65 Forge Platinum Ingot into Heated Platinum Ingot using Forge.
+Metallurgy O 65 Quench Heated Platinum Ingot into Platinum Ingot using Quench Tank.
+Metallurgy O 65 Forge Heated Platinum Ingot into Super Heated Platinum Ingot using Forge.
+Blacksmith O 65 Hammer Super Heated Platinum Ingot into Platinum Ingot using Anvil with a Hammer.
+Metallurgy O 65 Quench Super Heated Platinum Ingot into Platinum Ingot using Quench Tank.
+Metallurgy O 65 Forge Super Heated Platinum Ingot into Red Hot Platinum Ingot using Forge.
+Blacksmith O 65 Hammer Red Hot Platinum Ingot into Platinum Ingot using Anvil with a Hammer.
+Metallurgy O 65 Quench Red Hot Platinum Ingot into Platinum Ingot using Quench Tank.
+Metallurgy I 65 Smelt Platinum Ingot into Molten Platinum using Furnace.
+Metallurgy I 75 Smelt Platinum Stock into 5 Molten Platinum using Furnace.
+Metallurgy I 65 Smelt Platinum Ore into Molten Platinum using Furnace.
+Metallurgy P 75 Cast 5 Molten Platinum into Platinum Stock using Stock Casting.
+Metallurgy O 75 Forge Platinum Stock into Heated Platinum Stock using Forge.
+Metallurgy O 75 Quench Heated Platinum Stock into Platinum Stock using Quench Tank.
+Metallurgy O 75 Forge Heated Platinum Stock into Super Heated Platinum Stock using Forge.
+Blacksmith O 75 Hammer Super Heated Platinum Stock into Platinum Stock using Anvil with a Hammer.
+Metallurgy O 75 Quench Super Heated Platinum Stock into Platinum Stock using Quench Tank.
+Metallurgy O 75 Forge Super Heated Platinum Stock into Red Hot Platinum Stock using Forge.
+Blacksmith O 75 Hammer Red Hot Platinum Stock into Platinum Stock using Anvil with a Hammer.
+Metallurgy O 75 Quench Red Hot Platinum Stock into Platinum Stock using Quench Tank.
+Metallurgy P 25 Smelt Cinnabar Ore into Quicksilver Vial using Furnace.
+Metallurgy O 25 Forge Silver Ingot into Heated Silver Ingot using Forge.
+Metallurgy O 25 Quench Heated Silver Ingot into Silver Ingot using Quench Tank.
+Metallurgy O 25 Forge Heated Silver Ingot into Super Heated Silver Ingot using Forge.
+Blacksmith O 25 Hammer Super Heated Silver Ingot into Silver Ingot using Anvil with a Hammer.
+Metallurgy O 25 Quench Super Heated Silver Ingot into Silver Ingot using Quench Tank.
+Metallurgy O 25 Forge Super Heated Silver Ingot into Red Hot Silver Ingot using Forge.
+Blacksmith O 25 Hammer Red Hot Silver Ingot into Silver Ingot using Anvil with a Hammer.
+Metallurgy O 25 Quench Red Hot Silver Ingot into Silver Ingot using Quench Tank.
+Metallurgy O 25 Smelt Silver Ingot into Molten Silver using Furnace.
+Metallurgy O 25 Smelt Silver Stock into 5 Molten Silver using Furnace.
+Metallurgy I 25 Smelt Silver Ore into Molten Silver using Furnace.
+Metallurgy P 25 Cast Molten Silver into Silver Ingot using Stock Casting.
+Metallurgy O 25 Smelt Silver Ingot into Molten Silver using Furnace.
+Metallurgy I 25 Smelt Silver Stock into 5 Molten Silver using Furnace.
+Metallurgy I 25 Smelt Silver Ore into Molten Silver using Furnace.
+Metallurgy P 25 Cast 5 Molten Silver into Silver Stock using Stock Casting.
+Metallurgy O 25 Forge Silver Stock into Heated Silver Stock using Forge.
+Metallurgy O 25 Forge Heated Silver Stock into Super Heated Silver Stock using Forge.
+Metallurgy O 25 Forge Super Heated Silver Stock into Red Hot Silver Stock using Forge.
+Blacksmith O 25 Hammer Red Hot Silver Stock into Silver Stock using Anvil with a Hammer.
+Metallurgy O 25 Quench Red Hot Silver Stock into Silver Stock using Quench Tank.
+Metallurgy O 25 Quench Super Heated Silver Stock into Silver Stock using Quench Tank.
+Blacksmith O 25 Hammer Super Heated Silver Stock into Silver Stock using Anvil with a Hammer.
+Metallurgy O 25 Quench Heated Silver Stock into Silver Stock using Quench Tank.
+Metallurgy P 5 Cast Molten Steel into Steel Ingot using Stock Casting.
+Metallurgy I 5 Forge Steel Ingot into Heated Steel Ingot using Forge.
+Metallurgy O 5 Quench Heated Steel Ingot into Steel Ingot using Quench Tank.
+Metallurgy O 5 Forge Heated Steel Ingot into Super Heated Steel Ingot using Forge.
+Metallurgy O 5 Quench Super Heated Steel Ingot into Steel Ingot using Quench Tank.
+Blacksmith O 5 Hammer Super Heated Steel Ingot into Steel Ingot using Anvil with a Hammer.
+Metallurgy O 5 Forge Super Heated Steel Ingot into Red Hot Steel Ingot using Forge.
+Metallurgy O 5 Quench Red Hot Steel Ingot into Steel Ingot using Quench Tank.
+Blacksmith O 5 Hammer Red Hot Steel Ingot into Steel Ingot using Anvil with a Hammer.
+Metallurgy P 5 Cast 10 Molten Steel into Steel Stock using Stock Casting.
+Metallurgy I 5 Forge Steel Stock into Heated Steel Stock using Forge.
+Metallurgy O 5 Quench Heated Steel Stock into Steel Stock using Quench Tank.
+Metallurgy O 5 Forge Heated Steel Stock into Super Heated Steel Stock using Forge.
+Metallurgy O 5 Quench Super Heated Steel Stock into Steel Stock using Quench Tank.
+Blacksmith O 5 Hammer Super Heated Steel Stock into Steel Stock using Anvil with a Hammer.
+Metallurgy O 5 Forge Super Heated Steel Stock into Red Hot Steel Stock using Forge.
+Metallurgy O 5 Quench Red Hot Steel Stock into Steel Stock using Quench Tank.
+Blacksmith O 5 Hammer Red Hot Steel Stock into Steel Stock using Anvil with a Hammer.
+Metallurgy O 5 Forge Steel Stock into Heated Steel Stock using Forge.
+Metallurgy O 5 Forge Heated Steel Stock into Super Heated Steel Stock using Forge.
+Metallurgy O 10 Forge Tin Ingot into Heated Tin Ingot using Forge.
+Metallurgy O 10 Quench Heated Tin Ingot into Tin Ingot using Quench Tank.
+Metallurgy I 10 Smelt Tin Stock into 10 Molten Tin using Furnace.
+Metallurgy I 10 Smelt Tin Ingot into Molten Tin using Furnace.
+Metallurgy I 10 Smelt Tin Ore into Molten Tin using Furnace.
+Metallurgy P 10 Cast Molten Tin into Tin Ingot using Stock Casting.
+Metallurgy O 10 Forge Heated Tin Ingot into Super Heated Tin Ingot using Forge.
+Blacksmith O 10 Hammer Super Heated Tin Ingot into Tin Ingot using Anvil with a Hammer.
+Metallurgy O 10 Quench Super Heated Tin Ingot into Tin Ingot using Quench Tank.
+Metallurgy O 10 Forge Super Heated Tin Ingot into Red Hot Tin Ingot using Forge.
+Blacksmith O 10 Hammer Red Hot Tin Ingot into Tin Ingot using Anvil with a Hammer.
+Metallurgy O 10 Quench Red Hot Tin Ingot into Tin Ingot using Quench Tank.
+Metallurgy O 10 Smelt Tin Stock into 10 Molten Tin using Furnace.
+Metallurgy O 10 Smelt Tin Ingot into Molten Tin using Furnace.
+Metallurgy I 10 Smelt Tin Ore into Molten Tin using Furnace.
+Metallurgy P 10 Cast 10 Molten Tin into Tin Stock using Stock Casting.
+Metallurgy O 10 Forge Tin Stock into Heated Tin Stock using Forge.
+Metallurgy O 10 Quench Heated Tin Stock into Tin Stock using Quench Tank.
+Metallurgy O 10 Forge Heated Tin Stock into Super Heated Tin Stock using Forge.
+Blacksmith O 10 Hammer Super Heated Tin Stock into Tin Stock using Anvil with a Hammer.
+Metallurgy O 10 Quench Super Heated Tin Stock into Tin Stock using Quench Tank.
+Metallurgy O 10 Forge Super Heated Tin Stock into Red Hot Tin Stock using Forge.
+Blacksmith O 10 Hammer Red Hot Tin Stock into Tin Stock using Anvil with a Hammer.
+Metallurgy O 10 Quench Red Hot Tin Stock into Tin Stock using Quench Tank.
+Metallurgy O 0 Forge Zinc Ingot into Heated Zinc Ingot using Forge.
+Metallurgy O 0 Quench Heated Zinc Ingot into Zinc Ingot using Quench Tank.
+Metallurgy O 0 Forge Heated Zinc Ingot into Super Heated Zinc Ingot using Forge.
+Metallurgy O 0 Quench Super Heated Zinc Ingot into Zinc Ingot using Quench Tank.
+Metallurgy I 0 Smelt Zinc Ore into Molten Zinc using Furnace.
+Metallurgy O 0 Smelt Zinc Stock into 10 Molten Zinc using Furnace.
+Metallurgy O 0 Smelt Zinc Ingot into Molten Zinc using Furnace.
+Metallurgy P 0 Cast Molten Zinc into Zinc Ingot using Stock Casting.
+Metallurgy O 0 Forge Super Heated Zinc Ingot into Red Hot Zinc Ingot using Forge.
+Metallurgy O 0 Quench Red Hot Zinc Ingot into Zinc Ingot using Quench Tank.
+Metallurgy I 0 Smelt Zinc Ore into Molten Zinc using Furnace.
+Metallurgy I 0 Smelt Zinc Stock into 10 Molten Zinc using Furnace.
+Metallurgy I 0 Smelt Zinc Ingot into Molten Zinc using Furnace.
+Metallurgy P 0 Cast 10 Molten Zinc into Zinc Stock using Stock Casting.
+Metallurgy O 0 Forge Zinc Stock into Heated Zinc Stock using Forge.
+Metallurgy O 0 Quench Heated Zinc Stock into Zinc Stock using Quench Tank.
+Metallurgy O 0 Forge Heated Zinc Stock into Super Heated Zinc Stock using Forge.
+Metallurgy O 0 Quench Super Heated Zinc Stock into Zinc Stock using Quench Tank.
+Metallurgy O 0 Forge Super Heated Zinc Stock into Red Hot Zinc Stock using Forge.
+Metallurgy O 0 Quench Red Hot Zinc Stock into Zinc Stock using Quench Tank.

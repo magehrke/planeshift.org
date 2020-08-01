@@ -1,0 +1,296 @@
+-- Banded Mail Helm ----- 
+   Combine Chain Mail Helm, Set of Steel Bands, into 0 Banded Mail Helm Kit.
+   Assemble Banded Mail Helm Kit into Banded Mail Helm Assembly using Riveter.
+   Shape Banded Mail Helm Assembly into Banded Mail Helm using Anvil with a Hammer.
+-- Battle Helm ----- 
+   Combine 4 Sharpened Deadly Claws, Steel Plate Helm, into 0 Battle Helm Kit.
+   Assemble Battle Helm Kit into Battle Helm Assembly using Riveter.
+   Shape Battle Helm Assembly into Battle Helm using Anvil with a Hammer.
+-- Brigandine Helm ----- 
+   Combine Mercenary Helm, Set of Steel Plates, into 0 Brigandine Helm Kit.
+   Assemble Brigandine Helm Kit into Brigandine Helm Assembly using Riveter.
+   Shape Brigandine Helm Assembly into Brigandine Helm using Anvil with a Hammer.
+-- Bronze Chain Mail Strip ----- 
+   Mold Molten Bronze into Bronze Wire using Forge with a Wire mold.
+   Wind Bronze Wire into Bronze Coil using Smith Table with a Mandrel.
+   Cut Bronze Coil into 15 Dozen Open Bronze Rings using Smith Table with a Cutters.
+   Hammer Dozen Open Bronze Rings into Dozen Closed Bronze Rings using Anvil with a Hammer.
+   Combine 6 Dozen Open Bronze Rings, Dozen Closed Bronze Rings, into 0 Bronze Six in One Patterns.
+   Weave 3 Bronze Six in One Patterns into Bronze Chain Mail Strip using Smith Table.
+   Combine 4 Dozen Riveted Open Bronze Rings, Dozen Riveted Closed Bronze Rings, into 0 Riveted Bronze Four in One Patterns.
+   Weave 3 Riveted Bronze Four in One Patterns into Bronze Chain Mail Strip using Smith Table.
+   Combine 6 Dozen Riveted Open Bronze Rings, Dozen Riveted Closed Bronze Rings, into 0 Riveted Bronze Six in One Patterns.
+   Weave 3 Riveted Bronze Six in One Patterns into Bronze Chain Mail Strip using Smith Table.
+   Cut Bronze Coil into 15 Dozen Open Bronze Rings using Smith Table with a Cutters.
+   Hammer Dozen Open Bronze Rings into Dozen Closed Bronze Rings using Anvil with a Hammer.
+   Combine 4 Dozen Open Bronze Rings, Dozen Closed Bronze Rings, into 0 Bronze Four in One Patterns.
+   Weave 3 Bronze Four in One Patterns into Bronze Chain Mail Strip using Smith Table.
+-- Bronze Helm Headband ----- 
+   Shape 9 Heated Bronze Ingot into Bronze Helm Headband using Anvil with a Hammer.
+   Forge Bronze Helm Headband into Heated Bronze Helm Headband using Forge.
+   Forge Heated Bronze Helm Headband into Super Heated Bronze Helm Headband using Forge.
+   Forge Super Heated Bronze Helm Headband into Red Hot Bronze Helm Headband using Forge.
+   Quench Red Hot Bronze Helm Headband into Bronze Helm Headband using Quench Tank.
+   Quench Heated Bronze Helm Headband into Bronze Helm Headband using Quench Tank.
+   Shape Heated Bronze Helm Headband into Bronze Helm Headband using Anvil with a Hammer.
+   Quench Super Heated Bronze Helm Headband into Bronze Helm Headband using Quench Tank.
+-- Bronze Helm Neck Wrap ----- 
+   Shape 6 Heated Bronze Ingot into Bronze Helm Neck Wrap using Anvil with a Hammer.
+   Forge Bronze Helm Neck Wrap into Heated Bronze Helm Neck Wrap using Forge.
+   Forge Heated Bronze Helm Neck Wrap into Super Heated Bronze Helm Neck Wrap using Forge.
+   Forge Super Heated Bronze Helm Neck Wrap into Red Hot Bronze Helm Neck Wrap using Forge.
+   Quench Red Hot Bronze Helm Neck Wrap into Bronze Helm Neck Wrap using Quench Tank.
+   Quench Heated Bronze Helm Neck Wrap into Bronze Helm Neck Wrap using Quench Tank.
+   Shape Heated Bronze Helm Neck Wrap into Bronze Helm Neck Wrap using Anvil with a Hammer.
+   Quench Super Heated Bronze Helm Neck Wrap into Bronze Helm Neck Wrap using Quench Tank.
+-- Bronze Helm Skullcap ----- 
+   Shape 8 Heated Bronze Ingot into Bronze Helm Skullcap using Anvil with a Hammer.
+   Forge Bronze Helm Skullcap into Heated Bronze Helm Skullcap using Forge.
+   Forge Heated Bronze Helm Skullcap into Super Heated Bronze Helm Skullcap using Forge.
+   Forge Super Heated Bronze Helm Skullcap into Red Hot Bronze Helm Skullcap using Forge.
+   Quench Red Hot Bronze Helm Skullcap into Bronze Helm Skullcap using Quench Tank.
+   Quench Heated Bronze Helm Skullcap into Bronze Helm Skullcap using Quench Tank.
+   Shape Heated Bronze Helm Skullcap into Bronze Helm Skullcap using Anvil with a Hammer.
+   Quench Super Heated Bronze Helm Skullcap into Bronze Helm Skullcap using Quench Tank.
+-- Bronze Helm Topband ----- 
+   Shape 5 Heated Bronze Ingot into Bronze Helm Topband using Anvil with a Hammer.
+   Forge Bronze Helm Topband into Heated Bronze Helm Topband using Forge.
+   Forge Heated Bronze Helm Topband into Super Heated Bronze Helm Topband using Forge.
+   Forge Super Heated Bronze Helm Topband into Red Hot Bronze Helm Topband using Forge.
+   Quench Red Hot Bronze Helm Topband into Bronze Helm Topband using Quench Tank.
+   Quench Heated Bronze Helm Topband into Bronze Helm Topband using Quench Tank.
+   Shape Heated Bronze Helm Topband into Bronze Helm Topband using Anvil with a Hammer.
+   Quench Super Heated Bronze Helm Topband into Bronze Helm Topband using Quench Tank.
+-- Bronze Ingot ----- 
+   Forge Bronze Helm Headband into Heated Bronze Helm Headband using Forge.
+   Forge Heated Bronze Helm Headband into Super Heated Bronze Helm Headband using Forge.
+   Forge Super Heated Bronze Helm Headband into Red Hot Bronze Helm Headband using Forge.
+   Shape Red Hot Bronze Helm Headband into 9 Bronze Ingot using Anvil with a Hammer.
+   Forge Bronze Helm Neck Wrap into Heated Bronze Helm Neck Wrap using Forge.
+   Forge Heated Bronze Helm Neck Wrap into Super Heated Bronze Helm Neck Wrap using Forge.
+   Forge Super Heated Bronze Helm Neck Wrap into Red Hot Bronze Helm Neck Wrap using Forge.
+   Shape Red Hot Bronze Helm Neck Wrap into 6 Bronze Ingot using Anvil with a Hammer.
+   Forge Bronze Helm Skullcap into Heated Bronze Helm Skullcap using Forge.
+   Forge Heated Bronze Helm Skullcap into Super Heated Bronze Helm Skullcap using Forge.
+   Forge Super Heated Bronze Helm Skullcap into Red Hot Bronze Helm Skullcap using Forge.
+   Shape Red Hot Bronze Helm Skullcap into 8 Bronze Ingot using Anvil with a Hammer.
+   Forge Bronze Helm Topband into Heated Bronze Helm Topband using Forge.
+   Forge Heated Bronze Helm Topband into Super Heated Bronze Helm Topband using Forge.
+   Forge Super Heated Bronze Helm Topband into Red Hot Bronze Helm Topband using Forge.
+   Shape Red Hot Bronze Helm Topband into 5 Bronze Ingot using Anvil with a Hammer.
+   Shape Super Heated Bronze Helm Headband into 9 Bronze Ingot using Anvil with a Hammer.
+   Shape Super Heated Bronze Helm Neck Wrap into 6 Bronze Ingot using Anvil with a Hammer.
+   Shape Super Heated Bronze Helm Skullcap into 8 Bronze Ingot using Anvil with a Hammer.
+   Shape Super Heated Bronze Helm Topband into 5 Bronze Ingot using Anvil with a Hammer.
+-- Bronze Scale Mail Cloth ----- 
+   Combine 3 Bronze Chain Mail Strip, into 0 Small Bronze Chain Mail Parts.
+   Weave Small Bronze Chain Mail Parts into Small Bronze Chain Mail Piece using Smith Table.
+   Weave 2 Small Bronze Chain Mail Piece into Bronze Scale Mail Cloth using Smith Table.
+-- Bronze Serpent Helm ----- 
+   Combine Bronze Spangen, Bronze Scale Mail Cloth, into 0 Bronze Serpent Helm Kit.
+   Assemble Bronze Serpent Helm Kit into Bronze Serpent Helm Assembly using Riveter.
+   Shape Bronze Serpent Helm Assembly into Bronze Serpent Helm using Anvil with a Hammer.
+-- Bronze Spangen ----- 
+   Combine Bronze Helm Headband, Bronze Helm Topband, into 0 Bronze Spangen Kit.
+   Assemble Bronze Spangen Kit into Bronze Spangen Assembly using Riveter.
+   Shape Bronze Spangen Assembly into Bronze Spangen using Anvil with a Hammer.
+-- Bronze Spangenhelm ----- 
+   Combine Bronze Spangen, Bronze Helm Skullcap, into 0 Bronze Spangenhelm Kit.
+   Assemble Bronze Spangenhelm Kit into Bronze Spangenhelm Assembly using Riveter.
+   Shape Bronze Spangenhelm Assembly into Bronze Spangenhelm using Anvil with a Hammer.
+-- Chain Mail Helm ----- 
+   Combine Spangen, Large Mail Cloth, into 0 Chain Mail Helm Kit.
+   Assemble Chain Mail Helm Kit into Chain Mail Helm Assembly using Riveter.
+   Shape Chain Mail Helm Assembly into Chain Mail Helm using Anvil with a Hammer.
+-- Chain Mail Strip ----- 
+   Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+   Wind Steel Wire into Steel Coil using Smith Table with a Mandrel.
+   Cut Steel Coil into 15 Dozen Open Steel Rings using Smith Table with a Cutters.
+   Hammer Dozen Open Steel Rings into Dozen Closed Steel Rings using Anvil with a Hammer.
+   Combine 4 Dozen Open Steel Rings, Dozen Closed Steel Rings, into 0 Four in One Patterns.
+   Weave 3 Four in One Patterns into Chain Mail Strip using Smith Table.
+   Cut Steel Coil into 15 Dozen Open Steel Rings using Smith Table with a Cutters.
+   Hammer Dozen Open Steel Rings into Dozen Closed Steel Rings using Anvil with a Hammer.
+   Combine 6 Dozen Open Steel Rings, Dozen Closed Steel Rings, into 0 Six in One Patterns.
+   Weave 3 Six in One Patterns into Chain Mail Strip using Smith Table.
+   Combine 4 Dozen Riveted Open Steel Rings, Dozen Riveted Closed Steel Rings, into 0 Riveted Four in One Patterns.
+   Weave 3 Riveted Four in One Patterns into Chain Mail Strip using Smith Table.
+   Combine 6 Dozen Riveted Open Steel Rings, Dozen Riveted Closed Steel Rings, into 0 Riveted Six in One Patterns.
+   Weave 3 Riveted Six in One Patterns into Chain Mail Strip using Smith Table.
+-- Dozen Riveted Closed Bronze Rings ----- 
+   Mold Molten Bronze into Bronze Wire using Forge with a Wire mold.
+   Wind Bronze Wire into Bronze Coil using Smith Table with a Mandrel.
+   Cut Bronze Coil into 15 Dozen Open Bronze Rings using Smith Table with a Cutters.
+   Hammer Dozen Open Bronze Rings into Dozen Closed Bronze Rings using Anvil with a Hammer.
+   Rivet Dozen Closed Bronze Rings into Dozen Riveted Closed Bronze Rings using Riveter.
+-- Dozen Riveted Closed Steel Rings ----- 
+   Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+   Wind Steel Wire into Steel Coil using Smith Table with a Mandrel.
+   Cut Steel Coil into 15 Dozen Open Steel Rings using Smith Table with a Cutters.
+   Hammer Dozen Open Steel Rings into Dozen Closed Steel Rings using Anvil with a Hammer.
+   Rivet Dozen Closed Steel Rings into Dozen Riveted Closed Steel Rings using Riveter.
+-- Dozen Riveted Open Bronze Rings ----- 
+   Mold Molten Bronze into Bronze Wire using Forge with a Wire mold.
+   Wind Bronze Wire into Bronze Coil using Smith Table with a Mandrel.
+   Cut Bronze Coil into 15 Dozen Open Bronze Rings using Smith Table with a Cutters.
+   Rivet Dozen Open Bronze Rings into Dozen Riveted Open Bronze Rings using Riveter.
+-- Dozen Riveted Open Steel Rings ----- 
+   Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+   Wind Steel Wire into Steel Coil using Smith Table with a Mandrel.
+   Cut Steel Coil into 15 Dozen Open Steel Rings using Smith Table with a Cutters.
+   Rivet Dozen Open Steel Rings into Dozen Riveted Open Steel Rings using Riveter.
+-- Full Spangenhelm ----- 
+   Combine Spangenhelm, Helm Neck Wrap, into 0 Full Spangenhelm Kit.
+   Assemble Full Spangenhelm Kit into Full Spangenhelm Assembly using Riveter.
+   Shape Full Spangenhelm Assembly into Full Spangenhelm using Anvil with a Hammer.
+-- Helm Headband ----- 
+   Forge Helm Headband into Heated Helm Headband using Forge.
+   Forge Heated Helm Headband into Super Heated Helm Headband using Forge.
+   Forge Super Heated Helm Headband into Red Hot Helm Headband using Forge.
+   Quench Red Hot Helm Headband into Helm Headband using Quench Tank.
+   Quench Heated Helm Headband into Helm Headband using Quench Tank.
+   Shape Heated Helm Headband into Helm Headband using Anvil with a Hammer.
+   Shape 9 Heated Steel Ingot into Helm Headband using Anvil with a Hammer.
+   Quench Super Heated Helm Headband into Helm Headband using Quench Tank.
+-- Helm Neck Wrap ----- 
+   Forge Helm Neck Wrap into Heated Helm Neck Wrap using Forge.
+   Quench Heated Helm Neck Wrap into Helm Neck Wrap using Quench Tank.
+   Shape Heated Helm Neck Wrap into Helm Neck Wrap using Anvil with a Hammer.
+   Forge Heated Helm Neck Wrap into Super Heated Helm Neck Wrap using Forge.
+   Forge Super Heated Helm Neck Wrap into Red Hot Helm Neck Wrap using Forge.
+   Quench Red Hot Helm Neck Wrap into Helm Neck Wrap using Quench Tank.
+   Shape 6 Heated Steel Ingot into Helm Neck Wrap using Anvil with a Hammer.
+   Quench Super Heated Helm Neck Wrap into Helm Neck Wrap using Quench Tank.
+-- Helm Skullcap ----- 
+   Forge Helm Skullcap into Heated Helm Skullcap using Forge.
+   Forge Heated Helm Skullcap into Super Heated Helm Skullcap using Forge.
+   Quench Super Heated Helm Skullcap into Helm Skullcap using Quench Tank.
+   Quench Heated Helm Skullcap into Helm Skullcap using Quench Tank.
+   Shape Heated Helm Skullcap into Helm Skullcap using Anvil with a Hammer.
+   Forge Super Heated Helm Skullcap into Red Hot Helm Skullcap using Forge.
+   Quench Red Hot Helm Skullcap into Helm Skullcap using Quench Tank.
+   Shape 8 Heated Steel Ingot into Helm Skullcap using Anvil with a Hammer.
+-- Helm Topband ----- 
+   Forge Helm Topband into Heated Helm Topband using Forge.
+   Forge Heated Helm Topband into Super Heated Helm Topband using Forge.
+   Quench Super Heated Helm Topband into Helm Topband using Quench Tank.
+   Forge Super Heated Helm Topband into Red Hot Helm Topband using Forge.
+   Quench Red Hot Helm Topband into Helm Topband using Quench Tank.
+   Quench Heated Helm Topband into Helm Topband using Quench Tank.
+   Shape Heated Helm Topband into Helm Topband using Anvil with a Hammer.
+   Shape 5 Heated Steel Ingot into Helm Topband using Anvil with a Hammer.
+-- Holy Helmet ----- 
+   Combine Bronze Spangenhelm, Bronze Helm Neck Wrap, into 0 Holy Helmet Kit.
+   Assemble Holy Helmet Kit into Holy Helmet Assembly using Riveter.
+   Shape Holy Helmet Assembly into Holy Helmet using Anvil with a Hammer.
+-- Horned Helm ----- 
+   Combine 2 Sharpened Deadly Claws, Steel Plate Helm, into 0 Horned Helm Kit.
+   Assemble Horned Helm Kit into Horned Helm Assembly using Riveter.
+   Shape Horned Helm Assembly into Horned Helm using Anvil with a Hammer.
+-- Large Mail Cloth ----- 
+   Combine 3 Chain Mail Strip, into 0 Small Chain Mail Parts.
+   Weave Small Chain Mail Parts into Small Chain Mail Piece using Smith Table.
+   Weave 2 Small Chain Mail Piece into Large Mail Cloth using Smith Table.
+-- Mercenary Helm ----- 
+   Combine 2 Leather Cheekplate, Leather Ridge, into 0 Mercenary Helm Kit.
+   Assemble Mercenary Helm Kit into Mercenary Helm Assembly using Riveter.
+   Shape Mercenary Helm Assembly into Mercenary Helm using Anvil with a Hammer.
+-- Plate Mail Helm ----- 
+   Combine Chain Mail Helm, Set of Steel Plates, into 0 Plate Mail Helm Kit.
+   Assemble Plate Mail Helm Kit into Plate Mail Helm Assembly using Riveter.
+   Shape Plate Mail Helm Assembly into Plate Mail Helm using Anvil with a Hammer.
+-- Set of Steel Bands ----- 
+   Forge Set of Steel Bands into Heated Set of Steel Bands using Forge.
+   Forge Heated Set of Steel Bands into Super Heated Set of Steel Bands using Forge.
+   Quench Super Heated Set of Steel Bands into Set of Steel Bands using Quench Tank.
+   Forge Super Heated Set of Steel Bands into Red Hot Set of Steel Bands using Forge.
+   Quench Red Hot Set of Steel Bands into Set of Steel Bands using Quench Tank.
+   Quench Heated Set of Steel Bands into Set of Steel Bands using Quench Tank.
+   Shape Heated Set of Steel Bands into Set of Steel Bands using Anvil with a Hammer.
+   Shape 3 Heated Steel Ingot into Set of Steel Bands using Anvil with a Hammer.
+-- Set of Steel Plates ----- 
+   Forge Set of Steel Plates into Heated Set of Steel Plates using Forge.
+   Shape Heated Set of Steel Plates into Set of Steel Plates using Anvil with a Hammer.
+   Quench Heated Set of Steel Plates into Set of Steel Plates using Quench Tank.
+   Forge Heated Set of Steel Plates into Super Heated Set of Steel Plates using Forge.
+   Quench Super Heated Set of Steel Plates into Set of Steel Plates using Quench Tank.
+   Shape Heated Set of Steel Piece into Set of Steel Plates using Anvil with a Hammer.
+   Forge Super Heated Set of Steel Plates into Red Hot Set of Steel Plates using Forge.
+   Quench Red Hot Set of Steel Plates into Set of Steel Plates using Quench Tank.
+   Forge Heated Set of Steel Piece into Super Heated Set of Steel Piece using Forge.
+   Shape Super Heated Set of Steel Piece into Set of Steel Plates using Anvil with a Hammer.
+-- Sharpened Deadly Claw ----- 
+   Sharpen Ulbernaut Deadly Claw into Sharpened Deadly Claw using Smith Table with a Wood Plane.
+-- Spangen ----- 
+   Combine Helm Headband, Helm Topband, into 0 Spangen Kit.
+   Assemble Spangen Kit into Spangen Assembly using Riveter.
+   Shape Spangen Assembly into Spangen using Anvil with a Hammer.
+-- Spangenhelm ----- 
+   Combine Spangen, Helm Skullcap, into 0 Spangenhelm Kit.
+   Assemble Spangenhelm Kit into Spangenhelm Assembly using Riveter.
+   Shape Spangenhelm Assembly into Spangenhelm using Anvil with a Hammer.
+-- Steel Cheekplate ----- 
+   Forge Steel Cheekplate into Heated Steel Cheekplate using Forge.
+   Forge Heated Steel Cheekplate into Super Heated Steel Cheekplate using Forge.
+   Quench Super Heated Steel Cheekplate into Steel Cheekplate using Quench Tank.
+   Quench Heated Steel Cheekplate into Steel Cheekplate using Quench Tank.
+   Shape Heated Steel Cheekplate into Steel Cheekplate using Anvil with a Hammer.
+   Forge Super Heated Steel Cheekplate into Red Hot Steel Cheekplate using Forge.
+   Quench Red Hot Steel Cheekplate into Steel Cheekplate using Quench Tank.
+   Shape 2 Heated Steel Ingot into Steel Cheekplate using Anvil with a Hammer.
+-- Steel Ingot ----- 
+   Forge Helm Skullcap into Heated Helm Skullcap using Forge.
+   Forge Heated Helm Skullcap into Super Heated Helm Skullcap using Forge.
+   Shape Super Heated Helm Skullcap into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Helm Topband into Heated Helm Topband using Forge.
+   Forge Heated Helm Topband into Super Heated Helm Topband using Forge.
+   Shape Super Heated Helm Topband into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Heated Set of Steel Piece into Super Heated Set of Steel Piece using Forge.
+   Forge Super Heated Set of Steel Piece into Red Hot Set of Steel Piece using Forge.
+   Shape Red Hot Set of Steel Piece into 2 Steel Ingot using Anvil with a Hammer.
+   Forge Set of Steel Bands into Heated Set of Steel Bands using Forge.
+   Forge Heated Set of Steel Bands into Super Heated Set of Steel Bands using Forge.
+   Shape Super Heated Set of Steel Bands into 3 Steel Ingot using Anvil with a Hammer.
+   Forge Steel Cheekplate into Heated Steel Cheekplate using Forge.
+   Forge Heated Steel Cheekplate into Super Heated Steel Cheekplate using Forge.
+   Shape Super Heated Steel Cheekplate into 2 Steel Ingot using Anvil with a Hammer.
+   Forge Steel Ridge into Heated Steel Ridge using Forge.
+   Forge Heated Steel Ridge into Super Heated Steel Ridge using Forge.
+   Shape Super Heated Steel Ridge into 7 Steel Ingot using Anvil with a Hammer.
+   Forge Helm Headband into Heated Helm Headband using Forge.
+   Forge Heated Helm Headband into Super Heated Helm Headband using Forge.
+   Forge Super Heated Helm Headband into Red Hot Helm Headband using Forge.
+   Shape Red Hot Helm Headband into 9 Steel Ingot using Anvil with a Hammer.
+   Forge Helm Neck Wrap into Heated Helm Neck Wrap using Forge.
+   Forge Heated Helm Neck Wrap into Super Heated Helm Neck Wrap using Forge.
+   Forge Super Heated Helm Neck Wrap into Red Hot Helm Neck Wrap using Forge.
+   Shape Red Hot Helm Neck Wrap into 6 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Helm Skullcap into Red Hot Helm Skullcap using Forge.
+   Shape Red Hot Helm Skullcap into 8 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Helm Topband into Red Hot Helm Topband using Forge.
+   Shape Red Hot Helm Topband into 5 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Set of Steel Bands into Red Hot Set of Steel Bands using Forge.
+   Shape Red Hot Set of Steel Bands into 3 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Steel Cheekplate into Red Hot Steel Cheekplate using Forge.
+   Shape Red Hot Steel Cheekplate into 2 Steel Ingot using Anvil with a Hammer.
+   Forge Set of Steel Plates into Heated Set of Steel Plates using Forge.
+   Forge Heated Set of Steel Plates into Super Heated Set of Steel Plates using Forge.
+   Forge Super Heated Set of Steel Plates into Red Hot Set of Steel Plates using Forge.
+   Shape Red Hot Set of Steel Plates into 2 Steel Ingot using Anvil with a Hammer.
+   Forge Super Heated Steel Ridge into Red Hot Steel Ridge using Forge.
+   Shape Red Hot Steel Ridge into 7 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Helm Headband into 9 Steel Ingot using Anvil with a Hammer.
+   Shape Super Heated Helm Neck Wrap into 6 Steel Ingot using Anvil with a Hammer.
+-- Steel Plate Helm ----- 
+   Combine 2 Steel Cheekplate, Steel Ridge, Spangen, into 0 Steel Plate Helm Kit.
+   Assemble Steel Plate Helm Kit into Steel Plate Helm Assembly using Riveter.
+   Shape Steel Plate Helm Assembly into Steel Plate Helm using Anvil with a Hammer.
+-- Steel Ridge ----- 
+   Forge Steel Ridge into Heated Steel Ridge using Forge.
+   Forge Heated Steel Ridge into Super Heated Steel Ridge using Forge.
+   Quench Super Heated Steel Ridge into Steel Ridge using Quench Tank.
+   Quench Heated Steel Ridge into Steel Ridge using Quench Tank.
+   Shape Heated Steel Ridge into Steel Ridge using Anvil with a Hammer.
+   Forge Super Heated Steel Ridge into Red Hot Steel Ridge using Forge.
+   Quench Red Hot Steel Ridge into Steel Ridge using Quench Tank.
+   Shape 7 Heated Steel Ingot into Steel Ridge using Anvil with a Hammer.

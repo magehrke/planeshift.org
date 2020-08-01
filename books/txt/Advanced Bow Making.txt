@@ -1,0 +1,92 @@
+-- Carved Tefusangling Claw ----- 
+   Carve Tefusangling Claw into Carved Tefusangling Claw using Smith Table with a Wood Chisel.
+-- Dermorian Longbow ----- 
+   Combine Unstrung Dermorian Longbow, Plant String, into 0 Unbalanced Dermorian Longbows.
+   Balance Unbalanced Dermorian Longbow into Dermorian Longbow using Smith Table.
+-- Dermorian Shortbow ----- 
+   Combine Unstrung Dermorian Shortbow, Plant String, into 0 Unbalanced Dermorian Shortbows.
+   Balance Unbalanced Dermorian Shortbow into Dermorian Shortbow using Smith Table.
+-- Enkidukai Longbow ----- 
+   Combine Unstrung Enkidukai Longbow, Tendon String, into 0 Unbalanced Enkidukai Longbows.
+   Balance Unbalanced Enkidukai Longbow into Enkidukai Longbow using Smith Table.
+-- Enkidukai Shortbow ----- 
+   Combine Unstrung Enkidukai Shortbow, Tendon String, into 0 Unbalanced Enkidukai Shortbows.
+   Balance Unbalanced Enkidukai Shortbow into Enkidukai Shortbow using Smith Table.
+-- Oak Wood Grip ----- 
+   Cut White Oak Wood into 2 Oak Wood Board using Smith Table with a Wood Saw.
+   Cut Oak Wood Board into 2 Small Oak Wood Board using Smith Table with a Wood Saw.
+   Whittle Small Oak Wood Board into 2 Oak Wood Grip using Smith Table with a Kitchen Knife.
+-- Plant String ----- 
+   Season 3 Couchgrass into Dried Couchgrass using Smith Table.
+   Spin 3 Dried Couchgrass into Thread using Smith Table with a Mandrel.
+   Spin 3 Thread into Plant String using Smith Table with a Mandrel.
+-- Smoothed Oak Wood Board ----- 
+   Cut White Oak Wood into 2 Oak Wood Board using Smith Table with a Wood Saw.
+   Cut Oak Wood Board into 2 Small Oak Wood Board using Smith Table with a Wood Saw.
+   Smooth Small Oak Wood Board into Smoothed Oak Wood Board using Smith Table with a Wood Plane.
+-- Steel String ----- 
+   Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+   Spin 3 Steel Wire into Steel String using Smith Table with a Mandrel.
+-- Stonehammer Longbow ----- 
+   Combine Stonehammer Longbow Staff, Steel String, into 0 Stonehammer Longbow Kits.
+   Assemble Stonehammer Longbow Kit into Unbalanced Stonehammer Longbow using Riveter.
+   Balance Unbalanced Stonehammer Longbow into Stonehammer Longbow using Smith Table.
+-- Stonehammer Longbow Staff ----- 
+   Shape 2 Heated Bronze Stock into Untempered Stonehammer Longbow Staff using Anvil with a Hammer.
+   Forge Untempered Stonehammer Longbow Staff into Heated Untempered Stonehammer Longbow Staff using Forge.
+   Quench Heated Untempered Stonehammer Longbow Staff into Stonehammer Longbow Staff using Quench Tank.
+-- Stonehammer Shortbow ----- 
+   Combine Stonehammer Shortbow Staff, Steel String, into 0 Stonehammer Shortbow Kits.
+   Assemble Stonehammer Shortbow Kit into Unbalanced Stonehammer Shortbow using Riveter.
+   Balance Unbalanced Stonehammer Shortbow into Stonehammer Shortbow using Smith Table.
+-- Stonehammer Shortbow Staff ----- 
+   Shape Heated Bronze Stock into Untempered Stonehammer Shortbow Staff using Anvil with a Hammer.
+   Forge Untempered Stonehammer Shortbow Staff into Heated Untempered Stonehammer Shortbow Staff using Forge.
+   Quench Heated Untempered Stonehammer Shortbow Staff into Stonehammer Shortbow Staff using Quench Tank.
+-- Tendon String ----- 
+   Loosen Clacker Leg into Tendon using Smith Table with a Kitchen Knife.
+   Loosen Consumer Leg into 3 Tendon using Smith Table with a Kitchen Knife.
+   Loosen Thunder Clacker Leg into 2 Tendon using Smith Table with a Kitchen Knife.
+   Spin 3 Tendon into Tendon String using Smith Table with a Mandrel.
+-- Unstrung Dermorian Longbow ----- 
+   Woodturn White Oak Wood into Long Oak Wood Rod using Smith Table with a Wood Chisel.
+   Carve Long Oak Wood Rod into Long Carved Oak Wood Rod using Smith Table with a Wood Chisel.
+   Curve Long Carved Oak Wood Rod into Long Carved Curved Oak Wood Rod using Smith Table.
+   Season Long Carved Curved Oak Wood Rod into Unstrung Dermorian Longbow using Smith Table.
+-- Unstrung Dermorian Shortbow ----- 
+   Cut White Oak Wood into 2 Oak Wood Board using Smith Table with a Wood Saw.
+   Cut Oak Wood Board into 2 Small Oak Wood Board using Smith Table with a Wood Saw.
+   Carve Small Oak Wood Board into Small Oak Wood Carved Board using Smith Table with a Wood Chisel.
+   Curve Small Oak Wood Carved Board into Small Oak Wood Carved Curved Board using Smith Table.
+   Season Small Oak Wood Carved Curved Board into Unstrung Dermorian Shortbow using Smith Table.
+-- Unstrung Enkidukai Longbow ----- 
+   Carve Tefusang Claw into Carved Tefusang Claw using Smith Table with a Wood Chisel.
+   Combine 2 Carved Tefusang Claws, Oak Wood Grip, Fish Glue, into 0 Enkidukai Longbow Staff Kits.
+   Assemble Enkidukai Longbow Staff Kit into Enkidukai Longbow Staff using Riveter.
+   Curve Enkidukai Longbow Staff into Curved Enkidukai Longbow Staff using Smith Table.
+   Season Curved Enkidukai Longbow Staff into Unstrung Enkidukai Longbow using Smith Table.
+-- Unstrung Enkidukai Shortbow ----- 
+   Combine 2 Carved Tefusangling Claws, Wooden Grip, Fish Glue, into 0 Enkidukai Shortbow Staff Kits.
+   Assemble Enkidukai Shortbow Staff Kit into Enkidukai Shortbow Staff using Riveter.
+   Curve Enkidukai Shortbow Staff into Curved Enkidukai Shortbow Staff using Smith Table.
+   Season Curved Enkidukai Shortbow Staff into Unstrung Enkidukai Shortbow using Smith Table.
+-- Unstrung Ynnwn Longbow ----- 
+   Carve Ulbernaut Claw into Carved Ulbernaut Claw using Smith Table with a Wood Chisel.
+   Combine 2 Carved Ulbernaut Claws, Oak Wood Grip, Fish Glue, into 0 Ynnwn Longbow Staff Kits.
+   Assemble Ynnwn Longbow Staff Kit into Ynnwn Longbow Staff using Riveter.
+   Curve Ynnwn Longbow Staff into Curved Ynnwn Longbow Staff using Smith Table.
+   Season Curved Ynnwn Longbow Staff into Unstrung Ynnwn Longbow using Smith Table.
+-- Unstrung Ynnwn Shortbow ----- 
+   Carve Ulbernaut Claw into Carved Ulbernaut Claw using Smith Table with a Wood Chisel.
+   Curve Carved Ulbernaut Claw into Carved Curved Ulbernaut Claw using Smith Table.
+   Season Carved Curved Ulbernaut Claw into Unstrung Ynnwn Shortbow using Smith Table.
+-- Wooden Grip ----- 
+   Cut Threestem Wood into 2 Wooden Board using Smith Table with a Wood Saw.
+   Cut Wooden Board into 2 Small Wooden Board using Smith Table with a Wood Saw.
+   Whittle Small Wooden Board into 2 Wooden Grip using Smith Table with a Kitchen Knife.
+-- Ynnwn Longbow ----- 
+   Combine Unstrung Ynnwn Longbow, Tendon String, into 0 Unbalanced Ynnwn Longbows.
+   Balance Unbalanced Ynnwn Longbow into Ynnwn Longbow using Smith Table.
+-- Ynnwn Shortbow ----- 
+   Combine Unstrung Ynnwn Shortbow, Tendon String, into 0 Unbalanced Ynnwn Shortbows.
+   Balance Unbalanced Ynnwn Shortbow into Ynnwn Shortbow using Smith Table.

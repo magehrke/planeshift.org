@@ -1,0 +1,249 @@
+-- Big Blue Gold Steak ----- 
+   Hammer Gold Ore into 3 Big chunk of Gold Ore using Alchemist Table with a Wooden Mallet.
+   Combine Big chunk of Gold Ore, Gold Solution, Iron Solution, Tartar, into 0 Big Blue Gold Steak Mix.
+   Cook Big Blue Gold Steak Mix into Big Blue Gold Steak using Alchemist Stove with a Iron Stirrer.
+-- Big Red Gold Steak ----- 
+   Hammer Gold Ore into 3 Big chunk of Gold Ore using Alchemist Table with a Wooden Mallet.
+   Combine Big chunk of Gold Ore, Gold Solution, Copper Solution, Stibine, into 0 Big Red Gold Steak Mix.
+   Cook Big Red Gold Steak Mix into Big Red Gold Steak using Alchemist Stove with a Iron Stirrer.
+-- Blue Gold Floater ----- 
+   Hammer Iron Ingot into 3 Big chunk of Iron using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Iron into 3 Small chunk of Iron using Alchemist Table with a Wooden Mallet.
+   Combine 3 Small chunk of Iron, Gold Solution, Tartar, into 0 Blue Gold Floater Mix.
+   Cerate Blue Gold Floater Mix into Blue Gold Floater using Alchemist Stove with a Wooden Stirrer.
+-- Blue Gold Sauce ----- 
+   Hammer Gold Ingot into 3 Big chunk of Gold using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Gold into 3 Small chunk of Gold using Alchemist Table with a Wooden Mallet.
+   Combine Powdered Gold, Iron Solution, 2 Small chunk of Gold, into 0 Blue Gold Sauce Mix.
+   Cerate Blue Gold Sauce Mix into Blue Gold Sauce using Alchemist Stove with a Wooden Stirrer.
+-- Brasser Soup ----- 
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine Powdered Coal, Copper Ore Solution, Zinc Ore Solution, 2 Small chunk of Coal, into 0 Brasser Soup Mix.
+   Amalgamate Brasser Soup Mix into Brasser Soup using Melting Pot with a Glass Stirrer.
+-- Brasser Steak ----- 
+   Hammer Copper Ore into 3 Big chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Copper Ore into 3 Small chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Zinc Ore into 3 Big chunk of Zinc Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Zinc Ore into 3 Small chunk of Zinc Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine 2 Small chunk of Copper Ore, Small chunk of Zinc Ore, 3 Small chunk of Coal, into 0 Brasser Steak Mix.
+   Cook Brasser Steak Mix into Brasser Steak using Alchemist Stove with a Iron Stirrer.
+-- Bronze Soup ----- 
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine Powdered Coal, Tin Ore Solution, Copper Ore Solution, 2 Small chunk of Coal, into 0 Bronze Soup Mix.
+   Amalgamate Bronze Soup Mix into Bronze Soup using Melting Pot with a Glass Stirrer.
+-- Bronzed coal ----- 
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine 3 Small chunk of Coal, Powdered Tin, Powdered Copper, Stibine, into 0 Bronzed coal Mix.
+   Cook Bronzed coal Mix into 2 Bronzed coals using Alchemist Stove with a Iron Stirrer.
+-- Copper Ore Solution ----- 
+   Combine Powdered Copper Ore, 2 Oil of Vitriol, into 0 Mix of Copper ore and vitriol.
+   Corrode Mix of Copper ore and vitriol into 2 Copper Ore Solutions using Crucible with a Glass Stirrer.
+-- Copper Solution ----- 
+   Combine Powdered Copper, 2 Oil of Vitriol, into 0 Mix of Copper and vitriol.
+   Corrode Mix of Copper and vitriol into 2 Copper Solutions using Crucible with a Glass Stirrer.
+-- Copper Steak ----- 
+   Hammer Copper Ore into 3 Big chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine Big chunk of Copper Ore, 3 Small chunk of Coal, into 0 Copper Steak Mix.
+   Cook Copper Steak Mix into Copper Steak using Alchemist Stove with a Iron Stirrer.
+-- Copper Steak Shiny ----- 
+   Hammer Copper Ore into 3 Big chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine Big chunk of Copper Ore, 3 Small chunk of Coal, Gold Solution, into 0 Copper Steak Shiny Mix.
+   Cook Copper Steak Shiny Mix into Copper Steak Shiny using Alchemist Stove with a Iron Stirrer.
+-- Electrum Mixer Dish ----- 
+   Hammer Silver Ore into 3 Big chunk of Silver Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Silver Ore into 3 Small chunk of Silver Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Copper Ore into 3 Big chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Copper Ore into 3 Small chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Combine Small chunk of Gold Ore, Small chunk of Silver Ore, Small chunk of Copper Ore, Silver Solution, Copper Solution, into 0 Electrum Mixer Dish Mix.
+   Cook Electrum Mixer Dish Mix into Electrum Mixer Dish using Alchemist Stove with a Iron Stirrer.
+-- Electrum Soup ----- 
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine Powdered Coal, Gold Solution, Silver Ore Solution, 2 Small chunk of Coal, into 0 Electrum Soup Mix.
+   Amalgamate Electrum Soup Mix into Electrum Soup using Melting Pot with a Glass Stirrer.
+-- Forge Mixer Dish ----- 
+   Hammer Silver Ore into 3 Big chunk of Silver Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Silver Ore into 3 Small chunk of Silver Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Copper Ore into 3 Big chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Copper Ore into 3 Small chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Tin Ore into 3 Big chunk of Tin Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Tin Ore into 3 Small chunk of Tin Ore using Alchemist Table with a Wooden Mallet.
+   Combine Small chunk of Gold Ore, Small chunk of Silver Ore, Small chunk of Copper Ore, Small chunk of Tin Ore, Powdered Iron, into 0 Forge Mixer Dish Mix.
+   Cook Forge Mixer Dish Mix into Forge Mixer Dish using Alchemist Stove with a Iron Stirrer.
+-- Gold Solution ----- 
+   Combine Nitric spirit, 3 Salt spirits, Powdered Gold, into 0 Mix of Gold niter and salt spirits.
+   Corrode Mix of Gold niter and salt spirit into 2 Gold Solutions using Crucible with a Glass Stirrer.
+-- Green Gold Soup Surprise ----- 
+   Combine Powdered Coal, Gold Solution, Silver Ore Solution, Shards of Diamond Crystal, into 0 Green Gold Soup Surprise Mix.
+   Amalgamate Green Gold Soup Surprise Mix into Green Gold Soup Surprise using Melting Pot with a Glass Stirrer.
+-- Green Gold Steak ----- 
+   Hammer Silver Ore into 3 Big chunk of Silver Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Silver Ore into 3 Small chunk of Silver Ore using Alchemist Table with a Wooden Mallet.
+   Combine 2 Small chunk of Gold Ore, 2 Small chunk of Silver Ore, Gold Solution, Silver Solution, into 0 Green Gold Steak Mix.
+   Cook Green Gold Steak Mix into Green Gold Steak using Alchemist Stove with a Iron Stirrer.
+-- Iron Ore Solution ----- 
+   Combine Powdered Iron Ore, 2 Oil of Vitriol, into 0 Mix of Iron ore and vitriol.
+   Corrode Mix of Iron ore and vitriol into 2 Iron Ore Solutions using Crucible with a Glass Stirrer.
+-- Iron Solution ----- 
+   Combine Powdered Iron, 2 Oil of Vitriol, into 0 Mix of Iron and vitriol.
+   Corrode Mix of Iron and vitriol into 2 Iron Solutions using Crucible with a Glass Stirrer.
+-- Minter's Floater ----- 
+   Hammer Zinc Ingot into 3 Big chunk of Zinc using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Zinc into 3 Small chunk of Zinc using Alchemist Table with a Wooden Mallet.
+   Combine Small chunk of Zinc, Silver Solution, Stibine, into 0 Minter's Floater Mix.
+   Cerate Minter's Floater Mix into Minter's Floater using Alchemist Stove with a Wooden Stirrer.
+-- Minter's Silver Soup ----- 
+   Hammer Silver Ore into 3 Big chunk of Silver Ore using Alchemist Table with a Wooden Mallet.
+   Combine Big chunk of Silver Ore, Silver Solution, Copper Solution, into 0 Minter's Silver Mix.
+   Cook Minter's Silver Mix into Minter's Silver Soup using Alchemist Stove with a Iron Stirrer.
+-- Nitric spirit ----- 
+   Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol.
+   Distill Mix of niter and vitriol into 2 Nitric spirits using Alembic.
+-- Powdered Coal ----- 
+   Grind Coal Lump into Powdered Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Coal into Powdered Coal using Alchemist Table with a Wooden Mallet.
+-- Powdered Copper ----- 
+   Grind Copper Ingot into Powdered Copper using Alchemist Table with a Wooden Mallet.
+   Hammer Copper Ingot into 3 Big chunk of Coppper using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Copper into 3 Small chunk of Coppper using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Coppper into Powdered Copper using Alchemist Table with a Wooden Mallet.
+-- Powdered Copper Ore ----- 
+   Grind Copper Ore into Powdered Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Copper Ore into 3 Big chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Copper Ore into 3 Small chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Copper Ore into Powdered Copper Ore using Alchemist Table with a Wooden Mallet.
+-- Powdered Diamond Crystal ----- 
+   Pulverize Diamond Crystal into 2 Powdered Diamond Crystals using Mortar and Pestle.
+-- Powdered Emerald Crystal ----- 
+   Pulverize Emerald Crystal into 2 Powdered Emerald Crystals using Mortar and Pestle.
+-- Powdered Gold ----- 
+   Grind Gold Ingot into Powdered Gold using Alchemist Table with a Wooden Mallet.
+   Hammer Gold Ingot into 3 Big chunk of Gold using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Gold into 3 Small chunk of Gold using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Gold into Powdered Gold using Alchemist Table with a Wooden Mallet.
+-- Powdered Iron ----- 
+   Hammer Iron Ingot into 3 Big chunk of Iron using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Iron into 3 Small chunk of Iron using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Iron into Powdered Iron using Alchemist Table with a Wooden Mallet.
+   Grind Iron Ingot into Powdered Iron using Alchemist Table with a Wooden Mallet.
+-- Powdered Iron Ore ----- 
+   Grind Iron Ore into Powdered Iron Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Iron Ore into 3 Big chunk of Iron Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Iron Ore into 3 Small chunk of Iron Ore using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Iron Ore into Powdered Iron Ore using Alchemist Table with a Wooden Mallet.
+-- Powdered Ruby Crystal ----- 
+   Pulverize Ruby Crystal into 2 Powdered Ruby Crystals using Mortar and Pestle.
+-- Powdered Sapphire Crystal ----- 
+   Pulverize Sapphire Crystal into 2 Powdered Sapphire Crystals using Mortar and Pestle.
+-- Powdered Silver ----- 
+   Grind Silver Ingot into Powdered Silver using Alchemist Table with a Wooden Mallet.
+   Hammer Silver Ingot into 3 Big chunk of Silver using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Silver into 3 Small chunk of Silver using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Silver into Powdered Silver using Alchemist Table with a Wooden Mallet.
+-- Powdered Silver Ore ----- 
+   Grind Silver Ore into Powdered Silver Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Silver Ore into 3 Big chunk of Silver Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Silver Ore into 3 Small chunk of Silver Ore using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Silver Ore into Powdered Silver Ore using Alchemist Table with a Wooden Mallet.
+-- Powdered Tin ----- 
+   Hammer Tin Ingot into 3 Big chunk of Tin using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Tin into 3 Small chunk of Tin using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Tin into Powdered Tin using Alchemist Table with a Wooden Mallet.
+   Grind Tin Ingot into Powdered Tin using Alchemist Table with a Wooden Mallet.
+-- Powdered Tin Ore ----- 
+   Hammer Tin Ore into 3 Big chunk of Tin Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Tin Ore into 3 Small chunk of Tin Ore using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Tin Ore into Powdered Tin Ore using Alchemist Table with a Wooden Mallet.
+   Grind Tin Ore into Powdered Tin Ore using Alchemist Table with a Wooden Mallet.
+-- Powdered Zinc ----- 
+   Hammer Zinc Ingot into 3 Big chunk of Zinc using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Zinc into 3 Small chunk of Zinc using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Zinc into Powdered Zinc using Alchemist Table with a Wooden Mallet.
+   Grind Zinc Ingot into Powdered Zinc using Alchemist Table with a Wooden Mallet.
+-- Powdered Zinc Ore ----- 
+   Grind Zinc Ore into Powdered Zinc Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Zinc Ore into 3 Big chunk of Zinc Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Zinc Ore into 3 Small chunk of Zinc Ore using Alchemist Table with a Wooden Mallet.
+   Grind 9 Small chunk of Zinc Ore into Powdered Zinc Ore using Alchemist Table with a Wooden Mallet.
+-- Salt spirit ----- 
+   Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol.
+   Corrode Mix of salt and vitriol into 2 Salt spirits using Crucible with a Glass Stirrer.
+-- Shards of Diamond Crystal ----- 
+   Grind Diamond Crystal into Shards of Diamond Crystal using Alchemist Table with a Wooden Mallet.
+-- Shards of Emerald Crystal ----- 
+   Grind Emerald Crystal into Shards of Emerald Crystal using Alchemist Table with a Wooden Mallet.
+-- Shards of Ruby Crystal ----- 
+   Grind Ruby Crystal into Shards of Ruby Crystal using Alchemist Table with a Wooden Mallet.
+-- Shards of Sapphire Crystal ----- 
+   Grind Sapphire Crystal into Shards of Sapphire Crystal using Alchemist Table with a Wooden Mallet.
+-- Shiny Brasser Steak ----- 
+   Hammer Copper Ore into 3 Big chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Copper Ore into 3 Small chunk of Copper Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Zinc Ore into 3 Big chunk of Zinc Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Zinc Ore into 3 Small chunk of Zinc Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine 2 Small chunk of Copper Ore, Small chunk of Zinc Ore, 3 Small chunk of Coal, Silver Solution, into 0 Shiny Brasser Steak Mix.
+   Cook Shiny Brasser Steak Mix into Shiny Brasser Steak using Alchemist Stove with a Iron Stirrer.
+-- Silver Ore Solution ----- 
+   Combine Powdered Silver Ore, 2 Oil of Vitriol, into 0 Mix of Silver ore and vitriol.
+   Corrode Mix of Silver ore and vitriol into 2 Silver Ore Solutions using Crucible with a Glass Stirrer.
+-- Silver Solution ----- 
+   Combine Powdered Silver, 2 Oil of Vitriol, into 0 Mix of Silver and vitriol.
+   Corrode Mix of Silver and vitriol into 2 Silver Solutions using Crucible with a Glass Stirrer.
+-- Small chunk of Gold Ore ----- 
+   Hammer Gold Ore into 3 Big chunk of Gold Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Gold Ore into 3 Small chunk of Gold Ore using Alchemist Table with a Wooden Mallet.
+-- Smith Bronzed Brasser Steak ----- 
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine Powdered Iron, Powdered Zinc, Powdered Copper, 3 Small chunk of Coal, into 0 Smith Bronzed Brasser Steak Mix.
+   Cook Smith Bronzed Brasser Steak Mix into 2 Smith Bronzed Brasser Steaks using Alchemist Stove with a Iron Stirrer.
+-- Smith's Soup ----- 
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine Powdered Coal, Iron Ore Solution, 2 Small chunk of Coal, Stibine, into 0 Smith's Soup Mix.
+   Amalgamate Smith's Soup Mix into Smith's Soup using Melting Pot with a Glass Stirrer.
+-- Smith's Steak ----- 
+   Hammer Iron Ore into 3 Big chunk of Iron Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine Big chunk of Iron Ore, 3 Small chunk of Coal, into 0 Smith's Steak Mix.
+   Cook Smith's Steak Mix into Smith's Steak using Alchemist Stove with a Iron Stirrer.
+-- Smith's Steak Shiny ----- 
+   Hammer Iron Ore into 3 Big chunk of Iron Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Coal into 3 Small chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Combine Big chunk of Iron Ore, 3 Small chunk of Coal, Gold Solution, into 0 Smith's Steak Shiny Mix.
+   Cook Smith's Steak Shiny Mix into Smith's Steak Shiny using Alchemist Stove with a Iron Stirrer.
+-- Tin Burger ----- 
+   Hammer Coal Lump into 3 Big chunk of Coal using Alchemist Table with a Wooden Mallet.
+   Hammer Tin Ore into 3 Big chunk of Tin Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Tin Ore into 3 Small chunk of Tin Ore using Alchemist Table with a Wooden Mallet.
+   Combine Big chunk of Coal, 3 Small chunk of Tin Ore, Stibine, into 0 Tin Burger Mix.
+   Cook Tin Burger Mix into Tin Burger using Alchemist Stove with a Iron Stirrer.
+-- Tin Ore Solution ----- 
+   Combine Powdered Tin Ore, 2 Oil of Vitriol, into 0 Mix of Tin ore and vitriol.
+   Corrode Mix of Tin ore and vitriol into 2 Tin Ore Solutions using Crucible with a Glass Stirrer.
+-- Zinc Ore Solution ----- 
+   Combine Powdered Zinc Ore, 2 Oil of Vitriol, into 0 Mix of Zinc ore and vitriol.
+   Corrode Mix of Zinc ore and vitriol into 2 Zinc Ore Solutions using Crucible with a Glass Stirrer.
+-- Zinc Solution ----- 
+   Combine Powdered Zinc, 2 Oil of Vitriol, into 0 Mix of Zinc and vitriol.
+   Corrode Mix of Zinc and vitriol into 2 Zinc Solutions using Crucible with a Glass Stirrer.
+-- Zincer's Dish ----- 
+   Hammer Zinc Ore into 3 Big chunk of Zinc Ore using Alchemist Table with a Wooden Mallet.
+   Hammer Big chunk of Zinc Ore into 3 Small chunk of Zinc Ore using Alchemist Table with a Wooden Mallet.
+   Combine 3 Small chunk of Zinc Ore, Zinc Solution, into 0 Zincer's Dish Mix.
+   Cook Zincer's Dish Mix into Zincer's Dish using Alchemist Stove with a Iron Stirrer.

@@ -1,0 +1,122 @@
+-- Barberry Tea ----- 
+   Combine Cut Barberry Root, Mug of Hot Water, into 0 Barberry Tea Mix.
+   Heat Barberry Tea Mix into Barberry Tea using Pot.
+-- Blue Cohosh Tea ----- 
+   Combine Cut Blue Cohosh Root, Mug of Hot Water, into 0 Blue Cohosh Tea Mix.
+   Heat Blue Cohosh Tea Mix into Blue Cohosh Tea using Pot.
+-- Blue Shan Tea ----- 
+   Combine Cut Blue Shan Flower, Mug of Hot Water, into 0 Blue Shan Tea Mix.
+   Heat Blue Shan Tea Mix into Blue Shan Tea using Pot.
+-- Butchers Broom Tea ----- 
+   Combine Cut Butchers Broom Root, Mug of Hot Water, into 0 Butchers Broom Tea Mix.
+   Heat Butchers Broom Tea Mix into Butchers Broom Tea using Pot.
+-- Charmflower Tea ----- 
+   Combine Cut Charmflower, Mug of Hot Water, into 0 Charmflower Tea Mix.
+   Heat Charmflower Tea Mix into Charmflower Tea using Pot.
+-- Clackerweed Tea ----- 
+   Combine Cut Clackerweed Leaf, Mug of Hot Water, into 0 Clackerweed Tea Mix.
+   Heat Clackerweed Tea Mix into Clackerweed Tea using Pot.
+-- Cut Barberry Root ----- 
+   Cut Barberry Root into Cut Barberry Root using Preparation Table with a Kitchen Knife.
+-- Cut Blue Cohosh Root ----- 
+   Cut Blue Cohosh Root into Cut Blue Cohosh Root using Preparation Table with a Kitchen Knife.
+-- Cut Blue Shan Flower ----- 
+   Cut Blue Shan Flower into Cut Blue Shan Flower using Preparation Table with a Kitchen Knife.
+-- Cut Butchers Broom Root ----- 
+   Cut Butchers Broom Root into Cut Butchers Broom Root using Preparation Table with a Kitchen Knife.
+-- Cut Charmflower ----- 
+   Cut Charmflower into Cut Charmflower using Preparation Table with a Kitchen Knife.
+-- Cut Clackerweed Leaf ----- 
+   Cut Clackerweed Leaf into Cut Clackerweed Leaf using Preparation Table with a Kitchen Knife.
+-- Cut Dandelion Flower ----- 
+   Cut Dandelion Flower into Cut Dandelion Flower using Preparation Table with a Kitchen Knife.
+-- Cut Devils Claw ----- 
+   Cut Devils Claw into Cut Devils Claw using Preparation Table with a Kitchen Knife.
+-- Cut Eyebright ----- 
+   Cut Eyebright into Cut Eyebright using Preparation Table with a Kitchen Knife.
+-- Cut Feverfew ----- 
+   Cut Feverfew into Cut Feverfew using Preparation Table with a Kitchen Knife.
+-- Cut Gobo Root ----- 
+   Cut Gobo Root into Cut Gobo Root using Preparation Table with a Kitchen Knife.
+-- Cut Golden Ivy Leaf ----- 
+   Cut Golden Ivy Leaf into Cut Golden Ivy Leaf using Preparation Table with a Kitchen Knife.
+-- Cut Hops ----- 
+   Cut Hops into Cut Hops using Preparation Table with a Kitchen Knife.
+-- Cut Kingsfoil Leaf ----- 
+   Cut Kingsfoil Leaf into Cut Kingsfoil Leaf using Preparation Table with a Kitchen Knife.
+-- Cut Lavender Flower ----- 
+   Cut Lavender Flower into Cut Lavender Flower using Preparation Table with a Kitchen Knife.
+- Cut Orilliphia ----- 
+   Cut Orilliphia into Cut Orilliphia using Preparation Table with a Kitchen Knife.
+-- Cut Red Mangrove ----- 
+   Cut Red Mangrove Leaf into Cut Red Mangrove using Preparation Table with a Kitchen Knife.
+-- Cut Sinaflar Root ----- 
+   Cut Sinaflar Root into Cut Sinaflar Root using Preparation Table with a Kitchen Knife.
+-- Cut Snowbud ----- 
+   Cut Snowbud into Cut Snowbud using Preparation Table with a Kitchen Knife.
+-- Cut Tinga Leaves ----- 
+   Cut Tinga Leaves into Cut Tinga Leaves using Preparation Table with a Kitchen Knife.
+-- Cut Wyn Reed ----- 
+   Cut Wyn Reed into Cut Wyn Reed using Preparation Table with a Kitchen Knife.
+-- Cut Yarrow ----- 
+   Cut Yarrow into Cut Yarrow using Preparation Table with a Kitchen Knife.
+-- Dandelion Tea ----- 
+   Combine Cut Dandelion Flower, Mug of Hot Water, into 0 Dandelion Tea Mix.
+   Heat Dandelion Tea Mix into Dandelion Tea using Pot.
+-- Devils Claw Tea ----- 
+   Combine Cut Devils Claw, Mug of Hot Water, into 0 Devils Claw Tea Mix.
+   Heat Devils Claw Tea Mix into Devils Claw Tea using Pot.
+-- Eyebright Tea ----- 
+   Combine Cut Eyebright, Mug of Hot Water, into 0 Eyebright Tea Mix.
+   Heat Eyebright Tea Mix into Eyebright Tea using Pot.
+-- Feverfew Tea ----- 
+   Combine Cut Feverfew, Mug of Hot Water, into 0 Feverfew Tea Mix.
+   Heat Feverfew Tea Mix into Feverfew Tea using Pot
+-- Gobo Tea ----- 
+   Combine Cut Gobo Root, Mug of Hot Water, into 0 Gobo Tea Mix.
+   Heat Gobo Tea Mix into Gobo Tea using Pot.
+-- Golden Ivy Tea ----- 
+   Combine Cut Golden Ivy Leaf, Mug of Hot Water, into 0 Golden Ivy Tea Mix.
+   Heat Golden Ivy Tea Mix into Golden Ivy Tea using Pot.
+-- Hop Tea ----- 
+   Combine Cut Hops, Mug of Hot Water, into 0 Hop Tea Mix.
+   Heat Hop Tea Mix into Hop Tea using Pot.
+-- Juiceberry Juice ----- 
+   Mash Juiceberry Fruit into Juiceberry Pulp using Preparation Table with a Masher.
+   Strain Juiceberry Pulp into Juiceberry Juice using Pot with a Strainer.
+-- Kingsfoil Tea ----- 
+   Combine Cut Kingsfoil Leaf, Mug of Hot Water, into 0 Kingsfoil Tea Mix.
+   Heat Kingsfoil Tea Mix into Kingsfoil Tea using Pot.
+-- Lavender Tea ----- 
+   Combine Cut Lavender Flower, Mug of Hot Water, into 0 Lavender Tea Mix.
+   Heat Lavender Tea Mix into Lavender Tea using Pot.
+-- Mug of Hot Water ----- 
+   Heat 2 Water Pouch into Mug of Hot Water using Pot.
+   Heat Water Filled Bucket into 14 Mug of Hot Waters using Pot.
+-- Orilliphia Tea ----- 
+   Combine Cut Orilliphia, Mug of Hot Water, into 0 Orilliphia Tea Mix.
+   Heat Orilliphia Tea Mix into Orilliphia Tea using Pot.
+-- Red Mangrove Tea ----- 
+   Combine Cut Red Mangrove, Mug of Hot Water, into 0 Red Mangrove Tea Mix.
+   Heat Red Mangrove Tea Mix into Red Mangrove Tea using Pot.
+-- Sinaflar Tea ----- 
+   Combine Cut Sinaflar Root, Mug of Hot Water, into 0 Sinaflar Tea Mix.
+   Heat Sinaflar Tea Mix into Sinaflar Tea using Pot.
+-- Snowbud Tea ----- 
+   Combine Cut Snowbud, Mug of Hot Water, into 0 Snowbud Tea Mix.
+   Heat Snowbud Tea Mix into Snowbud Tea using Pot.
+-- Threestem Juice ----- 
+   Mash Threestem Fruit into Threestem Pulp using Preparation Table with a Masher.
+   Strain Threestem Pulp into Threestem Juice using Pot with a Strainer.
+-- Tinga Tea ----- 
+   Combine 2 Cut Tinga Leaves, Mug of Hot Water, into 0 Tinga Tea Mix.
+   Heat Tinga Tea Mix into Tinga Tea using Pot.
+-- Wragberry Juice ----- 
+   Mash Wragberry into Wragberry Pulp using Preparation Table with a Masher.
+   Strain Wragberry Pulp into Wragberry Juice using Pot with a Strainer.
+-- Wyn Tea ----- 
+   Combine Cut Wyn Reed, Mug of Hot Water, into 0 Wyn Tea Mix.
+   Heat Wyn Tea Mix into Wyn Tea using Pot.
+-- Yarrow Tea ----- 
+   Combine Cut Yarrow, Mug of Hot Water, into 0 Yarrow Tea Mix.
+   Heat Yarrow Tea Mix into Yarrow Tea using Pot.

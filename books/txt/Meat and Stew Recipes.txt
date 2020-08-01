@@ -1,0 +1,202 @@
+-- Baked Kikiri with Gravy ----- 
+   Combine Baked kikiri, Simmering vegetable gravy, into 0 Baked Kikiri with Gravy mix.
+   Heat Baked Kikiri with Gravy mix into Baked Kikiri with Gravy using Pot.
+-- Baked kikiri ----- 
+   Combine Kikiri Meat, Dash of Jomed's Seasoning, Pat of Butter, into 0 Baking kikiri.
+   Bake Baking kikiri into Baked kikiri using Oven.
+-- Boiled Wiggly Feeler ----- 
+   Combine 2 Cider Mug, Trepor Wiggly Feeler, into 0 Simmering Wiggly Feeler.
+   Heat Simmering Wiggly Feeler into Boiling Wiggly Feeler using Pot.
+   Heat Boiling Wiggly Feeler into Boiled Wiggly Feeler using Pot.
+-- Boiling Gruel ----- 
+   Combine 2 Pile of Cubed Clacker Meat, 4 Sliced Lake Mushroom, Pot of Boiling Water, into 0 Simmering Gruel.
+   Heat Simmering Gruel into 4 Boiling Gruel using Pot.
+-- Boiling Salt Water ----- 
+   Combine Water Filled Bucket, 4 Pinch of Salt, into 0 Salt Water.
+   Heat Salt Water into Hot Salt Water using Pot.
+   Heat Hot Salt Water into Boiling Salt Water using Pot.
+-- Cheesy Succulent Stew ----- 
+   Combine 4 Succulent Stew, Crumbled Cheese, into 4 Cheesy Stew Mix.
+   Mix Cheesy Stew Mix into Cheesy Succulent Stew using Wooden Bowl with a Wooden Spoon.
+-- Clacker Gruel ----- 
+   Cut Bread into 5 Slice of Bread using Preparation Table with a Kitchen Knife.
+   Cut Slice of Bread into 5 Bread Piece using Preparation Table with a Kitchen Knife.
+   Bake Bread Piece into Crunchy Bread Piece using Oven.
+   Combine Boiling Gruel, 10 Crunchy Bread Piece, Crumbled Cheese, into 0 Separated Clacker Gruel.
+   Mix Separated Clacker Gruel into 4 Clacker Gruel using Wooden Bowl with a Wooden Spoon.
+-- Cooked Diced Meat ----- 
+   Cut Meat into Pile of Meat Chunk using Preparation Table with a Kitchen Knife.
+   Cut Pile of Meat Chunk into Pile of Diced Meat using Preparation Table with a Kitchen Knife.
+   Heat Pile of Diced Meat into Cooked Diced Meat using Pot.
+-- Creamy Mashed Kartoffel ----- 
+   Combine 2 Scoop of Milk, 4 Pat of Butter, 2 Mashed Kartoffel, into 0 Kartoffel-Butter Mix.
+   Blend Kartoffel-Butter Mix into 4 Creamy Mashed Kartoffel using Wooden Bowl with a Mixer.
+-- Crumbled Cheese ----- 
+   Crumble Cheese into 5 Crumbled Cheese using Preparation Table.
+-- Cubed Kartoffel ----- 
+   Cut Kartoffel into Peeled Kartoffel using Preparation Table with a Kitchen Knife.
+   Cut Peeled Kartoffel into Cubed Kartoffel using Preparation Table with a Kitchen Knife.
+-- Dash of Ground Corium Seed ----- 
+   Measure Jar of Corium Seed into 50 Dash of Ground Corium Seed using Preparation Table with a Scoop.
+-- Dash of Ground Jarana Root ----- 
+   Measure Ground Jarana Root into 25 Dash of Ground Jarana Root using Preparation Table with a Scoop.
+-- Dash of Ground Wyn Reed ----- 
+   Cut Wyn Reed into Ground Wyn Reed using Preparation Table with a Kitchen Knife.
+   Measure Ground Wyn Reed into 30 Dash of Ground Wyn Reed using Preparation Table with a Scoop.
+-- Dash of Hearty Flat Pie Seasoning ----- 
+   Cut Bogo Pepper into Sliced Bogo Pepper using Preparation Table with a Kitchen Knife.
+   Combine 3 Sliced Bogo Pepper, 3 Dash of Saffron, 3 Pinch of Salt, 3 Pinch of Orilliphia, into 0 Hearty Flat Pie Seasoning.
+   Measure Hearty Flat Pie Seasoning into 30 Dash of Hearty Flat Pie Seasoning using Preparation Table with a Scoop.
+-- Dash of Jomed's Seasoning ----- 
+   Measure Jomed's Seasoning into 25 Dash of Jomed's Seasoning using Preparation Table with a Scoop.
+-- Dash of Saffron ----- 
+   Measure Saffron into 25 Dash of Saffron using Preparation Table with a Scoop.
+-- Grilled Kikiri Meat Chunk ----- 
+   Cut Kikiri Meat into Pile of Kikiri Meat Chunk using Preparation Table with a Kitchen Knife.
+   Grill Pile of Kikiri Meat Chunk into Grilled Kikiri Meat Chunk using Grill.
+-- Hearty Bamboo Rice ----- 
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine 2 Water Pouch, Bamboo Rice, into 0 Cooking Bamboo Rice.
+   Heat Cooking Bamboo Rice into Cooked Bamboo Rice using Pot.
+   Measure Cooked Bamboo Rice into 4 Hearty Bamboo Rice using Preparation Table with a Scoop.
+-- Hearty Flat Pie With Sauce ----- 
+   Combine 2 Scoop of Hearty Flat Pie Sauce, Rolled Dough, into 0 Spreading Hearty Flat Pie.
+   Spread Spreading Hearty Flat Pie into Hearty Flat Pie With Sauce using Preparation Table with a Spreader.
+-- Hearty Irifon Rice ----- 
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine 2 Water Pouch, Irifon Rice, into 0 Cooking Irifon Rice.
+   Heat Cooking Irifon Rice into Cooked Irifon Rice using Pot.
+   Measure Cooked Irifon Rice into 4 Hearty Irifon Rice using Preparation Table with a Scoop.
+-- Kikiri Soup ----- 
+   Cut Pungent Tuber into Sliced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Cut Kikiri Meat into Pile of Kikiri Meat Chunk using Preparation Table with a Kitchen Knife.
+   Combine Boiling Salt Water, 2 Sliced Carrot, 2 Sliced Pungent Tuber, 2 Dash of Ground Wyn Reed, Pile of Kikiri Meat Chunk, into 0 Uncooked Kikiri Soup.
+   Heat Uncooked Kikiri Soup into Kikiri Soup using Pot.
+-- Mashed Fire Fruit ----- 
+   Mash Fire Fruit into Mashed Fire Fruit using Preparation Table with a Masher.
+-- Mashed Kartoffel ----- 
+   Combine Pot of Boiling Water, 4 Cubed Kartoffel, into 0 Boiling Kartoffel.
+   Heat Boiling Kartoffel into 6 Boiled Kartoffel using Pot.
+   Mash Boiled Kartoffel into Mashed Kartoffel using Preparation Table with a Masher.
+-- Meat And Egg Omelette ----- 
+   Combine 4 Cooked Diced Meat, Trepor Egg Sac, into 4 Runny Trepor Omelette.
+   Panfry Runny Trepor Omelette into Meat And Egg Omelette using Iron Skillet.
+-- Minced Pungent Tuber ----- 
+   Cut Pungent Tuber into Sliced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Cut Sliced Pungent Tuber into Diced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Cut Diced Pungent Tuber into Minced Pungent Tuber using Preparation Table with a Kitchen Knife.
+-- Mushroom Seasoning ----- 
+   Combine 2 Dash of Jomed's Seasoning, 4 Sliced Night Mushroom, Pinch of Salt, Dash of Ground Corium Seed, into 0 Unmixed Mushroom Seasoning.
+   Mix Unmixed Mushroom Seasoning into Uncooked Mushroom Seasoning using Wooden Bowl with a Wooden Spoon.
+   Heat Uncooked Mushroom Seasoning into Mushroom Seasoning using Pot.
+-- Noodle ----- 
+   Combine Pot of Boiling Water, Uncooked Noodle, into 0 Cooking Noodle.
+   Heat Cooking Noodle into Noodle using Pot.
+-- Pat of Butter ----- 
+   Measure Lump of Butter into 25 Pat of Butter using Preparation Table with a Scoop.
+-- Pile of Bread Crumb ----- 
+   Cut Bread into 5 Slice of Bread using Preparation Table with a Kitchen Knife.
+   Cut Slice of Bread into 5 Bread Piece using Preparation Table with a Kitchen Knife.
+   Bake Bread Piece into Crunchy Bread Piece using Oven.
+   Crumble Crunchy Bread Piece into Pile of Bread Crumb using Preparation Table.
+-- Pile of Cubed Clacker Meat ----- 
+   Cut Clacker Meat into 2 Pile of Cubed Clacker Meat using Preparation Table with a Kitchen Knife.
+-- Pile of Grilled Meat Cube ----- 
+   Grill Meat into Grilled Meat using Grill.
+   Cut Grilled Meat into Pile of Grilled Meat Chunk using Preparation Table with a Kitchen Knife.
+   Cut Pile of Grilled Meat Chunk into Pile of Grilled Meat Cube using Preparation Table with a Kitchen Knife.
+-- Pinch of Orilliphia ----- 
+   Measure Orilliphia into 30 Pinch of Orilliphia using Preparation Table with a Scoop.
+-- Pinch of Salt ----- 
+   Measure Bag of Salt into 50 Pinch of Salt using Preparation Table with a Scoop.
+-- Pot Roast ----- 
+   Cut Meat into Pile of Meat Chunk using Preparation Table with a Kitchen Knife.
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine 3 Pile of Meat Chunk, 14 Water Pouch, 2 Sliced Carrot, Cubed Kartoffel, Minced Pungent Tuber, into 0 Uncooked Pot Roast.
+   Roast Uncooked Pot Roast into 10 Pot Roast using Oven.
+-- Pot of Boiling Water ----- 
+   Heat Water Filled Bucket into Full Pot of Water using Pot.
+   Heat Full Pot of Water into Pot of Hot Water using Pot.
+   Heat Pot of Hot Water into Pot of Simmering Water using Pot.
+   Heat Pot of Simmering Water into Pot of Boiling Water using Pot.
+-- Savory Kikiri Stew ----- 
+   Combine 2 Mushroom Seasoning, Grilled Kikiri Meat Chunk, Dash of Saffron, into 0 Unmixed Kikiri Seasoning.
+   Mix Unmixed Kikiri Seasoning into Mixed Kikiri Seasoning using Wooden Bowl with a Wooden Spoon.
+   Heat Mixed Kikiri Seasoning into Savory Kikiri Stew using Pot.
+-- Scoop of Flour ----- 
+   Measure Flour into 5 Scoop of Flour using Preparation Table with a Scoop.
+-- Scoop of Hearty Flat Pie Sauce ----- 
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine 6 Water Pouch, 12 Dash of Hearty Flat Pie Seasoning, 6 Mashed Fire Fruits, into 0 Hearty Flat Pie Sauce Mix.
+   Heat Hearty Flat Pie Sauce Mix into Hearty Flat Pie Sauce using Pot.
+   Measure Hearty Flat Pie Sauce into 10 Scoop of Hearty Flat Pie Sauce using Preparation Table with a Scoop.
+-- Scoop of Milk ----- 
+   Measure Milk into 4 Scoop of Milk using Preparation Table with a Scoop.
+-- Scrambled Egg ----- 
+   Combine 4 Egg, Scoop of Milk, into 0 Egg Slops.
+   Mix Egg Slop into Egg Mixture using Wooden Bowl with a Wooden Spoon.
+   Panfry Egg Mixture into 4 Scrambled Egg using Iron Skillet.
+-- Seasoned Bamboo Rice ----- 
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine 8 Water Pouch, Bamboo Rice, 2 Pinch of Orilliphia, into 0 Seasoned Bamboo Rice Mix.
+   Heat Seasoned Bamboo Rice Mix into Cooking Seasoned Bamboo Rice using Pot.
+   Heat Cooking Seasoned Bamboo Rice into Cooked Seasoned Bamboo Rice using Pot.
+   Measure Cooked Seasoned Bamboo Rice into 4 Seasoned Bamboo Rice using Preparation Table with a Scoop.
+-- Seasoned Irifon Rice ----- 
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine 8 Water Pouch, Irifon Rice, 2 Pinch of Orilliphia, into 0 Seasoned Irifon Rice Mix.
+   Heat Seasoned Irifon Rice Mix into Cooking Seasoned Irifon Rice using Pot.
+   Heat Cooking Seasoned Irifon Rice into Cooked Seasoned Irifon Rice using Pot.
+   Measure Cooked Seasoned Irifon Rice into 4 Seasoned Irifon Rice using Preparation Table with a Scoop.
+-- Seasoned Stew Meat ----- 
+   Cut Meat into Pile of Meat Chunk using Preparation Table with a Kitchen Knife.
+   Combine Pile of Meat Chunk, 2 Pinch of Salt, 3 Dash of Jomed's Seasoning, into 0 Meat Mix.
+   Mix Meat Mix into Seasoned Meat using Wooden Bowl with a Wooden Spoon.
+   Cut Seasoned Meat into Seasoned Stew Meat using Preparation Table with a Kitchen Knife.
+-- Simmered Clacker Meat ----- 
+   Combine Pile of Cubed Clacker Meat, Pile of Grilled Meat Cube, Boiling Salt Water, 2 Dash of Ground Jarana Root, 2 Sliced Carrot, 2 Sliced Lake Mushroom, into 0 Simmering Clacker Meat.
+   Heat Simmering Clacker Meat into Simmered Clacker Meat using Pot.
+-- Simmering vegetable gravy ----- 
+   Combine Sliced Lake Mushroom, Thick Gravy, Sliced Carrot, into 0 Vegetable Gravy Mix.
+   Heat Vegetable Gravy Mix into Simmering vegetable gravy using Pot.
+-- Slice of Hearty Flat Pie ----- 
+   Combine Hearty Flat Pie With Sauce, Vegetable Mix, 2 Crumbled Cheese, Pile of Grilled Meat Cube, into 0 Unbaked Hearty Flat Pie.
+   Bake Unbaked Hearty Flat Pie into Hearty Flat Pie using Oven.
+   Cut Hearty Flat Pie into 8 Slice of Hearty Flat Pie using Preparation Table with a Kitchen Knife.
+-- Sliced Carrot ----- 
+   Cut Carrot into Sliced Carrot using Preparation Table with a Kitchen Knife.
+-- Sliced Lake Mushroom ----- 
+   Cut Lake Mushroom into Sliced Lake Mushroom using Preparation Table with a Kitchen Knife.
+-- Sliced Night Mushroom ----- 
+   Cut Night Mushroom into Sliced Night Mushroom using Preparation Table with a Kitchen Knife.
+-- Steamed Clacker Leg ----- 
+   Combine Boiling Salt Water, 3 Clacker Leg, into 0 Steamy Clacker Leg.
+   Heat Steamy Clacker Leg into 3 Steamed Clacker Leg using Pot.
+-- Stew Base ----- 
+   Combine Seasoned Stew Meat, Pot of Boiling Water, into 0 Simmering Stew.
+   Heat Simmering Stew into Stew Base using Pot.
+-- Succulent Stew ----- 
+   Combine 16 Vegetable Meat Stew, Noodle, 2 Scoop of Milk, into 0 Savory Noodle Stew Mix.
+   Heat Savory Noodle Stew Mix into 16 Succulent Stew using Pot.
+-- Thick Gravy ----- 
+   Measure Lump of Lard into 25 Scoop of Lard using Preparation Table with a Scoop.
+   Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+   Combine Scoop of Lard, Scoop of Flour, 2 Water Pouch, into 0 Gravy Bases.
+   Heat Gravy Base into Thick Gravy using Pot.
+-- Uncooked Noodle ----- 
+   Cut Rolled Dough into Uncooked Noodle using Preparation Table with a Kitchen Knife.
+-- Vegetable Meat Stew ----- 
+   Cut Pungent Tuber into Sliced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Cut Sliced Pungent Tuber into Diced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Cut Bogo Pepper into Sliced Bogo Pepper using Preparation Table with a Kitchen Knife.
+   Combine Stew Base, 2 Cubed Kartoffel, 2 Sliced Carrot, 2 Diced Pungent Tuber, Sliced Bogo Pepper, into 0 Savory Stew Mix.
+   Heat Savory Stew Mix into 16 Vegetable Meat Stew using Pot.
+-- Vegetable Mix ----- 
+   Cut Pungent Tuber into Sliced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Cut Sliced Pungent Tuber into Diced Pungent Tuber using Preparation Table with a Kitchen Knife.
+   Combine 2 Sliced Carrot, 3 Diced Pungent Tuber, 2 Sliced Night Mushroom, into 0 Assorted Vegetable.
+   Mix Assorted Vegetable into Vegetable Mix using Wooden Bowl with a Wooden Spoon.
+-- Wiggly Roll ----- 
+   Combine Pile of Bread Crumb, Ball of Dough, 2 Boiled Wiggly Feeler, into 0 Wrapping Wiggly Roll.
+   Wrap Wrapping Wiggly Roll into 10 Raw Wiggly Feeler Roll using Preparation Table.
+   Bake Raw Wiggly Feeler Roll into Wiggly Roll using Oven.

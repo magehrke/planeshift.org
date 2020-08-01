@@ -1,0 +1,35 @@
+-- Large Hide ----- 
+   Scrape Maulbernaut Fur into 2 Large Hide using Leatherworking Table with a Hide Scraper.
+   Scrape Tefusang Skin into Large Hide using Leatherworking Table with a Hide Scraper.
+   Scrape Ulbernaut Fur into Large Hide using Leatherworking Table with a Hide Scraper.
+   Scrape Vilenaut Fur into 2 Large Hide using Leatherworking Table with a Hide Scraper.
+-- Large Leather Armor Piece ----- 
+   Recycle Leather Torso Armor into Large Leather Armor Piece using Leatherworking Table with a Leather Cutter.
+-- Leather Armor Patch ----- 
+   Recycle Leather Gloves into Leather Armor Patch using Leatherworking Table with a Leather Cutter.
+   Recycle Leather Cap into Leather Armor Patch using Leatherworking Table with a Leather Cutter.
+-- Leather String ----- 
+   Combine Medium Hide, 3 Tanning Crystal Acid, into 0 Medium Tanning Hide.
+   Tan Medium Tanning Hide into Medium Piece Of Leather using Water Barrel.
+   Combine Large Hide, 6 Tanning Crystal Acid, into 0 Large Tanning Hide.
+   Tan Large Tanning Hide into Large Piece Of Leather using Water Barrel.
+   Cut Large Piece Of Leather into 2 Medium Piece Of Leathers using Leatherworking Table with a Leather Cutter.
+   Cut Medium Piece Of Leather into 3 Small Piece Of Leathers using Leatherworking Table with a Leather Cutter.
+   Recycle Leather Arms Armor into Small Piece Of Leather using Leatherworking Table with a Leather Cutter.
+   Combine Small Hide, Tanning Crystal Acid, into 0 Small Tanning Hide.
+   Tan Small Tanning Hide into Small Piece Of Leather using Water Barrel.
+   Cut Small Piece Of Leather into 3 Leather Patch using Leatherworking Table with a Leather Cutter.
+   Cut Leather Patch into 3 Leather String using Leatherworking Table with a Leather Cutter.
+-- Medium Hide ----- 
+   Scrape Trepor Warrior Skin into Medium Hide using Leatherworking Table with a Hide Scraper.
+   Scrape Riverling Skin into Medium Hide using Leatherworking Table with a Hide Scraper.
+   Scrape Trepor Queen Skin into Medium Hide using Leatherworking Table with a Hide Scraper.
+   Scrape Tefusangling Skin into Medium Hide using Leatherworking Table with a Hide Scraper.
+   Scrape Velnishi Skin into Medium Hide using Leatherworking Table with a Hide Scraper.
+-- Medium Leather Armor Piece ----- 
+   Recycle Leather Pants into Medium Leather Armor Piece using Leatherworking Table with a Leather Cutter.
+-- Small Hide ----- 
+   Scrape Rat Hide into Small Hide using Leatherworking Table with a Hide Scraper.
+   Scrape Diseased Rat Hide into Small Hide using Leatherworking Table with a Hide Scraper.
+-- Small Leather Armor Piece ----- 
+   Recycle Leather Boots into Small Leather Armor Piece using Leatherworking Table with a Leather Cutter.
