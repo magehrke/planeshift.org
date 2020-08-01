@@ -104,7 +104,7 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			}
 			$ing .= "$amount ";
 			$ing .= $name;
-			$ing .= " ($type)";
+//			$ing .= " ($type)";
 			$count++;
 		}
 		$r_name = $r['name'];
@@ -115,9 +115,8 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			print "<td>".$r['tool']."</td>\n";
 			print "<td>".$r['result']."</td>\n";
 			print "<td>";
-				//print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name</a>";
-				print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name ($r_type)</a>";
-				// print " ($id)\n";
+				print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name</a>";
+				//print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name ($r_type)</a>";
 			print "</td>\n";
 			print "<td>".$r['skill']."</td>\n";
 			print "<td>".$r['level']."</td>\n";
@@ -315,8 +314,8 @@ function show_recipes ( $pval )
 			<td>
 				<?php
 				$name = $p['name'];
-				//href ( $name, $url, "?recipe=$name" );
-				href ( $name." (".$p['type'].")", $url, "?recipe=$name" );
+				href ( $name, $url, "?recipe=$name" );
+				//href ( $name." (".$p['type'].")", $url, "?recipe=$name" );
 				?>
 			</td>
 			<td><?php print $p['level']; ?></td>
