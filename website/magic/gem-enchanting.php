@@ -114,7 +114,7 @@
                                 <li>Go to an enchanter, place 1 crystal inside, take a glyph into your right hand and press 'use container'.</li>
                                 <li>The higher your level, the shorter you need for enchanting.</li>
                                 <li>The higher your level, the more crystals you can use.</li>
-                                <li>Above level 0, ruby; above 50, emerald; above 100, sapphire; above 150, diamonds.</li>
+                                <li>Above level 20-30 (depending on the way), ruby; above 50, emerald; above 100, sapphire; above 150, diamonds.</li>
                                 <li>The higher the level of the crystal, the longer you need for enchanting this special crystal.</li>
                                 <li>1 second enchanting gives you 1 practice point.</li>
                                 <li>Enchanting crystals, which are already enchanted, won't get you practice points, except if they turn into dust.</li>

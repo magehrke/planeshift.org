@@ -7,7 +7,7 @@ Jewelry Making I 200 Assemble Silver Necklace Kit into Unpolished Silver Necklac
 Jewelry Making I 200 Cast Molten Gold into 5 Gold Jewelry Ingot using Stock Casting.
 Jewelry Making I 200 Cast Molten Platinum into 5 Platinum Jewelry Ingot using Stock Casting.
 Jewelry Making I 200 Cast Molten Silver into 5 Silver Jewelry Ingot using Stock Casting.
-Jewelry Making I 200 Cast Small Molten Gold into Gold Jewelry Ingot using Stock Casting.
+Jewelry Making O 200 Cast Small Molten Gold into Gold Jewelry Ingot using Stock Casting.
 Jewelry Making I 200 Cast Small Molten Platinum into Platinum Jewelry Ingot using Stock Casting.
 Jewelry Making I 200 Cast Small Molten Silver into Silver Jewelry Ingot using Stock Casting.
 Jewelry Making I 200 Combine 2 Half Gold Bracer, 2 Leather String, into 0 Gold Bracer Kit using Smith Table (combine).
@@ -79,9 +79,9 @@ Jewelry Making P 200 Polish Unpolished Silver Ruby Ring into Silver Ruby Ring us
 Jewelry Making P 200 Polish Unpolished Silver Sapphire Bracer into Silver Sapphire Bracer using Smith Table with a Kormi Wool.
 Jewelry Making P 200 Polish Unpolished Silver Sapphire Necklace into Silver Sapphire Necklace using Smith Table with a Kormi Wool.
 Jewelry Making P 200 Polish Unpolished Silver Sapphire Ring into Silver Sapphire Ring using Smith Table with a Kormi Wool.
-Jewelry Making I 200 Quench Heated Gold Jewelry Ingot into Gold Jewelry Ingot using Quench Tank.
-Jewelry Making I 200 Quench Heated Platinum Jewelry Ingot into Platinum Jewelry Ingot using Quench Tank.
-Jewelry Making I 200 Quench Heated Silver Jewelry Ingot into Silver Jewelry Ingot using Quench Tank.
+Jewelry Making O 200 Quench Heated Gold Jewelry Ingot into Gold Jewelry Ingot using Quench Tank.
+Jewelry Making O 200 Quench Heated Platinum Jewelry Ingot into Platinum Jewelry Ingot using Quench Tank.
+Jewelry Making O 200 Quench Heated Silver Jewelry Ingot into Silver Jewelry Ingot using Quench Tank.
 Jewelry Making I 200 Set Gold Gem Bracer Kit into Unpolished Gold Diamond Bracer using Smith Table with a Enchanted Diamond.
 Jewelry Making I 200 Set Gold Gem Bracer Kit into Unpolished Gold Emerald Bracer using Smith Table with a Enchanted Emerald.
 Jewelry Making I 200 Set Gold Gem Bracer Kit into Unpolished Gold Ruby Bracer using Smith Table with a Enchanted Ruby.

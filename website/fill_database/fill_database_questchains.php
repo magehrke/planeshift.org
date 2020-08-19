@@ -57,6 +57,25 @@
 		// 		'Winch Access Dishonest', 9, 'Thorian&apos;s Shield', 'Thorian Gronk', '2018-02-21',
 		//		'Winch Access Dishonest', 10, 'The Gronk Merchant Syndicate', 'Thorian Gronk', '2018-02-21',
 		//		'Winch Access Dishonest', 11, 'Use Mercantile Access Paper', 'Percival Hawthorne', '2018-02-21'
+		'Winch Access Guard', 1, 'Remant&apos;s Gauntlets', 'Remant Tovere', '', '2019-06-17',
+		'Winch Access Guard', 2, 'Remant&apos;s Sword', 'Remant Tovere', '', '2019-06-17',
+		'Winch Access Guard', 3, 'Helping the Guards', 'Jefecra Harcrit', '', '2019-06-17',
+		'Winch Access Guard', 4, 'Moren Needs New Boots', 'Moren Findel', '', '2019-06-17',
+		'Winch Access Guard', 5, 'Bhurral Watches for Trouble', 'Orchibaly Gurpleferd', '', '2019-06-17',
+		'Winch Access Guard', 6, 'Blunted Swords and Hurt Feelings', 'Bhurral Varsheen', '', '2019-06-17',
+		'Winch Access Guard', 7, 'Pinayet Has a Dented Shield', 'Pinayet Ullavin', '', '2019-06-17',
+		'Winch Access Guard', 8, 'Sending a Letter Home', 'Pinayet Ullavin', '', '2019-06-17',
+		'Winch Access Guard', 9, 'Pinayet Misses His Friend', 'Brado', '', '2019-06-17',
+		'Winch Access Guard', 10, 'Flowers for Mirra', 'Trankin Quartzforger', '', '2019-06-17',
+		'Winch Access Guard', 11, 'Jarop&apos;s Gem', 'Jarop Saven', '', '2019-06-17',
+		'Winch Access Guard', 12, 'Davikel&apos;s Request', 'Davikel Iramok', '', '2019-06-17',
+		'Winch Access Guard', 13, 'Amidison&apos;s Command', 'Amidison Stronghand', '', '2019-06-17',
+		'Winch Access Guard', 14, 'Aerayau Strongwill&apos;s Epic Journey', 'Aerayau Strongwill', '', '2019-06-17',
+		'Winch Access Guard', 15, 'Interview Sunshine Squadron Applicants', 'Rylour Awnnys', '', '2019-06-17',
+		'Winch Access Guard', 16, 'Zhaomal Fears Raithen&apos;s Spell', 'Zhaomal Shehan', '', '2019-06-17',
+		'Winch Access Guard', 17, 'Sierann is waiting', 'Sierann', '', '2019-06-17',
+		'Winch Access Guard', 18, 'Dark Circle Hunt', 'Raithen', '', '2019-06-17',
+		'Winch Access Guard', 19, 'Dangerous Winds', 'Raithen', '', '2019-06-17',
 
 		// Unlock the Pterosaur at the eagle fortress - From Haviland
 		'Unlock Pterosaur', 1, 'Remant&apos;s Gauntlets', 'Remant Tovere', '', '2019-06-17',
@@ -66,6 +85,21 @@
 		'Unlock Pterosaur', 5, 'Davikel&apos;s Request', 'Davikel Iramok', '', '2019-06-17',
 		'Unlock Pterosaur', 6, 'Amidison&apos;s Command', 'Amidison Stronghand', '', '2019-06-17',
 		'Unlock Pterosaur', 7, 'The Arrivals', 'Raithen', '', '2019-06-17',
+
+		// Entering the Black Flame - From Haviland
+		'Black Flame', 1, 'Dagger for Jirris', 'Jirris Athano', '', '2019-06-17',
+		'Black Flame', 2, 'Jolik&apos;s Letter', 'Jolik Huevan', '', '2019-06-17',
+		'Black Flame', 3, 'Bead of Sanity', 'Fordanot Helsun', '', '2019-06-17',
+		'Black Flame', 4, 'Finra&apos;s Feast', 'Finra Neticlo', '', '2019-06-17',
+		'Black Flame', 5, 'Finra&apos;s Gift', 'Finra Neticlo', '', '2019-06-17',
+		'Black Flame', 6, 'New cap for Musanulos', 'Musanulos Terfanis', '', '2019-06-17',
+		'Black Flame', 7, 'Thirsty Serana', 'Serana Tuvi', '', '2019-06-17',
+		'Black Flame', 8, 'Coveted Traditions', 'Relliom', '', '2019-06-17',
+		'Black Flame', 9, 'Best Judgment', 'Relliom', '', '2019-06-17',
+		'Black Flame', 10, 'A Tribute of Circles', 'Fholen Medraa', '', '2019-06-17',
+		'Black Flame', 11, 'An Eager Clacker', 'Sysial Shillor', '', '2019-06-17',
+		'Black Flame', 12, 'Relliom&apos;s Commodities', 'Relliom', '', '2019-06-17',
+		'Black Flame', 13, 'To Hear a Whisper', 'Relliom', '', '2019-06-17',
 
 		// Dishonest Way - From Kohinor (checked with Dev (Venalan) it is indeed the shortest way!)
 		'Winch Access Dishonest', 1, 'Introduction to the Merchants', 'Boralis Voladrand', '', '2018-02-21',

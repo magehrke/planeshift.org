@@ -2779,7 +2779,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "40",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -2789,7 +2789,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "40",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		//
@@ -2802,7 +2802,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Polishing Brush",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "40",
 			"book"		=> "Basic Jewelry Making"
 		),
 		//
@@ -2815,7 +2815,7 @@
 			"result"	=> "1",
 			"tool"		=> "Furnace",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "30",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -2825,7 +2825,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge + Wire mold",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "50",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -2835,7 +2835,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mandrel",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "50",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -2845,7 +2845,7 @@
 			"result"	=> "5",
 			"tool"		=> "Smith Table + Cutters",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "50",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -2855,7 +2855,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "50",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -2865,7 +2865,7 @@
 			"result"	=> "5",
 			"tool"		=> "Stock Casting",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "30",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -2875,7 +2875,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "30",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -2885,17 +2885,17 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "30",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
 			"name"		=> "Gold Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Small Molten Gold",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "30",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -2951,7 +2951,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge + Ring Mold",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "30",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		//
@@ -2964,7 +2964,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Polishing Brush",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "30",
 			"book"		=> "Basic Jewelry Making"
 		),
 		//
@@ -2977,7 +2977,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "40",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3007,7 +3007,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3017,7 +3017,7 @@
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "10",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3215,7 +3215,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "10",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3225,7 +3225,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "10",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		//
@@ -3238,7 +3238,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Polishing Brush",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "10",
 			"book"		=> "Basic Jewelry Making"
 		),
 		//
@@ -3251,7 +3251,7 @@
 			"result"	=> "1",
 			"tool"		=> "Furnace",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3261,7 +3261,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge + Wire mold",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "20",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3271,7 +3271,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mandrel",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "20",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3281,7 +3281,7 @@
 			"result"	=> "5",
 			"tool"		=> "Smith Table + Cutters",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "20",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3291,7 +3291,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "20",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3301,7 +3301,7 @@
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3311,7 +3311,7 @@
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3331,7 +3331,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "20",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3341,7 +3341,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "20",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		//
@@ -3354,7 +3354,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Polishing Brush",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "20",
 			"book"		=> "Basic Jewelry Making"
 		),
 		//
@@ -3367,7 +3367,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "20",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		array (
@@ -3377,7 +3377,7 @@
 			"result"	=> "1",
 			"tool"		=> "Forge + Ring Mold",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "Basic Jewelry Making, Gemstone Jewelry"
 		),
 		//
@@ -3390,7 +3390,7 @@
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Polishing Brush",
 			"skill"		=> "Jewelry Making",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "Basic Jewelry Making"
 		),
 		//
@@ -14981,7 +14981,7 @@
 		array (
 			"name"		=> "Lionfish in Salted Water",
 			"type"		=> "I",
-			"ingredient"	=> "C 2 Filleted Lionfish, B 1 Water Pouch, C 1 Pinch of Salt",
+			"ingredient"	=> "C 2 Filleted Lionfish, C 1 Water Pouch, C 1 Pinch of Salt",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -15223,7 +15223,7 @@
 		array (
 			"name"		=> "Unmixed Eel Pie Filling",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Filleted Eel, C 4 Sliced Night Mushroom, C 1 Dash of Ground Corium Seed, C 1 Pinch of Salt, B 1 Red Liquor Mug, B 1 Water Pouch",
+			"ingredient"	=> "C 1 Filleted Eel, C 4 Sliced Night Mushroom, C 1 Dash of Ground Corium Seed, C 1 Pinch of Salt, B 1 Red Liquor Mug, C 1 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -15273,7 +15273,7 @@
 		array (
 			"name"		=> "Uncooked Perch and Rat Stew",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Fried Stew Mix, B 2 Water Pouch, C 1 Diced Threestem Fruit, C 1 Pinch of Salt, C 1 Pile of Diced Rat Meat, C 1 Diced Perch",
+			"ingredient"	=> "C 1 Fried Stew Mix, C 2 Water Pouch, C 1 Diced Threestem Fruit, C 1 Pinch of Salt, C 1 Pile of Diced Rat Meat, C 1 Diced Perch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -17547,7 +17547,7 @@
 		array (
 			"name"		=> "Mug of Hot Water",
 			"type"		=> "I",
-			"ingredient"	=> "B 2 Water Pouch",
+			"ingredient"	=> "C 2 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Brewing",
@@ -35241,7 +35241,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Sabre Alpha Blade",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -41128,7 +41128,7 @@
 		array (
 			"name"		=> "Cooking Bamboo Rice",
 			"type"		=> "I",
-			"ingredient"	=> "B 2 Water Pouch, B 1 Bamboo Rice",
+			"ingredient"	=> "C 2 Water Pouch, B 1 Bamboo Rice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -41138,7 +41138,7 @@
 		array (
 			"name"		=> "Cooking Irifon Rice",
 			"type"		=> "I",
-			"ingredient"	=> "B 2 Water Pouch, B 1 Irifon Rice",
+			"ingredient"	=> "C 2 Water Pouch, B 1 Irifon Rice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -41148,7 +41148,7 @@
 		array (
 			"name"		=> "Uncooked Pot Roast",
 			"type"		=> "I",
-			"ingredient"	=> "C 3 Pile of Meat Chunk, B 14 Water Pouch, C 2 Sliced Carrot, C 1 Cubed Kartoffel, C 1 Minced Pungent Tuber",
+			"ingredient"	=> "C 3 Pile of Meat Chunk, C 14 Water Pouch, C 2 Sliced Carrot, C 1 Cubed Kartoffel, C 1 Minced Pungent Tuber",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -41188,7 +41188,7 @@
 		array (
 			"name"		=> "Hearty Flat Pie Sauce Mix",
 			"type"		=> "I",
-			"ingredient"	=> "B 6 Water Pouch, C 12 Dash of Hearty Flat Pie Seasoning, C 6 Mashed Fire Fruit",
+			"ingredient"	=> "C 6 Water Pouch, C 12 Dash of Hearty Flat Pie Seasoning, C 6 Mashed Fire Fruit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -41198,7 +41198,7 @@
 		array (
 			"name"		=> "Seasoned Bamboo Rice Mix",
 			"type"		=> "I",
-			"ingredient"	=> "B 8 Water Pouch, B 1 Bamboo Rice, C 2 Pinch of Orilliphia",
+			"ingredient"	=> "C 8 Water Pouch, B 1 Bamboo Rice, C 2 Pinch of Orilliphia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -41208,7 +41208,7 @@
 		array (
 			"name"		=> "Seasoned Irifon Rice Mix",
 			"type"		=> "I",
-			"ingredient"	=> "B 8 Water Pouch, B 1 Irifon Rice, C 2 Pinch of Orilliphia",
+			"ingredient"	=> "C 8 Water Pouch, B 1 Irifon Rice, C 2 Pinch of Orilliphia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -41318,7 +41318,7 @@
 		array (
 			"name"		=> "Gravy Base",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Scoop of Lard, C 1 Scoop of Flour, B 2 Water Pouch",
+			"ingredient"	=> "C 1 Scoop of Lard, C 1 Scoop of Flour, C 2 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -48180,7 +48180,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Falchion Dull Blade",
-			"type"		=> "O",
+			"type"		=> "I",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Falchion Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -48230,7 +48230,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Broadsword Rough Blade",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Platinum Steel Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -50046,7 +50046,7 @@
 		array (
 			"name"		=> "Cooking Apple",
 			"type"		=> "I",
-			"ingredient"	=> "C 4 Sliced Apple, B 1 Water Pouch",
+			"ingredient"	=> "C 4 Sliced Apple, C 1 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -50056,7 +50056,7 @@
 		array (
 			"name"		=> "Sweet Duppong Mash",
 			"type"		=> "I",
-			"ingredient"	=> "C 5 Sliced and Seeded Duppong, B 1 Water Pouch, C 3 Scoop of Strimptor",
+			"ingredient"	=> "C 5 Sliced and Seeded Duppong, C 1 Water Pouch, C 3 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -50066,7 +50066,7 @@
 		array (
 			"name"		=> "Sweet Macca Mash",
 			"type"		=> "I",
-			"ingredient"	=> "C 5 Sliced and Seeded Macca, B 1 Water Pouch, C 3 Scoop of Strimptor",
+			"ingredient"	=> "C 5 Sliced and Seeded Macca, C 1 Water Pouch, C 3 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -50076,7 +50076,7 @@
 		array (
 			"name"		=> "Sweet Apple Mash",
 			"type"		=> "I",
-			"ingredient"	=> "C 5 Sliced Apple, B 1 Water Pouch, C 3 Scoop of Strimptor",
+			"ingredient"	=> "C 5 Sliced Apple, C 1 Water Pouch, C 3 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -50136,7 +50136,7 @@
 		array (
 			"name"		=> "Sweet Terevan Mash",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Mashed Terevan Berries, B 1 Water Pouch, C 2 Scoop of Strimptor",
+			"ingredient"	=> "C 1 Mashed Terevan Berries, C 1 Water Pouch, C 2 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -50226,7 +50226,7 @@
 		array (
 			"name"		=> "Flour-Lard Mixture",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Scoop of Flour, C 1 Pinch of Salt, C 15 Scoop of Lard, B 1 Water Pouch",
+			"ingredient"	=> "C 1 Scoop of Flour, C 1 Pinch of Salt, C 15 Scoop of Lard, C 1 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -50306,7 +50306,7 @@
 		array (
 			"name"		=> "Sweet Joopiner Mash",
 			"type"		=> "I",
-			"ingredient"	=> "B 1 Water Pouch, C 2 Scoop of Strimptor, C 1 Mashed Joopiner Berries",
+			"ingredient"	=> "C 1 Water Pouch, C 2 Scoop of Strimptor, C 1 Mashed Joopiner Berries",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",

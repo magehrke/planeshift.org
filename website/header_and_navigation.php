@@ -113,6 +113,7 @@
                     <li><a href="/quests/repeatable-quests.php">Repeatable Quests</a></li>
                     <li><a href="/quests/combat-moves.php">Combat Moves</a></li>
                     <li><a href="/quests/winch-access.php">Winch Access</a></li>
+                    <li><a href="/quests/other-chains.php">Other Questchains</a></li>
                 </ul>
             </li>
 

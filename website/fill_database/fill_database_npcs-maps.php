@@ -557,6 +557,7 @@
 			'To Magic Shop', 'Bronze Door Road 1', '45.42 48.53 -537.48', '',
 			'To Bronze Doors Outside', 'Bronze Door Road 2', '636.70 30.12 485.07', '',
 			'To Bronze Door Road 1', 'Bronze Door Road 2', '-617.87 31.91 241.63', '',
+			'Explorers Camp', 'Bronze Door Road 2', '-308 0 270', '',
 
 			'To Bronze Doors Outside', 'Bronze Doors Fortress', '-172.91 -105.77 -1223.09', '',
 			'Lava Cave', 'Bronze Doors Fortress', '70 0 -1200', '2020-05-30',
@@ -621,6 +622,7 @@
 
 			'Tavern Enterance', 'Sewers', '-140.14 10.30 -91.84', '',
 			'Winch Enterance', 'Sewers', '32.55 -6.66 -168.31', '',
+			'Black Flame', 'Sewers', '-82 0 -158', '',
 
 			'To Hydlaa', 'Winch', '40.91 -0.03 -208.35', '',
 			'Storage Provider', 'Winch', '10 0 -257', '',

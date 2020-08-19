@@ -348,7 +348,6 @@ bought = [
 	"Tinga Leaves",
 	"Trout",
 	"Water Filled Bucket",
-	"Water Pouch",
 	"Wicker Shield Core",
 	"Wire Mold",
 	"Wood Chisel",
