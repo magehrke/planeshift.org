@@ -5,8 +5,8 @@ it's quests. PSQ is short for 'PlaneShift Quest'. In the following I will give
 an introduction on how to write such a file. If the format is not correct, the
 program that I use to convert it into a webpage does not function anymore.
 Please read this file carefully and send me an e-mail if you have questions
-or something does not work (<a href="mailto:planeshift@online.de">
-planeshift@online.de</a>). *It is always helpful, if
+or something does not work (<a href="mailto:planeshift.org@gmail.com">
+planeshift.org@gmail.com</a>). *It is always helpful, if
 someone sends me the file for a new quests!*
 
 Get an idea by start looking at a couple of existing
