@@ -9,7 +9,7 @@ Metallurgy O 125 Smelt Blue Steel Ingot into Molten Blue Steel using Furnace.
 Metallurgy I 125 Combine 5 Steel Ingot, 3 Lumium Ingot, Bronze Ingot, into 5 Blue Steel Sludge using Stock Casting (combine).
 Metallurgy I 125 Smelt Blue Steel Sludge into Molten Blue Steel using Furnace.
 Metallurgy O 130 Smelt Blue Steel Stock into 5 Molten Blue Steel using Furnace.
-Metallurgy I 125 Cast Molten Blue Steel into Blue Steel Ingot using Stock Casting.
+Metallurgy P 125 Cast Molten Blue Steel into Blue Steel Ingot using Stock Casting.
 Metallurgy O 125 Quench Heated Blue Steel Ingot into Blue Steel Ingot using Quench Tank.
 Blacksmith O 125 Hammer Heated Blue Steel Ingot into Blue Steel Ingot using Anvil with a Hammer.
 Metallurgy O 130 Forge Blue Steel Stock into Heated Blue Steel Stock using Forge.
@@ -50,7 +50,7 @@ Blacksmith O 120 Hammer Super Heated Lumium Ingot into Lumium Ingot using Anvil 
 Metallurgy I 120 Smelt Lumium Ore into Molten Lumium using Furnace.
 Metallurgy O 120 Smelt Lumium Ingot into Molten Lumium using Furnace.
 Metallurgy O 120 Smelt Lumium Stock into 5 Molten Lumium using Furnace.
-Metallurgy I 120 Cast Molten Lumium into Lumium Ingot using Stock Casting.
+Metallurgy P 120 Cast Molten Lumium into Lumium Ingot using Stock Casting.
 Metallurgy O 120 Forge Lumium Stock into Heated Lumium Stock using Forge.
 Metallurgy O 120 Quench Heated Lumium Stock into Lumium Stock using Quench Tank.
 Blacksmith O 120 Hammer Heated Lumium Stock into Lumium Stock using Anvil with a Hammer.
@@ -74,7 +74,7 @@ Metallurgy O 85 Smelt Platinum Steel Ingot into Molten Platinum Steel using Furn
 Metallurgy I 85 Combine Platinum Ingot, 4 Steel Ingot, Silver Ingot, into 5 Platinum Steel Sludge using Stock Casting (combine).
 Metallurgy I 85 Smelt Platinum Steel Sludge into Molten Platinum Steel using Furnace.
 Metallurgy O 95 Smelt Platinum Steel Stock into 5 Molten Platinum Steel using Furnace.
-Metallurgy I 85 Cast Molten Platinum Steel into Platinum Steel Ingot using Stock Casting.
+Metallurgy P 85 Cast Molten Platinum Steel into Platinum Steel Ingot using Stock Casting.
 Metallurgy O 85 Forge Platinum Steel Ingot into Heated Platinum Steel Ingot using Forge.
 Metallurgy O 85 Quench Heated Platinum Steel Ingot into Platinum Steel Ingot using Quench Tank.
 Blacksmith O 85 Hammer Heated Platinum Steel Ingot into Platinum Steel Ingot using Anvil with a Hammer.

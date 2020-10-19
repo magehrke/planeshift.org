@@ -63,7 +63,7 @@ Jewelry Making I 20 Link 50 Silver Necklace Links into Silver Chain using Smith 
 Jewelry Making I 0 Forge Silver Jewelry Ingot into Heated Silver Jewelry Ingot using Forge.
 Jewelry Making O 0 Quench Heated Silver Jewelry Ingot into Silver Jewelry Ingot using Quench Tank.
 Jewelry Making I 0 Smelt Silver Jewelry Ingot into Small Molten Silver using Furnace.
-Jewelry Making I 0 Cast Small Molten Silver into Silver Jewelry Ingot using Stock Casting.
+Jewelry Making O 0 Cast Small Molten Silver into Silver Jewelry Ingot using Stock Casting.
 Jewelry Making I 200 Cast Molten Silver into 5 Silver Jewelry Ingot using Stock Casting.
 Jewelry Making I 20 Combine Silver Chain, Silver Necklace Clasp, into 0 Silver Necklace Kit using Smith Table (combine).
 Jewelry Making I 20 Assemble Silver Necklace Kit into Unpolished Silver Necklace using Smith Table with a Pliers.

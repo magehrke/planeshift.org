@@ -3296,7 +3296,7 @@
 		),
 		array (
 			"name"		=> "Silver Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Heated Silver Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -3306,7 +3306,7 @@
 		),
 		array (
 			"name"		=> "Silver Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Small Molten Silver",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
@@ -3398,7 +3398,7 @@
 		//
 		array (
 			"name"		=> "Large Tanning Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Large Hide, B 6 Tanning Crystal Acid",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table (combine)",
@@ -3408,7 +3408,7 @@
 		),
 		array (
 			"name"		=> "Medium Tanning Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Medium Hide, B 3 Tanning Crystal Acid",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table (combine)",
@@ -3428,7 +3428,7 @@
 		),
 		array (
 			"name"		=> "Medium Piece Of Leather",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Large Piece Of Leather",
 			"result"	=> "2",
 			"tool"		=> "Leatherworking Table + Leather Cutter",
@@ -3448,7 +3448,7 @@
 		),
 		array (
 			"name"		=> "Small Piece Of Leather",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Medium Piece Of Leather",
 			"result"	=> "3",
 			"tool"		=> "Leatherworking Table + Leather Cutter",
@@ -3468,7 +3468,7 @@
 		),
 		array (
 			"name"		=> "Small Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Diseased Rat Hide",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3478,7 +3478,7 @@
 		),
 		array (
 			"name"		=> "Large Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Maulbernaut Fur",
 			"result"	=> "2",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3498,7 +3498,7 @@
 		),
 		array (
 			"name"		=> "Medium Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Riverling Skin",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3508,7 +3508,7 @@
 		),
 		array (
 			"name"		=> "Medium Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Tefusangling Skin",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3518,7 +3518,7 @@
 		),
 		array (
 			"name"		=> "Large Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Tefusang Skin",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3528,7 +3528,7 @@
 		),
 		array (
 			"name"		=> "Medium Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Trepor Queen Skin",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3538,7 +3538,7 @@
 		),
 		array (
 			"name"		=> "Medium Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Trepor Warrior Skin",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3548,7 +3548,7 @@
 		),
 		array (
 			"name"		=> "Large Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Ulbernaut Fur",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3558,7 +3558,7 @@
 		),
 		array (
 			"name"		=> "Medium Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Velnishi Skin",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3568,7 +3568,7 @@
 		),
 		array (
 			"name"		=> "Large Hide",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "L 1 Vilenaut Fur",
 			"result"	=> "2",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -41809,7 +41809,7 @@
 		),
 		array (
 			"name"		=> "Hearty Bamboo Rice",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Cooked Bamboo Rice",
 			"result"	=> "4",
 			"tool"		=> "Preparation Table + Scoop",
@@ -41819,7 +41819,7 @@
 		),
 		array (
 			"name"		=> "Hearty Irifon Rice",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Cooked Irifon Rice",
 			"result"	=> "4",
 			"tool"		=> "Preparation Table + Scoop",
@@ -49431,7 +49431,7 @@
 			"result"	=> "1",
 			"tool"		=> "Oven",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49451,7 +49451,7 @@
 			"result"	=> "1",
 			"tool"		=> "Oven",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49461,7 +49461,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49471,7 +49471,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49481,7 +49481,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49491,7 +49491,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49501,7 +49501,7 @@
 			"result"	=> "5",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49511,7 +49511,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49521,7 +49521,7 @@
 			"result"	=> "10",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49531,7 +49531,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49541,7 +49541,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49551,7 +49551,7 @@
 			"result"	=> "10",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49561,7 +49561,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49571,7 +49571,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49581,7 +49581,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49591,7 +49591,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49601,7 +49601,7 @@
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49621,7 +49621,7 @@
 			"result"	=> "10",
 			"tool"		=> "Preparation Table + Circle Cutter",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49707,7 +49707,7 @@
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
 			"skill"		=> "Baking",
-			"level"		=> "200",
+			"level"		=> "0",
 			"book"		=> "The Art of Baking"
 		),
 		array (
@@ -49865,7 +49865,7 @@
 		//
 		array (
 			"name"		=> "Cram",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Raw Cram",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49875,7 +49875,7 @@
 		),
 		array (
 			"name"		=> "Apple Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbaked Apple Pie",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49885,7 +49885,7 @@
 		),
 		array (
 			"name"		=> "Cinnamon Apple Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbaked Cinnamon Apple Pie",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49895,7 +49895,7 @@
 		),
 		array (
 			"name"		=> "Duppong Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbaked Duppong Pie",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49905,7 +49905,7 @@
 		),
 		array (
 			"name"		=> "Filling Apple Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbaked Filling Apple Pie",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49915,7 +49915,7 @@
 		),
 		array (
 			"name"		=> "Joopiner Berry Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbaked Joopiner Pie",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49925,7 +49925,7 @@
 		),
 		array (
 			"name"		=> "Macca Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbaked Macca Pie",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49935,7 +49935,7 @@
 		),
 		array (
 			"name"		=> "Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbaked Pie",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49945,7 +49945,7 @@
 		),
 		array (
 			"name"		=> "Terevan Berry Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Unbaked Terevan Berry Pie",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49955,7 +49955,7 @@
 		),
 		array (
 			"name"		=> "Apple Hand Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Uncooked Apple Hand Pie",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -50315,7 +50315,7 @@
 		),
 		array (
 			"name"		=> "Slice of Apple Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Apple Pie",
 			"result"	=> "8",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50335,7 +50335,7 @@
 		),
 		array (
 			"name"		=> "Slice of Cinnamon Apple Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Cinnamon Apple Pie",
 			"result"	=> "8",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50355,7 +50355,7 @@
 		),
 		array (
 			"name"		=> "Slice of Duppong Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Duppong Pie",
 			"result"	=> "8",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50365,7 +50365,7 @@
 		),
 		array (
 			"name"		=> "Slice of Joopiner Berry Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Joopiner Berry Pie",
 			"result"	=> "8",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50385,7 +50385,7 @@
 		),
 		array (
 			"name"		=> "Slice of Macca Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Macca Pie",
 			"result"	=> "8",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50395,7 +50395,7 @@
 		),
 		array (
 			"name"		=> "Slice of Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "B 1 Pie",
 			"result"	=> "8",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50415,7 +50415,7 @@
 		),
 		array (
 			"name"		=> "Slice of Terevan Berry Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Terevan Berry Pie",
 			"result"	=> "8",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50445,7 +50445,7 @@
 		),
 		array (
 			"name"		=> "Apple Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Sweet Apple Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -50455,7 +50455,7 @@
 		),
 		array (
 			"name"		=> "Duppong Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Sweet Duppong Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -50465,7 +50465,7 @@
 		),
 		array (
 			"name"		=> "Joopiner Berry Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Sweet Joopiner Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -50475,7 +50475,7 @@
 		),
 		array (
 			"name"		=> "Macca Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Sweet Macca Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -50485,7 +50485,7 @@
 		),
 		array (
 			"name"		=> "Terevan Berry Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Sweet Terevan Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -50605,7 +50605,7 @@
 		),
 		array (
 			"name"		=> "Honey-Glazed Carrot",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Carrot-Honey Mixture",
 			"result"	=> "5",
 			"tool"		=> "Wooden Bowl + Wooden Spoo",
@@ -50615,7 +50615,7 @@
 		),
 		array (
 			"name"		=> "Sweet Cinnamon Apple Slice",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Cinnamon Apple Mix",
 			"result"	=> "4",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -50635,7 +50635,7 @@
 		),
 		array (
 			"name"		=> "Fried Apple",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Frying Apple",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -50645,7 +50645,7 @@
 		),
 		array (
 			"name"		=> "Fried Apple Hand Pie",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Uncooked Apple Hand Pie",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -50675,7 +50675,7 @@
 		),
 		array (
 			"name"		=> "Apple Jam Biscuit",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Biscuit Apple Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -50685,7 +50685,7 @@
 		),
 		array (
 			"name"		=> "Duppong Jam Biscuit",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Biscuit Duppong Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -50695,7 +50695,7 @@
 		),
 		array (
 			"name"		=> "Joopiner Berry Jam Biscuit",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Biscuit Joopiner Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -50705,7 +50705,7 @@
 		),
 		array (
 			"name"		=> "Macca Jam Biscuit",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Biscuit Macca Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -50715,7 +50715,7 @@
 		),
 		array (
 			"name"		=> "Terevan Berry Jam Biscuit",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Biscuit Terevan Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -50725,7 +50725,7 @@
 		),
 		array (
 			"name"		=> "Buttered Biscuit",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Buttering Biscuit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -50735,7 +50735,7 @@
 		),
 		array (
 			"name"		=> "Bread with Apple Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Spreading Apple Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -50745,7 +50745,7 @@
 		),
 		array (
 			"name"		=> "Bread with Duppong Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Spreading Duppong Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreade",
@@ -50755,7 +50755,7 @@
 		),
 		array (
 			"name"		=> "Bread with Joopiner Berry Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Spreading Joopiner Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreade",
@@ -50765,7 +50765,7 @@
 		),
 		array (
 			"name"		=> "Bread with Macca Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Spreading Macca Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -50775,7 +50775,7 @@
 		),
 		array (
 			"name"		=> "Bread with Terevan Berry Jam",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Spreading Terevan Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreade",
@@ -50908,7 +50908,7 @@
 		),
 		array (
 			"name"		=> "Blue Steel Ingot",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Molten Blue Steel",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
@@ -51284,7 +51284,7 @@
 		),
 		array (
 			"name"		=> "Lumium Ingot",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Molten Lumium",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
@@ -51500,7 +51500,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Ingot",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Molten Platinum Steel",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",

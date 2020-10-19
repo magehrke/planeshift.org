@@ -550,16 +550,17 @@
 	$item_category = 'Shields';
 
 	$items_to_insert = array(
+		'Bronze Buckler', 'Harnquist', 600, 'none',
+		'Small Spiked Iron Shield', 'Harnquist', 1650, 'none',
+		'Three Rivet Shield', 'Harnquist', 2750, 'none',
+
 		'Banded Shield', 'Gardr Keck', 1924, 'none',
-		'Bronze Shield', 'Harnquist', 1650, 'none',
 		'Bulls Eye Shield', 'Trasok Starhammer', 3207, 'none',
 		'Bulls Eye Shield', 'Veja Pontor', 3207, 'none',
 		'Circle Shield', 'Gardr Keck', 500, 'none',
 		'Five-Spiked Shield', 'Taemian Yangnk', 2283, 'none',
 		'Radiant Shield', 'Trasok Starhammer', 3712, 'none',
 		'Round Shield', 'Gardr Keck', 1100, 'none',
-		'Three Rivet Shield', 'Harnquist', 2948, 'none',
-		'Valiant Shield', 'Harnquist', 2616, 'none',
 		'Wheel Shield', 'Taemian Yangnk', 4135, 'none',
 		'Wooden and Metal Shield', 'Trasok Starhammer', 1182, 'none',
 		);
@@ -628,10 +629,13 @@
 	$item_category = 'Tools - Farming';
 
 	$items_to_insert = array(
-		'Axe', 'Harnquist', 80, 'none',
-		'Sickle', 'Harnquist', 70, 'none',
-		'Wood Chisel', 'Jjousk Carryt', 100, 'none',
-		'Wood Saw', 'Jjousk Carryt', 60, 'none',
+		'Axe',			'Harnquist', 80, 'none',
+		'Sickle',		'Harnquist', 70, 'none',
+		'Wood Chisel',	'Harnquist', 100, 'none',
+		'Wood Saw',		'Harnquist', 60, 'none',
+
+		'Wood Chisel',	'Jjousk Carryt', 100, 'none',
+		'Wood Saw',		'Jjousk Carryt', 60, 'none',
 		);
 
 	for($i = 0; $i < count($items_to_insert); $i += 4) {

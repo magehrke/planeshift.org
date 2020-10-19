@@ -705,6 +705,7 @@
 		'Bream',		'Bronze Doors Outside', 'Fish',			'-422.68 -276.07 -1659.20, -439.34 -277.81 -1614.84', 'none',
 		'Carp Fish',		'Bronze Doors Outside', 'Fish',			'-439.34 -277.81 -1614.84', 'none',
 		'Eel',			'Bronze Doors Outside', 'Fish',			'-292.69 -191.15 -1405.45', 'none',
+		'Ide',			'Bronze Doors Outside', 'Fish',			'595 0 -1800', 'none',
 		'Lake Mushroom',	'Bronze Doors Outside', 'Plants',		'-302.42 -184.47 -1427.79, -477.83 -264.18 -1601.53', 'none',
 		'Lionfish',		'Bronze Doors Outside', 'Fish',			'-292.69 -191.15 -1405.45, -439.34 -277.81 -1614.84', 'none',
 		'Manta Ray',		'Bronze Doors Outside', 'Fish',			'-422.68 -276.07 -1659.20', 'none',
