@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: 2 Barberry Root, 2 Juiceberry Fruit, 1 Masher, 1 Strainer.</td>
+						<td>Required: <a href="/quests/details/Introduction-to-Science.php">Introduction to Science</a> quest, 2 Barberry Root, 2 Juiceberry Fruit, 1 Masher, 1 Strainer.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>

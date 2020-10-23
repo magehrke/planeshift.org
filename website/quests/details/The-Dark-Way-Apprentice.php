@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/Dark-Wanderer-wants-the-Messenger-Bag.php">Dark Wanderer wants the Messenger Bag</a> quest, 1 Apprentice's Dark Way Wand, 1 Death glyph.</td>
+						<td>Required: 1 Apprentice's Dark Way Wand, 1 Death glyph.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>
@@ -329,7 +329,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 10 Faction with Dark Order, 9400 XP.</td>
+						<td>Rewards: 1 Weakness glyph, 10 Faction with Dark Order, 9400 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

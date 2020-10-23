@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/quests.php">quests</a> quest.</td>
+						<td>Required: Nothing.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>
@@ -783,7 +783,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Gas glyph, 1 Magic Wand Ornate, 35 Faction with Azure Order, 16400 XP.</td>
+						<td>Rewards: 1 Gas Glyph, 1 Bond Glyph[OR], 1 Doom Glyph[OR], 1 Magic Staff of Nature[OR], 1 Staff of Ways[OR], 16400 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

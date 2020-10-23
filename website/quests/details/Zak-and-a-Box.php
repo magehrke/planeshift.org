@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/An-Opening-Move-with-Kisatol-and-Lori's-Little-Delivery.php">An Opening Move with Kisatol and Lori's Little Delivery</a> quest, 1 Ruby Crystal.</td>
+						<td>Required: <a href="/quests/details/An-Opening-Move-with-Kisatol.php">An Opening Move with Kisatol</a> quest, <a href="/quests/details/Lori's-Little-Delivery.php">Lori's Little Delivery</a> quest, 1 Ruby Crystal.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>

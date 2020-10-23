@@ -4,8 +4,6 @@
 [Authors] Dudu and Lele
 [Repeatable] Yes
 
-[Need] [Quest] quests
-
 [To] Menita
 
 [NPC Internal] I would like to test my mental strength.
@@ -166,5 +164,7 @@
 [NPC] Menita: Many don't.
 [NPC] Menita: As a reward for mastering my task I offer you this gas glyph and this magic wand.
 
-[Reward] [XP] 16400; [Item] 1, Gas glyph; [Item] 1, Magic Wand Ornate; [Faction] 35, Azure Order
+[Reward] [XP] 16400;
+[Reward] [OR Begin] [Item] 1, Gas Glyph [OR] [Item] 1, Bond Glyph [OR] [Item] 1, Doom Glyph [OR End];
+[Reward] [OR Begin] [Item] 1, Magic Staff of Nature [OR] [Item] 1, Staff of Ways [OR End];
 

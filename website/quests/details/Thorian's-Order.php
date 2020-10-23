@@ -44,7 +44,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_action">
-						<td>[INFO]: The rank in Red Way is uncertain</td>
+						<td>[INFO]: Additionally to the level in a way, you also have to join the relative circle</td>
 					</tr>
 					<tr class="quest_emptyRow_afterAction">
 						<td></td>
