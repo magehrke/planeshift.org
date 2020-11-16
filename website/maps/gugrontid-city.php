@@ -12,11 +12,11 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 29, 
-        offsetX = 9500, 
-        offsetY = 9900, 
-        map = "/images/maps/gugrontid.png", 
-        rot = "cw", 
+        var scale = 30, 
+        offsetX = 40, 
+        offsetY = 55, 
+        map = "/images/maps/gugrontid-1024x768.jpg", 
+        rot = "ccw", 
         layers = 1,
         hiddenLayers = [];
     </script>
