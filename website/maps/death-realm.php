@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 28, 
-        offsetX = 26000, 
-        offsetY = 12600, 
-        map = "/images/maps/deathrealm.jpg", 
-        rot = "cw", 
-        layers = 1,
-        hiddenLayers = [];
+        var scale_x = 28,
+        	scale_y = 28,
+			swap_xz = false,
+			offsetX = 26000, 
+			offsetY = 12600, 
+			map = "/images/maps/deathrealm.jpg", 
+			rot = "cw", 
+			layers = 1,
+			hiddenLayers = [];
     </script>
 
     <!-- Library for JQuery -->

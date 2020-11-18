@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 60, 
-        offsetX = 70800, 
-        offsetY = 11300, 
-        map = "/images/maps/winch.png", 
-        rot = false, 
-        layers = 1,
-        hiddenLayers = [];
+        var scale_x = 60,
+        	scale_y = 60,
+			swap_xz = false,
+			offsetX = 70800, 
+			offsetY = 11300, 
+			map = "/images/maps/winch.png", 
+			rot = false, 
+			layers = 1,
+			hiddenLayers = [];
     </script>
 
     <!-- Library for JQuery -->

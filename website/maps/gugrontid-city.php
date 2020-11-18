@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 30, 
-        offsetX = 40, 
-        offsetY = 55, 
-        map = "/images/maps/gugrontid-1024x768.jpg", 
-        rot = "ccw", 
-        layers = 1,
-        hiddenLayers = [];
+		var	scale_x = 99,
+			scale_y = 50,
+			swap_xz = false,
+			offsetX = 45000, 
+			offsetY = 6200, 
+			map = "/images/maps/gugrontid-1024x768.jpg", 
+			rot = false,
+			layers = 1,
+			hiddenLayers = [];
     </script>
 
     <!-- Library for JQuery -->

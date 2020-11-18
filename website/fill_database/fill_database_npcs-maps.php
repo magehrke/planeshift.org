@@ -364,7 +364,7 @@
 		'Sierann', 'Bronze Doors Outside', 1, 'none', '-250.08 -205.66 -1538.55', '', 1,
 		'Silaces Regalin', 'Hydlaa', 1, '2017-12-28', '-235.00 21.00 27.00', '', 1,
 		'Sinto Gheshd', 'Hydlaa', 1, 'none', '-115.53 10.68 -10.21', '', 1,
-		'Stalg','Gugrontid City',1,'2018-02-06','125.00 55.00 55.00', '', 1,
+		'Stalg','Gugrontid City',1,'2018-02-06','52 0 488', '', 1,
 		'Steeldart', 'Amdeneir', 1, 'none', '-27.75 23.84 -8.02', '', 1,
 		'Surenes Shekalal', 'Ojaveda', 1, 'none', '-102.80 -0.15 20.60', '', 1,
 		'Sysial Shillor', 'Bronze Doors Fortress', 1, 'none', '-49.38 110.28 -516.32', '', 1,
@@ -701,7 +701,8 @@
 		'Wragberry',		'Bronze Door Road 2',	'Plants - Herbal',	'210.79 9.04 369.29', 'none',
 
 		'Barberry Root',	'Bronze Doors Outside', 'Plants - Herbal',	'620.60 -276.55 -1846.96', 'none',
-		'Black Walnut',		'Bronze Doors Outside', 'Plants',		'547.62 -273.48 -1736.49', 'none',
+		# Black Walnut is no longer in game
+		#'Black Walnut',		'Bronze Doors Outside', 'Plants',		'547.62 -273.48 -1736.49', 'none',
 		'Bream',		'Bronze Doors Outside', 'Fish',			'-422.68 -276.07 -1659.20, -439.34 -277.81 -1614.84', 'none',
 		'Carp Fish',		'Bronze Doors Outside', 'Fish',			'-439.34 -277.81 -1614.84', 'none',
 		'Eel',			'Bronze Doors Outside', 'Fish',			'-292.69 -191.15 -1405.45', 'none',
@@ -753,7 +754,8 @@
 		'White Oak Wood',	'Ojaveda Road 1',	'Plants',		'-113.94 31.93 369.18, -233.28 30.12 161.77', 'none',
 		'Yarrow',		'Ojaveda Road 1',	'Plants - Herbal',	'194.36 30.12 283.12, -428.95 30.12 466.66', 'none',
 
-		'Black Walnut',		'Ojaveda Road 2',	'Plants',		'173.25 13.06 306.51', 'none',
+		# Black Walnut is no longer in game
+		#'Black Walnut',		'Ojaveda Road 2',	'Plants',		'173.25 13.06 306.51', 'none',
 		'Blue Cohosh Root',	'Ojaveda Road 2',	'Plants - Herbal',	'-68.50 0.00 472.54', 'none',
 		'Blue Shan Flower',	'Ojaveda Road 2',	'Plants - Herbal',	'200.11 15.68 308.52', 'none',
 		'Carp Fish',		'Ojaveda Road 2',	'Fish',			'-463.23 10.82 353.83', 'none',

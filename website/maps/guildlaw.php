@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 7, 
-        offsetX = 3500, 
-        offsetY = 900, 
-        map = "/images/maps/guildlaw.png", 
-        rot = "cw", 
-        layers = 1,
-        hiddenLayers = [];
+        var scale_x = 7,
+        	scale_y = 7,
+			swap_xz = false,
+			offsetX = 3500, 
+			offsetY = 900, 
+			map = "/images/maps/guildlaw.png", 
+			rot = "cw", 
+			layers = 1,
+			hiddenLayers = [];
     </script>
 
     <!-- Library for JQuery -->

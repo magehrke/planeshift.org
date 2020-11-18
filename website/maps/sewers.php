@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 65,
-        offsetX = 41500,
-        offsetY = 31500,
-        map = "/images/maps/sewers",
-        rot = "ccw",
-        layers = 3,
-        hiddenLayers = [];
+        var scale_x = 65,
+        	scale_y = 65,
+			swap_xz = false,
+			offsetX = 41500,
+			offsetY = 31500,
+			map = "/images/maps/sewers",
+			rot = "ccw",
+			layers = 3,
+			hiddenLayers = [];
     </script>
 
     <!-- Library for JQuery -->

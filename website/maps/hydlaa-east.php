@@ -12,7 +12,9 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 32, 
+        var scale_x = 32,
+        	scale_y = 32,
+			swap_xz = false,
             offsetX = -1000, 
             offsetY = 22400, 
             map = "/images/maps/hydlaa_east.png", 

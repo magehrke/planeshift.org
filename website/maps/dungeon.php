@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 30, 
-        offsetX = 25000, 
-        offsetY = 2100, 
-        map = "/images/maps/dungeon", 
-        rot = "ccw", 
-        layers = 6,
-        hiddenLayers = [2, 4, 6];
+        var scale_x = 30,
+        	scale_y = 30,
+			swap_xz = false,
+			offsetX = 25000, 
+			offsetY = 2100, 
+			map = "/images/maps/dungeon", 
+			rot = "ccw", 
+			layers = 6,
+			hiddenLayers = [2, 4, 6];
     </script>
 
     <!-- Library for JQuery -->

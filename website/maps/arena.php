@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 37, 
-        offsetX = 18000, 
-        offsetY = 12400, 
-        map = "/images/maps/arena", 
-        rot = "cw", 
-        layers = 6,
-        hiddenLayers = [2];
+        var scale_x = 37,
+        	scale_y = 37,
+			swap_xz = false,
+			offsetX = 18000, 
+			offsetY = 12400, 
+			map = "/images/maps/arena", 
+			rot = "cw", 
+			layers = 6,
+			hiddenLayers = [2];
     </script>
 
     <!-- Library for JQuery -->

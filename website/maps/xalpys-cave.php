@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 20,
-        offsetX = 9500,
-        offsetY = 9900,
-        map = "/images/maps/xalpy_cave.png",
-        rot = "cw",
-        layers = 1,
-        hiddenLayers = [];
+        var scale_x = 20,
+        	scale_y = 20,
+			swap_xz = false,
+			offsetX = 9500,
+			offsetY = 9900,
+			map = "/images/maps/xalpy_cave.png",
+			rot = "cw",
+			layers = 1,
+			hiddenLayers = [];
     </script>
 
     <!-- Library for JQuery -->

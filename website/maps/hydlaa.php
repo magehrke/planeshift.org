@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 50,
-        offsetX = 29000,
-        offsetY = 22400,
-        map = "/images/maps/hydlaa.png",
-        rot = "cw",
-        layers = 1,
-        hiddenLayers = [];
+        var scale_x = 50,
+        	scale_y = 50,
+			swap_xz = false,
+			offsetX = 29000,
+			offsetY = 22400,
+			map = "/images/maps/hydlaa.png",
+			rot = "cw",
+			layers = 1,
+			hiddenLayers = [];
     </script>
 
     <!-- Library for JQuery -->

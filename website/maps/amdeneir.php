@@ -12,7 +12,9 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 29,
+        var scale_x = 29,
+        	scale_y = 29,
+			swap_xz = false,
             offsetX = 16700,
             offsetY = 14000,
             map = "/images/maps/amdeneir.png",

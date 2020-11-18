@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 10, 
-        offsetX = 18300, 
-        offsetY = 7300, 
-        map = "/images/maps/magicshop.png", 
-        rot = "cw", 
-        layers = 1,
-        hiddenLayers = [];
+        var scale_x = 10,
+        	scale_y = 10,
+			swap_xz = false,
+			offsetX = 18300, 
+			offsetY = 7300, 
+			map = "/images/maps/magicshop.png", 
+			rot = "cw", 
+			layers = 1,
+			hiddenLayers = [];
     </script>
 
     <!-- Library for JQuery -->

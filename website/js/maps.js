@@ -257,15 +257,25 @@ function addDot (pos) {
 function postopix (posArr) {
     var ret = new Array();
 
+    if (swap_xz === false) {
+		X = posArr[2];
+		Z = posArr[0];
+	}
+	else {
+		X = posArr[0];
+		Z = posArr[2];
+	}
     if (rot === false) {
-        ret[0] = Math.round(parseInt((posArr[2] * 100) + offsetX) / scale);
-        ret[1] = Math.round(parseInt((posArr[0] * 100) + offsetY) / scale);
+		// ret[0] = X - top left
+		// ret[1] = Y - top left
+        ret[0] = Math.round(parseInt((X * 100) + offsetX) / scale_x);
+        ret[1] = Math.round(parseInt((Z * 100) + offsetY) / scale_y);
     } else if (rot === "cw") {
-        ret[0] = mapWidth - Math.round(parseInt((posArr[0] * 100) + offsetX) / scale);
-        ret[1] = Math.round(parseInt((posArr[2] * 100) + offsetY) / scale);
+        ret[0] = mapWidth - Math.round(parseInt((Z * 100) + offsetX) / scale_x);
+        ret[1] = Math.round(parseInt((X * 100) + offsetY) / scale_y);
     } else if (rot === "ccw") {
-        ret[0] = Math.round(parseInt((posArr[0] * 100) + offsetX) / scale);
-        ret[1] = mapHeight - Math.round(parseInt((posArr[2] * 100) + offsetY) / scale);
+        ret[0] = Math.round(parseInt((Z * 100) + offsetX) / scale_x);
+        ret[1] = mapHeight - Math.round(parseInt((X * 100) + offsetY) / scale_y);
     }
     return ret;
 }

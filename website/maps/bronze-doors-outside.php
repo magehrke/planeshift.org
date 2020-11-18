@@ -12,13 +12,15 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-        var scale = 235, 
-        offsetX = 138000, 
-        offsetY = 277000, 
-        map = "/images/maps/bdoutside.png", 
-        rot = "ccw", 
-        layers = 1,
-        hiddenLayers = [];
+        var scale_x = 235,
+        	scale_y = 235,
+			swap_xz = false,
+			offsetX = 138000, 
+			offsetY = 277000, 
+			map = "/images/maps/bdoutside.png", 
+			rot = "ccw", 
+			layers = 1,
+			hiddenLayers = [];
     </script>
 
     <!-- Library for JQuery -->
