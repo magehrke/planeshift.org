@@ -1,0 +1,204 @@
+Blacksmith I 75 Shape 2 Heated Platinum Steel Stock into Platinum Steel Battle Axe Alpha Blade using Anvil with a Hammer.
+Blacksmith I 75 Shape 3 Heated Platinum Steel Stock into Platinum Steel Reinforced Axe Alpha Blade using Anvil with a Hammer.
+Blacksmith I 75 Shape 4 Heated Platinum Steel Stock into Platinum Steel Reinforced Battle Axe Alpha Blade using Anvil with a Hammer.
+Blacksmith I 75 Shape Half Oak baton into Small Wooden Axe Handle Shape using Smith Table with a Wood Chisel.
+Blacksmith I 75 Shape Heated Platinum Steel Stock into Platinum Steel Small Battle Axe Alpha Blade using Anvil with a Hammer.
+Blacksmith I 75 Shape Oak Baton into Wooden Axe Handle Shape using Smith Table with a Wood Chisel.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Battle Axe Alpha Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Battle Axe Beta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Battle Axe Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Battle Axe Delta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Battle Axe Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Axe Alpha Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Axe Beta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Axe Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Axe Delta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Axe Dull Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Battle Axe Beta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Battle Axe Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Battle Axe Delta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Reinforced Battle Axe Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Small Battle Axe Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Small Battle Axe Delta Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Battle Axe Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Battle Axe Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Reinforced Axe Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Reinforced Axe Dull Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Reinforced Battle Axe Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Reinforced Battle Axe Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Small Battle Axe Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Battle Axe Alpha Blade into Platinum Steel Battle Axe Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Battle Axe Beta Blade into Platinum Steel Battle Axe Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Battle Axe Blade into Platinum Steel Battle Axe Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Battle Axe Brittle Blade into Platinum Steel Battle Axe Brittle Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Axe Alpha Blade into Platinum Steel Reinforced Axe Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Axe Beta Blade into Platinum Steel Reinforced Axe Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Axe Blade into Platinum Steel Reinforced Axe Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Axe Brittle Blade into Platinum Steel Reinforced Axe Brittle Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Battle Axe Alpha Blade into Platinum Steel Reinforced Battle Axe Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Battle Axe Beta Blade into Platinum Steel Reinforced Battle Axe Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Battle Axe Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Battle Axe Brittle Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Small Battle Axe Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Small Battle Axe Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Small Battle Axe Blade into Platinum Steel Small Battle Axe Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Small Battle Axe Brittle Blade into Platinum Steel Small Battle Axe Brittle Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Dull Blade using Anvil with a Hammer.
+Blades Making I 75 Combine Small Wooden Axe Handle, Platinum Steel Small Battle Axe Blade, into 0 Platinum Steel Small Battle Axe Kit using Smith Table (combine).
+Blades Making I 75 Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handle using Smith Table (combine).
+Blades Making I 75 Combine Wooden Axe Handle, Platinum Steel Battle Axe Blade, into 0 Platinum Steel Battle Axe Kit using Smith Table (combine).
+Blades Making I 75 Combine Wooden Axe Handle, Platinum Steel Reinforced Axe Blade, into 0 Platinum Steel Reinforced Axe Kit using Smith Table (combine).
+Blades Making I 75 Combine Wooden Axe Handle, Platinum Steel Reinforced Battle Axe Blade, into 0 Platinum Steel Reinforced Battle Axe Kit using Smith Table (combine).
+Blades Making I 75 Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle using Smith Table (combine).
+Blades Making I 75 Cut Oak Baton into 2 Half Oak baton using Smith Table with a Wood Saw.
+Blades Making I 75 Cut White Oak Wood into 4 Oak Baton using Smith Table with a Wood Saw.
+Blades Making I 75 Forge Heated Platinum Steel Battle Axe Alpha Blade into Super Heated Platinum Steel Battle Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Battle Axe Brittle Blade into Super Heated Platinum Steel Battle Axe Dull Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Reinforced Axe Alpha Blade into Super Heated Platinum Steel Reinforced Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Reinforced Axe Brittle Blade into Super Heated Platinum Steel Reinforced Axe Dull Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Reinforced Battle Axe Alpha Blade into Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Reinforced Battle Axe Brittle Blade into Super Heated Platinum Steel Reinforced Battle Axe Dull Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Small Battle Axe Alpha Blade into Super Heated Platinum Steel Small Battle Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Small Battle Axe Brittle Blade into Super Heated Platinum Steel Small Battle Axe Dull Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Battle Axe Alpha Blade into Heated Platinum Steel Battle Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Battle Axe Brittle Blade into Heated Platinum Steel Battle Axe Brittle Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Reinforced Axe Alpha Blade into Heated Platinum Steel Reinforced Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Reinforced Axe Brittle Blade into Heated Platinum Steel Reinforced Axe Brittle Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Reinforced Battle Axe Alpha Blade into Heated Platinum Steel Reinforced Battle Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Reinforced Battle Axe Brittle Blade into Heated Platinum Steel Reinforced Battle Axe Brittle Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Small Battle Axe Alpha Blade into Heated Platinum Steel Small Battle Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Small Battle Axe Brittle Blade into Heated Platinum Steel Small Battle Axe Brittle Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Battle Axe Alpha Blade into Red Hot Platinum Steel Battle Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Reinforced Axe Alpha Blade into Red Hot Platinum Steel Reinforced Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad into Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Small Battle Axe Alpha Blade into Red Hot Platinum Steel Small Battle Axe Alpha Blade using Forge.
+Blades Making I 75 Quench Super Heated Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Dull Blade using Quench Tank.
+Blades Making I 75 Sharpen Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Blade using Sharpening Stone.
+Blades Making I 75 Sharpen Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Blade using Sharpening Stone.
+Blades Making I 75 Sharpen Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Blade using Sharpening Stone.
+Blades Making I 75 Sharpen Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Blade using Sharpening Stone.
+Blades Making O 75 Forge Heated Platinum Steel Battle Axe Beta Blade into Super Heated Platinum Steel Battle Axe Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Battle Axe Blade into Super Heated Platinum Steel Battle Axe Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Battle Axe Delta Blade into Super Heated Platinum Steel Battle Axe Delta Blade using Forg
+Blades Making O 75 Forge Heated Platinum Steel Battle Axe Delta Blade into Super Heated Platinum Steel Battle Axe Delta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Battle Axe Dull Blade into Super Heated Platinum Steel Battle Axe Dull Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Reinforced Axe Beta Blade into Super Heated Platinum Steel Reinforced Axe Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Reinforced Axe Blade into Super Heated Platinum Steel Reinforced Axe Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Reinforced Axe Delta Blade into Super Heated Platinum Steel Reinforced Axe Delta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Reinforced Axe Dull Blade into Super Heated Platinum Steel Reinforced Axe Dull Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Reinforced Battle Axe Beta Blade into Super Heated Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Reinforced Battle Axe Blade into Super Heated Platinum Steel Reinforced Battle Axe Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Reinforced Battle Axe Delta Blade into Super Heated Platinum Steel Reinforced Battle Axe Delta Blad using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Reinforced Battle Axe Dull Blade into Super Heated Platinum Steel Reinforced Battle Axe Dull Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Small Battle Axe Beta Blade into Super Heated Platinum Steel Small Battle Axe Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Small Battle Axe Blade into Super Heated Platinum Steel Small Battle Axe Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Small Battle Axe Delta Blade into Super Heated Platinum Steel Small Battle Axe Delta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Small Battle Axe Dull Blade into Super Heated Platinum Steel Small Battle Axe Dull Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Battle Axe Beta Blade into Heated Platinum Steel Battle Axe Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Battle Axe Blade into Heated Platinum Steel Battle Axe Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Battle Axe Delta Blade into Heated Platinum Steel Battle Axe Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Battle Axe Dull Blade into Heated Platinum Steel Battle Axe Dull Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Reinforced Axe Beta Blade into Heated Platinum Steel Reinforced Axe Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Reinforced Axe Blade into Heated Platinum Steel Reinforced Axe Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Reinforced Axe Delta Blade into Heated Platinum Steel Reinforced Axe Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Reinforced Axe Dull Blade into Heated Platinum Steel Reinforced Axe Dull Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Reinforced Battle Axe Beta Blade into Heated Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Reinforced Battle Axe Blade into Heated Platinum Steel Reinforced Battle Axe Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Reinforced Battle Axe Delta Blade into Heated Platinum Steel Reinforced Battle Axe Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Reinforced Battle Axe Dull Blade into Heated Platinum Steel Reinforced Battle Axe Dull Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Small Battle Axe Beta Blade into Heated Platinum Steel Small Battle Axe Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Small Battle Axe Blade into Heated Platinum Steel Small Battle Axe Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Small Battle Axe Delta Blade into Heated Platinum Steel Small Battle Axe Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Small Battle Axe Dull Blade into Heated Platinum Steel Small Battle Axe Dull Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Battle Axe Beta Blade into Red Hot Platinum Steel Battle Axe Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Battle Axe Blade into Red Hot Platinum Steel Battle Axe Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Battle Axe Delta Blade into Red Hot Platinum Steel Battle Axe Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Battle Axe Dull Blade into Red Hot Platinum Steel Battle Axe Dull Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Reinforced Axe Beta Blade into Red Hot Platinum Steel Reinforced Axe Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Reinforced Axe Blade into Red Hot Platinum Steel Reinforced Axe Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Reinforced Axe Delta Blade into Red Hot Platinum Steel Reinforced Axe Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Reinforced Axe Dull Blade into Red Hot Platinum Steel Reinforced Axe Dull Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Reinforced Battle Axe Beta Blade into Red Hot Platinum Steel Reinforced Battle Axe Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Reinforced Battle Axe Blade into Red Hot Platinum Steel Reinforced Battle Axe Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Reinforced Battle Axe Delta Blad into Red Hot Platinum Steel Reinforced Battle Axe Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Reinforced Battle Axe Dull Blade into Red Hot Platinum Steel Reinforced Battle Axe Dull Blade using Forge
+Blades Making O 75 Forge Super Heated Platinum Steel Reinforced Battle Axe Dull Blade into Red Hot Platinum Steel Reinforced Battle Axe Dull Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Small Battle Axe Beta Blade into Red Hot Platinum Steel Small Battle Axe Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Small Battle Axe Blade into Red Hot Platinum Steel Small Battle Axe Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Small Battle Axe Delta Blade into Red Hot Platinum Steel Small Battle Axe Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Small Battle Axe Dull Blade into Red Hot Platinum Steel Small Battle Axe Dull Blade using Forge.
+Blades Making O 75 Quench Heated Platinum Steel Battle Axe Alpha Blade into Platinum Steel Battle Axe Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Battle Axe Beta Blade into Platinum Steel Battle Axe Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Battle Axe Blade into Platinum Steel Battle Axe Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Battle Axe Brittle Blade into Platinum Steel Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Battle Axe Delta Blade into Platinum Steel Battle Axe Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Axe Alpha Blade into Platinum Steel Reinforced Axe Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Axe Beta Blade into Platinum Steel Reinforced Axe Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Axe Blade into Platinum Steel Reinforced Axe Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Axe Brittle Blade into Platinum Steel Reinforced Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Axe Delta Blade into Platinum Steel Reinforced Axe Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Battle Axe Alpha Blade into Platinum Steel Reinforced Battle Axe Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Battle Axe Beta Blade into Platinum Steel Reinforced Battle Axe Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Battle Axe Blade into Platinum Steel Reinforced Battle Axe Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Battle Axe Brittle Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Battle Axe Delta Blade into Platinum Steel Reinforced Battle Axe Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Small Battle Axe Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Small Battle Axe Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Small Battle Axe Blade into Platinum Steel Small Battle Axe Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Small Battle Axe Brittle Blade into Platinum Steel Small Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Small Battle Axe Delta Blade into Platinum Steel Small Battle Axe Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Battle Axe Alpha Blade into Platinum Steel Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Battle Axe Beta Blade into Platinum Steel Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Battle Axe Blade into Platinum Steel Battle Axe Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Battle Axe Delta Blade into Platinum Steel Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Battle Axe Dull Blade into Platinum Steel Battle Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Axe Alpha Blade into Platinum Steel Reinforced Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Axe Beta Blade into Platinum Steel Reinforced Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Axe Blade into Platinum Steel Reinforced Axe Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Axe Delta Blade into Platinum Steel Reinforced Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Battle Axe Beta Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Battle Axe Blade into Platinum Steel Reinforced Battle Axe Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Battle Axe Delta Blade into Platinum Steel Reinforced Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Small Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Small Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Small Battle Axe Blade into Platinum Steel Small Battle Axe Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Small Battle Axe Delta Blade into Platinum Steel Small Battle Axe Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Battle Axe Alpha Blade into Platinum Steel Battle Axe Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Battle Axe Beta Blade into Platinum Steel Battle Axe Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Battle Axe Blade into Platinum Steel Battle Axe Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Battle Axe Delta Blade into Platinum Steel Battle Axe Delta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Axe Alpha Blade into Platinum Steel Reinforced Axe Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Axe Beta Blade into Platinum Steel Reinforced Axe Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Axe Blade into Platinum Steel Reinforced Axe Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Axe Delta Blade into Platinum Steel Reinforced Axe Delta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Axe Dull Blade into Platinum Steel Reinforced Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad into Platinum Steel Reinforced Battle Axe Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Battle Axe Beta Blade into Platinum Steel Reinforced Battle Axe Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Battle Axe Blade into Platinum Steel Reinforced Battle Axe Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Battle Axe Delta Blad into Platinum Steel Reinforced Battle Axe Delta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Reinforced Battle Axe Dull Blade into Platinum Steel Reinforced Battle Axe Dull Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Small Battle Axe Alpha Blade into Platinum Steel Small Battle Axe Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Small Battle Axe Beta Blade into Platinum Steel Small Battle Axe Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Small Battle Axe Blade into Platinum Steel Small Battle Axe Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Small Battle Axe Delta Blade into Platinum Steel Small Battle Axe Delta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Small Battle Axe Dull Blade into Platinum Steel Small Battle Axe Dull Blade using Quench Tank.
+Blades Making P 75 Assemble Platinum Steel Battle Axe Kit into Platinum Steel Battle Axe using Smith Table.
+Blades Making P 75 Assemble Platinum Steel Reinforced Axe Kit into Platinum Steel Reinforced Axe using Smith Table.
+Blades Making P 75 Assemble Platinum Steel Reinforced Battle Axe Kit into Platinum Steel Reinforced Battle Axe using Smith Table.
+Blades Making P 75 Assemble Platinum Steel Small Battle Axe Kit into Platinum Steel Small Battle Axe using Smith Table.

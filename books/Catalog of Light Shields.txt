@@ -1,0 +1,182 @@
+Shield Making I <21 Combine 2 Shaped Small Wooden Block, into 0 Small Wooden Shield Core using Smith Table (combine).
+Shield Making I <21 Combine Buckler Shape, Small Wooden Shield Core, Leather Shield Handle, into 0 Buckler Kit using Smith Table (combine).
+Shield Making I <21 Shape 3 Heated Steel Ingot into Buckler Shape using Anvil with a Hammer.
+Shield Making I <21 Shape 7 Heated Iron Ingot into 3 Iron Band using Anvil with a Hammer.
+Shield Making I <23 Carve Small Wooden Block into Shaped Small Wooden Block using Smith Table with a Wood Chisel.
+Shield Making I <23 Carve Wooden Block into Shaped Wooden Block using Smith Table with a Wood Chisel.
+Shield Making I <23 Combine 2 Shaped Small Wooden Block, into 0 Small Wooden Shield Core using Smith Table (combine).
+Shield Making I <23 Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Core using Smith Table (combine).
+Shield Making I <23 Combine Bronze Buckler Shape, Small Wooden Shield Core, Leather Shield Handle, into 0 Bronze Buckler Kit using Smith Table (combine).
+Shield Making I <23 Combine Bronze Spike, Small Spiked Bronze Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Small Spiked Bronze Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Iron Buckler Shape, Small Wooden Shield Core, Leather Shield Handle, into 0 Iron Buckler Kit using Smith Table (combine).
+Shield Making I <23 Combine Iron Spike, Small Spiked Iron Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Small Spiked Iron Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Shield Spike, Small Spiked Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Small Spiked Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Small Bronze Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Small Bronze Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Small Iron Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Small Iron Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Small Round Bronze Shield Shape, Small Wooden Shield Core, Leather Shield Handle, into 0 Small Round Bronze Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Small Round Iron Shield Shape, Small Wooden Shield Core, Leather Shield Handle, into 0 Small Round Iron Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Small Round Shield Shape, Small Wooden Shield Core, Leather Shield Handle, into 0 Small Round Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Small Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Small Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Wooden Shield Core, Leather Shield Handle, 2 Iron Edgings, into 0 Reinforced Wooden Shield Kit using Smith Table (combine).
+Shield Making I <23 Combine Wooden Shield Core, Leather Shield Handle, 4 Iron Band, into 0 Wooden and Metal Shield Kit using Smith Table (combine).
+Shield Making I <23 Cut Threestem Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+Shield Making I <23 Cut White Oak Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+Shield Making I <23 Cut Wooden Block into 2 Small Wooden Block using Smith Table with a Wood Saw.
+Shield Making I <23 Shape 14 Heated Iron Ingot into 7 Iron Edgings using Anvil with a Hammer.
+Shield Making I <23 Shape 3 Heated Bronze Ingot into Bronze Buckler Shape using Anvil with a Hammer.
+Shield Making I <23 Shape 3 Heated Iron Ingot into Iron Buckler Shape using Anvil with a Hammer.
+Shield Making I <23 Shape 4 Heated Bronze Ingot into Small Round Bronze Shield Shape using Anvil with a Hammer.
+Shield Making I <23 Shape 4 Heated Iron Ingot into Small Round Iron Shield Shape using Anvil with a Hammer.
+Shield Making I <23 Shape 4 Heated Steel Ingot into Small Round Shield Shape using Anvil with a Hammer.
+Shield Making I <23 Shape 5 Heated Bronze Ingot into Small Bronze Shield Shape using Anvil with a Hammer.
+Shield Making I <23 Shape 5 Heated Iron Ingot into Small Iron Shield Shape using Anvil with a Hammer.
+Shield Making I <23 Shape 5 Heated Steel Ingot into Small Shield Shape using Anvil with a Hammer.
+Shield Making I >23 Shape 6 Heated Bronze Ingot into Small Spiked Bronze Shield Shape using Anvil with a Hammer.
+Shield Making I <23 Shape 6 Heated Iron Ingot into Small Spiked Iron Shield Shape using Anvil with a Hammer.
+Shield Making I <23 Shape 6 Heated Steel Ingot into Small Spiked Shield Shape using Anvil with a Hammer.
+Shield Making I >23 Shape Heated Bronze Ingot into 2 Bronze Spike using Anvil with a Hammer.
+Shield Making I <23 Shape Heated Iron Ingot into 2 Iron Spike using Anvil with a Hammer.
+Shield Making I <23 Shape Heated Steel Ingot into 2 Shield Spike using Anvil with a Hammer.
+Shield Making I <23 Weave 4 Leather String into Leather Shield Handle using Smith Table.
+Shield Making O 0 Forge Bronze Buckler Shape into Heated Bronze Buckler Shape using Forge.
+Shield Making O 0 Forge Bronze Spike into Heated Bronze Spike using Forge.
+Shield Making O 0 Forge Buckler Shape into Heated Buckler Shape using Forge.
+Shield Making O 0 Forge Heated Bronze Buckler Shape into Super Heated Bronze Buckler Shape using Forge.
+Shield Making O 0 Forge Heated Bronze Spike into Super Heated Bronze Spike using Forge.
+Shield Making O 0 Forge Heated Buckler Shape into Super Heated Buckler Shape using Forge.
+Shield Making O 0 Forge Heated Iron Band into Super Heated Iron Band using Forge.
+Shield Making O 0 Forge Heated Iron Buckler Shape into Super Heated Iron Buckler Shape using Forge.
+Shield Making O 0 Forge Heated Iron Edging into Super Heated Iron Edging using Forge.
+Shield Making O 0 Forge Heated Iron Spike into Super Heated Iron Spike using Forge.
+Shield Making O 0 Forge Heated Shield Spike into Super Heated Shield Spike using Forge.
+Shield Making O 0 Forge Heated Small Bronze Round Shield Shape into Super Heated Small Bronze Round Shield Shape using Forge.
+Shield Making O 0 Forge Heated Small Bronze Shield Shape into Super Heated Small Bronze Shield Shape using Forge.
+Shield Making O 0 Forge Heated Small Iron Shield Shape into Super Heated Small Iron Shield Shape using Forge.
+Shield Making O 0 Forge Heated Small Round Iron Shield Shape into Super Heated Small Round Iron Shield Shape using Forge.
+Shield Making O 0 Forge Heated Small Round Shield Shape into Super Heated Small Round Shield Shape using Forge.
+Shield Making O 0 Forge Heated Small Shield Shape into Super Heated Small Shield Shape using Forge.
+Shield Making O 0 Forge Heated Small Spiked Iron Shield Shape into Super Heated Small Spiked Iron Shield Shape using Forge.
+Shield Making O 0 Forge Heated Small Spiked Shield Shape into Super Heated Small Spiked Shield Shape using Forge.
+Shield Making O 0 Forge Iron Band into Heated Iron Band using Forge.
+Shield Making O 0 Forge Iron Buckler Shape into Heated Iron Buckler Shape using Forge.
+Shield Making O 0 Forge Iron Edging into Heated Iron Edging using Forge.
+Shield Making O 0 Forge Iron Spike into Heated Iron Spike using Forge.
+Shield Making O 0 Forge Shield Spike into Heated Shield Spike using Forge.
+Shield Making O 0 Forge Small Bronze Shield Shape into Heated Small Bronze Shield Shape using Forge.
+Shield Making O 0 Forge Small Iron Shield Shape into Heated Small Iron Shield Shape using Forge.
+Shield Making O 0 Forge Small Round Bronze Shield Shape into Heated Small Bronze Round Shield Shape using Forge.
+Shield Making O 0 Forge Small Round Iron Shield Shape into Heated Small Round Iron Shield Shape using Forge.
+Shield Making O 0 Forge Small Round Shield Shape into Heated Small Round Shield Shape using Forge.
+Shield Making O 0 Forge Small Shield Shape into Heated Small Shield Shape using Forge.
+Shield Making O 0 Forge Small Spiked Iron Shield Shape into Heated Small Spiked Iron Shield Shape using Forge.
+Shield Making O 0 Forge Small Spiked Shield Shape into Heated Small Spiked Shield Shape using Forge.
+Shield Making O 0 Forge Super Heated Bronze Buckler Shape into Red Hot Bronze Buckler Shape using Forge.
+Shield Making O 0 Forge Super Heated Bronze Spike into Red Hot Bronze Spike using Forge.
+Shield Making O 0 Forge Super Heated Buckler Shape into Red Hot Buckler Shape using Forge.
+Shield Making O 0 Forge Super Heated Iron Band into Red Hot Iron Band using Forge.
+Shield Making O 0 Forge Super Heated Iron Buckler Shape into Red Hot Iron Buckler Shape using Forge.
+Shield Making O 0 Forge Super Heated Iron Edging into Red Hot Iron Edging using Forge.
+Shield Making O 0 Forge Super Heated Iron Spike into Red Hot Iron Spike using Forge.
+Shield Making O 0 Forge Super Heated Shield Spike into Red Hot Shield Spike using Forge.
+Shield Making O 0 Forge Super Heated Small Bronze Round Shield Shape into Red Hot Small Bronze Round Shield Shape using Forge.
+Shield Making O 0 Forge Super Heated Small Bronze Shield Shape into Red Hot Small Bronze Shield Shape using Forge.
+Shield Making O 0 Forge Super Heated Small Iron Shield Shape into Red Hot Small Iron Shield Shape using Forge.
+Shield Making O 0 Forge Super Heated Small Round Iron Shield Shape into Red Hot Small Round Iron Shield Shape using Forge.
+Shield Making O 0 Forge Super Heated Small Round Shield Shape into Red Hot Small Round Shield Shape using Forge.
+Shield Making O 0 Forge Super Heated Small Shield Shape into Red Hot Small Shield Shape using Forge.
+Shield Making O 0 Forge Super Heated Small Spiked Iron Shield Shape into Red Hot Small Spiked Iron Shield Shape using Forge.
+Shield Making O 0 Forge Super Heated Small Spiked Shield Shape into Red Hot Small Spiked Shield Shape using Forge.
+Shield Making O 0 Quench Heated Bronze Buckler Shape into Bronze Buckler Shape using Quench Tank.
+Shield Making O 0 Quench Heated Bronze Spike into Bronze Spike using Quench Tank.
+Shield Making O 0 Quench Heated Buckler Shape into Buckler Shape using Quench Tank.
+Shield Making O 0 Quench Heated Iron Band into Iron Band using Quench Tank.
+Shield Making O 0 Quench Heated Iron Buckler Shape into Iron Buckler Shape using Quench Tank.
+Shield Making O 0 Quench Heated Iron Edging into Iron Edging using Quench Tank.
+Shield Making O 0 Quench Heated Iron Spike into Iron Spike using Quench Tank.
+Shield Making O 0 Quench Heated Shield Spike into Shield Spike using Quench Tank.
+Shield Making O 0 Quench Heated Small Bronze Round Shield Shape into Small Round Bronze Shield Shape using Quench Tank.
+Shield Making O 0 Quench Heated Small Bronze Shield Shape into Small Bronze Shield Shape using Quench Tank.
+Shield Making O 0 Quench Heated Small Iron Shield Shape into Small Iron Shield Shape using Quench Tank.
+Shield Making O 0 Quench Heated Small Round Iron Shield Shape into Small Round Iron Shield Shape using Quench Tank.
+Shield Making O 0 Quench Heated Small Round Shield Shape into Small Round Shield Shape using Quench Tank.
+Shield Making O 0 Quench Heated Small Shield Shape into Small Shield Shape using Quench Tank.
+Shield Making O 0 Quench Heated Small Spiked Iron Shield Shape into Small Spiked Iron Shield Shape using Quench Tank.
+Shield Making O 0 Quench Heated Small Spiked Shield Shape into Small Spiked Shield Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Bronze Buckler Shape into Bronze Buckler Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Bronze Spike into Bronze Spike using Quench Tank.
+Shield Making O 0 Quench Red Hot Buckler Shape into Buckler Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Iron Band into Iron Band using Quench Tank.
+Shield Making O 0 Quench Red Hot Iron Buckler Shape into Iron Buckler Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Iron Edging into Iron Edging using Quench Tank.
+Shield Making O 0 Quench Red Hot Iron Spike into Iron Spike using Quench Tank.
+Shield Making O 0 Quench Red Hot Shield Spike into Shield Spike using Quench Tank.
+Shield Making O 0 Quench Red Hot Small Bronze Round Shield Shape into Small Round Bronze Shield Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Small Bronze Shield Shape into Small Bronze Shield Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Small Iron Shield Shape into Small Iron Shield Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Small Round Iron Shield Shape into Small Round Iron Shield Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Small Round Shield Shape into Small Round Shield Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Small Shield Shape into Small Shield Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Small Spiked Iron Shield Shape into Small Spiked Iron Shield Shape using Quench Tank.
+Shield Making O 0 Quench Red Hot Small Spiked Shield Shape into Small Spiked Shield Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Bronze Buckler Shape into Bronze Buckler Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Bronze Spike into Bronze Spike using Quench Tank.
+Shield Making O 0 Quench Super Heated Buckler Shape into Buckler Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Iron Band into Iron Band using Quench Tank.
+Shield Making O 0 Quench Super Heated Iron Buckler Shape into Iron Buckler Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Iron Edging into Iron Edging using Quench Tank.
+Shield Making O 0 Quench Super Heated Iron Spike into Iron Spike using Quench Tank.
+Shield Making O 0 Quench Super Heated Shield Spike into Shield Spike using Quench Tank.
+Shield Making O 0 Quench Super Heated Small Bronze Round Shield Shape into Small Round Bronze Shield Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Small Bronze Shield Shape into Small Bronze Shield Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Small Iron Shield Shape into Small Iron Shield Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Small Round Iron Shield Shape into Small Round Iron Shield Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Small Round Shield Shape into Small Round Shield Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Small Shield Shape into Small Shield Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Small Spiked Iron Shield Shape into Small Spiked Iron Shield Shape using Quench Tank.
+Shield Making O 0 Quench Super Heated Small Spiked Shield Shape into Small Spiked Shield Shape using Quench Tank.
+Shield Making O <21 Shape Heated Buckler Shape into Buckler Shape using Anvil with a Hammer.
+Shield Making O <21 Shape Super Heated Buckler Shape into Buckler Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Bronze Buckler Shape into Bronze Buckler Shape using Anvil with a Hammer.
+Shield Making O >23 Shape Heated Bronze Spike into Bronze Spike using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Iron Band into Iron Band using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Iron Buckler Shape into Iron Buckler Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Iron Edging into Iron Edging using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Iron Spike into Iron Spike using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Shield Spike into Shield Spike using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Small Bronze Round Shield Shape into Small Round Bronze Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Small Bronze Shield Shape into Small Bronze Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Small Iron Shield Shape into Small Iron Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Small Round Iron Shield Shape into Small Round Iron Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Small Round Shield Shape into Small Round Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Small Shield Shape into Small Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Small Spiked Iron Shield Shape into Small Spiked Iron Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Heated Small Spiked Shield Shape into Small Spiked Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Bronze Buckler Shape into Bronze Buckler Shape using Anvil with a Hammer.
+Shield Making O >23 Shape Super Heated Bronze Spike into Bronze Spike using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Iron Band into Iron Band using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Iron Buckler Shape into Iron Buckler Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Iron Edging into Iron Edging using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Iron Spike into Iron Spike using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Shield Spike into Shield Spike using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Small Bronze Round Shield Shape into Small Round Bronze Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Small Bronze Shield Shape into Small Bronze Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Small Iron Shield Shape into Small Iron Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Small Round Iron Shield Shape into Small Round Iron Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Small Round Shield Shape into Small Round Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Small Shield Shape into Small Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Small Spiked Iron Shield Shape into Small Spiked Iron Shield Shape using Anvil with a Hammer.
+Shield Making O <23 Shape Super Heated Small Spiked Shield Shape into Small Spiked Shield Shape using Anvil with a Hammer.
+Shield Making P <21 Assemble Buckler Kit into Buckler using Riveter.
+Shield Making P <23 Assemble Bronze Buckler Kit into Bronze Buckler using Riveter.
+Shield Making P <23 Assemble Iron Buckler Kit into Iron Buckler using Riveter.
+Shield Making P <23 Assemble Reinforced Wooden Shield Kit into Reinforced Wooden Shield using Riveter.
+Shield Making P <23 Assemble Small Bronze Shield Kit into Small Bronze Shield using Riveter.
+Shield Making P <23 Assemble Small Iron Shield Kit into Small Iron Shield using Riveter.
+Shield Making P <23 Assemble Small Round Bronze Shield Kit into Small Round Bronze Shield using Riveter.
+Shield Making P <23 Assemble Small Round Iron Shield Kit into Small Round Iron Shield using Riveter.
+Shield Making P <23 Assemble Small Round Shield Kit into Small Round Shield using Riveter.
+Shield Making P <23 Assemble Small Shield Kit into Small Shield using Riveter.
+Shield Making P >23 Assemble Small Spiked Bronze Shield Kit into Small Spiked Bronze Shield using Riveter.
+Shield Making P <23 Assemble Small Spiked Iron Shield Kit into Small Spiked Iron Shield using Riveter.
+Shield Making P <23 Assemble Small Spiked Shield Kit into Small Spiked Shield using Riveter.
+Shield Making P <23 Assemble Wooden and Metal Shield Kit into Wooden and Metal Shield using Riveter.

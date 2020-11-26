@@ -1,0 +1,64 @@
+Bow Making I 200 Assemble Enkidukai Longbow Staff Kit into Enkidukai Longbow Staff using Riveter.
+Bow Making I 200 Assemble Enkidukai Shortbow Staff Kit into Enkidukai Shortbow Staff using Riveter.
+Bow Making I 200 Assemble Stonehammer Longbow Kit into Unbalanced Stonehammer Longbow using Riveter.
+Bow Making I 200 Assemble Stonehammer Shortbow Kit into Unbalanced Stonehammer Shortbow using Riveter.
+Bow Making I 200 Assemble Ynnwn Longbow Staff Kit into Ynnwn Longbow Staff using Riveter.
+Bow Making I 200 Carve Long Oak Wood Rod into Long Carved Oak Wood Rod using Smith Table with a Wood Chisel.
+Bow Making I 200 Carve Small Oak Wood Board into Small Oak Wood Carved Board using Smith Table with a Wood Chisel.
+Bow Making I 200 Carve Tefusang Claw into Carved Tefusang Claw using Smith Table with a Wood Chisel.
+Bow Making I 200 Carve Tefusangling Claw into Carved Tefusangling Claw using Smith Table with a Wood Chisel.
+Bow Making I 200 Carve Ulbernaut Claw into Carved Ulbernaut Claw using Smith Table with a Wood Chisel.
+Bow Making I 200 Combine 2 Carved Tefusang Claw, Oak Wood Grip, Fish Glue, into 0 Enkidukai Longbow Staff Kit using Smith Table (combine).
+Bow Making I 200 Combine 2 Carved Tefusangling Claw, Wooden Grip, Fish Glue, into 0 Enkidukai Shortbow Staff Kit using Smith Table (combine).
+Bow Making I 200 Combine 2 Carved Ulbernaut Claw, Oak Wood Grip, Fish Glue, into 0 Ynnwn Longbow Staff Kit using Smith Table (combine).
+Bow Making I 200 Combine Stonehammer Longbow Staff, Steel String, into 0 Stonehammer Longbow Kit using Smith Table (combine).
+Bow Making I 200 Combine Stonehammer Shortbow Staff, Steel String, into 0 Stonehammer Shortbow Kit using Smith Table (combine).
+Bow Making I 200 Combine Unstrung Dermorian Longbow, Plant String, into 0 Unbalanced Dermorian Longbow using Smith Table (combine).
+Bow Making I 200 Combine Unstrung Dermorian Shortbow, Plant String, into 0 Unbalanced Dermorian Shortbow using Smith Table (combine).
+Bow Making I 200 Combine Unstrung Enkidukai Longbow, Tendon String, into 0 Unbalanced Enkidukai Longbow using Smith Table (combine).
+Bow Making I 200 Combine Unstrung Enkidukai Shortbow, Tendon String, into 0 Unbalanced Enkidukai Shortbow using Smith Table (combine).
+Bow Making I 200 Combine Unstrung Ynnwn Longbow, Tendon String, into 0 Unbalanced Ynnwn Longbow using Smith Table (combine).
+Bow Making I 200 Combine Unstrung Ynnwn Shortbow, Tendon String, into 0 Unbalanced Ynnwn Shortbow using Smith Table (combine).
+Bow Making I 200 Curve Carved Ulbernaut Claw into Carved Curved Ulbernaut Claw using Smith Table.
+Bow Making I 200 Curve Enkidukai Longbow Staff into Curved Enkidukai Longbow Staff using Smith Table.
+Bow Making I 200 Curve Enkidukai Shortbow Staff into Curved Enkidukai Shortbow Staff using Smith Table.
+Bow Making I 200 Curve Long Carved Oak Wood Rod into Long Carved Curved Oak Wood Rod using Smith Table.
+Bow Making I 200 Curve Small Oak Wood Carved Board into Small Oak Wood Carved Curved Board using Smith Table.
+Bow Making I 200 Curve Ynnwn Longbow Staff into Curved Ynnwn Longbow Staff using Smith Table.
+Bow Making I 200 Cut Oak Wood Board into 2 Small Oak Wood Board using Smith Table with a Wood Saw.
+Bow Making I 200 Cut Threestem Wood into 2 Wooden Board using Smith Table with a Wood Saw.
+Bow Making I 200 Cut White Oak Wood into 2 Oak Wood Board using Smith Table with a Wood Saw.
+Bow Making I 200 Cut Wooden Board into 2 Small Wooden Board using Smith Table with a Wood Saw.
+Bow Making I 200 Forge Untempered Stonehammer Longbow Staff into Heated Untempered Stonehammer Longbow Staff using Forge.
+Bow Making I 200 Forge Untempered Stonehammer Shortbow Staff into Heated Untempered Stonehammer Shortbow Staff using Forge.
+Bow Making I 200 Loosen Clacker Leg into Tendon using Smith Table with a Kitchen Knife.
+Bow Making I 200 Loosen Consumer Leg into 3 Tendon using Smith Table with a Kitchen Knife.
+Bow Making I 200 Loosen Thunder Clacker Leg into 2 Tendon using Smith Table with a Kitchen Knife.
+Bow Making I 200 Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+Bow Making I 200 Quench Heated Untempered Stonehammer Longbow Staff into Stonehammer Longbow Staff using Quench Tank.
+Bow Making I 200 Quench Heated Untempered Stonehammer Shortbow Staff into Stonehammer Shortbow Staff using Quench Tank.
+Bow Making I 200 Season 3 Couchgrass into Dried Couchgrass using Smith Table.
+Bow Making I 200 Season Carved Curved Ulbernaut Claw into Unstrung Ynnwn Shortbow using Smith Table.
+Bow Making I 200 Season Curved Enkidukai Longbow Staff into Unstrung Enkidukai Longbow using Smith Table.
+Bow Making I 200 Season Curved Enkidukai Shortbow Staff into Unstrung Enkidukai Shortbow using Smith Table.
+Bow Making I 200 Season Curved Ynnwn Longbow Staff into Unstrung Ynnwn Longbow using Smith Table.
+Bow Making I 200 Season Long Carved Curved Oak Wood Rod into Unstrung Dermorian Longbow using Smith Table.
+Bow Making I 200 Season Small Oak Wood Carved Curved Board into Unstrung Dermorian Shortbow using Smith Table.
+Bow Making I 200 Shape 2 Heated Bronze Stock into Untempered Stonehammer Longbow Staff using Anvil with a Hammer.
+Bow Making I 200 Shape Heated Bronze Stock into Untempered Stonehammer Shortbow Staff using Anvil with a Hammer.
+Bow Making I 200 Smooth Small Oak Wood Board into Smoothed Oak Wood Board using Smith Table with a Wood Plane.
+Bow Making I 200 Spin 3 Dried Couchgrass into Thread using Smith Table with a Mandrel.
+Bow Making I 200 Spin 3 Steel Wire into Steel String using Smith Table with a Mandrel.
+Bow Making I 200 Spin 3 Tendon into Tendon String using Smith Table with a Mandrel.
+Bow Making I 200 Spin 3 Thread into Plant String using Smith Table with a Mandrel.
+Bow Making I 200 Whittle Small Oak Wood Board into 2 Oak Wood Grip using Smith Table with a Kitchen Knife.
+Bow Making I 200 Whittle Small Wooden Board into 2 Wooden Grip using Smith Table with a Kitchen Knife.
+Bow Making I 200 Woodturn White Oak Wood into Long Oak Wood Rod using Smith Table with a Wood Chisel.
+Bow Making P 200 Balance Unbalanced Dermorian Longbow into Dermorian Longbow using Smith Table.
+Bow Making P 200 Balance Unbalanced Dermorian Shortbow into Dermorian Shortbow using Smith Table.
+Bow Making P 200 Balance Unbalanced Enkidukai Longbow into Enkidukai Longbow using Smith Table.
+Bow Making P 200 Balance Unbalanced Enkidukai Shortbow into Enkidukai Shortbow using Smith Table.
+Bow Making P 200 Balance Unbalanced Stonehammer Longbow into Stonehammer Longbow using Smith Table.
+Bow Making P 200 Balance Unbalanced Stonehammer Shortbow into Stonehammer Shortbow using Smith Table.
+Bow Making P 200 Balance Unbalanced Ynnwn Longbow into Ynnwn Longbow using Smith Table.
+Bow Making P 200 Balance Unbalanced Ynnwn Shortbow into Ynnwn Shortbow using Smith Table.

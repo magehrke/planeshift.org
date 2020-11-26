@@ -1,0 +1,192 @@
+Alchemy I 0 Combine 2 Charme Essence, 2 Copper Solution, into 0 Raw Major Potion of Diaboli's Charm using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Grace Essence, 2 Silver Solution, into 0 Raw Major Potion of Enkidukai's Grace using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Salt spirit, Limed Grendol bones, into 0 Mix of Limed Grendol bones using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Salt spirit, Limed Marfusang Bones, into 0 Mix of Limed Marfusang Bones using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Smartness Essence, 2 Tin Solution, into 0 Raw Major Potion of Lemur's Smartness using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Spirit, Ground Thunder Clacker Tentacle, into 0 Mix of Thunder Clacker Tentacle using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Spirit, Ground Trepor Wiggly Feeler, into 0 Mix of Trepor Wiggly Feeler using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Toughness Essence, 2 Zinc Solution, into 0 Raw Major Potion of Ynnwn's Toughness using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Vigor Essence, 2 Iron Solution, into 0 Raw Major Potion of Kran's Vigor using Alchemy Table (combine).
+Alchemy I 0 Combine 2 Willpower Essence, 2 Quicksilver Solution, into 0 Raw Major Potion of Dermorian's Willpower using Alchemy Table (combine).
+Alchemy I 0 Combine Charme Essence, Copper Solution, into 0 Raw Potion of Diaboli's Charm using Alchemy Table (combine).
+Alchemy I 0 Combine Grace Essence, Silver Solution, into 0 Raw Potion of Enkidukai's Grace using Alchemy Table (combine).
+Alchemy I 0 Combine Ground Wrath Rat Bones, Salt spirit, into 0 Mix of Wrath Rat Bones using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Ground Trepor Warrior Talon, into 0 Mix of ground Trepor Warrior Talon using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Incinerated Arangma Talon, into 0 Mix of incinerated Arangma Talon using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Incinerated Flayed Velnishi Talon, into 0 Mix of Flayed Velnishi Talon using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Incinerated Jade Clacker Talon, into 0 Mix of Jade Clacker Talon using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Incinerated Maulberlord Talon, into 0 Mix of Incinerated Maulberlord Talon using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Incinerated Maulbernaut Talon, into 0 Mix of Incinerated Maulbernaut Talon using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Incinerated Tefusang Claw, into 0 Mix of Incinerated Tefusang Claw using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Incinerated Tefusangling Claw, into 0 Mix of Incinerated Tefusangling Claw using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Incinerated Velnishi Talon, into 0 Mix of incinerated Velnishi Talon using Alchemy Table (combine).
+Alchemy I 0 Combine Nitric spirit, Limed Coamti Talon, into 0 Mix of Limed Coamti Talon using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Copper, 2 Oil of Vitriol, into 0 Mix of Copper and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Diamond Crystal, Quicksilver Vial, into 0 Raw Minor Potion of Dermorian's Willpower using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Emerald Crystal, Zinc Ore Solution, into 0 Raw Minor Potion of Ynnwn's Toughness using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Iron, 2 Oil of Vitriol, into 0 Mix of Iron and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Iron Ore, 2 Oil of Vitriol, into 0 Mix of Iron ore and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Ruby Crystal, Iron Ore Solution, into 0 Raw Minor Potion of Kran's Vigor using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Sapphire Crystal, Silver Ore Solution, into 0 Raw Minor Potion of Enkidukai's Grace using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Silver, 2 Oil of Vitriol, into 0 Mix of Silver and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Silver Ore, 2 Oil of Vitriol, into 0 Mix of Silver ore and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Tin, 2 Oil of Vitriol, into 0 Mix of Tin and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Tin Ore, 2 Oil of Vitriol, into 0 Mix of Tin ore and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Zinc, 2 Oil of Vitriol, into 0 Mix of Zinc and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Powdered Zinc Ore, 2 Oil of Vitriol, into 0 Mix of Zinc ore and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Quicksilver Vial, 2 Oil of Vitriol, into 0 Mix of Quicksilver and vitriol using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Copper Ore Solution, into 0 Raw Minor Potion of Diaboli's Charm using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Ground Serpent Gobble Bones, into 0 Mix of Ground Serpent Gobble Bones using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Carkarass Skull, into 0 Mix of limed Carkarass skull using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Eagle Gobble Skull, into 0 Mix of limed Eagle Gobble skull using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Flayed Velnishi Skull, into 0 Mix of limed Flayed Velnishi skull using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Poison Carkarass Skull, into 0 Mix of limed Poison Carkarass skull using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Serpent Gobble Skull, into 0 Mix of limed Serpent Gobble skull using Alchemy Table (combine).
+Alchemy I 0 Combine Smartness Essence, Tin Solution, into 0 Raw Potion of Lemur's Smartness using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, 2 Coamti Eye, into 0 Mixed Coamti Eye using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, 2 Ground Rat Foot, into 0 Mixed Rats foot using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, 2 Ground Vesper Arangma Feeler, into 0 Mix of Vesper Arangma Feeler using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, 2 Rat Eye, into 0 Mixed Rats eyes using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, 2 Vesper Arangma Eye, into 0 Mixed Vesper Arangma Eye using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, 2 Wrath Rat Eye, into 0 Mix of Wrath Rat Eye using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, Ground Thunder Clacker Leg, into 0 Mixed Thunder Clacker Leg using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, Powdered Clacker Leg, into 0 Mixed Clacker Leg using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, Powdered Consumer Antenna, into 0 Mix of Consumer Antenna using Alchemy Table (combine).
+Alchemy I 0 Combine Spirit, Powdered Consumer Leg, into 0 Mixed Consumer Leg using Alchemy Table (combine).
+Alchemy I 0 Combine Toughness Essence, Zinc Solution, into 0 Raw Potion of Ynnwn's Toughness using Alchemy Table (combine).
+Alchemy I 0 Combine Vigor Essence, Iron Solution, into 0 Raw Potion of Kran's Vigor using Alchemy Table (combine).
+Alchemy I 0 Combine Vitriol salt, 2 Purified Kikiri Blood, into 0 Mix of Kikiri Blood using Alchemy Table (combine).
+Alchemy I 0 Combine Vitriol salt, Distilled Coamti Blood, into 0 Mix of Distilled Coamti Blood using Alchemy Table (combine).
+Alchemy I 0 Combine Vitriol salt, Distilled Gobble Blood, into 0 Mix of Distilled Gobble Blood using Alchemy Table (combine).
+Alchemy I 0 Combine Vitriol salt, Distilled Velnishi Blood, into 0 Mix of Distilled Velnishi Blood using Alchemy Table (combine).
+Alchemy I 0 Combine Vitriol salt, Distilled Vilenaut Blood, into 0 Mix of Distilled Vilenaut Blood using Alchemy Table (combine).
+Alchemy I 0 Combine Vitriol salt, Distilled Weaver Arangma Blood, into 0 Mix of Distilled Weaver Arangma Blood using Alchemy Table (combine).
+Alchemy I 0 Combine Vitriol salt, Purified Maulberlord Blood, into 0 Mix of Purified Maulberlord Blood using Alchemy Table (combine).
+Alchemy I 0 Combine Vitriol salt, Tin Ore Solution, into 0 Raw Minor Potion of Lemur's Smartness using Alchemy Table (combine).
+Alchemy I 0 Combine Willpower Essence, Quicksilver Solution, into 0 Raw Potion of Dermorian's Willpower using Alchemy Table (combine).
+Alchemy I 0 Corrode Mix of Iron ore and vitriol into 2 Iron Ore Solution using Crucible with a Glass Stirrer.
+Alchemy I 0 Corrode Mix of salt and vitriol into 2 Salt spirit using Crucible with a Glass Stirrer.
+Alchemy I 0 Corrode Mix of Silver ore and vitriol into 2 Silver Ore Solution using Crucible with a Glass Stirrer.
+Alchemy I 0 Corrode Mix of Tin ore and vitriol into 2 Tin Ore Solution using Crucible with a Glass Stirrer.
+Alchemy I 0 Corrode Mix of Zinc ore and vitriol into 2 Zinc Ore Solution using Crucible with a Glass Stirrer.
+Alchemy I 0 Evaporate Mix of niter and vitriol into 2 Vitriol salt using Athanor.
+Alchemy I 0 Grind Copper Ore into Powdered Copper Ore using Alchemist Table with a Wooden Mallet.
+Alchemy I 0 Grind Iron Ore into Powdered Iron Ore using Alchemist Table with a Wooden Mallet.
+Alchemy I 0 Grind Silver Ore into Powdered Silver Ore using Alchemist Table with a Wooden Mallet.
+Alchemy I 0 Grind Tin Ore into Powdered Tin Ore using Alchemist Table with a Wooden Mallet.
+Alchemy I 0 Grind Zinc Ore into Powdered Zinc Ore using Alchemist Table with a Wooden Mallet.
+Alchemy I 0 Pulverize Diamond Crystal into 2 Powdered Diamond Crystal using Mortar and Pestle.
+Alchemy I 0 Pulverize Emerald Crystal into 2 Powdered Emerald Crystal using Mortar and Pestle.
+Alchemy I 0 Pulverize Ruby Crystal into 2 Powdered Ruby Crystal using Mortar and Pestle.
+Alchemy I 0 Pulverize Sapphire Crystal into 2 Powdered Sapphire Crystal using Mortar and Pestle.
+Alchemy I >22<26 Distill Vilenaut Blood into Distilled Vilenaut Blood using Alembic.
+Alchemy I >22<34 Cook Consumer Pheromone into 10 Willpower Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >22<34 Cook Mixed Consumer Leg into 7 Grace Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >22<34 Cook Mixed Vesper Arangma Eye into 5 Smartness Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >22<34 Cook Mix of Distilled Vilenaut Blood into 15 Charme Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >22<34 Cook Mix of Incinerated Tefusang Claw into 7 Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >22<34 Cook Mix of incinerated Velnishi Talon into 7 Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >22<34 Corrode Mix of limed Flayed Velnishi skull into 12 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >22<34 Corrode Mix of Limed Grendol bones into 12 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >22<34 Distill Mix of Consumer Antenna into Consumer Pheromone using Alembic.
+Alchemy I >22<34 Pulverize Consumer Antenna into Powdered Consumer Antenna using Mortar and Pestle.
+Alchemy I <22 Calcinate Carkarass Skull into Limed Carkarass Skull using Melting Pot.
+Alchemy I <22 Calcinate Coamti Talon into Limed Coamti Talon using Melting Pot.
+Alchemy I <22 Calcinate Eagle Gobble Skull into Limed Eagle Gobble Skull using Melting Pot.
+Alchemy I <22 Calcinate Flayed Velnishi Skull into Limed Flayed Velnishi Skull using Melting Pot.
+Alchemy I <22 Calcinate Grendol Rib into Limed Grendol bones using Melting Pot.
+Alchemy I <22 Calcinate Grendol Spine into Limed Grendol bones using Melting Pot.
+Alchemy I <22 Calcinate Marfusang Bones into Limed Marfusang Bones using Melting Pot.
+Alchemy I <22 Calcinate Poison Carkarass Skull into Limed Poison Carkarass Skull using Melting Pot.
+Alchemy I <22 Calcinate Serpent Gobble Skull into Limed Serpent Gobble Skull using Melting Pot.
+Alchemy I <22 Cook Mixed Clacker Leg into 2 Grace Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <22 Cook Mixed Thunder Clacker Leg into 5 Grace Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <22 Cook Mix of Distilled Gobble Blood into 6 Charme Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <22 Cook Mix of Distilled Velnishi Blood into 7 Charme Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <22 Cook Mix of Distilled Weaver Arangma Blood into 3 Charme Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <22 Distill Coamti Blood into Distilled Coamti Blood using Alembic.
+Alchemy I <22 Distill Gobble Blood into Distilled Gobble Blood using Alembic.
+Alchemy I <22 Distill Velnishi Blood into Distilled Velnishi Blood using Alembic.
+Alchemy I <22 Distill Weaver Arangma Blood into Distilled Weaver Arangma Blood using Alembic.
+Alchemy I <22 Grind Rat Foot into Ground Rat Foot using Alchemist Table with a Wooden Mallet.
+Alchemy I <22 Grind Serpent Gobble Bones into Ground Serpent Gobble Bones using Alchemist Table with a Wooden Mallet.
+Alchemy I >22 Grind Thunder Clacker Leg into Ground Thunder Clacker Leg using Alchemist Table with a Wooden Mallet.
+Alchemy I <22 Grind Thunder Clacker Tentacle into Ground Thunder Clacker Tentacle using Alchemist Table with a Wooden Mallet.
+Alchemy I <22 Grind Trepor Warrior Talon into Ground Trepor Warrior Talon using Alchemist Table with a Wooden Mallet.
+Alchemy I <22 Grind Trepor Wiggly Feeler into Ground Trepor Wiggly Feeler using Alchemist Table with a Wooden Mallet.
+Alchemy I <22 Grind Vesper Arangma Feeler into Ground Vesper Arangma Feeler using Alchemist Table with a Wooden Mallet.
+Alchemy I <22 Grind Wrath Rat Bones into Ground Wrath Rat Bones using Alchemist Table with a Wooden Mallet.
+Alchemy I <22 Incinerate Arangma Talon into Incinerated Arangma Talon using Alchemist Stove.
+Alchemy I <22 Incinerate Jade Clacker Talon into Incinerated Jade Clacker Talon using Alchemist Stove.
+Alchemy I >22 Incinerate Tefusang Claw into Incinerated Tefusang Claw using Alchemist Stove.
+Alchemy I <22 Incinerate Tefusangling Claw into Incinerated Tefusangling Claw using Alchemist Stove.
+Alchemy I >22 Incinerate Velnishi Talon into Incinerated Velnishi Talon using Alchemist Stove.
+Alchemy I >34 Cook Mix of Flayed Velnishi Talon into 12 Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >34 Cook Mix of Incinerated Maulberlord Talon into 20 Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >34 Cook Mix of Incinerated Maulbernaut Talon into 20 Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >34 Cook Mix of Purified Maulberlord Blood into 20 Charme Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <34 Corrode Mix of Quicksilver and vitriol into 2 Quicksilver Solution using Crucible with a Glass Stirrer.
+Alchemy I <34 Corrode Mix of Silver and vitriol into 2 Silver Solution using Crucible with a Glass Stirrer.
+Alchemy I >34 Incinerate Flayed Velnishi Talon into Incinerated Flayed Velnishi Talon using Alchemist Stove.
+Alchemy I >34 Incinerate Maulberlord Perfect Talon into Incinerated Maulberlord Talon using Alchemist Stove.
+Alchemy I >34 Incinerate Maulberlord Talon into Incinerated Maulberlord Talon using Alchemist Stove.
+Alchemy I >34 Incinerate Maulbernaut Perfect Talon into Incinerated Maulbernaut Talon using Alchemist Stove.
+Alchemy I >34 Incinerate Maulbernaut Talon into Incinerated Maulbernaut Talon using Alchemist Stove.
+Alchemy I >9<22 Cook Mixed Coamti Eye into 2 Smartness Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >9<22 Cook Mix of ground Trepor Warrior Talon into 5 Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >9<22 Cook Mix of Incinerated Tefusangling Claw into 5 Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >9<22 Cook Mix of Jade Clacker Talon into 3 Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >9<22 Cook Mix of Thunder Clacker Tentacle into 5 Willpower Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >9<22 Cook Mix of Trepor Wiggly Feeler into 6 Willpower Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >9<22 Cook Mix of Wrath Rat Eye into 4 Smartness Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I >9<22 Corrode Mix of Ground Serpent Gobble Bones into 6 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >9<22 Corrode Mix of limed Carkarass skull into 6 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >9<22 Corrode Mix of limed Eagle Gobble skull into 6 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >9<22 Corrode Mix of Limed Marfusang Bones into 9 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >9<22 Corrode Mix of limed Serpent Gobble skull into 6 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >9<22 Pulverize Clacker Leg into Powdered Clacker Leg using Mortar and Pestle.
+Alchemy I >9<22 Pulverize Consumer Leg into Powdered Consumer Leg using Mortar and Pestle.
+Alchemy I <9 Combine Powdered Copper Ore, 2 Oil of Vitriol, into 0 Mix of Copper ore and vitriol using Alchemy Table (combine).
+Alchemy I <9 Cook Mixed Rats eyes into Smartness Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <9 Cook Mixed Rats foot into Grace Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <9 Cook Mix of Distilled Coamti Blood into 2 Charme Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <9 Cook Mix of incinerated Arangma Talon into Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <9 Cook Mix of Kikiri Blood into Charme Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <9 Cook Mix of Limed Coamti Talon into 2 Vigor Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <9 Cook Mix of Vesper Arangma Feeler into 4 Willpower Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy I <9 Corrode Mix of Copper and vitriol into 2 Copper Solution using Crucible with a Glass Stirrer.
+Alchemy I <9 Corrode Mix of Copper ore and vitriol into 2 Copper Ore Solution using Crucible with a Glass Stirrer.
+Alchemy I <9 Corrode Mix of Iron and vitriol into 2 Iron Solution using Crucible with a Glass Stirrer.
+Alchemy I <9 Corrode Mix of limed Poison Carkarass skull into 9 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I <9 Corrode Mix of Tin and vitriol into 2 Tin Solution using Crucible with a Glass Stirrer.
+Alchemy I <9 Corrode Mix of Wrath Rat Bones into 4 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I <9 Corrode Mix of Zinc and vitriol into 2 Zinc Solution using Crucible with a Glass Stirrer.
+Alchemy I <9 Distill 2 Kikiri Blood into Purified Kikiri Blood using Alembic.
+Alchemy I >9 Distill Maulberlord Blood into Purified Maulberlord Blood using Alembic.
+Alchemy I <9 Distill Mix of niter and vitriol into 2 Nitric spirit using Alembic.
+Alchemy I <9 Evaporate Mix of salt and vitriol into 2 Vitriol salt using Athanor.
+Alchemy I <9 Grind Copper Ingot into Powdered Copper using Alchemist Table with a Wooden Mallet.
+Alchemy I <9 Grind Iron Ingot into Powdered Iron using Alchemist Table with a Wooden Mallet.
+Alchemy I <9 Grind Silver Ingot into Powdered Silver using Alchemist Table with a Wooden Mallet.
+Alchemy I <9 Grind Tin Ingot into Powdered Tin using Alchemist Table with a Wooden Mallet.
+Alchemy I <9 Grind Zinc Ingot into Powdered Zinc using Alchemist Table with a Wooden Mallet.
+Alchemy P 0 Amalgamate Raw Minor Potion of Dermorian's Willpower into Minor Potion of Dermorian's Willpower using Melting Pot with a Glass Stirrer.
+Alchemy P 0 Amalgamate Raw Minor Potion of Diaboli's Charm into Minor Potion of Diaboli's Charm using Melting Pot with a Glass Stirrer.
+Alchemy P 0 Amalgamate Raw Minor Potion of Enkidukai's Grace into Minor Potion of Enkidukai's Grace using Melting Pot with a Glass Stirrer.
+Alchemy P 0 Amalgamate Raw Minor Potion of Kran's Vigor into Minor Potion of Kran's Vigor using Melting Pot with a Glass Stirrer.
+Alchemy P 0 Amalgamate Raw Minor Potion of Lemur's Smartness into Minor Potion of Lemur's Smartness using Melting Pot with a Glass Stirrer.
+Alchemy P 0 Amalgamate Raw Minor Potion of Ynnwn's Toughness into Minor Potion of Ynnwn's Toughness using Melting Pot with a Glass Stirrer.
+Alchemy P <22 Amalgamate Raw Major Potion of Dermorian's Willpower into Major Potion of Dermorian's Willpower using Melting Pot with a Glass Stirrer.
+Alchemy P <22 Amalgamate Raw Major Potion of Diaboli's Charm into Major Potion of Diaboli's Charm using Melting Pot with a Glass Stirrer.
+Alchemy P <22 Amalgamate Raw Major Potion of Enkidukai's Grace into Major Potion of Enkidukai's Grace using Melting Pot with a Glass Stirrer.
+Alchemy P <22 Amalgamate Raw Major Potion of Kran's Vigor into Major Potion of Kran's Vigor using Melting Pot with a Glass Stirrer.
+Alchemy P <22 Amalgamate Raw Major Potion of Lemur's Smartness into Major Potion of Lemur's Smartness using Melting Pot with a Glass Stirrer.
+Alchemy P <22 Amalgamate Raw Major Potion of Ynnwn's Toughness into Major Potion of Ynnwn's Toughness using Melting Pot with a Glass Stirrer.
+Alchemy P <9 Amalgamate Raw Potion of Dermorian's Willpower into Potion of Dermorian's Willpower using Melting Pot with a Glass Stirrer.
+Alchemy P <9 Amalgamate Raw Potion of Diaboli's Charm into Potion of Diaboli's Charm using Melting Pot with a Glass Stirrer.
+Alchemy P <9 Amalgamate Raw Potion of Enkidukai's Grace into Potion of Enkidukai's Grace using Melting Pot with a Glass Stirrer.
+Alchemy P <9 Amalgamate Raw Potion of Kran's Vigor into Potion of Kran's Vigor using Melting Pot with a Glass Stirrer.
+Alchemy P <9 Amalgamate Raw Potion of Lemur's Smartness into Potion of Lemur's Smartness using Melting Pot with a Glass Stirrer.
+Alchemy P <9 Amalgamate Raw Potion of Ynnwn's Toughness into Potion of Ynnwn's Toughness using Melting Pot with a Glass Stirrer.

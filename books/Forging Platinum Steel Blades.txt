@@ -1,0 +1,298 @@
+Blacksmith I 75 Shape 2 Heated Platinum Steel Stock into Platinum Steel Shortsword Alpha Blade using Anvil with a Hammer.
+Blacksmith I 75 Shape 3 Heated Platinum Steel Ingot into Platinum Steel Knife Alpha Blade using Anvil with a Hammer.
+Blacksmith I 75 Shape 3 Heated Platinum Steel Stock into Platinum Steel Longsword Alpha Blade using Anvil with a Hammer.
+Blacksmith I 75 Shape 4 Heated Platinum Steel Ingot into Platinum Steel Dagger Alpha Blade using Anvil with a Hammer.
+Blacksmith I 75 Shape 4 Heated Platinum Steel Stock into Platinum Steel Claymore Alpha Blade using Anvil with a Hammer.
+Blacksmith I 75 Shape Heated Platinum Steel Stock into Platinum Steel Sabre Alpha Blade using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Claymore Alpha Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Claymore Beta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Claymore Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Claymore Delta Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Claymore Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Dagger Alpha Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Dagger Beta Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Dagger Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Dagger Delta Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Dagger Dull Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Knife Alpha Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Knife Beta Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Knife Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Knife Delta Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Knife Dull Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Sabre Alpha Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Sabre Beta Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Sabre Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Sabre Delta Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Sabre Dull Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Shortsword Alpha Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Shortsword Beta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Shortsword Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Shortsword Delta Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Red Hot Platinum Steel Shortsword Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Claymore Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Claymore Dull Blade into 4 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Dagger Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Dagger Dull Blade into 4 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Knife Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Knife Dull Blade into 3 Platinum Steel Ingot using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Sabre Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Sabre Dull Blade into Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Shortsword Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Hammer Super Heated Platinum Steel Shortsword Dull Blade into 2 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Brittle Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Dull Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Claymore Alpha Blade into Platinum Steel Claymore Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Claymore Beta Blade into Platinum Steel Claymore Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Claymore Blade into Platinum Steel Claymore Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Claymore Brittle Blade into Platinum Steel Claymore Brittle Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Dagger Alpha Blade into Platinum Steel Dagger Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Dagger Beta Blade into Platinum Steel Dagger Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Dagger Blade into Platinum Steel Dagger Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Dagger Brittle Blade into Platinum Steel Dagger Brittle Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Knife Alpha Blade into Platinum Steel Knife Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Knife Beta Blade into Platinum Steel Knife Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Knife Blade into Platinum Steel Knife Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Knife Brittle Blade into Platinum Steel Knife Brittle Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Knife Dull Blade into Platinum Steel Knife Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Longsword Alpha Blade into Platinum Steel Longsword Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Longsword Beta Blade into Platinum Steel Longsword Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Sabre Alpha Blade into Platinum Steel Sabre Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Sabre Beta Blade into Platinum Steel Sabre Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Sabre Blade into Platinum Steel Sabre Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Sabre Brittle Blade into Platinum Steel Sabre Brittle Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Shortsword Alpha Blade into Platinum Steel Shortsword Beta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Shortsword Beta Blade into Platinum Steel Shortsword Delta Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Shortsword Blade into Platinum Steel Shortsword Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Shortsword Brittle Blade into Platinum Steel Shortsword Brittle Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Heated Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Dull Blade using Anvil with a Hammer.
+Blacksmith O 75 Shape Red Hot Dull Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Red Hot Platinum Steel Longsword Alpha Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Red Hot Platinum Steel Longsword Beta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Red Hot Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Red Hot Platinum Steel Longsword Delta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Super Heated Dull Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Super Heated Platinum Steel Longsword Alpha Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Super Heated Platinum Steel Longsword Beta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Super Heated Platinum Steel Longsword Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blacksmith O 75 Shape Super Heated Platinum Steel Longsword Delta Blade into 3 Platinum Steel Stock using Anvil with a Hammer.
+Blades Making I 75 Combine Leather Knife Handle, Platinum Steel Dagger Blade, into 0 Platinum Steel Dagger Kit using Smith Table (combine).
+Blades Making I 75 Combine Leather Knife Handle, Platinum Steel Knife Blade, into 0 Platinum Steel Knife Kit using Smith Table (combine).
+Blades Making I 75 Combine Platinum Steel Longsword Blade, Sword Handle, into 0 Platinum Steel Longsword Kit using Smith Table (combine).
+Blades Making I 75 Combine Sword Handle, Platinum Steel Claymore Blade, into 0 Platinum Steel Claymore Kit using Smith Table (combine).
+Blades Making I 75 Combine Sword Handle, Platinum Steel Sabre Blade, into 0 Platinum Steel Sabre Kit using Smith Table (combine).
+Blades Making I 75 Combine Sword Handle, Platinum Steel Shortsword Blade, into 0 Platinum Steel Shortsword Kit using Smith Table (combine).
+Blades Making I 75 Forge Brittle Platinum Steel Longsword Blade into Heated Brittle Platinum Steel Longsword Blade using Forge.
+Blades Making I 75 Forge Heated Brittle Platinum Steel Longsword Blade into Super Heated Dull Platinum Steel Longsword Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Claymore Alpha Blade into Super Heated Platinum Steel Claymore Alpha Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Claymore Blade into Super Heated Platinum Steel Claymore Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Claymore Brittle Blade into Super Heated Platinum Steel Claymore Dull Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Dagger Alpha Blade into Super Heated Platinum Steel Dagger Alpha Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Dagger Blade into Super Heated Platinum Steel Dagger Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Dagger Brittle Blade into Super Heated Platinum Steel Dagger Dull Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Knife Alpha Blade into Super Heated Platinum Steel Knife Alpha Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Knife Blade into Super Heated Platinum Steel Knife Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Knife Brittle Blade into Super Heated Platinum Steel Knife Dull Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Longsword Alpha Blade into Super Heated Platinum Steel Longsword Alpha Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Longsword Blade into Super Heated Platinum Steel Longsword Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Sabre Alpha Blade into Super Heated Platinum Steel Sabre Alpha Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Sabre Blade into Super Heated Platinum Steel Sabre Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Sabre Brittle Blade into Super Heated Platinum Steel Sabre Dull Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Shortsword Alpha Blade into Super Heated Platinum Steel Shortsword Alpha Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Shortsword Blade into Super Heated Platinum Steel Shortsword Blade using Forge.
+Blades Making I 75 Forge Heated Platinum Steel Shortsword Brittle Blade into Super Heated Platinum Steel Shortsword Dull Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Claymore Alpha Blade into Heated Platinum Steel Claymore Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Claymore Blade into Heated Platinum Steel Claymore Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Claymore Brittle Blade into Heated Platinum Steel Claymore Brittle Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Dagger Alpha Blade into Heated Platinum Steel Dagger Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Dagger Blade into Heated Platinum Steel Dagger Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Dagger Brittle Blade into Heated Platinum Steel Dagger Brittle Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Knife Alpha Blade into Heated Platinum Steel Knife Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Knife Blade into Heated Platinum Steel Knife Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Knife Brittle Blade into Heated Platinum Steel Knife Brittle Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Longsword Alpha Blade into Heated Platinum Steel Longsword Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Longsword Blade into Heated Platinum Steel Longsword Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Sabre Alpha Blade into Heated Platinum Steel Sabre Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Sabre Blade into Heated Platinum Steel Sabre Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Sabre Brittle Blade into Heated Platinum Steel Sabre Brittle Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Shortsword Alpha Blade into Heated Platinum Steel Shortsword Alpha Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Shortsword Blade into Heated Platinum Steel Shortsword Blade using Forge.
+Blades Making I 75 Forge Platinum Steel Shortsword Brittle Blade into Heated Platinum Steel Shortsword Brittle Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Claymore Alpha Blade into Red Hot Platinum Steel Claymore Alpha Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Claymore Blade into Red Hot Platinum Steel Claymore Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Dagger Alpha Blade into Red Hot Platinum Steel Dagger Alpha Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Dagger Blade into Red Hot Platinum Steel Dagger Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Knife Alpha Blade into Red Hot Platinum Steel Knife Alpha Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Knife Blade into Red Hot Platinum Steel Knife Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Longsword Alpha Blade into Red Hot Platinum Steel Longsword Alpha Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Longsword Blade into Red Hot Platinum Steel Longsword Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Sabre Alpha Blade into Red Hot Platinum Steel Sabre Alpha Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Sabre Blade into Red Hot Platinum Steel Sabre Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Shortsword Alpha Blade into Red Hot Platinum Steel Shortsword Alpha Blade using Forge.
+Blades Making I 75 Forge Super Heated Platinum Steel Shortsword Blade into Red Hot Platinum Steel Shortsword Blade using Forge.
+Blades Making I 75 Quench Red Hot Platinum Steel Claymore Alpha Blade into Platinum Steel Claymore Brittle Blade using Quench Tank.
+Blades Making I 75 Quench Red Hot Platinum Steel Dagger Alpha Blade into Platinum Steel Dagger Brittle Blade using Quench Tank.
+Blades Making I 75 Quench Red Hot Platinum Steel Knife Alpha Blade into Platinum Steel Knife Brittle Blade using Quench Tank.
+Blades Making I 75 Quench Red Hot Platinum Steel Longsword Alpha Blade into Brittle Platinum Steel Longsword Blade using Quench Tank.
+Blades Making I 75 Quench Red Hot Platinum Steel Sabre Alpha Blade into Platinum Steel Sabre Brittle Blade using Quench Tank.
+Blades Making I 75 Quench Red Hot Platinum Steel Shortsword Alpha Blade into Platinum Steel Shortsword Brittle Blade using Quench Tank.
+Blades Making I 75 Quench Super Heated Dull Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Quench Tank.
+Blades Making I 75 Quench Super Heated Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Dull Blade using Quench Tank.
+Blades Making I 75 Quench Super Heated Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Dull Blade using Quench Tank.
+Blades Making I 75 Quench Super Heated Platinum Steel Knife Dull Blade into Platinum Steel Knife Dull Blade using Quench Tank.
+Blades Making I 75 Quench Super Heated Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Dull Blade using Quench Tank.
+Blades Making I 75 Quench Super Heated Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Dull Blade using Quench Tank.
+Blades Making I 75 Sharpen Dull Platinum Steel Longsword Blade into Platinum Steel Longsword Blade using Sharpening Stone.
+Blades Making I 75 Sharpen Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Blade using Sharpening Stone.
+Blades Making I 75 Sharpen Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Blade using Sharpening Stone.
+Blades Making I 75 Sharpen Platinum Steel Knife Dull Blade into Platinum Steel Knife Blade using Sharpening Stone.
+Blades Making I 75 Sharpen Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Blade using Sharpening Stone.
+Blades Making I 75 Sharpen Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Blade using Sharpening Stone.
+Blades Making O 75 Forge Dull Platinum Steel Longsword Blade into Heated Dull Platinum Steel Longsword Blade using Forge.
+Blades Making O 75 Forge Heated Dull Platinum Steel Longsword Blade into Super Heated Dull Platinum Steel Longsword Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Claymore Beta Blade into Super Heated Platinum Steel Claymore Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Claymore Delta Blade into Super Heated Platinum Steel Claymore Delta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Claymore Dull Blade into Super Heated Platinum Steel Claymore Dull Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Dagger Beta Blade into Super Heated Platinum Steel Dagger Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Dagger Delta Blade into Super Heated Platinum Steel Dagger Delta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Dagger Dull Blade into Super Heated Platinum Steel Dagger Dull Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Knife Beta Blade into Super Heated Platinum Steel Knife Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Knife Delta Blade into Super Heated Platinum Steel Knife Delta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Knife Dull Blade into Super Heated Platinum Steel Knife Dull Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Longsword Beta Blade into Super Heated Platinum Steel Longsword Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Longsword Delta Blade into Super Heated Platinum Steel Longsword Delta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Sabre Beta Blade into Super Heated Platinum Steel Sabre Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Sabre Delta Blade into Super Heated Platinum Steel Sabre Delta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Sabre Dull Blade into Super Heated Platinum Steel Sabre Dull Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Shortsword Beta Blade into Super Heated Platinum Steel Shortsword Beta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Shortsword Delta Blade into Super Heated Platinum Steel Shortsword Delta Blade using Forge.
+Blades Making O 75 Forge Heated Platinum Steel Shortsword Dull Blade into Super Heated Platinum Steel Shortsword Dull Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Claymore Beta Blade into Heated Platinum Steel Claymore Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Claymore Delta Blade into Heated Platinum Steel Claymore Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Claymore Dull Blade into Heated Platinum Steel Claymore Dull Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Dagger Beta Blade into Heated Platinum Steel Dagger Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Dagger Delta Blade into Heated Platinum Steel Dagger Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Dagger Dull Blade into Heated Platinum Steel Dagger Dull Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Knife Beta Blade into Heated Platinum Steel Knife Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Knife Delta Blade into Heated Platinum Steel Knife Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Knife Dull Blade into Heated Platinum Steel Knife Dull Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Longsword Beta Blade into Heated Platinum Steel Longsword Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Longsword Delta Blade into Heated Platinum Steel Longsword Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Sabre Beta Blade into Heated Platinum Steel Sabre Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Sabre Delta Blade into Heated Platinum Steel Sabre Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Sabre Dull Blade into Heated Platinum Steel Sabre Dull Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Shortsword Beta Blade into Heated Platinum Steel Shortsword Beta Blade using Forg
+Blades Making O 75 Forge Platinum Steel Shortsword Beta Blade into Heated Platinum Steel Shortsword Beta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Shortsword Delta Blade into Heated Platinum Steel Shortsword Delta Blade using Forge.
+Blades Making O 75 Forge Platinum Steel Shortsword Dull Blade into Heated Platinum Steel Shortsword Dull Blade using Forge.
+Blades Making O 75 Forge Super Heated Dull Platinum Steel Longsword Blade into Red Hot Dull Platinum Steel Longsword Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Claymore Beta Blade into Red Hot Platinum Steel Claymore Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Claymore Delta Blade into Red Hot Platinum Steel Claymore Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Claymore Dull Blade into Red Hot Platinum Steel Claymore Dull Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Dagger Beta Blade into Red Hot Platinum Steel Dagger Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Dagger Delta Blade into Red Hot Platinum Steel Dagger Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Dagger Dull Blade into Red Hot Platinum Steel Dagger Dull Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Knife Beta Blade into Red Hot Platinum Steel Knife Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Knife Delta Blade into Red Hot Platinum Steel Knife Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Knife Dull Blade into Red Hot Platinum Steel Knife Dull Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Longsword Beta Blade into Red Hot Platinum Steel Longsword Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Longsword Delta Blade into Red Hot Platinum Steel Longsword Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Sabre Beta Blade into Red Hot Platinum Steel Sabre Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Sabre Delta Blade into Red Hot Platinum Steel Sabre Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Sabre Dull Blade into Red Hot Platinum Steel Sabre Dull Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Shortsword Beta Blade into Red Hot Platinum Steel Shortsword Beta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Shortsword Delta Blade into Red Hot Platinum Steel Shortsword Delta Blade using Forge.
+Blades Making O 75 Forge Super Heated Platinum Steel Shortsword Dull Blade into Red Hot Platinum Steel Shortsword Dull Blade using Forge.
+Blades Making O 75 Quench Heated Brittle Platinum Steel Longsword Blade into Brittle Platinum Steel Longsword Blade using Quench Tank.
+Blades Making O 75 Quench Heated Dull Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Claymore Alpha Blade into Platinum Steel Claymore Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Claymore Beta Blade into Platinum Steel Claymore Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Claymore Blade into Platinum Steel Claymore Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Claymore Brittle Blade into Platinum Steel Claymore Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Claymore Delta Blade into Platinum Steel Claymore Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Dull Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Dagger Alpha Blade into Platinum Steel Dagger Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Dagger Beta Blade into Platinum Steel Dagger Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Dagger Blade into Platinum Steel Dagger Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Dagger Brittle Blade into Platinum Steel Dagger Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Dagger Delta Blade into Platinum Steel Dagger Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Dull Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Knife Alpha Blade into Platinum Steel Knife Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Knife Beta Blade into Platinum Steel Knife Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Knife Blade into Platinum Steel Knife Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Knife Brittle Blade into Platinum Steel Knife Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Knife Delta Blade into Platinum Steel Knife Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Knife Dull Blade into Platinum Steel Knife Dull Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Longsword Alpha Blade into Platinum Steel Longsword Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Longsword Beta Blade into Platinum Steel Longsword Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Longsword Blade into Platinum Steel Longsword Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Longsword Delta Blade into Platinum Steel Longsword Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Sabre Alpha Blade into Platinum Steel Sabre Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Sabre Beta Blade into Platinum Steel Sabre Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Sabre Blade into Platinum Steel Sabre Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Sabre Brittle Blade into Platinum Steel Sabre Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Sabre Delta Blade into Platinum Steel Sabre Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Dull Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Shortsword Alpha Blade into Platinum Steel Shortsword Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Shortsword Beta Blade into Platinum Steel Shortsword Beta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Shortsword Blade into Platinum Steel Shortsword Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Shortsword Brittle Blade into Platinum Steel Shortsword Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Shortsword Delta Blade into Platinum Steel Shortsword Delta Blade using Quench Tank.
+Blades Making O 75 Quench Heated Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Dull Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Dull Platinum Steel Longsword Blade into Dull Platinum Steel Longsword Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Claymore Beta Blade into Platinum Steel Claymore Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Claymore Blade into Platinum Steel Claymore Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Claymore Delta Blade into Platinum Steel Claymore Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Claymore Dull Blade into Platinum Steel Claymore Dull Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Dagger Beta Blade into Platinum Steel Dagger Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Dagger Blade into Platinum Steel Dagger Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Dagger Delta Blade into Platinum Steel Dagger Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Dagger Dull Blade into Platinum Steel Dagger Dull Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Knife Beta Blade into Platinum Steel Knife Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Knife Blade into Platinum Steel Knife Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Knife Delta Blade into Platinum Steel Knife Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Knife Dull Blade into Platinum Steel Knife Dull Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Longsword Beta Blade into Brittle Platinum Steel Longsword Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Longsword Blade into Platinum Steel Longsword Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Longsword Delta Blade into Brittle Platinum Steel Longsword Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Sabre Beta Blade into Platinum Steel Sabre Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Sabre Blade into Platinum Steel Sabre Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Sabre Delta Blade into Platinum Steel Sabre Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Sabre Dull Blade into Platinum Steel Sabre Dull Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Shortsword Beta Blade into Platinum Steel Shortsword Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Shortsword Blade into Platinum Steel Shortsword Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Shortsword Delta Blade into Platinum Steel Shortsword Brittle Blade using Quench Tank.
+Blades Making O 75 Quench Red Hot Platinum Steel Shortsword Dull Blade into Platinum Steel Shortsword Dull Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Claymore Alpha Blade into Platinum Steel Claymore Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Claymore Beta Blade into Platinum Steel Claymore Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Claymore Blade into Platinum Steel Claymore Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Claymore Delta Blade into Platinum Steel Claymore Delta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Dagger Alpha Blade into Platinum Steel Dagger Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Dagger Beta Blade into Platinum Steel Dagger Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Dagger Blade into Platinum Steel Dagger Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Dagger Delta Blade into Platinum Steel Dagger Delta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Knife Alpha Blade into Platinum Steel Knife Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Knife Beta Blade into Platinum Steel Knife Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Knife Blade into Platinum Steel Knife Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Knife Delta Blade into Platinum Steel Knife Delta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Longsword Alpha Blade into Platinum Steel Longsword Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Longsword Beta Blade into Platinum Steel Longsword Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Longsword Blade into Platinum Steel Longsword Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Longsword Delta Blade into Platinum Steel Longsword Delta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Sabre Alpha Blade into Platinum Steel Sabre Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Sabre Beta Blade into Platinum Steel Sabre Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Sabre Blade into Platinum Steel Sabre Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Sabre Delta Blade into Platinum Steel Sabre Delta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Shortsword Alpha Blade into Platinum Steel Shortsword Alpha Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Shortsword Beta Blade into Platinum Steel Shortsword Beta Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Shortsword Blade into Platinum Steel Shortsword Blade using Quench Tank.
+Blades Making O 75 Quench Super Heated Platinum Steel Shortsword Delta Blade into Platinum Steel Shortsword Delta Blade using Quench Tank.
+Blades Making P 75 Assemble Platinum Steel Claymore Kit into Platinum Steel Claymore using Smith Table.
+Blades Making P 75 Assemble Platinum Steel Dagger Kit into Platinum Steel Dagger using Smith Table.
+Blades Making P 75 Assemble Platinum Steel Knife Kit into Platinum Steel Knife using Smith Table.
+Blades Making P 75 Assemble Platinum Steel Longsword Kit into Platinum Steel Longsword using Smith Table.
+Blades Making P 75 Assemble Platinum Steel Sabre Kit into Platinum Steel Sabre using Smith Table.
+Blades Making P 75 Assemble Platinum Steel Shortsword Kit into Platinum Steel Shortsword using Smith Table.

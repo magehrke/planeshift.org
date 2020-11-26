@@ -1,0 +1,12 @@
+Azure Way P 150 Enchant Diamond Crystal into Enchanted Diamond using Enchanter of Spirit with a Dome Glyph, Bond Glyph, Humanoid Glyph, Mind Glyph, Sleep Glyph, Bow Glyph, Sound Glyph.
+Azure Way P 150 Enchant Sapphire Crystal into Enchanted Sapphire using Enchanter of Spirit with a Bond Glyph, Gas Glyph, Bow Glyph.
+Azure Way P 20 Enchant Ruby Crystal into Enchanted Ruby using Enchanter of Spirit with a Air Glyph.
+Azure Way P 40 Enchant Emerald Crystal into Enchanted Emerald using Enchanter of Spirit with a Gas Glyph, Air Glyph, Bond Glyph, Dome Glyph, Mind Glyph, Sound Glyph, Sleep Glyph.
+Dark Way P 150 Enchant Diamond Crystal into Enchanted Diamond using Enchanter of Spirit with a Illness Glyph, Daemon Glyph, Fear Glyph, Entropy Glyph, Weakness Glyph, Shadow Glyph, Blindness Glyph.
+Dark Way P 150 Enchant Sapphire Crystal into Enchanted Sapphire using Enchanter of Spirit with a Death Glyph, Blindness Glyph, Daemon Glyph, Negate Glyph.
+Dark Way P 20 Enchant Ruby Crystal into Enchanted Ruby using Enchanter of Spirit with a Death Glyph.
+Dark Way P 50 Enchant Emerald Crystal into Enchanted Emerald using Enchanter of Spirit with a Negate Glyph, Death Glyph, Illness Glyph, Blindness Glyph, Shadow Glyph, Fear Glyph, Weakness Glyph.
+Red Way P 150 Enchant Diamond Crystal into Enchanted Diamond using Enchanter of Spirit with a Lava Glyph, Hand Glyph, Fire Glyph, Lightning Glyph, Vortex Glyph, Might Glyph, Meteor Glyph.
+Red Way P 150 Enchant Sapphire Crystal into Enchanted Sapphire using Enchanter of Spirit with a Meteor Glyph, Weapon Glyph, Hand Glyph.
+Red Way P 30 Enchant Ruby Crystal into Enchanted Ruby using Enchanter of Spirit with a Fire Glyph.
+Red Way P 50 Enchant Emerald Crystal into Enchanted Emerald using Enchanter of Spirit with a Lightning Glyph, Vortex Glyph, Might Glyph, Weapon Glyph, Fire Glyph, Hand Glyph, Lava Glyph.

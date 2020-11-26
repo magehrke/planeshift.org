@@ -1,0 +1,126 @@
+Mace Making I 200 Assemble Battle Hammer Kit into Battle Hammer Assembly using Riveter.
+Mace Making I 200 Assemble Battle Pick Kit into Battle Pick Assembly using Riveter.
+Mace Making I 200 Assemble Club Kit into Club Assembly using Riveter.
+Mace Making I 200 Assemble Flail Mace Kit into Flail Mace Assembly using Riveter.
+Mace Making I 200 Assemble Flanged Mace Kit into Flanged Mace Assembly using Riveter.
+Mace Making I 200 Assemble Mace Kit into Mace Assembly using Riveter.
+Mace Making I 200 Assemble Morning Star Kit into Morning Star Assembly using Riveter.
+Mace Making I 200 Assemble Spiked Warhammer Kit into Spiked Warhammer Assembly using Riveter.
+Mace Making I 200 Assemble War Club Kit into War Club Assembly using Riveter.
+Mace Making I 200 Assemble War Flanged Mace Kit into War Flanged Mace Assembly using Riveter.
+Mace Making I 200 Assemble Warhammer Kit into Warhammer Assembly using Riveter.
+Mace Making I 200 Assemble War Pick Kit into War Pick Assembly using Riveter.
+Mace Making I 200 Combine Mace Battle Handle, Closed Chain, Spiked Mace Head, into 0 Flail Mace Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace Battle Handle, Club Head, into 0 Club Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace Battle Handle, Flanged Mace Head, into 0 Flanged Mace Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace Battle Handle, Hammer Base, Hammer Head, into 0 Battle Hammer Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace Battle Handle, Hammer Base, Hammer Spike, into 0 Battle Pick Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Handle using Smith Table (combine).
+Mace Making I 200 Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Hand using Smith Table (combine).
+Mace Making I 200 Combine Mace Battle Handle, Spiked Mace Head, into 0 Mace Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace War Handle, Club Head, into 0 War Club Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace War Handle, Flanged Mace Head, into 0 War Flanged Mace Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace War Handle, Hammer Base, 2 Hammer Head, into 0 Warhammer Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace War Handle, Hammer Base, 2 Hammer Spike, into 0 War Pick Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace War Handle, Hammer Base, Hammer Head, Hammer Spike, into 0 Spiked Warhammer Kit using Smith Table (combine).
+Mace Making I 200 Combine Mace War Handle Shape, 4 Leather String, into 0 Mace War Handle using Smith Table (combine).
+Mace Making I 200 Combine Mace War Handle, Spiked Mace Head, into 0 Morning Star Kit using Smith Table (combine).
+Mace Making I 200 Cut Threestem Wood into 4 Wooden Baton using Smith Table with a Wood Saw.
+Mace Making I 200 Cut Wooden Baton into 2 Half Wooden baton using Smith Table with a Wood Saw.
+Mace Making I 200 Forge Club Head into Heated Club Head using Forge.
+Mace Making I 200 Shape 12 Heated Steel Ingot into 2 Hammer Spike using Anvil with a Hammer.
+Mace Making I 200 Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
+Mace Making I 200 Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
+Mace Making I 200 Shape 4 Chain Links into Closed Chain using Anvil with a Hammer.
+Mace Making I 200 Shape 5 Heated Steel Ingot into 6 Chain Links using Anvil with a Hammer.
+Mace Making I 200 Shape 6 Heated Steel Ingot into Club Head using Anvil with a Hammer.
+Mace Making I 200 Shape 7 Heated Steel Ingot into Hammer Base using Anvil with a Hammer.
+Mace Making I 200 Shape 8 Heated Steel Ingot into Flanged Mace Head using Anvil with a Hammer.
+Mace Making I 200 Shape 9 Heated Steel Ingot into Spiked Mace Head using Anvil with a Hammer.
+Mace Making I 200 Shape Half Wooden baton into Mace Battle Handle Shape using Smith Table with a Wood Chisel.
+Mace Making I 200 Shape Heated Club Head into Club Head using Anvil with a Hammer.
+Mace Making I 200 Shape Heated Steel Stock into Hammer Head using Anvil with a Hammer.
+Mace Making I 200 Shape Wooden Baton into Mace War Handle Shape using Smith Table with a Wood Chisel.
+Mace Making O 200 Forge Broadsword Handle into Heated Broadsword Handle using Forge.
+Mace Making O 200 Forge Club Head into Heated Club Head using Forge.
+Mace Making O 200 Forge Flanged Mace Head into Heated Flanged Mace Head using Forge.
+Mace Making O 200 Forge Hammer Base into Heated Hammer Base using Forge.
+Mace Making O 200 Forge Hammer Head into Heated Hammer Head using Forge.
+Mace Making O 200 Forge Hammer Spike into Heated Hammer Spike using Forge.
+Mace Making O 200 Forge Heated Broadsword Handle into Super Heated Broadsword Handle using Forge.
+Mace Making O 200 Forge Heated Club Head into Super Heated Club Head using Forge.
+Mace Making O 200 Forge Heated Flanged Mace Head into Super Heated Flanged Mace Head using Forge.
+Mace Making O 200 Forge Heated Hammer Base into Super Heated Hammer Base using Forge.
+Mace Making O 200 Forge Heated Hammer Head into Super Heated Hammer Head using Forge.
+Mace Making O 200 Forge Heated Hammer Spike into Super Heated Hammer Spike using Forge.
+Mace Making O 200 Forge Heated Spiked Mace Head into Super Heated Spiked Mace Head using Forge.
+Mace Making O 200 Forge Heated Sword Handle into Super Heated Sword Handle using Forge.
+Mace Making O 200 Forge Spiked Mace Head into Heated Spiked Mace Head using Forge.
+Mace Making O 200 Forge Super Heated Broadsword Handle into Red Hot Broadsword Handle using Forge.
+Mace Making O 200 Forge Super Heated Club Head into Red Hot Club Head using Forge.
+Mace Making O 200 Forge Super Heated Flanged Mace Head into Red Hot Flanged Mace Head using Forge.
+Mace Making O 200 Forge Super Heated Hammer Base into Red Hot Hammer Base using Forge.
+Mace Making O 200 Forge Super Heated Hammer Head into Red Hot Hammer Head using Forge.
+Mace Making O 200 Forge Super Heated Hammer Spike into Red Hot Hammer Spike using Forge.
+Mace Making O 200 Forge Super Heated Spiked Mace Head into Red Hot Spiked Mace Head using Forge.
+Mace Making O 200 Forge Super Heated Sword Handle into Red Hot Sword Handle using Forge.
+Mace Making O 200 Forge Sword Handle into Heated Sword Handle using Forge.
+Mace Making O 200 Quench Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+Mace Making O 200 Quench Heated Club Head into Club Head using Quench Tank.
+Mace Making O 200 Quench Heated Flanged Mace Head into Flanged Mace Head using Quench Tank.
+Mace Making O 200 Quench Heated Hammer Base into Hammer Base using Quench Tank.
+Mace Making O 200 Quench Heated Hammer Head into Hammer Head using Quench Tank.
+Mace Making O 200 Quench Heated Hammer Spike into Hammer Spike using Quench Tank.
+Mace Making O 200 Quench Heated Spiked Mace Head into Spiked Mace Head using Quench Tank.
+Mace Making O 200 Quench Heated Sword Handle into Sword Handle using Quench Tank.
+Mace Making O 200 Quench Red Hot Broadsword Handle into Broadsword Handle using Quench Tank.
+Mace Making O 200 Quench Red Hot Club Head into Club Head using Quench Tank.
+Mace Making O 200 Quench Red Hot Flanged Mace Head into Flanged Mace Head using Quench Tank.
+Mace Making O 200 Quench Red Hot Hammer Base into Hammer Base using Quench Tank.
+Mace Making O 200 Quench Red Hot Hammer Head into Hammer Head using Quench Tank.
+Mace Making O 200 Quench Red Hot Hammer Spike into Hammer Spike using Quench Tank.
+Mace Making O 200 Quench Red Hot Spiked Mace Head into Spiked Mace Head using Quench Tank.
+Mace Making O 200 Quench Red Hot Sword Handle into Sword Handle using Quench Tank.
+Mace Making O 200 Quench Super Heated Broadsword Handle into Broadsword Handle using Quench Tank.
+Mace Making O 200 Quench Super Heated Club Head into Club Head using Quench Tank.
+Mace Making O 200 Quench Super Heated Flanged Mace Head into Flanged Mace Head using Quench Tank.
+Mace Making O 200 Quench Super Heated Hammer Base into Hammer Base using Quench Tank.
+Mace Making O 200 Quench Super Heated Hammer Head into Hammer Head using Quench Tank.
+Mace Making O 200 Quench Super Heated Hammer Spike into Hammer Spike using Quench Tank.
+Mace Making O 200 Quench Super Heated Spiked Mace Head into Spiked Mace Head using Quench Tank.
+Mace Making O 200 Quench Super Heated Sword Handle into Sword Handle using Quench Tank.
+Mace Making O 200 Shape Heated Broadsword Handle into Broadsword Handle using Anvil with a Hammer.
+Mace Making O 200 Shape Heated Flanged Mace Head into Flanged Mace Head using Anvil with a Hammer.
+Mace Making O 200 Shape Heated Hammer Base into Hammer Base using Anvil with a Hammer.
+Mace Making O 200 Shape Heated Hammer Head into Hammer Head using Anvil with a Hammer.
+Mace Making O 200 Shape Heated Hammer Spike into Hammer Spike using Anvil with a Hammer.
+Mace Making O 200 Shape Heated Spiked Mace Head into Spiked Mace Head using Anvil with a Hammer.
+Mace Making O 200 Shape Heated Sword Handle into Sword Handle using Anvil with a Hammer.
+Mace Making O 200 Shape Red Hot Broadsword Handle into 3 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Red Hot Club Head into 6 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Red Hot Flanged Mace Head into 8 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Red Hot Hammer Base into 7 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Red Hot Hammer Head into Steel Stock using Anvil with a Hammer.
+Mace Making O 200 Shape Red Hot Hammer Spike into 6 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Red Hot Spiked Mace Head into 9 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Red Hot Sword Handle into 2 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Super Heated Broadsword Handle into 3 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Super Heated Club Head into 6 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Super Heated Flanged Mace Head into 8 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Super Heated Hammer Base into 7 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Super Heated Hammer Head into Steel Stock using Anvil with a Hammer.
+Mace Making O 200 Shape Super Heated Hammer Spike into 6 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Super Heated Spiked Mace Head into 9 Steel Ingot using Anvil with a Hammer.
+Mace Making O 200 Shape Super Heated Sword Handle into 2 Steel Ingot using Anvil with a Hammer.
+Mace Making P 200 Shape Battle Hammer Assembly into Battle Hammer using Anvil with a Hammer.
+Mace Making P 200 Shape Battle Pick Assembly into Battle Pick using Anvil with a Hammer.
+Mace Making P 200 Shape Club Assembly into Club using Anvil with a Hammer.
+Mace Making P 200 Shape Flail Mace Assembly into Flail Mace using Anvil with a Hammer.
+Mace Making P 200 Shape Flanged Mace Assembly into Flanged Mace using Anvil with a Hammer.
+Mace Making P 200 Shape Mace Assembly into Mace using Anvil with a Hammer.
+Mace Making P 200 Shape Morning Star Assembly into Morning Star using Anvil with a Hammer.
+Mace Making P 200 Shape Spiked Warhammer Assembly into Spiked Warhammer using Anvil with a Hammer.
+Mace Making P 200 Shape War Club Assembly into War Club using Anvil with a Hammer.
+Mace Making P 200 Shape War Flanged Mace Assembly into War Flanged Mace using Anvil with a Hammer.
+Mace Making P 200 Shape Warhammer Assembly into Warhammer using Anvil with a Hammer.
+Mace Making P 200 Shape War Pick Assembly into War Pick using Anvil with a Hammer.

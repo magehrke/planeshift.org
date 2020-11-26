@@ -281,8 +281,16 @@ function show_recipes ( $pval )
 		FROM
 			recipes
 		WHERE
-			type LIKE '".$pval['type']."'
 	";
+	if ( $pval['type'] == "P" )
+	{
+		$q.= "((type='P') or (type='I'))";
+	}
+	else
+	{
+		// $q.= "type LIKE '".$pval['type']."'"
+		$q.= "type='".$pval['type']."'";
+	}
 	if ( $pval['book'] != "" )
 	{
 		$q .= "AND book like \"%".str_replace ( "'", "&apos;", $pval["book"] )."%\" ";

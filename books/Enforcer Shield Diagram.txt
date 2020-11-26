@@ -1,0 +1,178 @@
+Shield Making I 200 Carve Small Wooden Block into Shaped Small Wooden Block using Smith Table with a Wood Chisel.
+Shield Making I 200 Carve Wooden Block into Shaped Wooden Block using Smith Table with a Wood Chisel.
+Shield Making I 200 Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Core using Smith Table (combine).
+Shield Making I 200 Combine 3 Shaped Small Wooden Block, into 0 Round Wooden Shield Core using Smith Table (combine).
+Shield Making I 200 Combine Bronze Shield Shape, Bronze Shield Handle, 3 Shield Band, Wicker Shield Core, 2 Shield Edgings, into 0 War Shield Wicker Kit using Smith Table (combine).
+Shield Making I 200 Combine Bronze Shield Shape, Bronze Shield Handle, 3 Shield Band, Wooden Shield Core, 2 Shield Edgings, into 0 War Shield Kit using Smith Table (combine).
+Shield Making I 200 Combine Iron Shield Shape, Shield Handle, Shield Band, Wicker Shield Core, 2 Shield Edgings, into 0 Warrior Shield Wicker Kit using Smith Table (combine).
+Shield Making I 200 Combine Iron Shield Shape, Shield Handle, Shield Band, Wooden Shield Core, 2 Shield Edgings, into 0 Warrior Shield Kit using Smith Table (combine).
+Shield Making I 200 Combine Round Shield Shape, Iron Shield Handle, 2 Shield Circle, Iron Circle, 4 Shield Band, Round Wicker Shield Core, Shield Edgings, into 0 Bulls Eye Shield Wicker Kit using Smith Table (combine).
+Shield Making I 200 Combine Round Shield Shape, Iron Shield Handle, 2 Shield Circle, Iron Circle, 4 Shield Band, Round Wooden Shield Core, Shield Edgings, into 0 Bulls Eye Shield Kit using Smith Table (combine).
+Shield Making I 200 Combine Round Shield Shape, Shield Handle, Shield Circle, 2 Shield Band, Round Wicker Shield Core, Shield Edgings, into 0 Battle Shield Wicker Kit using Smith Table (combine).
+Shield Making I 200 Combine Round Shield Shape, Shield Handle, Shield Circle, 2 Shield Band, Round Wooden Shield Core, Shield Edgings, into 0 Battle Shield Kit using Smith Table (combine).
+Shield Making I 200 Combine Shield Shape, Shield Handle, 2 Shield Band, Wicker Shield Core, 2 Shield Edgings, into 0 Valiant Shield Wicker Kit using Smith Table (combine).
+Shield Making I 200 Combine Shield Shape, Shield Handle, 2 Shield Band, Wooden Shield Core, 2 Shield Edgings, into 0 Valiant Shield Kit using Smith Table (combine).
+Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 2 Shield Band, 2 Shield Spike, Bronze Circle, Wicker Shield Core, Shield Circle, into 0 Enforcer Shield Wicker Kit using Smith Table (combine).
+Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 2 Shield Band, 2 Shield Spike, Bronze Circle, Wooden Shield Core, Shield Circle, into 0 Enforcer Shield Kit using Smith Table (combine).
+Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, 2 Bronze Band, 2 Shield Band, Wicker Shield Core, Bronze Circle, into 0 Protector Shield Wicker Kit using Smith Table (combine).
+Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, 2 Bronze Band, 2 Shield Band, Wooden Shield Core, Bronze Circle, into 0 Protector Shield Kit using Smith Table (combine).
+Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, Bronze Circle, Wicker Shield Core, Bronze Band, into 0 Crown Shield Wicker Kit using Smith Table (combine).
+Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, Bronze Circle, Wooden Shield Core, Bronze Band, into 0 Crown Shield Kit using Smith Table (combine).
+Shield Making I 200 Cut Threestem Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+Shield Making I 200 Cut White Oak Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+Shield Making I 200 Cut Wooden Block into 2 Small Wooden Block using Smith Table with a Wood Saw.
+Shield Making I 200 Dry Wyn Reed into Dried Reed using Smith Table.
+Shield Making I 200 Shape 10 Heated Bronze Ingot into Bronze Shield Shape using Anvil with a Hammer.
+Shield Making I 200 Shape 10 Heated Iron Ingot into Iron Shield Shape using Anvil with a Hammer.
+Shield Making I 200 Shape 10 Heated Steel Ingot into Shield Shape using Anvil with a Hammer.
+Shield Making I 200 Shape 11 Heated Steel Ingot into Spiked Shield Shape using Anvil with a Hammer.
+Shield Making I 200 Shape 12 Heated Bronze Ingot into 6 Bronze Shield Handle using Anvil with a Hammer.
+Shield Making I 200 Shape 12 Heated Iron Ingot into 6 Iron Shield Handle using Anvil with a Hammer.
+Shield Making I 200 Shape 12 Heated Steel Ingot into 6 Shield Handle using Anvil with a Hammer.
+Shield Making I 200 Shape 14 Heated Steel Ingot into 7 Shield Edgings using Anvil with a Hammer.
+Shield Making I 200 Shape 7 Heated Bronze Ingot into 3 Bronze Band using Anvil with a Hammer.
+Shield Making I 200 Shape 7 Heated Steel Ingot into 3 Shield Band using Anvil with a Hammer.
+Shield Making I 200 Shape 8 Heated Bronze Ingot into 4 Bronze Circle using Anvil with a Hammer.
+Shield Making I 200 Shape 8 Heated Iron Ingot into 4 Iron Circle using Anvil with a Hammer.
+Shield Making I 200 Shape 8 Heated Steel Ingot into 4 Shield Circle using Anvil with a Hammer.
+Shield Making I 200 Shape 9 Heated Steel Ingot into Round Shield Shape using Anvil with a Hammer.
+Shield Making I 200 Weave 3 Wicker Section into Round Wicker Shield Core using Smith Table.
+Shield Making I 200 Weave 4 Wicker Section into Wicker Shield Core using Smith Table.
+Shield Making I 200 Weave 8 Dried Reed into Wicker Section using Smith Table.
+Shield Making O 200 Forge Bronze Band into Heated Bronze Band using Forge.
+Shield Making O 200 Forge Bronze Circle into Heated Bronze Circle using Forge.
+Shield Making O 200 Forge Bronze Shield Handle into Heated Bronze Shield Handle using Forge.
+Shield Making O 200 Forge Bronze Shield Shape into Heated Bronze Shield Shape using Forge.
+Shield Making O 200 Forge Heated Bronze Band into Super Heated Bronze Band using Forge.
+Shield Making O 200 Forge Heated Bronze Circle into Super Heated Bronze Circle using Forge.
+Shield Making O 200 Forge Heated Bronze Shield Handle into Super Heated Bronze Shield Handle using Forge.
+Shield Making O 200 Forge Heated Bronze Shield Shape into Super Heated Bronze Shield Shape using Forge.
+Shield Making O 200 Forge Heated Iron Circle into Super Heated Iron Circle using Forge.
+Shield Making O 200 Forge Heated Iron Shield Handle into Super Heated Iron Shield Handle using Forge.
+Shield Making O 200 Forge Heated Iron Shield Shape into Super Heated Iron Shield Shape using Forge.
+Shield Making O 200 Forge Heated Round Shield Shape into Super Heated Round Shield Shape using Forge.
+Shield Making O 200 Forge Heated Shield Band into Super Heated Shield Band using Forge.
+Shield Making O 200 Forge Heated Shield Circle into Super Heated Shield Circle using Forge.
+Shield Making O 200 Forge Heated Shield Edgings into Super Heated Shield Edgings using Forge.
+Shield Making O 200 Forge Heated Shield Handle into Super Heated Shield Handle using Forge.
+Shield Making O 200 Forge Heated Shield Shape into Super Heated Shield Shape using Forge.
+Shield Making O 200 Forge Heated Shield Spike into Super Heated Shield Spike using Forge.
+Shield Making O 200 Forge Heated Spiked Shield Shape into Super Heated Spiked Shield Shape using Forge.
+Shield Making O 200 Forge Iron Circle into Heated Iron Circle using Forge.
+Shield Making O 200 Forge Iron Shield Handle into Heated Iron Shield Handle using Forge.
+Shield Making O 200 Forge Iron Shield Shape into Heated Iron Shield Shape using Forge.
+Shield Making O 200 Forge Round Shield Shape into Heated Round Shield Shape using Forge.
+Shield Making O 200 Forge Shield Band into Heated Shield Band using Forge.
+Shield Making O 200 Forge Shield Circle into Heated Shield Circle using Forge.
+Shield Making O 200 Forge Shield Edgings into Heated Shield Edgings using Forge.
+Shield Making O 200 Forge Shield Handle into Heated Shield Handle using Forge.
+Shield Making O 200 Forge Shield Shape into Heated Shield Shape using Forge.
+Shield Making O 200 Forge Shield Spike into Heated Shield Spike using Forge.
+Shield Making O 200 Forge Spiked Shield Shape into Heated Spiked Shield Shape using Forge.
+Shield Making O 200 Forge Super Heated Bronze Band into Red Hot Bronze Band using Forge.
+Shield Making O 200 Forge Super Heated Bronze Circle into Red Hot Bronze Circle using Forge.
+Shield Making O 200 Forge Super Heated Bronze Shield Handle into Red Hot Bronze Shield Handle using Forge.
+Shield Making O 200 Forge Super Heated Bronze Shield Shape into Red Hot Bronze Shield Shape using Forge.
+Shield Making O 200 Forge Super Heated Iron Circle into Red Hot Iron Circle using Forge.
+Shield Making O 200 Forge Super Heated Iron Shield Handle into Red Hot Iron Shield Handle using Forge.
+Shield Making O 200 Forge Super Heated Iron Shield Shape into Red Hot Iron Shield Shape using Forge.
+Shield Making O 200 Forge Super Heated Round Shield Shape into Red Hot Round Shield Shape using Forge.
+Shield Making O 200 Forge Super Heated Shield Band into Red Hot Shield Band using Forge.
+Shield Making O 200 Forge Super Heated Shield Circle into Red Hot Shield Circle using Forge.
+Shield Making O 200 Forge Super Heated Shield Edgings into Red Hot Shield Edgings using Forge.
+Shield Making O 200 Forge Super Heated Shield Handle into Red Hot Shield Handle using Forge.
+Shield Making O 200 Forge Super Heated Shield Shape into Red Hot Shield Shape using Forge.
+Shield Making O 200 Forge Super Heated Shield Spike into Red Hot Shield Spike using Forge.
+Shield Making O 200 Forge Super Heated Spiked Shield Shape into Red Hot Spiked Shield Shape using Forge.
+Shield Making O 200 Quench Heated Bronze Band into Bronze Band using Quench Tank.
+Shield Making O 200 Quench Heated Bronze Circle into Bronze Circle using Quench Tank.
+Shield Making O 200 Quench Heated Bronze Shield Handle into Bronze Shield Handle using Quench Tank.
+Shield Making O 200 Quench Heated Bronze Shield Shape into Bronze Shield Shape using Quench Tank.
+Shield Making O 200 Quench Heated Iron Circle into Iron Circle using Quench Tank.
+Shield Making O 200 Quench Heated Iron Shield Handle into Iron Shield Handle using Quench Tank.
+Shield Making O 200 Quench Heated Iron Shield Shape into Iron Shield Shape using Quench Tank.
+Shield Making O 200 Quench Heated Round Shield Shape into Round Shield Shape using Quench Tank.
+Shield Making O 200 Quench Heated Shield Band into Shield Band using Quench Tank.
+Shield Making O 200 Quench Heated Shield Circle into Shield Circle using Quench Tank.
+Shield Making O 200 Quench Heated Shield Edgings into Shield Edgings using Quench Tank.
+Shield Making O 200 Quench Heated Shield Handle into Shield Handle using Quench Tank.
+Shield Making O 200 Quench Heated Shield Shape into Shield Shape using Quench Tank.
+Shield Making O 200 Quench Heated Shield Spike into Shield Spike using Quench Tank.
+Shield Making O 200 Quench Heated Spiked Shield Shape into Spiked Shield Shape using Quench Tank.
+Shield Making O 200 Quench Red Hot Bronze Band into Bronze Band using Quench Tank.
+Shield Making O 200 Quench Red Hot Bronze Circle into Bronze Circle using Quench Tank.
+Shield Making O 200 Quench Red Hot Bronze Shield Handle into Bronze Shield Handle using Quench Tank.
+Shield Making O 200 Quench Red Hot Bronze Shield Shape into Bronze Shield Shape using Quench Tank.
+Shield Making O 200 Quench Red Hot Iron Circle into Iron Circle using Quench Tank.
+Shield Making O 200 Quench Red Hot Iron Shield Handle into Iron Shield Handle using Quench Tank.
+Shield Making O 200 Quench Red Hot Iron Shield Shape into Iron Shield Shape using Quench Tank.
+Shield Making O 200 Quench Red Hot Round Shield Shape into Round Shield Shape using Quench Tank.
+Shield Making O 200 Quench Red Hot Shield Band into Shield Band using Quench Tank.
+Shield Making O 200 Quench Red Hot Shield Circle into Shield Circle using Quench Tank.
+Shield Making O 200 Quench Red Hot Shield Edgings into Shield Edgings using Quench Tank.
+Shield Making O 200 Quench Red Hot Shield Handle into Shield Handle using Quench Tank.
+Shield Making O 200 Quench Red Hot Shield Shape into Shield Shape using Quench Tank.
+Shield Making O 200 Quench Red Hot Shield Spike into Shield Spike using Quench Tank.
+Shield Making O 200 Quench Red Hot Spiked Shield Shape into Spiked Shield Shape using Quench Tank.
+Shield Making O 200 Quench Super Heated Bronze Band into Bronze Band using Quench Tank.
+Shield Making O 200 Quench Super Heated Bronze Circle into Bronze Circle using Quench Tank.
+Shield Making O 200 Quench Super Heated Bronze Shield Handle into Bronze Shield Handle using Quench Tank.
+Shield Making O 200 Quench Super Heated Bronze Shield Shape into Bronze Shield Shape using Quench Tank.
+Shield Making O 200 Quench Super Heated Iron Circle into Iron Circle using Quench Tank.
+Shield Making O 200 Quench Super Heated Iron Shield Handle into Iron Shield Handle using Quench Tank.
+Shield Making O 200 Quench Super Heated Iron Shield Shape into Iron Shield Shape using Quench Tank.
+Shield Making O 200 Quench Super Heated Round Shield Shape into Round Shield Shape using Quench Tank.
+Shield Making O 200 Quench Super Heated Shield Band into Shield Band using Quench Tank.
+Shield Making O 200 Quench Super Heated Shield Circle into Shield Circle using Quench Tank.
+Shield Making O 200 Quench Super Heated Shield Edgings into Shield Edgings using Quench Tank.
+Shield Making O 200 Quench Super Heated Shield Handle into Shield Handle using Quench Tank.
+Shield Making O 200 Quench Super Heated Shield Shape into Shield Shape using Quench Tank.
+Shield Making O 200 Quench Super Heated Shield Spike into Shield Spike using Quench Tank.
+Shield Making O 200 Quench Super Heated Spiked Shield Shape into Spiked Shield Shape using Quench Tank.
+Shield Making O 200 Shape Heated Bronze Band into Bronze Band using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Bronze Circle into Bronze Circle using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Bronze Shield Handle into Bronze Shield Handle using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Bronze Shield Shape into Bronze Shield Shape using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Iron Circle into Iron Circle using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Iron Shield Handle into Iron Shield Handle using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Iron Shield Shape into Iron Shield Shape using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Round Shield Shape into Round Shield Shape using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Shield Band into Shield Band using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Shield Circle into Shield Circle using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Shield Edgings into Shield Edgings using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Shield Handle into Shield Handle using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Shield Shape into Shield Shape using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Shield Spike into Shield Spike using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Spiked Shield Shape into Spiked Shield Shape using Anvil with a Hammer.
+Shield Making O 200 Shape Heated Steel Ingot into 2 Shield Spike using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Bronze Band into Bronze Band using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Bronze Circle into Bronze Circle using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Bronze Shield Handle into Bronze Shield Handle using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Bronze Shield Shape into Bronze Shield Shape using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Iron Circle into Iron Circle using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Iron Shield Handle into Iron Shield Handle using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Iron Shield Shape into Iron Shield Shape using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Round Shield Shape into Round Shield Shape using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Shield Band into Shield Band using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Shield Circle into Shield Circle using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Shield Edgings into Shield Edgings using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Shield Handle into Shield Handle using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Shield Shape into Shield Shape using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Shield Spike into Shield Spike using Anvil with a Hammer.
+Shield Making O 200 Shape Super Heated Spiked Shield Shape into Spiked Shield Shape using Anvil with a Hammer.
+Shield Making P 200 Assemble Battle Shield Kit into Battle Shield using Riveter.
+Shield Making P 200 Assemble Battle Shield Wicker Kit into Battle Shield using Riveter.
+Shield Making P 200 Assemble Bulls Eye Shield Kit into Bulls Eye Shield using Riveter.
+Shield Making P 200 Assemble Bulls Eye Shield Wicker Kit into Bulls Eye Shield using Riveter.
+Shield Making P 200 Assemble Crown Shield Kit into Crown Shield using Riveter.
+Shield Making P 200 Assemble Crown Shield Wicker Kit into Crown Shield using Riveter.
+Shield Making P 200 Assemble Enforcer Shield Kit into Enforcer Shield using Riveter.
+Shield Making P 200 Assemble Enforcer Shield Wicker Kit into Enforcer Shield using Riveter.
+Shield Making P 200 Assemble Protector Shield Kit into Protector Shield using Riveter.
+Shield Making P 200 Assemble Protector Shield Wicker Kit into Protector Shield using Riveter.
+Shield Making P 200 Assemble Valiant Shield Kit into Valiant Shield using Riveter.
+Shield Making P 200 Assemble Valiant Shield Wicker Kit into Valiant Shield using Riveter.
+Shield Making P 200 Assemble Warrior Shield Kit into Warrior Shield using Riveter.
+Shield Making P 200 Assemble Warrior Shield Wicker Kit into Warrior Shield using Riveter.
+Shield Making P 200 Assemble War Shield Kit into War Shield using Riveter.
+Shield Making P 200 Assemble War Shield Wicker Kit into War Shield using Riveter.

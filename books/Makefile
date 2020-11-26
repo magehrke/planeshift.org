@@ -1,5 +1,5 @@
 
 all:
-	./parse-books.py *.txt2 > n
-	cp n ../website/fill_database/
+	./parse-books.py *.txt > n
+	mv n ../website/fill_database/
 
