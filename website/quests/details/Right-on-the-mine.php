@@ -108,6 +108,9 @@
 					<tr class="quest_npc">
 						<td>Amidison: Do what he asks, and see if you can find anything.</td>
 					</tr>
+					<tr class="quest_npc">
+						<td>Amidison: Then once you are done return to me and tell me what you have found out.</td>
+					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
@@ -239,24 +242,7 @@
 					<tr class="quest_npc">
 						<td>Hamel: Return when you've both beer and food provisions.</td>
 					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>→ Go to 
-						<?php
-							echo "<a href='";
-							/* Printing the NPC with a link to the Map */
-							/* The Variable $npcName has to be set !!! */
-							$npcName = 'Narwin Molstagh';
-							$path = $_SERVER['DOCUMENT_ROOT'];
-							$path .= "/includes/npc_link_to_map.inc.php";
-							include($path);
-							echo "' target='_blank'>Narwin Molstagh</a>";
-						?>
-						</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
+					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
 					</tr>
 					<tr class="quest_you">
@@ -266,19 +252,19 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Narwin: Oh, I'm so glad to see an honest Enkidukai.</td>
+						<td>Hamel: Oh, I'm so glad to see an honest Enkidukai.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
 					<tr class="quest_storyline">
-						<td>-Narwin picks a big sack from within a group of bags on the floor, he gives it to you.-</td>
+						<td>-Hamel picks a big sack from within a group of bags on the floor, he gives it to you.-</td>
 					</tr>
 					<tr class="quest_emptyRow_afterStoryline">
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Narwin: A honest payment for an awesome job well done.</td>
+						<td>Hamel: A honest payment for an awesome job well done.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -1179,7 +1165,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: Nothing.</td>
+						<td>Rewards: 31476 Tria, 19200 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

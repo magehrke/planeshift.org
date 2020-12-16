@@ -809,7 +809,19 @@
 					<tr class="quest_npc">
 						<td>Kisatol: I have an urge to pat you on the back.</td>
 					</tr>
-					<tr class="quest_emptyRow_btwNpcYou">
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_waysHeadline">
+						<td>Possible Ways: 2</td>
+					</tr>
+					<tr class="quest_emptyRow_afterWaysHeadline">
+						<td></td>
+					</tr>
+					<tr class="quest_diffWays">
+						<td>Way 1:</td>
+					</tr>
+					<tr class="quest_emptyRow_afterDiffWays">
 						<td></td>
 					</tr>
 					<tr class="quest_you">
@@ -1417,6 +1429,617 @@
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
+					<tr class="quest_diffWays">
+						<td>Way 2:</td>
+					</tr>
+					<tr class="quest_emptyRow_afterDiffWays">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: That's a pretty tricky business you've got going. I wonder what you used to pull it off!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Kisatol pats one of the pouches at his waist.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Kisatol: I have my ways.</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: I should like to know. It's such a brilliant plan, perhaps you'll tell me about it?</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Kisatol shakes his head at you. Another chuckle rumbles from his chest, and he briefly flashes a glyph before your eyes before concealing it again.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Kisatol: Like I said, I have my ways.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Kisatol: Now are you going to keep bothering me with your flattery, or do I have to have you forcefully removed?</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>[INFO]: You tried to persuade Kisatol to tell you, all he did was quickly flash a glyph to you.  Perhaps you could talk to a mage to work out what it is.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>→ Go to 
+						<?php
+							echo "<a href='";
+							/* Printing the NPC with a link to the Map */
+							/* The Variable $npcName has to be set !!! */
+							$npcName = 'Levrus Dahrenn';
+							$path = $_SERVER['DOCUMENT_ROOT'];
+							$path .= "/includes/npc_link_to_map.inc.php";
+							include($path);
+							echo "' target='_blank'>Levrus Dahrenn</a>";
+						?>
+						</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Hello, Levrus. I don't suppose you could help me find the identity of a glyph?</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Levrus purses his lips, concentrating on a vial in his fingers that is bubbling and frothing.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-He mutters incoherently about something, and then sets it in a clamp as it begins to overflow. The mage is unperturbed by this.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Eh?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Glyph, is it?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Well there are a lot of glyphs.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: You're going to have to be more specific than that.</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: [You describe the glyph to Levrus.]</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Levrus's eyes go wide.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-He strokes his chin a few times, and then begins pulling out drawers and shuffling about papers.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-With a muted 'aha!' he pulls forth a pouch and shakes it out onto the table, fingers dancing along until he plucks up one particular item and holds it out for you to see.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Poison!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: A very sneaky glyph, that's for certain.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Sneaky sneaky sneak sneak.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Can cause lots of havoc with this particular beauty!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Tricky to get one's hands on, though.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Tell me, where did you see it?</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Kisatol's been using it to taint Reffitia's spices.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Levrus nods solemnly, and begins packing all the other glyphs away, leaving only that one on the table.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Yes, yes, the crime's always been slippery up in Ojaveda.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Don't like to go there much.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: All the dust gets caught up in my robes, and the heat spoils alchemical ingredients before you can bat your eyes!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: And you have to spend two days digging about in rat droppings again.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Levrus shakes his head and tuts, clearly distraught with the idea of wasting whatever it is he needs from rats.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Why, there was this one time that...</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Levrus trails off, blushing.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Well, I suppose now's not a good time for storytelling.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: I suppose you want a way to help Reffitia out, yes?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: It's quite simple.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Just tell her to cast Cleanse on all her spices before she uses them.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Or better yet, just get another supplier!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Why the woman would buy from that fellow in the first place just boggles me.</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Thank you for your help.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Levrus eyes the glyph on the table and wrinkles his nose.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-He mutters something to himself again, and then pokes at it a few times before sliding it across to you.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Come to think of it, now that you mention it I don't think I want this anywhere near my ingredients.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Not that I can't take care of it, of course!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Just, you never want to make a mistake when you're balancing formulations this delicate!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Levrus jumps as a loud pop sounds behind him.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-He spins around, snatches up another vial and begins hastily dripping fluid from it into the one he was working on previously.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Yes yes yes!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Well, good day to you now!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Levrus: Run along!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>→ Go to 
+						<?php
+							echo "<a href='";
+							/* Printing the NPC with a link to the Map */
+							/* The Variable $npcName has to be set !!! */
+							$npcName = 'Reffitia Thamal';
+							$path = $_SERVER['DOCUMENT_ROOT'];
+							$path .= "/includes/npc_link_to_map.inc.php";
+							include($path);
+							echo "' target='_blank'>Reffitia Thamal</a>";
+						?>
+						</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Reffitia, I've found out your spices are being tampered with. Levrus told me that you need to cleanse them before you use them.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Reffitia stares at you for a few moments, before dropping the plate she was washing into the soapy water and letting out a dramatic wail.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: I try to help out around here and all I get for reward is underhandedness!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: Who would do such a thing to me?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: What's the point in making people sick, I ask you?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: You can't trust anyone these days!</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Jarda doesn't buy from the dwarf, but he does have a reputable supplier. I hear they're reasonable. Maybe you should take a trip to Amdeneir and talk to him about it.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Reffitia's nose twitches in a sniffle, and she pats her hands dry on her apron before scratching at it.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: Well, I suppose that's not such a terrible idea.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: But what am I going to do with all the spices I've already bought?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: I can't very well throw them all out.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: It would take too long and be too expensive to replace them.</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: I did ask Levrus about that. A cleanse spell should take care of it for you. It'll make the spices safe to use.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Reffitia sniffs again at you, her hands on her hips. Her ears swivel and press against her head.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: I don't have the glyphs or skill for that!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: But Jirosh might have something in stock that could work.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: He's resourceful.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: Just head on over and ask him about it, won't you?</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>→ Go to 
+						<?php
+							echo "<a href='";
+							/* Printing the NPC with a link to the Map */
+							/* The Variable $npcName has to be set !!! */
+							$npcName = 'Jirosh Mikana';
+							$path = $_SERVER['DOCUMENT_ROOT'];
+							$path .= "/includes/npc_link_to_map.inc.php";
+							include($path);
+							echo "' target='_blank'>Jirosh Mikana</a>";
+						?>
+						</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: I've figured out where the poisoning was coming from. Reffitia wants your help, though. She started buying bad spices from some dwarf.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Jirosh grins at you, showing his pointed, white fangs.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-For a terrifying moment it looks like he might hug you, but he curbs himself and remains behind the bar.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: Excellent!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: I knew I could count on you.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: Now Brado'll have to admit that he was wrong.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: Oh, I can't wait to see the look on his face!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Jirosh pauses, his tail lashing back and forth so that it makes an audible whipping sound.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: Bad spices, you say?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: Well, are they just soured, or is there something else to it?</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Levrus said that it was because of a poison glyph. He said cleansing the herbs would work, though.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Jirosh nods at you and hops over the bar to begin eagerly ruffling through the crates at the back of his shop.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-When he returns, he's carrying a somewhat transparent jar with a bunch of unpleasant looking brown goo inside of it.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-It sloshes when he pushes it into your hands.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: There, there, that should do it!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: Just tell her to add a little of this to the food she prepares.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Jirosh laughs at your startled expression.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: What?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: I've been around, thank you very much!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: This isn't the first time some ne'er do well has tried ruining my reputation!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Jirosh pulls a jingling pouch of tria from his belt, and tosses that to you as well.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: As promised for your assistance.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: Now run along, I've got work to do!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: Food to ship!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jirosh: Dues to collect!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>→ Go to 
+						<?php
+							echo "<a href='";
+							/* Printing the NPC with a link to the Map */
+							/* The Variable $npcName has to be set !!! */
+							$npcName = 'Reffitia Thamal';
+							$path = $_SERVER['DOCUMENT_ROOT'];
+							$path .= "/includes/npc_link_to_map.inc.php";
+							include($path);
+							echo "' target='_blank'>Reffitia Thamal</a>";
+						?>
+						</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: I've got this solution from Jirosh!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Reffitia stares at the jar you're holding, and her whiskers quiver.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-For a moment it seems she might actually cry, and she morosely looks at the stew simmering on her stove-top, lamenting having to subject its deliciousness to whatever is lurking in that goop.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: It's for a better cause.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: It's for a better cause.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: It's for a better cause.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Reffitia reaches out and snatches the stuff from your hands, twisting off the jar with a dramatic flair and using a spoon to plop a helping inside.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-It floats precariously on the surface before slowly descending into the darkness of the pot.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: Oh, this better not mess up the taste!</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: It's fine, I'm sure. Jirosh wouldn't give you something that wouldn't work!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Reffitia nods her head rapidly, fidgeting to and fro.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-Her shoulders and tail droop down, and she mopes about for a few moments.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: I guess I should thank you anyway.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: You did help make sure my customers don't stop coming because they're afraid of dysentery.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: So...thanks.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-She glares at the jar.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: I just have to make sure none of them ever see that.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Reffitia: Once those herbs are gone, it's going somewhere far, far away!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
 					<tr class="quest_questComplete">
 						<td>QUEST COMPLETED</td>
 					</tr>
@@ -1424,7 +2047,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Poison glyph, -20 Faction with Enkidukai, -20 Faction with Guard, 20 Faction with Thieves Organization, 3391 Tria, 12200 XP.</td>
+						<td>Rewards: [Way 1] 1 Poison glyph, -20 Faction with Enkidukai, -20 Faction with Guard, 20 Faction with Thieves Organization, 3391 Tria, 12200 XP, [Way 2] 1 Poison Glyph, 20 Faction with Enkidukai, 20 Faction with Guard, -20 Faction with Thieves Organization, 12200 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

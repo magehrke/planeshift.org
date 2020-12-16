@@ -134,5 +134,5 @@
 [NPC Narrate] -Jeyarp pulls some coins from his purse and gives them to you.-
 [NPC] Jeyarp: Thank you so much for helping me sort this out!
 
-[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Crafting Association
+[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Crafting Association; [Item] 1, Water Glyph
 

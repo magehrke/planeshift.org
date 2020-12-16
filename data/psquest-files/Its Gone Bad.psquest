@@ -154,6 +154,11 @@
 [NPC] Kisatol: Well, well done little Enkidukai.
 [NPC] Kisatol: You have done some very admirable sleuthing.
 [NPC] Kisatol: I have an urge to pat you on the back.
+
+[Possible Ways] 2
+
+[Way] 1
+
 [NPC Internal] So you have something good going, I'm in or I'm outing your plans!
 [NPC Narrate] -Kisatol looks shocked, if his widening eyes is any indication.-
 [NPC Narrate] -Then he laughs again, and spreads his arms in an inclusive gesture.-
@@ -283,5 +288,134 @@
 [NPC] Kisatol: Can always use a grunt with a head on their shoulders.
 [NPC] Kisatol: Now get out of my sight before I wring your neck for the fun of it.
 
-[Reward] [Money] 3391; [XP] 12200; [Item] 1, Poison glyph; [Faction] -20, Enkidukai; [Faction] -20, Guard; [Faction] 20, Thieves Organization
+[Way] 2
+
+[NPC Internal] That's a pretty tricky business you've got going. I wonder what you used to pull it off!
+[NPC Narrate] Kisatol pats one of the pouches at his waist.
+[NPC] Kisatol: I have my ways.
+[NPC Internal] I should like to know. It's such a brilliant plan, perhaps you'll tell me about it?
+[NPC Narrate] Kisatol shakes his head at you. Another chuckle rumbles from his chest, and he briefly flashes a glyph before your eyes before concealing it again.
+[NPC] Kisatol: Like I said, I have my ways.
+[NPC] Kisatol: Now are you going to keep bothering me with your flattery, or do I have to have you forcefully removed? 
+
+[Info] You tried to persuade Kisatol to tell you, all he did was quickly flash a glyph to you.  Perhaps you could talk to a mage to work out what it is.
+
+[To] Levrus Dahrenn
+
+[NPC Internal] Hello, Levrus. I don't suppose you could help me find the identity of a glyph?
+[NPC Narrate] Levrus purses his lips, concentrating on a vial in his fingers that is bubbling and frothing.
+[NPC Narrate] -He mutters incoherently about something, and then sets it in a clamp as it begins to overflow. The mage is unperturbed by this.-
+[NPC] Levrus: Eh?
+[NPC] Levrus: Glyph, is it?
+[NPC] Levrus: Well there are a lot of glyphs.
+[NPC] Levrus: You're going to have to be more specific than that.
+[NPC Internal] [You describe the glyph to Levrus.]
+[NPC Narrate] Levrus's eyes go wide.
+[NPC Narrate] -He strokes his chin a few times, and then begins pulling out drawers and shuffling about papers.-
+[NPC Narrate] -With a muted 'aha!' he pulls forth a pouch and shakes it out onto the table, fingers dancing along until he plucks up one particular item and holds it out for you to see.-
+[NPC] Levrus: Poison!
+[NPC] Levrus: A very sneaky glyph, that's for certain.
+[NPC] Levrus: Sneaky sneaky sneak sneak.
+[NPC] Levrus: Can cause lots of havoc with this particular beauty!
+[NPC] Levrus: Tricky to get one's hands on, though.
+[NPC] Levrus: Tell me, where did you see it?
+[NPC Internal] Kisatol's been using it to taint Reffitia's spices.
+[NPC Narrate] Levrus nods solemnly, and begins packing all the other glyphs away, leaving only that one on the table.
+[NPC] Levrus: Yes, yes, the crime's always been slippery up in Ojaveda.
+[NPC] Levrus: Don't like to go there much.
+[NPC] Levrus: All the dust gets caught up in my robes, and the heat spoils alchemical ingredients before you can bat your eyes!
+[NPC] Levrus: And you have to spend two days digging about in rat droppings again.
+[NPC Narrate] Levrus shakes his head and tuts, clearly distraught with the idea of wasting whatever it is he needs from rats.
+[NPC] Levrus: Why, there was this one time that...
+[NPC Narrate] Levrus trails off, blushing.
+[NPC] Levrus: Well, I suppose now's not a good time for storytelling.
+[NPC] Levrus: I suppose you want a way to help Reffitia out, yes?
+[NPC] Levrus: It's quite simple.
+[NPC] Levrus: Just tell her to cast Cleanse on all her spices before she uses them.
+[NPC] Levrus: Or better yet, just get another supplier!
+[NPC] Levrus: Why the woman would buy from that fellow in the first place just boggles me.
+[NPC Internal] Thank you for your help.
+[NPC Narrate] Levrus eyes the glyph on the table and wrinkles his nose.
+[NPC Narrate] -He mutters something to himself again, and then pokes at it a few times before sliding it across to you.-
+[NPC] Levrus: Come to think of it, now that you mention it I don't think I want this anywhere near my ingredients.
+[NPC] Levrus: Not that I can't take care of it, of course!
+[NPC] Levrus: Just, you never want to make a mistake when you're balancing formulations this delicate!
+[NPC Narrate] Levrus jumps as a loud pop sounds behind him.
+[NPC Narrate] -He spins around, snatches up another vial and begins hastily dripping fluid from it into the one he was working on previously.-
+[NPC] Levrus: Yes yes yes!
+[NPC] Levrus: Well, good day to you now!
+[NPC] Levrus: Run along! 
+
+[To] Reffitia Thamal
+
+[NPC Internal] Reffitia, I've found out your spices are being tampered with. Levrus told me that you need to cleanse them before you use them.
+[NPC Narrate] Reffitia stares at you for a few moments, before dropping the plate she was washing into the soapy water and letting out a dramatic wail.
+[NPC] Reffitia: I try to help out around here and all I get for reward is underhandedness!
+[NPC] Reffitia: Who would do such a thing to me?
+[NPC] Reffitia: What's the point in making people sick, I ask you?
+[NPC] Reffitia: You can't trust anyone these days!
+[NPC Internal] Jarda doesn't buy from the dwarf, but he does have a reputable supplier. I hear they're reasonable. Maybe you should take a trip to Amdeneir and talk to him about it.
+[NPC Narrate] Reffitia's nose twitches in a sniffle, and she pats her hands dry on her apron before scratching at it.
+[NPC] Reffitia: Well, I suppose that's not such a terrible idea.
+[NPC] Reffitia: But what am I going to do with all the spices I've already bought?
+[NPC] Reffitia: I can't very well throw them all out.
+[NPC] Reffitia: It would take too long and be too expensive to replace them.
+[NPC Internal] I did ask Levrus about that. A cleanse spell should take care of it for you. It'll make the spices safe to use.
+[NPC Narrate] Reffitia sniffs again at you, her hands on her hips. Her ears swivel and press against her head.
+[NPC] Reffitia: I don't have the glyphs or skill for that!
+[NPC] Reffitia: But Jirosh might have something in stock that could work.
+[NPC] Reffitia: He's resourceful.
+[NPC] Reffitia: Just head on over and ask him about it, won't you? 
+
+[To] Jirosh Mikana
+
+[NPC Internal] I've figured out where the poisoning was coming from. Reffitia wants your help, though. She started buying bad spices from some dwarf.
+[NPC Narrate] Jirosh grins at you, showing his pointed, white fangs.
+[NPC Narrate] -For a terrifying moment it looks like he might hug you, but he curbs himself and remains behind the bar.-
+[NPC] Jirosh: Excellent!
+[NPC] Jirosh: I knew I could count on you.
+[NPC] Jirosh: Now Brado'll have to admit that he was wrong.
+[NPC] Jirosh: Oh, I can't wait to see the look on his face!
+[NPC Narrate] Jirosh pauses, his tail lashing back and forth so that it makes an audible whipping sound.
+[NPC] Jirosh: Bad spices, you say?
+[NPC] Jirosh: Well, are they just soured, or is there something else to it?
+[NPC Internal] Levrus said that it was because of a poison glyph. He said cleansing the herbs would work, though.
+[NPC Narrate] Jirosh nods at you and hops over the bar to begin eagerly ruffling through the crates at the back of his shop.
+[NPC Narrate] -When he returns, he's carrying a somewhat transparent jar with a bunch of unpleasant looking brown goo inside of it.-
+[NPC Narrate] -It sloshes when he pushes it into your hands.-
+[NPC] Jirosh: There, there, that should do it!
+[NPC] Jirosh: Just tell her to add a little of this to the food she prepares.
+[NPC Narrate] Jirosh laughs at your startled expression.
+[NPC] Jirosh: What?
+[NPC] Jirosh: I've been around, thank you very much!
+[NPC] Jirosh: This isn't the first time some ne'er do well has tried ruining my reputation!
+[NPC Narrate] Jirosh pulls a jingling pouch of tria from his belt, and tosses that to you as well. 
+[NPC] Jirosh: As promised for your assistance.
+[NPC] Jirosh: Now run along, I've got work to do!
+[NPC] Jirosh: Food to ship!
+[NPC] Jirosh: Dues to collect!
+
+[To] Reffitia Thamal
+
+[NPC Internal] I've got this solution from Jirosh!
+[NPC Narrate] Reffitia stares at the jar you're holding, and her whiskers quiver.
+[NPC Narrate] -For a moment it seems she might actually cry, and she morosely looks at the stew simmering on her stove-top, lamenting having to subject its deliciousness to whatever is lurking in that goop.-
+[NPC] Reffitia: It's for a better cause.
+[NPC] Reffitia: It's for a better cause.
+[NPC] Reffitia: It's for a better cause.
+[NPC Narrate] Reffitia reaches out and snatches the stuff from your hands, twisting off the jar with a dramatic flair and using a spoon to plop a helping inside.
+[NPC Narrate] -It floats precariously on the surface before slowly descending into the darkness of the pot.-
+[NPC] Reffitia: Oh, this better not mess up the taste!
+[NPC Internal] It's fine, I'm sure. Jirosh wouldn't give you something that wouldn't work!
+[NPC Narrate] Reffitia nods her head rapidly, fidgeting to and fro.
+[NPC Narrate] -Her shoulders and tail droop down, and she mopes about for a few moments.-
+[NPC] Reffitia: I guess I should thank you anyway.
+[NPC] Reffitia: You did help make sure my customers don't stop coming because they're afraid of dysentery.
+[NPC] Reffitia: So...thanks.
+[NPC Narrate] -She glares at the jar.-
+[NPC] Reffitia: I just have to make sure none of them ever see that.
+[NPC] Reffitia: Once those herbs are gone, it's going somewhere far, far away! 
+
+[Reward] [Way 1] [Money] 3391; [XP] 12200; [Item] 1, Poison glyph; [Faction] -20, Enkidukai; [Faction] -20, Guard; [Faction] 20, Thieves Organization
+[Reward] [Way 2] [XP] 12200; [Faction] +20, Enkidukai; [Faction] +20, Guard; [Faction] -20, Thieves Organization; [Item] 1, Poison Glyph;
 

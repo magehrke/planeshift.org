@@ -108,6 +108,54 @@
 					<tr class="quest_npc">
 						<td>Pawprech: Good luck, and spread the good will!</td>
 					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: What do you use dung for?</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Pawprech: A valid question.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Pawprech Forsill holds up a hand and starts counting the uses on his fingers, speaking with passion.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Pawprech: It makes gardens and farms more fertile.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Pawprech: My brother is a gardener in town, and I believe one of the guards is from a farming community, though I forget who.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Pawprech: Cooks and smiths use it to stoke fires.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Pawprech: It's an alchemical substance, most especially used by alchemists who work in the open air.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Pawprech: It's also used in science: dung can be used to attract insects for study.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Pawprech Forsill smiles broadly.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Pawprech: I hope now you see that dung is in fact a very good gift!</td>
+					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
@@ -206,6 +254,79 @@
 					</tr>
 					<tr class="quest_npc">
 						<td>Durok: I shall not easily forget this.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>→ Give 
+						<?php
+							echo "<a href='";
+							/* Printing the NPC with a link to the Map */
+							/* The Variable $npcName has to be set !!! */
+							$npcName = 'Jomed Parcen';
+							$path = $_SERVER['DOCUMENT_ROOT'];
+							$path .= "/includes/npc_link_to_map.inc.php";
+							include($path);
+							echo "' target='_blank'>Jomed Parcen</a>";
+						?>
+						1 Sack of Manure</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jomed: Manure, how thoughtful.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jomed: Sure beats coal or wood for keeping the cook fires burning.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jomed: I'll give Pawprech my thanks next time I'm down by the winch, but thanks for delivering it.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Jomed: Here, take the sack back.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>→ Give 
+						<?php
+							echo "<a href='";
+							/* Printing the NPC with a link to the Map */
+							/* The Variable $npcName has to be set !!! */
+							$npcName = 'Bevon Damerr';
+							$path = $_SERVER['DOCUMENT_ROOT'];
+							$path .= "/includes/npc_link_to_map.inc.php";
+							include($path);
+							echo "' target='_blank'>Bevon Damerr</a>";
+						?>
+						1 Sack of Manure</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Bevon: Now what's thi...</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Bevon: Manure?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Bevon: Ah yes, this will do jus' fine!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Bevon: I'm from out'n the country, y'know.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Bevon: I know plen'y of farmers who can make good use of this.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Bevon: Thank ye.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Bevon: And be sure to thank Pawprech when you see him.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>

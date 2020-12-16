@@ -156,7 +156,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: Nothing.</td>
+						<td>Rewards: 1 Fear Glyph, 3551 Tria, 12200 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

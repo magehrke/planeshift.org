@@ -726,7 +726,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: Nothing.</td>
+						<td>Rewards: 10 Faction with Guards, 10 Faction with Cabal of Whispers, 16411 Tria, 19200 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

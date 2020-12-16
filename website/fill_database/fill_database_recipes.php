@@ -3900,7 +3900,7 @@
 			"book"		=> "Basic Potions Tome"
 		),
 		array (
-			"name"		=> "Mix of limed Carkarass skull",
+			"name"		=> "Mix of Limed Carkarass skull",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Carkarass Skull",
 			"result"	=> "1",
@@ -3910,7 +3910,7 @@
 			"book"		=> "Basic Potions Tome"
 		),
 		array (
-			"name"		=> "Mix of limed Eagle Gobble skull",
+			"name"		=> "Mix of Limed Eagle Gobble skull",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Eagle Gobble Skull",
 			"result"	=> "1",
@@ -3920,7 +3920,7 @@
 			"book"		=> "Basic Potions Tome"
 		),
 		array (
-			"name"		=> "Mix of limed Flayed Velnishi skull",
+			"name"		=> "Mix of Limed Flayed Velnishi skull",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Flayed Velnishi Skull",
 			"result"	=> "1",
@@ -3930,7 +3930,7 @@
 			"book"		=> "Basic Potions Tome"
 		),
 		array (
-			"name"		=> "Mix of limed Poison Carkarass skull",
+			"name"		=> "Mix of Limed Poison Carkarass skull",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Poison Carkarass Skull",
 			"result"	=> "1",
@@ -3940,7 +3940,7 @@
 			"book"		=> "Basic Potions Tome"
 		),
 		array (
-			"name"		=> "Mix of limed Serpent Gobble skull",
+			"name"		=> "Mix of Limed Serpent Gobble skull",
 			"type"		=> "I",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Serpent Gobble Skull",
 			"result"	=> "1",
@@ -4242,7 +4242,7 @@
 		array (
 			"name"		=> "Toughness Essence",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Mix of limed Flayed Velnishi skull",
+			"ingredient"	=> "C 1 Mix of Limed Flayed Velnishi skull",
 			"result"	=> "12",
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
@@ -4762,7 +4762,7 @@
 		array (
 			"name"		=> "Toughness Essence",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Mix of limed Carkarass skull",
+			"ingredient"	=> "C 1 Mix of Limed Carkarass skull",
 			"result"	=> "6",
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
@@ -4772,7 +4772,7 @@
 		array (
 			"name"		=> "Toughness Essence",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Mix of limed Eagle Gobble skull",
+			"ingredient"	=> "C 1 Mix of Limed Eagle Gobble skull",
 			"result"	=> "6",
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
@@ -4792,7 +4792,7 @@
 		array (
 			"name"		=> "Toughness Essence",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Mix of limed Serpent Gobble skull",
+			"ingredient"	=> "C 1 Mix of Limed Serpent Gobble skull",
 			"result"	=> "6",
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
@@ -4892,7 +4892,7 @@
 		array (
 			"name"		=> "Toughness Essence",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Mix of limed Poison Carkarass skull",
+			"ingredient"	=> "C 1 Mix of Limed Poison Carkarass skull",
 			"result"	=> "9",
 			"tool"		=> "Crucible + Glass Stirrer",
 			"skill"		=> "Alchemy",
@@ -41474,7 +41474,7 @@
 		),
 		array (
 			"name"		=> "Savory Kikiri Stew",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed Kikiri Seasoning",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -52190,7 +52190,7 @@
 		),
 		array (
 			"name"		=> "Molten Zinc",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Zinc Ingot",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52210,7 +52210,7 @@
 		),
 		array (
 			"name"		=> "Molten Zinc",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Zinc Stock",
 			"result"	=> "10",
 			"tool"		=> "Furnace",
@@ -52300,7 +52300,7 @@
 		),
 		array (
 			"name"		=> "Molten Tin",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Tin Ingot",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52330,7 +52330,7 @@
 		),
 		array (
 			"name"		=> "Molten Tin",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Tin Stock",
 			"result"	=> "10",
 			"tool"		=> "Furnace",
@@ -52350,7 +52350,7 @@
 		),
 		array (
 			"name"		=> "Molten Silver",
-			"type"		=> "I",
+			"type"		=> "O",
 			"ingredient"	=> "C 1 Silver Stock",
 			"result"	=> "5",
 			"tool"		=> "Furnace",

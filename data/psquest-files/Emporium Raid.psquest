@@ -1,4 +1,4 @@
-[Questname] Emporium raid
+[Questname] Emporium Raid
 [NPC Name] Rinna Voladrand
 [Checkup] 2014-01-01
 [Authors] Dudu and Lele
@@ -102,5 +102,5 @@
 [NPC] Rabartus: Thanks for your help, citizen; this city needs more people like you.
 [NPC] Rabartus: Take this as a reward.
 
-[Reward] [Money] 2107; [XP] 10800; [Faction] 15, Crafting Association
+[Reward] [Money] 2107; [XP] 10800; [Faction] 15, Crafting Association; [Item] 1, Divination Glyph
 

@@ -1,0 +1,92 @@
+[Questname] A Rare Growth
+[NPC Name] Beniua Busuka
+[Checkup] 2020-12-01
+[Authors] Haviland Tenouri
+
+[Need] Nothing
+
+[To] Beniua Busuka
+
+[NPC Internal] Hello Beniua, anything going on lately?
+[NPC] Beniua: Hail Darvingar.
+[NPC] Beniua: A lot, as always.
+[NPC] Beniua: Too few supplies, too few fighters, too many troubles.
+
+[NPC Narrate] Beniua Busuka smiles.
+
+[NPC] Beniua: There's always something keeping me busy but nothing I should bother others about, it is my job after all...
+
+[NPC Narrate] Beniua Busuka pauses, but then concedes.
+
+[NPC] Beniua: However, recently I have encountered something that worries me, a lot, it might interest an adventurer like you.
+[NPC] Beniua: I guess you've already seen a riverling, but did you hear about them having found, well, a king?
+
+[NPC Internal] A riverling king?
+
+[NPC Narrate] Beniua Busuka starts to smile but it seems out of nervousness.
+
+[NPC] Beniua: Yes, king seems like as good a term as any to describe him...
+[NPC] Beniua: It seems one of the riverlings near the fortress became just that!
+[NPC] Beniua: I'm troubled how this might become a problem as their tribe is so close off the road to the fortress.
+[NPC] Beniua: Too close.
+[NPC] Beniua: We could use someone to investigate this further.
+[NPC] Beniua: Might you?
+
+[NPC Internal] Sure thing. Is there anything else I should know before going?
+
+[NPC] Beniua: As far as I'm aware, it would be wiser not to go and investigate this matter alone.
+[NPC] Beniua: Being united by this king will likely make them stronger and even more of a fearless foe...
+
+[NPC Internal] Alright, thank you Beniua.
+
+[NPC] Beniua: One last thing, Darvingar.
+[NPC] Beniua: I take my job very seriously and when a matter arises I ensure to solve it fully.
+[NPC] Beniua: I think it would be best to bring this to the attention of a specialist.
+[NPC] Beniua: Once you have observed the king and his behaviour, and if you are interested, you should contact Durok Rrecrok.
+[NPC] Beniua: The kran or kras colleagues are more competent then any of us to then deal with this problem in the best way possible.
+[NPC] Beniua: And to be honest if they do not take this in charge, we will have to settle this forcibly.
+
+[NPC Internal] I think it's always better to refer to a specialist. I will try to observe it before talking to Durok.
+
+[NPC Narrate] Beniua Busuka nods.
+
+[NPC] Beniua: Thank you, Darvingar.
+[NPC] Beniua: I will report this in my logs.
+[NPC] Beniua: Please tell Durok or whoever will take this in charge, to contact me.
+
+[Info] you need to see Zoltak before proceeding. You'll find him in the lake near the fortress ramp
+
+[To] Durok Rrecrok
+
+[NPC Internal] Hello Gemma Durok, I am here from Beniua Busuka, administrator of the Bronze doors fortress. We have observed that a...riverling king has emerged.
+
+[NPC] Durok: Hello YOU!
+[NPC] Durok: Well hummmmm I am glad Beniua and yourself chose to inform the science association about this!
+[NPC] Durok: To be honest, I have already heard about this.
+[NPC] Durok: First because a fisherman reported it to me, bless errrrrrr him.
+[NPC] Durok: And second, hummmmmm, because it is not the errrr first time this has happened.
+
+[NPC Internal] Really?
+
+[NPC] Durok: I have errr discussed with a friend of mine who is more versed into the animal studies.
+[NPC] Durok: As you may know, my hummmm specialty is rather the insects but ermmmm..anyway.
+[NPC] Durok: Kra said that occasionally, a riverling will grow errrr stronger than the others and then be able to ascend to the "throne" by challenging his potential rivals.
+[NPC] Durok: Once established, it will hummmmmmm "organise" its tribe in a more structured way and therefore errrrrrr be a real threat for anything or anyone in the area.
+
+[NPC Internal] Oh. But why does it grow bigger? Does he have other particularities?
+
+[NPC] Durok: Hummmmm Kra does not exactly know why but sometimes, one specimen will grow taller.
+[NPC] Durok: Their skull expands in width making their eyes more hummmm separated, allowing them to see in a wider angle.
+[NPC] Durok: This also develops their sense for smelling and noticing foes.
+[NPC] Durok: All of this and their significantly longer teeth, give them a errrrrrrmm certain advantage on their tribe mates.
+[NPC] Durok: Though, being water creature, they still are sensitive to fire and in extent to Red Way magic.
+
+[NPC Internal] Do you consider the riverling tribe a threat then, now that they have a king?
+
+[NPC] Durok: I ermmm suppose you mean a threat to the residents of the fortress and or the caravans?
+[NPC] Durok: Obviously, I would say yes.
+[NPC] Durok: On the other hand, if a hummmmmmmm invasion occurs, they will ferociously defend their territory against the invading...mmmmmmm...beasts, technically becoming an ally to our soldiers.
+[NPC] Durok: Beware though, that the riverlings will defend their king to death if necessary. 
+
+[Reward] [XP] 12200
+

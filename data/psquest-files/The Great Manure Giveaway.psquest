@@ -20,6 +20,16 @@
 [NPC] Pawprech: One per person please, and return the empty sacks when you're done.
 [NPC] Pawprech: I always re-use my sacks.
 [NPC] Pawprech: Good luck, and spread the good will!
+[NPC Internal] What do you use dung for?
+[NPC] Pawprech: A valid question.
+[NPC Narrate] Pawprech Forsill holds up a hand and starts counting the uses on his fingers, speaking with passion.
+[NPC] Pawprech: It makes gardens and farms more fertile.
+[NPC] Pawprech: My brother is a gardener in town, and I believe one of the guards is from a farming community, though I forget who.
+[NPC] Pawprech: Cooks and smiths use it to stoke fires.
+[NPC] Pawprech: It's an alchemical substance, most especially used by alchemists who work in the open air.
+[NPC] Pawprech: It's also used in science: dung can be used to attract insects for study.
+[NPC Narrate] Pawprech Forsill smiles broadly.
+[NPC] Pawprech: I hope now you see that dung is in fact a very good gift! 
 
 [Give] Harnquist; 1, Sack of Manure
 
@@ -41,6 +51,21 @@
 [NPC] Durok: Manure is invaluable in my studies of insects, but rare are the times people actually give me any.
 [NPC] Durok: Your donation is most appreciated, Sir.
 [NPC] Durok: I shall not easily forget this.
+
+[Give] Jomed Parcen; 1, Sack of Manure
+[NPC] Jomed: Manure, how thoughtful.
+[NPC] Jomed: Sure beats coal or wood for keeping the cook fires burning.
+[NPC] Jomed: I'll give Pawprech my thanks next time I'm down by the winch, but thanks for delivering it.
+[NPC] Jomed: Here, take the sack back. 
+
+[Give] Bevon Damerr; 1, Sack of Manure
+[NPC] Bevon: Now what's thi...
+[NPC] Bevon: Manure?
+[NPC] Bevon: Ah yes, this will do jus' fine!
+[NPC] Bevon: I'm from out'n the country, y'know.
+[NPC] Bevon: I know plen'y of farmers who can make good use of this.
+[NPC] Bevon: Thank ye.
+[NPC] Bevon: And be sure to thank Pawprech when you see him.
 
 [To] Pawprech Forsill
 

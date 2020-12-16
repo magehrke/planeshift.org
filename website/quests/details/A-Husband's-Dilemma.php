@@ -679,7 +679,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 25 Faction with Crafting Association, 5130 Tria, 13600 XP.</td>
+						<td>Rewards: 1 Water Glyph, 25 Faction with Crafting Association, 5130 Tria, 13600 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

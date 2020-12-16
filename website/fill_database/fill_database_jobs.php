@@ -50,7 +50,7 @@
 		'Utno-Leig', 'Endurance', 330, 400,'none',
 		'Jayose', 'Intelligence', 0, 130,'none',
 		'Liera Zireti', 'Intelligence', 130, 200,'none',
-		'Leshollo Moteroy', 'Intelligence', 180, 300,'none',
+		'Leshollo Moteroy', 'Intelligence', 180, 250,'none',
 		'Toda Ombretis', 'Intelligence', 230, 300,'none',
 		'Beniua Busuka', 'Intelligence', 280, 400,'none',
 		'Remant Tovere', 'Strength', 0, 100,'none',

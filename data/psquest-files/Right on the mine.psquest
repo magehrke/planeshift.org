@@ -17,6 +17,7 @@
 [NPC] Amidison: Go to Hamel Warson, here in Hydlaa plaza.
 [NPC] Amidison: Ask him if he has any jobs for you.
 [NPC] Amidison: Do what he asks, and see if you can find anything.
+[NPC] Amidison: Then once you are done return to me and tell me what you have found out.
 
 [To] Hamel Warson
 
@@ -44,13 +45,10 @@
 [NPC] Hamel: Don't ask anyone else.
 [NPC] Hamel: Only Rolara and Narwin.
 [NPC] Hamel: Return when you've both beer and food provisions.
-
-[To] Narwin Molstagh
-
 [NPC Internal] I have the five units of Iron for you.
-[NPC] Narwin: Oh, I'm so glad to see an honest Enkidukai.
-[NPC Narrate] -Narwin picks a big sack from within a group of bags on the floor, he gives it to you.-
-[NPC] Narwin: A honest payment for an awesome job well done.
+[NPC] Hamel: Oh, I'm so glad to see an honest Enkidukai.
+[NPC Narrate] -Hamel picks a big sack from within a group of bags on the floor, he gives it to you.-
+[NPC] Hamel: A honest payment for an awesome job well done.
 
 [To] Rolara Hammersong
 
@@ -232,3 +230,5 @@
 [NPC] Amidison: I hope he can do something about this.
 [NPC] Amidison: Perhaps come to some agreement between the dwarfs and the Kran.
 [NPC] Amidison: Thank you for your help.
+
+[Reward] [Money] 31476; [XP] 19200

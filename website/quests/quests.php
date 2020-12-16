@@ -36,7 +36,8 @@
 <!-- Content section -->
 <div id="content_main_container">
 
-    <input id="myInput" type="text" placeholder="Search Table..">
+	<br>
+    Search for quest: <input id="myInput" type="text" placeholder="Search Table..">
     <table id="myTable" class="quests_main_table sortable hovableTable">
 
         <tr id="quests_main_table_header">

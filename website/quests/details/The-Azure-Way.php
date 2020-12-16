@@ -340,7 +340,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Apprentice's Azure Way Staff, 5 Faction with Azure Order, 8000 XP.</td>
+						<td>Rewards: 1 Apprentice's Azure Way Staff, 1 Sleep Glyph, 5 Faction with Azure Order, 8000 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>
