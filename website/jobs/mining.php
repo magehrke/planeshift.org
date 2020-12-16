@@ -208,7 +208,6 @@ post2pval ( $fn, $pval );
 							$q = "SELECT name, area, category, position, checkup FROM mapsItems ";
 							$q .= "WHERE name='".$pval['item']."' ";
 							$q .= "ORDER BY name, area";
-							print "q: $q<br>\n";
 							$get_ores = $mysqli->query($q) or die(mysql_error());
 							while($ores = $get_ores->fetch_array()) {
 								echo "<tr>";
