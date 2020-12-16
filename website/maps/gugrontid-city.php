@@ -12,11 +12,11 @@
 	<link href="/styles/maps.css" type="text/css" rel="stylesheet" />
 
     <script>
-		var	scale_x = 99,
-			scale_y = 50,
+		var	scale_x = 100,
+			scale_y = 90,
 			swap_xz = false,
 			offsetX = 45000, 
-			offsetY = 6200, 
+			offsetY = 16200, 
 			map = "/images/maps/gugrontid-1024x768.jpg", 
 			rot = false,
 			layers = 1,
