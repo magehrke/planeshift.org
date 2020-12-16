@@ -71,7 +71,7 @@ Cooking I 200 Heat Full Pot of Water into Pot of Hot Water using Pot.
 Cooking I 200 Heat Gravy Base into Thick Gravy using Pot.
 Cooking I 200 Heat Hearty Flat Pie Sauce Mix into Hearty Flat Pie Sauce using Pot.
 Cooking I 200 Heat Hot Salt Water into Boiling Salt Water using Pot.
-Cooking I 200 Heat Mixed Kikiri Seasoning into Savory Kikiri Stew using Pot.
+Cooking P 200 Heat Mixed Kikiri Seasoning into Savory Kikiri Stew using Pot.
 Cooking I 200 Heat Pile of Diced Meat into Cooked Diced Meat using Pot.
 Cooking I 200 Heat Pot of Hot Water into Pot of Simmering Water using Pot.
 Cooking I 200 Heat Pot of Simmering Water into Pot of Boiling Water using Pot.

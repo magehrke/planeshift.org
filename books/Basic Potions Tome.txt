@@ -39,11 +39,11 @@ Alchemy I 0 Combine Powdered Zinc Ore, 2 Oil of Vitriol, into 0 Mix of Zinc ore 
 Alchemy I 0 Combine Quicksilver Vial, 2 Oil of Vitriol, into 0 Mix of Quicksilver and vitriol using Alchemy Table (combine).
 Alchemy I 0 Combine Salt spirit, Copper Ore Solution, into 0 Raw Minor Potion of Diaboli's Charm using Alchemy Table (combine).
 Alchemy I 0 Combine Salt spirit, Ground Serpent Gobble Bones, into 0 Mix of Ground Serpent Gobble Bones using Alchemy Table (combine).
-Alchemy I 0 Combine Salt spirit, Limed Carkarass Skull, into 0 Mix of limed Carkarass skull using Alchemy Table (combine).
-Alchemy I 0 Combine Salt spirit, Limed Eagle Gobble Skull, into 0 Mix of limed Eagle Gobble skull using Alchemy Table (combine).
-Alchemy I 0 Combine Salt spirit, Limed Flayed Velnishi Skull, into 0 Mix of limed Flayed Velnishi skull using Alchemy Table (combine).
-Alchemy I 0 Combine Salt spirit, Limed Poison Carkarass Skull, into 0 Mix of limed Poison Carkarass skull using Alchemy Table (combine).
-Alchemy I 0 Combine Salt spirit, Limed Serpent Gobble Skull, into 0 Mix of limed Serpent Gobble skull using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Carkarass Skull, into 0 Mix of Limed Carkarass skull using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Eagle Gobble Skull, into 0 Mix of Limed Eagle Gobble skull using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Flayed Velnishi Skull, into 0 Mix of Limed Flayed Velnishi skull using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Poison Carkarass Skull, into 0 Mix of Limed Poison Carkarass skull using Alchemy Table (combine).
+Alchemy I 0 Combine Salt spirit, Limed Serpent Gobble Skull, into 0 Mix of Limed Serpent Gobble skull using Alchemy Table (combine).
 Alchemy I 0 Combine Smartness Essence, Tin Solution, into 0 Raw Potion of Lemur's Smartness using Alchemy Table (combine).
 Alchemy I 0 Combine Spirit, 2 Coamti Eye, into 0 Mixed Coamti Eye using Alchemy Table (combine).
 Alchemy I 0 Combine Spirit, 2 Ground Rat Foot, into 0 Mixed Rats foot using Alchemy Table (combine).
@@ -88,7 +88,7 @@ Alchemy I >22<34 Cook Mixed Vesper Arangma Eye into 5 Smartness Essence using Al
 Alchemy I >22<34 Cook Mix of Distilled Vilenaut Blood into 15 Charme Essence using Alchemist Stove with a Iron Stirrer.
 Alchemy I >22<34 Cook Mix of Incinerated Tefusang Claw into 7 Vigor Essence using Alchemist Stove with a Iron Stirrer.
 Alchemy I >22<34 Cook Mix of incinerated Velnishi Talon into 7 Vigor Essence using Alchemist Stove with a Iron Stirrer.
-Alchemy I >22<34 Corrode Mix of limed Flayed Velnishi skull into 12 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >22<34 Corrode Mix of Limed Flayed Velnishi skull into 12 Toughness Essence using Crucible with a Glass Stirrer.
 Alchemy I >22<34 Corrode Mix of Limed Grendol bones into 12 Toughness Essence using Crucible with a Glass Stirrer.
 Alchemy I >22<34 Distill Mix of Consumer Antenna into Consumer Pheromone using Alembic.
 Alchemy I >22<34 Pulverize Consumer Antenna into Powdered Consumer Antenna using Mortar and Pestle.
@@ -142,10 +142,10 @@ Alchemy I >9<22 Cook Mix of Thunder Clacker Tentacle into 5 Willpower Essence us
 Alchemy I >9<22 Cook Mix of Trepor Wiggly Feeler into 6 Willpower Essence using Alchemist Stove with a Iron Stirrer.
 Alchemy I >9<22 Cook Mix of Wrath Rat Eye into 4 Smartness Essence using Alchemist Stove with a Iron Stirrer.
 Alchemy I >9<22 Corrode Mix of Ground Serpent Gobble Bones into 6 Toughness Essence using Crucible with a Glass Stirrer.
-Alchemy I >9<22 Corrode Mix of limed Carkarass skull into 6 Toughness Essence using Crucible with a Glass Stirrer.
-Alchemy I >9<22 Corrode Mix of limed Eagle Gobble skull into 6 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >9<22 Corrode Mix of Limed Carkarass skull into 6 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >9<22 Corrode Mix of Limed Eagle Gobble skull into 6 Toughness Essence using Crucible with a Glass Stirrer.
 Alchemy I >9<22 Corrode Mix of Limed Marfusang Bones into 9 Toughness Essence using Crucible with a Glass Stirrer.
-Alchemy I >9<22 Corrode Mix of limed Serpent Gobble skull into 6 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I >9<22 Corrode Mix of Limed Serpent Gobble skull into 6 Toughness Essence using Crucible with a Glass Stirrer.
 Alchemy I >9<22 Pulverize Clacker Leg into Powdered Clacker Leg using Mortar and Pestle.
 Alchemy I >9<22 Pulverize Consumer Leg into Powdered Consumer Leg using Mortar and Pestle.
 Alchemy I <9 Combine Powdered Copper Ore, 2 Oil of Vitriol, into 0 Mix of Copper ore and vitriol using Alchemy Table (combine).
@@ -159,7 +159,7 @@ Alchemy I <9 Cook Mix of Vesper Arangma Feeler into 4 Willpower Essence using Al
 Alchemy I <9 Corrode Mix of Copper and vitriol into 2 Copper Solution using Crucible with a Glass Stirrer.
 Alchemy I <9 Corrode Mix of Copper ore and vitriol into 2 Copper Ore Solution using Crucible with a Glass Stirrer.
 Alchemy I <9 Corrode Mix of Iron and vitriol into 2 Iron Solution using Crucible with a Glass Stirrer.
-Alchemy I <9 Corrode Mix of limed Poison Carkarass skull into 9 Toughness Essence using Crucible with a Glass Stirrer.
+Alchemy I <9 Corrode Mix of Limed Poison Carkarass skull into 9 Toughness Essence using Crucible with a Glass Stirrer.
 Alchemy I <9 Corrode Mix of Tin and vitriol into 2 Tin Solution using Crucible with a Glass Stirrer.
 Alchemy I <9 Corrode Mix of Wrath Rat Bones into 4 Toughness Essence using Crucible with a Glass Stirrer.
 Alchemy I <9 Corrode Mix of Zinc and vitriol into 2 Zinc Solution using Crucible with a Glass Stirrer.

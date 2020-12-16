@@ -93,7 +93,7 @@ Alchemy I <9 Grind Copper Ore into Powdered Copper Ore using Alchemist Table wit
 Alchemy I <9 Grind Gold Ingot into Powdered Gold using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Grind Iron Ingot into Powdered Iron using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Grind Tin Ingot into Powdered Tin using Alchemist Table with a Wooden Mallet.
-Alchemy I <9 Grind Zinc Ingot into Powdered Zinc using Alchemist Table with a Wooden Mallet.
+Alchemy O <9 Grind Zinc Ingot into Powdered Zinc using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Grind Zinc Ore into Powdered Zinc Ore using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Hammer Big chunk of Copper into 3 Small chunk of Copper using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Hammer Big chunk of Gold into 3 Small chunk of Gold using Alchemist Table with a Wooden Mallet.
