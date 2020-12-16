@@ -14,6 +14,7 @@
 
     <!-- script for sorting tables -->
     <script src="/js/sorttable.js"></script>
+	<script src="/js/jquery-3.5.1.min.js"></script>
 
 </head>
 
@@ -36,7 +37,7 @@
 <div id="content_main_container">
 
     <input id="myInput" type="text" placeholder="Search Table..">
-    <table class="quests_main_table sortable hovableTable">
+    <table id="myTable" class="quests_main_table sortable hovableTable">
 
         <tr id="quests_main_table_header">
             <th class="quests_questnameColumn">Questname</th>
