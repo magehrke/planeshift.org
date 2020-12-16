@@ -1,9 +1,9 @@
 <!doctype html>
 <html>
 <head>
-	<title>Quests</title>
+    <title>Quests</title>
 
-	<?php
+    <?php
         $path = $_SERVER['DOCUMENT_ROOT'];
         $path .= "/html_header.php";
         include($path);
@@ -27,14 +27,15 @@
 
 <!-- include Header and Navigation -->
 <?php
-	$path = $_SERVER['DOCUMENT_ROOT'];
-	$path .= "/header_and_navigation.php";
+    $path = $_SERVER['DOCUMENT_ROOT'];
+    $path .= "/header_and_navigation.php";
     include($path);
 ?>
 
 <!-- Content section -->
 <div id="content_main_container">
 
+    <input id="myInput" type="text" placeholder="Search Table..">
     <table class="quests_main_table sortable hovableTable">
 
         <tr id="quests_main_table_header">
@@ -50,8 +51,8 @@
         <?php
 
             $getQuests = "SELECT q.name, q.npc, q.checkup, n.area, n.mainPos
-							FROM quests q, npcs n
-							WHERE q.npc = n.name
+                            FROM quests q, npcs n
+                            WHERE q.npc = n.name
               AND n.mainPos = 1
               ORDER BY q.name;";
             $quests = $mysqli->query($getQuests) or die($mysqli->error);
@@ -97,12 +98,12 @@
 
                     /* Insert Rewards */
                     echo "<td>";
-											/* Getting all the quest rewards */
-											/* The Variable $questname has to be set !!! */
-	                    $questname = $quest["name"];
-											$path = $_SERVER['DOCUMENT_ROOT'];
-											$path .= "/quests/quest-rewards.inc.php";
-											include($path);
+                        /* Getting all the quest rewards */
+                        /* The Variable $questname has to be set !!! */
+                        $questname = $quest["name"];
+                        $path = $_SERVER['DOCUMENT_ROOT'];
+                        $path .= "/quests/quest-rewards.inc.php";
+                        include($path);
                     echo "</td>";
                 echo "</tr>";
 
@@ -111,13 +112,22 @@
         ?>
 
     </table>
-
+    <script>
+        $(document).ready(function(){
+          $("#myInput").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function() {
+              $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+          });
+        });
+    </script>
 </div>
 
 <!-- include Footer -->
 <?php
-	$path = $_SERVER['DOCUMENT_ROOT'];
-	$path .= "/footer.php";
+    $path = $_SERVER['DOCUMENT_ROOT'];
+    $path .= "/footer.php";
     include($path);
 ?>
 
