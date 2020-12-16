@@ -6,7 +6,7 @@
                 <td>
                     <p>
                     	&copy; Planeshift.org 2020
-                    	| e-mail: <a href="mailto:planeshift.org@gmail.com">planeshift.org@gmail.com</a>
+                    	| e-mail: <a href="mailto:webmaster@planeshift.org">webmaster@planeshift.org</a>
                     	| <a href="/legalnotice.php">Legal Notice</a>
                         | Visits:
                                     <!-- Total Visits:
