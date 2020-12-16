@@ -56,6 +56,8 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 		$id = $r['id'];
 		if ( in_array ( $id, $ids ) )
 			return;
+		$r_name = $r['name'];
+		$r_type = $r['type'];
 		$ids[] = $id;
 		foreach ($ingredients as $i)
 		{
@@ -104,11 +106,9 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			}
 			$ing .= "$amount ";
 			$ing .= $name;
-//			$ing .= " ($type)";
+			$ing .= " ($type)";
 			$count++;
 		}
-		$r_name = $r['name'];
-		$r_type = $r['type'];
 		print "<tr>";
 			print "<td>$ing</td>\n";
 			// print "<td>".str_replace ("+"," +<br>", $r['tool'])."</td>\n";
@@ -125,6 +125,20 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 				print "<a href='".$_SERVER['PHP_SELF']."?book=$book'>$book</a>";
 			print "</td>";
 		print "</tr>";
+		/*
+		foreach ($ingredients as $i)
+		{
+			$prep = trim ($i);
+			$pos1 = strpos ( $prep, " " );			$type	= substr ( $prep, 0, $pos1 );		$pos1++;
+			$pos2 = strpos ( $prep, " ", $pos1 );	$amount = substr ( $prep, $pos1, $pos2 - $pos1 );	$pos2++;
+			$name   = str_replace ( "'","&apos;", substr ( $prep, $pos2 ) );
+			if ( $type == "C" )	// crafted
+			{
+				if ( $pval['resolve'] != "" )
+					resolve_recipe ( $pval, $name, $ids, false );
+			}
+		}
+		*/
 	}
 }
 
@@ -284,12 +298,12 @@ function show_recipes ( $pval )
 	";
 	if ( $pval['type'] == "P" )
 	{
-		$q.= "((type='P') or (type='I'))";
+		$q.= "type='P'";
+		// $q.= "((type='P') or (type='I'))";
 	}
 	else
 	{
-		// $q.= "type LIKE '".$pval['type']."'"
-		$q.= "type='".$pval['type']."'";
+		$q.= "type LIKE '".$pval['type']."'";
 	}
 	if ( $pval['book'] != "" )
 	{
