@@ -462,9 +462,6 @@
 		'Diseased Rat', 'Sewers', 2, 'none', '-242.37 0.51 -67.30, -242.31 0.51 -62.40', '', 1,
 		'Finra Neticlo', 'Sewers', 1, 'none', '13.70 -5.95 -165.03', '', 1,
 		'Fordanot Helsun', 'Sewers', 1, 'none', '-50.28 -11.44 -156.26', '', 1,
-		'Diseased Rat', 'Sewers', 2, 'none', '-242.37 0.51 -67.30, -242.31 0.51 -62.40', '', 1,
-		'Finra Neticlo', 'Sewers', 1, 'none', '13.70 -5.95 -165.03', '', 1,
-		'Fordanot Helsun', 'Sewers', 1, 'none', '-50.28 -11.44 -156.26', '', 1,
 		'Gobble', 'Sewers', 4, '2018-02-06', '-65.50 -20.49 -16.79, -35.25 -20.49 -14.69, -8.03 -20.49 -22.75, 18.90 -20.49 -16.48', '', 1,
 		'Gorbiak', 'Sewers', 1, 'none', '8.36 -15.94 -75.39', '', 1,
 		'Grendol', 'Sewers', 2, 'none', '-124.43 -31.00 -77.06, -148.29 -31.00 -78.59', '', 1,
@@ -531,7 +528,7 @@
 		'Nefas Dur', 'Howling Well', 1, 'none', '50 0 143', '', 1,
 		'Rune Carved Grendol', 'Howling Well', 2, 'none', '18 0 114, 34 0 143', '', 1,
 		'Rune Carved Toxic Grendol', 'Howling Well', 2, 'none', '140 0 203, 147 0 203', '', 1,
-		'Strange Grendol', 'Howling Well', 1, 'none', '52 0 175', '', 1
+		'Strange Grendol', 'Howling Well', 1, 'none', '52 0 175', '', 1,
 
 		'Intelligent Clacker', '', 1, 'none', '0 0 0', '', 1,
 		'Peasant Woman', '', 1, 'none', '0 0 0', '', 1,
@@ -548,7 +545,11 @@
 						. $npcs_to_insert[$i+4] . "', '"
 						. $npcs_to_insert[$i+5] . "', "
 						. $npcs_to_insert[$i+6] . ")";
-		$mysqli->query($npcQuery) or die(mysql_error());
+		if ($mysqli->query($npcQuery) == FALSE)
+		{
+			print "q: $npcQuery<br>";
+			print $mysqli->error."<br>";
+		}
 	}
 
 	/* ########## MAPS Locations ########## */
@@ -568,10 +569,12 @@
 	$mysqli->query($mapsLoc_sql) or die($mysqli->error);
 
 	$mapsLoc_to_insert = array(
+			// Arena
 			'Kitchen', 'Arena', '-62.41 17.76 52.10', '',
 			'Smith tools', 'Arena', '-60.33 17.76 -53.42', '',
 			'To Hydlaa', 'Arena', '136.46 0.69 0.88', '',
 
+			// Amdeneir
 			'Billboard', 'Amdeneir',  '-18 0 -10', '',
 			'Charity Box', 'Amdeneir',  '-18 0 -10', '',
 			'Hall of Learning', 'Amdeneir',  '-18 0 -50', '',
@@ -580,6 +583,7 @@
 			'Storage Provider', 'Amdeneir',  '-42 0 -16', '',
 			'Tavern', 'Amdeneir',  '-22 0 10', '',
 
+			// Bronze Door Road 1
 			'House of the Spirit', 'Bronze Door Road 1', '543.94 55.82 103.06', '',
 			'Howling Well', 'Bronze Door Road 1' , '-356.75 47.51 -517.91', '2018-02-04',
 			'Ruins', 'Bronze Door Road 1', '-504.80 46.37 198.49', '',
@@ -587,17 +591,22 @@
 			'To Gugrontid', 'Bronze Door Road 1', '-527.97 49.84 4.02', '',
 			'To Hydlaa', 'Bronze Door Road 1', '45.42 48.53 -537.48', '',
 			'To Magic Shop', 'Bronze Door Road 1', '45.42 48.53 -537.48', '',
-			'To Bronze Doors Outside', 'Bronze Door Road 2', '636.70 30.12 485.07', '',
+
+			// Bronze Door Road 2
 			'To Bronze Door Road 1', 'Bronze Door Road 2', '-617.87 31.91 241.63', '',
 			'Explorers Camp', 'Bronze Door Road 2', '-308 0 270', '',
+			'To Bronze Doors Outside', 'Bronze Door Road 2', '636.70 30.12 485.07', '',
 
-			'To Bronze Doors Outside', 'Bronze Doors Fortress', '-172.91 -105.77 -1223.09', '',
-			'Lava Cave', 'Bronze Doors Fortress', '70 0 -1200', '2020-05-30',
-
+			// Bronze Doors Outside
 			'Camp', 'Bronze Doors Outside', '607.50 -260.21 -1529.26', '',
 			'Mine enterance', 'Bronze Doors Outside', '-667.02 -258.78 -1599.90', '',
 			'To Bronze Doors Fortress', 'Bronze Doors Outside', '-340.02 -227.69 -1572.04', '',
 			'To Bronze Door Road 2', 'Bronze Doors Outside', '37.18 -278.19 -2671.16', '',
+
+			// Bronze Doors Fortress
+			'Lava Cave', 'Bronze Doors Fortress', '70 0 -1200', '2020-05-30',
+			'To Bronze Doors Outside', 'Bronze Doors Fortress', '-172.91 -105.77 -1223.09', '',
+
 			'To Hydlaa East', 'Courthouse', '0.01 -1.17 -7.02', '',
 			'Exit Point', 'Death Realm', '-39.86 -91.74 3.27', '',
 			'Portal to spawn point', 'Death Realm', '-114.84 -191.84 -97.15', '',
@@ -641,8 +650,10 @@
 
 			'Kitchen', 'Ojaveda', '-38.94 -6.95 -5.40', '',
 			'Smith tools', 'Ojaveda', '-76.72 -0.52 -2.26', '',
+			'Alchemy Station', 'Ojaveda', '-149.43 5.03 111.04', '',
 			'To Ojaveda Road 2', 'Ojaveda', '-40.52 -9.22 -140.09', '',
 			'Warehouse', 'Ojaveda', '85.05 -1.10 28.32', '',
+
 			'Smith Tools', 'Ojaveda Road 1', '-319.66 30.79 150.26', '',
 			'To Hydlaa East', 'Ojaveda Road 1', '-637.77 30.22 420.91', '',
 			'To Ojaveda Road 2', 'Ojaveda Road 1', '618.28 31.47 276.56', '',
@@ -678,7 +689,11 @@
 						. "', '" . $mapsLoc_to_insert[$i+2]
 						. "', '" . $mapsLoc_to_insert[$i+3]
 						.  "')";
-		$mysqli->query($mapsLoc_query) or die($mysqli->error);
+		if ($mysqli->query($mapsLoc_query) == FALSE)
+		{
+			print "q: $npcQuery<br>";
+			print $mysqli->error."<br>";
+		}
 	}
 	/* ########################################################################################## */
 	/* ########################################################################################## */
@@ -775,6 +790,7 @@
 		'Kingsfoil Leaf',	'Ojaveda Road 1',	'Plants - Herbal',	'292.22 28.23 344.22', 'none',
 		'Lavender Flower',	'Ojaveda Road 1',	'Plants - Herbal',	'-230 0 138, 9 0 229', 'none',
 		'Lionfish',		'Ojaveda Road 1',	'Fish',			'12.00 45.57 400.91', 'none',
+		'Nightlantern',		'Ojaveda Road 1',	'Plants - Herbal',	'562 0 380', 'none',
 		'Platinum Ore',		'Ojaveda Road 1',	'Ore',			'502.61 72.89 238.84', 'none',
 		'Red Mangrove Leaf',	'Ojaveda Road 1',	'Plants - Herbal',	'275.98 20.08 230.93', 'none',
 		'Sicklepod Flower',	'Ojaveda Road 1',	'Plants - Herbal',		'276.63 20.08 223.79', 'none',
@@ -839,7 +855,11 @@
 						. "', '" . $mapsItems_to_insert[$i+3]
 						. "', '" . $mapsItems_to_insert[$i+4]
 						.  "')";
-		$mysqli->query($mapsItems_query) or die($mysqli->error);
+		if ($mysqli->query($mapsItems_query) == FALSE)
+		{
+			print "q: $npcQuery<br>";
+			print $mysqli->error."<br>";
+		}
 	}
 	/* ########################################################################################## */
 
