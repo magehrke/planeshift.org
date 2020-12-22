@@ -205,5 +205,6 @@
 [NPC] Vladovic: I wish for you to have this in return.
 [NPC] Vladovic: May it serve you well.
 
-[Reward] [Item] 1, Divination glyph
+[Reward] [Way 1] [Item] 1, Rain glyph; [XP] 17800; [Faction] +10, Science Association
+[Reward] [Way 2] [Item] 1, Divination glyph
 

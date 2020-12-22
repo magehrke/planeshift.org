@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/Loren-Chama-Needs-Dye.php">Loren Chama Needs Dye</a> quest.</td>
+						<td>Required: <a href="/quests/details/Loren-Chama-Needs-Dye.php">Loren Chama Needs Dye</a> quest, <a href="/quests/details/Yonda's-Delayed-Delivery.php">Yonda's Delayed Delivery</a> quest.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>
@@ -688,6 +688,12 @@
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
+					<tr class="quest_action">
+						<td>[INFO]: it looks like this quest does no longer provide the light glyph</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
 					<tr class="quest_questComplete">
 						<td>QUEST COMPLETED</td>
 					</tr>
@@ -695,7 +701,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Light glyph, 1 Book of Blades[OR], 25 Faction with Crafting Association, 5130 Tria, 13600 XP.</td>
+						<td>Rewards: 1 Light glyph, 1 Lute[OR], 25 Faction with Crafting Association, 7360 Tria, 13600 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

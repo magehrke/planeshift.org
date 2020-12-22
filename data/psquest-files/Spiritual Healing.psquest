@@ -1,0 +1,303 @@
+[Questname] Spiritual Healing
+[NPC Name] Vladovic Chel-Astra
+[Checkup] 2020-12-18
+[Authors] Haviland Tenouri
+[Repeatable] No
+
+[Need] [Item] 1, Iron Ore
+[Need] [Item] 1, Diluted Grendol Venom Essence
+[Need] [Skill] 80, Alchemy
+
+[Info] not sure about the needed skill level, something between 71 and 89
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] I am told you might have some special kind of alchemy to teach me?
+[NPC Narrate] Vladovic Chel-Astra tries to look innocent.
+[NPC] Vladovic: Special alchemy?
+[NPC] Vladovic: Why, whatever do you mean?
+[NPC Internal] To make the most powerful potions of all!
+[NPC Narrate] Vladovic Chel-Astra rolls his eyes a bit and sighs, then focuses on you.
+[NPC] Vladovic: Hello YOU, yes I remember.
+[NPC] Vladovic: Again the fascination with the mystic aspect of alchemy, eh?
+[NPC] Vladovic: Do you really think you're ready?
+[NPC Internal] Yes, I can make a Greater Potion of Restoration now.
+[NPC] Vladovic: Well, let me tell you that this is...
+[NPC Narrate] Vladovic Chel-Astra coughs a bit
+[NPC] Vladovic: ...
+[NPC] Vladovic: Or -was- the best kept secret of our art.
+[NPC] Vladovic: It is bestowed upon only those who are spiritually worthy of it.
+[NPC] Vladovic: Anyone can practice high levels and be able to make the most potent and complex potions.
+[NPC] Vladovic: But this?
+[NPC] Vladovic: No, this takes a much deeper understanding.
+[NPC] Vladovic: Before we even begin, you must prove you deserve such an honour.
+[NPC Internal] What must I do?
+[NPC] Vladovic: First, I must emphasize that there is a heavy spiritual aspect to what we are talking about here.
+[NPC] Vladovic: I must ask you a very personal question before we proceed.
+[NPC] Vladovic: There is no wrong answer here, so just be honest.
+[NPC] Vladovic: There are various gods and religions in Yliakum.
+[NPC] Vladovic: Which do you pledge yourself to?
+
+[Info] You have 3 answers here: Laanx, Talad and Dakkru
+
+[NPC Internal] I am a follower of Laanx.
+[NPC Narrate] Vladovic Chel-Astra smiles broadly.
+[NPC] Vladovic: Oh, wonderful.
+[NPC] Vladovic: I, myself, am a Laanx follower as are many in the craft of alchemy.
+[NPC] Vladovic: There is a strong connection between Laanx, Lemurs, and alchemy, which I hope you'll come to appreciate.
+[NPC] Vladovic: In fact, this task I have for you very much has to do with Laanx.
+[NPC Internal] What is this task?
+[NPC] Vladovic: It is most urgent.
+[NPC] Vladovic: Sharven Xant-Areth, the priest at the Iron Temple in Hydlaa, has a friend who has taken quite ill.
+[NPC] Vladovic: Perhaps you know her, Charisa Malod.
+[NPC] Vladovic: In fact, it seems she is slowly dying.
+[NPC] Vladovic: She misses her husband so much, I'm afraid she has lost the will to live.
+[NPC] Vladovic: I spoke to Sharven and we think a special ingredient combined with the Life Elixir will give her some much needed happiness and break this despair.
+[NPC] Vladovic: If you can provide a specific component, you will prove your worthiness.
+[NPC Internal] Aww, I know Charisa, sad to hear. Yes, I want to help.
+[NPC] Vladovic: Good, but it will not be that simple as you will see.
+[NPC] Vladovic: This component I speak of is not commonly found but I hope -you- will provide it in the end.
+[NPC] Vladovic: But first, I will give you some background.
+[NPC] Vladovic: Perhaps you have heard me speak of the Great Work.
+[NPC] Vladovic: Those who practice the art of the Great Work are known as Sages.
+[NPC] Vladovic: There is an item these Sages seek to create and it is called the Stone of the Sages.
+[NPC] Vladovic: To complete your task, you must discover what this stone is and its importance.
+[NPC] Vladovic: As you learn the alchemical process of making this stone, you will -become- the stone, perfecting your own soul in the process.
+[NPC] Vladovic: Are you willing to do it?
+[NPC Internal] Yes, but wait ... become a stone?
+[NPC Narrate] Vladovic Chel-Astra shakes his head and sighs a bit.
+[NPC] Vladovic: All I ask is that you keep an open mind.
+[NPC] Vladovic: The first step is to understand the components needed for the Stone of the Sages.
+[NPC] Vladovic: Those are sulphur, salt, and mercury.
+[NPC] Vladovic: But these are not the common ones you can buy from any merchant.
+[NPC] Vladovic: You need the spiritual ones.
+[NPC] Vladovic: They represent the soul, the body, and the spirit, respectively.
+[NPC] Vladovic: You need to identify and purify them to pursue the Great Work.
+[NPC Internal] Where can I get these things?
+[NPC] Vladovic: The first secret I'm going to reveal to you is how to get your spiritual salt.
+[NPC] Vladovic: This is known in the Great Work as the alchemist secret fire.
+[NPC] Vladovic: You will need niter and perhaps another reagent you have never worked with before, called tartar.
+[NPC] Vladovic: Now, those you can buy regularly from a merchant or alchemist, like myself.
+[NPC] Vladovic: This alchemical fire will purify other components, burning them with a flameless and lightless fire.
+[NPC] Vladovic: Next, you'll need spiritual sulphur.
+[NPC] Vladovic: Now you'll have to start figuring things out, but I will give you a clue.
+[NPC] Vladovic: Are you ready?
+[NPC Internal] I'm listening.
+[NPC] Vladovic: Well, really, I've already told you where to go.
+[NPC] Vladovic: But I want you to get two items.
+[NPC] Vladovic: First is a simple ore.
+[NPC] Vladovic: The common ore that bears the name of the place you are to deliver it.
+[NPC] Vladovic: The second is a diluted grendol venom essence.
+[NPC] Vladovic: You should be able to make that using your Healer's Remedies book.
+[NPC] Vladovic: Bring these two items to the Lemur in the temple and he will give you further instructions.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] I am here to help Charisa. [You give him the essence and the mineral he's looking for.]
+[NPC Narrate] Sharven Xant-Areth takes the items and smiles.
+[NPC] Sharven: Ah, so you are the one Vladovic has sent to help.
+[NPC] Sharven: Yes, yes, I am quite concerned about her.
+[NPC] Sharven: Perhaps you know that Charisa's husband is away on dangerous guard duty and she hasn't seen him in quite awhile.
+[NPC] Sharven: I have faith that he will some day return, but I think at this point, Charisa has seemingly stopped believing that.
+[NPC] Sharven: She has lost hope and with it the will to go on.
+[NPC] Sharven: I feel that only something from the Great Work can help restore Charisa's faith and I really hope you will be worthy enough to find the last ingredient I need to save her.
+[NPC] Sharven: I also hope Laanx will find you worthy to provide it.
+[NPC Internal] What must I do?
+[NPC] Sharven: First thing is first, I shall transform this ore into its spiritual form.
+[NPC Narrate] Sharven Xant-Areth gets out a wide container, puts the ore in it, then takes out a wooden mallet, pounding the ore until it is a powder.
+[NPC Narrate] -Then he shakes the container, sifting the powder inside, before hovering his hand over it and saying an incantation.-
+[NPC] Sharven: And there we have it, the spiritual sulphur.
+[NPC Internal] Wait, spiritual sulphur? That was powdered iron.
+[NPC Narrate] Sharven Xant-Areth smiles.
+[NPC] Sharven: Very good observation.
+[NPC] Sharven: I see you question these things.
+[NPC] Sharven: That is good.
+[NPC] Sharven: It is known in alchemy circles as spiritual sulphur, but indeed, it is simply iron.
+[NPC] Sharven: As you will soon see, it is all connected.
+[NPC] Sharven: Long ago, we Lemur had to operate a little more...shall we say...discretely because there was much ignorance and fear over this form of alchemy.
+[NPC] Sharven: So some terms are...misdirection of sorts.
+[NPC] Sharven: But you'll get the hang of it.
+[NPC] Sharven: The final two items I'll need are spiritual salt and spiritual mercury.
+[NPC] Sharven: So I need you to visit Miss Zireti in arena.
+[NPC] Sharven: I am sure you are quite familiar with her by now.
+[NPC] Sharven: Buy the following from her: one niter, seven tartars, and five stibines.
+[NPC] Sharven: Also have her make an alchemist secret fire for you.
+[NPC] Sharven: It is done by combining one niter with seven tartars.
+[NPC] Sharven: I will explain the stibine upon your return.
+[NPC] Sharven: Tell her it is at my special request.
+[NPC] Sharven: She will understand.
+
+[To] Liera Zireti
+
+[NPC Internal] Sharven sent me with a special request.
+[NPC] Liera: Oh?
+[NPC] Liera: What does he need?
+[NPC Internal] I need to buy one niter, seven tartars, and five stibines.
+[NPC] Liera: Ah, learning the Great Work, I see?
+[NPC] Liera: That's great, YOU.
+[NPC] Liera: Hmm, you'll need a serious amount of tartars and stibines as you practice this.
+[NPC] Liera: I'll tell you what: I'll give you a choice.
+[NPC] Liera: The items in those amounts for their regular price which comes to 
+[NPC Narrate] Liera Zireti looks up in thought for a second.
+[NPC] Liera: ...260 tria, or I can give you 10 niters, and a stack each of tartar and stibine for, say, eight circles.
+[NPC] Liera: Full price for all that would be over 10 circles.
+[NPC] Liera: What do you say?
+[NPC Internal] I'll just get what I need for now. I also need an alchemist secret fire.
+[NPC] Liera: Ah, of course, that's what one niter and seven tartars is used for.
+[NPC] Liera: Very well, that will be 260 tria for the materials and I'll make a secret fire for you.
+[NPC Narrate] Liera Zireti goes to the table, quickly combines the niter and tartars, and comes back.
+[NPC Internal] Here you go [give 260 tria.]
+[NPC] Liera: Great, that's five stibines and an alchemist secret fire.
+[NPC] Liera: Good luck to you, YOU!
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] I have returned with the ingredients.
+[NPC] Sharven: Oh good.
+[NPC] Sharven: You have the alchemist secret fire?
+[NPC Internal] Yes, here it is. [You give Sharven the secret fire.]
+[NPC Narrate] Sharven Xant-Areth takes the powder in a container and sets it aside.
+[NPC] Sharven: Now the stibines?
+[NPC Internal] Yes, here it is. [You give Sharven five stibines.]
+[NPC Narrate] Sharven Xant-Areth takes the stibines and hands one back.
+[NPC] Sharven: Hang onto one, this task requires four.
+[NPC] Sharven: But I make it a practice to have more ingredients than I need in case something goes wrong.
+[NPC Internal] So what do these ingredients make?
+[NPC] Sharven: Ah yes, so we have our spiritual sulphur, which was the powdered iron; the spiritual salt, which is the alchemist secret fire; and the spiritual mercury which is made from the stibines.
+[NPC] Sharven: We take four stibines and grind them into a finer powder.
+[NPC] Sharven: It is all connected, you see.
+[NPC] Sharven: Stibine is a smooth, shiny crystal-like ore, which is very brittle, containing several critical ingredients.
+[NPC] Sharven: From it we get sulphur and pure stibine which scientists call antimony.
+[NPC] Sharven: We mix this with the powdered ore and secret fire.
+[NPC] Sharven: Once properly treated with the secret fire, the spirit inside the spiritual sulphur will be set free and you will get black and white stones, which you then hammer to separate the black and white parts.
+[NPC Internal] Ah, so this is the Stone of the Sages Vladovic talked about?
+[NPC] Sharven: Not quite.
+[NPC] Sharven: That is just the first phase of the transformation of ingredients.
+[NPC] Sharven: The Stone of the Sages requires a tremendous amount of work.
+[NPC] Sharven: For instance, next, through subsequent purification of those black and white parts, you will get a white sulphur and a red sulphur, which you'll need to alchemically marry in order to achieve what we call the alchemical egg.
+[NPC] Sharven: In ancient times, a Lemur was required to get married before he was taught this stage of the Great Work.
+[NPC] Sharven: Today it is no longer required, but that is why it is referred to as a "marriage" of ingredients.
+[NPC] Sharven: This alchemical egg ends the only first stage of the Great Work.
+[NPC] Sharven: -You- are like the alchemical egg.
+[NPC] Sharven: You have much knowledge about alchemy but are not yet ready to be given the alchemist's most precious secrets and to prepare the ingredient I need to save Charisa.
+[NPC Internal] So then what's next?
+[NPC] Sharven: This is where it gets very interesting and where your spiritual side is explored and tested.
+[NPC] Sharven: To proceed in the next stage, you must purify your soul, atone for your sins and beg for pardon, pledging yourself to your chosen patron.
+[NPC] Sharven: If you are a devout Laanx follower, I can give you the atonement ritual.
+[NPC] Sharven: Otherwise we can come up with something in accordance with your patron.
+[NPC] Sharven: Once your soul is purified, you'll need to get a shard of Dakkru's power, thus stepping into the Blackness phase of the process.
+[NPC] Sharven: Once you have that, Vladovic can help you prepare the special ingredient I need to save Charisa.
+[NPC] Sharven: So I assume Vladovic asked you about your religious affiliation?
+[NPC] Sharven: What was your response?
+[NPC Internal] I am a Laanx follower.
+[NPC Narrate] Sharven Xant-Areth can't hide a pleased grin.
+[NPC] Sharven: Excellent.
+[NPC] Sharven: Then let us proceed with the atonement ritual.
+[NPC] Sharven: Now, most of us have made mistakes in our lives.
+[NPC] Sharven: The world can be a challenging place.
+[NPC] Sharven: What is the most heinous act or crime you have ever committed?
+[NPC] Sharven: And don't worry, you are safe here, what you say here in the temple will never be spoken of again.
+[NPC Internal] [You confess some other sin.]
+[NPC Narrate] Sharven Xant-Areth nods and continues.
+[NPC] Sharven: Laanx will forgive you if you are truly remorseful and pledge to do good works and redeem yourself.
+[NPC] Sharven: Do you vow to do this before Laanx?
+[NPC Internal] I do.
+[NPC] Sharven: Thank you for your trust, YOU.
+[NPC] Sharven: O Laanx, hear the repentance of this subject.
+[NPC] Sharven: Forgive her transgressions and accept her contrition.
+[NPC Narrate] Sharven Xant-Areth softly says some sort of additional prayer, then casts a spell on you.
+[NPC] Sharven: May Laanx frighten the shadows from your path, YOU.
+[NPC] Sharven: This ceremony is concluded.
+[NPC] Sharven: Now go and seek out Rulayne Ogrin.
+[NPC] Sharven: You can probably find him by the burial well between Hydlaa and Gugrontid.
+[NPC] Sharven: Oh, and be sure to lighten your load before you go.
+[NPC Narrate] Sharven Xant-Areth gives you a wry smile.
+
+[To] Rulayne Ogrin
+
+[NPC Internal] Sharven sent me. I am looking for a shard of Dakkru's power.
+[NPC] Rulayne Ogrin looks confused for a moment then grins a bit.
+[NPC] Rulayne: Oh, another would-be alchemist on fool's errand, I presume.
+[NPC] Rulayne: Well, you know where you need to go to get it, don't you?
+[NPC Internal] Really? I have to die?
+[NPC] Rulayne: What you are looking for is not something you can hold...oh, nevermind.
+[NPC] Rulayne: I'm sure you'll figure it out.
+[NPC] Rulayne Ogrin's grin grows bigger as he casts a powerful dark way spell that quickly begins to drain you of all life.
+
+[Info] not sure if you have to talk to Londris and Oriven. Nevertheless here it is:
+
+[To] Londris Kolaim
+
+[NPC Internal] Where can I get a shard of Dakkru's power?
+[NPC] Londris: A shard of....
+[NPC] Londris: Mortal.
+[NPC] Londris: I do not have time for such nonsense.
+[NPC] Londris: You have the audacity to ask something of our beloved goddess?
+[NPC] Londris: Run back to whoever sent you.
+
+[To] Oriven Thamal
+
+[NPC Internal] Where can I get a shard of Dakkru's power?
+[NPC] Oriven Thamal chuckles a bit.
+[NPC] Oriven: Ah yes, the 'ol shard of Dakkru gag.
+[NPC] Oriven: Another alchemist I presume?
+[NPC] Oriven: First off, you don't take anything from Dakkru, She takes from you!
+[NPC] Oriven: And you won't find anything in that library over there.
+[NPC] Oriven: My suggestion is to go back to the realm of the living and run as fast as you can to whoever sent you before Her curse runs out.
+[NPC] Oriven Thamal gives you a wink.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] The curse is the shard of Dakkru's power?
+[NPC] Sharven: Yes, I'm sorry if that was not clear.
+[NPC] Sharven: But now you understand.
+[NPC] Sharven: Now that you have cleansed your soul and emerged from the Death Realm, you have entered the whiteness stage of the Great Work.
+[NPC] Sharven: I've sent the ingredients I've already made ahead to Vladovic.
+[NPC] Sharven: Now quickly, before the curse expires, get to Ojaveda.
+[NPC] Sharven: But instead of seeing Vladovic, go directly to Chired Idelall in Dsar Kore.
+[NPC] Sharven: She should be waiting for you and can get the ingredient I've been looking for.
+[NPC Narrate] Sharven Xant-Areth hands you two travel tokens.
+[NPC] Sharven: Have a couple of travel tokens to speed things up.
+
+[To] Chired Idelall
+
+[NPC Internal] Sharven sent me.
+[NPC] Chired: Ah yes, child, I've been expecting you.
+[NPC] Chired: Vladovic was just here and we have prepared a Life Elixir which should be ready any minute.
+[NPC] Chired: I feel the burden of Dakkru's curse upon your body, but your soul has been purified.
+[NPC] Chired: The special ingredient Sharven needs is an Essence of Happiness.
+[NPC] Chired: For that I will need a very special component: a drop of your blood.
+[NPC Narrate] Chired Idelall takes your hand and swiftly pricks your finger, extracting a small drop of blood.
+[NPC] Chired: You already know how to extract essences from blood and from your blood I will extract the Essence of Happiness now that your soul is lighter than a kikiri feather and your body was purified by dying.
+[NPC Internal] You mean I have to die every time I want to make one of these potions?
+[NPC Narrate] Chired Idelall chuckles.
+[NPC] Chired: No, don't worry.
+[NPC] Chired: This is a very unique case.
+[NPC] Chired: This is an extension of the Great Work we are trying here.
+[NPC] Chired: It will not be necessary once you begin the Great Work for yourself, but it is good to understand these connections so you can appreciate the various stages.
+[NPC] Chired: Now let's get to work.
+[NPC Narrate] Chired Idelall puts your blood into the alembic then carefully mixes some reagents in other vials. She then mixes it together and puts it in the decanter. She waits a moment, then carefully mixes it together with another potion on the table with a stirrer. Finally, she meticulously measures it and pours it into a vial, sealing it with a cork.
+[NPC] Chired: There, all done.
+[NPC] Chired: Now take this quickly back to Sharven.
+[NPC Narrate] Chired Idelall hands you the vial.
+[NPC Internal] You got anything to lift this curse?
+[NPC Narrate] Chired Idelall laughs.
+[NPC] Chired: I'm afraid not.
+[NPC] Chired: Even the Great Work cannot compete with Dakkru's power.
+
+[To] Sharven Xant-Areth
+
+[NPC Internal] I have the cure! [You hand Sharven the vial.]
+[NPC Narrate] Sharven Xant-Areth's eyes widen and he breaks into a wide grin.
+[NPC] Sharven: Wonderful!
+[NPC] Sharven: You did it, YOU.
+[NPC] Sharven: I knew you would come through!
+[NPC] Sharven: I know you have been through a lot, but now I hope you are beginning to understand the nature of the Great Work and how special it is.
+[NPC] Sharven: It is deeply rooted in Lemur culture and history but now it is available to all.
+[NPC] Sharven: I shall get this to Charisa immediately.
+[NPC] Sharven: Thank you and may Laanx always frighten the shadow from thy path.
+[NPC Narrate] Sharven Xant-Areth hands you a very large pouch of tria.
+[NPC] Sharven: And remember, Vladovic will have much more to teach you.
+
+[Reward] [XP] 20600; [Money] 20277; [Skill] +10, Science Association
+

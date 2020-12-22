@@ -466,6 +466,12 @@
 					<tr class="quest_storyline">
 						<td>-Gulm waves goodbye and goes back to preparing for the journey.-</td>
 					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>[INFO]: it looks like this quest does no longer reward the tree glyph</td>
+					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>

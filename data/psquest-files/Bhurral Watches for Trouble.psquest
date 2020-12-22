@@ -1,19 +1,20 @@
 [Questname] Bhurral Watches for Trouble
-[NPC Name] Orchibaly Gurpleferd
+[NPC Name] Bhurral Varsheen
 [Checkup] 2014-01-01
 [Authors] Dudu and Lele
 
-[Need] [Quest] Joining the Guards
+[Need] [Quest] Moren Needs New Boots
+
+[To] Bhurral Varsheen
 
 [NPC Internal] Hello. I am looking for work.
 [NPC Narrate] -Bhurral looks you up and down slowly.-
-[NPC] Trasok: I might have some work for you.
-[NPC] Trasok: Are you interested?
+[NPC] Bhurral: I might have some work for you.
+[NPC] Bhurral: Are you interested?
 [NPC Internal] Sure, that's why I asked.
-[NPC] Trasok: Orchibaly Gurpleferd, a master baker here in Ojaveda, has recently had trouble with thieves stealing buns from his very counter.
-[NPC] Trasok: I have asked him to write up a full report for me, but I have yet to receive it.
-[NPC] Trasok: I need you to go to him and ask about the theft report.
-[NPC] Trasok: I want to resolve this matter as swiftly as possible.
+[NPC] Bhurral: Orchibaly Gurpleferd, a master baker here in Ojaveda, has recently had trouble with thieves stealing buns from his very counter.
+[NPC] Bhurral: I have asked him to write up a full report for me, but I have yet to receive it.
+[NPC] Bhurral: Please go fetch it for me as I want to resolve this matter as swiftly as possible.
 
 [To] Orchibaly Gurpleferd
 

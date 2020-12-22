@@ -691,7 +691,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Mind glyph, 15 Faction with Science Association, 9400 XP.</td>
+						<td>Rewards: 1 Weapon glyph, 15 Faction with Science Association, 9400 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

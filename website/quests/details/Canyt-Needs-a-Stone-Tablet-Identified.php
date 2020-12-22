@@ -387,7 +387,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: Nothing.</td>
+						<td>Rewards: 1 Sphere Glyph, 7360 Tria, 15000 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

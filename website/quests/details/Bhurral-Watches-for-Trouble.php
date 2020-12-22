@@ -38,9 +38,26 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/Joining-the-Guards.php">Joining the Guards</a> quest.</td>
+						<td>Required: <a href="/quests/details/Moren-Needs-New-Boots.php">Moren Needs New Boots</a> quest.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>→ Go to 
+						<?php
+							echo "<a href='";
+							/* Printing the NPC with a link to the Map */
+							/* The Variable $npcName has to be set !!! */
+							$npcName = 'Bhurral Varsheen';
+							$path = $_SERVER['DOCUMENT_ROOT'];
+							$path .= "/includes/npc_link_to_map.inc.php";
+							include($path);
+							echo "' target='_blank'>Bhurral Varsheen</a>";
+						?>
+						</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
 						<td></td>
 					</tr>
 					<tr class="quest_you">
@@ -56,10 +73,10 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Trasok: I might have some work for you.</td>
+						<td>Bhurral: I might have some work for you.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Trasok: Are you interested?</td>
+						<td>Bhurral: Are you interested?</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -71,16 +88,13 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Trasok: Orchibaly Gurpleferd, a master baker here in Ojaveda, has recently had trouble with thieves stealing buns from his very counter.</td>
+						<td>Bhurral: Orchibaly Gurpleferd, a master baker here in Ojaveda, has recently had trouble with thieves stealing buns from his very counter.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Trasok: I have asked him to write up a full report for me, but I have yet to receive it.</td>
+						<td>Bhurral: I have asked him to write up a full report for me, but I have yet to receive it.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Trasok: I need you to go to him and ask about the theft report.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Trasok: I want to resolve this matter as swiftly as possible.</td>
+						<td>Bhurral: Please go fetch it for me as I want to resolve this matter as swiftly as possible.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>

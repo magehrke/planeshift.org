@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/Yonda's-Delayed-Delivery.php">Yonda's Delayed Delivery</a> quest, 3 Ruby Crystal, 2 Diamond Crystal, 1 Sapphire Crystal.</td>
+						<td>Required: <a href="/quests/details/Loren-Chama-needs-a-wood-sculpture.php">Loren Chama needs a wood sculpture</a> quest, 3 Ruby Crystal, 2 Diamond Crystal, 1 Sapphire Crystal.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>

@@ -3,7 +3,7 @@
 [Checkup] 2014-01-01
 [Authors] Dudu and Lele
 
-[Need] [Quest] Loren Chama Needs Dye
+[Need] [Quest] Loren Chama Needs Dye; [Quest] Yonda's Delayed Delivery
 
 [To] Loren Chama
 
@@ -153,5 +153,6 @@
 [NPC] Loren: I cannot wait to see our Octarch receive this.
 [NPC] Loren: Here is your promised reward; you may choose the one more suited to your needs.
 
-[Reward] [Money] 5130; [XP] 13600; [Faction] 25, Crafting Association; [OR Begin] [Item] 1, Light glyph [OR] [Item] 1, Book of Blades [OR End]
+[Reward] [Money] 7360; [XP] 13600; [Faction] 25, Crafting Association; [OR Begin] [Item] 1, Light glyph [OR] [Item] 1, Lute [OR End]
 
+[Info] it looks like this quest does no longer provide the light glyph

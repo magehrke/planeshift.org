@@ -994,7 +994,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Sphere glyph, 40 Faction with Science Association, 17800 XP, 1 Divination glyph.</td>
+						<td>Rewards: 1 Sphere glyph, 40 Faction with Science Association, 17800 XP, [Way 1] 1 Rain glyph, 10 Faction with Science Association, 17800 XP, [Way 2] 1 Divination glyph.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

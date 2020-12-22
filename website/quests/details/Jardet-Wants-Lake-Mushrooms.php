@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/Introduction-to-Xiosia.php">Introduction to Xiosia</a> quest, 8 Lake Mushrooms.</td>
+						<td>Required: <a href="/quests/details/Introduction-to-Xiosia.php">Introduction to Xiosia</a> quest, <a href="/quests/details/A-Fruit-for-Ervin.php">A Fruit for Ervin</a> quest, 8 Lake Mushrooms.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>

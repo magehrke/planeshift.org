@@ -1,0 +1,183 @@
+[Questname] Mystic Alchemy
+[NPC Name] Vladovic Chel-Astra
+[Checkup] 2020-12-18
+[Authors] YOU Tenouri
+[Repeatable] No
+
+[Need] [Quest] Spiritual Healing
+
+[To] Vladovic Chel-Astra
+
+[NPC Internal] Hi Vladovic, did the cure for Charisa work?
+[NPC Narrate] Vladovic Chel-Astra is reading a letter.
+[NPC] Vladovic: Hello, YOU.
+[NPC] Vladovic: Yes, as a matter of fact I was just reading a letter from Sharven.
+[NPC] Vladovic: It seems Charisa is feeling much better.
+[NPC] Vladovic: Your efforts were...impressive.
+[NPC] Vladovic: I think you are ready to embark on the Mystic's Great Work.
+[NPC] Vladovic: Are you ready?
+
+[NPC Internal] Oh yes, I am ready.
+[NPC] Vladovic: Very well then, we can get started.
+[NPC Internal] So what do I need to know?
+[NPC] Vladovic: A LOT!
+[NPC] Vladovic: This branch of alchemy is far more challenging than any crafting you may have experienced.
+[NPC] Vladovic: It is quite spiritual in fact.
+[NPC] Vladovic: It is the alchemy of the mystics!
+[NPC] Vladovic: That and you must endure a rather long story.
+[NPC Narrate] Vladovic Chel-Astra grins.
+[NPC Internal] Story?
+[NPC Narrate] -From Vladovic's tone, you get the impression you will be here awhile.-
+[NPC] Vladovic: As you may have seen, there is a very informative book called Alchemical Concepts.
+[NPC] Vladovic: My Grandfather wrote that book, you know.
+[NPC] Vladovic: In it is the story of a plague unleashed by Laanx as a punishment to a group of Lemur who were led astray.
+[NPC] Vladovic: That was quite a golden age for alchemy and science in general.
+[NPC] Vladovic: It was during that time that many of these concepts were first discovered.
+[NPC] Vladovic: Through alchemy, the Lemur sought to perfect themselves in the eyes of Laanx.
+[NPC] Vladovic: They thought by doing so, Laanx would forgive them and lift the curse.
+[NPC] Vladovic: It was however also a difficult time, as you might imagine.
+[NPC] Vladovic: There was lots of experimentation, not all of which ended as planned.
+[NPC Internal] I imagine before successful potions, there were some failures.
+[NPC] Vladovic: Indeed.
+[NPC] Vladovic: As the failures continued, people willing to help test the new potions became scarce.
+[NPC] Vladovic: Some alchemists crossed a line and began experimenting without people knowing, by lying about what they were giving people to drink and use.
+[NPC] Vladovic: Once this became public, alchemy quickly became frowned upon, much like what happened with magic.
+[NPC] Vladovic: But that's not important right now.
+[NPC] Vladovic: Despite that dark period, studies continued and soon other races showed a keen interest...
+[NPC] Vladovic: That was many years ago and since then members of all of the races in Yliakum have shown an interest in alchemy.
+[NPC] Vladovic: Ylians and Diaboli were the first among the other races to join.
+[NPC] Vladovic: Kran naturally showed an interest in the branches of alchemy dealing with gems and ores and like Lemur to Laanx, sought perfection in the eyes of Talad.
+[NPC Narrate] Vladovic Chel-Astra chuckles a bit.
+[NPC] Vladovic: Specifically for the Kran, it naturally branched off into experimenting with producing exotic combinations in food preparation, rather than strictly alchemy.
+[NPC] Vladovic: The Diaboli became drawn to the energy of the Dark Crystal and sought to please Dakkru.
+[NPC] Vladovic: So to this day many Ynnwn show an interest in alchemy but of course must be careful when dealing with certain metals.
+[NPC Internal] Why all the religious implications?
+[NPC] Vladovic: Alchemy is all about transformations.
+[NPC] Vladovic: As you have discovered by now through your own practices, many of these transformations and the tools used to make them are about removing impurities.
+[NPC] Vladovic: Potions are created from extracts, essences, and dissolved forms of ingredients.
+[NPC] Vladovic: The tools evaporate items, taking just the purest essence of them; liquids are cooked away to remove all impurities.
+[NPC] Vladovic: Even water as an ingredient is distilled so as to remove its impurities, however minute.
+[NPC] Vladovic: So a common theme of alchemy is purification.
+[NPC] Vladovic: Many alchemists are devoted to Laanx since they believe the Masked God blesses their efforts to achieve perfection through the purification of the unpure matter thus purifying their own soul in the process.
+[NPC] Vladovic: But it is not just a devotion to Laanx, but in fact, any of the gods.
+[NPC] Vladovic: Over time, they have all exhibited a sense of being pleased that their followers strive to seek this perfection using the ingredients made available to them in the world.
+[NPC] Vladovic: Xiosia provides many plants and animals and cares for the soil in which they grow and feed.
+[NPC] Vladovic: The illness essence created from poisons has a direct link to the Dark Crystal of Dakkru's realm.
+[NPC] Vladovic: The Kran seek to use the crystals and metals which provide them nourishment to further their own efforts to perfect themselves in the eyes of Talad.
+[NPC] Vladovic: So you see, alchemy has a strong link to the gods.
+[NPC Internal] So what does that have to do with this branch of alchemy?
+[NPC Narrate] Vladovic Chel-Astra smiles.
+[NPC] Vladovic: Glad you asked.
+[NPC] Vladovic: It is natural that in any craft, there are those that aspire to the highest levels.
+[NPC] Vladovic: For alchemists, those who reach these lofty levels combined with a strong devotion to their god can sometimes become known as Sages.
+[NPC] Vladovic: The Alchemist Great Work is said to be the ultimate goal of the Sages.
+[NPC] Vladovic: It is to create the perfect stone, known as the Sages Stone.
+[NPC] Vladovic: This is believed to be the purest and most perfect substance achievable by mortal means.
+[NPC] Vladovic: Its properties are fabled: it is said the Sages Stone can cure almost any disease, bring back a person from the brink of true death and create a potion able to rejuvinate the drinker.
+[NPC] Vladovic: The Mystic's Great Work is also the highest form of spiritual communion an alchemist is able to achieve with his/her/kras own god.
+[NPC] Vladovic: Achieving this Great Work will require immense patience and perseverance.
+[NPC] Vladovic: It takes many many interactions to make your final potions.
+[NPC] Vladovic: Are you ready for such an undertaking?
+[NPC Internal] Yes, I'm ready.
+[NPC] Vladovic: Yes, I think so, too.
+[NPC Narrate] Vladovic Chel-Astra reaches under his counter and pulls up a book.
+[NPC] Vladovic: This is it!
+[NPC] Vladovic: The Mystic's Great Work.
+[NPC Narrate] -He pulls it away just before you can grab it.-
+[NPC] Vladovic: There are not many entries in it compared to the other branches of alchemy, but what most might not realize is one must perform nearly every one of them to make the final product.
+[NPC] Vladovic: I mentioned that plague before, the one Laanx unleashed long ago to punish the Lemur.
+[NPC] Vladovic: The cure was eventually discovered pursuing this Great Work.
+[NPC] Vladovic: The powerful potion achieved was known as the Life Elixir.
+[NPC] Vladovic: Taking the potion along with a devout pledge to Laanx's teachings was the only way one could be cured.
+[NPC] Vladovic: If you recall, it was included in your cure for Charisa.
+[NPC] Vladovic: Years later the Lemur felt they were still not done and sought even further levels of perfection, claiming to bring the Sages Stone to life!
+[NPC Internal] Like the Kran?
+[NPC Narrate] Vladovic Chel-Astra laughs.
+[NPC] Vladovic: Not quite, but I suppose one could draw a parallel.
+[NPC] Vladovic: Let me explain the full process.
+[NPC] Vladovic: The Sages use three components: sulphur, salt, and mercury.
+[NPC] Vladovic: These represent the soul, the body and the spirit, respectively.
+[NPC] Vladovic: I know in your task, this was explained as spiritual sulphur, spiritual salt, and the spiritual mercury.
+[NPC] Vladovic: In order to proceed, the alchemist must treat them so they become: The True Salt of the Sages, white sulphur, and dissolving mercury.
+[NPC] Vladovic: These are then mixed to form a bright red powder called red sulphur.
+[NPC] Vladovic: The red sulphur is then combined with more white sulphur and dissolving mercury which creates the all important...
+[NPC Narrate] Vladovic Chel-Astra pauses for dramatic effect
+[NPC] Vladovic: ...Alchemist Egg.
+[NPC Internal] An egg? Is it actually alive?
+[NPC Narrate] Vladovic Chel-Astra chuckles a bit.
+[NPC] Vladovic: One could say that.
+[NPC] Vladovic: Certainly the Sages believe it to be true.
+[NPC] Vladovic: In order to become the true Stone of the Sages the alchemist egg must face three important phases.
+[NPC] Vladovic: First is known as Dakkru's realm or Blackness.
+[NPC] Vladovic: The egg must putrefy and alchemically die, becoming a black dead stone.
+[NPC] Vladovic: The second phase is known as Laanx's realm or Whiteness.
+[NPC] Vladovic: The egg is purified and ferments until it becomes a bright white stone.
+[NPC] Vladovic: The stone is still dead at this stage but it has the potential to return to life in the next stage.
+[NPC Internal] Whiteness and blackness... Sharven mentioned that.
+[NPC Narrate] Vladovic Chel-Astra nods and smiles.
+[NPC] Vladovic: Exactly.
+[NPC] Vladovic: In your task, YOU were the alchemical egg.
+[NPC] Vladovic: In the Blackness stage, you died.
+[NPC] Vladovic: Upon your return you entered the Whiteness phase.
+[NPC] Vladovic: Like the egg, you were purified by your atonement ritual and in returning from the Death Realm with Dakkru's curse.
+[NPC] Vladovic: At that point your blood could be used to extract a powerful essence.
+[NPC] Vladovic: This is very similar to the egg and through your experience, the hope is you can now better appreciate these transformations.
+[NPC] Vladovic: You can be told anything, but to experience it for yourself is how you achieve the greatest appreciation for why things are.
+[NPC] Vladovic: Anyways, back to the egg.
+[NPC] Vladovic: The final phase is known as the Azure Sun's realm or Redness.
+[NPC] Vladovic: The purified dead egg is alchemically brought back to life to become a First Order Stone of the Sages.
+[NPC] Vladovic: And this is known as the First Work.
+[NPC] Vladovic: What results is useless stone but when treated with spirit, it is able to create the Life Elixir.
+[NPC] Vladovic: But a true Sage is not done yet!
+[NPC Internal] There's more?
+[NPC] Vladovic: Yes, much more.
+[NPC] Vladovic: The Second Work is to mix the stone with yet more red sulphur and dissolving mercury to create the Second Order Stone, from which one can make the Rejuvination Elixir.
+[NPC] Vladovic: And finally, the Third Work is to do it all again to create the Third Order Stone.
+[NPC] Vladovic: The Great Work is now nearly complete and the matter is now nearly perfect.
+[NPC] Vladovic: From the Third Order Stone of the Sages it is possible to create the most potent of all potions...the Universal Panacea.
+[NPC] Vladovic: As I recall you remember that too, hmm?
+[NPC Internal] Yes I remember, Liera used that to cure the plague on the third level.
+[NPC] Vladovic: Yes, it was a great accomplishment.
+[NPC] Vladovic: But as powerful as Universal Panacea is, it did not, in itself cure that plague.
+[NPC] Vladovic: It was a potion derived from grendol poison blood that was able to stop the disease from progressing.
+[NPC] Vladovic: Other potions, topped off by a Universal Panacea, were administered to help restore health to those infected.
+[NPC] Vladovic: It was, in a sense, a cure for the cure.
+[NPC] Vladovic: Since it takes so much work to create just one potion, it took quite some time to make enough ready to treat everyone.
+[NPC] Vladovic: You were able to help Liera get the right combination of potions down to the third level so they could get to work.
+[NPC Internal] Am I ready to begin?
+[NPC] Vladovic: I am not going to teach you the step by step process.
+[NPC] Vladovic: Hopefully what I have just explained can guide you.
+[NPC] Vladovic: The particulars are for you to discover.
+[NPC] Vladovic: I imagine you will struggle to find your way, but it is through this struggle that you learn.
+[NPC] Vladovic: As I said, there are only a handful of steps described in this book, about 30 or so to be exact.
+[NPC] Vladovic: But you must perform almost every one of them to make the great Universal Panacea, the ultimate potion.
+[NPC] Vladovic: One thing you must realize, and this is what the Lemurs have always been adamant about: the purpose of the Great Work is the purification process, not the potions.
+[NPC] Vladovic: The potions are simply an outcome.
+[NPC] Vladovic: Start by focusing on the First Order Stone of the Sages.
+[NPC] Vladovic: Begin making the ingredients for it, then eventually a few of the stones, making higher and higher quality stones as you go.
+[NPC] Vladovic: Then eventually, take those and make Second Order Stone of the Sages, and so on.
+[NPC] Vladovic: Here is your book, study it well.
+[NPC Narrate] Vladovic Chel-Astra finally hands the book to you.
+[NPC Internal] What materials should I stock up on and how much?
+[NPC] Vladovic: Let's say you just make a First Order Stone of the Sages.
+[NPC] Vladovic: You'll need about six iron ores, at least that many niters, some spirit, and a whole lot of tartars and stibines, which you can buy from me or other alchemists.
+[NPC] Vladovic: I suggest you buy large piles of them.
+[NPC Internal] What are tartars and stibines?
+[NPC] Vladovic: Tartar is a special kind of reagent just for this branch of alchemy.
+[NPC] Vladovic: It is a chemical compound first discovered as a byproduct during the making of wine, of all things.
+[NPC] Vladovic: A stibine is a metal-like ore that smells a lot like rotten kikiri eggs when pulverized.
+[NPC] Vladovic: It is comprised of pure stibine, known as antimony, and sulphur.
+[NPC] Vladovic: Antimony and sulphur are basic elements and this ore which contains it is mined underwater on the lower levels by the Nolthrir.
+[NPC] Vladovic: The StoneHammers also brought lots of it from the Stone Labyrinths.
+[NPC] Vladovic: They had a good sense it could be valuable, even if they didn't know why yet.
+[NPC] Vladovic: Because of these rare locations, you can't mine the stibine ore yourself, you can just buy processed powder.
+[NPC] Vladovic: You'll need 4 such stibines to create enough powder needed for just one ingredient.
+[NPC Internal] Any final advice?
+[NPC] Vladovic: I suggest studying the book and understanding what it will take to make each of the three Sages Stones and the Alchemical Egg.
+[NPC] Vladovic: Then just focus on making some of the ingredients for awhile until you have a good supply.
+[NPC] Vladovic: It will take much work to make any of the Sages Stones.
+[NPC Internal] This looks like a lot of work, thanks for the lesson, Vladovic.
+[NPC] Vladovic: You are welcome, YOU.
+[NPC] Vladovic: Good luck in your studies.
+
+[Reward] [XP] 16400; [Skill] 2, Alchemy; [Faction] +10 Science Association; [Item] 1, Mystic's Great Work
