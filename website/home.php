@@ -42,6 +42,23 @@
 
                                         <tr>
                                             <td class="content_table_headline">
+                                                <p>Quests (18.12.2020)</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p>
+												  Hello everyone.<br>
+												  Today I was able to document two new quests! One is &quot;Spiritual Healing&quot;, the other
+												  &quot;Mystic&apos;s Great Work&quot;. Enjoy!
+												  <br>
+												  Kisses Haviland
+                                                </p>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td class="content_table_headline">
                                                 <p>Recipe Database (01.08.2020)</p>
                                             </td>
                                         </tr>
@@ -51,7 +68,7 @@
 												  Hello everyone. In the last weeks I habe been working on a <a href="/jobs/recipes">recipe database</a>.
 												  All recipes of all <a href="/jobs/books.php">crafting books</a> are online now! I hope it will help a lot
 												  while crafting.<br>
-												  The information is as good as I know it. Let me know if you have any additional ingormation.<br>
+												  The information is as good as I know. Let me know if you have any additional ingormation.<br>
 												  <br>
 												  Haviland
                                                 </p>
