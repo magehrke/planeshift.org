@@ -1,0 +1,126 @@
+[Questname] Something's Brewing
+[NPC Name] Jarda Ynarow
+[Checkup] 2021-01-01
+[Authors] Haviland Tenouri
+
+[Need] [Item] 40, Hops; [Item] 10, White Oak Bark; [Item] 10, Blackbush Stem
+
+[To] Jarda Ynarow
+
+[NPC Internal] [You clear your throat.] About that job, please?
+[NPC Narrate] Jarda Ynarow nods, and shows you a fading article, ripped from a broadside; Announcing the New Brewmaster of the Dome, Screeches the headline silently.
+[NPC Narrate] -The drawing below the headline shows many barrels standing in a row with a sign above them that proclaims –
+[NPC Narrate] Hydlaa’s Specialty Hops, The Best Brew by the Best Brewer- The rest of the article is torn away.-
+[NPC Narrate] Jarda Ynarow holds up his nine fingers, then makes a plus sign and holds up one more finger.
+[NPC Internal] A new brewmaster? And you want… 10 barrels? This is great news. Where do I go for the beers?
+[NPC Narrate] Jarda Ynarow flips open his notebook to a map of Hydlaa, and shrugs.
+[NPC Narrate] Jarda Ynarow looks at you and nods “yes,” then shakes his head “no,” then stares at you again, his hands open at his sides in a shrug.
+[NPC Internal] Yes or no, again? Well, yes. A bar without a beer is like a Dome without a Crystal. I’ll help you. Here’s to the Brewmaster and the Brewmaster’s Brew!
+[NPC Narrate] Jarda Ynarow hands you a Requisition for 10 Kegs of Hydlaa’s Specialty Hops and turns back to work.
+
+[To] [NPC] Narwin
+
+[NPC Internal] Are you the BrewMaster?
+[NPC] Narwin: BrewMaster I be!
+[NPC] Narwin: Tis me!
+[NPC] Narwin: Tis me!
+[NPC] Narwin: Narwin Molstagh at yer service!
+[NPC] Narwin bows.
+[NPC] Narwin: Storyteller!
+[NPC] Narwin: Hero of Great Renown!
+[NPC] Narwin: and a Fine Dancer!
+[NPC] Narwin: Which do you need?
+[NPC] Narwin: Come on, speak up youngster!
+[NPC] Narwin: What’s do ye call yerself, Stonehammer?
+[NPC Internal] Me, my name is Trebanass but just call me Mr T.
+[NPC] Narwin: Well good Mr T, what will it be?
+[NPC] Narwin: A story or a dance before getting down to bidness?
+[NPC Internal] Oh, all right. How about a story?
+[NPC] Narwin: Good choice Mr T!
+[NPC] Narwin: Curiosity is the way to adventure and riches!
+[NPC] Narwin: Now, once, not long after the Great Rift between Laanx and Talad, a curious, adventurous, fulsome I must say, Stonehammer youth dared to traverse the wilderlands where the murderous ulbernauts nested.
+[NPC] Narwin: The youth, having a fine nose for the bitters and the mash, sniffed out the intoxicating, get it Mr T, intoxicating?
+[NPC] Narwin: Scent of the finest hops on any of the levels of the Dome!
+[NPC] Narwin: A flash of brilliance unfurled the future before ’em, like an Ojaveda carpet on Market Day.
+[NPC] Narwin: ‘What we all do need in these times of tossing and tumbling, be a fine and hearty Brew to calm our nerves and steady our hands,’ thought the youth!
+[NPC] Narwin: The adventurer, howsoever, were stronger than smart, it seems, and more curious than cautious to boot and scabbard!
+[NPC] Narwin: Charging out into the fields, our hapless youngster commenced to digging, nose muscles full of mash and fermentation.
+[NPC] Narwin: When lo!
+[NPC] Narwin: Out from the scrubby brushes comes a whole nasty herd of ‘nauts, slaverin’ and slashin’ like no tomorrow.
+[NPC] Narwin: And the truth be told, there were no tomorrow fer our stalwart stiller, lickety split, the kidling were dancing with Dakkru for many a dark cycle.
+[NPC] Narwin: And the great field of the sweetest, most maltil-icious, had to await a new adventurer to find it’s potent- ial, get it, potent?
+[NPC] Narwin: Ye be looking at that Very One!
+[NPC] Narwin: Me it Be!!
+[NPC] Narwin: Tis I!
+[NPC Internal] Are you done? I have an order for you from Amdeneir.
+[NPC] Narwin: An order?
+[NPC Narrate] -The StoneHammer reads, stroking his beard.-
+[NPC] Narwin: Ten barrels ye says!
+[NPC] Narwin: Aye, I can provide such sustenance as that!
+[NPC] Narwin: Tis a grand day fer a new brew!
+[NPC] Narwin: Here have a sample!
+[NPC] Narwin hands you a frothy mug of Specialty Hops.
+[NPC] Narwin: Bidness should ne’er be done with a dry throat, friend!
+[NPC] Narwin: Drink up with me!
+[NPC] Narwin: Cheers!
+[NPC Internal] Sure! A sale is always worth celebrating! Cheers!
+
+[Info] If you don't drink the beer Narwin wants 60 hops instead of 40
+
+[NPC] Narwin drinks his mug and wipes his beard, then smacks his lips again.
+[NPC] Narwin: Oh, now, that tastes so good, it do!
+[NPC] Narwin: Reminds me, I need more hops for the next batch.
+[NPC] Narwin: Go fetch me 40 hops plants and I will get the kegs out of the Winch warehouse.
+[NPC Internal] : Phew! Here are your hops plants. Now can I get my order filled?
+[NPC Narrate] -The BrewMaster holds the 40 plants up to his nose and sniffs.-
+[NPC] Narwin: That smells terrific I do say!
+[NPC] Narwin: But didn’t I tell ye, I need the secret ingredient?
+[NPC] Narwin: Go get me, lemme see…
+[NPC] Narwin counts on all his digits again
+[NPC] Narwin: Get me 10 aye that be it!
+[NPC] Narwin: Ten white oak bark and 10 blackbush stems.
+[NPC] Narwin: And don’t ye be telling anyone about me special ingredients!
+[NPC] Narwin: Off with ye!
+[NPC Internal] [You hand the piles of leaves to Narwin and flop down on the ground, panting.] I’m done! Please say I’m done!
+[NPC] Narwin: Ah poor little Kran.
+[NPC] Narwin: Tell ye what, youngin.
+[NPC] Narwin: I will go to Aleena and have her mash these up fer me, then add them.
+[NPC] Narwin: Ye can wait here, if ye wishes.
+[NPC] Narwin: Here’s somethin’ to while away the time with!
+[NPC] Narwin offers you another Mug of Specialty Hops.
+[NPC Internal] How many times must I tell you, I…
+[NPC] Narwin interrupts you.
+[NPC] Narwin: Don’t drink!
+[NPC] Narwin: Don’t drink!
+[NPC] Narwin: I know!
+[NPC] Narwin: More’s the pity, but, ha ha!
+[NPC] Narwin: More’s fer me!
+[NPC] Narwin downs the mug, then trundles off towards Kada El’s.
+[NPC Narrate] -After a few minutes, Narwin comes wobbling back, with a mash of fragrant stems.-
+[NPC Narrate] -He adds a measure of the mash to each keg, singing as he goes-
+[NPC] Narwin: Front an’ nose, Here’s me toes, whoopdeedoo and ho ho ho!
+[NPC Narrate] -He kicks his heels and lands on his keister, laughing all the way.-
+[NPC] Narwin: There now Mr T, it’s all set!
+[NPC] Narwin: They weigh 25 each, so make sure ye can heave em up.
+[NPC Internal] Finally! I can carry them, no problem!
+[NPC] Narwin: Fine and dandy!
+[NPC] Narwin: Here’s my bill fer yer employer and a little something fer ye!”
+[NPC] Narwin tips a mug full of circle out for you to collect.
+[NPC] Narwin: Saves me shipping costs it does, fine strapping youngster that ye are!
+[NPC] Narwin: Cheers!
+
+[To] Jarda Ynarow
+
+[NPC Internal] I certainly hope this beer is worth it, Barkeep! [You say in a sober voice.] Good thing I’m strong, it saved you some tria. Here is your bill from Narwin, that’s his name by the way, [NPC] Narwin, he just stands around in Hydlaa by the Arena entrance. If you ever want to know again.
+[NPC Narrate] Jarda Ynarow looks at the bill and calculates quickly, then nods to you.
+[NPC Narrate] -He rocks his hand quickly back and forth as if to say, “Not a bad price. Not good, but not bad.”-
+[NPC Internal] I put the kegs by your delivery door. All 10 of ’em. [You stand, waiting.]
+[NPC Narrate] Jarda Ynarow almost smiles at you.
+[NPC Narrate] -He nods, and reaches into his vest for the pouch, and slides it across the counter to you.-
+[NPC Internal] Sir Jarda! Thank you. Let me know if you ever need any more help! I’m your Stonehammer.
+[NPC Narrate] -While you’re busy with your coins, Jarda leans down.-
+[NPC Narrate] -He stands and checks to make sure no one in the bar is looking your way.-
+[NPC Narrate] Jarda Ynarow slips you a glyph bag, then holds his finger to his mouth, and winks.
+
+[Reward] [Item] 1, Bow Glyph; [Money] 21250; [XP] 12500
+
