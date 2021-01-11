@@ -505,6 +505,12 @@
 						<td>Tarmeen: This may well have saved my head.</td>
 					</tr>
 					<tr class="quest_npc">
+						<td>Tarmeen: Say, speaking of Raithen, I hear he's had some sort of run-in with that Shadowcaster who hangs around the water wheel.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Tarmeen: When you're done helping all the guards around here, you might want to look into that.</td>
+					</tr>
+					<tr class="quest_npc">
 						<td>Tarmeen: Here is the promised reward.</td>
 					</tr>
 					<tr class="quest_npc">
@@ -520,7 +526,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Mind glyph, 1 Enforcer Shield[OR], 20 Faction with Guard, 16400 XP.</td>
+						<td>Rewards: 1 Mind glyph, 1 Chaos Glyph[OR], 1 Enforcer Shield[OR], 20 Faction with Guard, 16400 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

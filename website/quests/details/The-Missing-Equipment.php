@@ -413,10 +413,7 @@
 						<td>Baboraer: Thanks for all your help.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Baboraer: Take these boots.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Baboraer: One size fits all!</td>
+						<td>Baboraer: Take this glyph!</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -428,7 +425,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Chain Mail Boots, 9922 Tria, 16400 XP.</td>
+						<td>Rewards: 1 Door Glyph, 9922 Tria, 16400 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

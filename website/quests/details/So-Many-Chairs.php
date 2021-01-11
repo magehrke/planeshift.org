@@ -1268,7 +1268,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: [Way 1] 1 Banded Shield Diagram, 40 Faction with Crafting Association, 12958 Tria, 17800 XP, [Way 2] 1 Macca Wine Bottle, 1 Banded Shield Diagram, 25 Faction with Crafting Association, 5130 Tria, 13600 XP.</td>
+						<td>Rewards: [Way 1] 40 Faction with Crafting Association, 12958 Tria, 17800 XP, [Way 2] 1 Macca Wine Bottle, 1 Banded Shield Diagram, 25 Faction with Crafting Association, 5130 Tria, 13600 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

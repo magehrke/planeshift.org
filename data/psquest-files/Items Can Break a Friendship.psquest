@@ -117,5 +117,5 @@
 [NPC] Moren: I have a special item for you as a reward.
 [NPC Narrate] -Moren takes out a glyph from his small glyph sack and hands it over-
 
-[Reward] [Money] 3391; [XP] 20200; [Item] 1, Might glyph
+[Reward] [Money] 3391; [XP] 20200; [OR Begin] [Item] 1, Might glyph [OR] [Item] 1, Vortex glyph [OR End];
 

@@ -693,6 +693,66 @@
 					<tr class="quest_npc">
 						<td>Zak: Now go before I show you how good I am with knives.</td>
 					</tr>
+					<tr class="quest_npc">
+						<td>Zak: In fact would you like to see a little trick I have with using them?</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: You think you have something to teach.. me?</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Zak handles his small blade with skill.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Zak: This is known as the lethal takedown.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Zak: If you manage to do it properly it can be very useful against the less than observant.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Zak steps to the side becoming hidden surprising well in the shadows.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-He suddenly slips forwards, dropping to the ground as he does.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-Swinging his blade he seems to be imitation attacking the back of legs or heels.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-As he stands he steps back from his target as if to attack again.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Zak: You see?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Zak: Quite effective as a first strike.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Zak: Now go try it on someone.</td>
+					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
@@ -768,7 +828,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Shadow glyph, 1 Small Onyx Dagger, 1000 Tria, 8000 XP.</td>
+						<td>Rewards: 1 Shadow glyph, 1 Small Onyx Dagger, 'Lethal Takedown' Combat Move 'Lunge', 1000 Tria, 8000 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

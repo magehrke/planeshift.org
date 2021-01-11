@@ -38,15 +38,9 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: Rank 135 Strength.</td>
+						<td>Required: <a href="/quests/details/Learning-Metal-Working.php">Learning Metal Working</a> quest, Rank 135 Strength.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>[INFO]: Some quest is required to obtain this quest.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
 						<td></td>
 					</tr>
 					<tr class="quest_action">

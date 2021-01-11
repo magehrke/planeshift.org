@@ -136,6 +136,18 @@
 [NPC] Zak: them, that the box is as good as open but it will take a bit more time.
 [NPC Narrate] -Zak smirks.-
 [NPC] Zak: Now go before I show you how good I am with knives.
+[NPC] Zak: In fact would you like to see a little trick I have with using them?
+[NPC Internal] You think you have something to teach.. me?
+[NPC Narrate] Zak handles his small blade with skill.
+[NPC] Zak: This is known as the lethal takedown.
+[NPC] Zak: If you manage to do it properly it can be very useful against the less than observant. 
+[NPC Narrate] Zak steps to the side becoming hidden surprising well in the shadows. 
+[NPC Narrate] -He suddenly slips forwards, dropping to the ground as he does.-
+[NPC Narrate] -Swinging his blade he seems to be imitation attacking the back of legs or heels.-
+[NPC Narrate] -As he stands he steps back from his target as if to attack again.- 
+[NPC] Zak: You see?
+[NPC] Zak: Quite effective as a first strike.
+[NPC] Zak: Now go try it on someone.
 
 [To] Pauril Rentaurin
 
@@ -149,5 +161,5 @@
 [NPC] Pauril: And here is a little something for your trouble.
 [NPC Narrate] -Pauril flicks you some Circles and a dark-coloured glyph.-
 
-[Reward] [Money] 1000; [XP] 8000; [Item] 1, Shadow glyph; [Item] 1, Small Onyx Dagger
+[Reward] [Money] 1000; [XP] 8000; [Item] 1, Shadow glyph; [Item] 1, Small Onyx Dagger; [Combat Move] Lethal Takedown, Lunge
 

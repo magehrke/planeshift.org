@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/Search-for-Old-Pottery.php">Search for Old Pottery</a> quest.</td>
+						<td>Required: <a href="/quests/details/Artifact-of-Laanx.php">Artifact of Laanx</a> quest.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>

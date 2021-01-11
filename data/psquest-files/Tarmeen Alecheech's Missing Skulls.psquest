@@ -106,8 +106,10 @@
 [NPC Internal] Here's your skulls.
 [NPC] Tarmeen: Thank you.
 [NPC] Tarmeen: This may well have saved my head.
+[NPC] Tarmeen: Say, speaking of Raithen, I hear he's had some sort of run-in with that Shadowcaster who hangs around the water wheel.
+[NPC] Tarmeen: When you're done helping all the guards around here, you might want to look into that.
 [NPC] Tarmeen: Here is the promised reward.
 [NPC] Tarmeen: You can choose.
 
-[Reward] [XP] 16400; [OR Begin] [Item] 1, Mind glyph [OR] [Item] 1, Enforcer Shield [OR End]; [Faction] 20, Guard
+[Reward] [XP] 16400; [OR Begin] [Item] 1, Mind glyph [OR] [Item] 1, Chaos Glyph [OR] [Item] 1, Enforcer Shield [OR End]; [Faction] 20, Guard
 

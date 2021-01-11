@@ -1,60 +1,300 @@
 [Questname] Hiacheius Lost a Valuable Book
 [NPC Name] Hiacheius Dilechi
 [Checkup] 2014-01-01
-[Authors] Dudu and Lele
+[Authors] Lorit Heady
 
-[Need] [Quest] Canyt Needs a Stone Tablet Identified; [Item] 1, Golden Shield Diagram
-
-[Info] You get the Golden Shield Diagram from the Canyt Needs a Stone Tablet Identified quest.
+[Need] [Quest] Canyt Needs a Stone Tablet Identified;
 
 [To] Hiacheius Dilechi
 
 [NPC Internal] Do you need help with something?
-[NPC] Hiacheius: Hrm…er…
-[NPC Narrate] -Hiacheius looks somewhat frazzled.-
+[NPC] Hiacheius: Hrm...er...
+[NPC Narrate] Hiacheius Dilechi looks somewhat frazzled.
 [NPC] Hiacheius: Umm, I am somewhat b-b-busy here, hmm.
-[NPC] Hiacheius: Let me think, hmm…
+[NPC] Hiacheius: Let me think, hmm...
 [NPC] Hiacheius: Well, I do not know.
-[NPC Narrate] -Hiacheius bangs his head with his hand.-
-[NPC] Hiacheius: Think old man …
-[NPC] Hiacheius: think!
-[NPC] Hiacheius: Hmm, grr, there must be something I w-w-wanted…
+[NPC Narrate] Hiacheius Dilechi bangs his head with his hand.
+[NPC] Hiacheius: Think old man...
+[NPC] Hiacheius: Think!
+[NPC] Hiacheius: Hmm, grr, there must be something I w-w-wanted...
 [NPC] Hiacheius: By the g-gods!
-[NPC] Hiacheius: I recall a friend of mine asked me for some p-p-plans, a book of some sort, but now I seem to have misp-placed it.
-[NPC] Hiacheius: Hmm, and I cannot recall what it was about.
-[NPC] Hiacheius: Hmm…
-[NPC] Hiacheius: Urp!
-[NPC] Hiacheius: Now I remember!
-[NPC] Hiacheius: My friend wanted a Golden Shield Diagram.
-[NPC] Hiacheius: That is it!
-[NPC] Hiacheius: It was difficult to come by, if I recall, and now it has gone m-m-missing; if you can find it, I will give you a nice reward.
-[NPC] Hiacheius: Do you accept?
+[NPC] Hiacheius: I know what it was.
+[NPC] Hiacheius: I am suppose to maintain the water wheel here.
+[NPC] Hiacheius: But on my latest travels through the Dome I have misplaced it.
+[NPC] Hiacheius: I never lose anything..so..did not think to look for it until recently.
+[NPC] Hiacheius: It is my book with all my diagrams and notes on the wheel system.
+[NPC] Hiacheius: I need it!
 [NPC Internal] Sounds good, I'll start right away.
-[NPC] Hiacheius: I wish I even knew where to look.
-[NPC] Hiacheius: I hope you find it; that diagram is rare.
-[NPC] Hiacheius: Alright then, I will see you when you have a copy of the Golden Shield Diagram to give me.
+[NPC] Hiacheius: Good, okay...
+[NPC Narrate] Hiacheius Dilechi pinches the bridge of his nose.
+[NPC] Hiacheius: Let me try and think where I went, then I'd like you to go and look.
+[NPC] Hiacheius: I recently came back from Hydlaa, a meeting with Harnquist.
+[NPC Narrate] Hiacheius Dilechi frowns and closes his eyes, trying to think harder.
+[NPC] Hiacheius: I must have lost it there.
+[NPC] Hiacheius: Please go and see if you can find it.
 
-[Give] Hiacheius Dilechi; 1, Golden Shield Diagram
+[To] Harnquist
 
-[NPC Internal] I found your book.
-[NPC] Hiacheius: Oh joy, you have returned it!
-[NPC] Hiacheius: You have made an old dwarf very happy indeed!
-[NPC] Hiacheius: Yes indeed this is it!
-[NPC] Hiacheius: You have done well by me.
-[NPC] Hiacheius: I will tell you what, I was going to reward you w-w-with 1000 tria, but if you want to try to answer my p-p-puzzle I will d-double it.
-[NPC] Hiacheius: If you cannot answer correctly you get nothing but the experience of having helped an old dwarf.
-[NPC] Hiacheius: Will you attempt my puzzle?
-[NPC Internal] Sure, I'll try your riddle.
-[NPC] Hiacheius: Wee!
-[NPC] Hiacheius: I suppose you think yourself smart, well we shall see.
-[NPC] Hiacheius: Here is my puzzle: Trasok is working late in the night he needs gloves for a project but they are upstairs, he goes upstairs but forgets his lantern. In a drawer, he has six pairs of black gloves and six pairs of red gloves.
-[NPC] Hiacheius: Each pair has a right hand glove and a left hand glove, other than this and their color, the black and red gloves are identical in every way. In the complete darkness, how many gloves must he take from the drawer to be sure to get a right and left glove of the same color?
-[NPC] Hiacheius: Beware that your first answer will be the one I take!
-[NPC] Hiacheius: No second chance, I need one number!
-[NPC Internal] 13
-[NPC] Hiacheius: Ah, poor me, that is correct!
-[NPC] Hiacheius: Well done you have no idea how many people fail to get that!
-[NPC] Hiacheius: Trasok could take out six black left hand gloves and then six red left hand gloves, the next one would have to be either the right hand or left hand match.
+[NPC Internal] Have you seen Hiacheius' maintenance book?
 
-[Reward] [Money] 2107; [XP] 10800
+[NPC] Harnquist: Umm...
+[NPC] Harnquist: Hiacheius, I hope he is well.
+[NPC] Harnquist: He was here a few days ago and we spent a lot of time talking about alloys.
+[NPC] Harnquist: I also don't know what it looks like so can't be sure but he was writing lots of notes in a dark blue bound book.
+[NPC] Harnquist: But I didn't see him drop anything while we were together.
+[NPC] Harnquist: We had dinner together, and spent some time in the library.
+[NPC] Harnquist: He spent the whole day in Hydlaa so could have dropped it anywhere and spoken to many people after we had finished.
+[NPC] Harnquist: I'm sorry I can't be of more help.
+
+[To] Jayose
+
+[NPC Internal] Do you remember a StoneHammer called Hiacheius? He lost a valuable book.
+
+[NPC] Jayose: A book?
+[NPC] Jayose: Someone came by yesterday asking if I would be interested in buying a note book which was seemingly filled with lots of important information about large machinery.
+[NPC] Jayose: But it didn't make sense to have it in my library.
+[NPC] Jayose: You should search him out if you want to find it.
+
+[To] Arion Fildar
+
+[NPC Internal] Do you remember a StoneHammer called Hiacheius? He lost a valuable book.
+
+[NPC] Arion: Oh...
+[NPC] Arion: Um...
+[NPC] Arion: I'm not sure I should say...
+[NPC] Arion: A certain dwarf came to talk to me and asked about selling a book he had come across.
+[NPC] Arion: That might be who you are looking for.
+[NPC] Arion: I shouldn't say who, sorry.
+
+[To] Thorian Gronk
+
+[NPC Internal] Did you recently offer to sell a book to Arion?
+
+[NPC] Thorian: What...
+[NPC] Thorian: Noooooo, no, of course not...
+
+[NPC Internal] I was told you did, so where is it?
+
+[NPC] Thorian: Well, then maybe I did see what you were looking for.
+[NPC] Thorian: But I don't have it any more.
+
+[NPC Internal] What did you do with it?
+
+[NPC] Thorian: I might have sold it, if I'd had it.
+[NPC] Thorian: And I might have sent it to Ojaveda if I had sold it...
+[NPC] Thorian: I have nothing else to say.
+
+[To] Merrinez Dholant
+
+[NPC Internal] Did Thorian send a book to you?
+
+[NPC] Merrinez: A book you say, no, I haven't gotten a new book in ages.
+[NPC] Merrinez: But you know what?
+[NPC] Merrinez: I'm sure there was one special one that came by in the last few days in some chest or something.
+
+[To] Jirosh Mikana
+
+[NPC Internal] Did Thorian send a book to you?
+
+[NPC] Jirosh: Thorian..
+[NPC] Jirosh: I don't think so.
+
+[NPC Narrate] Jirosh Mikana picks up a clipboard with filled delivery notes.
+
+[NPC] Jirosh: I don't see anything from the last week or two going to a Thorian or coming from a Thorian in the last few days.
+[NPC] Jirosh: It may have been earlier than that but I don't have time to look right now.
+[NPC] Jirosh: If it was sent through my Trading Company it would probably still be in Ojaveda somewhere or it would be listed on my outgoing shipment lists.
+
+[NPC Internal] Merrinez said he remembered seeing a book sealed in a chest in a delivery.
+
+[NPC] Jirosh: He did?
+[NPC] Jirosh: Let me check again.
+
+[NPC Narrate] Jirosh Mikana looks over his lists again.
+
+[NPC] Jirosh: Well there was a chest marked as valuable which arrived some time yesterday.
+[NPC] Jirosh: Let me look quickly.
+
+[NPC Narrate] Jirosh Mikana walks off into the warehouse to look for the chest, returning a few minutes later.
+
+[NPC Internal] Did you find it, what's happened to it?
+
+[NPC] Jirosh: I don't know actually.
+[NPC] Jirosh: It's not on any of the outgoing shipment lists, it definitely arrived here...
+[NPC] Jirosh: But there is no mention of it on the inventory and I can't see it in the warehouse.
+[NPC] Jirosh: Either someone lost it, or someone took it!
+
+[To] Kisatol Gathoji
+
+[NPC Internal] What do you know of a missing chest from Jirosh's warehouse?
+
+[NPC] Kisatol: ME?!?
+[NPC] Kisatol: Why are you just running directly to me asking if I TOOK the chest?
+[NPC] Kisatol: I'm not all bad...
+
+[NPC Narrate] Kisatol Gathoji smirks.
+
+[To] Merrinez Dholant
+
+[NPC Internal] It seems the chest has gone missing do you have any ideas where?
+
+[NPC] Merrinez: I'm sorry, but no.
+[NPC] Merrinez: I only saw it quickly while I was unpacking the delivery from Hydlaa.
+[NPC] Merrinez: It was placed with all the other items to be taHiacheius Lost a Valuable Book quest
+
+[NPC Internal] Do you have any ideas as to where I could look, or who might have it?
+
+[NPC] Merrinez: Well I would suggest you talk to Jirosh, but it seems you already have.
+
+[NPC Narrate] Merrinez Dholant pauses and stretches his shoulders while yawning slightly.
+
+[NPC] Merrinez: You should have realised that this area isn't exactly filled with the most pleasant of characters.
+[NPC] Merrinez: So who knows who might have snuck in an open window and taken something?
+[NPC] Merrinez: I see people who might be up to something illegal every few days.
+
+[NPC Internal] It's been suggested it was stolen, and you're a very likely suspect!
+
+[NPC] Kisatol: Oh please...
+[NPC] Kisatol: Why would I want to break into a warehouse and steal some silly little book?...
+[NPC] Kisatol: IF...
+[NPC] Kisatol: And I mean IF it was stolen it could have been someone else.
+[NPC] Kisatol: I know of others nearby that might have wanted it.
+[NPC] Kisatol: Go bug them.
+
+[To] Enack Lerenal
+
+[NPC Internal] Did Thorian send a book to you?
+
+[NPC] Enack: Thorian?
+[NPC] Enack: Why would he send me a book?
+[NPC] Enack: It's not like I spend a lot of time reading.
+
+[NPC Internal] Well, the other suspect called you out.
+
+[NPC] Enack: Really now.
+[NPC] Enack: Any evidence?
+
+[NPC Narrate] Enack Lerenal raises a hand.
+
+[NPC] Enack: No.
+[NPC] Enack: Well then let me tell you that I saw Trasok with it, sat in Brado's talking to the one and only Brado about it.
+[NPC] Enack: So clearly I can't have it...
+
+[To] Trasok Starhammer
+
+[NPC Internal] Did Thorian send a book to you?
+
+[NPC] Trasok: Thorian, that underhanded merchant from Hydlaa!?
+[NPC] Trasok: I don't want anything to do with him, or anything he has to offer.
+
+[NPC Internal] Enack said he saw you with the book.
+
+[NPC] Trasok: And you believe him...
+[NPC] Trasok: Don't be so gullible.
+
+[To] Merrinez Dholant
+
+[NPC Internal] I think Enack took the chest, but he won't tell me anything about it.
+
+[NPC] Merrinez: Enack, the Ynnwn?
+[NPC] Merrinez: I don't think I've seen a Ynnwn around here for a day or so.
+[NPC] Merrinez: Perhaps ask someone else.
+
+[To] Bjorid Haakthir
+
+[NPC Internal] Have you seen a Ynnwn sneaking about here carrying anything?
+
+[NPC Narrate] Bjorid Haakthir wrinkles his nose as he looks at you.
+
+[NPC] Bjorid: Actually I did, I was sure it was Enack.
+[NPC] Bjorid: He had a small fancy looking chest with him, no idea what was in it though.
+
+[To] Enack Lerenal
+
+[NPC Internal] So, seems I have a witness that you took the chest and book. Where are they?
+
+[NPC Narrate] Enack Lerenal droops his head.
+
+[NPC] Enack: I bought it, I took it, I sold it.
+[NPC] Enack: I heard whispers some Ylian was after books to do with giant machines, and magic and winches...or something.
+[NPC] Enack: When she heard about this book I went after it, and once I had it.
+[NPC] Enack: I sold it to her, she was hanging about in Amdeneir.
+[NPC] Enack: Good luck getting it back.
+
+[To] Hioona Yelian
+
+[NPC Internal] So, you know Enack?
+
+[NPC Narrate] Hioona Yelian just shrugs and looks away.
+
+[NPC Internal] Well he knows you, I want the stolen book.
+
+[NPC Narrate] Hioona Yelian chuckles.
+
+[NPC] Hioona: I suppose you must mean a book filled with diagrams on some large mechanisms.
+[NPC] Hioona: I didn't waste any time reading it.
+[NPC] Hioona: I was hired some time ago to keep an 'eye out' for any book I or any of my associates came across on this topic.
+[NPC] Hioona: But I had no idea it was stolen..
+[NPC] Hioona: I must say I am quite appalled anyone would steal a book...
+
+[NPC Internal] So you were hired to steal any book you could find?
+
+[NPC Narrate] Hioona Yelian shakes her head.
+
+[NPC] Hioona: No no no...
+[NPC] Hioona: Hired to procure any suitable books I come across.
+[NPC] Hioona: Enack sent word when he found the book.
+
+[NPC Narrate] Hioona Yelian smirks a little with that last comment.
+
+[NPC] Hioona: He arranged to get it on my employers behalf and sent it to me.
+[NPC] Hioona: I have sent it on already.
+[NPC] Hioona: So...
+[NPC] Hioona: What now?
+
+[NPC Internal] Who did you send it to?
+
+[NPC] Hioona: It has been sent to Tarmeen Alecheech up at the eagle head fortress.
+[NPC] Hioona: I've been paid for doing what I was hired to do.
+[NPC] Hioona: So run off and do what you want now.
+
+[To] Tarmeen Alecheech
+
+[NPC Internal] Have you received a specially delivered blue, bound book?
+
+[NPC] Tarmeen: Actually yes I do have it.
+[NPC] Tarmeen: It arrived earlier today.
+
+[NPC Narrate] Tarmeen Alecheech turns and looks through some of the deliveries.
+
+[NPC] Tarmeen: Here it is.
+[NPC] Tarmeen: I was going to take it up to Hiacheius later today, but you can do that for me if you'd like.
+
+[NPC Internal] Yeah I'll take it to him.
+
+[NPC] Tarmeen: Good, thank you.
+[NPC] Tarmeen: Here you are.
+
+[To] Hiacheius Dilechi
+
+[NPC Internal] I found out what happened to your book.
+
+[NPC] Hiacheius: Yo..ou did?
+[NPC] Hiacheius: Who too-ok it?
+
+[NPC Internal] [You tell Hiacheius about the path you took to find the book.]
+
+[NPC Narrate] Hiacheius Dilechi begins to laugh as he realises what has happened.
+
+[NPC] Hiacheius: I b-bought my own b-book back?...
+[NPC] Hiacheius: Where is i-t?
+
+[NPC Internal] I have it, here you are.
+
+[NPC] Hiacheius: Th-thank you.
+[NPC] Hiacheius: It is a shame you f-first came when you did.
+[NPC] Hiacheius: If you had not then I might have had my book back by now and you w-would n-not have had to do any..anything.
+[NPC] Hiacheius: I think I sh-ould be more careful with w..who I deal with.
+
+[Reward] [Money] 5130; [XP] 13600
 

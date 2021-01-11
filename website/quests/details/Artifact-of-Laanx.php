@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/Polyuntri-Stevald-Serves-Laanx.php">Polyuntri Stevald Serves Laanx</a> quest, 4 Emerald Crystals, 1 Ulbernaut Heart.</td>
+						<td>Required: <a href="/quests/details/Search-for-Old-Pottery.php">Search for Old Pottery</a> quest, 4 Emerald Crystals, 1 Ulbernaut Heart.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>

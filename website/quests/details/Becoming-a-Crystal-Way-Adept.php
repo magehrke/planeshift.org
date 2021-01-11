@@ -190,7 +190,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Apprentice's Crystal Way Robe, 20 Faction with Crystal Order, 12200 XP.</td>
+						<td>Rewards: 1 Apprentice's Crystal Way Robe, 1 Sight Glyph, 20 Faction with Crystal Order, 12200 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

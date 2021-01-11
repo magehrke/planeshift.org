@@ -1036,6 +1036,18 @@
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
+					<tr class="quest_waysHeadline">
+						<td>Possible Ways: 2</td>
+					</tr>
+					<tr class="quest_emptyRow_afterWaysHeadline">
+						<td></td>
+					</tr>
+					<tr class="quest_diffWays">
+						<td>Way 1:</td>
+					</tr>
+					<tr class="quest_emptyRow_afterDiffWays">
+						<td></td>
+					</tr>
 					<tr class="quest_action">
 						<td>[INFO]: So you have the choice of Gilata Meselir, Celila Yasoj and Chilye Esimar.  Of course, I did'nt find the correct lady and had some additional tasks to do.  I don't know what happens if you give the letter and the bouquet to the correct lady (Gilata Meselir). However, here is the long run...</td>
 					</tr>
@@ -1753,6 +1765,184 @@
 					</tr>
 					<tr class="quest_you">
 						<td>YOU: Henas, she said yes! Her name is Gilata! and I asked if she would have dinner with you, and she said yes! She said she's looking forward to your date! But here, [you hand Henas the two ribbons] Just clean this up a little and tie them around something, and there's your present to her!</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: She, she said yes?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: She is so talented and her artistry with the pottery is, well, breathtaking.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: She said yes?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: Really!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: Praise the Gods!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: As soon as I get off my post I will go right down and give her these ...</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: ribbons.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: Oh I can't thank you enough, Klyros.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: Here, here, take this as a reward!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: Oh and this was turned in to our post many months ago.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: No one has claimed it so you can have it.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: Thank you again and again!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: I can't wait to get off work and go see her.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: Gilata you said?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: Gilata!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Henas Kenar: Gilata!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-The other Guard looks sternly toward Henas who immediately stands at attention, hiding the bouquet behind his back. Henas winks at you and silently mouths the words "thank you!"-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_diffWays">
+						<td>Way 2:</td>
+					</tr>
+					<tr class="quest_emptyRow_afterDiffWays">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>→ Go to 
+						<?php
+							echo "<a href='";
+							/* Printing the NPC with a link to the Map */
+							/* The Variable $npcName has to be set !!! */
+							$npcName = 'Gilata Meselir';
+							$path = $_SERVER['DOCUMENT_ROOT'];
+							$path .= "/includes/npc_link_to_map.inc.php";
+							include($path);
+							echo "' target='_blank'>Gilata Meselir</a>";
+						?>
+						</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Excuse me Madame Gilata. [You hold out your Letter of Introduction.]</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>reads the letter before handing it back to you.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: What can I do for you, Klyros?</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: I know a friend who would like very much to meet you. He sends you these to show his respect for you. [You bow and hand a bouquet to Gilata. She smiles a lovely warm smile that lights up the sky around you.] Guard Henas wonders if you would do him the honour of meeting him for a meal?</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: Flowers?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: For me?</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Gilata Meselir takes the flowers, beaming with delight.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: Is it from that handsome Guard, I think Chired told me his name is Henas?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: I see him every day, and every day as he walks by, he gives me such a warm smile.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: But he never speaks.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: Perhaps he is as shy as I am.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: I am usually so intent on my work at the wheel, each vase and bowl needs to be perfect you know!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: And before I can even rinse my hands of the clay to say hello, he is gone.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: I was hoping some day he would speak to me!</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: Please tell him I would enjoy very much a shared meal or...</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Gilata Meselir: Well, please tell him Yes!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Gilata Meselir's fur fairly glows with electric energy.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_action">
+						<td>→ Go to 
+						<?php
+							echo "<a href='";
+							/* Printing the NPC with a link to the Map */
+							/* The Variable $npcName has to be set !!! */
+							$npcName = 'Henas Kenar';
+							$path = $_SERVER['DOCUMENT_ROOT'];
+							$path .= "/includes/npc_link_to_map.inc.php";
+							include($path);
+							echo "' target='_blank'>Henas Kenar</a>";
+						?>
+						</td>
+					</tr>
+					<tr class="quest_emptyRow_afterAction">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Good news Henas! I spoke with Gilata, the Enkidukai who makes the pottery, right? Madame Toda gave me a bouquet just like this one to give to her to impress her, and I asked if she would have dinner with you, and she said yes! Here's another bouquet to give her on your date. Go get her!</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>

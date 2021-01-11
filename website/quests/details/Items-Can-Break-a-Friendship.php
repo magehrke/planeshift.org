@@ -559,7 +559,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Might glyph, 3391 Tria, 20200 XP.</td>
+						<td>Rewards: 1 Might glyph, 1 Vortex glyph[OR], 3391 Tria, 20200 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

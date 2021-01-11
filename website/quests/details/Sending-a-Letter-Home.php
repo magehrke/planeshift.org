@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/Pinayet-has-a-Dented-Shield.php">Pinayet has a Dented Shield</a> quest.</td>
+						<td>Required: <a href="/quests/details/Pinayet-Has-a-Dented-Shield.php">Pinayet Has a Dented Shield</a> quest.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>
