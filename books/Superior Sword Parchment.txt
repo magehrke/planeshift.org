@@ -1,27 +1,27 @@
-Blades Making I 200 Combine Broadsword Blade, Broadsword Handle, into 0 Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Steel Falchion Blade, Sword Handle, into 0 Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Forge Brittle Broadsword Blade into Heated Brittle Broadsword Blade using Forge.
-Blades Making I 200 Forge Brittle Steel Falchion Blade into Heated Brittle Steel Falchion Blade using Forge.
-Blades Making I 200 Forge Broadsword Alpha Blade into Heated Broadsword Alpha Blade using Forge.
-Blades Making I 200 Forge Broadsword Blade into Heated Broadsword Blade using Forge.
-Blades Making I 200 Forge Heated Brittle Broadsword Blade into Super Heated Dull Broadsword Blade using Forge.
-Blades Making I 200 Forge Heated Brittle Steel Falchion Blade into Super Heated Dull Steel Falchion Blade using Forge.
-Blades Making I 200 Forge Heated Broadsword Alpha Blade into Super Heated Broadsword Alpha Blade using Forge.
-Blades Making I 200 Forge Heated Steel Falchion Alpha Blade into Super Heated Steel Falchion Alpha Blade using Forge.
-Blades Making I 200 Forge Steel Falchion Alpha Blade into Heated Steel Falchion Alpha Blade using Forge.
-Blades Making I 200 Forge Super Heated Broadsword Alpha Blade into Red Hot Broadsword Alpha Blade using Forge.
-Blades Making I 200 Forge Super Heated Steel Falchion Alpha Blade into Red Hot Steel Falchion Alpha Blade using Forge.
-Blades Making I 200 Furrow Rough Broadsword Blade into Broadsword Blade using Smith Table with a Furrower.
-Blades Making I 200 Quench Red Hot Broadsword Alpha Blade into Brittle Broadsword Blade using Quench Tank.
-Blades Making I 200 Quench Red Hot Steel Falchion Alpha Blade into Brittle Steel Falchion Blade using Quench Tank.
-Blades Making I 200 Quench Super Heated Dull Broadsword Blade into Dull Broadsword Blade using Quench Tank.
-Blades Making I 200 Quench Super Heated Dull Steel Falchion Blade into Dull Steel Falchion Blade using Quench Tank.
-Blades Making I 200 Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
-Blades Making I 200 Shape 2 Heated Steel Stock into Steel Falchion Alpha Blade using Anvil with a Hammer.
-Blades Making I 200 Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
-Blades Making I 200 Shape 4 Heated Steel Stock into Broadsword Alpha Blade using Anvil with a Hammer.
-Blades Making I 200 Sharpen Dull Broadsword Blade into Rough Broadsword Blade using Sharpening Stone.
-Blades Making I 200 Sharpen Dull Steel Falchion Blade into Steel Falchion Blade using Sharpening Stone.
+Blades Making i 200 Combine Broadsword Blade, Broadsword Handle, into 0 Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Steel Falchion Blade, Sword Handle, into 0 Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Forge Brittle Broadsword Blade into Heated Brittle Broadsword Blade using Forge.
+Blades Making i 200 Forge Brittle Steel Falchion Blade into Heated Brittle Steel Falchion Blade using Forge.
+Blades Making i 200 Forge Broadsword Alpha Blade into Heated Broadsword Alpha Blade using Forge.
+Blades Making i 200 Forge Broadsword Blade into Heated Broadsword Blade using Forge.
+Blades Making i 200 Forge Heated Brittle Broadsword Blade into Super Heated Dull Broadsword Blade using Forge.
+Blades Making i 200 Forge Heated Brittle Steel Falchion Blade into Super Heated Dull Steel Falchion Blade using Forge.
+Blades Making i 200 Forge Heated Broadsword Alpha Blade into Super Heated Broadsword Alpha Blade using Forge.
+Blades Making i 200 Forge Heated Steel Falchion Alpha Blade into Super Heated Steel Falchion Alpha Blade using Forge.
+Blades Making i 200 Forge Steel Falchion Alpha Blade into Heated Steel Falchion Alpha Blade using Forge.
+Blades Making i 200 Forge Super Heated Broadsword Alpha Blade into Red Hot Broadsword Alpha Blade using Forge.
+Blades Making i 200 Forge Super Heated Steel Falchion Alpha Blade into Red Hot Steel Falchion Alpha Blade using Forge.
+Blades Making i 200 Furrow Rough Broadsword Blade into Broadsword Blade using Smith Table with a Furrower.
+Blades Making i 200 Quench Red Hot Broadsword Alpha Blade into Brittle Broadsword Blade using Quench Tank.
+Blades Making i 200 Quench Red Hot Steel Falchion Alpha Blade into Brittle Steel Falchion Blade using Quench Tank.
+Blades Making i 200 Quench Super Heated Dull Broadsword Blade into Dull Broadsword Blade using Quench Tank.
+Blades Making i 200 Quench Super Heated Dull Steel Falchion Blade into Dull Steel Falchion Blade using Quench Tank.
+Blades Making i 200 Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
+Blades Making i 200 Shape 2 Heated Steel Stock into Steel Falchion Alpha Blade using Anvil with a Hammer.
+Blades Making i 200 Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
+Blades Making i 200 Shape 4 Heated Steel Stock into Broadsword Alpha Blade using Anvil with a Hammer.
+Blades Making i 200 Sharpen Dull Broadsword Blade into Rough Broadsword Blade using Sharpening Stone.
+Blades Making i 200 Sharpen Dull Steel Falchion Blade into Steel Falchion Blade using Sharpening Stone.
 Blades Making O 200 Forge Broadsword Beta Blade into Heated Broadsword Beta Blade using Forge.
 Blades Making O 200 Forge Broadsword Delta Blade into Heated Broadsword Delta Blade using Forge.
 Blades Making O 200 Forge Broadsword Handle into Heated Broadsword Handle using Forge.

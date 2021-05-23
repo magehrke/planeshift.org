@@ -1,17 +1,17 @@
-Armor Making I 200 Combine 2 Medium Steel Plate, 2 Large Steel Plate, Chain Mail Torso Armor, into 0 Plate Mail Torso Kit using Smith Table (combine).
-Armor Making I 200 Combine 2 Set of Steel Plate, 2 Small Steel Plate, Chain Mail Gloves, into 0 Plate Mail Gloves Kit using Smith Table (combine).
-Armor Making I 200 Combine 2 Small Steel Plate, 2 Large Steel Plate, Chain Mail Pants, into 0 Plate Mail Pants Kit using Smith Table (combine).
-Armor Making I 200 Combine 2 Small Steel Plate, 2 Medium Steel Plate, Chain Mail Boots, into 0 Plate Mail Boots Kit using Smith Table (combine).
-Armor Making I 200 Combine 4 Medium Steel Plate, Chain Mail Arms Armor, into 0 Plate Mail Arms Kit using Smith Table (combine).
-Armor Making I 200 Rivet Plate Mail Arms Kit into Riveted Plate Mail Arms Kit using Riveter.
-Armor Making I 200 Rivet Plate Mail Boots Kit into Riveted Plate Mail Boots Kit using Riveter.
-Armor Making I 200 Rivet Plate Mail Gloves Kit into Riveted Plate Mail Gloves Kit using Riveter.
-Armor Making I 200 Rivet Plate Mail Pants Kit into Riveted Plate Mail Pants Kit using Riveter.
-Armor Making I 200 Rivet Plate Mail Torso Kit into Riveted Plate Mail Torso Kit using Riveter.
-Armor Making I 200 Shape 2 Heated Steel Ingot into Set of Steel Piece using Anvil with a Hammer.
-Armor Making I 200 Shape 3 Heated Steel Ingot into Small Steel Piece using Anvil with a Hammer.
-Armor Making I 200 Shape 5 Heated Steel Ingot into Medium Steel Piece using Anvil with a Hammer.
-Armor Making I 200 Shape 7 Heated Steel Ingot into Large Steel Piece using Anvil with a Hammer.
+Armor Making i 200 Combine 2 Medium Steel Plate, 2 Large Steel Plate, Chain Mail Torso Armor, into 0 Plate Mail Torso Kit using Smith Table (combine).
+Armor Making i 200 Combine 2 Set of Steel Plate, 2 Small Steel Plate, Chain Mail Gloves, into 0 Plate Mail Gloves Kit using Smith Table (combine).
+Armor Making i 200 Combine 2 Small Steel Plate, 2 Large Steel Plate, Chain Mail Pants, into 0 Plate Mail Pants Kit using Smith Table (combine).
+Armor Making i 200 Combine 2 Small Steel Plate, 2 Medium Steel Plate, Chain Mail Boots, into 0 Plate Mail Boots Kit using Smith Table (combine).
+Armor Making i 200 Combine 4 Medium Steel Plate, Chain Mail Arms Armor, into 0 Plate Mail Arms Kit using Smith Table (combine).
+Armor Making i 200 Rivet Plate Mail Arms Kit into Riveted Plate Mail Arms Kit using Riveter.
+Armor Making i 200 Rivet Plate Mail Boots Kit into Riveted Plate Mail Boots Kit using Riveter.
+Armor Making i 200 Rivet Plate Mail Gloves Kit into Riveted Plate Mail Gloves Kit using Riveter.
+Armor Making i 200 Rivet Plate Mail Pants Kit into Riveted Plate Mail Pants Kit using Riveter.
+Armor Making i 200 Rivet Plate Mail Torso Kit into Riveted Plate Mail Torso Kit using Riveter.
+Armor Making i 200 Shape 2 Heated Steel Ingot into Set of Steel Piece using Anvil with a Hammer.
+Armor Making i 200 Shape 3 Heated Steel Ingot into Small Steel Piece using Anvil with a Hammer.
+Armor Making i 200 Shape 5 Heated Steel Ingot into Medium Steel Piece using Anvil with a Hammer.
+Armor Making i 200 Shape 7 Heated Steel Ingot into Large Steel Piece using Anvil with a Hammer.
 Armor Making O 200 Forge Heated Large Steel Piece into Super Heated Large Steel Piece using Forge.
 Armor Making O 200 Forge Heated Large Steel Plate into Super Heated Large Steel Plate using Forge.
 Armor Making O 200 Forge Heated Medium Steel Piece into Super Heated Medium Steel Piece using Forge.

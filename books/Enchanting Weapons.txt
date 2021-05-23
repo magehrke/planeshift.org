@@ -1,185 +1,185 @@
 Blacksmith P 0 Shape1 Molten Steel into Standard Gem Socket using Anvil with a Hammer.
 Blacksmith P 100 Shape 3 Molten Steel into Perfect Gem Socket using Anvil with a Hammer.
 Blacksmith P 50 Shape 2 Molten Steel into Superior Gem Socket using Anvil with a Hammer.
-Blades Making I 200 Combine Battle Axe Blade, Wooden Axe Handle, into 0 Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Broadsword Blade, Broadsword Handle, into 0 Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Broadsword Handle, Platinum Steel Broadsword Blade, into 0 Platinum Steel Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Claymore Blade, Sword Handle, into 0 Claymore Kit using Smith Table (combine).
-Blades Making I 200 Combine Compound Bow Staff, Steel String, into 0 Compound Bow Kit using Smith Table (combine).
-Blades Making I 200 Combine Dagger Blade, Leather Knife Handle, into 0 Dagger Kit using Smith Table (combine).
-Blades Making I 200 Combine Knife Blade, Leather Knife Handle, into 0 Knife Kit using Smith Table (combine).
-Blades Making I 200 Combine Leather Knife Handle, Platinum Steel Dagger Blade, into 0 Platinum Steel Dagger Kit using Smith Table (combine).
-Blades Making I 200 Combine Leather Knife Handle, Platinum Steel Knife Blade, into 0 Platinum Steel Knife Kit using Smith Table (combine).
-Blades Making I 200 Combine Longsword Blade, Sword Handle, into 0 Longsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Battle Axe Kit, into 1 Perfect Enchanted Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Battle Hammer Assembly, into 1 Perfect Enchanted Battle Hammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Battle Pick Assembly, into 1 Perfect Enchanted Battle Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Broadsword Kit, into 1 Perfect Enchanted Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Claymore Kit, into 1 Perfect Enchanted Claymore Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Club Assembly, into 1 Perfect Enchanted Club Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Compound Bow Kit, into 1 Perfect Enchanted Compound Bow Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Dagger Kit, into 1 Perfect Enchanted Dagger Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Flail Mace Assembly, into 1 Perfect Enchanted Flail Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Flanged Mace Assembly, into 1 Perfect Enchanted Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Knife Kit, into 1 Perfect Enchanted Knife Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Longsword Kit, into 1 Perfect Enchanted Longsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Mace Assembly, into 1 Perfect Enchanted Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Morning Star Assembly, into 1 Perfect Enchanted Morning Star Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Battle Axe Kit, into 1 Perfect Enchanted Platinum Steel Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Battle Hammer Assembly, into 1 Perfect Enchanted Platinum Steel Battle Hammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Battle Pick Assembly, into 1 Perfect Enchanted Platinum Steel Battle Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Broadsword Kit, into 1 Perfect Enchanted Platinum Steel Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Claymore Kit, into 1 Perfect Enchanted Platinum Steel Claymore Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Dagger Kit, into 1 Perfect Enchanted Platinum Steel Dagger Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Falchion Kit, into 1 Perfect Enchanted Platinum Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Flanged Mace Assembly, into 1 Perfect Enchanted Platinum Steel Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Knife Kit, into 1 Perfect Enchanted Platinum Steel Knife Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Longsword Kit, into 1 Perfect Enchanted Platinum Steel Longsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Mace Assembly, into 1 Perfect Enchanted Platinum Steel Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Morning Star Assembly, into 1 Perfect Enchanted Platinum Steel Morning Star Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Reinforced Axe Kit, into 1 Perfect Enchanted Platinum Steel Reinforced Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Reinforced Battle Axe Kit, into 1 Perfect Enchanted Platinum Steel Reinforced Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Sabre Kit, into 1 Perfect Enchanted Platinum Steel Sabre Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Shortsword Kit, into 1 Perfect Enchanted Platinum Steel Shortsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Small Battle Axe Kit, into 1 Perfect Enchanted Platinum Steel Small Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Spiked Warhammer Assembly, into 1 Perfect Enchanted Platinum Steel Spiked Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel War Flanged Mace Assembly, into 1 Perfect Enchanted Platinum Steel War Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel Warhammer Assembly, into 1 Perfect Enchanted Platinum Steel Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Platinum Steel War Pick Assembly, into 1 Perfect Enchanted Platinum Steel War Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Reinforced Axe Kit, into 1 Perfect Enchanted Reinforced Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Reinforced Battle Axe Kit, into 1 Perfect Enchanted Reinforced Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Sabre Kit, into 1 Perfect Enchanted Sabre Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Shortsword Kit, into 1 Perfect Enchanted Shortsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Small Battle Axe Kit, into 1 Perfect Enchanted Small Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Spiked Warhammer Assembly, into 1 Perfect Enchanted Spiked Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Steel Falchion Kit, into 1 Perfect Enchanted Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Unbalanced Stonehammer Longbow, into 1 Perfect Enchanted Unbalanced Stonehammer Longbow using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Unbalanced Stonehammer Shortbow, into 1 Perfect Enchanted Unbalanced Stonehammer Shortbow using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Unbalanced Ynnwn Longbow, into 1 Perfect Enchanted Unbalanced Ynnwn Longbow using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Unbalanced Ynnwn Shortbow, into 1 Perfect Enchanted Unbalanced Ynnwn Shortbow using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, War Club Assembly, into 1 Perfect Enchanted War Club Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, War Flanged Mace Assembly, into 1 Perfect Enchanted War Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, Warhammer Assembly, into 1 Perfect Enchanted Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Perfect Gem Socket, War Pick Assembly, into 1 Perfect Enchanted War Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Platinum Steel Longsword Blade, Sword Handle, into 0 Platinum Steel Longsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Reinforced Axe Blade, Wooden Axe Handle, into 0 Reinforced Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Reinforced Battle Axe Blade, Wooden Axe Handle, into 0 Reinforced Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Sabre Blade, Sword Handle, into 0 Sabre Kit using Smith Table (combine).
-Blades Making I 200 Combine Shortsword Blade, Sword Handle, into 0 Shortsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Small Battle Axe Blade, Small Wooden Axe Handle, into 0 Small Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Small Wooden Axe Handle, Platinum Steel Small Battle Axe Blade, into 0 Platinum Steel Small Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handle using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Battle Axe Kit, into 1 Enchanted Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Battle Hammer Assembly, into 1 Enchanted Battle Hammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Battle Pick Assembly, into 1 Enchanted Battle Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Broadsword Kit, into 1 Enchanted Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Claymore Kit, into 1 Enchanted Claymore Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Club Assembly, into 1 Enchanted Club Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Compound Bow Kit, into 1 Enchanted Compound Bow Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Dagger Kit, into 1 Enchanted Dagger Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Flail Mace Assembly, into 1 Enchanted Flail Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Flanged Mace Assembly, into 1 Enchanted Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Knife Kit, into 1 Enchanted Knife Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Longsword Kit, into 1 Enchanted Longsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Mace Assembly, into 1 Enchanted Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Morning Star Assembly, into 1 Enchanted Morning Star Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Battle Axe Kit, into 1 Enchanted Platinum Steel Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Battle Hammer Assembly, into 1 Enchanted Platinum Steel Battle Hammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Battle Pick Assembly, into 1 Enchanted Platinum Steel Battle Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Broadsword Kit, into 1 Enchanted Platinum Steel Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Claymore Kit, into 1 Enchanted Platinum Steel Claymore Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Dagger Kit, into 1 Enchanted Platinum Steel Dagger Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Falchion Kit, into 1 Enchanted Platinum Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Flanged Mace Assembly, into 1 Enchanted Platinum Steel Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Knife Kit, into 1 Enchanted Platinum Steel Knife Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Longsword Kit, into 1 Enchanted Platinum Steel Longsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Mace Assembly, into 1 Enchanted Platinum Steel Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Morning Star Assembly, into 1 Enchanted Platinum Steel Morning Star Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Reinforced Axe Kit, into 1 Enchanted Platinum Steel Reinforced Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Reinforced Battle Axe Kit, into 1 Enchanted Platinum Steel Reinforced Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Sabre Kit, into 1 Enchanted Platinum Steel Sabre Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Shortsword Kit, into 1 Enchanted Platinum Steel Shortsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Small Battle Axe Kit, into 1 Enchanted Platinum Steel Small Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Spiked Warhammer Assembly, into 1 Enchanted Platinum Steel Spiked Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel War Flanged Mace Assembly, into 1 Enchanted Platinum Steel War Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel Warhammer Assembly, into 1 Enchanted Platinum Steel Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Platinum Steel War Pick Assembly, into 1 Enchanted Platinum Steel War Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Reinforced Axe Kit, into 1 Enchanted Reinforced Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Reinforced Battle Axe Kit, into 1 Enchanted Reinforced Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Sabre Kit, into 1 Enchanted Sabre Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Shortsword Kit, into 1 Enchanted Shortsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Small Battle Axe Kit, into 1 Enchanted Small Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Spiked Warhammer Assembly, into 1 Enchanted Spiked Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Steel Falchion Kit, into 1 Enchanted Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Unbalanced Stonehammer Longbow, into 1 Enchanted Unbalanced Stonehammer Longbow using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Unbalanced Stonehammer Shortbow, into 1 Enchanted Unbalanced Stonehammer Shortbow using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Unbalanced Ynnwn Longbow, into 1 Enchanted Unbalanced Ynnwn Longbow using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Unbalanced Ynnwn Shortbow, into 1 Enchanted Unbalanced Ynnwn Shortbow using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, War Club Assembly, into 1 Enchanted War Club Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, War Flanged Mace Assembly, into 1 Enchanted War Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, Warhammer Assembly, into 1 Enchanted Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Standard Gem Socket, War Pick Assembly, into 1 Enchanted War Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Steel Falchion Blade, Sword Handle, into 0 Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Battle Axe Kit, into 1 Sup. Enchanted Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Battle Hammer Assembly, into 1 Sup. Enchanted Battle Hammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Battle Pick Assembly, into 1 Sup. Enchanted Battle Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Broadsword Kit, into 1 Sup. Enchanted Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Claymore Kit, into 1 Sup. Enchanted Claymore Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Club Assembly, into 1 Sup. Enchanted Club Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Compound Bow Kit, into 1 Sup. Enchanted Compound Bow Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Dagger Kit, into 1 Sup. Enchanted Dagger Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Flail Mace Assembly, into 1 Sup. Enchanted Flail Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Flanged Mace Assembly, into 1 Sup. Enchanted Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Knife Kit, into 1 Sup. Enchanted Knife Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Longsword Kit, into 1 Sup. Enchanted Longsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Mace Assembly, into 1 Sup. Enchanted Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Morning Star Assembly, into 1 Sup. Enchanted Morning Star Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Battle Axe Kit, into 1 Sup. Enchanted Platinum Steel Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Battle Hammer Assembly, into 1 Sup. Enchanted Platinum Steel Battle Hammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Battle Pick Assembly, into 1 Sup. Enchanted Platinum Steel Battle Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Broadsword Kit, into 1 Sup. Enchanted Platinum Steel Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Claymore Kit, into 1 Sup. Enchanted Platinum Steel Claymore Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Dagger Kit, into 1 Sup. Enchanted Platinum Steel Dagger Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Falchion Kit, into 1 Sup. Enchanted Platinum Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Flanged Mace Assembly, into 1 Sup. Enchanted Platinum Steel Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Knife Kit, into 1 Sup. Enchanted Platinum Steel Knife Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Longsword Kit, into 1 Sup. Enchanted Platinum Steel Longsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Mace Assembly, into 1 Sup. Enchanted Platinum Steel Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Morning Star Assembly, into 1 Sup. Enchanted Platinum Steel Morning Star Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Reinforced Axe Kit, into 1 Sup. Enchanted Platinum Steel Reinforced Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Reinforced Battle Axe Kit, into 1 Sup. Enchanted Platinum Steel Reinforced Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Sabre Kit, into 1 Sup. Enchanted Platinum Steel Sabre Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Shortsword Kit, into 1 Sup. Enchanted Platinum Steel Shortsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Small Battle Axe Kit, into 1 Sup. Enchanted Platinum Steel Small Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Spiked Warhammer Assembly, into 1 Sup. Enchanted Platinum Steel Spiked Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel War Flanged Mace Assembly, into 1 Sup. Enchanted Platinum Steel War Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel Warhammer Assembly, into 1 Sup. Enchanted Platinum Steel Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Platinum Steel War Pick Assembly, into 1 Sup. Enchanted Platinum Steel War Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Reinforced Axe Kit, into 1 Sup. Enchanted Reinforced Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Reinforced Battle Axe Kit, into 1 Sup. Enchanted Reinforced Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Sabre Kit, into 1 Sup. Enchanted Sabre Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Shortsword Kit, into 1 Sup. Enchanted Shortsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Small Battle Axe Kit, into 1 Sup. Enchanted Small Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Spiked Warhammer Assembly, into 1 Sup. Enchanted Spiked Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Steel Falchion Kit, into 1 Sup. Enchanted Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Unbalanced Stonehammer Longbow, into 1 Sup. Enchanted Unbalanced Stonehammer Longbow using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Unbalanced Stonehammer Shortbow, into 1 Sup. Enchanted Unbalanced Stonehammer Shortbow using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Unbalanced Ynnwn Longbow, into 1 Sup. Enchanted Unbalanced Ynnwn Longbow using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Unbalanced Ynnwn Shortbow, into 1 Sup. Enchanted Unbalanced Ynnwn Shortbow using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, War Club Assembly, into 1 Sup. Enchanted War Club Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, War Flanged Mace Assembly, into 1 Sup. Enchanted War Flanged Mace Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, Warhammer Assembly, into 1 Sup. Enchanted Warhammer Assembly using Smith Table (combine).
-Blades Making I 200 Combine Superior Gem Socket, War Pick Assembly, into 1 Sup. Enchanted War Pick Assembly using Smith Table (combine).
-Blades Making I 200 Combine Sword Handle, Platinum Steel Claymore Blade, into 0 Platinum Steel Claymore Kit using Smith Table (combine).
-Blades Making I 200 Combine Sword Handle, Platinum Steel Falchion Blade, into 0 Platinum Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Combine Sword Handle, Platinum Steel Sabre Blade, into 0 Platinum Steel Sabre Kit using Smith Table (combine).
-Blades Making I 200 Combine Sword Handle, Platinum Steel Shortsword Blade, into 0 Platinum Steel Shortsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Unstrung Ynnwn Longbow, Tendon String, into 0 Unbalanced Ynnwn Longbow using Smith Table (combine).
-Blades Making I 200 Combine Unstrung Ynnwn Shortbow, Tendon String, into 0 Unbalanced Ynnwn Shortbow using Smith Table (combine).
-Blades Making I 200 Combine Wooden Axe Handle, Platinum Steel Battle Axe Blade, into 0 Platinum Steel Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Wooden Axe Handle, Platinum Steel Reinforced Axe Blade, into 0 Platinum Steel Reinforced Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Wooden Axe Handle, Platinum Steel Reinforced Battle Axe Blade, into 0 Platinum Steel Reinforced Battle Axe Kit using Smith Table (combine).
-Blades Making I 200 Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle using Smith Table (combine).
+Blades Making i 200 Combine Battle Axe Blade, Wooden Axe Handle, into 0 Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Broadsword Blade, Broadsword Handle, into 0 Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Broadsword Handle, Platinum Steel Broadsword Blade, into 0 Platinum Steel Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Claymore Blade, Sword Handle, into 0 Claymore Kit using Smith Table (combine).
+Blades Making i 200 Combine Compound Bow Staff, Steel String, into 0 Compound Bow Kit using Smith Table (combine).
+Blades Making i 200 Combine Dagger Blade, Leather Knife Handle, into 0 Dagger Kit using Smith Table (combine).
+Blades Making i 200 Combine Knife Blade, Leather Knife Handle, into 0 Knife Kit using Smith Table (combine).
+Blades Making i 200 Combine Leather Knife Handle, Platinum Steel Dagger Blade, into 0 Platinum Steel Dagger Kit using Smith Table (combine).
+Blades Making i 200 Combine Leather Knife Handle, Platinum Steel Knife Blade, into 0 Platinum Steel Knife Kit using Smith Table (combine).
+Blades Making i 200 Combine Longsword Blade, Sword Handle, into 0 Longsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Battle Axe Kit, into 1 Perfect Enchanted Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Battle Hammer Assembly, into 1 Perfect Enchanted Battle Hammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Battle Pick Assembly, into 1 Perfect Enchanted Battle Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Broadsword Kit, into 1 Perfect Enchanted Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Claymore Kit, into 1 Perfect Enchanted Claymore Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Club Assembly, into 1 Perfect Enchanted Club Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Compound Bow Kit, into 1 Perfect Enchanted Compound Bow Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Dagger Kit, into 1 Perfect Enchanted Dagger Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Flail Mace Assembly, into 1 Perfect Enchanted Flail Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Flanged Mace Assembly, into 1 Perfect Enchanted Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Knife Kit, into 1 Perfect Enchanted Knife Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Longsword Kit, into 1 Perfect Enchanted Longsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Mace Assembly, into 1 Perfect Enchanted Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Morning Star Assembly, into 1 Perfect Enchanted Morning Star Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Battle Axe Kit, into 1 Perfect Enchanted Platinum Steel Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Battle Hammer Assembly, into 1 Perfect Enchanted Platinum Steel Battle Hammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Battle Pick Assembly, into 1 Perfect Enchanted Platinum Steel Battle Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Broadsword Kit, into 1 Perfect Enchanted Platinum Steel Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Claymore Kit, into 1 Perfect Enchanted Platinum Steel Claymore Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Dagger Kit, into 1 Perfect Enchanted Platinum Steel Dagger Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Falchion Kit, into 1 Perfect Enchanted Platinum Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Flanged Mace Assembly, into 1 Perfect Enchanted Platinum Steel Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Knife Kit, into 1 Perfect Enchanted Platinum Steel Knife Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Longsword Kit, into 1 Perfect Enchanted Platinum Steel Longsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Mace Assembly, into 1 Perfect Enchanted Platinum Steel Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Morning Star Assembly, into 1 Perfect Enchanted Platinum Steel Morning Star Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Reinforced Axe Kit, into 1 Perfect Enchanted Platinum Steel Reinforced Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Reinforced Battle Axe Kit, into 1 Perfect Enchanted Platinum Steel Reinforced Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Sabre Kit, into 1 Perfect Enchanted Platinum Steel Sabre Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Shortsword Kit, into 1 Perfect Enchanted Platinum Steel Shortsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Small Battle Axe Kit, into 1 Perfect Enchanted Platinum Steel Small Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Spiked Warhammer Assembly, into 1 Perfect Enchanted Platinum Steel Spiked Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel War Flanged Mace Assembly, into 1 Perfect Enchanted Platinum Steel War Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel Warhammer Assembly, into 1 Perfect Enchanted Platinum Steel Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Platinum Steel War Pick Assembly, into 1 Perfect Enchanted Platinum Steel War Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Reinforced Axe Kit, into 1 Perfect Enchanted Reinforced Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Reinforced Battle Axe Kit, into 1 Perfect Enchanted Reinforced Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Sabre Kit, into 1 Perfect Enchanted Sabre Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Shortsword Kit, into 1 Perfect Enchanted Shortsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Small Battle Axe Kit, into 1 Perfect Enchanted Small Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Spiked Warhammer Assembly, into 1 Perfect Enchanted Spiked Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Steel Falchion Kit, into 1 Perfect Enchanted Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Unbalanced Stonehammer Longbow, into 1 Perfect Enchanted Unbalanced Stonehammer Longbow using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Unbalanced Stonehammer Shortbow, into 1 Perfect Enchanted Unbalanced Stonehammer Shortbow using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Unbalanced Ynnwn Longbow, into 1 Perfect Enchanted Unbalanced Ynnwn Longbow using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Unbalanced Ynnwn Shortbow, into 1 Perfect Enchanted Unbalanced Ynnwn Shortbow using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, War Club Assembly, into 1 Perfect Enchanted War Club Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, War Flanged Mace Assembly, into 1 Perfect Enchanted War Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, Warhammer Assembly, into 1 Perfect Enchanted Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Perfect Gem Socket, War Pick Assembly, into 1 Perfect Enchanted War Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Platinum Steel Longsword Blade, Sword Handle, into 0 Platinum Steel Longsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Reinforced Axe Blade, Wooden Axe Handle, into 0 Reinforced Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Reinforced Battle Axe Blade, Wooden Axe Handle, into 0 Reinforced Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Sabre Blade, Sword Handle, into 0 Sabre Kit using Smith Table (combine).
+Blades Making i 200 Combine Shortsword Blade, Sword Handle, into 0 Shortsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Small Battle Axe Blade, Small Wooden Axe Handle, into 0 Small Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Small Wooden Axe Handle, Platinum Steel Small Battle Axe Blade, into 0 Platinum Steel Small Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Small Wooden Axe Handle Shape, 2 Leather String, into 0 Small Wooden Axe Handle using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Battle Axe Kit, into 1 Enchanted Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Battle Hammer Assembly, into 1 Enchanted Battle Hammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Battle Pick Assembly, into 1 Enchanted Battle Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Broadsword Kit, into 1 Enchanted Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Claymore Kit, into 1 Enchanted Claymore Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Club Assembly, into 1 Enchanted Club Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Compound Bow Kit, into 1 Enchanted Compound Bow Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Dagger Kit, into 1 Enchanted Dagger Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Flail Mace Assembly, into 1 Enchanted Flail Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Flanged Mace Assembly, into 1 Enchanted Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Knife Kit, into 1 Enchanted Knife Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Longsword Kit, into 1 Enchanted Longsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Mace Assembly, into 1 Enchanted Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Morning Star Assembly, into 1 Enchanted Morning Star Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Battle Axe Kit, into 1 Enchanted Platinum Steel Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Battle Hammer Assembly, into 1 Enchanted Platinum Steel Battle Hammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Battle Pick Assembly, into 1 Enchanted Platinum Steel Battle Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Broadsword Kit, into 1 Enchanted Platinum Steel Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Claymore Kit, into 1 Enchanted Platinum Steel Claymore Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Dagger Kit, into 1 Enchanted Platinum Steel Dagger Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Falchion Kit, into 1 Enchanted Platinum Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Flanged Mace Assembly, into 1 Enchanted Platinum Steel Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Knife Kit, into 1 Enchanted Platinum Steel Knife Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Longsword Kit, into 1 Enchanted Platinum Steel Longsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Mace Assembly, into 1 Enchanted Platinum Steel Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Morning Star Assembly, into 1 Enchanted Platinum Steel Morning Star Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Reinforced Axe Kit, into 1 Enchanted Platinum Steel Reinforced Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Reinforced Battle Axe Kit, into 1 Enchanted Platinum Steel Reinforced Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Sabre Kit, into 1 Enchanted Platinum Steel Sabre Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Shortsword Kit, into 1 Enchanted Platinum Steel Shortsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Small Battle Axe Kit, into 1 Enchanted Platinum Steel Small Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Spiked Warhammer Assembly, into 1 Enchanted Platinum Steel Spiked Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel War Flanged Mace Assembly, into 1 Enchanted Platinum Steel War Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel Warhammer Assembly, into 1 Enchanted Platinum Steel Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Platinum Steel War Pick Assembly, into 1 Enchanted Platinum Steel War Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Reinforced Axe Kit, into 1 Enchanted Reinforced Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Reinforced Battle Axe Kit, into 1 Enchanted Reinforced Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Sabre Kit, into 1 Enchanted Sabre Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Shortsword Kit, into 1 Enchanted Shortsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Small Battle Axe Kit, into 1 Enchanted Small Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Spiked Warhammer Assembly, into 1 Enchanted Spiked Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Steel Falchion Kit, into 1 Enchanted Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Unbalanced Stonehammer Longbow, into 1 Enchanted Unbalanced Stonehammer Longbow using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Unbalanced Stonehammer Shortbow, into 1 Enchanted Unbalanced Stonehammer Shortbow using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Unbalanced Ynnwn Longbow, into 1 Enchanted Unbalanced Ynnwn Longbow using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Unbalanced Ynnwn Shortbow, into 1 Enchanted Unbalanced Ynnwn Shortbow using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, War Club Assembly, into 1 Enchanted War Club Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, War Flanged Mace Assembly, into 1 Enchanted War Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, Warhammer Assembly, into 1 Enchanted Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Standard Gem Socket, War Pick Assembly, into 1 Enchanted War Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Steel Falchion Blade, Sword Handle, into 0 Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Battle Axe Kit, into 1 Sup. Enchanted Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Battle Hammer Assembly, into 1 Sup. Enchanted Battle Hammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Battle Pick Assembly, into 1 Sup. Enchanted Battle Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Broadsword Kit, into 1 Sup. Enchanted Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Claymore Kit, into 1 Sup. Enchanted Claymore Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Club Assembly, into 1 Sup. Enchanted Club Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Compound Bow Kit, into 1 Sup. Enchanted Compound Bow Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Dagger Kit, into 1 Sup. Enchanted Dagger Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Flail Mace Assembly, into 1 Sup. Enchanted Flail Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Flanged Mace Assembly, into 1 Sup. Enchanted Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Knife Kit, into 1 Sup. Enchanted Knife Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Longsword Kit, into 1 Sup. Enchanted Longsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Mace Assembly, into 1 Sup. Enchanted Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Morning Star Assembly, into 1 Sup. Enchanted Morning Star Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Battle Axe Kit, into 1 Sup. Enchanted Platinum Steel Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Battle Hammer Assembly, into 1 Sup. Enchanted Platinum Steel Battle Hammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Battle Pick Assembly, into 1 Sup. Enchanted Platinum Steel Battle Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Broadsword Kit, into 1 Sup. Enchanted Platinum Steel Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Claymore Kit, into 1 Sup. Enchanted Platinum Steel Claymore Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Dagger Kit, into 1 Sup. Enchanted Platinum Steel Dagger Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Falchion Kit, into 1 Sup. Enchanted Platinum Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Flanged Mace Assembly, into 1 Sup. Enchanted Platinum Steel Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Knife Kit, into 1 Sup. Enchanted Platinum Steel Knife Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Longsword Kit, into 1 Sup. Enchanted Platinum Steel Longsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Mace Assembly, into 1 Sup. Enchanted Platinum Steel Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Morning Star Assembly, into 1 Sup. Enchanted Platinum Steel Morning Star Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Reinforced Axe Kit, into 1 Sup. Enchanted Platinum Steel Reinforced Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Reinforced Battle Axe Kit, into 1 Sup. Enchanted Platinum Steel Reinforced Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Sabre Kit, into 1 Sup. Enchanted Platinum Steel Sabre Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Shortsword Kit, into 1 Sup. Enchanted Platinum Steel Shortsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Small Battle Axe Kit, into 1 Sup. Enchanted Platinum Steel Small Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Spiked Warhammer Assembly, into 1 Sup. Enchanted Platinum Steel Spiked Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel War Flanged Mace Assembly, into 1 Sup. Enchanted Platinum Steel War Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel Warhammer Assembly, into 1 Sup. Enchanted Platinum Steel Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Platinum Steel War Pick Assembly, into 1 Sup. Enchanted Platinum Steel War Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Reinforced Axe Kit, into 1 Sup. Enchanted Reinforced Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Reinforced Battle Axe Kit, into 1 Sup. Enchanted Reinforced Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Sabre Kit, into 1 Sup. Enchanted Sabre Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Shortsword Kit, into 1 Sup. Enchanted Shortsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Small Battle Axe Kit, into 1 Sup. Enchanted Small Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Spiked Warhammer Assembly, into 1 Sup. Enchanted Spiked Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Steel Falchion Kit, into 1 Sup. Enchanted Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Unbalanced Stonehammer Longbow, into 1 Sup. Enchanted Unbalanced Stonehammer Longbow using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Unbalanced Stonehammer Shortbow, into 1 Sup. Enchanted Unbalanced Stonehammer Shortbow using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Unbalanced Ynnwn Longbow, into 1 Sup. Enchanted Unbalanced Ynnwn Longbow using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Unbalanced Ynnwn Shortbow, into 1 Sup. Enchanted Unbalanced Ynnwn Shortbow using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, War Club Assembly, into 1 Sup. Enchanted War Club Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, War Flanged Mace Assembly, into 1 Sup. Enchanted War Flanged Mace Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, Warhammer Assembly, into 1 Sup. Enchanted Warhammer Assembly using Smith Table (combine).
+Blades Making i 200 Combine Superior Gem Socket, War Pick Assembly, into 1 Sup. Enchanted War Pick Assembly using Smith Table (combine).
+Blades Making i 200 Combine Sword Handle, Platinum Steel Claymore Blade, into 0 Platinum Steel Claymore Kit using Smith Table (combine).
+Blades Making i 200 Combine Sword Handle, Platinum Steel Falchion Blade, into 0 Platinum Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Combine Sword Handle, Platinum Steel Sabre Blade, into 0 Platinum Steel Sabre Kit using Smith Table (combine).
+Blades Making i 200 Combine Sword Handle, Platinum Steel Shortsword Blade, into 0 Platinum Steel Shortsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Unstrung Ynnwn Longbow, Tendon String, into 0 Unbalanced Ynnwn Longbow using Smith Table (combine).
+Blades Making i 200 Combine Unstrung Ynnwn Shortbow, Tendon String, into 0 Unbalanced Ynnwn Shortbow using Smith Table (combine).
+Blades Making i 200 Combine Wooden Axe Handle, Platinum Steel Battle Axe Blade, into 0 Platinum Steel Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Wooden Axe Handle, Platinum Steel Reinforced Axe Blade, into 0 Platinum Steel Reinforced Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Wooden Axe Handle, Platinum Steel Reinforced Battle Axe Blade, into 0 Platinum Steel Reinforced Battle Axe Kit using Smith Table (combine).
+Blades Making i 200 Combine Wooden Axe Handle Shape, 4 Leather String, into 0 Wooden Axe Handle using Smith Table (combine).
 Blades Making P 200 Set Enchanted Battle Axe Kit into Enchanted Battle Axe using Smith Table with a Enchanted Ruby.
 Blades Making P 200 Set Enchanted Battle Hammer Assembly into Enchanted Battle Hammer using Smith Table with a Enchanted Ruby.
 Blades Making P 200 Set Enchanted Battle Pick Assembly into Enchanted Battle Pick using Smith Table with a Enchanted Ruby.
@@ -380,46 +380,46 @@ Blades Making P 200 Set Sup. Enchanted Warhammer Assembly into Enchanted Warhamm
 Blades Making P 200 Set Sup. Enchanted Warhammer Assembly into Enchanted Warhammer using Smith Table with a Enchanted Sapphire.
 Blades Making P 200 Set Sup. Enchanted War Pick Assembly into Enchanted War Pick using Smith Table with a Enchanted Emerald.
 Blades Making P 200 Set Sup. Enchanted War Pick Assembly into Enchanted War Pick using Smith Table with a Enchanted Sapphire.
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Dermorian Composite Bow, into 1 Perfect Enchanted Unbalanced Dermorian Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Dermorian Hunting Bow, into 1 Perfect Enchanted Unbalanced Dermorian Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Dermorian Longbow, into 1 Perfect Enchanted Unbalanced Dermorian Longbow using Smith Table (combine).
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Dermorian Shortbow, into 1 Perfect Enchanted Unbalanced Dermorian Shortbow using Smith Table (combine).
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Enkidukai Composite Bow, into 1 Perfect Enchanted Unbalanced Enkidukai Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Enkidukai Hunting Bow, into 1 Perfect Enchanted Unbalanced Enkidukai Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Enkidukai Longbow, into 1 Perfect Enchanted Unbalanced Enkidukai Longbow using Smith Table (combine).
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Enkidukai Shortbow, into 1 Perfect Enchanted Unbalanced Enkidukai Shortbow using Smith Table (combine).
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Ynnwn Composite Bow, into 1 Perfect Enchanted Unbalanced Ynnwn Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Perfect Gem Socket, Unbalanced Ynnwn Hunting Bow, into 1 Perfect Enchanted Unbalanced Ynnwn Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Dermorian Composite Bow, into 1 Enchanted Unbalanced Dermorian Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Dermorian Hunting Bow, into 1 Enchanted Unbalanced Dermorian Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Dermorian Longbow, into 1 Enchanted Unbalanced Dermorian Longbow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Dermorian Shortbow, into 1 Enchanted Unbalanced Dermorian Shortbow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Enkidukai Composite Bow, into 1 Enchanted Unbalanced Enkidukai Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Enkidukai Hunting Bow, into 1 Enchanted Unbalanced Enkidukai Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Enkidukai Longbow, into 1 Enchanted Unbalanced Enkidukai Longbow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Enkidukai Shortbow, into 1 Enchanted Unbalanced Enkidukai Shortbow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Ynnwn Composite Bow, into 1 Enchanted Unbalanced Ynnwn Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Standard Gem Socket, Unbalanced Ynnwn Hunting Bow, into 1 Enchanted Unbalanced Ynnwn Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Dermorian Composite Bow, into 1 Sup. Enchanted Unbalanced Dermorian Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Dermorian Hunting Bow, into 1 Sup. Enchanted Unbalanced Dermorian Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Dermorian Longbow, into 1 Sup. Enchanted Unbalanced Dermorian Longbow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Dermorian Shortbow, into 1 Sup. Enchanted Unbalanced Dermorian Shortbow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Enkidukai Composite Bow, into 1 Sup. Enchanted Unbalanced Enkidukai Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Enkidukai Hunting Bow, into 1 Sup. Enchanted Unbalanced Enkidukai Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Enkidukai Longbow, into 1 Sup. Enchanted Unbalanced Enkidukai Longbow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Enkidukai Shortbow, into 1 Sup. Enchanted Unbalanced Enkidukai Shortbow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Ynnwn Composite Bow, into 1 Sup. Enchanted Unbalanced Ynnwn Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Superior Gem Socket, Unbalanced Ynnwn Hunting Bow, into 1 Sup. Enchanted Unbalanced Ynnwn Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Dermorian Composite Bow, Plant String, into 0 Unbalanced Dermorian Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Dermorian Hunting Bow, Plant String, into 0 Unbalanced Dermorian Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Dermorian Longbow, Plant String, into 0 Unbalanced Dermorian Longbow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Dermorian Shortbow, Plant String, into 0 Unbalanced Dermorian Shortbow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Enkidukai Composite Bow, Tendon String, into 0 Unbalanced Enkidukai Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Enkidukai Hunting Bow, Tendon String, into 0 Unbalanced Enkidukai Hunting Bow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Enkidukai Longbow, Tendon String, into 0 Unbalanced Enkidukai Longbow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Enkidukai Shortbow, Tendon String, into 0 Unbalanced Enkidukai Shortbow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Ynnwn Composite Bow, Tendon String, into 0 Unbalanced Ynnwn Composite Bow using Smith Table (combine).
-Bow Making I 200 Combine Unstrung Ynnwn Hunting Bow, Tendon String, into 0 Unbalanced Ynnwn Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Dermorian Composite Bow, into 1 Perfect Enchanted Unbalanced Dermorian Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Dermorian Hunting Bow, into 1 Perfect Enchanted Unbalanced Dermorian Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Dermorian Longbow, into 1 Perfect Enchanted Unbalanced Dermorian Longbow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Dermorian Shortbow, into 1 Perfect Enchanted Unbalanced Dermorian Shortbow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Enkidukai Composite Bow, into 1 Perfect Enchanted Unbalanced Enkidukai Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Enkidukai Hunting Bow, into 1 Perfect Enchanted Unbalanced Enkidukai Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Enkidukai Longbow, into 1 Perfect Enchanted Unbalanced Enkidukai Longbow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Enkidukai Shortbow, into 1 Perfect Enchanted Unbalanced Enkidukai Shortbow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Ynnwn Composite Bow, into 1 Perfect Enchanted Unbalanced Ynnwn Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Perfect Gem Socket, Unbalanced Ynnwn Hunting Bow, into 1 Perfect Enchanted Unbalanced Ynnwn Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Dermorian Composite Bow, into 1 Enchanted Unbalanced Dermorian Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Dermorian Hunting Bow, into 1 Enchanted Unbalanced Dermorian Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Dermorian Longbow, into 1 Enchanted Unbalanced Dermorian Longbow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Dermorian Shortbow, into 1 Enchanted Unbalanced Dermorian Shortbow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Enkidukai Composite Bow, into 1 Enchanted Unbalanced Enkidukai Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Enkidukai Hunting Bow, into 1 Enchanted Unbalanced Enkidukai Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Enkidukai Longbow, into 1 Enchanted Unbalanced Enkidukai Longbow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Enkidukai Shortbow, into 1 Enchanted Unbalanced Enkidukai Shortbow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Ynnwn Composite Bow, into 1 Enchanted Unbalanced Ynnwn Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Standard Gem Socket, Unbalanced Ynnwn Hunting Bow, into 1 Enchanted Unbalanced Ynnwn Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Dermorian Composite Bow, into 1 Sup. Enchanted Unbalanced Dermorian Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Dermorian Hunting Bow, into 1 Sup. Enchanted Unbalanced Dermorian Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Dermorian Longbow, into 1 Sup. Enchanted Unbalanced Dermorian Longbow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Dermorian Shortbow, into 1 Sup. Enchanted Unbalanced Dermorian Shortbow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Enkidukai Composite Bow, into 1 Sup. Enchanted Unbalanced Enkidukai Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Enkidukai Hunting Bow, into 1 Sup. Enchanted Unbalanced Enkidukai Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Enkidukai Longbow, into 1 Sup. Enchanted Unbalanced Enkidukai Longbow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Enkidukai Shortbow, into 1 Sup. Enchanted Unbalanced Enkidukai Shortbow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Ynnwn Composite Bow, into 1 Sup. Enchanted Unbalanced Ynnwn Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Superior Gem Socket, Unbalanced Ynnwn Hunting Bow, into 1 Sup. Enchanted Unbalanced Ynnwn Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Dermorian Composite Bow, Plant String, into 0 Unbalanced Dermorian Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Dermorian Hunting Bow, Plant String, into 0 Unbalanced Dermorian Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Dermorian Longbow, Plant String, into 0 Unbalanced Dermorian Longbow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Dermorian Shortbow, Plant String, into 0 Unbalanced Dermorian Shortbow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Enkidukai Composite Bow, Tendon String, into 0 Unbalanced Enkidukai Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Enkidukai Hunting Bow, Tendon String, into 0 Unbalanced Enkidukai Hunting Bow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Enkidukai Longbow, Tendon String, into 0 Unbalanced Enkidukai Longbow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Enkidukai Shortbow, Tendon String, into 0 Unbalanced Enkidukai Shortbow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Ynnwn Composite Bow, Tendon String, into 0 Unbalanced Ynnwn Composite Bow using Smith Table (combine).
+Bow Making i 200 Combine Unstrung Ynnwn Hunting Bow, Tendon String, into 0 Unbalanced Ynnwn Hunting Bow using Smith Table (combine).
 Bow Making P 200 Set Enchanted Unbalanced Dermorian Composite Bow into Enchanted Dermorian Composite Bow using Smith Table with a Enchanted Ruby.
 Bow Making P 200 Set Enchanted Unbalanced Dermorian Hunting Bow into Enchanted Dermorian Hunting Bow using Smith Table with a Enchanted Ruby.
 Bow Making P 200 Set Enchanted Unbalanced Dermorian Longbow into Enchanted Dermorian Longbow using Smith Table with a Enchanted Ruby.

@@ -1,67 +1,67 @@
-Blades Making I 200 Assemble Platinum Steel Battle Hammer Kit into Platinum Steel Battle Hammer Assembly using Riveter.
-Blades Making I 200 Assemble Platinum Steel Battle Pick Kit into Platinum Steel Battle Pick Assembly using Riveter.
-Blades Making I 200 Assemble Platinum Steel Flanged Mace Kit into Platinum Steel Flanged Mace Assembly using Riveter.
-Blades Making I 200 Assemble Platinum Steel Mace Kit into Platinum Steel Mace Assembly using Riveter.
-Blades Making I 200 Assemble Platinum Steel Morning Star Kit into Platinum Steel Morning Star Assembly using Riveter.
-Blades Making I 200 Assemble Platinum Steel Spiked Warhammer Kit into Platinum Steel Spiked Warhammer Assembly using Riveter.
-Blades Making I 200 Assemble Platinum Steel War Flanged Mace Kit into Platinum Steel War Flanged Mace Assembly using Riveter.
-Blades Making I 200 Assemble Platinum Steel Warhammer Kit into Platinum Steel Warhammer Assembly using Riveter.
-Blades Making I 200 Assemble Platinum Steel War Pick Kit into Platinum Steel War Pick Assembly using Riveter.
-Blades Making I 200 Combine Mace Battle Handle, Platinum Steel Flanged Mace Head, into 0 Platinum Steel Flanged Mace Kit using Smith Table (combine).
-Blades Making I 200 Combine Mace Battle Handle, Platinum Steel Hammer Base, Platinum Steel Hammer Head, into 0 Platinum Steel Battle Hammer Kit using Smith Table (combine).
-Blades Making I 200 Combine Mace Battle Handle, Platinum Steel Hammer Base, Platinum Steel Hammer Spike, into 0 Platinum Steel Battle Pick Kit using Smith Table (combine).
-Blades Making I 200 Combine Mace Battle Handle, Platinum Steel Spiked Mace Head, into 0 Platinum Steel Mace Kit using Smith Table (combine).
-Blades Making I 200 Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Handle using Smith Table (combine).
-Blades Making I 200 Combine Mace War Handle, Platinum Steel Flanged Mace Head, into 0 Platinum Steel War Flanged Mace Kit using Smith Table (combine).
-Blades Making I 200 Combine Mace War Handle, Platinum Steel Hammer Base, 2 Platinum Steel Hammer Head, into 0 Platinum Steel Warhammer Kit using Smith Table (combine).
-Blades Making I 200 Combine Mace War Handle, Platinum Steel Hammer Base, 2 Platinum Steel Hammer Spike, into 0 Platinum Steel War Pick Kit using Smith Table (combine).
-Blades Making I 200 Combine Mace War Handle, Platinum Steel Hammer Base, Platinum Steel Hammer Head, Platinum Steel Hammer Spike, into 0 Platinum Steel Spiked Warhammer Kit using Smith Table (combine).
-Blades Making I 200 Combine Mace War Handle, Platinum Steel Spiked Mace Head, into 0 Platinum Steel Morning Star Kit using Smith Table (combine).
-Blades Making I 200 Combine Mace War Handle Shape, 4 Leather String, into 0 Mace War Handle using Smith Table (combine).
-Blades Making I 200 Cut Threestem Wood into 4 Wooden Baton using Smith Table with a Wood Saw.
-Blades Making I 200 Cut Wooden Baton into 2 Half Wooden baton using Smith Table with a Wood Saw.
-Blades Making I 200 Forge Heated Platinum Steel Flanged Mace Head into Super Heated Platinum Steel Flanged Mace Head using Forge.
-Blades Making I 200 Forge Heated Platinum Steel Hammer Base into Super Heated Platinum Steel Hammer Base using Forge.
-Blades Making I 200 Forge Heated Platinum Steel Hammer Head into Super Heated Platinum Steel Hammer Head using Forge.
-Blades Making I 200 Forge Heated Platinum Steel Hammer Spike into Super Heated Platinum Steel Hammer Spike using Forge.
-Blades Making I 200 Forge Heated Platinum Steel Spiked Mace Head into Super Heated Platinum Steel Spiked Mace Head using Forge.
-Blades Making I 200 Forge Platinum Steel Flanged Mace Head into Heated Platinum Steel Flanged Mace Head using Forge.
-Blades Making I 200 Forge Platinum Steel Hammer Base into Heated Platinum Steel Hammer Base using Forge.
-Blades Making I 200 Forge Platinum Steel Hammer Head into Heated Platinum Steel Hammer Head using Forge.
-Blades Making I 200 Forge Platinum Steel Hammer Spike into Heated Platinum Steel Hammer Spike using Forge.
-Blades Making I 200 Forge Platinum Steel Spiked Mace Head into Heated Platinum Steel Spiked Mace Head using Forge.
-Blades Making I 200 Forge Super Heated Platinum Steel Flanged Mace Head into Red Hot Platinum Steel Flanged Mace Head using Forge.
-Blades Making I 200 Forge Super Heated Platinum Steel Hammer Base into Red Hot Platinum Steel Hammer Base using Forge.
-Blades Making I 200 Forge Super Heated Platinum Steel Hammer Head into Red Hot Platinum Steel Hammer Head using Forge.
-Blades Making I 200 Forge Super Heated Platinum Steel Hammer Spike into Red Hot Platinum Steel Hammer Spike using Forge.
-Blades Making I 200 Forge Super Heated Platinum Steel Spiked Mace Head into Red Hot Platinum Steel Spiked Mace Head using Forge.
-Blades Making I 200 Quench Heated Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Quench Tank.
-Blades Making I 200 Quench Heated Platinum Steel Hammer Base into Platinum Steel Hammer Base using Quench Tank.
-Blades Making I 200 Quench Heated Platinum Steel Hammer Head into Platinum Steel Hammer Head using Quench Tank.
-Blades Making I 200 Quench Heated Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Quench Tank.
-Blades Making I 200 Quench Heated Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Quench Tank.
-Blades Making I 200 Quench Red Hot Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Quench Tank.
-Blades Making I 200 Quench Red Hot Platinum Steel Hammer Base into Platinum Steel Hammer Base using Quench Tank.
-Blades Making I 200 Quench Red Hot Platinum Steel Hammer Head into Platinum Steel Hammer Head using Quench Tank.
-Blades Making I 200 Quench Red Hot Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Quench Tank.
-Blades Making I 200 Quench Red Hot Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Quench Tank.
-Blades Making I 200 Quench Super Heated Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Quench Tank.
-Blades Making I 200 Quench Super Heated Platinum Steel Hammer Base into Platinum Steel Hammer Base using Quench Tank.
-Blades Making I 200 Quench Super Heated Platinum Steel Hammer Head into Platinum Steel Hammer Head using Quench Tank.
-Blades Making I 200 Quench Super Heated Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Quench Tank.
-Blades Making I 200 Quench Super Heated Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Quench Tank.
-Blades Making I 200 Shape 12 Heated Platinum Steel Ingot into 2 Platinum Steel Hammer Spike using Anvil with a Hammer.
-Blades Making I 200 Shape 2 Heated Platinum Steel Stock into Platinum Steel Hammer Head using Anvil with a Hammer.
-Blades Making I 200 Shape 7 Heated Platinum Steel Ingot into Platinum Steel Hammer Base using Anvil with a Hammer.
-Blades Making I 200 Shape 8 Heated Platinum Steel Ingot into Platinum Steel Flanged Mace Head using Anvil with a Hammer.
-Blades Making I 200 Shape 9 Heated Platinum Steel Ingot into Platinum Steel Spiked Mace Head using Anvil with a Hammer.
-Blades Making I 200 Shape Half Wooden baton into Mace Battle Handle Shape using Smith Table with a Wood Chisel.
-Blades Making I 200 Shape Heated Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Anvil with a Hammer.
-Blades Making I 200 Shape Heated Platinum Steel Hammer Base into Platinum Steel Hammer Base using Anvil with a Hammer.
-Blades Making I 200 Shape Heated Platinum Steel Hammer Head into Platinum Steel Hammer Head using Anvil with a Hammer.
-Blades Making I 200 Shape Heated Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Anvil with a Hammer.
-Blades Making I 200 Shape Heated Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Anvil with a Hammer.
-Blades Making I 200 Shape Wooden Baton into Mace War Handle Shape using Smith Table with a Wood Chisel.
+Blades Making i 200 Assemble Platinum Steel Battle Hammer Kit into Platinum Steel Battle Hammer Assembly using Riveter.
+Blades Making i 200 Assemble Platinum Steel Battle Pick Kit into Platinum Steel Battle Pick Assembly using Riveter.
+Blades Making i 200 Assemble Platinum Steel Flanged Mace Kit into Platinum Steel Flanged Mace Assembly using Riveter.
+Blades Making i 200 Assemble Platinum Steel Mace Kit into Platinum Steel Mace Assembly using Riveter.
+Blades Making i 200 Assemble Platinum Steel Morning Star Kit into Platinum Steel Morning Star Assembly using Riveter.
+Blades Making i 200 Assemble Platinum Steel Spiked Warhammer Kit into Platinum Steel Spiked Warhammer Assembly using Riveter.
+Blades Making i 200 Assemble Platinum Steel War Flanged Mace Kit into Platinum Steel War Flanged Mace Assembly using Riveter.
+Blades Making i 200 Assemble Platinum Steel Warhammer Kit into Platinum Steel Warhammer Assembly using Riveter.
+Blades Making i 200 Assemble Platinum Steel War Pick Kit into Platinum Steel War Pick Assembly using Riveter.
+Blades Making i 200 Combine Mace Battle Handle, Platinum Steel Flanged Mace Head, into 0 Platinum Steel Flanged Mace Kit using Smith Table (combine).
+Blades Making i 200 Combine Mace Battle Handle, Platinum Steel Hammer Base, Platinum Steel Hammer Head, into 0 Platinum Steel Battle Hammer Kit using Smith Table (combine).
+Blades Making i 200 Combine Mace Battle Handle, Platinum Steel Hammer Base, Platinum Steel Hammer Spike, into 0 Platinum Steel Battle Pick Kit using Smith Table (combine).
+Blades Making i 200 Combine Mace Battle Handle, Platinum Steel Spiked Mace Head, into 0 Platinum Steel Mace Kit using Smith Table (combine).
+Blades Making i 200 Combine Mace Battle Handle Shape, 2 Leather String, into 0 Mace Battle Handle using Smith Table (combine).
+Blades Making i 200 Combine Mace War Handle, Platinum Steel Flanged Mace Head, into 0 Platinum Steel War Flanged Mace Kit using Smith Table (combine).
+Blades Making i 200 Combine Mace War Handle, Platinum Steel Hammer Base, 2 Platinum Steel Hammer Head, into 0 Platinum Steel Warhammer Kit using Smith Table (combine).
+Blades Making i 200 Combine Mace War Handle, Platinum Steel Hammer Base, 2 Platinum Steel Hammer Spike, into 0 Platinum Steel War Pick Kit using Smith Table (combine).
+Blades Making i 200 Combine Mace War Handle, Platinum Steel Hammer Base, Platinum Steel Hammer Head, Platinum Steel Hammer Spike, into 0 Platinum Steel Spiked Warhammer Kit using Smith Table (combine).
+Blades Making i 200 Combine Mace War Handle, Platinum Steel Spiked Mace Head, into 0 Platinum Steel Morning Star Kit using Smith Table (combine).
+Blades Making i 200 Combine Mace War Handle Shape, 4 Leather String, into 0 Mace War Handle using Smith Table (combine).
+Blades Making i 200 Cut Threestem Wood into 4 Wooden Baton using Smith Table with a Wood Saw.
+Blades Making i 200 Cut Wooden Baton into 2 Half Wooden baton using Smith Table with a Wood Saw.
+Blades Making i 200 Forge Heated Platinum Steel Flanged Mace Head into Super Heated Platinum Steel Flanged Mace Head using Forge.
+Blades Making i 200 Forge Heated Platinum Steel Hammer Base into Super Heated Platinum Steel Hammer Base using Forge.
+Blades Making i 200 Forge Heated Platinum Steel Hammer Head into Super Heated Platinum Steel Hammer Head using Forge.
+Blades Making i 200 Forge Heated Platinum Steel Hammer Spike into Super Heated Platinum Steel Hammer Spike using Forge.
+Blades Making i 200 Forge Heated Platinum Steel Spiked Mace Head into Super Heated Platinum Steel Spiked Mace Head using Forge.
+Blades Making i 200 Forge Platinum Steel Flanged Mace Head into Heated Platinum Steel Flanged Mace Head using Forge.
+Blades Making i 200 Forge Platinum Steel Hammer Base into Heated Platinum Steel Hammer Base using Forge.
+Blades Making i 200 Forge Platinum Steel Hammer Head into Heated Platinum Steel Hammer Head using Forge.
+Blades Making i 200 Forge Platinum Steel Hammer Spike into Heated Platinum Steel Hammer Spike using Forge.
+Blades Making i 200 Forge Platinum Steel Spiked Mace Head into Heated Platinum Steel Spiked Mace Head using Forge.
+Blades Making i 200 Forge Super Heated Platinum Steel Flanged Mace Head into Red Hot Platinum Steel Flanged Mace Head using Forge.
+Blades Making i 200 Forge Super Heated Platinum Steel Hammer Base into Red Hot Platinum Steel Hammer Base using Forge.
+Blades Making i 200 Forge Super Heated Platinum Steel Hammer Head into Red Hot Platinum Steel Hammer Head using Forge.
+Blades Making i 200 Forge Super Heated Platinum Steel Hammer Spike into Red Hot Platinum Steel Hammer Spike using Forge.
+Blades Making i 200 Forge Super Heated Platinum Steel Spiked Mace Head into Red Hot Platinum Steel Spiked Mace Head using Forge.
+Blades Making i 200 Quench Heated Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Quench Tank.
+Blades Making i 200 Quench Heated Platinum Steel Hammer Base into Platinum Steel Hammer Base using Quench Tank.
+Blades Making i 200 Quench Heated Platinum Steel Hammer Head into Platinum Steel Hammer Head using Quench Tank.
+Blades Making i 200 Quench Heated Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Quench Tank.
+Blades Making i 200 Quench Heated Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Quench Tank.
+Blades Making i 200 Quench Red Hot Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Quench Tank.
+Blades Making i 200 Quench Red Hot Platinum Steel Hammer Base into Platinum Steel Hammer Base using Quench Tank.
+Blades Making i 200 Quench Red Hot Platinum Steel Hammer Head into Platinum Steel Hammer Head using Quench Tank.
+Blades Making i 200 Quench Red Hot Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Quench Tank.
+Blades Making i 200 Quench Red Hot Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Quench Tank.
+Blades Making i 200 Quench Super Heated Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Quench Tank.
+Blades Making i 200 Quench Super Heated Platinum Steel Hammer Base into Platinum Steel Hammer Base using Quench Tank.
+Blades Making i 200 Quench Super Heated Platinum Steel Hammer Head into Platinum Steel Hammer Head using Quench Tank.
+Blades Making i 200 Quench Super Heated Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Quench Tank.
+Blades Making i 200 Quench Super Heated Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Quench Tank.
+Blades Making i 200 Shape 12 Heated Platinum Steel Ingot into 2 Platinum Steel Hammer Spike using Anvil with a Hammer.
+Blades Making i 200 Shape 2 Heated Platinum Steel Stock into Platinum Steel Hammer Head using Anvil with a Hammer.
+Blades Making i 200 Shape 7 Heated Platinum Steel Ingot into Platinum Steel Hammer Base using Anvil with a Hammer.
+Blades Making i 200 Shape 8 Heated Platinum Steel Ingot into Platinum Steel Flanged Mace Head using Anvil with a Hammer.
+Blades Making i 200 Shape 9 Heated Platinum Steel Ingot into Platinum Steel Spiked Mace Head using Anvil with a Hammer.
+Blades Making i 200 Shape Half Wooden baton into Mace Battle Handle Shape using Smith Table with a Wood Chisel.
+Blades Making i 200 Shape Heated Platinum Steel Flanged Mace Head into Platinum Steel Flanged Mace Head using Anvil with a Hammer.
+Blades Making i 200 Shape Heated Platinum Steel Hammer Base into Platinum Steel Hammer Base using Anvil with a Hammer.
+Blades Making i 200 Shape Heated Platinum Steel Hammer Head into Platinum Steel Hammer Head using Anvil with a Hammer.
+Blades Making i 200 Shape Heated Platinum Steel Hammer Spike into Platinum Steel Hammer Spike using Anvil with a Hammer.
+Blades Making i 200 Shape Heated Platinum Steel Spiked Mace Head into Platinum Steel Spiked Mace Head using Anvil with a Hammer.
+Blades Making i 200 Shape Wooden Baton into Mace War Handle Shape using Smith Table with a Wood Chisel.
 Blades Making O 200 Shape Red Hot Platinum Steel Flanged Mace Head into 8 Platinum Steel Ingot using Anvil with a Hammer.
 Blades Making O 200 Shape Red Hot Platinum Steel Hammer Base into 7 Platinum Steel Ingot using Anvil with a Hammer.
 Blades Making O 200 Shape Red Hot Platinum Steel Hammer Head into 2 Platinum Steel Stock using Anvil with a Hammer.

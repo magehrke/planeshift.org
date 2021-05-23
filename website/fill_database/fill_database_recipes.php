@@ -89,7 +89,8 @@
 	// M = mined
 	//
 	// type is an abbreviation:
-	// I = ingredient (intermediate preparation)
+	// I = ingredient
+	// i = intermediate
 	// P = preparation
 	// O = optional, not needed in any way
 	//
@@ -101,7 +102,7 @@
 		//
 		array (
 			"name"		=> "Enkidukai Longbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enkidukai Longbow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -111,7 +112,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Shortbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enkidukai Shortbow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -121,7 +122,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Stonehammer Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stonehammer Longbow Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -131,7 +132,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Stonehammer Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stonehammer Shortbow Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -141,7 +142,7 @@
 		),
 		array (
 			"name"		=> "Ynnwn Longbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ynnwn Longbow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -151,7 +152,7 @@
 		),
 		array (
 			"name"		=> "Long Carved Oak Wood Rod",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Long Oak Wood Rod",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -161,7 +162,7 @@
 		),
 		array (
 			"name"		=> "Small Oak Wood Carved Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Oak Wood Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -174,7 +175,7 @@
 		//
 		array (
 			"name"		=> "Carved Tefusang Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Tefusang Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -187,7 +188,7 @@
 		//
 		array (
 			"name"		=> "Carved Tefusangling Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Tefusangling Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -197,7 +198,7 @@
 		),
 		array (
 			"name"		=> "Carved Ulbernaut Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Ulbernaut Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -207,7 +208,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Longbow Staff Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Carved Tefusang Claw, C 1 Oak Wood Grip, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -217,7 +218,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Shortbow Staff Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Carved Tefusangling Claw, C 1 Wooden Grip, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -227,7 +228,7 @@
 		),
 		array (
 			"name"		=> "Ynnwn Longbow Staff Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Carved Ulbernaut Claw, C 1 Oak Wood Grip, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -237,7 +238,7 @@
 		),
 		array (
 			"name"		=> "Stonehammer Longbow Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stonehammer Longbow Staff, C 1 Steel String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -247,7 +248,7 @@
 		),
 		array (
 			"name"		=> "Stonehammer Shortbow Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stonehammer Shortbow Staff, C 1 Steel String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -260,7 +261,7 @@
 		//
 		array (
 			"name"		=> "Unbalanced Dermorian Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Dermorian Longbow, C 1 Plant String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -270,7 +271,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Dermorian Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Dermorian Shortbow, C 1 Plant String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -280,7 +281,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Enkidukai Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Enkidukai Longbow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -290,7 +291,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Enkidukai Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Enkidukai Shortbow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -300,7 +301,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Ynnwn Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Ynnwn Longbow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -310,7 +311,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Ynnwn Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Ynnwn Shortbow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -323,7 +324,7 @@
 		//
 		array (
 			"name"		=> "Carved Curved Ulbernaut Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Ulbernaut Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -333,7 +334,7 @@
 		),
 		array (
 			"name"		=> "Curved Enkidukai Longbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enkidukai Longbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -343,7 +344,7 @@
 		),
 		array (
 			"name"		=> "Curved Enkidukai Shortbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enkidukai Shortbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -353,7 +354,7 @@
 		),
 		array (
 			"name"		=> "Long Carved Curved Oak Wood Rod",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Long Carved Oak Wood Rod",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -363,7 +364,7 @@
 		),
 		array (
 			"name"		=> "Small Oak Wood Carved Curved Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Oak Wood Carved Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -373,7 +374,7 @@
 		),
 		array (
 			"name"		=> "Curved Ynnwn Longbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ynnwn Longbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -386,7 +387,7 @@
 		//
 		array (
 			"name"		=> "Small Oak Wood Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Oak Wood Board",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -399,7 +400,7 @@
 		//
 		array (
 			"name"		=> "Wooden Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Threestem Wood",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -412,7 +413,7 @@
 		//
 		array (
 			"name"		=> "Oak Wood Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 White Oak Wood",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -425,7 +426,7 @@
 		//
 		array (
 			"name"		=> "Small Wooden Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Board",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -438,7 +439,7 @@
 		//
 		array (
 			"name"		=> "Heated Untempered Stonehammer Longbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Untempered Stonehammer Longbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -448,7 +449,7 @@
 		),
 		array (
 			"name"		=> "Heated Untempered Stonehammer Shortbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Untempered Stonehammer Shortbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -461,7 +462,7 @@
 		//
 		array (
 			"name"		=> "Tendon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Clacker Leg",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Kitchen Knife",
@@ -471,7 +472,7 @@
 		),
 		array (
 			"name"		=> "Tendon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Consumer Leg",
 			"result"	=> "3",
 			"tool"		=> "Smith Table + Kitchen Knife",
@@ -481,7 +482,7 @@
 		),
 		array (
 			"name"		=> "Tendon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Thunder Clacker Leg",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Kitchen Knife",
@@ -494,7 +495,7 @@
 		//
 		array (
 			"name"		=> "Steel Wire",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Molten Steel",
 			"result"	=> "1",
 			"tool"		=> "Forge + Wire mold",
@@ -507,7 +508,7 @@
 		//
 		array (
 			"name"		=> "Stonehammer Longbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Untempered Stonehammer Longbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -517,7 +518,7 @@
 		),
 		array (
 			"name"		=> "Stonehammer Shortbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Untempered Stonehammer Shortbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -530,7 +531,7 @@
 		//
 		array (
 			"name"		=> "Dried Couchgrass",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 3 Couchgrass",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -543,7 +544,7 @@
 		//
 		array (
 			"name"		=> "Unstrung Ynnwn Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Curved Ulbernaut Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -553,7 +554,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Enkidukai Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Curved Enkidukai Longbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -563,7 +564,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Enkidukai Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Curved Enkidukai Shortbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -573,7 +574,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Ynnwn Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Curved Ynnwn Longbow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -583,7 +584,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Dermorian Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Long Carved Curved Oak Wood Rod",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -593,7 +594,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Dermorian Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Oak Wood Carved Curved Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -603,7 +604,7 @@
 		),
 		array (
 			"name"		=> "Untempered Stonehammer Longbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Bronze Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -613,7 +614,7 @@
 		),
 		array (
 			"name"		=> "Untempered Stonehammer Shortbow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Bronze Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -626,7 +627,7 @@
 		//
 		array (
 			"name"		=> "Smoothed Oak Wood Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Oak Wood Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Plane",
@@ -639,7 +640,7 @@
 		//
 		array (
 			"name"		=> "Thread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Dried Couchgrass",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mandrel",
@@ -688,7 +689,7 @@
 		//
 		array (
 			"name"		=> "Oak Wood Grip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Oak Wood Board",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Kitchen Knife",
@@ -701,7 +702,7 @@
 		//
 		array (
 			"name"		=> "Wooden Grip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Wooden Board",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Kitchen Knife",
@@ -714,7 +715,7 @@
 		//
 		array (
 			"name"		=> "Long Oak Wood Rod",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 White Oak Wood",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -807,7 +808,7 @@
 		//
 		array (
 			"name"		=> "Raw Major Potion of Air Element Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Air Essence, C 1 Quicksilver Solution, C 1 Wyn Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -817,7 +818,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Water Crystal and Air Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Bright Essence, C 2 Gold Solution, C 1 Wyn Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -830,7 +831,7 @@
 		//
 		array (
 			"name"		=> "Mix of salt and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Common Salt, B 1 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -843,7 +844,7 @@
 		//
 		array (
 			"name"		=> "Raw Major Potion of Azure Sun Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Crystal Essence, C 1 Copper Solution, C 1 Wyn Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -853,7 +854,7 @@
 		),
 		array (
 			"name"		=> "Carkarass Essence Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Distilled Water, C 1 Limed Carkarass Fire Carapace, C 1 Incinerated Carkarass Fire Feather",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -863,7 +864,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Earth Element Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Earth Essence, C 1 Zinc Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -873,7 +874,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Fire Element Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Fire Essence, C 1 Iron Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -883,7 +884,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Dark Crystal Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Illness Essence, C 1 Silver Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -893,7 +894,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Fire Dark and Earth Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Murky Essence, C 2 Silver Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -906,7 +907,7 @@
 		//
 		array (
 			"name"		=> "Mix of niter and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Niter, B 1 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -919,7 +920,7 @@
 		//
 		array (
 			"name"		=> "Mix of corroded Riverling bones",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Salt spirit, C 1 Ground Riverling Skull, C 1 Ground Riverling Tooth",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -929,7 +930,7 @@
 		),
 		array (
 			"name"		=> "Mixed Elder Gorweal roots",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Spirit, C 1 Incinerated Elder Gorweal cortex, L 1 Elder Gorweal roots",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -939,7 +940,7 @@
 		),
 		array (
 			"name"		=> "Mixed Gorweal roots",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Spirit, C 1 Incinerated Gorweal cortex, L 1 Gorweal roots",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -949,7 +950,7 @@
 		),
 		array (
 			"name"		=> "Mixed Sapling Gorweal roots",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Spirit, C 1 Incinerated Sapling Gorweal cortex, L 1 Sapling Gorweal roots",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -959,7 +960,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Water Element Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Water Essence, C 1 Tin Solution, C 1 Wyn Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -969,7 +970,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Water Crystal and Air Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Bright Essence, C 2 Gold Solution, C 2 Wyn Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -979,7 +980,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Fire Dark and Earth Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Murky Essence, C 2 Silver Solution, C 2 Red Mangrove Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -989,7 +990,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Air Element Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Air Essence, C 1 Quicksilver Solution, C 1 Wyn Pulp",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -999,7 +1000,7 @@
 		),
 		array (
 			"name"		=> "Mix of air water and crystal essence",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Air Essence, C 1 Water Essence, C 1 Crystal Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1009,7 +1010,7 @@
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Water Crystal and Air Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bright Essence, C 1 Gold Solution, C 1 Wyn Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1019,7 +1020,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Azure Sun Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crystal Essence, C 1 Copper Ore Solution, C 1 Wyn Pulp",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1029,7 +1030,7 @@
 		),
 		array (
 			"name"		=> "Frost Arangma Essence Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Distilled Frost Arangma Blood, C 1 Powdered Frost Arangma Feeler, C 1 Powdered Frost Arangma Quartz",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1039,7 +1040,7 @@
 		),
 		array (
 			"name"		=> "Raw Alchemist Glue",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Earth Essence, L 2 Tloke Drone Wax, C 1 Vitriol salt",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1049,7 +1050,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Earth Element Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Earth Essence, C 1 Zinc Ore Solution, C 1 Red Mangrove Pulp",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1059,7 +1060,7 @@
 		),
 		array (
 			"name"		=> "Mix of fire earth and illness essence",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Fire Essence, C 1 Earth Essence, C 1 Illness Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1069,7 +1070,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Fire Element Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Fire Essence, C 1 Iron Ore Solution, C 1 Red Mangrove Pulp",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1079,7 +1080,7 @@
 		),
 		array (
 			"name"		=> "Raw Alchemist Fire",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Fire Essence, C 1 Wragberry Oil, C 1 Powdered Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1089,7 +1090,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Dark Crystal Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Illness Essence, C 1 Silver Ore Solution, C 1 Red Mangrove Pulp",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1099,7 +1100,7 @@
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Fire Dark and Earth Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Murky Essence, C 1 Silver Solution, C 1 Red Mangrove Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1112,7 +1113,7 @@
 		//
 		array (
 			"name"		=> "Mix of Gold niter and salt spirit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 3 Salt spirit, C 1 Powdered Gold",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1125,7 +1126,7 @@
 		//
 		array (
 			"name"		=> "Mix of Diseased Rat Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Extract of Diseased Rat Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1135,7 +1136,7 @@
 		),
 		array (
 			"name"		=> "Mix of Carkarass Feather",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Carkarass Feather",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1145,7 +1146,7 @@
 		),
 		array (
 			"name"		=> "Mix of Kikiri Feather",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Kikiri Feather",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1155,7 +1156,7 @@
 		),
 		array (
 			"name"		=> "Mix of Tloke Drone Wing",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Tloke Drone Wing",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1165,7 +1166,7 @@
 		),
 		array (
 			"name"		=> "Mix of Tloke Queen Wing",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Tloke Queen Wing",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1175,7 +1176,7 @@
 		),
 		array (
 			"name"		=> "Mix of Tloke Warrior Wing",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Tloke Warrior Wing",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1185,7 +1186,7 @@
 		),
 		array (
 			"name"		=> "Mix of Consumer Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Purified Consumer Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1195,7 +1196,7 @@
 		),
 		array (
 			"name"		=> "Mix of Imago Consumer Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Purified Imago Consumer Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1205,7 +1206,7 @@
 		),
 		array (
 			"name"		=> "Mix of Neoten Consumer Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Purified Neoten Consumer Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1218,7 +1219,7 @@
 		//
 		array (
 			"name"		=> "Mix of Copper and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Copper, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1231,7 +1232,7 @@
 		//
 		array (
 			"name"		=> "Mix of Copper ore and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Copper Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1241,7 +1242,7 @@
 		),
 		array (
 			"name"		=> "Mix of Iron and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Iron, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1251,7 +1252,7 @@
 		),
 		array (
 			"name"		=> "Mix of Iron ore and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Iron Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1264,7 +1265,7 @@
 		//
 		array (
 			"name"		=> "Mixed Ruby and Emerald Crystal",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Ruby Crystal, C 1 Powdered Emerald Crystal, C 2 Nitric spirit",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1277,7 +1278,7 @@
 		//
 		array (
 			"name"		=> "Mix of Silver and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Silver, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1290,7 +1291,7 @@
 		//
 		array (
 			"name"		=> "Mix of Silver ore and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Silver Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1303,7 +1304,7 @@
 		//
 		array (
 			"name"		=> "Mix of Tin and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Tin, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1316,7 +1317,7 @@
 		//
 		array (
 			"name"		=> "Mix of Tin ore and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Tin Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1326,7 +1327,7 @@
 		),
 		array (
 			"name"		=> "Mix of Zinc ore and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Zinc Ore, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1339,7 +1340,7 @@
 		//
 		array (
 			"name"		=> "Sand Arangma Essence Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Purified Sand Arangma Blood, C 1 Ground Sand Arangma Talon, B 2 Common Salt",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1352,7 +1353,7 @@
 		//
 		array (
 			"name"		=> "Mix of Quicksilver and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Quicksilver Vial, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1365,7 +1366,7 @@
 		//
 		array (
 			"name"		=> "Mix of Fire Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Purified Fire Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1375,7 +1376,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Water Element Affinity",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Water Essence, C 1 Tin Ore Solution, C 1 Wyn Pulp",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1385,7 +1386,7 @@
 		),
 		array (
 			"name"		=> "Raw Alchemist Freezer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Water Essence, C 1 Wragberry Oil, C 1 Nitric spirit",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1609,7 +1610,7 @@
 		),
 		array (
 			"name"		=> "Mixed Diamond and Sapphire Crystal",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Diamond Crystal, C 1 Powdered Sapphire Crystal, C 2 Salt spirit",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -1622,7 +1623,7 @@
 		//
 		array (
 			"name"		=> "Bright Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of air water and crystal essence",
 			"result"	=> "3",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -1632,7 +1633,7 @@
 		),
 		array (
 			"name"		=> "Crystal Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 2 Crystal sludge",
 			"result"	=> "5",
 			"tool"		=> "Decanter + Strainer",
@@ -1642,7 +1643,7 @@
 		),
 		array (
 			"name"		=> "Crystal Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Crystal sludge",
 			"result"	=> "3",
 			"tool"		=> "Decanter + Strainer",
@@ -1662,7 +1663,7 @@
 		),
 		array (
 			"name"		=> "Air Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 2 Mix of Kikiri Feather",
 			"result"	=> "1",
 			"tool"		=> "Decanter",
@@ -1672,7 +1673,7 @@
 		),
 		array (
 			"name"		=> "Air Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Carkarass Feather",
 			"result"	=> "6",
 			"tool"		=> "Decanter",
@@ -1682,7 +1683,7 @@
 		),
 		array (
 			"name"		=> "Air Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Tloke Drone Wing",
 			"result"	=> "1",
 			"tool"		=> "Decanter",
@@ -1692,7 +1693,7 @@
 		),
 		array (
 			"name"		=> "Air Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Tloke Queen Wing",
 			"result"	=> "4",
 			"tool"		=> "Decanter",
@@ -1702,7 +1703,7 @@
 		),
 		array (
 			"name"		=> "Air Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Tloke Warrior Wing",
 			"result"	=> "3",
 			"tool"		=> "Decanter using",
@@ -1712,7 +1713,7 @@
 		),
 		array (
 			"name"		=> "Murky Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 2 Mix of fire earth and illness essence",
 			"result"	=> "6",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -1732,7 +1733,7 @@
 		),
 		array (
 			"name"		=> "Earth Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Exalted Elder Gorweal extract",
 			"result"	=> "28",
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
@@ -1742,7 +1743,7 @@
 		),
 		array (
 			"name"		=> "Earth Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Exalted Gorweal extract",
 			"result"	=> "24",
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
@@ -1752,7 +1753,7 @@
 		),
 		array (
 			"name"		=> "Earth Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Exalted Sapling Gorweal extract",
 			"result"	=> "20",
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
@@ -1762,7 +1763,7 @@
 		),
 		array (
 			"name"		=> "Water Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Frost Arangma Essence Mix",
 			"result"	=> "12",
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
@@ -1772,7 +1773,7 @@
 		),
 		array (
 			"name"		=> "Earth Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Sand Arangma Essence Mix",
 			"result"	=> "20",
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
@@ -1782,7 +1783,7 @@
 		),
 		array (
 			"name"		=> "Bright Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 2 Mix of air water and crystal essence",
 			"result"	=> "6",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -1792,7 +1793,7 @@
 		),
 		array (
 			"name"		=> "Murky Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of fire earth and illness essence",
 			"result"	=> "3",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -1950,7 +1951,7 @@
 		//
 		array (
 			"name"		=> "Fire Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Carkarass Essence Mix",
 			"result"	=> "28",
 			"tool"		=> "Athanor",
@@ -2130,7 +2131,7 @@
 		),
 		array (
 			"name"		=> "Illness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Consumer Blood",
 			"result"	=> "8",
 			"tool"		=> "Alembic",
@@ -2140,7 +2141,7 @@
 		),
 		array (
 			"name"		=> "Water Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of corroded Riverling bones",
 			"result"	=> "20",
 			"tool"		=> "Alembic",
@@ -2150,7 +2151,7 @@
 		),
 		array (
 			"name"		=> "Fire Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Fire Blood",
 			"result"	=> "25",
 			"tool"		=> "Decanter",
@@ -2163,7 +2164,7 @@
 		//
 		array (
 			"name"		=> "Mix of Zinc and vitriol",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Zinc, B 2 Oil of Vitriol",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -2264,7 +2265,7 @@
 			"book"		=> "Alchemical Concoctations, Cooking with Minerals, Crystal's Delight for Kran"
 		),
 		//
-		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Mystic’s Great Work
+		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Mystic's Great Work
 		//
 		array (
 			"name"		=> "Powdered Iron",
@@ -2274,7 +2275,7 @@
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
 			"level"		=> "<9",
-			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Mystic’s Great Work"
+			"book"		=> "Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Mystic's Great Work"
 		),
 		//
 		// Alchemical Concoctations, Basic Potions Tome, Cooking with Minerals, Crystal's Delight for Kran
@@ -2527,7 +2528,7 @@
 		//
 		array (
 			"name"		=> "Treated Marfusang Bones",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Treated Marfusang Bones Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -2537,7 +2538,7 @@
 		),
 		array (
 			"name"		=> "Carved Marfusang bones",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Treated Marfusang Bones",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -2547,7 +2548,7 @@
 		),
 		array (
 			"name"		=> "Wooden Carved Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -2557,7 +2558,7 @@
 		),
 		array (
 			"name"		=> "Iron Arrow Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Molten Iron",
 			"result"	=> "60",
 			"tool"		=> "Stock Casting + Arrow-head Mold",
@@ -2567,7 +2568,7 @@
 		),
 		array (
 			"name"		=> "Unassembled Iron Arrow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 60 Arrow Shaft, C 60 Iron Arrow Head, C 60 Fletch",
 			"result"	=> "60",
 			"tool"		=> "Smith Table (combine)",
@@ -2577,7 +2578,7 @@
 		),
 		array (
 			"name"		=> "Treated Marfusang Bones Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Marfusang Bones, B 1 Conservation Potion",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -2590,7 +2591,7 @@
 		//
 		array (
 			"name"		=> "Unbalanced Dermorian Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Dermorian Hunting Bow, C 1 Plant String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -2600,7 +2601,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Enkidukai Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Enkidukai Hunting Bow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -2610,7 +2611,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Ynnwn Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Ynnwn Hunting Bow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -2623,7 +2624,7 @@
 		//
 		array (
 			"name"		=> "Carved Curved Marfusang Bones",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Marfusang bones",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -2633,7 +2634,7 @@
 		),
 		array (
 			"name"		=> "Carved Curved Tefusang Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Tefusang Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -2643,7 +2644,7 @@
 		),
 		array (
 			"name"		=> "Wooden Carved Curved Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Carved Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -2653,7 +2654,7 @@
 		),
 		array (
 			"name"		=> "Fletch",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Kikiri Feather",
 			"result"	=> "30",
 			"tool"		=> "Smith Table + Kitchen Knife",
@@ -2663,7 +2664,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Ynnwn Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Curved Marfusang Bones",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -2673,7 +2674,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Enkidukai Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Curved Tefusang Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -2683,7 +2684,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Dermorian Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Carved Curved Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -2696,7 +2697,7 @@
 		//
 		array (
 			"name"		=> "Smoothed Wooden Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Wooden Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Plane",
@@ -2709,7 +2710,7 @@
 		//
 		array (
 			"name"		=> "Arrow Shaft",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Threestem Wood",
 			"result"	=> "60",
 			"tool"		=> "Smith Table + Kitchen Knife",
@@ -2762,7 +2763,7 @@
 		//
 		array (
 			"name"		=> "Heated Silver Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -2772,7 +2773,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Molten Silver",
 			"result"	=> "1",
 			"tool"		=> "Forge + Ring Mold",
@@ -2782,7 +2783,7 @@
 		),
 		array (
 			"name"		=> "Small Molten Silver",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -2792,7 +2793,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -2802,7 +2803,7 @@
 		),
 		array (
 			"name"		=> "Silver Bracer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Half Silver Bracer, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -2812,7 +2813,7 @@
 		),
 		array (
 			"name"		=> "Half Silver Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Silver Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -2822,7 +2823,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -2832,7 +2833,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -2842,7 +2843,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -2852,7 +2853,7 @@
 		),
 		array (
 			"name"		=> "Platinum Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Molten Platinum",
 			"result"	=> "5",
 			"tool"		=> "Stock Casting",
@@ -2862,7 +2863,7 @@
 		),
 		array (
 			"name"		=> "Silver Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Molten Silver",
 			"result"	=> "5",
 			"tool"		=> "Stock Casting",
@@ -2872,7 +2873,7 @@
 		),
 		array (
 			"name"		=> "Platinum Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Molten Platinum",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
@@ -2882,7 +2883,7 @@
 		),
 		array (
 			"name"		=> "Platinum Bracer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Half Platinum Bracer, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -2892,7 +2893,7 @@
 		),
 		array (
 			"name"		=> "Gold Necklace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Chain, C 1 Gold Necklace Clasp",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -2902,7 +2903,7 @@
 		),
 		array (
 			"name"		=> "Platinum Necklace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Chain, C 1 Platinum Necklace Clasp",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -2912,7 +2913,7 @@
 		),
 		array (
 			"name"		=> "Gold Necklace Links",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Coil",
 			"result"	=> "5",
 			"tool"		=> "Smith Table + Cutters",
@@ -2922,7 +2923,7 @@
 		),
 		array (
 			"name"		=> "Platinum Necklace Links",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Coil",
 			"result"	=> "5",
 			"tool"		=> "Smith Table + Cutters",
@@ -2932,7 +2933,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -2942,7 +2943,7 @@
 		),
 		array (
 			"name"		=> "Half Platinum Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -2952,7 +2953,7 @@
 		),
 		array (
 			"name"		=> "Platinum Chain",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 50 Platinum Necklace Links",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -2962,7 +2963,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Molten Platinum",
 			"result"	=> "1",
 			"tool"		=> "Forge + Ring Mold",
@@ -2972,7 +2973,7 @@
 		),
 		array (
 			"name"		=> "Gold Necklace Clasp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Gold Necklace Links",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -2982,7 +2983,7 @@
 		),
 		array (
 			"name"		=> "Platinum Necklace Clasp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Platinum Necklace Links",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -2992,7 +2993,7 @@
 		),
 		array (
 			"name"		=> "Gold Wire",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Molten Gold",
 			"result"	=> "1",
 			"tool"		=> "Forge + Wire mold",
@@ -3002,7 +3003,7 @@
 		),
 		array (
 			"name"		=> "Platinum Wire",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Molten Platinum",
 			"result"	=> "1",
 			"tool"		=> "Forge + Wire mold",
@@ -3012,7 +3013,7 @@
 		),
 		array (
 			"name"		=> "Small Molten Platinum",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -3022,7 +3023,7 @@
 		),
 		array (
 			"name"		=> "Gold Coil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Wire",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mandrel",
@@ -3032,7 +3033,7 @@
 		),
 		array (
 			"name"		=> "Platinum Coil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Wire",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mandrel",
@@ -3042,7 +3043,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -3052,7 +3053,7 @@
 		),
 		array (
 			"name"		=> "Silver Necklace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Chain, C 1 Silver Necklace Clasp",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -3062,7 +3063,7 @@
 		),
 		array (
 			"name"		=> "Silver Necklace Links",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Coil",
 			"result"	=> "5",
 			"tool"		=> "Smith Table + Cutters",
@@ -3072,7 +3073,7 @@
 		),
 		array (
 			"name"		=> "Silver Chain",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 50 Silver Necklace Links",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -3082,7 +3083,7 @@
 		),
 		array (
 			"name"		=> "Silver Necklace Clasp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Silver Necklace Links",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -3092,7 +3093,7 @@
 		),
 		array (
 			"name"		=> "Silver Wire",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Molten Silver",
 			"result"	=> "1",
 			"tool"		=> "Forge + Wire mold",
@@ -3102,7 +3103,7 @@
 		),
 		array (
 			"name"		=> "Silver Coil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Wire",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mandrel",
@@ -3112,7 +3113,7 @@
 		),
 		array (
 			"name"		=> "Gold Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Molten Gold",
 			"result"	=> "5",
 			"tool"		=> "Stock Casting",
@@ -3122,7 +3123,7 @@
 		),
 		array (
 			"name"		=> "Heated Gold Jewelry Ingot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -3132,7 +3133,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Molten Gold",
 			"result"	=> "1",
 			"tool"		=> "Forge + Ring Mold",
@@ -3142,7 +3143,7 @@
 		),
 		array (
 			"name"		=> "Small Molten Gold",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -3152,7 +3153,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -3162,7 +3163,7 @@
 		),
 		array (
 			"name"		=> "Gold Bracer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Half Gold Bracer, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -3172,7 +3173,7 @@
 		),
 		array (
 			"name"		=> "Half Gold Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Gold Jewelry Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -3182,7 +3183,7 @@
 		),
 		array (
 			"name"		=> "Gold Chain",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 50 Gold Necklace Links",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Pliers",
@@ -3338,7 +3339,7 @@
 		//
 		array (
 			"name"		=> "Small Tanning Hide",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Hide, B 1 Tanning Crystal Acid",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table (combine)",
@@ -3348,7 +3349,7 @@
 		),
 		array (
 			"name"		=> "Leather String",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Leather Patch",
 			"result"	=> "3",
 			"tool"		=> "Leatherworking Table + Leather Cutter",
@@ -3358,7 +3359,7 @@
 		),
 		array (
 			"name"		=> "Leather Patch",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Piece Of Leather",
 			"result"	=> "3",
 			"tool"		=> "Leatherworking Table + Leather Cutter",
@@ -3368,7 +3369,7 @@
 		),
 		array (
 			"name"		=> "Small Hide",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Rat Hide",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Hide Scraper",
@@ -3611,7 +3612,7 @@
 		//
 		array (
 			"name"		=> "Raw Major Potion of Diaboli's Charm",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Charme Essence, C 2 Copper Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3621,7 +3622,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Enkidukai's Grace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Grace Essence, C 2 Silver Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3631,7 +3632,7 @@
 		),
 		array (
 			"name"		=> "Mix of Limed Grendol bones",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Salt spirit, C 1 Limed Grendol bones",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3641,7 +3642,7 @@
 		),
 		array (
 			"name"		=> "Mix of Limed Marfusang Bones",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Salt spirit, C 1 Limed Marfusang Bones",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3651,7 +3652,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Lemur's Smartness",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Smartness Essence, C 2 Tin Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3661,7 +3662,7 @@
 		),
 		array (
 			"name"		=> "Mix of Thunder Clacker Tentacle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Spirit, C 1 Ground Thunder Clacker Tentacle",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3671,7 +3672,7 @@
 		),
 		array (
 			"name"		=> "Mix of Trepor Wiggly Feeler",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Spirit, C 1 Ground Trepor Wiggly Feeler",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3681,7 +3682,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Ynnwn's Toughness",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Toughness Essence, C 2 Zinc Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3691,7 +3692,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Kran's Vigor",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Vigor Essence, C 2 Iron Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3701,7 +3702,7 @@
 		),
 		array (
 			"name"		=> "Raw Major Potion of Dermorian's Willpower",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Willpower Essence, C 2 Quicksilver Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3711,7 +3712,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Diaboli's Charm",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Charme Essence, C 1 Copper Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3721,7 +3722,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Enkidukai's Grace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Grace Essence, C 1 Silver Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3731,7 +3732,7 @@
 		),
 		array (
 			"name"		=> "Mix of Wrath Rat Bones",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ground Wrath Rat Bones, C 1 Salt spirit",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3741,7 +3742,7 @@
 		),
 		array (
 			"name"		=> "Mix of ground Trepor Warrior Talon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Ground Trepor Warrior Talon",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3751,7 +3752,7 @@
 		),
 		array (
 			"name"		=> "Mix of incinerated Arangma Talon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Arangma Talon",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3761,7 +3762,7 @@
 		),
 		array (
 			"name"		=> "Mix of Flayed Velnishi Talon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Flayed Velnishi Talon",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3771,7 +3772,7 @@
 		),
 		array (
 			"name"		=> "Mix of Jade Clacker Talon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Jade Clacker Talon",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3781,7 +3782,7 @@
 		),
 		array (
 			"name"		=> "Mix of Incinerated Maulberlord Talon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Maulberlord Talon",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3791,7 +3792,7 @@
 		),
 		array (
 			"name"		=> "Mix of Incinerated Maulbernaut Talon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Maulbernaut Talon",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3801,7 +3802,7 @@
 		),
 		array (
 			"name"		=> "Mix of Incinerated Tefusang Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Tefusang Claw",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3811,7 +3812,7 @@
 		),
 		array (
 			"name"		=> "Mix of Incinerated Tefusangling Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Tefusangling Claw",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3821,7 +3822,7 @@
 		),
 		array (
 			"name"		=> "Mix of incinerated Velnishi Talon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Incinerated Velnishi Talon",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3831,7 +3832,7 @@
 		),
 		array (
 			"name"		=> "Mix of Limed Coamti Talon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Limed Coamti Talon",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3841,7 +3842,7 @@
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Dermorian's Willpower",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Diamond Crystal, C 1 Quicksilver Vial",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3851,7 +3852,7 @@
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Ynnwn's Toughness",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Emerald Crystal, C 1 Zinc Ore Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3861,7 +3862,7 @@
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Kran's Vigor",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Ruby Crystal, C 1 Iron Ore Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3871,7 +3872,7 @@
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Enkidukai's Grace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Sapphire Crystal, C 1 Silver Ore Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3881,7 +3882,7 @@
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Diaboli's Charm",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Copper Ore Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3891,7 +3892,7 @@
 		),
 		array (
 			"name"		=> "Mix of Ground Serpent Gobble Bones",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Ground Serpent Gobble Bones",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3901,7 +3902,7 @@
 		),
 		array (
 			"name"		=> "Mix of Limed Carkarass skull",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Carkarass Skull",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3911,7 +3912,7 @@
 		),
 		array (
 			"name"		=> "Mix of Limed Eagle Gobble skull",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Eagle Gobble Skull",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3921,7 +3922,7 @@
 		),
 		array (
 			"name"		=> "Mix of Limed Flayed Velnishi skull",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Flayed Velnishi Skull",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3931,7 +3932,7 @@
 		),
 		array (
 			"name"		=> "Mix of Limed Poison Carkarass skull",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Poison Carkarass Skull",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3941,7 +3942,7 @@
 		),
 		array (
 			"name"		=> "Mix of Limed Serpent Gobble skull",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Salt spirit, C 1 Limed Serpent Gobble Skull",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3951,7 +3952,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Lemur's Smartness",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Smartness Essence, C 1 Tin Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3961,7 +3962,7 @@
 		),
 		array (
 			"name"		=> "Mixed Coamti Eye",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, L 2 Coamti Eye",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3971,7 +3972,7 @@
 		),
 		array (
 			"name"		=> "Mixed Rats foot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 2 Ground Rat Foot",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3981,7 +3982,7 @@
 		),
 		array (
 			"name"		=> "Mix of Vesper Arangma Feeler",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 2 Ground Vesper Arangma Feeler",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -3991,7 +3992,7 @@
 		),
 		array (
 			"name"		=> "Mixed Rats eyes",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, L 2 Rat Eye",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4001,7 +4002,7 @@
 		),
 		array (
 			"name"		=> "Mixed Vesper Arangma Eye",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, L 2 Vesper Arangma Eye",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4011,7 +4012,7 @@
 		),
 		array (
 			"name"		=> "Mix of Wrath Rat Eye",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, L 2 Wrath Rat Eye",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4021,7 +4022,7 @@
 		),
 		array (
 			"name"		=> "Mixed Thunder Clacker Leg",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 1 Ground Thunder Clacker Leg",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4031,7 +4032,7 @@
 		),
 		array (
 			"name"		=> "Mixed Clacker Leg",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 1 Powdered Clacker Leg",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4041,7 +4042,7 @@
 		),
 		array (
 			"name"		=> "Mix of Consumer Antenna",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 1 Powdered Consumer Antenna",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4051,7 +4052,7 @@
 		),
 		array (
 			"name"		=> "Mixed Consumer Leg",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 1 Powdered Consumer Leg",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4061,7 +4062,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Ynnwn's Toughness",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Toughness Essence, C 1 Zinc Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4071,7 +4072,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Kran's Vigor",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vigor Essence, C 1 Iron Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4081,7 +4082,7 @@
 		),
 		array (
 			"name"		=> "Mix of Kikiri Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vitriol salt, C 2 Purified Kikiri Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4091,7 +4092,7 @@
 		),
 		array (
 			"name"		=> "Mix of Distilled Coamti Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vitriol salt, C 1 Distilled Coamti Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4101,7 +4102,7 @@
 		),
 		array (
 			"name"		=> "Mix of Distilled Gobble Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vitriol salt, C 1 Distilled Gobble Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4111,7 +4112,7 @@
 		),
 		array (
 			"name"		=> "Mix of Distilled Velnishi Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vitriol salt, C 1 Distilled Velnishi Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4121,7 +4122,7 @@
 		),
 		array (
 			"name"		=> "Mix of Distilled Vilenaut Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vitriol salt, C 1 Distilled Vilenaut Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4131,7 +4132,7 @@
 		),
 		array (
 			"name"		=> "Mix of Distilled Weaver Arangma Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vitriol salt, C 1 Distilled Weaver Arangma Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4141,7 +4142,7 @@
 		),
 		array (
 			"name"		=> "Mix of Purified Maulberlord Blood",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vitriol salt, C 1 Purified Maulberlord Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4151,7 +4152,7 @@
 		),
 		array (
 			"name"		=> "Raw Minor Potion of Lemur's Smartness",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vitriol salt, C 1 Tin Ore Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4161,7 +4162,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Dermorian's Willpower",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Willpower Essence, C 1 Quicksilver Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -4181,7 +4182,7 @@
 		),
 		array (
 			"name"		=> "Willpower Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Consumer Pheromone",
 			"result"	=> "10",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4191,7 +4192,7 @@
 		),
 		array (
 			"name"		=> "Grace Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed Consumer Leg",
 			"result"	=> "7",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4201,7 +4202,7 @@
 		),
 		array (
 			"name"		=> "Smartness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed Vesper Arangma Eye",
 			"result"	=> "5",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4211,7 +4212,7 @@
 		),
 		array (
 			"name"		=> "Charme Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Distilled Vilenaut Blood",
 			"result"	=> "15",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4221,7 +4222,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Incinerated Tefusang Claw",
 			"result"	=> "7",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4231,7 +4232,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of incinerated Velnishi Talon",
 			"result"	=> "7",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4241,7 +4242,7 @@
 		),
 		array (
 			"name"		=> "Toughness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Limed Flayed Velnishi skull",
 			"result"	=> "12",
 			"tool"		=> "Crucible + Glass Stirrer",
@@ -4251,7 +4252,7 @@
 		),
 		array (
 			"name"		=> "Toughness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Limed Grendol bones",
 			"result"	=> "12",
 			"tool"		=> "Crucible + Glass Stirrer",
@@ -4281,7 +4282,7 @@
 		),
 		array (
 			"name"		=> "Limed Carkarass Skull",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Carkarass Skull",
 			"result"	=> "1",
 			"tool"		=> "Melting Pot",
@@ -4371,7 +4372,7 @@
 		),
 		array (
 			"name"		=> "Grace Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed Clacker Leg",
 			"result"	=> "2",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4381,7 +4382,7 @@
 		),
 		array (
 			"name"		=> "Grace Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed Thunder Clacker Leg",
 			"result"	=> "5",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4391,7 +4392,7 @@
 		),
 		array (
 			"name"		=> "Charme Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Distilled Gobble Blood",
 			"result"	=> "6",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4401,7 +4402,7 @@
 		),
 		array (
 			"name"		=> "Charme Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Distilled Velnishi Blood",
 			"result"	=> "7",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4411,7 +4412,7 @@
 		),
 		array (
 			"name"		=> "Charme Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Distilled Weaver Arangma Blood",
 			"result"	=> "3",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4591,7 +4592,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Flayed Velnishi Talon",
 			"result"	=> "12",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4601,7 +4602,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Incinerated Maulberlord Talon",
 			"result"	=> "20",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4611,7 +4612,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Incinerated Maulbernaut Talon",
 			"result"	=> "20",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4621,7 +4622,7 @@
 		),
 		array (
 			"name"		=> "Charme Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Purified Maulberlord Blood",
 			"result"	=> "20",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4681,7 +4682,7 @@
 		),
 		array (
 			"name"		=> "Smartness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed Coamti Eye",
 			"result"	=> "2",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4691,7 +4692,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of ground Trepor Warrior Talon",
 			"result"	=> "5",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4701,7 +4702,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Incinerated Tefusangling Claw",
 			"result"	=> "5",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4711,7 +4712,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Jade Clacker Talon",
 			"result"	=> "3",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4721,7 +4722,7 @@
 		),
 		array (
 			"name"		=> "Willpower Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Thunder Clacker Tentacle",
 			"result"	=> "5",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4731,7 +4732,7 @@
 		),
 		array (
 			"name"		=> "Willpower Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Trepor Wiggly Feeler",
 			"result"	=> "6",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4741,7 +4742,7 @@
 		),
 		array (
 			"name"		=> "Smartness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Wrath Rat Eye",
 			"result"	=> "4",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4751,7 +4752,7 @@
 		),
 		array (
 			"name"		=> "Toughness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Ground Serpent Gobble Bones",
 			"result"	=> "6",
 			"tool"		=> "Crucible + Glass Stirrer",
@@ -4761,7 +4762,7 @@
 		),
 		array (
 			"name"		=> "Toughness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Limed Carkarass skull",
 			"result"	=> "6",
 			"tool"		=> "Crucible + Glass Stirrer",
@@ -4771,7 +4772,7 @@
 		),
 		array (
 			"name"		=> "Toughness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Limed Eagle Gobble skull",
 			"result"	=> "6",
 			"tool"		=> "Crucible + Glass Stirrer",
@@ -4781,7 +4782,7 @@
 		),
 		array (
 			"name"		=> "Toughness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Limed Marfusang Bones",
 			"result"	=> "9",
 			"tool"		=> "Crucible + Glass Stirrer",
@@ -4791,7 +4792,7 @@
 		),
 		array (
 			"name"		=> "Toughness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Limed Serpent Gobble skull",
 			"result"	=> "6",
 			"tool"		=> "Crucible + Glass Stirrer",
@@ -4821,7 +4822,7 @@
 		),
 		array (
 			"name"		=> "Smartness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed Rats eyes",
 			"result"	=> "1",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4831,7 +4832,7 @@
 		),
 		array (
 			"name"		=> "Grace Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed Rats foot",
 			"result"	=> "1",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4841,7 +4842,7 @@
 		),
 		array (
 			"name"		=> "Charme Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Distilled Coamti Blood",
 			"result"	=> "2",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4851,7 +4852,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of incinerated Arangma Talon",
 			"result"	=> "1",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4861,7 +4862,7 @@
 		),
 		array (
 			"name"		=> "Charme Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Kikiri Blood",
 			"result"	=> "1",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4871,7 +4872,7 @@
 		),
 		array (
 			"name"		=> "Vigor Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Limed Coamti Talon",
 			"result"	=> "2",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -4881,7 +4882,7 @@
 		),
 		array (
 			"name"		=> "Willpower Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Vesper Arangma Feeler",
 			"result"	=> "4",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
@@ -5114,7 +5115,7 @@
 		//
 		array (
 			"name"		=> "Sword Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -5127,7 +5128,7 @@
 		//
 		array (
 			"name"		=> "Shortsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -5140,7 +5141,7 @@
 		//
 		array (
 			"name"		=> "Broadsword Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -5153,7 +5154,7 @@
 		//
 		array (
 			"name"		=> "Longsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -5163,7 +5164,7 @@
 		),
 		array (
 			"name"		=> "Claymore Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -5173,7 +5174,7 @@
 		),
 		array (
 			"name"		=> "Knife Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -5183,7 +5184,7 @@
 		),
 		array (
 			"name"		=> "Dagger Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -5193,7 +5194,7 @@
 		),
 		array (
 			"name"		=> "Sabre Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -6243,7 +6244,7 @@
 		//
 		array (
 			"name"		=> "Claymore Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Claymore Blade, C 1 Sword Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -6253,7 +6254,7 @@
 		),
 		array (
 			"name"		=> "Dagger Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dagger Blade, B 1 Leather Knife Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -6263,7 +6264,7 @@
 		),
 		array (
 			"name"		=> "Knife Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Knife Blade, B 1 Leather Knife Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -6273,7 +6274,7 @@
 		),
 		array (
 			"name"		=> "Longsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Longsword Blade, C 1 Sword Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -6283,7 +6284,7 @@
 		),
 		array (
 			"name"		=> "Sabre Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sabre Blade, C 1 Sword Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -6293,7 +6294,7 @@
 		),
 		array (
 			"name"		=> "Shortsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shortsword Blade, C 1 Sword Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -6306,7 +6307,7 @@
 		//
 		array (
 			"name"		=> "Heated Brittle Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6316,7 +6317,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6326,7 +6327,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Knife Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Knife Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6336,7 +6337,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6346,7 +6347,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Sabre Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6356,7 +6357,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Shortsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6366,7 +6367,7 @@
 		),
 		array (
 			"name"		=> "Heated Claymore Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Claymore Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6376,7 +6377,7 @@
 		),
 		array (
 			"name"		=> "Heated Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6386,7 +6387,7 @@
 		),
 		array (
 			"name"		=> "Heated Dagger Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dagger Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6396,7 +6397,7 @@
 		),
 		array (
 			"name"		=> "Heated Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6406,7 +6407,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6416,7 +6417,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6426,7 +6427,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Knife Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Knife Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6436,7 +6437,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6446,7 +6447,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Sabre Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6456,7 +6457,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Shortsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6466,7 +6467,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Claymore Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Claymore Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6476,7 +6477,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dagger Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Dagger Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6486,7 +6487,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Knife Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Knife Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6496,7 +6497,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Longsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Longsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6506,7 +6507,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Sabre Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Sabre Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6516,7 +6517,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Shortsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Shortsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6526,7 +6527,7 @@
 		),
 		array (
 			"name"		=> "Heated Knife Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Knife Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6536,7 +6537,7 @@
 		),
 		array (
 			"name"		=> "Heated Longsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Longsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6546,7 +6547,7 @@
 		),
 		array (
 			"name"		=> "Heated Sabre Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sabre Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6556,7 +6557,7 @@
 		),
 		array (
 			"name"		=> "Heated Shortsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shortsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6566,7 +6567,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Claymore Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Claymore Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6576,7 +6577,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Dagger Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dagger Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6586,7 +6587,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Knife Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Knife Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6596,7 +6597,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Longsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Longsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6606,7 +6607,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Sabre Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Sabre Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6616,7 +6617,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Shortsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Shortsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -6626,7 +6627,7 @@
 		),
 		array (
 			"name"		=> "Brittle Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Claymore Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6636,7 +6637,7 @@
 		),
 		array (
 			"name"		=> "Brittle Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Dagger Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6646,7 +6647,7 @@
 		),
 		array (
 			"name"		=> "Brittle Knife Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Knife Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6656,7 +6657,7 @@
 		),
 		array (
 			"name"		=> "Brittle Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Longsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6666,7 +6667,7 @@
 		),
 		array (
 			"name"		=> "Brittle Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Sabre Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6676,7 +6677,7 @@
 		),
 		array (
 			"name"		=> "Brittle Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Shortsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6686,7 +6687,7 @@
 		),
 		array (
 			"name"		=> "Dull Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6696,7 +6697,7 @@
 		),
 		array (
 			"name"		=> "Dull Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6706,7 +6707,7 @@
 		),
 		array (
 			"name"		=> "Dull Knife Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Knife Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6716,7 +6717,7 @@
 		),
 		array (
 			"name"		=> "Dull Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6726,7 +6727,7 @@
 		),
 		array (
 			"name"		=> "Dull Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Sabre Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6736,7 +6737,7 @@
 		),
 		array (
 			"name"		=> "Dull Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Shortsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -6746,7 +6747,7 @@
 		),
 		array (
 			"name"		=> "Leather Knife Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Copper Needle and Thread",
@@ -6756,7 +6757,7 @@
 		),
 		array (
 			"name"		=> "Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -6766,7 +6767,7 @@
 		),
 		array (
 			"name"		=> "Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -6776,7 +6777,7 @@
 		),
 		array (
 			"name"		=> "Knife Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Knife Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -6786,7 +6787,7 @@
 		),
 		array (
 			"name"		=> "Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -6796,7 +6797,7 @@
 		),
 		array (
 			"name"		=> "Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Sabre Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -6806,7 +6807,7 @@
 		),
 		array (
 			"name"		=> "Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Shortsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -8543,7 +8544,7 @@
 		//
 		array (
 			"name"		=> "Battle Hammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Hammer Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8553,7 +8554,7 @@
 		),
 		array (
 			"name"		=> "Battle Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Pick Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8563,7 +8564,7 @@
 		),
 		array (
 			"name"		=> "Club Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Club Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8573,7 +8574,7 @@
 		),
 		array (
 			"name"		=> "Flail Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Flail Mace Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8583,7 +8584,7 @@
 		),
 		array (
 			"name"		=> "Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Flanged Mace Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8593,7 +8594,7 @@
 		),
 		array (
 			"name"		=> "Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8603,7 +8604,7 @@
 		),
 		array (
 			"name"		=> "Morning Star Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Morning Star Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8613,7 +8614,7 @@
 		),
 		array (
 			"name"		=> "Spiked Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Warhammer Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8623,7 +8624,7 @@
 		),
 		array (
 			"name"		=> "War Club Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 War Club Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8633,7 +8634,7 @@
 		),
 		array (
 			"name"		=> "War Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 War Flanged Mace Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8643,7 +8644,7 @@
 		),
 		array (
 			"name"		=> "Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Warhammer Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8653,7 +8654,7 @@
 		),
 		array (
 			"name"		=> "War Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 War Pick Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -8663,7 +8664,7 @@
 		),
 		array (
 			"name"		=> "Flail Mace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Closed Chain, C 1 Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8673,7 +8674,7 @@
 		),
 		array (
 			"name"		=> "Club Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Club Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8683,7 +8684,7 @@
 		),
 		array (
 			"name"		=> "Flanged Mace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8693,7 +8694,7 @@
 		),
 		array (
 			"name"		=> "Battle Hammer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Hammer Base, C 1 Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8703,7 +8704,7 @@
 		),
 		array (
 			"name"		=> "Battle Pick Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Hammer Base, C 1 Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8716,7 +8717,7 @@
 		//
 		array (
 			"name"		=> "Mace Battle Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle Shape, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8729,7 +8730,7 @@
 		//
 		array (
 			"name"		=> "Mace Battle Hand",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle Shape, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8739,7 +8740,7 @@
 		),
 		array (
 			"name"		=> "Mace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8749,7 +8750,7 @@
 		),
 		array (
 			"name"		=> "War Club Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Club Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8759,7 +8760,7 @@
 		),
 		array (
 			"name"		=> "War Flanged Mace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8769,7 +8770,7 @@
 		),
 		array (
 			"name"		=> "Warhammer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Hammer Base, C 2 Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8779,7 +8780,7 @@
 		),
 		array (
 			"name"		=> "War Pick Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Hammer Base, C 2 Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8789,7 +8790,7 @@
 		),
 		array (
 			"name"		=> "Spiked Warhammer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Hammer Base, C 1 Hammer Head, C 1 Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8802,7 +8803,7 @@
 		//
 		array (
 			"name"		=> "Mace War Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle Shape, C 4 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8815,7 +8816,7 @@
 		//
 		array (
 			"name"		=> "Morning Star Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -8828,7 +8829,7 @@
 		//
 		array (
 			"name"		=> "Wooden Baton",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Threestem Wood",
 			"result"	=> "4",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -8838,7 +8839,7 @@
 		),
 		array (
 			"name"		=> "Half Wooden baton",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Baton",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -8851,7 +8852,7 @@
 		//
 		array (
 			"name"		=> "Heated Club Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Club Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -8861,7 +8862,7 @@
 		),
 		array (
 			"name"		=> "Hammer Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 12 Heated Steel Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -8871,7 +8872,7 @@
 		),
 		array (
 			"name"		=> "Closed Chain",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Chain Links",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -8881,7 +8882,7 @@
 		),
 		array (
 			"name"		=> "Chain Links",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Heated Steel Ingot",
 			"result"	=> "6",
 			"tool"		=> "Anvil + Hammer",
@@ -8891,7 +8892,7 @@
 		),
 		array (
 			"name"		=> "Club Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -8901,7 +8902,7 @@
 		),
 		array (
 			"name"		=> "Hammer Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 7 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -8911,7 +8912,7 @@
 		),
 		array (
 			"name"		=> "Flanged Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -8921,7 +8922,7 @@
 		),
 		array (
 			"name"		=> "Spiked Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 9 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -8934,7 +8935,7 @@
 		//
 		array (
 			"name"		=> "Mace Battle Handle Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Half Wooden baton",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -8947,7 +8948,7 @@
 		//
 		array (
 			"name"		=> "Club Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Club Head",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -8957,7 +8958,7 @@
 		),
 		array (
 			"name"		=> "Hammer Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -8970,7 +8971,7 @@
 		//
 		array (
 			"name"		=> "Mace War Handle Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Baton",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -9626,7 +9627,7 @@
 		//
 		array (
 			"name"		=> "Small Wooden Shield Core",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Shaped Small Wooden Block",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9639,7 +9640,7 @@
 		//
 		array (
 			"name"		=> "Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buckler Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9652,7 +9653,7 @@
 		//
 		array (
 			"name"		=> "Buckler Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -9662,7 +9663,7 @@
 		),
 		array (
 			"name"		=> "Iron Band",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 7 Heated Iron Ingot",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
@@ -9675,7 +9676,7 @@
 		//
 		array (
 			"name"		=> "Shaped Small Wooden Block",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Wooden Block",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -9688,7 +9689,7 @@
 		//
 		array (
 			"name"		=> "Shaped Wooden Block",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Block",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -9701,7 +9702,7 @@
 		//
 		array (
 			"name"		=> "Wooden Shield Core",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Shaped Small Wooden Block, C 1 Shaped Wooden Block",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9714,7 +9715,7 @@
 		//
 		array (
 			"name"		=> "Bronze Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Buckler Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9724,7 +9725,7 @@
 		),
 		array (
 			"name"		=> "Small Spiked Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Spike, C 1 Small Spiked Bronze Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9734,7 +9735,7 @@
 		),
 		array (
 			"name"		=> "Iron Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Buckler Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9744,7 +9745,7 @@
 		),
 		array (
 			"name"		=> "Small Spiked Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Spike, C 1 Small Spiked Iron Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9754,7 +9755,7 @@
 		),
 		array (
 			"name"		=> "Small Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shield Spike, C 1 Small Spiked Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9764,7 +9765,7 @@
 		),
 		array (
 			"name"		=> "Small Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Bronze Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9774,7 +9775,7 @@
 		),
 		array (
 			"name"		=> "Small Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Iron Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9784,7 +9785,7 @@
 		),
 		array (
 			"name"		=> "Small Round Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Bronze Shield Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9794,7 +9795,7 @@
 		),
 		array (
 			"name"		=> "Small Round Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Iron Shield Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9804,7 +9805,7 @@
 		),
 		array (
 			"name"		=> "Small Round Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Shape, B 1 Small Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9814,7 +9815,7 @@
 		),
 		array (
 			"name"		=> "Small Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9824,7 +9825,7 @@
 		),
 		array (
 			"name"		=> "Reinforced Wooden Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Shield Core, C 1 Leather Shield Handle, C 2 Iron Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9834,7 +9835,7 @@
 		),
 		array (
 			"name"		=> "Wooden and Metal Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Shield Core, C 1 Leather Shield Handle, C 4 Iron Band",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -9847,7 +9848,7 @@
 		//
 		array (
 			"name"		=> "Wooden Block",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Threestem Wood",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -9857,7 +9858,7 @@
 		),
 		array (
 			"name"		=> "Wooden Block",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 White Oak Wood",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -9867,7 +9868,7 @@
 		),
 		array (
 			"name"		=> "Small Wooden Block",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Block",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -9880,7 +9881,7 @@
 		//
 		array (
 			"name"		=> "Iron Edgings",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 14 Heated Iron Ingot",
 			"result"	=> "7",
 			"tool"		=> "Anvil + Hammer",
@@ -9893,7 +9894,7 @@
 		//
 		array (
 			"name"		=> "Bronze Buckler Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -9906,7 +9907,7 @@
 		//
 		array (
 			"name"		=> "Iron Buckler Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Iron Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -9919,7 +9920,7 @@
 		//
 		array (
 			"name"		=> "Small Round Bronze Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -9932,7 +9933,7 @@
 		//
 		array (
 			"name"		=> "Small Round Iron Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Iron Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -9945,7 +9946,7 @@
 		//
 		array (
 			"name"		=> "Small Round Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -9958,7 +9959,7 @@
 		//
 		array (
 			"name"		=> "Small Bronze Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -9971,7 +9972,7 @@
 		//
 		array (
 			"name"		=> "Small Iron Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Heated Iron Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -9984,7 +9985,7 @@
 		//
 		array (
 			"name"		=> "Small Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -9997,7 +9998,7 @@
 		//
 		array (
 			"name"		=> "Small Spiked Bronze Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -10007,7 +10008,7 @@
 		),
 		array (
 			"name"		=> "Small Spiked Iron Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Heated Iron Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -10017,7 +10018,7 @@
 		),
 		array (
 			"name"		=> "Small Spiked Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -10030,7 +10031,7 @@
 		//
 		array (
 			"name"		=> "Bronze Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Bronze Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -10043,7 +10044,7 @@
 		//
 		array (
 			"name"		=> "Iron Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Iron Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -10056,7 +10057,7 @@
 		//
 		array (
 			"name"		=> "Shield Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Steel Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -10069,7 +10070,7 @@
 		//
 		array (
 			"name"		=> "Leather Shield Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -11748,7 +11749,7 @@
 		//
 		array (
 			"name"		=> "Round Wooden Shield Core",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Shaped Small Wooden Block",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11761,7 +11762,7 @@
 		//
 		array (
 			"name"		=> "Spiked Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Bronze Spike, C 1 Spiked Bronze Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11771,7 +11772,7 @@
 		),
 		array (
 			"name"		=> "Spiked Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Iron Spike, C 1 Spiked Iron Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11781,7 +11782,7 @@
 		),
 		array (
 			"name"		=> "Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Shield Spike, C 1 Spiked Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11791,7 +11792,7 @@
 		),
 		array (
 			"name"		=> "Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11801,7 +11802,7 @@
 		),
 		array (
 			"name"		=> "Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11811,7 +11812,7 @@
 		),
 		array (
 			"name"		=> "Round Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Bronze Shield Shape, C 1 Round Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11821,7 +11822,7 @@
 		),
 		array (
 			"name"		=> "Round Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Iron Shield Shape, C 1 Round Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11831,7 +11832,7 @@
 		),
 		array (
 			"name"		=> "Round Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Shape, C 1 Round Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11841,7 +11842,7 @@
 		),
 		array (
 			"name"		=> "Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shield Shape, C 1 Wooden Shield Core, C 1 Leather Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11851,7 +11852,7 @@
 		),
 		array (
 			"name"		=> "Three Rivet Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Shield Handle, C 4 Bronze Band, B 1 Small Wicker Shield Core, C 2 Bronze Half Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11861,7 +11862,7 @@
 		),
 		array (
 			"name"		=> "Three Rivet Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Shield Handle, C 4 Bronze Band, B 1 Small Wooden Shield Core, C 2 Bronze Half Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11871,7 +11872,7 @@
 		),
 		array (
 			"name"		=> "Banded Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Shield Shape, C 1 Shield Handle, C 3 Shield Band, B 1 Small Wicker Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11881,7 +11882,7 @@
 		),
 		array (
 			"name"		=> "Banded Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Shield Shape, C 1 Shield Handle, C 3 Shield Band, B 1 Small Wooden Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11891,7 +11892,7 @@
 		),
 		array (
 			"name"		=> "Stinger Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, B 1 Wicker Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11901,7 +11902,7 @@
 		),
 		array (
 			"name"		=> "Stinger Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 1 Wooden Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11911,7 +11912,7 @@
 		),
 		array (
 			"name"		=> "Five-Spiked Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 5 Shield Spike, C 1 Shield Band, B 1 Wicker Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11921,7 +11922,7 @@
 		),
 		array (
 			"name"		=> "Five-Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 5 Shield Spike, C 1 Shield Band, C 1 Wooden Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -11934,7 +11935,7 @@
 		//
 		array (
 			"name"		=> "Dried Reed",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Wyn Reed",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -11944,7 +11945,7 @@
 		),
 		array (
 			"name"		=> "Bronze Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 10 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -11957,7 +11958,7 @@
 		//
 		array (
 			"name"		=> "Iron Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 10 Heated Iron Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -11967,7 +11968,7 @@
 		),
 		array (
 			"name"		=> "Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 10 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -11980,7 +11981,7 @@
 		//
 		array (
 			"name"		=> "Spiked Bronze Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 11 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -11993,7 +11994,7 @@
 		//
 		array (
 			"name"		=> "Spiked Iron Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 11 Heated Iron Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -12006,7 +12007,7 @@
 		//
 		array (
 			"name"		=> "Spiked Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 11 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -12019,7 +12020,7 @@
 		//
 		array (
 			"name"		=> "Shield Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 12 Heated Steel Ingot",
 			"result"	=> "6",
 			"tool"		=> "Anvil + Hammer",
@@ -12029,7 +12030,7 @@
 		),
 		array (
 			"name"		=> "Shield Edgings",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 14 Heated Steel Ingot",
 			"result"	=> "7",
 			"tool"		=> "Anvil + Hammer",
@@ -12042,7 +12043,7 @@
 		//
 		array (
 			"name"		=> "Bronze Half Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Bronze Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -12055,7 +12056,7 @@
 		//
 		array (
 			"name"		=> "Bronze Band",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 7 Heated Bronze Ingot",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
@@ -12068,7 +12069,7 @@
 		//
 		array (
 			"name"		=> "Shield Band",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 7 Heated Steel Ingot",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
@@ -12081,7 +12082,7 @@
 		//
 		array (
 			"name"		=> "Shield Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Heated Steel Ingot",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
@@ -12094,7 +12095,7 @@
 		//
 		array (
 			"name"		=> "Round Bronze Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 9 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -12107,7 +12108,7 @@
 		//
 		array (
 			"name"		=> "Round Iron Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 9 Heated Iron Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -12120,7 +12121,7 @@
 		//
 		array (
 			"name"		=> "Round Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 9 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -12133,7 +12134,7 @@
 		//
 		array (
 			"name"		=> "Small Wicker Shield Core",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Wicker Section",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -12146,7 +12147,7 @@
 		//
 		array (
 			"name"		=> "Wicker Shield Core",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Wicker Section",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -12159,7 +12160,7 @@
 		//
 		array (
 			"name"		=> "Wicker Section",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Dried Reed",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -13827,7 +13828,7 @@
 		//
 		array (
 			"name"		=> "Smith's Soup",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Smith's Soup Mix",
 			"result"	=> "1",
 			"tool"		=> "Melting Pot + Glass Stirrer",
@@ -13837,7 +13838,7 @@
 		),
 		array (
 			"name"		=> "Brasser Steak Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small chunk of Copper Ore, C 1 Small chunk of Zinc Ore, C 3 Small chunk of Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13847,7 +13848,7 @@
 		),
 		array (
 			"name"		=> "Shiny Brasser Steak Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small chunk of Copper Ore, C 1 Small chunk of Zinc Ore, C 3 Small chunk of Coal, C 1 Silver Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13857,7 +13858,7 @@
 		),
 		array (
 			"name"		=> "Green Gold Steak Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small chunk of Gold Ore, C 2 Small chunk of Silver Ore, C 1 Gold Solution, C 1 Silver Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13867,7 +13868,7 @@
 		),
 		array (
 			"name"		=> "Bronzed coal Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Small chunk of Coal, C 1 Powdered Tin, C 1 Powdered Copper, B 1 Stibine",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13877,7 +13878,7 @@
 		),
 		array (
 			"name"		=> "Blue Gold Floater Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Small chunk of Iron, C 1 Gold Solution, B 1 Tartar",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13887,7 +13888,7 @@
 		),
 		array (
 			"name"		=> "Zincer's Dish Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Small chunk of Zinc Ore, C 1 Zinc Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13897,7 +13898,7 @@
 		),
 		array (
 			"name"		=> "Tin Burger Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Big chunk of Coal, C 3 Small chunk of Tin Ore, B 1 Stibine",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13907,7 +13908,7 @@
 		),
 		array (
 			"name"		=> "Copper Steak Shiny Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Big chunk of Copper Ore, C 3 Small chunk of Coal, C 1 Gold Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13917,7 +13918,7 @@
 		),
 		array (
 			"name"		=> "Copper Steak Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Big chunk of Copper Ore, C 3 Small chunk of Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13927,7 +13928,7 @@
 		),
 		array (
 			"name"		=> "Big Red Gold Steak Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Big chunk of Gold Ore, C 1 Gold Solution, C 1 Copper Solution, B 1 Stibine",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13937,7 +13938,7 @@
 		),
 		array (
 			"name"		=> "Big Blue Gold Steak Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Big chunk of Gold Ore, C 1 Gold Solution, C 1 Iron Solution, B 1 Tartar",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13947,7 +13948,7 @@
 		),
 		array (
 			"name"		=> "Smith's Steak Shiny Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Big chunk of Iron Ore, C 3 Small chunk of Coal, C 1 Gold Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13957,7 +13958,7 @@
 		),
 		array (
 			"name"		=> "Smith's Steak Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Big chunk of Iron Ore, C 3 Small chunk of Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13967,7 +13968,7 @@
 		),
 		array (
 			"name"		=> "Minter's Silver Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Big chunk of Silver Ore, C 1 Silver Solution, C 1 Copper Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13977,7 +13978,7 @@
 		),
 		array (
 			"name"		=> "Brasser Soup Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Coal, C 1 Copper Ore Solution, C 1 Zinc Ore Solution, C 2 Small chunk of Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13987,7 +13988,7 @@
 		),
 		array (
 			"name"		=> "Electrum Soup Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Coal, C 1 Gold Solution, C 1 Silver Ore Solution, C 2 Small chunk of Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -13997,7 +13998,7 @@
 		),
 		array (
 			"name"		=> "Green Gold Soup Surprise Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Coal, C 1 Gold Solution, C 1 Silver Ore Solution, C 1 Shards of Diamond Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14007,7 +14008,7 @@
 		),
 		array (
 			"name"		=> "Smith's Soup Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Coal, C 1 Iron Ore Solution, C 2 Small chunk of Coal, B 1 Stibine",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14017,7 +14018,7 @@
 		),
 		array (
 			"name"		=> "Bronze Soup Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Coal, C 1 Tin Ore Solution, C 1 Copper Ore Solution, C 2 Small chunk of Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14027,7 +14028,7 @@
 		),
 		array (
 			"name"		=> "Blue Gold Sauce Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Gold, C 1 Iron Solution, C 2 Small chunk of Gold",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14037,7 +14038,7 @@
 		),
 		array (
 			"name"		=> "Smith Bronzed Brasser Steak Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Iron, C 1 Powdered Zinc, C 1 Powdered Copper, C 3 Small chunk of Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14047,7 +14048,7 @@
 		),
 		array (
 			"name"		=> "Electrum Mixer Dish Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small chunk of Gold Ore, C 1 Small chunk of Silver Ore, C 1 Small chunk of Copper Ore, C 1 Silver Solution, C 1 Copper Solution",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14057,7 +14058,7 @@
 		),
 		array (
 			"name"		=> "Forge Mixer Dish Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small chunk of Gold Ore, C 1 Small chunk of Silver Ore, C 1 Small chunk of Copper Ore, C 1 Small chunk of Tin Ore, C 1 Powdered Iron",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14067,7 +14068,7 @@
 		),
 		array (
 			"name"		=> "Minter's Floater Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small chunk of Zinc, C 1 Silver Solution, B 1 Stibine",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14287,7 +14288,7 @@
 		),
 		array (
 			"name"		=> "Electrum Soup",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Electrum Soup Mix",
 			"result"	=> "1",
 			"tool"		=> "Melting Pot + Glass Stirrer",
@@ -14730,7 +14731,7 @@
 		//
 		array (
 			"name"		=> "Diamond Popsicle Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crystal sludge, C 1 Shards of Diamond Crystal, C 1 Powdered Diamond Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14740,7 +14741,7 @@
 		),
 		array (
 			"name"		=> "Emerald Popsicle Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crystal sludge, C 1 Shards of Emerald Crystal, C 1 Powdered Emerald Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14750,7 +14751,7 @@
 		),
 		array (
 			"name"		=> "Ruby Popsicle Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crystal sludge, C 1 Shards of Ruby Crystal, C 1 Powdered Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14760,7 +14761,7 @@
 		),
 		array (
 			"name"		=> "Sapphire Popsicle Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crystal sludge, C 1 Shards of Sapphire Crystal, C 1 Powdered Sapphire Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14770,7 +14771,7 @@
 		),
 		array (
 			"name"		=> "Kran Ale Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Distilled Water, C 1 Salt spirit, C 1 Vitriol salt, C 1 Nitric spirit",
 			"result"	=> "4",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14780,7 +14781,7 @@
 		),
 		array (
 			"name"		=> "Sweet Electrum Sauce Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Solution, C 1 Copper Solution, C 1 Powdered Diamond Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14790,7 +14791,7 @@
 		),
 		array (
 			"name"		=> "Golden Sunrise Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nitric spirit, C 1 Salt spirit, C 1 Small chunk of Gold Ore",
 			"result"	=> "3",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14800,7 +14801,7 @@
 		),
 		array (
 			"name"		=> "Dusted Diamond and Ruby Delight Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Ruby Crystal, C 1 Powdered Diamond Crystal, C 4 Small chunk of Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14810,7 +14811,7 @@
 		),
 		array (
 			"name"		=> "Dusted Emerald and Sapphire Delight Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Powdered Sapphire Crystal, C 1 Powdered Emerald Crystal, C 4 Small chunk of Coal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14820,7 +14821,7 @@
 		),
 		array (
 			"name"		=> "Kran Liquor Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Quicksilver Solution, C 1 Nitric spirit, C 1 Distilled Water",
 			"result"	=> "3",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14830,7 +14831,7 @@
 		),
 		array (
 			"name"		=> "Kran Sweeties Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shards of Sapphire Crystal, C 1 Shards of Diamond Crystal, C 1 Shards of Ruby Crystal, C 1 Shards of Emerald Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14840,7 +14841,7 @@
 		),
 		array (
 			"name"		=> "Sweet Bronze Sauce Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Solution, C 1 Tin Solution, C 1 Copper Solution, C 1 Powdered Sapphire Crystal, C 1 Powdered Emerald Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14850,7 +14851,7 @@
 		),
 		array (
 			"name"		=> "Smith's Delight Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small chunk of Iron, C 1 Powdered Diamond Crystal, C 1 Powdered Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14860,7 +14861,7 @@
 		),
 		array (
 			"name"		=> "Minter's Delight Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small chunk of Silver Ore, C 1 Small chunk of Zinc, C 1 Powdered Diamond Crystal, C 1 Powdered Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14870,7 +14871,7 @@
 		),
 		array (
 			"name"		=> "Brassed Delightful Sauce Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Zinc Solution, C 1 Copper Solution, C 1 Crystal sludge, C 1 Powdered Ruby Crystal",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -14880,7 +14881,7 @@
 		),
 		array (
 			"name"		=> "Diamond Popsicle",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Diamond Popsicle Mix",
 			"result"	=> "3",
 			"tool"		=> "Melting Pot + Glass Stirrer",
@@ -14890,7 +14891,7 @@
 		),
 		array (
 			"name"		=> "Ruby Popsicle",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Ruby Popsicle Mix",
 			"result"	=> "3",
 			"tool"		=> "Melting Pot + Glass Stirrer",
@@ -14900,7 +14901,7 @@
 		),
 		array (
 			"name"		=> "Sapphire Popsicle",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Sapphire Popsicle Mix",
 			"result"	=> "3",
 			"tool"		=> "Melting Pot + Glass Stirrer",
@@ -15093,7 +15094,7 @@
 		),
 		array (
 			"name"		=> "Hot Wragberry Oil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -15103,7 +15104,7 @@
 		),
 		array (
 			"name"		=> "Wrapping Fish and Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 15 Pat of Butter, C 2 Filleted Trout, C 1 Rolled Pastry Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15113,7 +15114,7 @@
 		),
 		array (
 			"name"		=> "Crayfish and Clacker Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Crayfish Meat, C 1 Pile of Cubed Clacker Meat, C 1 Minced Pungent Tuber, C 1 Sliced Bogo Pepper, C 2 Dash of Ground Wyn Reed, C 1 Pinch of Barberry",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15123,7 +15124,7 @@
 		),
 		array (
 			"name"		=> "Marinated Dace Steak",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Filleted Dace, B 1 Beer Mug",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15133,7 +15134,7 @@
 		),
 		array (
 			"name"		=> "Lionfish in Salted Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Filleted Lionfish, C 1 Water Pouch, C 1 Pinch of Salt",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15143,7 +15144,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Mushroom and Tuber",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Minced Pungent Tuber, C 3 Sliced Night Mushroom, C 1 Dash of Saffron, C 1 Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15153,7 +15154,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Beer Batter",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Scoop of Flour, C 1 Egg Mixture, B 1 Beer Mug, C 1 Pinch of Salt",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15166,7 +15167,7 @@
 		//
 		array (
 			"name"		=> "Egg Slop",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 4 Egg, C 1 Scoop of Milk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15179,7 +15180,7 @@
 		//
 		array (
 			"name"		=> "Unmixed Juiceberry Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Pat of Butter, C 2 Scoop of Flour, C 1 Juiceberry Juice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15192,7 +15193,7 @@
 		//
 		array (
 			"name"		=> "Mixed Nut",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Burr Nut, C 4 Jookans, C 5 Banut",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15205,7 +15206,7 @@
 		//
 		array (
 			"name"		=> "Unmixed Crayfish And Kartoffel Soup",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Boiled Kartoffel, C 2 Sliced Carrot, C 1 Fried Crayfish and Clacker Mix, C 1 Thickening Sauce",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15215,7 +15216,7 @@
 		),
 		array (
 			"name"		=> "Glazed Carp Fish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Seared Carp Fish, C 1 Thick Apple Glaze",
 			"result"	=> "6",
 			"tool"		=> "Preparation Table (combine)",
@@ -15225,7 +15226,7 @@
 		),
 		array (
 			"name"		=> "Glazed Coppernose",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Seared Coppernose, C 1 Thick Apple Glaze",
 			"result"	=> "6",
 			"tool"		=> "Preparation Table (combine)",
@@ -15235,7 +15236,7 @@
 		),
 		array (
 			"name"		=> "Glazed Crayfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Seared Crayfish, C 1 Thick Apple Glaze",
 			"result"	=> "6",
 			"tool"		=> "Preparation Table (combine)",
@@ -15245,7 +15246,7 @@
 		),
 		array (
 			"name"		=> "Glazed Dace Fish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Seared Dace, C 1 Thick Apple Glaze",
 			"result"	=> "6",
 			"tool"		=> "Preparation Table (combine)",
@@ -15255,7 +15256,7 @@
 		),
 		array (
 			"name"		=> "Glazed Eel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Seared Eel, C 1 Thick Apple Glaze",
 			"result"	=> "6",
 			"tool"		=> "Preparation Table (combine)",
@@ -15265,7 +15266,7 @@
 		),
 		array (
 			"name"		=> "Glazed Ide",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Seared Ide, C 1 Thick Apple Glaze",
 			"result"	=> "6",
 			"tool"		=> "Preparation Table (combine)",
@@ -15275,7 +15276,7 @@
 		),
 		array (
 			"name"		=> "Glazed Trout",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 6 Seared Trout, C 1 Thick Apple Glaze",
 			"result"	=> "6",
 			"tool"		=> "Preparation Table (combine)",
@@ -15285,7 +15286,7 @@
 		),
 		array (
 			"name"		=> "Unfried Trasok's Beer Battered Trout",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Beer Batter, C 1 Filleted Trout, C 1 Hot Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15295,7 +15296,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Eel Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiled Eel Pie Filling, C 1 Juiceberry Sauce, C 2 Rolled Pastry Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15305,7 +15306,7 @@
 		),
 		array (
 			"name"		=> "Seasoned Ide",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Ide, C 2 Pinch of Salt, C 1 Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15315,7 +15316,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Ynnwn Fish Platter",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dash of Ground Wyn Reed, C 1 Baked Ide, C 1 Chopped Nut, C 1 Juiceberry Juice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15325,7 +15326,7 @@
 		),
 		array (
 			"name"		=> "Fire Spice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Diced Fire Fruit, C 5 Dash of Ground Corium Seed, C 5 Pinch of Salt",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15335,7 +15336,7 @@
 		),
 		array (
 			"name"		=> "Buttery Carp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Carp, C 1 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15345,7 +15346,7 @@
 		),
 		array (
 			"name"		=> "Buttery Coppernose",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Coppernose, C 1 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15355,7 +15356,7 @@
 		),
 		array (
 			"name"		=> "Buttery Crayfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Crayfish, C 1 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15365,7 +15366,7 @@
 		),
 		array (
 			"name"		=> "Buttery Dace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Dace, C 1 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15375,7 +15376,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Eel Pie Filling",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Eel, C 4 Sliced Night Mushroom, C 1 Dash of Ground Corium Seed, C 1 Pinch of Salt, B 1 Red Liquor Mug, C 1 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15385,7 +15386,7 @@
 		),
 		array (
 			"name"		=> "Buttery Eel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Eel, C 1 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15395,7 +15396,7 @@
 		),
 		array (
 			"name"		=> "Buttery Ide",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Ide, C 1 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15405,7 +15406,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Orfe with Night Mushroom",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Orfe, C 1 Fried Mushroom and Tuber, C 1 Pinch of Sinaflar, C 1 Pinch of Salt, C 1 Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15415,7 +15416,7 @@
 		),
 		array (
 			"name"		=> "Buttery Trout",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Trout, C 1 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15425,7 +15426,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Perch and Rat Stew",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Fried Stew Mix, C 2 Water Pouch, C 1 Diced Threestem Fruit, C 1 Pinch of Salt, C 1 Pile of Diced Rat Meat, C 1 Diced Perch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15435,7 +15436,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Octarchs Delight",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Grilled Filleted Unicornfish, C 2 Boiling Terevan Berry Wine Sauce, C 1 Dash of Ground Eyebright",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15445,7 +15446,7 @@
 		),
 		array (
 			"name"		=> "Pungent Tuber Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hot Pungent Tuber Mash, C 2 Scoop of Milk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15455,7 +15456,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Pungent Tuber Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Minced Pungent Tuber, C 2 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15465,7 +15466,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Spicy Coppernose",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pan-Fried Coppernose, C 1 Fried Pepper Garnish, C 1 Juiceberry Juice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15475,7 +15476,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Pepper Garnish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pat of Butter, C 1 Diced Bogo Pepper, C 1 Pinch of Barberry",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15485,7 +15486,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Spiced Stuffing",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pinch of Salt, C 1 Dash of Trefoil, C 2 Minced Pungent Tuber, B 1 Cider Mug, C 1 Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15498,7 +15499,7 @@
 		//
 		array (
 			"name"		=> "Boiling Kartoffel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pot of Boiling Water, C 4 Cubed Kartoffel",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15511,7 +15512,7 @@
 		//
 		array (
 			"name"		=> "Unmixed Lionfish Souffle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pungent Tuber Sauce, C 1 Mashed Kartoffel, C 1 Egg Mixture, C 1 Mashed Lionfish",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15521,7 +15522,7 @@
 		),
 		array (
 			"name"		=> "Frying Roltok",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Raw Roltok, C 1 Hot Cooking Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15531,7 +15532,7 @@
 		),
 		array (
 			"name"		=> "Thin Apple Glaze",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Reduced Red Liquor, C 2 Sliced Apple, C 3 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15541,7 +15542,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Thickening Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Scoop of Flour, C 1 Pat of Butter, C 2 Scoop of Milk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15551,7 +15552,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Stuffed Bream",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiced Stuffing, C 1 Filleted Bream",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15561,7 +15562,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Terevan Berry Wine Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Terevan Wine Bottle, C 2 Dash of Fire Spice, C 1 Diced Threestem Fruit, C 1 Pinch of Salt",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15571,7 +15572,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Stew Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wragberry Oil, C 2 Sliced Pungent Tuber, C 2 Sliced Bogo Pepper, C 4 Cubed Kartoffel",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -15584,7 +15585,7 @@
 		//
 		array (
 			"name"		=> "Peeled Apple",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Apple",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15597,7 +15598,7 @@
 		//
 		array (
 			"name"		=> "Sliced Bogo Pepper",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Bogo Pepper",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15610,7 +15611,7 @@
 		//
 		array (
 			"name"		=> "Cleaned Bream",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Bream",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15620,7 +15621,7 @@
 		),
 		array (
 			"name"		=> "Cleaned Carp Fish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Carp Fish",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15633,7 +15634,7 @@
 		//
 		array (
 			"name"		=> "Sliced Carrot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Carrot",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15646,7 +15647,7 @@
 		//
 		array (
 			"name"		=> "Filleted Bream",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Bream",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15656,7 +15657,7 @@
 		),
 		array (
 			"name"		=> "Filleted Carp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Carp Fish",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15666,7 +15667,7 @@
 		),
 		array (
 			"name"		=> "Filleted Coppernose",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Coppernose",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15676,7 +15677,7 @@
 		),
 		array (
 			"name"		=> "Filleted Dace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Dace",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15686,7 +15687,7 @@
 		),
 		array (
 			"name"		=> "Filleted Eel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Eel",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15696,7 +15697,7 @@
 		),
 		array (
 			"name"		=> "Filleted Ide",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Ide",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15706,7 +15707,7 @@
 		),
 		array (
 			"name"		=> "Filleted Lionfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned LionFish",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15716,7 +15717,7 @@
 		),
 		array (
 			"name"		=> "Filleted Orfe",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Orfe",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15726,7 +15727,7 @@
 		),
 		array (
 			"name"		=> "Perch Steak",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Perch",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15736,7 +15737,7 @@
 		),
 		array (
 			"name"		=> "Filleted Trout",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Trout",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15746,7 +15747,7 @@
 		),
 		array (
 			"name"		=> "Filleted Unicornfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cleaned Unicornfish",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15756,7 +15757,7 @@
 		),
 		array (
 			"name"		=> "Cleaned Coppernose",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Coppernose",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15769,7 +15770,7 @@
 		//
 		array (
 			"name"		=> "Sliced Apple",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cored Apple",
 			"result"	=> "4",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15782,7 +15783,7 @@
 		//
 		array (
 			"name"		=> "Crayfish Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Crayfish",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15792,7 +15793,7 @@
 		),
 		array (
 			"name"		=> "Filleted Crayfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crayfish Meat",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15802,7 +15803,7 @@
 		),
 		array (
 			"name"		=> "Cleaned Dace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Dace",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15815,7 +15816,7 @@
 		//
 		array (
 			"name"		=> "Minced Pungent Tuber",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Diced Pungent Tuber",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15828,7 +15829,7 @@
 		//
 		array (
 			"name"		=> "Cleaned Eel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Eel",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15838,7 +15839,7 @@
 		),
 		array (
 			"name"		=> "Sliced Fire Fruit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Fire Fruit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15848,7 +15849,7 @@
 		),
 		array (
 			"name"		=> "Cleaned Ide",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Ide",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15861,7 +15862,7 @@
 		//
 		array (
 			"name"		=> "Peeled Kartoffel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Kartoffel",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15874,7 +15875,7 @@
 		//
 		array (
 			"name"		=> "Cleaned LionFish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Lionfish",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15887,7 +15888,7 @@
 		//
 		array (
 			"name"		=> "Chopped Nut",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mixed Nut",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15900,7 +15901,7 @@
 		//
 		array (
 			"name"		=> "Sliced Night Mushroom",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Night Mushroom",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15913,7 +15914,7 @@
 		//
 		array (
 			"name"		=> "Cleaned Orfe",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Orfe",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15926,7 +15927,7 @@
 		//
 		array (
 			"name"		=> "Cored Apple",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Peeled Apple",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15939,7 +15940,7 @@
 		//
 		array (
 			"name"		=> "Cubed Kartoffel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Peeled Kartoffel",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15952,7 +15953,7 @@
 		//
 		array (
 			"name"		=> "Cleaned Perch",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Perch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15962,7 +15963,7 @@
 		),
 		array (
 			"name"		=> "Diced Perch",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perch Steak",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15972,7 +15973,7 @@
 		),
 		array (
 			"name"		=> "Pile of Diced Rat Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pile of Rat Meat Chunk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15985,7 +15986,7 @@
 		//
 		array (
 			"name"		=> "Sliced Pungent Tuber",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Pungent Tuber",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -15998,7 +15999,7 @@
 		//
 		array (
 			"name"		=> "Pile of Rat Meat Chunk",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Rat Meat",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -16008,7 +16009,7 @@
 		),
 		array (
 			"name"		=> "Diced Bogo Pepper",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sliced Bogo Pepper",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -16018,7 +16019,7 @@
 		),
 		array (
 			"name"		=> "Diced Fire Fruit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sliced Fire Fruit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -16031,7 +16032,7 @@
 		//
 		array (
 			"name"		=> "Diced Pungent Tuber",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sliced Pungent Tuber",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -16044,7 +16045,7 @@
 		//
 		array (
 			"name"		=> "Diced Threestem Fruit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sliced Threestem Fruit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -16054,7 +16055,7 @@
 		),
 		array (
 			"name"		=> "Sliced Threestem Fruit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Threestem Fruit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -16064,7 +16065,7 @@
 		),
 		array (
 			"name"		=> "Cleaned Trout",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Trout",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -16074,7 +16075,7 @@
 		),
 		array (
 			"name"		=> "Cleaned Unicornfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Unicornfish",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -16087,7 +16088,7 @@
 		//
 		array (
 			"name"		=> "Ground Wyn Reed",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Wyn Reed",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -16100,7 +16101,7 @@
 		//
 		array (
 			"name"		=> "Ground Eyebright",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 10 Eyebright",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
@@ -16110,7 +16111,7 @@
 		),
 		array (
 			"name"		=> "Pinch of Barberry",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Barberry Root",
 			"result"	=> "25",
 			"tool"		=> "Mortar and Pestle",
@@ -16120,7 +16121,7 @@
 		),
 		array (
 			"name"		=> "Pinch of Sinaflar",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Sinaflar Root",
 			"result"	=> "25",
 			"tool"		=> "Mortar and Pestle",
@@ -16130,7 +16131,7 @@
 		),
 		array (
 			"name"		=> "Simmering Red Liqour",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Red Liquor Mug",
 			"result"	=> "2",
 			"tool"		=> "Pot",
@@ -16143,7 +16144,7 @@
 		//
 		array (
 			"name"		=> "Boiled Kartoffel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Kartoffel",
 			"result"	=> "6",
 			"tool"		=> "Pot",
@@ -16156,7 +16157,7 @@
 		//
 		array (
 			"name"		=> "Pot of Hot Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Full Pot of Water",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16169,7 +16170,7 @@
 		//
 		array (
 			"name"		=> "Simmered Crayfish And Kartoffel Soup",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hot Crayfish And Kartoffel Soup",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16179,7 +16180,7 @@
 		),
 		array (
 			"name"		=> "Simmered Eel Pie Filling",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hot Eel Pie Filling",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16189,7 +16190,7 @@
 		),
 		array (
 			"name"		=> "Simmered Lionfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hot Lionfish in Salted Water",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16199,7 +16200,7 @@
 		),
 		array (
 			"name"		=> "Simmering Perch and Rat Stew",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hot Perch and Rat Stew",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16209,7 +16210,7 @@
 		),
 		array (
 			"name"		=> "Simmering Terevan Berry Wine Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hot Terevan Berry Wine Sauce",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16219,7 +16220,7 @@
 		),
 		array (
 			"name"		=> "Hot Lionfish in Salted Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Lionfish in Salted Water",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16229,7 +16230,7 @@
 		),
 		array (
 			"name"		=> "Hot Pungent Tuber Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mixed Pungent Tuber Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16242,7 +16243,7 @@
 		//
 		array (
 			"name"		=> "Pot of Simmering Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16252,7 +16253,7 @@
 		),
 		array (
 			"name"		=> "Pot of Boiling Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pot of Simmering Water",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16265,7 +16266,7 @@
 		//
 		array (
 			"name"		=> "Crayfish And Kartoffel Soup",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Simmered Crayfish And Kartoffel Soup",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16275,7 +16276,7 @@
 		),
 		array (
 			"name"		=> "Boiled Eel Pie Filling",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Simmered Eel Pie Filling",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16285,7 +16286,7 @@
 		),
 		array (
 			"name"		=> "Clamod Perch And Rat Stew",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Simmering Perch and Rat Stew",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16295,7 +16296,7 @@
 		),
 		array (
 			"name"		=> "Reduced Red Liquor",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Simmering Red Liquor",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16305,7 +16306,7 @@
 		),
 		array (
 			"name"		=> "Boiling Terevan Berry Wine Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Simmering Terevan Berry Wine Sauce",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16315,7 +16316,7 @@
 		),
 		array (
 			"name"		=> "Hot Terevan Berry Wine Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Terevan Berry Wine Sauce",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16325,7 +16326,7 @@
 		),
 		array (
 			"name"		=> "Thick Apple Glaze",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Thin Apple Glaze",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16335,7 +16336,7 @@
 		),
 		array (
 			"name"		=> "Hot Crayfish And Kartoffel Soup",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Uncooked Crayfish And Kartoffel Soup",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16345,7 +16346,7 @@
 		),
 		array (
 			"name"		=> "Hot Eel Pie Filling",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Uncooked Eel Pie Filling",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16355,7 +16356,7 @@
 		),
 		array (
 			"name"		=> "Hot Perch and Rat Stew",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Uncooked Perch and Rat Stew",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16368,7 +16369,7 @@
 		//
 		array (
 			"name"		=> "Full Pot of Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Water Filled Bucket",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -16381,7 +16382,7 @@
 		//
 		array (
 			"name"		=> "Mashed Lionfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Simmered Lionfish",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
@@ -16394,7 +16395,7 @@
 		//
 		array (
 			"name"		=> "Pinch of Salt",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Bag of Salt",
 			"result"	=> "50",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16407,7 +16408,7 @@
 		//
 		array (
 			"name"		=> "Dash of Trefoil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Bunch of Trefoil",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16417,7 +16418,7 @@
 		),
 		array (
 			"name"		=> "Dash of Fire Spice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Fire Spice",
 			"result"	=> "10",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16430,7 +16431,7 @@
 		//
 		array (
 			"name"		=> "Scoop of Flour",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Flour",
 			"result"	=> "5",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16443,7 +16444,7 @@
 		//
 		array (
 			"name"		=> "Carp Delight",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Glazed Carp Fish",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16453,7 +16454,7 @@
 		),
 		array (
 			"name"		=> "Coppernose Delight",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Glazed Coppernose",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16463,7 +16464,7 @@
 		),
 		array (
 			"name"		=> "Crayfish Delight",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Glazed Crayfish",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16473,7 +16474,7 @@
 		),
 		array (
 			"name"		=> "Dace Delight",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Glazed Dace Fish",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16483,7 +16484,7 @@
 		),
 		array (
 			"name"		=> "Eel Delight",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Glazed Eel",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16493,7 +16494,7 @@
 		),
 		array (
 			"name"		=> "Ide Delight",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Glazed Ide",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16503,7 +16504,7 @@
 		),
 		array (
 			"name"		=> "Trout Delight",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Glazed Trout",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16513,7 +16514,7 @@
 		),
 		array (
 			"name"		=> "Dash of Ground Eyebright",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ground Eyebright",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16526,7 +16527,7 @@
 		//
 		array (
 			"name"		=> "Dash of Ground Wyn Reed",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ground Wyn Reed",
 			"result"	=> "30",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16536,7 +16537,7 @@
 		),
 		array (
 			"name"		=> "Dash of Ground Corium Seed",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Jar of Corium Seed",
 			"result"	=> "50",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16549,7 +16550,7 @@
 		//
 		array (
 			"name"		=> "Pat of Butter",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Lump of Butter",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16559,7 +16560,7 @@
 		),
 		array (
 			"name"		=> "Scoop of Lard",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Lump of Lard",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16569,7 +16570,7 @@
 		),
 		array (
 			"name"		=> "Scoop of Milk",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Milk",
 			"result"	=> "4",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16582,7 +16583,7 @@
 		//
 		array (
 			"name"		=> "Banut",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Sack of Banuts",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16592,7 +16593,7 @@
 		),
 		array (
 			"name"		=> "Burr Nut",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Sack of Burr Nuts",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16602,7 +16603,7 @@
 		),
 		array (
 			"name"		=> "Jookans",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Sack of Jookans",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16615,7 +16616,7 @@
 		//
 		array (
 			"name"		=> "Scoop of Strimptor",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Sack of Strimptor",
 			"result"	=> "5",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16628,7 +16629,7 @@
 		//
 		array (
 			"name"		=> "Dash of Saffron",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Saffron",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16641,7 +16642,7 @@
 		//
 		array (
 			"name"		=> "Water Pouch",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Water Filled Bucket",
 			"result"	=> "28",
 			"tool"		=> "Preparation Table + Scoop",
@@ -16654,7 +16655,7 @@
 		//
 		array (
 			"name"		=> "Egg Mixture",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Egg Slop",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16667,7 +16668,7 @@
 		//
 		array (
 			"name"		=> "Beer Batter",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Beer Batter",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16677,7 +16678,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Crayfish And Kartoffel Soup",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Crayfish And Kartoffel Soup",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16687,7 +16688,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Eel Pie Filling",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Eel Pie Filling",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16697,7 +16698,7 @@
 		),
 		array (
 			"name"		=> "Juiceberry Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Juiceberry Sauce",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16707,7 +16708,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Lionfish Souffle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Lionfish Souffle",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16717,7 +16718,7 @@
 		),
 		array (
 			"name"		=> "Mixed Mushroom and Tuber",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Mushroom and Tuber",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16727,7 +16728,7 @@
 		),
 		array (
 			"name"		=> "Octarchs Delight",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Octarchs Delight",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16737,7 +16738,7 @@
 		),
 		array (
 			"name"		=> "Mixed Pungent Tuber Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Pungent Tuber Mash",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16747,7 +16748,7 @@
 		),
 		array (
 			"name"		=> "Spiced Stuffing",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Spiced Stuffing",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16757,7 +16758,7 @@
 		),
 		array (
 			"name"		=> "Spicy Pan-Fried Coppernose",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Spicy Coppernose",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16767,7 +16768,7 @@
 		),
 		array (
 			"name"		=> "Terevan Berry Wine Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Terevan Berry Wine Sauce",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16777,7 +16778,7 @@
 		),
 		array (
 			"name"		=> "Thickening Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Thickening Sauce",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -16787,7 +16788,7 @@
 		),
 		array (
 			"name"		=> "Pan-Fried Carp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buttery Carp",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16797,7 +16798,7 @@
 		),
 		array (
 			"name"		=> "Pan-Fried Coppernose",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buttery Coppernose",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16807,7 +16808,7 @@
 		),
 		array (
 			"name"		=> "Pan-Fried Crayfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buttery Crayfish",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16817,7 +16818,7 @@
 		),
 		array (
 			"name"		=> "Pan-Fried Dace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buttery Dace",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16827,7 +16828,7 @@
 		),
 		array (
 			"name"		=> "Pan-Fried Eel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buttery Eel",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16837,7 +16838,7 @@
 		),
 		array (
 			"name"		=> "Pan-Fried Ide",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buttery Ide",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16847,7 +16848,7 @@
 		),
 		array (
 			"name"		=> "Pan-Fried Trout",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buttery Trout",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16857,7 +16858,7 @@
 		),
 		array (
 			"name"		=> "Fried Crayfish and Clacker Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crayfish and Clacker Mix",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16867,7 +16868,7 @@
 		),
 		array (
 			"name"		=> "Seared Carp Fish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Carp",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16877,7 +16878,7 @@
 		),
 		array (
 			"name"		=> "Seared Coppernose",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Coppernose",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16887,7 +16888,7 @@
 		),
 		array (
 			"name"		=> "Seared Crayfish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Crayfish",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16897,7 +16898,7 @@
 		),
 		array (
 			"name"		=> "Seared Dace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Dace",
 			"result"	=> "1",
 			"tool"		=> "Iron Skill",
@@ -16907,7 +16908,7 @@
 		),
 		array (
 			"name"		=> "Seared Eel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Eel",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16917,7 +16918,7 @@
 		),
 		array (
 			"name"		=> "Seared Ide",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Ide",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16927,7 +16928,7 @@
 		),
 		array (
 			"name"		=> "Seared Trout",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Filleted Trout",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16937,7 +16938,7 @@
 		),
 		array (
 			"name"		=> "Fried Roltok",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Frying Roltok",
 			"result"	=> "5",
 			"tool"		=> "Iron Skillet",
@@ -16947,7 +16948,7 @@
 		),
 		array (
 			"name"		=> "Fried Mushroom and Tuber",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mixed Mushroom and Tuber",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16960,7 +16961,7 @@
 		//
 		array (
 			"name"		=> "Hot Cooking Oil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Scoop of Lard",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16973,7 +16974,7 @@
 		//
 		array (
 			"name"		=> "Fried Pepper Garnish",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Uncooked Pepper Garnish",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16983,7 +16984,7 @@
 		),
 		array (
 			"name"		=> "Fried Stew Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Uncooked Stew Mix",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -16993,7 +16994,7 @@
 		),
 		array (
 			"name"		=> "Trasok's Beer Battered Trout",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unfried Trasok's Beer Battered Trout",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -17003,7 +17004,7 @@
 		),
 		array (
 			"name"		=> "Raw Roltok",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wrapping Fish and Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table",
@@ -17046,7 +17047,7 @@
 		//
 		array (
 			"name"		=> "Brewed Juiceberry Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Juiceberry Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17056,7 +17057,7 @@
 		),
 		array (
 			"name"		=> "Brewed Macca Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Macca Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17066,7 +17067,7 @@
 		),
 		array (
 			"name"		=> "Brewed Mead Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mead Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17076,7 +17077,7 @@
 		),
 		array (
 			"name"		=> "Brewed Terevan Berry Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Terevan Berry Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17086,7 +17087,7 @@
 		),
 		array (
 			"name"		=> "Black Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Black Roasted Malt, C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17096,7 +17097,7 @@
 		),
 		array (
 			"name"		=> "Brown Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Brown Roasted Malt, C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17106,7 +17107,7 @@
 		),
 		array (
 			"name"		=> "Crystal Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Crystal Roasted Malt, C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17116,7 +17117,7 @@
 		),
 		array (
 			"name"		=> "Beer Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Dry Roasted Malt, C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17126,7 +17127,7 @@
 		),
 		array (
 			"name"		=> "Golden Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Golden Roasted Malt, C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17136,7 +17137,7 @@
 		),
 		array (
 			"name"		=> "Pale Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Pale Roasted Malt, C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17149,7 +17150,7 @@
 		//
 		array (
 			"name"		=> "Steeping Dandelion Flower",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 5 Dandelion Flower, C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17162,7 +17163,7 @@
 		//
 		array (
 			"name"		=> "Dandelion Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Dandelion Pulp, C 1 Mead Base",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17172,7 +17173,7 @@
 		),
 		array (
 			"name"		=> "Joopiner Berry Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Joopiner Berry Pulp, C 1 Mead Base",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17182,7 +17183,7 @@
 		),
 		array (
 			"name"		=> "Juiceberry Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Juiceberry Pulp, C 1 Mead Base",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17192,7 +17193,7 @@
 		),
 		array (
 			"name"		=> "Macca Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Macca Pulp, C 1 Mead Base",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17202,7 +17203,7 @@
 		),
 		array (
 			"name"		=> "Terevan Berry Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Terevan Berry Pulp, C 1 Mead Base",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17212,7 +17213,7 @@
 		),
 		array (
 			"name"		=> "Mead Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 8 Honey, C 1 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17222,7 +17223,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Mead",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Mead Base, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17232,7 +17233,7 @@
 		),
 		array (
 			"name"		=> "Beer Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Beer Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17242,7 +17243,7 @@
 		),
 		array (
 			"name"		=> "Bitter Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Bitter Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17252,7 +17253,7 @@
 		),
 		array (
 			"name"		=> "Brown Ale Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Brown Ale Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17262,7 +17263,7 @@
 		),
 		array (
 			"name"		=> "Lager Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Lager Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17272,7 +17273,7 @@
 		),
 		array (
 			"name"		=> "Pale Ale Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Pale Ale Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17282,7 +17283,7 @@
 		),
 		array (
 			"name"		=> "Stout Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Stout Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17292,7 +17293,7 @@
 		),
 		array (
 			"name"		=> "Boiling Beer Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Beer Mash, H 8 Hops",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17302,7 +17303,7 @@
 		),
 		array (
 			"name"		=> "Boiling Stout Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Black Mash, H 8 Hops, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17312,7 +17313,7 @@
 		),
 		array (
 			"name"		=> "Boiling Brown Ale Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brown Mash, H 9 Hops, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17322,7 +17323,7 @@
 		),
 		array (
 			"name"		=> "Boiling Lager Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Crystal Mash, H 9 Hops, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17332,7 +17333,7 @@
 		),
 		array (
 			"name"		=> "Boiling Bitter Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Golden Mash, H 10 Hops, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17342,7 +17343,7 @@
 		),
 		array (
 			"name"		=> "Boiling Pale Ale Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Pale Mash, H 8 Hops, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17355,7 +17356,7 @@
 		//
 		array (
 			"name"		=> "Liquid Bread Rise",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mug of Hot Water, C 1 Scoop of Strimptor, C 4 Dash of Powdered Bread Rise, C 1 Mug of Hot Water, C 1 Scoop of Strimptor, C 4 Dash of Powdered Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17368,7 +17369,7 @@
 		//
 		array (
 			"name"		=> "Half Brewed Dandelion Melomel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Dandelion Base, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17378,7 +17379,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Joopiner Melomel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Joopiner Base, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17388,7 +17389,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Juiceberry Melomel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Juiceberry Base, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17398,7 +17399,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Macca Melomel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Macca Base, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17408,7 +17409,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Terevan Melomel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Terevan Base, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -17418,7 +17419,7 @@
 		),
 		array (
 			"name"		=> "Cooled Beer Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Beer Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17428,7 +17429,7 @@
 		),
 		array (
 			"name"		=> "Cooled Bitter Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Bitter Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17438,7 +17439,7 @@
 		),
 		array (
 			"name"		=> "Cooled Brown Ale Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Brown Ale Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17448,7 +17449,7 @@
 		),
 		array (
 			"name"		=> "Cooled Lager Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Lager Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17458,7 +17459,7 @@
 		),
 		array (
 			"name"		=> "Cooled Pale Ale Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Pale Ale Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17468,7 +17469,7 @@
 		),
 		array (
 			"name"		=> "Cooled Stout Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Stout Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -17478,7 +17479,7 @@
 		),
 		array (
 			"name"		=> "Black Roasted Malt",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Black Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Mill Stone",
@@ -17488,7 +17489,7 @@
 		),
 		array (
 			"name"		=> "Brown Roasted Malt",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brown Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Mill Stone",
@@ -17498,7 +17499,7 @@
 		),
 		array (
 			"name"		=> "Crystal Roasted Malt",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crystal Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Mill Stone",
@@ -17508,7 +17509,7 @@
 		),
 		array (
 			"name"		=> "Dry Roasted Malt",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dry Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Mill Stone",
@@ -17518,7 +17519,7 @@
 		),
 		array (
 			"name"		=> "Golden Roasted Malt",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Mill Stone",
@@ -17528,7 +17529,7 @@
 		),
 		array (
 			"name"		=> "Pale Roasted Malt",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pale Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Mill Stone",
@@ -17541,7 +17542,7 @@
 		//
 		array (
 			"name"		=> "Mug of Hot Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -17554,7 +17555,7 @@
 		//
 		array (
 			"name"		=> "Heated Beer Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Beer Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -17564,7 +17565,7 @@
 		),
 		array (
 			"name"		=> "Heated Black Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Black Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -17574,7 +17575,7 @@
 		),
 		array (
 			"name"		=> "Heated Brown Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brown Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -17584,7 +17585,7 @@
 		),
 		array (
 			"name"		=> "Heated Crystal Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crystal Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -17594,7 +17595,7 @@
 		),
 		array (
 			"name"		=> "Heated Golden Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -17604,7 +17605,7 @@
 		),
 		array (
 			"name"		=> "Heated Pale Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pale Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -17617,7 +17618,7 @@
 		//
 		array (
 			"name"		=> "Dash of Powdered Bread Rise",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Sack of Powdered Bread Rise",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -17630,7 +17631,7 @@
 		//
 		array (
 			"name"		=> "Joopiner Berry Pulp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Bunch of Joopiner Berries",
 			"result"	=> "1",
 			"tool"		=> "Fruit Press",
@@ -17640,7 +17641,7 @@
 		),
 		array (
 			"name"		=> "Terevan Berry Pulp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Bunch of Terevan Berries",
 			"result"	=> "1",
 			"tool"		=> "Fruit Press",
@@ -17650,7 +17651,7 @@
 		),
 		array (
 			"name"		=> "Juiceberry Pulp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Juiceberry Fruit",
 			"result"	=> "1",
 			"tool"		=> "Fruit Press",
@@ -17660,7 +17661,7 @@
 		),
 		array (
 			"name"		=> "Macca Pulp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Macca",
 			"result"	=> "1",
 			"tool"		=> "Fruit Press",
@@ -17670,7 +17671,7 @@
 		),
 		array (
 			"name"		=> "Dandelion Pulp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steeping Dandelion Flower",
 			"result"	=> "1",
 			"tool"		=> "Fruit Press",
@@ -17683,7 +17684,7 @@
 		//
 		array (
 			"name"		=> "Black Roasted Barley",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brown Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Kiln",
@@ -17693,7 +17694,7 @@
 		),
 		array (
 			"name"		=> "Golden Roasted Barley",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crystal Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Kiln",
@@ -17703,7 +17704,7 @@
 		),
 		array (
 			"name"		=> "Pale Roasted Barley",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dry Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Kiln",
@@ -17713,7 +17714,7 @@
 		),
 		array (
 			"name"		=> "Brown Roasted Barley",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Kiln",
@@ -17723,7 +17724,7 @@
 		),
 		array (
 			"name"		=> "Crystal Roasted Barley",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pale Roasted Barley",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Kiln",
@@ -17733,7 +17734,7 @@
 		),
 		array (
 			"name"		=> "Dry Roasted Barley",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Sack of Barley",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Kiln",
@@ -17743,7 +17744,7 @@
 		),
 		array (
 			"name"		=> "Strained Dandelion Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Dandelion Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -17753,7 +17754,7 @@
 		),
 		array (
 			"name"		=> "Strained Joopiner Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Joopiner Berry Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -17763,7 +17764,7 @@
 		),
 		array (
 			"name"		=> "Strained Juiceberry Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Juiceberry Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -17773,7 +17774,7 @@
 		),
 		array (
 			"name"		=> "Strained Macca Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Macca Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -17783,7 +17784,7 @@
 		),
 		array (
 			"name"		=> "Strained Terevan Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Terevan Berry Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -17936,7 +17937,7 @@
 		//
 		array (
 			"name"		=> "Mercenary Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Leather Cheekplate, B 1 Leather Ridge",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -17949,7 +17950,7 @@
 		//
 		array (
 			"name"		=> "Chain Mail Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Medium Chain Mail Piece, C 2 Large Chain Mail Piece",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -17962,7 +17963,7 @@
 		//
 		array (
 			"name"		=> "Horned Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Sharpened Deadly Claw, C 1 Steel Plate Helm",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -17975,7 +17976,7 @@
 		//
 		array (
 			"name"		=> "Chain Mail Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small Chain Mail Piece, C 2 Large Chain Mail Piece",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -17985,7 +17986,7 @@
 		),
 		array (
 			"name"		=> "Chain Mail Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small Chain Mail Piece, C 2 Medium Chain Mail Piece",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -17998,7 +17999,7 @@
 		//
 		array (
 			"name"		=> "Steel Plate Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Steel Cheekplate, C 1 Steel Ridge, C 1 Spangen",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18011,7 +18012,7 @@
 		//
 		array (
 			"name"		=> "Chain Mail Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Medium Chain Mail Piece",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18024,7 +18025,7 @@
 		//
 		array (
 			"name"		=> "Battle Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Sharpened Deadly Claw, C 1 Steel Plate Helm",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18037,7 +18038,7 @@
 		//
 		array (
 			"name"		=> "Chain Mail Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Small Chain Mail Piece",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18050,7 +18051,7 @@
 		//
 		array (
 			"name"		=> "Bronze Spangen Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Helm Headband, C 1 Bronze Helm Topband",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18060,7 +18061,7 @@
 		),
 		array (
 			"name"		=> "Bronze Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Spangen, C 1 Bronze Helm Skullcap",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18070,7 +18071,7 @@
 		),
 		array (
 			"name"		=> "Bronze Serpent Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Spangen, B 1 Bronze Scale Mail Cloth",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18080,7 +18081,7 @@
 		),
 		array (
 			"name"		=> "Holy Helmet Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Spangenhelm, C 1 Bronze Helm Neck Wrap",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18090,7 +18091,7 @@
 		),
 		array (
 			"name"		=> "Banded Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Chain Mail Helm, C 1 Set of Steel Band",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18100,7 +18101,7 @@
 		),
 		array (
 			"name"		=> "Plate Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Chain Mail Helm, C 1 Set of Steel Plate",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18110,7 +18111,7 @@
 		),
 		array (
 			"name"		=> "Spangen Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Helm Headband, C 1 Helm Topband",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18120,7 +18121,7 @@
 		),
 		array (
 			"name"		=> "Brigandine Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mercenary Helm, C 1 Set of Steel Plate",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18133,7 +18134,7 @@
 		//
 		array (
 			"name"		=> "Perfect Enchanted Banded Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Banded Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18143,7 +18144,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Battle Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Battle Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18153,7 +18154,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Brigandine Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Brigandine Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18163,7 +18164,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Bronze Serpent Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Bronze Serpent Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18173,7 +18174,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Bronze Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Bronze Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18183,7 +18184,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Bronze Spangen Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Bronze Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18193,7 +18194,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Chain Mail Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Chain Mail Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18203,7 +18204,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Chain Mail Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Chain Mail Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18213,7 +18214,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Chain Mail Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Chain Mail Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18223,7 +18224,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Chain Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Chain Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18233,7 +18234,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Chain Mail Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Chain Mail Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18243,7 +18244,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Chain Mail Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Chain Mail Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18253,7 +18254,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Full Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Full Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18263,7 +18264,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Holy Helmet Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Holy Helmet Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18273,7 +18274,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Horned Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Horned Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18283,7 +18284,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Leather Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Leather Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18293,7 +18294,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Leather Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Leather Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18303,7 +18304,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Leather Cap Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Leather Cap Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18313,7 +18314,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Leather Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Leather Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18323,7 +18324,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Leather Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Leather Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18333,7 +18334,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Leather Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Leather Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18343,7 +18344,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Mercenary Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Mercenary Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18353,7 +18354,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Plate Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Plate Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18363,7 +18364,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Riveted Plate Mail Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Riveted Plate Mail Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18373,7 +18374,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Riveted Plate Mail Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Riveted Plate Mail Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18383,7 +18384,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Riveted Plate Mail Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Riveted Plate Mail Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18393,7 +18394,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Riveted Plate Mail Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Riveted Plate Mail Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18403,7 +18404,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Riveted Plate Mail Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Riveted Plate Mail Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18413,7 +18414,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18423,7 +18424,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Spangen Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18433,7 +18434,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Steel Plate Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Steel Plate Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18446,7 +18447,7 @@
 		//
 		array (
 			"name"		=> "Full Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spangenhelm, C 1 Helm Neck Wrap",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18456,7 +18457,7 @@
 		),
 		array (
 			"name"		=> "Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spangen, C 1 Helm Skullcap",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18466,7 +18467,7 @@
 		),
 		array (
 			"name"		=> "Chain Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spangen, B 1 Large Mail Cloth",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18479,7 +18480,7 @@
 		//
 		array (
 			"name"		=> "Enchanted Banded Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Banded Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18489,7 +18490,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Battle Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Battle Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18499,7 +18500,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Brigandine Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Brigandine Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18509,7 +18510,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bronze Serpent Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Bronze Serpent Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18519,7 +18520,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bronze Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Bronze Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18529,7 +18530,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bronze Spangen Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Bronze Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18539,7 +18540,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Chain Mail Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Chain Mail Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18549,7 +18550,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Chain Mail Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Chain Mail Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18559,7 +18560,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Chain Mail Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Chain Mail Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18569,7 +18570,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Chain Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Chain Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18579,7 +18580,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Chain Mail Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Chain Mail Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18589,7 +18590,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Chain Mail Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Chain Mail Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18599,7 +18600,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Full Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Full Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18609,7 +18610,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Holy Helmet Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Holy Helmet Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18619,7 +18620,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Horned Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Horned Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18629,7 +18630,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Leather Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Leather Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18639,7 +18640,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Leather Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Leather Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18649,7 +18650,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Leather Cap Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Leather Cap Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18659,7 +18660,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Leather Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Leather Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18669,7 +18670,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Leather Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Leather Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18679,7 +18680,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Leather Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Leather Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18689,7 +18690,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Mercenary Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Mercenary Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18699,7 +18700,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Plate Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Plate Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18709,7 +18710,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Riveted Plate Mail Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Riveted Plate Mail Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18719,7 +18720,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Riveted Plate Mail Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Riveted Plate Mail Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18729,7 +18730,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Riveted Plate Mail Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Riveted Plate Mail Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18739,7 +18740,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Riveted Plate Mail Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Riveted Plate Mail Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18749,7 +18750,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Riveted Plate Mail Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Riveted Plate Mail Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18759,7 +18760,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18769,7 +18770,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Spangen Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18779,7 +18780,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Steel Plate Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Steel Plate Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18789,7 +18790,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Banded Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Banded Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18799,7 +18800,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Battle Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Battle Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18809,7 +18810,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Brigandine Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Brigandine Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18819,7 +18820,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Bronze Serpent Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Bronze Serpent Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18829,7 +18830,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Bronze Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Bronze Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18839,7 +18840,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Bronze Spangen Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Bronze Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18849,7 +18850,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Chain Mail Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Chain Mail Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18859,7 +18860,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Chain Mail Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Chain Mail Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18869,7 +18870,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Chain Mail Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Chain Mail Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18879,7 +18880,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Chain Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Chain Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18889,7 +18890,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Chain Mail Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Chain Mail Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18899,7 +18900,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Chain Mail Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Chain Mail Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18909,7 +18910,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Full Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Full Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18919,7 +18920,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Holy Helmet Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Holy Helmet Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18929,7 +18930,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Horned Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Horned Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18939,7 +18940,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Leather Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Leather Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18949,7 +18950,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Leather Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Leather Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18959,7 +18960,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Leather Cap Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Leather Cap Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18969,7 +18970,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Leather Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Leather Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18979,7 +18980,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Leather Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Leather Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18989,7 +18990,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Leather Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Leather Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -18999,7 +19000,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Mercenary Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Mercenary Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19009,7 +19010,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Plate Mail Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Plate Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19019,7 +19020,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Riveted Plate Mail Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Riveted Plate Mail Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19029,7 +19030,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Riveted Plate Mail Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Riveted Plate Mail Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19039,7 +19040,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Riveted Plate Mail Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Riveted Plate Mail Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19049,7 +19050,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Riveted Plate Mail Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Riveted Plate Mail Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19059,7 +19060,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Riveted Plate Mail Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Riveted Plate Mail Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19069,7 +19070,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Spangenhelm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19079,7 +19080,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Spangen Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19089,7 +19090,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Steel Plate Helm Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Steel Plate Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -19099,7 +19100,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bronze Spangen",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enchanted Bronze Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -19109,7 +19110,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bronze Spangen",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Enchanted Bronze Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -19119,7 +19120,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bronze Spangen",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sup. Enchanted Bronze Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -19129,7 +19130,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bronze Spangen",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sup. Enchanted Bronze Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -20410,7 +20411,7 @@
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Poison Glyph, Cold Glyph, Divination Glyph, Rain Glyph, Water Glyph, Sphere Glyph",
 			"skill"		=> "Blue Way",
-			"level"		=> "40",
+			"level"		=> "50",
 			"book"		=> "Enchanting Gems of Power"
 		),
 		array (
@@ -20440,7 +20441,7 @@
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Armor Glyph",
 			"skill"		=> "Brown Way",
-			"level"		=> "30",
+			"level"		=> "20",
 			"book"		=> "Enchanting Gems of Power"
 		),
 		array (
@@ -20450,7 +20451,7 @@
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Rock Glyph, Armor Glyph, Summon Glyph, Wall Glyph, Tree Glyph, Weight Glyph",
 			"skill"		=> "Brown Way",
-			"level"		=> "40",
+			"level"		=> "50",
 			"book"		=> "Enchanting Gems of Power"
 		),
 		array (
@@ -20480,7 +20481,7 @@
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Arrow Glyph",
 			"skill"		=> "Crystal Way",
-			"level"		=> "30",
+			"level"		=> "20",
 			"book"		=> "Enchanting Gems of Power"
 		),
 		array (
@@ -20490,7 +20491,7 @@
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Power + Energy Glyph, Life Glyph, Crystal Glyph, Faith Glyph, Sight Glyph, Door Glyph, Light Glyph",
 			"skill"		=> "Crystal Way",
-			"level"		=> "40",
+			"level"		=> "50",
 			"book"		=> "Enchanting Gems of Power"
 		),
 		//
@@ -20533,7 +20534,7 @@
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Gas Glyph, Air Glyph, Bond Glyph, Dome Glyph, Mind Glyph, Sound Glyph, Sleep Glyph",
 			"skill"		=> "Azure Way",
-			"level"		=> "40",
+			"level"		=> "50",
 			"book"		=> "Enchanting Gems of Spirit"
 		),
 		array (
@@ -20603,7 +20604,7 @@
 			"result"	=> "1",
 			"tool"		=> "Enchanter of Spirit + Fire Glyph",
 			"skill"		=> "Red Way",
-			"level"		=> "30",
+			"level"		=> "20",
 			"book"		=> "Enchanting Gems of Spirit"
 		),
 		array (
@@ -20621,7 +20622,7 @@
 		//
 		array (
 			"name"		=> "Perfect Enchanted Battle Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20631,7 +20632,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Battle Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20641,7 +20642,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Battle Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20651,7 +20652,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Battle Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20661,7 +20662,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Battle Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20671,7 +20672,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Battle Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20684,7 +20685,7 @@
 		//
 		array (
 			"name"		=> "War Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Shield Shape, C 1 Bronze Shield Handle, C 3 Shield Band, B 1 Wicker Shield Core, C 2 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20694,7 +20695,7 @@
 		),
 		array (
 			"name"		=> "War Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Shield Shape, C 1 Bronze Shield Handle, C 3 Shield Band, C 1 Wooden Shield Core, C 2 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20707,7 +20708,7 @@
 		//
 		array (
 			"name"		=> "Perfect Enchanted Bulls Eye Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bulls Eye Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20717,7 +20718,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bulls Eye Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bulls Eye Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20727,7 +20728,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Bulls Eye Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bulls Eye Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20737,7 +20738,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Bulls Eye Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bulls Eye Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20747,7 +20748,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bulls Eye Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bulls Eye Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20757,7 +20758,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Bulls Eye Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bulls Eye Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20767,7 +20768,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Crown Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crown Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20777,7 +20778,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Crown Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crown Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20787,7 +20788,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Crown Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crown Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20797,7 +20798,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Crown Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crown Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20807,7 +20808,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Crown Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crown Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20817,7 +20818,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Crown Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crown Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20827,7 +20828,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Enforcer Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enforcer Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20837,7 +20838,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Enforcer Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enforcer Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20847,7 +20848,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Enforcer Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enforcer Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20857,7 +20858,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Enforcer Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enforcer Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20867,7 +20868,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Enforcer Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enforcer Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20877,7 +20878,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Enforcer Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enforcer Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20887,7 +20888,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Golden Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20897,7 +20898,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Golden Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20907,7 +20908,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Golden Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20917,7 +20918,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Golden Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20927,7 +20928,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Golden Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20937,7 +20938,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Golden Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20950,7 +20951,7 @@
 		//
 		array (
 			"name"		=> "Warrior Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Shield Shape, C 1 Shield Handle, C 1 Shield Band, B 1 Wicker Shield Core, C 2 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20960,7 +20961,7 @@
 		),
 		array (
 			"name"		=> "Warrior Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Shield Shape, C 1 Shield Handle, C 1 Shield Band, C 1 Wooden Shield Core, C 2 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20973,7 +20974,7 @@
 		//
 		array (
 			"name"		=> "Perfect Enchanted Protector Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Protector Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20983,7 +20984,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Protector Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Protector Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -20993,7 +20994,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Protector Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Protector Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21003,7 +21004,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Protector Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Protector Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21013,7 +21014,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Protector Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Protector Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21023,7 +21024,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Protector Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Protector Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21033,7 +21034,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Radiant Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Radiant Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21043,7 +21044,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Radiant Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Radiant Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21053,7 +21054,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Radiant Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Radiant Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21063,7 +21064,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Radiant Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Radiant Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21073,7 +21074,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Radiant Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Radiant Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21083,7 +21084,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Radiant Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Radiant Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21096,7 +21097,7 @@
 		//
 		array (
 			"name"		=> "Shadow Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 2 Iron Half Circle, C 1 Shield Half Circle, C 2 Bronze Band, C 1 Round Wicker Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21106,7 +21107,7 @@
 		),
 		array (
 			"name"		=> "Shadow Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 2 Iron Half Circle, C 1 Shield Half Circle, C 2 Bronze Band, C 1 Round Wooden Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21119,7 +21120,7 @@
 		//
 		array (
 			"name"		=> "Shadow Shield Ki",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 2 Iron Half Circle, C 1 Shield Half Circle, C 2 Bronze Band, C 1 Round Wooden Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21129,7 +21130,7 @@
 		),
 		array (
 			"name"		=> "Sunshine Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 4 Gold Spike, C 2 Bronze Edgings, C 1 Gold Half Circle, C 1 Round Wicker Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21142,7 +21143,7 @@
 		//
 		array (
 			"name"		=> "Sunshine Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Blue Steel Shield Shape, C 1 Shield Handle, C 4 Gold Spike, C 2 Bronze Edgings, C 1 Gold Half Circle, C 1 Round Wooden Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21152,7 +21153,7 @@
 		),
 		array (
 			"name"		=> "Radiant Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Shape, C 1 Bronze Shield Handle, C 1 Bronze Circle, C 6 Bronze Band, C 1 Round Wicker Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21162,7 +21163,7 @@
 		),
 		array (
 			"name"		=> "Radiant Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Shape, C 1 Bronze Shield Handle, C 1 Bronze Circle, C 6 Bronze Band, C 1 Round Wooden Shield Core",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21175,7 +21176,7 @@
 		//
 		array (
 			"name"		=> "Bulls Eye Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Shape, C 1 Iron Shield Handle, C 2 Shield Circle, C 1 Iron Circle, C 4 Shield Band, C 1 Round Wicker Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21185,7 +21186,7 @@
 		),
 		array (
 			"name"		=> "Bulls Eye Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Shape, C 1 Iron Shield Handle, C 2 Shield Circle, C 1 Iron Circle, C 4 Shield Band, C 1 Round Wooden Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21195,7 +21196,7 @@
 		),
 		array (
 			"name"		=> "Battle Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Shape, C 1 Shield Handle, C 1 Shield Circle, C 2 Shield Band, C 1 Round Wicker Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21205,7 +21206,7 @@
 		),
 		array (
 			"name"		=> "Battle Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Shape, C 1 Shield Handle, C 1 Shield Circle, C 2 Shield Band, C 1 Round Wooden Shield Core, C 1 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21218,7 +21219,7 @@
 		//
 		array (
 			"name"		=> "Perfect Enchanted Shadow Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shadow Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21228,7 +21229,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Shadow Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shadow Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21238,7 +21239,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Shadow Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shadow Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21248,7 +21249,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Shadow Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shadow Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21258,7 +21259,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Shadow Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shadow Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21268,7 +21269,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Shadow Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shadow Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21281,7 +21282,7 @@
 		//
 		array (
 			"name"		=> "Valiant Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shield Shape, C 1 Shield Handle, C 2 Shield Band, B 1 Wicker Shield Core, C 2 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21291,7 +21292,7 @@
 		),
 		array (
 			"name"		=> "Valiant Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 1 Wooden Shield Core, C 2 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21304,7 +21305,7 @@
 		//
 		array (
 			"name"		=> "Golden Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Gold Shield Handle, C 1 Gold Circle, C 2 Gold Band, B 1 Small Wicker Shield Core, C 1 Gold Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21314,7 +21315,7 @@
 		),
 		array (
 			"name"		=> "Golden Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Gold Shield Handle, C 1 Gold Circle, C 2 Gold Band, B 1 Small Wooden Shield Core, C 1 Gold Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21324,7 +21325,7 @@
 		),
 		array (
 			"name"		=> "Wheel Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Shield Handle, C 5 Bronze Band, C 2 Shield Circle, B 1 Small Wicker Shield Core, C 4 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21334,7 +21335,7 @@
 		),
 		array (
 			"name"		=> "Wheel Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Shape, C 1 Shield Handle, C 5 Bronze Band, C 2 Shield Circle, B 1 Small Wooden Shield Core, C 4 Shield Edgings",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21347,7 +21348,7 @@
 		//
 		array (
 			"name"		=> "Enforcer Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 2 Shield Spike, C 1 Bronze Circle, B 1 Wicker Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21357,7 +21358,7 @@
 		),
 		array (
 			"name"		=> "Enforcer Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 2 Shield Band, C 2 Shield Spike, C 1 Bronze Circle, C 1 Wooden Shield Core, C 1 Shield Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21367,7 +21368,7 @@
 		),
 		array (
 			"name"		=> "Protector Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 2 Bronze Band, C 2 Shield Band, B 1 Wicker Shield Core, C 1 Bronze Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21380,7 +21381,7 @@
 		//
 		array (
 			"name"		=> "Protector Shield Wicker Ki",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 2 Bronze Band, C 2 Shield Band, B 1 Wicker Shield Core, C 1 Bronze Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21393,7 +21394,7 @@
 		//
 		array (
 			"name"		=> "Protector Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 2 Bronze Band, C 2 Shield Band, C 1 Wooden Shield Core, C 1 Bronze Circle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21403,7 +21404,7 @@
 		),
 		array (
 			"name"		=> "Crown Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 1 Bronze Circle, B 1 Wicker Shield Core, C 1 Bronze Band",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21413,7 +21414,7 @@
 		),
 		array (
 			"name"		=> "Crown Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Shape, C 1 Shield Handle, C 4 Shield Spike, C 1 Bronze Circle, C 1 Wooden Shield Core, C 1 Bronze Band",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21426,7 +21427,7 @@
 		//
 		array (
 			"name"		=> "Perfect Enchanted Sunshine Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sunshine Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21436,7 +21437,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Sunshine Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sunshine Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21446,7 +21447,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Sunshine Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sunshine Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21456,7 +21457,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Sunshine Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sunshine Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21466,7 +21467,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Sunshine Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sunshine Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21476,7 +21477,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Sunshine Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sunshine Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21486,7 +21487,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Valiant Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Valiant Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21496,7 +21497,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Valiant Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Valiant Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21506,7 +21507,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Valiant Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Valiant Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21516,7 +21517,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Valiant Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Valiant Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21526,7 +21527,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Valiant Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Valiant Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21536,7 +21537,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Valiant Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Valiant Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21546,7 +21547,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Warrior Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Warrior Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21556,7 +21557,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Warrior Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Warrior Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21566,7 +21567,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Warrior Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Warrior Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21576,7 +21577,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Warrior Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Warrior Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21586,7 +21587,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Warrior Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Warrior Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21596,7 +21597,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Warrior Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Warrior Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21606,7 +21607,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted War Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 War Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21616,7 +21617,7 @@
 		),
 		array (
 			"name"		=> "Enchanted War Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 War Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21626,7 +21627,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted War Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 War Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21636,7 +21637,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted War Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 War Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21646,7 +21647,7 @@
 		),
 		array (
 			"name"		=> "Enchanted War Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 War Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21656,7 +21657,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted War Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 War Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21666,7 +21667,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Wheel Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wheel Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21676,7 +21677,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Wheel Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wheel Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21686,7 +21687,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Wheel Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wheel Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21696,7 +21697,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Wheel Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wheel Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21706,7 +21707,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Wheel Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wheel Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21716,7 +21717,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Wheel Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wheel Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -21726,7 +21727,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Crown Shield",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Enchanted Crown Shield Wicker Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -22769,7 +22770,7 @@
 		//
 		array (
 			"name"		=> "Perfect Enchanted Banded Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Banded Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22779,7 +22780,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Banded Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Banded Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22789,7 +22790,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Banded Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Banded Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22799,7 +22800,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Banded Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Banded Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22809,7 +22810,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Banded Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Banded Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22819,7 +22820,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Banded Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Banded Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22829,7 +22830,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Bronze Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Buckler Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22839,7 +22840,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bronze Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Buckler Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22849,7 +22850,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Bronze Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Buckler Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22859,7 +22860,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22869,7 +22870,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22879,7 +22880,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22889,7 +22890,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buckler Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22899,7 +22900,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buckler Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22909,7 +22910,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buckler Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22919,7 +22920,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Five-Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Five-Spiked Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22929,7 +22930,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Five-Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Five-Spiked Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22939,7 +22940,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Five-Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Five-Spiked Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22949,7 +22950,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Five-Spiked Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Five-Spiked Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22959,7 +22960,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Five-Spiked Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Five-Spiked Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22969,7 +22970,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Five-Spiked Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Five-Spiked Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22979,7 +22980,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Iron Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Buckler Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22989,7 +22990,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Iron Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Buckler Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -22999,7 +23000,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Iron Buckler Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Buckler Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23009,7 +23010,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23019,7 +23020,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23029,7 +23030,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Iron Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23039,7 +23040,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Reinforced Wooden Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Reinforced Wooden Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23049,7 +23050,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Reinforced Wooden Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Reinforced Wooden Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23059,7 +23060,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Reinforced Wooden Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Reinforced Wooden Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23069,7 +23070,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Round Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Bronze Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23079,7 +23080,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Round Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Bronze Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23089,7 +23090,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Round Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Bronze Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23099,7 +23100,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Round Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Iron Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23109,7 +23110,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Round Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Iron Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23119,7 +23120,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Round Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Iron Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23129,7 +23130,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Round Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23139,7 +23140,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Round Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23149,7 +23150,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Round Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Round Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23159,7 +23160,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23169,7 +23170,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23179,7 +23180,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23189,7 +23190,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Bronze Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23199,7 +23200,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Bronze Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23209,7 +23210,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Bronze Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23219,7 +23220,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Iron Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23229,7 +23230,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Iron Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23239,7 +23240,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Iron Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23249,7 +23250,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Round Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Bronze Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23259,7 +23260,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Round Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Bronze Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23269,7 +23270,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Round Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Bronze Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23279,7 +23280,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Round Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Iron Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23289,7 +23290,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Round Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Iron Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23299,7 +23300,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Round Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Iron Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23309,7 +23310,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Round Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23319,7 +23320,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Round Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23329,7 +23330,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Round Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Round Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23339,7 +23340,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23349,7 +23350,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23359,7 +23360,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23369,7 +23370,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Spiked Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Spiked Bronze Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23379,7 +23380,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Spiked Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Spiked Bronze Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23389,7 +23390,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Spiked Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Spiked Bronze Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23399,7 +23400,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Spiked Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Spiked Iron Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23409,7 +23410,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Spiked Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Spiked Iron Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23419,7 +23420,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Spiked Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Spiked Iron Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23429,7 +23430,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Spiked Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23439,7 +23440,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Spiked Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23449,7 +23450,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Spiked Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23459,7 +23460,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Spiked Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Bronze Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23469,7 +23470,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Spiked Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Bronze Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23479,7 +23480,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Spiked Bronze Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Bronze Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23489,7 +23490,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Spiked Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Iron Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23499,7 +23500,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Spiked Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Iron Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23509,7 +23510,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Spiked Iron Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Iron Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23519,7 +23520,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23529,7 +23530,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23539,7 +23540,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Spiked Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spiked Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23549,7 +23550,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Stinger Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stinger Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23559,7 +23560,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Stinger Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stinger Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23569,7 +23570,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Stinger Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stinger Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23579,7 +23580,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Stinger Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stinger Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23589,7 +23590,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Stinger Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stinger Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23599,7 +23600,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Stinger Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stinger Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23609,7 +23610,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Three Rivet Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Three Rivet Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23619,7 +23620,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Three Rivet Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Three Rivet Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23629,7 +23630,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Three Rivet Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Three Rivet Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23639,7 +23640,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Three Rivet Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Three Rivet Shield Wicker Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23649,7 +23650,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Three Rivet Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Three Rivet Shield Wicker Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23659,7 +23660,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Three Rivet Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Three Rivet Shield Wicker Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23669,7 +23670,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Wooden and Metal Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden and Metal Shield Kit, C 1 Perfect Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23679,7 +23680,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Wooden and Metal Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden and Metal Shield Kit, C 1 Standard Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -23689,7 +23690,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Wooden and Metal Shield Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden and Metal Shield Kit, C 1 Superior Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -24942,7 +24943,7 @@
 		//
 		array (
 			"name"		=> "Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Axe Blade, B 1 Wooden Axe Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -24955,7 +24956,7 @@
 		//
 		array (
 			"name"		=> "Broadsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Broadsword Blade, C 1 Broadsword Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -24968,7 +24969,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Broadsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Broadsword Handle, C 1 Platinum Steel Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -24981,7 +24982,7 @@
 		//
 		array (
 			"name"		=> "Compound Bow Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Compound Bow Staff, C 1 Steel String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -24994,7 +24995,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Dagger Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Leather Knife Handle, C 1 Platinum Steel Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25004,7 +25005,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Knife Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Leather Knife Handle, C 1 Platinum Steel Knife Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25017,7 +25018,7 @@
 		//
 		array (
 			"name"		=> "Perfect Enchanted Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25027,7 +25028,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Battle Hammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Battle Hammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25037,7 +25038,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Battle Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Battle Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25047,7 +25048,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Broadsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Broadsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25057,7 +25058,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Claymore Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Claymore Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25067,7 +25068,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Club Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Club Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25077,7 +25078,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Compound Bow Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Compound Bow Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25087,7 +25088,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Dagger Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Dagger Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25097,7 +25098,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Flail Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Flail Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25107,7 +25108,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25117,7 +25118,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Knife Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Knife Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25127,7 +25128,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Longsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Longsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25137,7 +25138,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25147,7 +25148,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Morning Star Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Morning Star Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25157,7 +25158,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25167,7 +25168,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Battle Hammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Battle Hammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25177,7 +25178,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Battle Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Battle Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25187,7 +25188,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Broadsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Broadsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25197,7 +25198,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Claymore Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Claymore Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25207,7 +25208,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Dagger Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Dagger Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25217,7 +25218,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Falchion Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Falchion Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25227,7 +25228,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25237,7 +25238,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Knife Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Knife Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25247,7 +25248,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Longsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Longsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25257,7 +25258,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25267,7 +25268,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Morning Star Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Morning Star Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25277,7 +25278,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Reinforced Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Reinforced Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25287,7 +25288,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Reinforced Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Reinforced Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25297,7 +25298,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Sabre Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Sabre Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25307,7 +25308,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Shortsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Shortsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25317,7 +25318,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Small Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Small Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25327,7 +25328,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Spiked Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Spiked Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25337,7 +25338,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel War Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel War Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25347,7 +25348,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25357,7 +25358,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Platinum Steel War Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Platinum Steel War Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25367,7 +25368,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Reinforced Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Reinforced Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25377,7 +25378,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Reinforced Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Reinforced Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25387,7 +25388,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Sabre Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Sabre Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25397,7 +25398,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Shortsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Shortsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25407,7 +25408,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Small Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Small Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25417,7 +25418,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Spiked Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Spiked Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25427,7 +25428,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Steel Falchion Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Steel Falchion Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25437,7 +25438,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Stonehammer Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Stonehammer Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25447,7 +25448,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Stonehammer Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Stonehammer Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25457,7 +25458,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Ynnwn Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Ynnwn Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25467,7 +25468,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Ynnwn Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Ynnwn Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25477,7 +25478,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted War Club Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 War Club Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25487,7 +25488,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted War Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 War Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25497,7 +25498,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25507,7 +25508,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted War Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 War Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25520,7 +25521,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Longsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Longsword Blade, C 1 Sword Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25533,7 +25534,7 @@
 		//
 		array (
 			"name"		=> "Reinforced Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Reinforced Axe Blade, B 1 Wooden Axe Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25543,7 +25544,7 @@
 		),
 		array (
 			"name"		=> "Reinforced Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Reinforced Battle Axe Blade, B 1 Wooden Axe Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25553,7 +25554,7 @@
 		),
 		array (
 			"name"		=> "Small Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Battle Axe Blade, B 1 Small Wooden Axe Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25566,7 +25567,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Small Wooden Axe Handle, C 1 Platinum Steel Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25579,7 +25580,7 @@
 		//
 		array (
 			"name"		=> "Small Wooden Axe Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Wooden Axe Handle Shape, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25592,7 +25593,7 @@
 		//
 		array (
 			"name"		=> "Enchanted Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25602,7 +25603,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Battle Hammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Battle Hammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25612,7 +25613,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Battle Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Battle Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25622,7 +25623,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Broadsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Broadsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25632,7 +25633,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Claymore Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Claymore Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25642,7 +25643,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Club Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Club Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25652,7 +25653,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Compound Bow Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Compound Bow Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25662,7 +25663,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Dagger Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Dagger Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25672,7 +25673,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Flail Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Flail Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25682,7 +25683,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25692,7 +25693,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Knife Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Knife Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25702,7 +25703,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Longsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Longsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25712,7 +25713,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25722,7 +25723,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Morning Star Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Morning Star Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25732,7 +25733,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25742,7 +25743,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Battle Hammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Battle Hammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25752,7 +25753,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Battle Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Battle Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25762,7 +25763,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Broadsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Broadsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25772,7 +25773,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Claymore Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Claymore Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25782,7 +25783,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Dagger Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Dagger Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25792,7 +25793,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Falchion Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Falchion Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25802,7 +25803,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25812,7 +25813,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Knife Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Knife Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25822,7 +25823,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Longsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Longsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25832,7 +25833,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25842,7 +25843,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Morning Star Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Morning Star Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25852,7 +25853,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Reinforced Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Reinforced Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25862,7 +25863,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Reinforced Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Reinforced Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25872,7 +25873,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Sabre Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Sabre Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25882,7 +25883,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Shortsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Shortsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25892,7 +25893,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Small Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Small Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25902,7 +25903,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Spiked Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Spiked Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25912,7 +25913,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel War Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel War Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25922,7 +25923,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25932,7 +25933,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Platinum Steel War Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Platinum Steel War Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25942,7 +25943,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Reinforced Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Reinforced Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25952,7 +25953,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Reinforced Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Reinforced Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25962,7 +25963,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Sabre Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Sabre Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25972,7 +25973,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Shortsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Shortsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25982,7 +25983,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Small Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Small Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -25992,7 +25993,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Spiked Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Spiked Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26002,7 +26003,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Steel Falchion Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Steel Falchion Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26012,7 +26013,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Stonehammer Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Stonehammer Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26022,7 +26023,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Stonehammer Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Stonehammer Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26032,7 +26033,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Ynnwn Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Ynnwn Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26042,7 +26043,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Ynnwn Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Ynnwn Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26052,7 +26053,7 @@
 		),
 		array (
 			"name"		=> "Enchanted War Club Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 War Club Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26062,7 +26063,7 @@
 		),
 		array (
 			"name"		=> "Enchanted War Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 War Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26072,7 +26073,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26082,7 +26083,7 @@
 		),
 		array (
 			"name"		=> "Enchanted War Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 War Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26095,7 +26096,7 @@
 		//
 		array (
 			"name"		=> "Steel Falchion Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steel Falchion Blade, C 1 Sword Handle",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26108,7 +26109,7 @@
 		//
 		array (
 			"name"		=> "Sup. Enchanted Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26118,7 +26119,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Battle Hammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Battle Hammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26128,7 +26129,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Battle Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Battle Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26138,7 +26139,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Broadsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Broadsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26148,7 +26149,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Claymore Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Claymore Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26158,7 +26159,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Club Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Club Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26168,7 +26169,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Compound Bow Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Compound Bow Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26178,7 +26179,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Dagger Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Dagger Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26188,7 +26189,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Flail Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Flail Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26198,7 +26199,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26208,7 +26209,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Knife Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Knife Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26218,7 +26219,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Longsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Longsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26228,7 +26229,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26238,7 +26239,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Morning Star Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Morning Star Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26248,7 +26249,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26258,7 +26259,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Battle Hammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Battle Hammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26268,7 +26269,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Battle Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Battle Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26278,7 +26279,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Broadsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Broadsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26288,7 +26289,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Claymore Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Claymore Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26298,7 +26299,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Dagger Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Dagger Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26308,7 +26309,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Falchion Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Falchion Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26318,7 +26319,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26328,7 +26329,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Knife Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Knife Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26338,7 +26339,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Longsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Longsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26348,7 +26349,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26358,7 +26359,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Morning Star Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Morning Star Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26368,7 +26369,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Reinforced Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Reinforced Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26378,7 +26379,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Reinforced Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Reinforced Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26388,7 +26389,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Sabre Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Sabre Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26398,7 +26399,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Shortsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Shortsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26408,7 +26409,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Small Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Small Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26418,7 +26419,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Spiked Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Spiked Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26428,7 +26429,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel War Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel War Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26438,7 +26439,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26448,7 +26449,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Platinum Steel War Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Platinum Steel War Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26458,7 +26459,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Reinforced Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Reinforced Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26468,7 +26469,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Reinforced Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Reinforced Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26478,7 +26479,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Sabre Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Sabre Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26488,7 +26489,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Shortsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Shortsword Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26498,7 +26499,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Small Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Small Battle Axe Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26508,7 +26509,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Spiked Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Spiked Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26518,7 +26519,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Steel Falchion Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Steel Falchion Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26528,7 +26529,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Stonehammer Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Stonehammer Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26538,7 +26539,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Stonehammer Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Stonehammer Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26548,7 +26549,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Ynnwn Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Ynnwn Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26558,7 +26559,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Ynnwn Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Ynnwn Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26568,7 +26569,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted War Club Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 War Club Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26578,7 +26579,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted War Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 War Flanged Mace Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26588,7 +26589,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Warhammer Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26598,7 +26599,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted War Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 War Pick Assembly",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26611,7 +26612,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Claymore Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sword Handle, C 1 Platinum Steel Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26624,7 +26625,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Falchion Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sword Handle, C 1 Platinum Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26637,7 +26638,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Sabre Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sword Handle, C 1 Platinum Steel Sabre Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26647,7 +26648,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Shortsword Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sword Handle, C 1 Platinum Steel Shortsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26660,7 +26661,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Wooden Axe Handle, C 1 Platinum Steel Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26670,7 +26671,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Wooden Axe Handle, C 1 Platinum Steel Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26680,7 +26681,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Wooden Axe Handle, C 1 Platinum Steel Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -26693,7 +26694,7 @@
 		//
 		array (
 			"name"		=> "Wooden Axe Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wooden Axe Handle Shape, C 4 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28706,7 +28707,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Dermorian Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28716,7 +28717,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Dermorian Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28726,7 +28727,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Dermorian Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28736,7 +28737,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Dermorian Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28746,7 +28747,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Enkidukai Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28756,7 +28757,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Enkidukai Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28766,7 +28767,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Enkidukai Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28776,7 +28777,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Enkidukai Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28786,7 +28787,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Ynnwn Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28796,7 +28797,7 @@
 		),
 		array (
 			"name"		=> "Perfect Enchanted Unbalanced Ynnwn Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Perfect Gem Socket, C 1 Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28806,7 +28807,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Dermorian Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28816,7 +28817,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Dermorian Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28826,7 +28827,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Dermorian Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28836,7 +28837,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Dermorian Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28846,7 +28847,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Enkidukai Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28856,7 +28857,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Enkidukai Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28866,7 +28867,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Enkidukai Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28876,7 +28877,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Enkidukai Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28886,7 +28887,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Ynnwn Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28896,7 +28897,7 @@
 		),
 		array (
 			"name"		=> "Enchanted Unbalanced Ynnwn Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Standard Gem Socket, C 1 Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28906,7 +28907,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Dermorian Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Dermorian Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28916,7 +28917,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Dermorian Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Dermorian Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28926,7 +28927,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Dermorian Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Dermorian Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28936,7 +28937,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Dermorian Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Dermorian Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28946,7 +28947,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Enkidukai Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Enkidukai Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28956,7 +28957,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Enkidukai Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Enkidukai Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28966,7 +28967,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Enkidukai Longbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Enkidukai Longbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28976,7 +28977,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Enkidukai Shortbow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Enkidukai Shortbow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28986,7 +28987,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Ynnwn Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Ynnwn Composite Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -28996,7 +28997,7 @@
 		),
 		array (
 			"name"		=> "Sup. Enchanted Unbalanced Ynnwn Hunting Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Superior Gem Socket, C 1 Unbalanced Ynnwn Hunting Bow",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -29009,7 +29010,7 @@
 		//
 		array (
 			"name"		=> "Unbalanced Dermorian Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Dermorian Composite Bow, C 1 Plant String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -29019,7 +29020,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Enkidukai Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Enkidukai Composite Bow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -29029,7 +29030,7 @@
 		),
 		array (
 			"name"		=> "Unbalanced Ynnwn Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unstrung Ynnwn Composite Bow, C 1 Tendon String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -29445,7 +29446,7 @@
 		//
 		array (
 			"name"		=> "Bronze Shield Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 12 Heated Bronze Ingot",
 			"result"	=> "6",
 			"tool"		=> "Anvil + Hammer",
@@ -29458,7 +29459,7 @@
 		//
 		array (
 			"name"		=> "Iron Shield Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 12 Heated Iron Ingot",
 			"result"	=> "6",
 			"tool"		=> "Anvil + Hammer",
@@ -29471,7 +29472,7 @@
 		//
 		array (
 			"name"		=> "Bronze Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Heated Bronze Ingot",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
@@ -29484,7 +29485,7 @@
 		//
 		array (
 			"name"		=> "Iron Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Heated Iron Ingot",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
@@ -29497,7 +29498,7 @@
 		//
 		array (
 			"name"		=> "Round Wicker Shield Core",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Wicker Section",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30029,7 +30030,7 @@
 		//
 		array (
 			"name"		=> "Compound Bow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Compound Bow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -30039,7 +30040,7 @@
 		),
 		array (
 			"name"		=> "Dermorian Composite Bow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dermorian Composite Bow Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -30049,7 +30050,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Composite Bow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enkidukai Composite Bow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -30059,7 +30060,7 @@
 		),
 		array (
 			"name"		=> "Ynnwn Composite Bow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ynnwn Composite Bow Staff Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -30069,7 +30070,7 @@
 		),
 		array (
 			"name"		=> "Carved Enkidukai Composite Bow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Enkidukai Composite Bow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -30079,7 +30080,7 @@
 		),
 		array (
 			"name"		=> "Carved Smoothed Oak Wood Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Smoothed Oak Wood Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -30089,7 +30090,7 @@
 		),
 		array (
 			"name"		=> "Carved Smoothed Wooden Board",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Smoothed Wooden Board",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -30099,7 +30100,7 @@
 		),
 		array (
 			"name"		=> "Carved Ynnwn Composite Bow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ynnwn Composite Bow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -30109,7 +30110,7 @@
 		),
 		array (
 			"name"		=> "Dermorian Composite Bow Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Carved Smoothed Wooden Board, C 2 Carved Smoothed Oak Wood Board, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -30119,7 +30120,7 @@
 		),
 		array (
 			"name"		=> "Compound Bow Staff Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Pulley Wheels, C 1 Compound Bow Grip, C 2 Compound Bow Arm",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -30129,7 +30130,7 @@
 		),
 		array (
 			"name"		=> "Enkidukai Composite Bow Staff Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Smoothed Wooden Board, C 2 Smoothed piece of Tefusang Claw, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -30139,7 +30140,7 @@
 		),
 		array (
 			"name"		=> "Ynnwn Composite Bow Staff Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Smoothed Wooden Board, C 2 Smoothed Piece of Ulbernaut Claw, B 1 Fish Glue",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -30149,7 +30150,7 @@
 		),
 		array (
 			"name"		=> "Carved Curved Enkidukai Composite Bow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Enkidukai Composite Bow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30159,7 +30160,7 @@
 		),
 		array (
 			"name"		=> "Carved Curved Ynnwn Composite Bow Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Ynnwn Composite Bow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30169,7 +30170,7 @@
 		),
 		array (
 			"name"		=> "Curved Dermorian Composite Staff",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dermorian Composite Bow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30179,7 +30180,7 @@
 		),
 		array (
 			"name"		=> "Piece of Tefusang Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Tefusang Claw",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -30189,7 +30190,7 @@
 		),
 		array (
 			"name"		=> "Piece of Tefusang Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Tefusangling Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -30199,7 +30200,7 @@
 		),
 		array (
 			"name"		=> "Piece of Ulbernaut Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Ulbernaut Claw",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -30209,7 +30210,7 @@
 		),
 		array (
 			"name"		=> "Heated Untempered Compound Bow Arm",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Untempered Compound Bow Arm",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -30219,7 +30220,7 @@
 		),
 		array (
 			"name"		=> "Compound Bow Arm",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Untempered Compound Bow Arm",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -30229,7 +30230,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Enkidukai Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Curved Enkidukai Composite Bow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30239,7 +30240,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Ynnwn Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Carved Curved Ynnwn Composite Bow Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30249,7 +30250,7 @@
 		),
 		array (
 			"name"		=> "Unstrung Dermorian Composite Bow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Curved Dermorian Composite Staff",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -30259,7 +30260,7 @@
 		),
 		array (
 			"name"		=> "Compound Bow Grip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -30269,7 +30270,7 @@
 		),
 		array (
 			"name"		=> "Untempered Compound Bow Arm",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -30279,7 +30280,7 @@
 		),
 		array (
 			"name"		=> "Pulley Wheels",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -30289,7 +30290,7 @@
 		),
 		array (
 			"name"		=> "Smoothed piece of Tefusang Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Piece of Tefusang Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Plane",
@@ -30299,7 +30300,7 @@
 		),
 		array (
 			"name"		=> "Smoothed Piece of Ulbernaut Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Piece of Ulbernaut Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Plane",
@@ -30352,7 +30353,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -30362,7 +30363,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -30372,7 +30373,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -30385,7 +30386,7 @@
 		//
 		array (
 			"name"		=> "Small Wooden Axe Handle Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Half Oak baton",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -30398,7 +30399,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -30411,7 +30412,7 @@
 		//
 		array (
 			"name"		=> "Wooden Axe Handle Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Oak Baton",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Chisel",
@@ -30907,7 +30908,7 @@
 		//
 		array (
 			"name"		=> "Half Oak baton",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Oak Baton",
 			"result"	=> "2",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -30917,7 +30918,7 @@
 		),
 		array (
 			"name"		=> "Oak Baton",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 White Oak Wood",
 			"result"	=> "4",
 			"tool"		=> "Smith Table + Wood Saw",
@@ -30930,7 +30931,7 @@
 		//
 		array (
 			"name"		=> "Super Heated Platinum Steel Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -30940,7 +30941,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -30950,7 +30951,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -30960,7 +30961,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -30970,7 +30971,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -30980,7 +30981,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Reinforced Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -30990,7 +30991,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Small Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31000,7 +31001,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Small Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31010,7 +31011,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31020,7 +31021,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31030,7 +31031,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31040,7 +31041,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31050,7 +31051,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31060,7 +31061,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Reinforced Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31070,7 +31071,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Small Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31080,7 +31081,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Small Battle Axe Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Small Battle Axe Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31090,7 +31091,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31100,7 +31101,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31110,7 +31111,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Alpha Blad",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31120,7 +31121,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Small Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -31130,7 +31131,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -31140,7 +31141,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -31150,7 +31151,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -31160,7 +31161,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -31170,7 +31171,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -31920,7 +31921,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Axe Brittle Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -31970,7 +31971,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Brittle Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -32020,7 +32021,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Brittle Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -32070,7 +32071,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Brittle Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -32200,7 +32201,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Axe Dull Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -32250,7 +32251,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Reinforced Battle Axe Dull Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Reinforced Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -32300,7 +32301,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Small Battle Axe Dull Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Small Battle Axe Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -32353,7 +32354,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Shortsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -32363,7 +32364,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Knife Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Platinum Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -32373,7 +32374,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Longsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -32383,7 +32384,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Dagger Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Platinum Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -32393,7 +32394,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Claymore Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -32403,7 +32404,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Sabre Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -33163,7 +33164,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Platinum Steel Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Platinum Steel Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33173,7 +33174,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Platinum Steel Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Platinum Steel Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33183,7 +33184,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Claymore Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Claymore Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33193,7 +33194,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33203,7 +33204,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Claymore Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Claymore Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33213,7 +33214,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Dagger Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Dagger Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33223,7 +33224,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33233,7 +33234,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Dagger Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Dagger Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33243,7 +33244,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Knife Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Knife Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33253,7 +33254,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Knife Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Knife Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33263,7 +33264,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Knife Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Knife Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33273,7 +33274,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Longsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Longsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33283,7 +33284,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33293,7 +33294,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Sabre Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Sabre Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33303,7 +33304,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Sabre Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33313,7 +33314,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Sabre Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Sabre Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33323,7 +33324,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Shortsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Shortsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33333,7 +33334,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Shortsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33343,7 +33344,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Shortsword Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Shortsword Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33353,7 +33354,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Claymore Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Claymore Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33363,7 +33364,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33373,7 +33374,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Claymore Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Claymore Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33383,7 +33384,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Dagger Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Dagger Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33393,7 +33394,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33403,7 +33404,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Dagger Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Dagger Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33413,7 +33414,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Knife Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Knife Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33423,7 +33424,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Knife Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Knife Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33433,7 +33434,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Knife Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Knife Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33443,7 +33444,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Longsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Longsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33453,7 +33454,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33463,7 +33464,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Sabre Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Sabre Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33473,7 +33474,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Sabre Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33483,7 +33484,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Sabre Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Sabre Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33493,7 +33494,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Shortsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Shortsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33503,7 +33504,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Shortsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33513,7 +33514,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Shortsword Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Shortsword Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33523,7 +33524,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Claymore Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Claymore Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33533,7 +33534,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Claymore Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33543,7 +33544,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Dagger Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Dagger Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33553,7 +33554,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Dagger Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33563,7 +33564,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Knife Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Knife Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33573,7 +33574,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Knife Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Knife Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33583,7 +33584,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Longsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Longsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33593,7 +33594,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33603,7 +33604,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Sabre Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Sabre Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33613,7 +33614,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Sabre Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33623,7 +33624,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Shortsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Shortsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33633,7 +33634,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Shortsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -33643,7 +33644,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Claymore Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Claymore Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33653,7 +33654,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Dagger Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Dagger Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33663,7 +33664,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Knife Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Knife Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33673,7 +33674,7 @@
 		),
 		array (
 			"name"		=> "Brittle Platinum Steel Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Longsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33683,7 +33684,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Sabre Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Sabre Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33693,7 +33694,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Shortsword Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Shortsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33703,7 +33704,7 @@
 		),
 		array (
 			"name"		=> "Dull Platinum Steel Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Platinum Steel Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33713,7 +33714,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Claymore Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Claymore Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33723,7 +33724,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Dagger Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Dagger Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33733,7 +33734,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Knife Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Knife Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33743,7 +33744,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Sabre Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Sabre Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33753,7 +33754,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Shortsword Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Shortsword Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -33763,7 +33764,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Longsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Platinum Steel Longsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -33773,7 +33774,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Claymore Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Claymore Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -33783,7 +33784,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Dagger Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Dagger Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -33793,7 +33794,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Knife Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Knife Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -33803,7 +33804,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Sabre Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Sabre Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -33813,7 +33814,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Shortsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Shortsword Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -35276,7 +35277,7 @@
 		//
 		array (
 			"name"		=> "Gold Gem Bracer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Unpolished Gold Bracer, C 1 Gold Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -35286,7 +35287,7 @@
 		),
 		array (
 			"name"		=> "Platinum Gem Bracer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Unpolished Platinum Bracer, C 1 Platinum Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -35296,7 +35297,7 @@
 		),
 		array (
 			"name"		=> "Silver Gem Bracer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Unpolished Silver Bracer, C 1 Silver Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -35306,7 +35307,7 @@
 		),
 		array (
 			"name"		=> "Gold Gem Necklace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unpolished Gold Necklace, C 1 Gold Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -35316,7 +35317,7 @@
 		),
 		array (
 			"name"		=> "Gold Gem Ring Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unpolished Gold Ring, C 1 Gold Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -35326,7 +35327,7 @@
 		),
 		array (
 			"name"		=> "Platinum Gem Necklace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unpolished Platinum Necklace, C 1 Platinum Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -35336,7 +35337,7 @@
 		),
 		array (
 			"name"		=> "Platinum Gem Ring Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unpolished Platinum Ring, C 1 Platinum Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -35346,7 +35347,7 @@
 		),
 		array (
 			"name"		=> "Silver Gem Necklace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unpolished Silver Necklace, C 1 Silver Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -35356,7 +35357,7 @@
 		),
 		array (
 			"name"		=> "Silver Gem Ring Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unpolished Silver Ring, C 1 Silver Gem Socket",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -35366,7 +35367,7 @@
 		),
 		array (
 			"name"		=> "Gold Strand",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Wire",
 			"result"	=> "4",
 			"tool"		=> "Smith Table + Cutters",
@@ -35376,7 +35377,7 @@
 		),
 		array (
 			"name"		=> "Platinum Strand",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Wire",
 			"result"	=> "4",
 			"tool"		=> "Smith Table + Cutters",
@@ -35386,7 +35387,7 @@
 		),
 		array (
 			"name"		=> "Silver Strand",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Wire",
 			"result"	=> "4",
 			"tool"		=> "Smith Table + Cutters",
@@ -35396,7 +35397,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Diamond Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -35406,7 +35407,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Emerald Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -35416,7 +35417,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Ruby Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -35426,7 +35427,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Sapphire Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -35436,7 +35437,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Diamond Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -35446,7 +35447,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Emerald Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -35456,7 +35457,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Ruby Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -35466,7 +35467,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Sapphire Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -35476,7 +35477,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Diamond Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -35486,7 +35487,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Emerald Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -35496,7 +35497,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Ruby Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -35506,7 +35507,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Gold Sapphire Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gold Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -35516,7 +35517,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Diamond Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -35526,7 +35527,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Emerald Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -35536,7 +35537,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Ruby Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -35546,7 +35547,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Sapphire Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -35556,7 +35557,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Diamond Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -35566,7 +35567,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Emerald Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -35576,7 +35577,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Ruby Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -35586,7 +35587,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Sapphire Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -35596,7 +35597,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Diamond Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -35606,7 +35607,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Emerald Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -35616,7 +35617,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Ruby Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -35626,7 +35627,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Platinum Sapphire Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -35636,7 +35637,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Diamond Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -35646,7 +35647,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Emerald Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -35656,7 +35657,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Ruby Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -35666,7 +35667,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Sapphire Bracer",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Bracer Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -35676,7 +35677,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Diamond Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -35686,7 +35687,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Emerald Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -35696,7 +35697,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Ruby Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -35706,7 +35707,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Sapphire Necklace",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Necklace Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -35716,7 +35717,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Diamond Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Diamond",
@@ -35726,7 +35727,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Emerald Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Emerald",
@@ -35736,7 +35737,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Ruby Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Ruby",
@@ -35746,7 +35747,7 @@
 		),
 		array (
 			"name"		=> "Unpolished Silver Sapphire Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Silver Gem Ring Kit",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Enchanted Sapphire",
@@ -36149,7 +36150,7 @@
 		//
 		array (
 			"name"		=> "Unfinished Gobo Salve",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gobo Oil, C 1 Blackbush Powder",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -36159,7 +36160,7 @@
 		),
 		array (
 			"name"		=> "Unfinished Lavender Salve",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Lavender Oil, C 1 Sicklepod Powder",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -36169,7 +36170,7 @@
 		),
 		array (
 			"name"		=> "Sicklepod Powder",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Sicklepod Flower",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
@@ -36179,7 +36180,7 @@
 		),
 		array (
 			"name"		=> "Blackbush Powder",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Blackbush Stem",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
@@ -36212,7 +36213,7 @@
 		//
 		array (
 			"name"		=> "Raw Greater Cure Disease Potion",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Barberry Syrup, C 3 Diluted Illness Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36222,7 +36223,7 @@
 		),
 		array (
 			"name"		=> "Raw Greater Potion of Healing",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Kingsfoil Tea, C 3 Healing Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36232,7 +36233,7 @@
 		),
 		array (
 			"name"		=> "Raw Greater Potion of Mana",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Sinaflar Paste, C 3 Mana Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36242,7 +36243,7 @@
 		),
 		array (
 			"name"		=> "Raw Greater Potion of Restoration",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Wragberry Juice, C 3 Restoration Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36252,7 +36253,7 @@
 		),
 		array (
 			"name"		=> "Raw Lesser Cure Disease Potion",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Barberry Extract, C 1 Diluted Illness Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36262,7 +36263,7 @@
 		),
 		array (
 			"name"		=> "Raw Cure Disease Potion",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Barberry Syrup, C 2 Diluted Illness Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36272,7 +36273,7 @@
 		),
 		array (
 			"name"		=> "Raw Lesser Potion of Healing",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Kingsfoil Leaf, C 1 Healing Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36282,7 +36283,7 @@
 		),
 		array (
 			"name"		=> "Mix of Carkarass venom essence",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Distilled Water, C 1 Carkarass Venom Dust Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36292,7 +36293,7 @@
 		),
 		array (
 			"name"		=> "Mix of Grendol venom essence",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Distilled Water, C 1 Grendol Venom Dust Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36302,7 +36303,7 @@
 		),
 		array (
 			"name"		=> "Mix of Arangma Tooth and distilled water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Distilled Water, C 1 Ground Arangma Tooth",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36312,7 +36313,7 @@
 		),
 		array (
 			"name"		=> "Mix of Gawert Stinger and distilled water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Distilled Water, C 1 Ground Gawert Stinger",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36322,7 +36323,7 @@
 		),
 		array (
 			"name"		=> "Mix of Tloke Stinger and distilled water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Distilled Water, C 1 Ground Tloke Stinger",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36332,7 +36333,7 @@
 		),
 		array (
 			"name"		=> "Raw Arangma Poison Antidote",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gobo Salve, C 1 Diluted Arangma Venom Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36342,7 +36343,7 @@
 		),
 		array (
 			"name"		=> "Raw Carkarass Poison Antidote",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gobo Salve, C 1 Diluted Carkarass Venom Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36352,7 +36353,7 @@
 		),
 		array (
 			"name"		=> "Raw Gawert Poison Antidote",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gobo Salve, C 1 Diluted Gawert Venom Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36362,7 +36363,7 @@
 		),
 		array (
 			"name"		=> "Raw Grendol Poison Antidote",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gobo Salve, C 1 Diluted Grendol Venom Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36372,7 +36373,7 @@
 		),
 		array (
 			"name"		=> "Raw Tloke Poison Antidote",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gobo Salve, C 1 Diluted Tloke Venom Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36382,7 +36383,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Healing",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Kingsfoil Tea, C 2 Healing Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36392,7 +36393,7 @@
 		),
 		array (
 			"name"		=> "Mix of Marfusang Heart",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Marfusang Heart, B 1 Sulphur powder, C 1 Distilled Water",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36402,7 +36403,7 @@
 		),
 		array (
 			"name"		=> "Mix of Maulberlord Ebony Heart",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Maulberlord Ebony Heart, B 1 Sulphur powder, C 1 Distilled Water",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36412,7 +36413,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Mana",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sinaflar Paste, C 2 Mana Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36422,7 +36423,7 @@
 		),
 		array (
 			"name"		=> "Raw Lesser Potion of Mana",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sinaflar Pulp, C 1 Mana Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36432,7 +36433,7 @@
 		),
 		array (
 			"name"		=> "Mixed poultice of Arangma Egg Sac",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 1 Poultice of Arangma Egg Sac",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36442,7 +36443,7 @@
 		),
 		array (
 			"name"		=> "Mixed poultice of Trepor Egg Sac",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 1 Poultice of Trepor Egg Sac",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36452,7 +36453,7 @@
 		),
 		array (
 			"name"		=> "Mixed Coamti Tongue",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 1 Vitriol salt, L 1 Coamti Tongue",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36462,7 +36463,7 @@
 		),
 		array (
 			"name"		=> "Mixed Marfusang Tongue",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Spirit, C 1 Vitriol salt, L 1 Marfusang Tongue",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36472,7 +36473,7 @@
 		),
 		array (
 			"name"		=> "Mix of Trepor Heart",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Trepor Heart, B 1 Sulphur powder, C 1 Distilled Water",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36482,7 +36483,7 @@
 		),
 		array (
 			"name"		=> "Mix of Trepor Queen Heart",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Trepor Queen Heart, B 1 Sulphur powder, C 1 Distilled Water",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36492,7 +36493,7 @@
 		),
 		array (
 			"name"		=> "Mix of Ulbernaut Heart",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Ulbernaut Heart, B 1 Sulphur powder, C 1 Distilled Water",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36502,7 +36503,7 @@
 		),
 		array (
 			"name"		=> "Raw Potion of Restoration",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wragberry Juice, C 2 Restoration Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36512,7 +36513,7 @@
 		),
 		array (
 			"name"		=> "Raw Lesser Potion of Restoration",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wragberry Pulp, C 1 Restoration Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
@@ -36522,7 +36523,7 @@
 		),
 		array (
 			"name"		=> "Healing Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed poultice of Arangma Egg Sac",
 			"result"	=> "2",
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
@@ -36532,7 +36533,7 @@
 		),
 		array (
 			"name"		=> "Healing Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mixed poultice of Trepor Egg Sac",
 			"result"	=> "10",
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
@@ -36562,7 +36563,7 @@
 		),
 		array (
 			"name"		=> "Tloke Poison Antidote",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Raw Tloke Poison Antidote",
 			"result"	=> "1",
 			"tool"		=> "Alchemist Stove + Wooden Stirrer",
@@ -36652,7 +36653,7 @@
 		),
 		array (
 			"name"		=> "Diluted Arangma Venom Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Arangma Venom",
 			"result"	=> "1",
 			"tool"		=> "Decanter + Strainer",
@@ -36662,7 +36663,7 @@
 		),
 		array (
 			"name"		=> "Restoration Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Coamti tongue",
 			"result"	=> "2",
 			"tool"		=> "Decanter + Strainer",
@@ -36672,7 +36673,7 @@
 		),
 		array (
 			"name"		=> "Diluted Gawert Venom Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Gawert Stinger Venom",
 			"result"	=> "1",
 			"tool"		=> "Decanter + Strainer",
@@ -36682,7 +36683,7 @@
 		),
 		array (
 			"name"		=> "Mana Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Marfusang Heart",
 			"result"	=> "10",
 			"tool"		=> "Decanter + Strainer",
@@ -36692,7 +36693,7 @@
 		),
 		array (
 			"name"		=> "Restoration Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Marfusang Tongue",
 			"result"	=> "10",
 			"tool"		=> "Decanter + Strainer",
@@ -36702,7 +36703,7 @@
 		),
 		array (
 			"name"		=> "Mana Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Maulberlord Ebony Heart",
 			"result"	=> "14",
 			"tool"		=> "Decanter + Strainer",
@@ -36712,7 +36713,7 @@
 		),
 		array (
 			"name"		=> "Diluted Tloke Venom Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Tloke Stinger Venom",
 			"result"	=> "1",
 			"tool"		=> "Decanter + Strainer",
@@ -36722,7 +36723,7 @@
 		),
 		array (
 			"name"		=> "Mana Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Trepor Heart",
 			"result"	=> "6",
 			"tool"		=> "Decanter + Strainer",
@@ -36732,7 +36733,7 @@
 		),
 		array (
 			"name"		=> "Mana Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Trepor Queen Heart",
 			"result"	=> "10",
 			"tool"		=> "Decanter + Strainer",
@@ -36742,7 +36743,7 @@
 		),
 		array (
 			"name"		=> "Mana Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Extract of Ulbernaut Heart",
 			"result"	=> "12",
 			"tool"		=> "Decanter + Strainer",
@@ -36772,7 +36773,7 @@
 		),
 		array (
 			"name"		=> "Grendol Venom Dust Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Distilled Grendol Poison Blood",
 			"result"	=> "6",
 			"tool"		=> "Athanor",
@@ -36782,7 +36783,7 @@
 		),
 		array (
 			"name"		=> "Carkarass Venom Dust Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Purified Carkarass Poison",
 			"result"	=> "4",
 			"tool"		=> "Athanor",
@@ -36842,7 +36843,7 @@
 		),
 		array (
 			"name"		=> "Diluted Illness Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Illness Essence",
 			"result"	=> "1",
 			"tool"		=> "Decanter",
@@ -36852,7 +36853,7 @@
 		),
 		array (
 			"name"		=> "Diluted Carkarass Venom Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Carkarass venom essence",
 			"result"	=> "1",
 			"tool"		=> "Decanter",
@@ -36862,7 +36863,7 @@
 		),
 		array (
 			"name"		=> "Diluted Grendol Venom Essence",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Mix of Grendol venom essence",
 			"result"	=> "1",
 			"tool"		=> "Decanter",
@@ -37035,7 +37036,7 @@
 		//
 		array (
 			"name"		=> "Banded Mail Helm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Banded Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37045,7 +37046,7 @@
 		),
 		array (
 			"name"		=> "Battle Helm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37055,7 +37056,7 @@
 		),
 		array (
 			"name"		=> "Brigandine Helm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brigandine Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37065,7 +37066,7 @@
 		),
 		array (
 			"name"		=> "Bronze Serpent Helm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Serpent Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37075,7 +37076,7 @@
 		),
 		array (
 			"name"		=> "Bronze Spangenhelm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37085,7 +37086,7 @@
 		),
 		array (
 			"name"		=> "Bronze Spangen Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37095,7 +37096,7 @@
 		),
 		array (
 			"name"		=> "Chain Mail Helm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Chain Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37105,7 +37106,7 @@
 		),
 		array (
 			"name"		=> "Full Spangenhelm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Full Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37115,7 +37116,7 @@
 		),
 		array (
 			"name"		=> "Holy Helmet Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Holy Helmet Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37125,7 +37126,7 @@
 		),
 		array (
 			"name"		=> "Horned Helm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Horned Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37135,7 +37136,7 @@
 		),
 		array (
 			"name"		=> "Mercenary Helm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mercenary Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37145,7 +37146,7 @@
 		),
 		array (
 			"name"		=> "Plate Mail Helm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Plate Mail Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37155,7 +37156,7 @@
 		),
 		array (
 			"name"		=> "Spangenhelm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spangenhelm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37165,7 +37166,7 @@
 		),
 		array (
 			"name"		=> "Spangen Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spangen Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37175,7 +37176,7 @@
 		),
 		array (
 			"name"		=> "Steel Plate Helm Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steel Plate Helm Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37185,7 +37186,7 @@
 		),
 		array (
 			"name"		=> "Small Bronze Chain Mail Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Bronze Chain Mail Strip",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37198,7 +37199,7 @@
 		//
 		array (
 			"name"		=> "Small Chain Mail Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Chain Mail Strip",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37211,7 +37212,7 @@
 		//
 		array (
 			"name"		=> "Bronze Four in One Pattern",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Dozen Open Bronze Ring, C 1 Dozen Closed Bronze Ring",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37224,7 +37225,7 @@
 		//
 		array (
 			"name"		=> "Four in One Pattern",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Dozen Open Steel Ring, C 1 Dozen Closed Steel Ring",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37237,7 +37238,7 @@
 		//
 		array (
 			"name"		=> "Riveted Bronze Four in One Pattern",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Dozen Riveted Open Bronze Ring, C 1 Dozen Riveted Closed Bronze Ring",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37250,7 +37251,7 @@
 		//
 		array (
 			"name"		=> "Riveted Four in One Pattern",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Dozen Riveted Open Steel Ring, C 1 Dozen Riveted Closed Steel Ring",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37263,7 +37264,7 @@
 		//
 		array (
 			"name"		=> "Bronze Six in One Pattern",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Dozen Open Bronze Ring, C 1 Dozen Closed Bronze Ring",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37276,7 +37277,7 @@
 		//
 		array (
 			"name"		=> "Six in One Pattern",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Dozen Open Steel Ring, C 1 Dozen Closed Steel Ring",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37289,7 +37290,7 @@
 		//
 		array (
 			"name"		=> "Riveted Bronze Six in One Pattern",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Dozen Riveted Open Bronze Ring, C 1 Dozen Riveted Closed Bronze Ring",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37302,7 +37303,7 @@
 		//
 		array (
 			"name"		=> "Riveted Six in One Pattern",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Dozen Riveted Open Steel Ring, C 1 Dozen Riveted Closed Steel Ring",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -37315,7 +37316,7 @@
 		//
 		array (
 			"name"		=> "Dozen Open Bronze Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Coil",
 			"result"	=> "15",
 			"tool"		=> "Smith Table + Cutters",
@@ -37328,7 +37329,7 @@
 		//
 		array (
 			"name"		=> "Dozen Open Steel Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steel Coil",
 			"result"	=> "15",
 			"tool"		=> "Smith Table + Cutters",
@@ -37341,7 +37342,7 @@
 		//
 		array (
 			"name"		=> "Super Heated Helm Topband",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Helm Topband",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -37351,7 +37352,7 @@
 		),
 		array (
 			"name"		=> "Dozen Closed Bronze Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dozen Open Bronze Ring",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37364,7 +37365,7 @@
 		//
 		array (
 			"name"		=> "Dozen Closed Steel Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dozen Open Steel Ring",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37377,7 +37378,7 @@
 		//
 		array (
 			"name"		=> "Bronze Wire",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Molten Bronze",
 			"result"	=> "1",
 			"tool"		=> "Forge + Wire mold",
@@ -37387,7 +37388,7 @@
 		),
 		array (
 			"name"		=> "Dozen Riveted Closed Bronze Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dozen Closed Bronze Ring",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37400,7 +37401,7 @@
 		//
 		array (
 			"name"		=> "Dozen Riveted Closed Steel Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dozen Closed Steel Ring",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37413,7 +37414,7 @@
 		//
 		array (
 			"name"		=> "Dozen Riveted Open Bronze Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dozen Open Bronze Ring",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37426,7 +37427,7 @@
 		//
 		array (
 			"name"		=> "Dozen Riveted Open Steel Ring",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dozen Open Steel Ring",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -37439,7 +37440,7 @@
 		//
 		array (
 			"name"		=> "Steel Cheekplate",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37449,7 +37450,7 @@
 		),
 		array (
 			"name"		=> "Set of Steel Band",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37459,7 +37460,7 @@
 		),
 		array (
 			"name"		=> "Bronze Helm Topband",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37469,7 +37470,7 @@
 		),
 		array (
 			"name"		=> "Helm Topband",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37479,7 +37480,7 @@
 		),
 		array (
 			"name"		=> "Bronze Helm Neck Wrap",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37489,7 +37490,7 @@
 		),
 		array (
 			"name"		=> "Helm Neck Wrap",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37499,7 +37500,7 @@
 		),
 		array (
 			"name"		=> "Steel Ridge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 7 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37509,7 +37510,7 @@
 		),
 		array (
 			"name"		=> "Bronze Helm Skullcap",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37519,7 +37520,7 @@
 		),
 		array (
 			"name"		=> "Helm Skullcap",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37529,7 +37530,7 @@
 		),
 		array (
 			"name"		=> "Bronze Helm Headband",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 9 Heated Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37539,7 +37540,7 @@
 		),
 		array (
 			"name"		=> "Helm Headband",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 9 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37549,7 +37550,7 @@
 		),
 		array (
 			"name"		=> "Spangen",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spangen Assembly",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -37559,7 +37560,7 @@
 		),
 		array (
 			"name"		=> "Sharpened Deadly Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Ulbernaut Deadly Claw",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Wood Plane",
@@ -37569,7 +37570,7 @@
 		),
 		array (
 			"name"		=> "Bronze Scale Mail Cloth",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small Bronze Chain Mail Piece",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37579,7 +37580,7 @@
 		),
 		array (
 			"name"		=> "Large Mail Cloth",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small Chain Mail Piece",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37589,7 +37590,7 @@
 		),
 		array (
 			"name"		=> "Bronze Chain Mail Strip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Bronze Four in One Pattern",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37599,7 +37600,7 @@
 		),
 		array (
 			"name"		=> "Bronze Chain Mail Strip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Bronze Six in One Pattern",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37612,7 +37613,7 @@
 		//
 		array (
 			"name"		=> "Chain Mail Strip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Four in One Pattern",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37625,7 +37626,7 @@
 		//
 		array (
 			"name"		=> "Bronze Chain Mail Strip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Riveted Bronze Four in One Pattern",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37635,7 +37636,7 @@
 		),
 		array (
 			"name"		=> "Bronze Chain Mail Strip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Riveted Bronze Six in One Pattern",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37648,7 +37649,7 @@
 		//
 		array (
 			"name"		=> "Chain Mail Strip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Riveted Four in One Pattern",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37658,7 +37659,7 @@
 		),
 		array (
 			"name"		=> "Chain Mail Strip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Riveted Six in One Pattern",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37668,7 +37669,7 @@
 		),
 		array (
 			"name"		=> "Chain Mail Strip",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Six in One Pattern",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37681,7 +37682,7 @@
 		//
 		array (
 			"name"		=> "Small Bronze Chain Mail Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Bronze Chain Mail Part",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37694,7 +37695,7 @@
 		//
 		array (
 			"name"		=> "Small Chain Mail Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Chain Mail Part",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -37707,7 +37708,7 @@
 		//
 		array (
 			"name"		=> "Bronze Coil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Wire",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mandrel",
@@ -37720,7 +37721,7 @@
 		//
 		array (
 			"name"		=> "Steel Coil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steel Wire",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mandrel",
@@ -39040,7 +39041,7 @@
 		//
 		array (
 			"name"		=> "Tinga Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Cut Tinga Leaves, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39050,7 +39051,7 @@
 		),
 		array (
 			"name"		=> "Barberry Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Barberry Root, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39060,7 +39061,7 @@
 		),
 		array (
 			"name"		=> "Blue Cohosh Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Blue Cohosh Root, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39070,7 +39071,7 @@
 		),
 		array (
 			"name"		=> "Blue Shan Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Blue Shan Flower, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39080,7 +39081,7 @@
 		),
 		array (
 			"name"		=> "Butchers Broom Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Butchers Broom Root, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39090,7 +39091,7 @@
 		),
 		array (
 			"name"		=> "Charmflower Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Charmflower, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39100,7 +39101,7 @@
 		),
 		array (
 			"name"		=> "Clackerweed Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Clackerweed Leaf, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39110,7 +39111,7 @@
 		),
 		array (
 			"name"		=> "Dandelion Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Dandelion Flower, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39120,7 +39121,7 @@
 		),
 		array (
 			"name"		=> "Devils Claw Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Devils Claw, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39130,7 +39131,7 @@
 		),
 		array (
 			"name"		=> "Eyebright Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Eyebright, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39140,7 +39141,7 @@
 		),
 		array (
 			"name"		=> "Feverfew Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Feverfew, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39150,7 +39151,7 @@
 		),
 		array (
 			"name"		=> "Gobo Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Gobo Root, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39160,7 +39161,7 @@
 		),
 		array (
 			"name"		=> "Golden Ivy Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Golden Ivy Leaf, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39170,7 +39171,7 @@
 		),
 		array (
 			"name"		=> "Hop Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Hops, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39180,7 +39181,7 @@
 		),
 		array (
 			"name"		=> "Kingsfoil Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Kingsfoil Leaf, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39190,7 +39191,7 @@
 		),
 		array (
 			"name"		=> "Orilliphia Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Orilliphia, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39200,7 +39201,7 @@
 		),
 		array (
 			"name"		=> "Red Mangrove Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Red Mangrove, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39210,7 +39211,7 @@
 		),
 		array (
 			"name"		=> "Sinaflar Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Sinaflar Root, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39220,7 +39221,7 @@
 		),
 		array (
 			"name"		=> "Snowbud Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Snowbud, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39230,7 +39231,7 @@
 		),
 		array (
 			"name"		=> "Wyn Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Wyn Reed, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39240,7 +39241,7 @@
 		),
 		array (
 			"name"		=> "Yarrow Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Yarrow, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39250,7 +39251,7 @@
 		),
 		array (
 			"name"		=> "Cut Barberry Root",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Barberry Root",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39260,7 +39261,7 @@
 		),
 		array (
 			"name"		=> "Cut Tinga Leaves",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Tinga Leaves",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39270,7 +39271,7 @@
 		),
 		array (
 			"name"		=> "Mug of Hot Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Water Filled Bucket",
 			"result"	=> "14",
 			"tool"		=> "Pot",
@@ -39280,7 +39281,7 @@
 		),
 		array (
 			"name"		=> "Juiceberry Pulp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Juiceberry Fruit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
@@ -39290,7 +39291,7 @@
 		),
 		array (
 			"name"		=> "Cut Charmflower",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Charmflower",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39300,7 +39301,7 @@
 		),
 		array (
 			"name"		=> "Cut Clackerweed Leaf",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Clackerweed Leaf",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39310,7 +39311,7 @@
 		),
 		array (
 			"name"		=> "Cut Dandelion Flower",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Dandelion Flower",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39320,7 +39321,7 @@
 		),
 		array (
 			"name"		=> "Cut Kingsfoil Leaf",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Kingsfoil Leaf",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39330,7 +39331,7 @@
 		),
 		array (
 			"name"		=> "Wragberry Pulp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Wragberry",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
@@ -39340,7 +39341,7 @@
 		),
 		array (
 			"name"		=> "Lavender Tea Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Lavender Flower, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -39350,7 +39351,7 @@
 		),
 		array (
 			"name"		=> "Cut Lavender Flower",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Lavender Flower",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39360,7 +39361,7 @@
 		),
 		array (
 			"name"		=> "Cut Red Mangrove",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Red Mangrove Leaf",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39370,7 +39371,7 @@
 		),
 		array (
 			"name"		=> "Cut Sinaflar Root",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Sinaflar Root",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39380,7 +39381,7 @@
 		),
 		array (
 			"name"		=> "Cut Wyn Reed",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Wyn Reed",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39390,7 +39391,7 @@
 		),
 		array (
 			"name"		=> "Threestem Pulp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Threestem Fruit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
@@ -39400,7 +39401,7 @@
 		),
 		array (
 			"name"		=> "Cut Feverfew",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Feverfew",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39410,7 +39411,7 @@
 		),
 		array (
 			"name"		=> "Cut Gobo Root",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Gobo Root",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39420,7 +39421,7 @@
 		),
 		array (
 			"name"		=> "Cut Hops",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Hops",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39430,7 +39431,7 @@
 		),
 		array (
 			"name"		=> "Cut Devils Claw",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Devils Claw",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39440,7 +39441,7 @@
 		),
 		array (
 			"name"		=> "Cut Eyebright",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Eyebright",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39450,7 +39451,7 @@
 		),
 		array (
 			"name"		=> "Cut Snowbud",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Snowbud",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39460,7 +39461,7 @@
 		),
 		array (
 			"name"		=> "Cut Blue Shan Flower",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Blue Shan Flower",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39470,7 +39471,7 @@
 		),
 		array (
 			"name"		=> "Cut Yarrow",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Yarrow",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39480,7 +39481,7 @@
 		),
 		array (
 			"name"		=> "Cut Butchers Broom Root",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Butchers Broom Root",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39490,7 +39491,7 @@
 		),
 		array (
 			"name"		=> "Cut Golden Ivy Leaf",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Golden Ivy Leaf",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39500,7 +39501,7 @@
 		),
 		array (
 			"name"		=> "Cut Orilliphia",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Orilliphia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -39773,7 +39774,7 @@
 		//
 		array (
 			"name"		=> "Medium Chain Mail Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Chain Mail Strip",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39783,7 +39784,7 @@
 		),
 		array (
 			"name"		=> "Large Chain Mail Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 9 Chain Mail Strip",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39793,7 +39794,7 @@
 		),
 		array (
 			"name"		=> "Large Chain Mail Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Large Chain Mail Part",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -39803,7 +39804,7 @@
 		),
 		array (
 			"name"		=> "Medium Chain Mail Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Medium Chain Mail Part",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
@@ -39813,7 +39814,7 @@
 		),
 		array (
 			"name"		=> "Steel Coil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steel Wire",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Mand",
@@ -39876,7 +39877,7 @@
 		//
 		array (
 			"name"		=> "Leather Pants Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Medium Leather Armor Piece, C 5 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39886,7 +39887,7 @@
 		),
 		array (
 			"name"		=> "Leather Boots Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small Leather Armor Piece, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39896,7 +39897,7 @@
 		),
 		array (
 			"name"		=> "Leather Cheekplate Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Leather String, C 2 Leather Armor Patch",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39906,7 +39907,7 @@
 		),
 		array (
 			"name"		=> "Leather Gloves Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Leather Armor Patch, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39916,7 +39917,7 @@
 		),
 		array (
 			"name"		=> "Leather Ridge Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Leather String, C 4 Leather Armor Patch",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39926,7 +39927,7 @@
 		),
 		array (
 			"name"		=> "Leather Torso Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Large Leather Armor Piece, C 2 Leather Armor Patch, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39936,7 +39937,7 @@
 		),
 		array (
 			"name"		=> "Leather Arms Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Medium Leather Armor Piece, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39946,7 +39947,7 @@
 		),
 		array (
 			"name"		=> "Leather Cap Part",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Leather Armor Piece, C 1 Leather Armor Patch, C 2 Leather String",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -39956,7 +39957,7 @@
 		),
 		array (
 			"name"		=> "Leather Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Leather Arms Part",
 			"result"	=> "1",
 			"tool"		=> "Puncher",
@@ -39966,7 +39967,7 @@
 		),
 		array (
 			"name"		=> "Leather Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Leather Boots Part",
 			"result"	=> "1",
 			"tool"		=> "Puncher",
@@ -39976,7 +39977,7 @@
 		),
 		array (
 			"name"		=> "Leather Cap Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Leather Cap Part",
 			"result"	=> "1",
 			"tool"		=> "Puncher",
@@ -39986,7 +39987,7 @@
 		),
 		array (
 			"name"		=> "Leather Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Leather Gloves Part",
 			"result"	=> "1",
 			"tool"		=> "Puncher",
@@ -39996,7 +39997,7 @@
 		),
 		array (
 			"name"		=> "Leather Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Leather Pants Part",
 			"result"	=> "1",
 			"tool"		=> "Puncher",
@@ -40006,7 +40007,7 @@
 		),
 		array (
 			"name"		=> "Leather Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Leather Torso Part",
 			"result"	=> "1",
 			"tool"		=> "Puncher",
@@ -40016,7 +40017,7 @@
 		),
 		array (
 			"name"		=> "Large Leather Armor Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Large Piece Of Leather",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Copper Needle and Thread",
@@ -40026,7 +40027,7 @@
 		),
 		array (
 			"name"		=> "Leather Armor Patch",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Leather Patch",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Copper Needle and Thread",
@@ -40036,7 +40037,7 @@
 		),
 		array (
 			"name"		=> "Medium Leather Armor Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Medium Piece Of Leather",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Copper Needle and Thread",
@@ -40046,7 +40047,7 @@
 		),
 		array (
 			"name"		=> "Small Leather Armor Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small Piece Of Leather",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Copper Needle and Thread",
@@ -40056,7 +40057,7 @@
 		),
 		array (
 			"name"		=> "Leather Cheekplate",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Leather Cheekplate Kit",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Copper Needle and Thread",
@@ -40066,7 +40067,7 @@
 		),
 		array (
 			"name"		=> "Leather Ridge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Leather Ridge Kit",
 			"result"	=> "1",
 			"tool"		=> "Leatherworking Table + Copper Needle and Thread",
@@ -40139,7 +40140,7 @@
 		//
 		array (
 			"name"		=> "Plate Mail Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Medium Steel Plate, C 2 Large Steel Plate, L 1 Chain Mail Torso Armor",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -40149,7 +40150,7 @@
 		),
 		array (
 			"name"		=> "Plate Mail Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Set of Steel Plate, C 2 Small Steel Plate, L 1 Chain Mail Gloves",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -40159,7 +40160,7 @@
 		),
 		array (
 			"name"		=> "Plate Mail Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small Steel Plate, C 2 Large Steel Plate, L 1 Chain Mail Pants",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -40169,7 +40170,7 @@
 		),
 		array (
 			"name"		=> "Plate Mail Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Small Steel Plate, C 2 Medium Steel Plate, L 1 Chain Mail Boots",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -40179,7 +40180,7 @@
 		),
 		array (
 			"name"		=> "Plate Mail Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Medium Steel Plate, L 1 Chain Mail Arms Armor",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -40189,7 +40190,7 @@
 		),
 		array (
 			"name"		=> "Riveted Plate Mail Arms Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Plate Mail Arms Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -40199,7 +40200,7 @@
 		),
 		array (
 			"name"		=> "Riveted Plate Mail Boots Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Plate Mail Boots Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -40209,7 +40210,7 @@
 		),
 		array (
 			"name"		=> "Riveted Plate Mail Gloves Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Plate Mail Gloves Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -40219,7 +40220,7 @@
 		),
 		array (
 			"name"		=> "Riveted Plate Mail Pants Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Plate Mail Pants Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -40229,7 +40230,7 @@
 		),
 		array (
 			"name"		=> "Riveted Plate Mail Torso Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Plate Mail Torso Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -40239,7 +40240,7 @@
 		),
 		array (
 			"name"		=> "Set of Steel Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -40249,7 +40250,7 @@
 		),
 		array (
 			"name"		=> "Small Steel Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -40259,7 +40260,7 @@
 		),
 		array (
 			"name"		=> "Medium Steel Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -40269,7 +40270,7 @@
 		),
 		array (
 			"name"		=> "Large Steel Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 7 Heated Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -40862,7 +40863,7 @@
 		//
 		array (
 			"name"		=> "Crunchy Bread Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bread Piece",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -40872,7 +40873,7 @@
 		),
 		array (
 			"name"		=> "Creamy Mashed Kartoffel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Kartoffel-Butter Mix",
 			"result"	=> "4",
 			"tool"		=> "Wooden Bowl + Mixer",
@@ -40882,7 +40883,7 @@
 		),
 		array (
 			"name"		=> "Savory Noodle Stew Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 16 Vegetable Meat Stew, C 1 Noodle, C 2 Scoop of Milk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40892,7 +40893,7 @@
 		),
 		array (
 			"name"		=> "Simmering Wiggly Feeler",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 2 Cider Mug, L 1 Trepor Wiggly Feeler",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40902,7 +40903,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Mushroom Seasoning",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Dash of Jomed's Seasoning, C 4 Sliced Night Mushroom, C 1 Pinch of Salt, C 1 Dash of Ground Corium Seed",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40912,7 +40913,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Kikiri Seasoning",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Mushroom Seasoning, C 1 Grilled Kikiri Meat Chunk, C 1 Dash of Saffron",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40922,7 +40923,7 @@
 		),
 		array (
 			"name"		=> "Simmering Gruel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Pile of Cubed Clacker Meat, C 4 Sliced Lake Mushroom, C 1 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40932,7 +40933,7 @@
 		),
 		array (
 			"name"		=> "Spreading Hearty Flat Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Scoop of Hearty Flat Pie Sauce, C 1 Rolled Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40942,7 +40943,7 @@
 		),
 		array (
 			"name"		=> "Kartoffel-Butter Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Scoop of Milk, C 4 Pat of Butter, C 2 Mashed Kartoffel",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40952,7 +40953,7 @@
 		),
 		array (
 			"name"		=> "Assorted Vegetable",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Sliced Carrot, C 3 Diced Pungent Tuber, C 2 Sliced Night Mushroom",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40962,7 +40963,7 @@
 		),
 		array (
 			"name"		=> "Cooking Bamboo Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Water Pouch, B 1 Bamboo Rice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40972,7 +40973,7 @@
 		),
 		array (
 			"name"		=> "Cooking Irifon Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Water Pouch, B 1 Irifon Rice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40982,7 +40983,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Pot Roast",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Pile of Meat Chunk, C 14 Water Pouch, C 2 Sliced Carrot, C 1 Cubed Kartoffel, C 1 Minced Pungent Tuber",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -40992,7 +40993,7 @@
 		),
 		array (
 			"name"		=> "Hearty Flat Pie Seasoning",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Sliced Bogo Pepper, C 3 Dash of Saffron, C 3 Pinch of Salt, C 3 Pinch of Orilliphia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41002,7 +41003,7 @@
 		),
 		array (
 			"name"		=> "Runny Trepor Omelette",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Cooked Diced Meat, L 1 Trepor Egg Sac",
 			"result"	=> "4",
 			"tool"		=> "Preparation Table (combine)",
@@ -41012,7 +41013,7 @@
 		),
 		array (
 			"name"		=> "Cheesy Stew Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Succulent Stew, C 1 Crumbled Cheese",
 			"result"	=> "4",
 			"tool"		=> "Preparation Table (combine)",
@@ -41022,7 +41023,7 @@
 		),
 		array (
 			"name"		=> "Hearty Flat Pie Sauce Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 6 Water Pouch, C 12 Dash of Hearty Flat Pie Seasoning, C 6 Mashed Fire Fruit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41032,7 +41033,7 @@
 		),
 		array (
 			"name"		=> "Seasoned Bamboo Rice Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Water Pouch, B 1 Bamboo Rice, C 2 Pinch of Orilliphia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41042,7 +41043,7 @@
 		),
 		array (
 			"name"		=> "Seasoned Irifon Rice Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Water Pouch, B 1 Irifon Rice, C 2 Pinch of Orilliphia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41052,7 +41053,7 @@
 		),
 		array (
 			"name"		=> "Baked Kikiri with Gravy mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Baked kikiri, C 1 Simmering vegetable gravy",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41062,7 +41063,7 @@
 		),
 		array (
 			"name"		=> "Separated Clacker Gruel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Gruel, C 10 Crunchy Bread Piece, C 1 Crumbled Cheese",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41072,7 +41073,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Kikiri Soup",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Salt Water, C 2 Sliced Carrot, C 2 Sliced Pungent Tuber, C 2 Dash of Ground Wyn Reed, C 1 Pile of Kikiri Meat Chunk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41082,7 +41083,7 @@
 		),
 		array (
 			"name"		=> "Steamy Clacker Leg",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Salt Water, L 3 Clacker Leg",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41092,7 +41093,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Hearty Flat Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hearty Flat Pie With Sauce, C 1 Vegetable Mix, C 2 Crumbled Cheese, C 1 Pile of Grilled Meat Cube",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41102,7 +41103,7 @@
 		),
 		array (
 			"name"		=> "Baking kikiri",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Kikiri Meat, C 1 Dash of Jomed's Seasoning, C 1 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41112,7 +41113,7 @@
 		),
 		array (
 			"name"		=> "Wrapping Wiggly Roll",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pile of Bread Crumb, C 1 Ball of Dough, C 2 Boiled Wiggly Feeler",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41122,7 +41123,7 @@
 		),
 		array (
 			"name"		=> "Simmering Clacker Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pile of Cubed Clacker Meat, C 1 Pile of Grilled Meat Cube, C 1 Boiling Salt Water, C 2 Dash of Ground Jarana Root, C 2 Sliced Carrot, C 2 Sliced Lake Mushroom",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41132,7 +41133,7 @@
 		),
 		array (
 			"name"		=> "Meat Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pile of Meat Chunk, C 2 Pinch of Salt, C 3 Dash of Jomed's Seasoning",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41142,7 +41143,7 @@
 		),
 		array (
 			"name"		=> "Cooking Noodle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pot of Boiling Water, C 1 Uncooked Noodle",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41152,7 +41153,7 @@
 		),
 		array (
 			"name"		=> "Gravy Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Scoop of Lard, C 1 Scoop of Flour, C 2 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41162,7 +41163,7 @@
 		),
 		array (
 			"name"		=> "Simmering Stew",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Seasoned Stew Meat, C 1 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41172,7 +41173,7 @@
 		),
 		array (
 			"name"		=> "Vegetable Gravy Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sliced Lake Mushroom, C 1 Thick Gravy, C 1 Sliced Carrot",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41182,7 +41183,7 @@
 		),
 		array (
 			"name"		=> "Savory Stew Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Stew Base, C 2 Cubed Kartoffel, C 2 Sliced Carrot, C 2 Diced Pungent Tuber, C 1 Sliced Bogo Pepper",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41192,7 +41193,7 @@
 		),
 		array (
 			"name"		=> "Salt Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Water Filled Bucket, C 4 Pinch of Salt",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -41202,7 +41203,7 @@
 		),
 		array (
 			"name"		=> "Crumbled Cheese",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Cheese",
 			"result"	=> "5",
 			"tool"		=> "Preparation Table",
@@ -41212,7 +41213,7 @@
 		),
 		array (
 			"name"		=> "Pile of Bread Crumb",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Crunchy Bread Piece",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table",
@@ -41225,7 +41226,7 @@
 		//
 		array (
 			"name"		=> "Slice of Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bread",
 			"result"	=> "5",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41238,7 +41239,7 @@
 		//
 		array (
 			"name"		=> "Pile of Cubed Clacker Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Clacker Meat",
 			"result"	=> "2",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41248,7 +41249,7 @@
 		),
 		array (
 			"name"		=> "Pile of Grilled Meat Chunk",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Grilled Meat",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41258,7 +41259,7 @@
 		),
 		array (
 			"name"		=> "Slice of Hearty Flat Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hearty Flat Pie",
 			"result"	=> "8",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41268,7 +41269,7 @@
 		),
 		array (
 			"name"		=> "Pile of Kikiri Meat Chunk",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "L 1 Kikiri Meat",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41278,7 +41279,7 @@
 		),
 		array (
 			"name"		=> "Sliced Lake Mushroom",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Lake Mushroom",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41288,7 +41289,7 @@
 		),
 		array (
 			"name"		=> "Pile of Meat Chunk",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Meat",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41298,7 +41299,7 @@
 		),
 		array (
 			"name"		=> "Pile of Grilled Meat Cube",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pile of Grilled Meat Chunk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41308,7 +41309,7 @@
 		),
 		array (
 			"name"		=> "Pile of Diced Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pile of Meat Chunk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41318,7 +41319,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Noodle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Rolled Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41328,7 +41329,7 @@
 		),
 		array (
 			"name"		=> "Seasoned Stew Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Seasoned Meat",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41341,7 +41342,7 @@
 		//
 		array (
 			"name"		=> "Bread Piece",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Slice of Bread",
 			"result"	=> "5",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -41354,7 +41355,7 @@
 		//
 		array (
 			"name"		=> "Grilled Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Meat",
 			"result"	=> "1",
 			"tool"		=> "Grill",
@@ -41364,7 +41365,7 @@
 		),
 		array (
 			"name"		=> "Grilled Kikiri Meat Chunk",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pile of Kikiri Meat Chunk",
 			"result"	=> "1",
 			"tool"		=> "Grill",
@@ -41374,7 +41375,7 @@
 		),
 		array (
 			"name"		=> "Baked Kikiri with Gravy",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Baked Kikiri with Gravy mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41384,7 +41385,7 @@
 		),
 		array (
 			"name"		=> "Boiled Wiggly Feeler",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Wiggly Feeler",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41394,7 +41395,7 @@
 		),
 		array (
 			"name"		=> "Cooked Bamboo Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooking Bamboo Rice",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41404,7 +41405,7 @@
 		),
 		array (
 			"name"		=> "Cooked Irifon Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooking Irifon Rice",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41414,7 +41415,7 @@
 		),
 		array (
 			"name"		=> "Noodle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooking Noodle",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41424,7 +41425,7 @@
 		),
 		array (
 			"name"		=> "Cooked Seasoned Bamboo Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooking Seasoned Bamboo Rice",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41434,7 +41435,7 @@
 		),
 		array (
 			"name"		=> "Cooked Seasoned Irifon Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooking Seasoned Irifon Rice",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41444,7 +41445,7 @@
 		),
 		array (
 			"name"		=> "Thick Gravy",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Gravy Base",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41454,7 +41455,7 @@
 		),
 		array (
 			"name"		=> "Hearty Flat Pie Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hearty Flat Pie Sauce Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41464,7 +41465,7 @@
 		),
 		array (
 			"name"		=> "Boiling Salt Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hot Salt Water",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41484,7 +41485,7 @@
 		),
 		array (
 			"name"		=> "Cooked Diced Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pile of Diced Meat",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41494,7 +41495,7 @@
 		),
 		array (
 			"name"		=> "Hot Salt Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Salt Water",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41504,7 +41505,7 @@
 		),
 		array (
 			"name"		=> "Succulent Stew",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Savory Noodle Stew Mix",
 			"result"	=> "16",
 			"tool"		=> "Pot",
@@ -41514,7 +41515,7 @@
 		),
 		array (
 			"name"		=> "Vegetable Meat Stew",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Savory Stew Mix",
 			"result"	=> "16",
 			"tool"		=> "Pot",
@@ -41524,7 +41525,7 @@
 		),
 		array (
 			"name"		=> "Cooking Seasoned Bamboo Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Seasoned Bamboo Rice Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41534,7 +41535,7 @@
 		),
 		array (
 			"name"		=> "Cooking Seasoned Irifon Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Seasoned Irifon Rice Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41544,7 +41545,7 @@
 		),
 		array (
 			"name"		=> "Simmered Clacker Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Simmering Clacker Meat",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41554,7 +41555,7 @@
 		),
 		array (
 			"name"		=> "Boiling Gruel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Simmering Gruel",
 			"result"	=> "4",
 			"tool"		=> "Pot",
@@ -41564,7 +41565,7 @@
 		),
 		array (
 			"name"		=> "Stew Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Simmering Stew",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41574,7 +41575,7 @@
 		),
 		array (
 			"name"		=> "Boiling Wiggly Feeler",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Simmering Wiggly Feeler",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41584,7 +41585,7 @@
 		),
 		array (
 			"name"		=> "Steamed Clacker Leg",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steamy Clacker Leg",
 			"result"	=> "3",
 			"tool"		=> "Pot",
@@ -41594,7 +41595,7 @@
 		),
 		array (
 			"name"		=> "Kikiri Soup",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Uncooked Kikiri Soup",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41604,7 +41605,7 @@
 		),
 		array (
 			"name"		=> "Mushroom Seasoning",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Uncooked Mushroom Seasoning",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41614,7 +41615,7 @@
 		),
 		array (
 			"name"		=> "Simmering vegetable gravy",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Vegetable Gravy Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -41624,7 +41625,7 @@
 		),
 		array (
 			"name"		=> "Mashed Kartoffel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiled Kartoffel",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
@@ -41634,7 +41635,7 @@
 		),
 		array (
 			"name"		=> "Mashed Fire Fruit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Fire Fruit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
@@ -41644,7 +41645,7 @@
 		),
 		array (
 			"name"		=> "Seasoned Bamboo Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooked Seasoned Bamboo Rice",
 			"result"	=> "4",
 			"tool"		=> "Preparation Table + Scoop",
@@ -41654,7 +41655,7 @@
 		),
 		array (
 			"name"		=> "Seasoned Irifon Rice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooked Seasoned Irifon Rice",
 			"result"	=> "4",
 			"tool"		=> "Preparation Table + Scoop",
@@ -41664,7 +41665,7 @@
 		),
 		array (
 			"name"		=> "Dash of Ground Jarana Root",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Ground Jarana Root",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -41674,7 +41675,7 @@
 		),
 		array (
 			"name"		=> "Scoop of Hearty Flat Pie Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hearty Flat Pie Sauce",
 			"result"	=> "10",
 			"tool"		=> "Preparation Table + Scoop",
@@ -41684,7 +41685,7 @@
 		),
 		array (
 			"name"		=> "Dash of Hearty Flat Pie Seasoning",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Hearty Flat Pie Seasoning",
 			"result"	=> "30",
 			"tool"		=> "Preparation Table + Scoop",
@@ -41694,7 +41695,7 @@
 		),
 		array (
 			"name"		=> "Dash of Jomed's Seasoning",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Jomed's Seasoning",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -41704,7 +41705,7 @@
 		),
 		array (
 			"name"		=> "Pinch of Orilliphia",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Orilliphia",
 			"result"	=> "30",
 			"tool"		=> "Preparation Table + Scoop",
@@ -41714,7 +41715,7 @@
 		),
 		array (
 			"name"		=> "Vegetable Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Assorted Vegetable",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -41724,7 +41725,7 @@
 		),
 		array (
 			"name"		=> "Cheesy Succulent Stew",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cheesy Stew Mix",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -41734,7 +41735,7 @@
 		),
 		array (
 			"name"		=> "Seasoned Meat",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Meat Mix",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -41744,7 +41745,7 @@
 		),
 		array (
 			"name"		=> "Clacker Gruel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Separated Clacker Gruel",
 			"result"	=> "4",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -41754,7 +41755,7 @@
 		),
 		array (
 			"name"		=> "Mixed Kikiri Seasoning",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Kikiri Seasoning",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -41764,7 +41765,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Mushroom Seasoning",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Mushroom Seasoning",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -41774,7 +41775,7 @@
 		),
 		array (
 			"name"		=> "Scrambled Egg",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Egg Mixture",
 			"result"	=> "4",
 			"tool"		=> "Iron Skillet",
@@ -41784,7 +41785,7 @@
 		),
 		array (
 			"name"		=> "Meat And Egg Omelette",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Runny Trepor Omelette",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -41794,7 +41795,7 @@
 		),
 		array (
 			"name"		=> "Pot Roast",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Uncooked Pot Roast",
 			"result"	=> "10",
 			"tool"		=> "Oven",
@@ -41804,7 +41805,7 @@
 		),
 		array (
 			"name"		=> "Hearty Flat Pie With Sauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Spreading Hearty Flat Pie",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -41814,7 +41815,7 @@
 		),
 		array (
 			"name"		=> "Raw Wiggly Feeler Roll",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wrapping Wiggly Roll",
 			"result"	=> "10",
 			"tool"		=> "Preparation Table",
@@ -41873,7 +41874,7 @@
 			"book"		=> "Meat and Stew Recipes"
 		),
 		//
-		// Mystic’s Great Work
+		// Mystic's Great Work
 		//
 		array (
 			"name"		=> "Red Earth",
@@ -41882,128 +41883,128 @@
 			"result"	=> "1",
 			"tool"		=> "Melting Pot",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Mix of iron antimony and secret fire",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Alchemist secret fire, C 1 Powdered Iron, C 1 Powdered Antimony Sulphur",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Mix of Dissolving Mercury and Secret Fire",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dissolving Mercury, C 1 Alchemist secret fire, C 1 Red Earth",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Mixture of the second order",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 First Order Stone of the Sages, C 1 Red Sulphur, C 1 Dissolving Mercury",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "First Order Stone mixed with spirit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 First Order Stone of the Sages, B 1 Spirit",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Mix of tartar and niter",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Niter, B 7 Tartar",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Alchemical Egg",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Sulphur, C 1 White Sulphur, C 1 Dissolving Mercury",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Mixture of the third order",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Second Order Stone of the Sages, C 1 Red Sulphur, C 1 Dissolving Mercury",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Second Order Stone mixed with spirit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Second Order Stone of the Sages, B 1 Spirit",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Third Order Stone mixed with spirit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Third Order Stone of the Sages, B 1 Spirit",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Sages salt and sulphure mixture",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 True Salt of the Sages, C 1 White Sulphur, C 1 Dissolving Mercury",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Black residual powder",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Black and White Stone",
 			"result"	=> "2",
 			"tool"		=> "Alchemist Table + Wooden Mallet",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Blackness Stone",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Alchemical Egg",
 			"result"	=> "1",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Dissolving Mercury",
@@ -42012,18 +42013,18 @@
 			"result"	=> "1",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Whiteness Stone",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Blackness Stone",
 			"result"	=> "1",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "True Salt of the Sages",
@@ -42032,8 +42033,8 @@
 			"result"	=> "1",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Black and White Stone",
@@ -42042,38 +42043,38 @@
 			"result"	=> "2",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Second Order Stone of the Sages",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mixture of the second order",
 			"result"	=> "1",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Third Order Stone of the Sages",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mixture of the third order",
 			"result"	=> "1",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "First Order Stone of the Sages",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Redness Stone",
 			"result"	=> "1",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Red Sulphur",
@@ -42082,18 +42083,18 @@
 			"result"	=> "1",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Redness Stone",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Whiteness Stone",
 			"result"	=> "1",
 			"tool"		=> "Athanor",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Powdered Antimony Sulphur",
@@ -42102,8 +42103,8 @@
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Antimony powder",
@@ -42112,8 +42113,8 @@
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Alchemist secret fire",
@@ -42122,8 +42123,8 @@
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "White Sulphur",
@@ -42132,8 +42133,8 @@
 			"result"	=> "1",
 			"tool"		=> "Decanter",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Life Elixir",
@@ -42142,8 +42143,8 @@
 			"result"	=> "1",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Rejuvination Elixir",
@@ -42152,8 +42153,8 @@
 			"result"	=> "1",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		array (
 			"name"		=> "Universal Panacea",
@@ -42162,15 +42163,15 @@
 			"result"	=> "1",
 			"tool"		=> "Alchemist Stove + Iron Stirrer",
 			"skill"		=> "Alchemy",
-			"level"		=> "200",
-			"book"		=> "Mystic’s Great Work"
+			"level"		=> "<106",
+			"book"		=> "Mystic's Great Work"
 		),
 		//
 		// Nature's Secrets
 		//
 		array (
 			"name"		=> "Barberry Syrup Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Barberry Extract, B 1 Honey",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -42180,7 +42181,7 @@
 		),
 		array (
 			"name"		=> "Golden Syrup Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Ivy Extract, B 1 Honey",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -42190,7 +42191,7 @@
 		),
 		array (
 			"name"		=> "Kingsfoil Poultice Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Kingsfoil Paste, B 1 Cloth for Poultice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -42200,7 +42201,7 @@
 		),
 		array (
 			"name"		=> "Red Mangrove Poultice Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Mangrove Paste, B 1 Cloth for Poultice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -42210,7 +42211,7 @@
 		),
 		array (
 			"name"		=> "Sinaflar Poultice Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sinaflar Paste, B 1 Cloth for Poultice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -42220,7 +42221,7 @@
 		),
 		array (
 			"name"		=> "Wyn Poultice Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wyn Paste, B 1 Cloth for Poultice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -42230,7 +42231,7 @@
 		),
 		array (
 			"name"		=> "Unfinished Lavender Oil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Lavender Flower, C 1 Hot Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -42240,7 +42241,7 @@
 		),
 		array (
 			"name"		=> "Wragberry Oil",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "H 5 Wragberry",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
@@ -42250,7 +42251,7 @@
 		),
 		array (
 			"name"		=> "Kingsfoil Paste",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Kingsfoil Pulp",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
@@ -42260,7 +42261,7 @@
 		),
 		array (
 			"name"		=> "Wyn Paste",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wyn Pulp",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
@@ -42270,7 +42271,7 @@
 		),
 		array (
 			"name"		=> "Golden Ivy Extract",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Golden Ivy Tea",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -42280,7 +42281,7 @@
 		),
 		array (
 			"name"		=> "Lavender Oil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unfinished Lavender Oil",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -42290,7 +42291,7 @@
 		),
 		array (
 			"name"		=> "Hot Wragberry Oil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -42380,7 +42381,7 @@
 		),
 		array (
 			"name"		=> "Unfinished Gobo Oil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cut Gobo Root, C 1 Hot Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -42390,7 +42391,7 @@
 		),
 		array (
 			"name"		=> "Red Mangrove Paste",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Red Mangrove Pulp",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
@@ -42400,7 +42401,7 @@
 		),
 		array (
 			"name"		=> "Sinaflar Paste",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Sinaflar Pulp",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
@@ -42410,7 +42411,7 @@
 		),
 		array (
 			"name"		=> "Barberry Extract",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Barberry Tea",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -42420,7 +42421,7 @@
 		),
 		array (
 			"name"		=> "Gobo Oil",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unfinished Gobo Oil",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -42493,7 +42494,7 @@
 		//
 		array (
 			"name"		=> "Heated Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42503,7 +42504,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42513,7 +42514,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42523,7 +42524,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42533,7 +42534,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42543,7 +42544,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42553,7 +42554,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42563,7 +42564,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42573,7 +42574,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42583,7 +42584,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42593,7 +42594,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42603,7 +42604,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Reinforced Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42613,7 +42614,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Small Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42623,7 +42624,7 @@
 		),
 		array (
 			"name"		=> "Heated Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42633,7 +42634,7 @@
 		),
 		array (
 			"name"		=> "Heated Reinforced Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42643,7 +42644,7 @@
 		),
 		array (
 			"name"		=> "Heated Small Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42653,7 +42654,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42663,7 +42664,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42673,7 +42674,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Reinforced Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42683,7 +42684,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Small Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -42693,7 +42694,7 @@
 		),
 		array (
 			"name"		=> "Brittle Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -42703,7 +42704,7 @@
 		),
 		array (
 			"name"		=> "Brittle Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Reinforced Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -42713,7 +42714,7 @@
 		),
 		array (
 			"name"		=> "Brittle Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Reinforced Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -42723,7 +42724,7 @@
 		),
 		array (
 			"name"		=> "Brittle Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Small Battle Axe Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -42733,7 +42734,7 @@
 		),
 		array (
 			"name"		=> "Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -42743,7 +42744,7 @@
 		),
 		array (
 			"name"		=> "Reinforced Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -42753,7 +42754,7 @@
 		),
 		array (
 			"name"		=> "Reinforced Battle Axe Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -42763,7 +42764,7 @@
 		),
 		array (
 			"name"		=> "Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -42773,7 +42774,7 @@
 		),
 		array (
 			"name"		=> "Reinforced Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -42783,7 +42784,7 @@
 		),
 		array (
 			"name"		=> "Reinforced Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -42793,7 +42794,7 @@
 		),
 		array (
 			"name"		=> "Small Battle Axe Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -43183,7 +43184,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Dull Small Battle Axe Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -43843,7 +43844,7 @@
 		),
 		array (
 			"name"		=> "Dull Battle Axe Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -43853,7 +43854,7 @@
 		),
 		array (
 			"name"		=> "Dull Reinforced Axe Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Reinforced Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -43863,7 +43864,7 @@
 		),
 		array (
 			"name"		=> "Dull Reinforced Battle Axe Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Reinforced Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -43873,7 +43874,7 @@
 		),
 		array (
 			"name"		=> "Dull Small Battle Axe Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Small Battle Axe Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -44203,7 +44204,7 @@
 		),
 		array (
 			"name"		=> "Small Battle Axe Alpha Blade",
-			"type"		=> "O",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -44656,7 +44657,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Battle Hammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Battle Hammer Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -44666,7 +44667,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Battle Pick Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -44676,7 +44677,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Flanged Mace Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -44686,7 +44687,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Mace Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -44696,7 +44697,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Morning Star Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Morning Star Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -44706,7 +44707,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Spiked Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Spiked Warhammer Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -44716,7 +44717,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel War Flanged Mace Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel War Flanged Mace Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -44726,7 +44727,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Warhammer Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Warhammer Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -44736,7 +44737,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel War Pick Assembly",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel War Pick Kit",
 			"result"	=> "1",
 			"tool"		=> "Riveter",
@@ -44746,7 +44747,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Flanged Mace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Platinum Steel Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -44756,7 +44757,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Hammer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Platinum Steel Hammer Base, C 1 Platinum Steel Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -44766,7 +44767,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Battle Pick Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Platinum Steel Hammer Base, C 1 Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -44776,7 +44777,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Mace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace Battle Handle, C 1 Platinum Steel Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -44786,7 +44787,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel War Flanged Mace Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Platinum Steel Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -44796,7 +44797,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Warhammer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Platinum Steel Hammer Base, C 2 Platinum Steel Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -44806,7 +44807,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel War Pick Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Platinum Steel Hammer Base, C 2 Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -44816,7 +44817,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Spiked Warhammer Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Platinum Steel Hammer Base, C 1 Platinum Steel Hammer Head, C 1 Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -44826,7 +44827,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Morning Star Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mace War Handle, C 1 Platinum Steel Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Smith Table (combine)",
@@ -44836,7 +44837,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Flanged Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44846,7 +44847,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Hammer Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Hammer Base",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44856,7 +44857,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Hammer Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44866,7 +44867,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Hammer Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44876,7 +44877,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Spiked Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44886,7 +44887,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Flanged Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44896,7 +44897,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Hammer Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Hammer Base",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44906,7 +44907,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Hammer Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44916,7 +44917,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Hammer Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44926,7 +44927,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Spiked Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44936,7 +44937,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Flanged Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44946,7 +44947,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Hammer Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Hammer Base",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44956,7 +44957,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Hammer Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44966,7 +44967,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Hammer Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44976,7 +44977,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Spiked Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -44986,7 +44987,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Flanged Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -44996,7 +44997,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Hammer Base",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45006,7 +45007,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45016,7 +45017,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45026,7 +45027,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Spiked Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45036,7 +45037,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Flanged Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45046,7 +45047,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Hammer Base",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45056,7 +45057,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45066,7 +45067,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45076,7 +45077,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Spiked Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45086,7 +45087,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Flanged Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45096,7 +45097,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Hammer Base",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45106,7 +45107,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45116,7 +45117,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45126,7 +45127,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Spiked Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -45136,7 +45137,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 12 Heated Platinum Steel Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -45146,7 +45147,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -45156,7 +45157,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 7 Heated Platinum Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -45166,7 +45167,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Flanged Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Heated Platinum Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -45176,7 +45177,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Spiked Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 9 Heated Platinum Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -45186,7 +45187,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Flanged Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Flanged Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -45196,7 +45197,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Base",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Hammer Base",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -45206,7 +45207,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Hammer Head",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -45216,7 +45217,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Hammer Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Hammer Spike",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -45226,7 +45227,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Spiked Mace Head",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Spiked Mace Head",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -45429,7 +45430,7 @@
 		//
 		array (
 			"name"		=> "Brewed Dandelion Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dandelion Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -45439,7 +45440,7 @@
 		),
 		array (
 			"name"		=> "Dandelion Wine Barrel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Half Brewed Dandelion Wine",
 			"result"	=> "5",
 			"tool"		=> "Brewer's Vat",
@@ -45449,7 +45450,7 @@
 		),
 		array (
 			"name"		=> "Joopiner Wine Barrel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Half Brewed Joopiner Wine",
 			"result"	=> "5",
 			"tool"		=> "Brewer's Vat",
@@ -45459,7 +45460,7 @@
 		),
 		array (
 			"name"		=> "Juiceberry Wine Barrel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Half Brewed Juiceberry Wine",
 			"result"	=> "5",
 			"tool"		=> "Brewer's Vat",
@@ -45469,7 +45470,7 @@
 		),
 		array (
 			"name"		=> "Macca Wine Barrel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Half Brewed Macca Wine",
 			"result"	=> "5",
 			"tool"		=> "Brewer's Vat",
@@ -45479,7 +45480,7 @@
 		),
 		array (
 			"name"		=> "Terevan Wine Barrel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Half Brewed Terevan Wine",
 			"result"	=> "5",
 			"tool"		=> "Brewer's Vat",
@@ -45489,7 +45490,7 @@
 		),
 		array (
 			"name"		=> "Brewed Joopiner Berry Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Joopiner Berry Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -45499,7 +45500,7 @@
 		),
 		array (
 			"name"		=> "Brewed Juiceberry Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Juiceberry Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -45509,7 +45510,7 @@
 		),
 		array (
 			"name"		=> "Brewed Macca Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Macca Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -45519,7 +45520,7 @@
 		),
 		array (
 			"name"		=> "Brewed Terevan Berry Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Terevan Berry Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -45529,7 +45530,7 @@
 		),
 		array (
 			"name"		=> "Dandelion Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 15 Dandelion Pulp, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45539,7 +45540,7 @@
 		),
 		array (
 			"name"		=> "Joopiner Berry Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 15 Joopiner Berry Pulp, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45549,7 +45550,7 @@
 		),
 		array (
 			"name"		=> "Juiceberry Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 15 Juiceberry Pulp, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45559,7 +45560,7 @@
 		),
 		array (
 			"name"		=> "Macca Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 15 Macca Pulp, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45569,7 +45570,7 @@
 		),
 		array (
 			"name"		=> "Terevan Berry Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 15 Terevan Berry Pulp, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45579,7 +45580,7 @@
 		),
 		array (
 			"name"		=> "Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 30 Apple Pulp, C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45589,7 +45590,7 @@
 		),
 		array (
 			"name"		=> "Cider Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Cider Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45599,7 +45600,7 @@
 		),
 		array (
 			"name"		=> "Dandelion Cider Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Dandelion Cider Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45609,7 +45610,7 @@
 		),
 		array (
 			"name"		=> "Joopiner Cider Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Joopiner Berry Cider Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45619,7 +45620,7 @@
 		),
 		array (
 			"name"		=> "Juiceberry Cider Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Juiceberry Cider Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45629,7 +45630,7 @@
 		),
 		array (
 			"name"		=> "Macca Cider Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Macca Cider Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45639,7 +45640,7 @@
 		),
 		array (
 			"name"		=> "Terevan Cider Wort",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooled Terevan Berry Cider Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45649,7 +45650,7 @@
 		),
 		array (
 			"name"		=> "Boiling Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Cider Mash, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45659,7 +45660,7 @@
 		),
 		array (
 			"name"		=> "Boiling Dandelion Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Cider Mash, C 4 Dandelion Pulp, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45669,7 +45670,7 @@
 		),
 		array (
 			"name"		=> "Boiling Joopiner Berry Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Cider Mash, C 4 Joopiner Berry Pulp, C 2 Pot of Boiling water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45679,7 +45680,7 @@
 		),
 		array (
 			"name"		=> "Boiling Juiceberry Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Cider Mash, C 4 Juiceberry Pulp, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45689,7 +45690,7 @@
 		),
 		array (
 			"name"		=> "Boiling Macca Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Cider Mash, C 4 Macca Pulp, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45699,7 +45700,7 @@
 		),
 		array (
 			"name"		=> "Boiling Terevan Berry Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Cider Mash, C 4 Terevan Berry Pulp, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45709,7 +45710,7 @@
 		),
 		array (
 			"name"		=> "Liquid Bread Rise",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mug of Hot Water, C 1 Scoop of Strimptor, C 4 Dash of Powdered Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45719,7 +45720,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Dandelion Wine",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Dandelion Must, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45729,7 +45730,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Joopiner Wine",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Joopiner Must, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45739,7 +45740,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Juiceberry Wine",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Juiceberry Must, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45749,7 +45750,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Macca Wine",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Macca Must, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45759,7 +45760,7 @@
 		),
 		array (
 			"name"		=> "Half Brewed Terevan Wine",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Strained Terevan Must, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -45769,7 +45770,7 @@
 		),
 		array (
 			"name"		=> "Cooled Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Cider Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -45779,7 +45780,7 @@
 		),
 		array (
 			"name"		=> "Cooled Dandelion Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Dandelion Cider Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Wat",
@@ -45789,7 +45790,7 @@
 		),
 		array (
 			"name"		=> "Cooled Joopiner Berry Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Joopiner Berry Cider Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Wat",
@@ -45799,7 +45800,7 @@
 		),
 		array (
 			"name"		=> "Cooled Juiceberry Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Juiceberry Cider Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -45809,7 +45810,7 @@
 		),
 		array (
 			"name"		=> "Cooled Macca Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Macca Cider Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Wat",
@@ -45819,7 +45820,7 @@
 		),
 		array (
 			"name"		=> "Cooled Terevan Berry Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Boiling Terevan Berry Cider Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
@@ -45829,7 +45830,7 @@
 		),
 		array (
 			"name"		=> "Heated Cider Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cider Mash",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -45839,7 +45840,7 @@
 		),
 		array (
 			"name"		=> "Apple Pulp",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cored Apple",
 			"result"	=> "1",
 			"tool"		=> "Fruit Press",
@@ -45849,7 +45850,7 @@
 		),
 		array (
 			"name"		=> "Strained Dandelion Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Dandelion Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -45859,7 +45860,7 @@
 		),
 		array (
 			"name"		=> "Strained Joopiner Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Joopiner Berry Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -45869,7 +45870,7 @@
 		),
 		array (
 			"name"		=> "Strained Juiceberry Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Juiceberry Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -45879,7 +45880,7 @@
 		),
 		array (
 			"name"		=> "Strained Macca Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Macca Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -45889,7 +45890,7 @@
 		),
 		array (
 			"name"		=> "Strained Terevan Must",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brewed Terevan Berry Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
@@ -45962,7 +45963,7 @@
 		//
 		array (
 			"name"		=> "Gold Shield Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 12 Heated Gold Ingot",
 			"result"	=> "6",
 			"tool"		=> "Anvil + Hammer",
@@ -45972,7 +45973,7 @@
 		),
 		array (
 			"name"		=> "Bronze Edgings",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 14 Heated Bronze Ingot",
 			"result"	=> "7",
 			"tool"		=> "Anvil + Hammer",
@@ -45982,7 +45983,7 @@
 		),
 		array (
 			"name"		=> "Gold Edgings",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 14 Heated Gold Ingot",
 			"result"	=> "7",
 			"tool"		=> "Anvil + Hammer",
@@ -45992,7 +45993,7 @@
 		),
 		array (
 			"name"		=> "Gold Half Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Gold Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -46002,7 +46003,7 @@
 		),
 		array (
 			"name"		=> "Iron Half Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Iron Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -46012,7 +46013,7 @@
 		),
 		array (
 			"name"		=> "Shield Half Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Steel Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -46022,7 +46023,7 @@
 		),
 		array (
 			"name"		=> "Gold Band",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 7 Heated Gold Ingot",
 			"result"	=> "3",
 			"tool"		=> "Anvil + Hammer",
@@ -46032,7 +46033,7 @@
 		),
 		array (
 			"name"		=> "Gold Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Heated Gold Ingot",
 			"result"	=> "4",
 			"tool"		=> "Anvil + Hammer",
@@ -46042,7 +46043,7 @@
 		),
 		array (
 			"name"		=> "Round Blue Steel Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 9 Heated Blue Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46052,7 +46053,7 @@
 		),
 		array (
 			"name"		=> "Bronze Edgings",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Bronze Edgings",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46062,7 +46063,7 @@
 		),
 		array (
 			"name"		=> "Gold Band",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Gold Band",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46072,7 +46073,7 @@
 		),
 		array (
 			"name"		=> "Gold Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Gold Circle",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46082,7 +46083,7 @@
 		),
 		array (
 			"name"		=> "Gold Edgings",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Gold Edgings",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46092,7 +46093,7 @@
 		),
 		array (
 			"name"		=> "Gold Half Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Gold Half Circle",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46102,7 +46103,7 @@
 		),
 		array (
 			"name"		=> "Gold Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Gold Ingot",
 			"result"	=> "2",
 			"tool"		=> "Anvil + Hammer",
@@ -46112,7 +46113,7 @@
 		),
 		array (
 			"name"		=> "Gold Shield Handle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Gold Shield Handle",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46122,7 +46123,7 @@
 		),
 		array (
 			"name"		=> "Gold Spike",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Gold Spike",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46132,7 +46133,7 @@
 		),
 		array (
 			"name"		=> "Iron Half Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Iron Half Circle",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46142,7 +46143,7 @@
 		),
 		array (
 			"name"		=> "Round Blue Steel Shield Shape",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Round Blue Steel Shield Shape",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46152,7 +46153,7 @@
 		),
 		array (
 			"name"		=> "Shield Half Circle",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Shield Half Circle",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -46162,7 +46163,7 @@
 		),
 		array (
 			"name"		=> "Sunshine Shield Wicker Kit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Small Spiked Bronze Shield Shape",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -47155,7 +47156,7 @@
 		//
 		array (
 			"name"		=> "Super Heated Platinum Steel Broadsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47165,7 +47166,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Broadsword Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Broadsword Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47175,7 +47176,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Falchion Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47185,7 +47186,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Platinum Steel Falchion Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Platinum Steel Falchion Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47195,7 +47196,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Broadsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47205,7 +47206,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Broadsword Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Broadsword Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47215,7 +47216,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Falchion Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47225,7 +47226,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Falchion Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Falchion Brittle Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47235,7 +47236,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Broadsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47245,7 +47246,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Platinum Steel Falchion Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -47255,7 +47256,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Broadsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Broadsword Rough Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Furrower",
@@ -47265,7 +47266,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Broadsword Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -47275,7 +47276,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Falchion Brittle Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Platinum Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -47285,7 +47286,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Broadsword Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Broadsword Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -47295,7 +47296,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Falchion Dull Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Platinum Steel Falchion Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -47305,7 +47306,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Falchion Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -47315,7 +47316,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Broadsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -47325,7 +47326,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Broadsword Rough Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Broadsword Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -47335,7 +47336,7 @@
 		),
 		array (
 			"name"		=> "Platinum Steel Falchion Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Falchion Dull Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -48198,7 +48199,7 @@
 		//
 		array (
 			"name"		=> "Heated Brittle Broadsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48208,7 +48209,7 @@
 		),
 		array (
 			"name"		=> "Heated Brittle Steel Falchion Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Brittle Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48218,7 +48219,7 @@
 		),
 		array (
 			"name"		=> "Heated Broadsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48228,7 +48229,7 @@
 		),
 		array (
 			"name"		=> "Heated Broadsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48238,7 +48239,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Broadsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48248,7 +48249,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Dull Steel Falchion Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Brittle Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48258,7 +48259,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Broadsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48268,7 +48269,7 @@
 		),
 		array (
 			"name"		=> "Super Heated Steel Falchion Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Heated Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48278,7 +48279,7 @@
 		),
 		array (
 			"name"		=> "Heated Steel Falchion Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48288,7 +48289,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Broadsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48298,7 +48299,7 @@
 		),
 		array (
 			"name"		=> "Red Hot Steel Falchion Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -48308,7 +48309,7 @@
 		),
 		array (
 			"name"		=> "Broadsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Rough Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Smith Table + Furrower",
@@ -48318,7 +48319,7 @@
 		),
 		array (
 			"name"		=> "Brittle Broadsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Broadsword Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -48328,7 +48329,7 @@
 		),
 		array (
 			"name"		=> "Brittle Steel Falchion Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Red Hot Steel Falchion Alpha Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -48338,7 +48339,7 @@
 		),
 		array (
 			"name"		=> "Dull Broadsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -48348,7 +48349,7 @@
 		),
 		array (
 			"name"		=> "Dull Steel Falchion Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Super Heated Dull Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Quench Tank",
@@ -48358,7 +48359,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -48368,7 +48369,7 @@
 		),
 		array (
 			"name"		=> "Broadsword Alpha Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Heated Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Anvil + Hammer",
@@ -48378,7 +48379,7 @@
 		),
 		array (
 			"name"		=> "Rough Broadsword Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Broadsword Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -48388,7 +48389,7 @@
 		),
 		array (
 			"name"		=> "Steel Falchion Blade",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dull Steel Falchion Blade",
 			"result"	=> "1",
 			"tool"		=> "Sharpening Stone",
@@ -49241,7 +49242,7 @@
 		//
 		array (
 			"name"		=> "Frying Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Hot Cooking Oil, C 1 Ball of Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49251,7 +49252,7 @@
 		),
 		array (
 			"name"		=> "Frying Honey Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Hot Cooking Oil, C 1 Ball of Honey Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49261,7 +49262,7 @@
 		),
 		array (
 			"name"		=> "Frying Honey Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Hot Cooking Oil, C 1 Ball of Honey Nut Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49271,7 +49272,7 @@
 		),
 		array (
 			"name"		=> "Frying Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Hot Cooking Oil, C 1 Ball of Nut Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49281,7 +49282,7 @@
 		),
 		array (
 			"name"		=> "Honey Glazed Apple",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Cored Apple, C 1 Scoop of Honey",
 			"result"	=> "5",
 			"tool"		=> "Preparation Table (combine)",
@@ -49291,7 +49292,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Honey Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Chopped Nut, C 1 Honey Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49301,7 +49302,7 @@
 		),
 		array (
 			"name"		=> "Cinnamon Egg Soaked Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cinnamon Egg Mixture, C 10 Slice of Bread",
 			"result"	=> "10",
 			"tool"		=> "Preparation Table (combine)",
@@ -49311,7 +49312,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dough, C 1 Chopped Nut",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49321,7 +49322,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Honey Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dough, C 1 Scoop of Honey",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49331,7 +49332,7 @@
 		),
 		array (
 			"name"		=> "Egg Soaked Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Egg Mixture, C 10 Slice of Bread",
 			"result"	=> "10",
 			"tool"		=> "Preparation Table (combine)",
@@ -49341,7 +49342,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Cinnamon Egg",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Egg Mixture, C 1 Dash of Cinnamon",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49351,7 +49352,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Liquid Bread Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Foaming Water, C 14 Scoop of Lard, C 2 Pinch of Salt",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49361,7 +49362,7 @@
 		),
 		array (
 			"name"		=> "Unmixed Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Liquid Bread Mix, C 2 Scoop of Flour",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49371,7 +49372,7 @@
 		),
 		array (
 			"name"		=> "Sand Cookie Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pinch of Salt, C 3 Scoop of Strimptor, C 3 Pat of Butter, C 1 Scoop of Flour",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49381,7 +49382,7 @@
 		),
 		array (
 			"name"		=> "Buttering Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Slice of Bread, C 1 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49391,7 +49392,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Sand Cookie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Rolled Sand Dough",
 			"result"	=> "10",
 			"tool"		=> "Preparation Table + Circle Cutter",
@@ -49401,7 +49402,7 @@
 		),
 		array (
 			"name"		=> "Sand Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sand Cookie Mix",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -49411,7 +49412,7 @@
 		),
 		array (
 			"name"		=> "Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ball of Dough",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49421,7 +49422,7 @@
 		),
 		array (
 			"name"		=> "Honey Sweet Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ball of Honey Dough",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49431,7 +49432,7 @@
 		),
 		array (
 			"name"		=> "Honey Nut Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ball of Honey Nut Dough",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49441,7 +49442,7 @@
 		),
 		array (
 			"name"		=> "Nut Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ball of Nut Dough",
 			"result"	=> "1",
 			"tool"		=> "Oven",
@@ -49451,7 +49452,7 @@
 		),
 		array (
 			"name"		=> "Biscuit Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Rolled Dough",
 			"result"	=> "8",
 			"tool"		=> "Preparation Table + Circle Cutter",
@@ -49461,7 +49462,7 @@
 		),
 		array (
 			"name"		=> "Ball of Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table",
@@ -49471,7 +49472,7 @@
 		),
 		array (
 			"name"		=> "Ball of Honey Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Honey Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table",
@@ -49481,7 +49482,7 @@
 		),
 		array (
 			"name"		=> "Ball of Honey Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Honey Nut Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table",
@@ -49491,7 +49492,7 @@
 		),
 		array (
 			"name"		=> "Ball of Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Nut Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table",
@@ -49504,7 +49505,7 @@
 		//
 		array (
 			"name"		=> "Dash of Cinnamon",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Ground Cinnamon",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Scoop",
@@ -49514,7 +49515,7 @@
 		),
 		array (
 			"name"		=> "Scoop of Honey",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Honey",
 			"result"	=> "5",
 			"tool"		=> "Preparation Table + Scoop",
@@ -49527,7 +49528,7 @@
 		//
 		array (
 			"name"		=> "Foaming Water",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -49537,7 +49538,7 @@
 		),
 		array (
 			"name"		=> "Cinnamon Egg Mixture",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Cinnamon Egg",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -49547,7 +49548,7 @@
 		),
 		array (
 			"name"		=> "Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Dough",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -49557,7 +49558,7 @@
 		),
 		array (
 			"name"		=> "Honey Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Honey Dough",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -49567,7 +49568,7 @@
 		),
 		array (
 			"name"		=> "Honey Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Honey Nut Dough",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -49577,7 +49578,7 @@
 		),
 		array (
 			"name"		=> "Liquid Bread Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Liquid Bread Dough",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -49587,7 +49588,7 @@
 		),
 		array (
 			"name"		=> "Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Unmixed Nut Dough",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -49597,7 +49598,7 @@
 		),
 		array (
 			"name"		=> "Cinnamon Morning Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cinnamon Egg Soaked Bread",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -49607,7 +49608,7 @@
 		),
 		array (
 			"name"		=> "Morning Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Egg Soaked Bread",
 			"result"	=> "1",
 			"tool"		=> "Iron Skillet",
@@ -49617,7 +49618,7 @@
 		),
 		array (
 			"name"		=> "Fried Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Frying Dough",
 			"result"	=> "5",
 			"tool"		=> "Iron Skillet",
@@ -49627,7 +49628,7 @@
 		),
 		array (
 			"name"		=> "Fried Honey Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Frying Honey Dough",
 			"result"	=> "5",
 			"tool"		=> "Iron Skillet",
@@ -49637,7 +49638,7 @@
 		),
 		array (
 			"name"		=> "Fried Honey Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Frying Honey Nut Dough",
 			"result"	=> "5",
 			"tool"		=> "Iron Skillet",
@@ -49647,7 +49648,7 @@
 		),
 		array (
 			"name"		=> "Fried Nut Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Frying Nut Dough",
 			"result"	=> "5",
 			"tool"		=> "Iron Skillet",
@@ -49657,7 +49658,7 @@
 		),
 		array (
 			"name"		=> "Rolled Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Ball of Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Rolling Pin",
@@ -49667,7 +49668,7 @@
 		),
 		array (
 			"name"		=> "Rolled Sand Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sand Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Rolling Pin",
@@ -49677,7 +49678,7 @@
 		),
 		array (
 			"name"		=> "Buttered Bread",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Buttering Bread",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Spreader",
@@ -49730,7 +49731,7 @@
 		//
 		array (
 			"name"		=> "Pastry Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Flour-Lard Mixture",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Mixer",
@@ -49740,7 +49741,7 @@
 		),
 		array (
 			"name"		=> "Cooking Carrot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Sliced Carrot, C 1 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49750,7 +49751,7 @@
 		),
 		array (
 			"name"		=> "Carrot-Honey Mixture",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 3 Cooked Carrot, C 4 Pat of Butter, C 2 Scoop of Honey",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49760,7 +49761,7 @@
 		),
 		array (
 			"name"		=> "Cram Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Scoop of Milk, C 8 Scoop of Flour, L 1 Lump of Lard, C 2 Pinch of Salt, C 3 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49770,7 +49771,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Duppong Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Sliced and Seeded Duppong, C 2 Rolled Pastry Dough, C 3 Pat of Butter, C 1 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49780,7 +49781,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Macca Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Sliced and Seeded Macca, C 2 Rolled Pastry Dough, C 1 Scoop of Strimptor, C 3 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49790,7 +49791,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Apple Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Sliced Apple, C 1 Scoop of Strimptor, C 2 Rolled Pastry Dough, C 3 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49800,7 +49801,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Cinnamon Apple Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 3 Sliced Apple, C 1 Scoop of Strimptor, C 2 Rolled Pastry Dough, C 1 Dash of Cinnamon, C 3 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49810,7 +49811,7 @@
 		),
 		array (
 			"name"		=> "Cooking Apple",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 4 Sliced Apple, C 1 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49820,7 +49821,7 @@
 		),
 		array (
 			"name"		=> "Sweet Duppong Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Sliced and Seeded Duppong, C 1 Water Pouch, C 3 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49830,7 +49831,7 @@
 		),
 		array (
 			"name"		=> "Sweet Macca Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Sliced and Seeded Macca, C 1 Water Pouch, C 3 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49840,7 +49841,7 @@
 		),
 		array (
 			"name"		=> "Sweet Apple Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Sliced Apple, C 1 Water Pouch, C 3 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49850,7 +49851,7 @@
 		),
 		array (
 			"name"		=> "Apple Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 8 Sliced Apple, C 2 Scoop of Strimptor, C 4 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49860,7 +49861,7 @@
 		),
 		array (
 			"name"		=> "Frying Apple",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cored Apple, C 1 Hot Cooking Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49870,7 +49871,7 @@
 		),
 		array (
 			"name"		=> "Uncooked Apple Hand Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Dough-Wrapped Apple Slice, C 1 Hot Cooking Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49880,7 +49881,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Joopiner Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mashed Joopiner Berries, C 1 Rolled Pastry Dough, C 3 Pat of Butter, C 1 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49890,7 +49891,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Terevan Berry Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mashed Terevan Berries, C 1 Rolled Pastry Dough, C 3 Pat of Butter, C 1 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49900,7 +49901,7 @@
 		),
 		array (
 			"name"		=> "Sweet Terevan Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Mashed Terevan Berries, C 1 Water Pouch, C 2 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49910,7 +49911,7 @@
 		),
 		array (
 			"name"		=> "Biscuit Duppong Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Open Biscuit, C 1 Scoop of Duppong Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49920,7 +49921,7 @@
 		),
 		array (
 			"name"		=> "Biscuit Joopiner Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Open Biscuit, C 1 Scoop of Joopiner Berry Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49930,7 +49931,7 @@
 		),
 		array (
 			"name"		=> "Biscuit Macca Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Open Biscuit, C 1 Scoop of Macca Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49940,7 +49941,7 @@
 		),
 		array (
 			"name"		=> "Biscuit Terevan Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Open Biscuit, C 1 Scoop of Terevan Berry Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49950,7 +49951,7 @@
 		),
 		array (
 			"name"		=> "Buttering Biscuit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pat of Butter, C 1 Open Biscuit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49960,7 +49961,7 @@
 		),
 		array (
 			"name"		=> "Apple in Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Rolled Pastry Dough, C 5 Sliced Apple",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49970,7 +49971,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Filling Apple Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Rolled Pastry Dough, C 1 Apple Filling",
 			"result"	=> "5",
 			"tool"		=> "Preparation Table (combine)",
@@ -49980,7 +49981,7 @@
 		),
 		array (
 			"name"		=> "Biscuit Apple Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Scoop of Apple Jam, C 1 Open Biscuit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -49990,7 +49991,7 @@
 		),
 		array (
 			"name"		=> "Flour-Lard Mixture",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Scoop of Flour, C 1 Pinch of Salt, C 15 Scoop of Lard, C 1 Water Pouch",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -50000,7 +50001,7 @@
 		),
 		array (
 			"name"		=> "Unbaked Pie",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Scoop of Strimptor, C 2 Rolled Pastry Dough, C 3 Pat of Butter",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -50010,7 +50011,7 @@
 		),
 		array (
 			"name"		=> "Cinnamon Apple Mix",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Sliced Apple, C 3 Dash of Cinnamon, C 1 Scoop of Strimptor",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -50020,7 +50021,7 @@
 		),
 		array (
 			"name"		=> "Spreading Apple Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Slice of Bread, C 1 Scoop of Apple Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -50030,7 +50031,7 @@
 		),
 		array (
 			"name"		=> "Spreading Duppong Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Slice of Bread, C 1 Scoop of Duppong Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -50040,7 +50041,7 @@
 		),
 		array (
 			"name"		=> "Spreading Joopiner Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Slice of Bread, C 1 Scoop of Joopiner Berry Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -50050,7 +50051,7 @@
 		),
 		array (
 			"name"		=> "Spreading Macca Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Slice of Bread, C 1 Scoop of Macca Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -50060,7 +50061,7 @@
 		),
 		array (
 			"name"		=> "Spreading Terevan Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Slice of Bread, C 1 Scoop of Terevan Berry Jam",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -50070,7 +50071,7 @@
 		),
 		array (
 			"name"		=> "Sweet Joopiner Mash",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Water Pouch, C 2 Scoop of Strimptor, C 1 Mashed Joopiner Berries",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
@@ -50080,7 +50081,7 @@
 		),
 		array (
 			"name"		=> "Open Biscuit",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Biscuit",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50090,7 +50091,7 @@
 		),
 		array (
 			"name"		=> "Sliced and Seeded Duppong",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "H 1 Duppong",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50100,7 +50101,7 @@
 		),
 		array (
 			"name"		=> "Sliced and Seeded Macca",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Macca",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50110,7 +50111,7 @@
 		),
 		array (
 			"name"		=> "Raw Cram",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Rolled Cram Dough",
 			"result"	=> "25",
 			"tool"		=> "Preparation Table + Kitchen Knife",
@@ -50120,7 +50121,7 @@
 		),
 		array (
 			"name"		=> "Cooked Apple",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooking Apple",
 			"result"	=> "1",
 			"tool"		=> "Pot",
@@ -50130,7 +50131,7 @@
 		),
 		array (
 			"name"		=> "Cooked Carrot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooking Carrot",
 			"result"	=> "2",
 			"tool"		=> "Pot",
@@ -50140,7 +50141,7 @@
 		),
 		array (
 			"name"		=> "Mashed Joopiner Berries",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Joopiner Berries",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
@@ -50150,7 +50151,7 @@
 		),
 		array (
 			"name"		=> "Mashed Terevan Berries",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Whole Terevan Berries",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
@@ -50160,7 +50161,7 @@
 		),
 		array (
 			"name"		=> "Apple Filling",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Apple Mash",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
@@ -50170,7 +50171,7 @@
 		),
 		array (
 			"name"		=> "Scoop of Apple Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Apple Jam",
 			"result"	=> "50",
 			"tool"		=> "Preparation Table + Scoop",
@@ -50180,7 +50181,7 @@
 		),
 		array (
 			"name"		=> "Joopiner Berries",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Bunch of Joopiner Berries",
 			"result"	=> "12",
 			"tool"		=> "Preparation Table + Scoo",
@@ -50190,7 +50191,7 @@
 		),
 		array (
 			"name"		=> "Whole Terevan Berries",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "B 1 Bunch of Terevan Berries",
 			"result"	=> "12",
 			"tool"		=> "Preparation Table + Scoop",
@@ -50200,7 +50201,7 @@
 		),
 		array (
 			"name"		=> "Appleauce",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cooked Apple",
 			"result"	=> "4",
 			"tool"		=> "Preparation Table + Scoop",
@@ -50210,7 +50211,7 @@
 		),
 		array (
 			"name"		=> "Scoop of Duppong Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Duppong Jam",
 			"result"	=> "50",
 			"tool"		=> "Preparation Table + Scoop",
@@ -50220,7 +50221,7 @@
 		),
 		array (
 			"name"		=> "Scoop of Joopiner Berry Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Joopiner Berry Jam",
 			"result"	=> "50",
 			"tool"		=> "Preparation Table + Scoop",
@@ -50230,7 +50231,7 @@
 		),
 		array (
 			"name"		=> "Scoop of Macca Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Macca Jam",
 			"result"	=> "50",
 			"tool"		=> "Preparation Table + Scoo",
@@ -50240,7 +50241,7 @@
 		),
 		array (
 			"name"		=> "Scoop of Terevan Berry Jam",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Terevan Berry Jam",
 			"result"	=> "50",
 			"tool"		=> "Preparation Table + Scoop",
@@ -50250,7 +50251,7 @@
 		),
 		array (
 			"name"		=> "Cram Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cram Mix",
 			"result"	=> "1",
 			"tool"		=> "Wooden Bowl + Wooden Spoon",
@@ -50260,7 +50261,7 @@
 		),
 		array (
 			"name"		=> "Rolled Cram Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Cram Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Rolling Pin",
@@ -50270,7 +50271,7 @@
 		),
 		array (
 			"name"		=> "Rolled Pastry Dough",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Pastry Dough",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Rolling Pin",
@@ -50280,7 +50281,7 @@
 		),
 		array (
 			"name"		=> "Dough-Wrapped Apple Slice",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Apple in Dough",
 			"result"	=> "5",
 			"tool"		=> "Preparation Table",
@@ -50906,7 +50907,7 @@
 		//
 		array (
 			"name"		=> "Heated Bronze Ingot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Ingot",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -50919,7 +50920,7 @@
 		//
 		array (
 			"name"		=> "Molten Lumium",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 1 Lumium Ore",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -50929,7 +50930,7 @@
 		),
 		array (
 			"name"		=> "Blue Steel Sludge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 5 Steel Ingot, C 3 Lumium Ingot, C 1 Bronze Ingot",
 			"result"	=> "5",
 			"tool"		=> "Stock Casting (combine)",
@@ -50939,7 +50940,7 @@
 		),
 		array (
 			"name"		=> "Molten Blue Steel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Blue Steel Sludge",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -50949,7 +50950,7 @@
 		),
 		array (
 			"name"		=> "Tigrain Steel Sludge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 2 Lumium Ingot, C 4 Gold Ingot, C 2 Silver Ingot, L 3 Ulbernaut Heart",
 			"result"	=> "5",
 			"tool"		=> "Stock Casting (combine)",
@@ -50959,7 +50960,7 @@
 		),
 		array (
 			"name"		=> "Molten Tigrain Steel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Tigrain Steel Sludge",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -50972,7 +50973,7 @@
 		//
 		array (
 			"name"		=> "Heated Steel Ingot",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steel Ingot",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -50985,7 +50986,7 @@
 		//
 		array (
 			"name"		=> "Platinum Steel Sludge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Ingot, C 4 Steel Ingot, C 1 Silver Ingot",
 			"result"	=> "5",
 			"tool"		=> "Stock Casting (combine)",
@@ -50995,7 +50996,7 @@
 		),
 		array (
 			"name"		=> "Molten Platinum Steel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Sludge",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -51005,7 +51006,7 @@
 		),
 		array (
 			"name"		=> "Heated Platinum Steel Stock",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Platinum Steel Stock",
 			"result"	=> "1",
 			"tool"		=> "Forge",
@@ -52160,7 +52161,7 @@
 		),
 		array (
 			"name"		=> "Iron Ingot",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Molten Iron",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
@@ -52180,7 +52181,7 @@
 		),
 		array (
 			"name"		=> "Molten Iron",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 1 Iron Ore",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52200,7 +52201,7 @@
 		),
 		array (
 			"name"		=> "Molten Zinc",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 1 Zinc Ore",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52220,7 +52221,7 @@
 		),
 		array (
 			"name"		=> "Bronze Ingot",
-			"type"		=> "I",
+			"type"		=> "P",
 			"ingredient"	=> "C 1 Molten Bronze",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",
@@ -52230,7 +52231,7 @@
 		),
 		array (
 			"name"		=> "Bronze Sludge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 4 Tin Ore, M 6 Copper Ore",
 			"result"	=> "10",
 			"tool"		=> "Stock Casting (combine)",
@@ -52240,7 +52241,7 @@
 		),
 		array (
 			"name"		=> "Tin Sludge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 5 Tin Ore, M 5 Copper Ore",
 			"result"	=> "10",
 			"tool"		=> "Stock Casting (combine)",
@@ -52250,7 +52251,7 @@
 		),
 		array (
 			"name"		=> "Copper Sludge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 7 Copper Ore, M 3 Tin Ore",
 			"result"	=> "10",
 			"tool"		=> "Stock Casting (combine)",
@@ -52270,7 +52271,7 @@
 		),
 		array (
 			"name"		=> "Molten Bronze",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Bronze Sludge",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52280,7 +52281,7 @@
 		),
 		array (
 			"name"		=> "Molten Copper",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 1 Copper Ore",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52290,7 +52291,7 @@
 		),
 		array (
 			"name"		=> "Molten Bronze",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Copper Sludge",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52310,7 +52311,7 @@
 		),
 		array (
 			"name"		=> "Molten Tin",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 1 Tin Ore",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52320,7 +52321,7 @@
 		),
 		array (
 			"name"		=> "Molten Bronze",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Tin Sludge",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52340,7 +52341,7 @@
 		),
 		array (
 			"name"		=> "Molten Silver",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 1 Silver Ore",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52360,7 +52361,7 @@
 		),
 		array (
 			"name"		=> "Molten Gold",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 1 Gold Ore",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52370,7 +52371,7 @@
 		),
 		array (
 			"name"		=> "Coal Sludge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 8 Iron Ore, M 2 Coal Lump",
 			"result"	=> "10",
 			"tool"		=> "Stock Casting (combine)",
@@ -52380,7 +52381,7 @@
 		),
 		array (
 			"name"		=> "Steel Sludge",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 9 Iron Ore, M 1 Coal Lump",
 			"result"	=> "10",
 			"tool"		=> "Stock Casting (combine)",
@@ -52400,7 +52401,7 @@
 		),
 		array (
 			"name"		=> "Molten Steel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Coal Sludge",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52410,7 +52411,7 @@
 		),
 		array (
 			"name"		=> "Molten Steel",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "C 1 Steel Sludge",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52420,7 +52421,7 @@
 		),
 		array (
 			"name"		=> "Molten Platinum",
-			"type"		=> "I",
+			"type"		=> "i",
 			"ingredient"	=> "M 1 Platinum Ore",
 			"result"	=> "1",
 			"tool"		=> "Furnace",
@@ -52680,7 +52681,7 @@
 		),
 		array (
 			"name"		=> "Bronze Stock",
-			"type"		=> "O",
+			"type"		=> "P",
 			"ingredient"	=> "C 10 Molten Bronze",
 			"result"	=> "1",
 			"tool"		=> "Stock Casting",

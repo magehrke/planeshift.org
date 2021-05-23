@@ -30,7 +30,7 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 	";
 	if ( $pval['optional'] == "" )
 	{
-		$q .= " AND (type='I' or type='P') ";
+		$q .= " AND (type='I' or type='i' or type='P') ";
 	}
 	if ( ( $pval['id'] != "" ) && ( $id_only == true ) )
 	{
@@ -42,7 +42,7 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 	$recipe = $mysqli->query ($q);
 	if ( $recipe->num_rows == 0 )
 	{
-		print "<tr><td colspan='6'>";
+		print "<tr><td colspan='7'>";
 		print "'$recipe_name': no recipe found!";
 		// print "q: $q";
 		print "</td></tr>\n";
@@ -59,6 +59,7 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 		$r_name = $r['name'];
 		$r_type = $r['type'];
 		$ids[] = $id;
+		$recipes = [];
 		foreach ($ingredients as $i)
 		{
 			$prep = trim ($i);
@@ -67,16 +68,15 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			$name   = str_replace ( "'","&apos;", substr ( $prep, $pos2 ) );
 			if ( ! is_numeric ( $amount ) )
 			{
-				print "<tr><td colspan='6'>";
+				print "<tr><td colspan='7'>";
 				print "<mark>$recipe_name: syntax error: '".$prep."'!</mark>";
 				print "</td></tr>\n";
 				return;
 			}
+			$recipes[$name] = $type;
 			if ( $type == "C" )	// crafted
 			{
-				if ( $pval['resolve'] != "" )
-					resolve_recipe ( $pval, $name, $ids, false );
-				$name = "<a href='/jobs/recipes.php?recipe=$name'>$name</a>";
+				$name = "<a href='/jobs/recipes.php?recipe=$name'>$name ($type)</a>";
 			}
 			else if ( $type == "H" )	// harvested
 			{
@@ -106,16 +106,16 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 			}
 			$ing .= "$amount ";
 			$ing .= $name;
-			$ing .= " ($type/$r_type)";
+			// $ing .= " ($type/$r_type)";
 			$count++;
 		}
+		if ( ( $r_type == "P" ) || ( $r_type == "I" ) )
+				print "<tr><td colspan='7'><b>$r_name ($r_type)</b></td></tr>\n";
 		print "<tr>";
 			print "<td>$ing</td>\n";
-			// print "<td>".str_replace ("+"," +<br>", $r['tool'])."</td>\n";
 			print "<td>".$r['tool']."</td>\n";
 			print "<td>".$r['result']."</td>\n";
 			print "<td>";
-				//print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name</a>";
 				print "<a href='".$_SERVER['PHP_SELF']."?recipe=$r_name&id=$id'>$r_name ($r_type)</a>";
 			print "</td>\n";
 			print "<td>".$r['skill']."</td>\n";
@@ -125,20 +125,20 @@ function resolve_recipe ( $pval, $recipe_name, & $ids, $id_only )
 				print "<a href='".$_SERVER['PHP_SELF']."?book=$book'>$book</a>";
 			print "</td>";
 		print "</tr>";
-		/*
-		foreach ($ingredients as $i)
+/*
+		if ( $r_type == "P" )
+			print "<tr><td colspan='7'><b><hr></b></td></tr>\n";
+*/
+		if ( $pval['resolve'] != "" )
 		{
-			$prep = trim ($i);
-			$pos1 = strpos ( $prep, " " );			$type	= substr ( $prep, 0, $pos1 );		$pos1++;
-			$pos2 = strpos ( $prep, " ", $pos1 );	$amount = substr ( $prep, $pos1, $pos2 - $pos1 );	$pos2++;
-			$name   = str_replace ( "'","&apos;", substr ( $prep, $pos2 ) );
-			if ( $type == "C" )	// crafted
+			foreach ($recipes as $name => $type)
 			{
-				if ( $pval['resolve'] != "" )
-					resolve_recipe ( $pval, $name, $ids, false );
+				if ( $type == "C" )	// crafted
+				{
+						resolve_recipe ( $pval, $name, $ids, false );
+				}
 			}
 		}
-		*/
 	}
 }
 
@@ -336,8 +336,8 @@ function show_recipes ( $pval )
 			<td>
 				<?php
 				$name = $p['name'];
-				href ( $name, $url, "?recipe=$name" );
-				//href ( $name." (".$p['type'].")", $url, "?recipe=$name" );
+				//href ( $name, $url, "?recipe=$name" );
+				href ( $name." (".$p['type'].")", $url, "?recipe=$name" );
 				?>
 			</td>
 			<td><?php print $p['level']; ?></td>

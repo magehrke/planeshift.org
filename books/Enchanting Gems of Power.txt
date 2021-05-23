@@ -1,12 +1,12 @@
 Blue Way P 100 Enchant Sapphire Crystal into Enchanted Sapphire using Enchanter of Power with a Object Glyph, Poison Glyph, Net Glyph, Key Glyph.
 Blue Way P 150 Enchant Diamond Crystal into Enchanted Diamond using Enchanter of Power with a Polymorph Glyph, Object Glyph, Poison Glyph, Purify Glyph, Sphere Glyph, Water Glyph, Rain Glyph.
 Blue Way P 20 Enchant Ruby Crystal into Enchanted Ruby using Enchanter of Power with a Cold Glyph, Rain Glyph.
-Blue Way P 40 Enchant Emerald Crystal into Enchanted Emerald using Enchanter of Power with a Poison Glyph, Cold Glyph, Divination Glyph, Rain Glyph, Water Glyph, Sphere Glyph.
+Blue Way P 50 Enchant Emerald Crystal into Enchanted Emerald using Enchanter of Power with a Poison Glyph, Cold Glyph, Divination Glyph, Rain Glyph, Water Glyph, Sphere Glyph.
 Brown Way P 100 Enchant Sapphire Crystal into Enchanted Sapphire using Enchanter of Power with a Armor Glyph, Rock Glyph, Weight Glyph.
 Brown Way P 150 Enchant Diamond Crystal into Enchanted Diamond using Enchanter of Power with a Tree Glyph, Wall Glyph, Summon Glyph, Weight Glyph, Creature Glyph, Earth Glyph.
-Brown Way P 30 Enchant Ruby Crystal into Enchanted Ruby using Enchanter of Power with a Armor Glyph.
-Brown Way P 40 Enchant Emerald Crystal into Enchanted Emerald using Enchanter of Power with a Rock Glyph, Armor Glyph, Summon Glyph, Wall Glyph, Tree Glyph, Weight Glyph.
+Brown Way P 20 Enchant Ruby Crystal into Enchanted Ruby using Enchanter of Power with a Armor Glyph.
+Brown Way P 50 Enchant Emerald Crystal into Enchanted Emerald using Enchanter of Power with a Rock Glyph, Armor Glyph, Summon Glyph, Wall Glyph, Tree Glyph, Weight Glyph.
 Crystal Way P 100 Enchant Sapphire Crystal into Enchanted Sapphire using Enchanter of Power with a Faith Glyph, Light Glyph, Arrow Glyph, Sight Glyph.
 Crystal Way P 150 Enchant Diamond Crystal into Enchanted Diamond using Enchanter of Power with a Crystal Glyph, Sight Glyph, Energy Glyph, Faith Glyph, Life Glyph, Arrow Glyph, Door Glyph.
-Crystal Way P 30 Enchant Ruby Crystal into Enchanted Ruby using Enchanter of Power with a Arrow Glyph.
-Crystal Way P 40 Enchant Emerald Crystal into Enchanted Emerald using Enchanter of Power with a Energy Glyph, Life Glyph, Crystal Glyph, Faith Glyph, Sight Glyph, Door Glyph, Light Glyph.
+Crystal Way P 20 Enchant Ruby Crystal into Enchanted Ruby using Enchanter of Power with a Arrow Glyph.
+Crystal Way P 50 Enchant Emerald Crystal into Enchanted Emerald using Enchanter of Power with a Energy Glyph, Life Glyph, Crystal Glyph, Faith Glyph, Sight Glyph, Door Glyph, Light Glyph.

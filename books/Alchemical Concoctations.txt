@@ -1,57 +1,57 @@
-Alchemy I 0 Combine 2 Air Essence, Quicksilver Solution, Wyn Paste, into 0 Raw Major Potion of Air Element Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Bright Essence, 2 Gold Solution, Wyn Paste, into 0 Raw Potion of Water Crystal and Air Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Crystal Essence, Copper Solution, Wyn Paste, into 0 Raw Major Potion of Azure Sun Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Distilled Water, Limed Carkarass Fire Carapace, Incinerated Carkarass Fire Feather, into 0 Carkarass Essence Mix using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Earth Essence, Zinc Solution, Red Mangrove Paste, into 0 Raw Major Potion of Earth Element Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Fire Essence, Iron Solution, Red Mangrove Paste, into 0 Raw Major Potion of Fire Element Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Illness Essence, Silver Solution, Red Mangrove Paste, into 0 Raw Major Potion of Dark Crystal Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Murky Essence, 2 Silver Solution, Red Mangrove Paste, into 0 Raw Potion of Fire Dark and Earth Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Salt spirit, Ground Riverling Skull, Ground Riverling Tooth, into 0 Mix of corroded Riverling bones using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Spirit, Incinerated Elder Gorweal cortex, Elder Gorweal roots, into 0 Mixed Elder Gorweal roots using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Spirit, Incinerated Gorweal cortex, Gorweal roots, into 0 Mixed Gorweal roots using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Spirit, Incinerated Sapling Gorweal cortex, Sapling Gorweal roots, into 0 Mixed Sapling Gorweal roots using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Water Essence, Tin Solution, Wyn Paste, into 0 Raw Major Potion of Water Element Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine 3 Bright Essence, 2 Gold Solution, 2 Wyn Paste, into 0 Raw Major Potion of Water Crystal and Air Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine 3 Murky Essence, 2 Silver Solution, 2 Red Mangrove Paste, into 0 Raw Major Potion of Fire Dark and Earth Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine Air Essence, Quicksilver Solution, Wyn Pulp, into 0 Raw Potion of Air Element Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine Air Essence, Water Essence, Crystal Essence, into 0 Mix of air water and crystal essence using Alchemy Table (combine).
-Alchemy I 0 Combine Bright Essence, Gold Solution, Wyn Paste, into 0 Raw Minor Potion of Water Crystal and Air Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine Crystal Essence, Copper Ore Solution, Wyn Pulp, into 0 Raw Potion of Azure Sun Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine Distilled Frost Arangma Blood, Powdered Frost Arangma Feeler, Powdered Frost Arangma Quartz, into 0 Frost Arangma Essence Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Earth Essence, 2 Tloke Drone Wax, Vitriol salt, into 0 Raw Alchemist Glue using Alchemy Table (combine).
-Alchemy I 0 Combine Earth Essence, Zinc Ore Solution, Red Mangrove Pulp, into 0 Raw Potion of Earth Element Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine Fire Essence, Earth Essence, Illness Essence, into 0 Mix of fire earth and illness essence using Alchemy Table (combine).
-Alchemy I 0 Combine Fire Essence, Iron Ore Solution, Red Mangrove Pulp, into 0 Raw Potion of Fire Element Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine Fire Essence, Wragberry Oil, Powdered Coal, into 0 Raw Alchemist Fire using Alchemy Table (combine).
-Alchemy I 0 Combine Illness Essence, Silver Ore Solution, Red Mangrove Pulp, into 0 Raw Potion of Dark Crystal Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine Murky Essence, Silver Solution, Red Mangrove Paste, into 0 Raw Minor Potion of Fire Dark and Earth Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, 3 Salt spirit, Powdered Gold, into 0 Mix of Gold niter and salt spirit using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Extract of Diseased Rat Blood, into 0 Mix of Diseased Rat Blood using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Incinerated Carkarass Feather, into 0 Mix of Carkarass Feather using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Incinerated Kikiri Feather, into 0 Mix of Kikiri Feather using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Incinerated Tloke Drone Wing, into 0 Mix of Tloke Drone Wing using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Incinerated Tloke Queen Wing, into 0 Mix of Tloke Queen Wing using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Incinerated Tloke Warrior Wing, into 0 Mix of Tloke Warrior Wing using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Purified Consumer Blood, into 0 Mix of Consumer Blood using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Purified Imago Consumer Blood, into 0 Mix of Imago Consumer Blood using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Purified Neoten Consumer Blood, into 0 Mix of Neoten Consumer Blood using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Copper, 2 Oil of Vitriol, into 0 Mix of Copper and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Copper Ore, 2 Oil of Vitriol, into 0 Mix of Copper ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Iron, 2 Oil of Vitriol, into 0 Mix of Iron and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Iron Ore, 2 Oil of Vitriol, into 0 Mix of Iron ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Ruby Crystal, Powdered Emerald Crystal, 2 Nitric spirit, into 0 Mixed Ruby and Emerald Crystal using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Silver, 2 Oil of Vitriol, into 0 Mix of Silver and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Silver Ore, 2 Oil of Vitriol, into 0 Mix of Silver ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Tin, 2 Oil of Vitriol, into 0 Mix of Tin and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Tin Ore, 2 Oil of Vitriol, into 0 Mix of Tin ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Zinc Ore, 2 Oil of Vitriol, into 0 Mix of Zinc ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Purified Sand Arangma Blood, Ground Sand Arangma Talon, 2 Common Salt, into 0 Sand Arangma Essence Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Quicksilver Vial, 2 Oil of Vitriol, into 0 Mix of Quicksilver and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Salt spirit, Purified Fire Blood, into 0 Mix of Fire Blood using Alchemy Table (combine).
-Alchemy I 0 Combine Water Essence, Tin Ore Solution, Wyn Pulp, into 0 Raw Potion of Water Element Affinity using Alchemy Table (combine).
-Alchemy I 0 Combine Water Essence, Wragberry Oil, Nitric spirit, into 0 Raw Alchemist Freezer using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Air Essence, Quicksilver Solution, Wyn Paste, into 0 Raw Major Potion of Air Element Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Bright Essence, 2 Gold Solution, Wyn Paste, into 0 Raw Potion of Water Crystal and Air Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Crystal Essence, Copper Solution, Wyn Paste, into 0 Raw Major Potion of Azure Sun Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Distilled Water, Limed Carkarass Fire Carapace, Incinerated Carkarass Fire Feather, into 0 Carkarass Essence Mix using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Earth Essence, Zinc Solution, Red Mangrove Paste, into 0 Raw Major Potion of Earth Element Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Fire Essence, Iron Solution, Red Mangrove Paste, into 0 Raw Major Potion of Fire Element Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Illness Essence, Silver Solution, Red Mangrove Paste, into 0 Raw Major Potion of Dark Crystal Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Murky Essence, 2 Silver Solution, Red Mangrove Paste, into 0 Raw Potion of Fire Dark and Earth Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Salt spirit, Ground Riverling Skull, Ground Riverling Tooth, into 0 Mix of corroded Riverling bones using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Spirit, Incinerated Elder Gorweal cortex, Elder Gorweal roots, into 0 Mixed Elder Gorweal roots using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Spirit, Incinerated Gorweal cortex, Gorweal roots, into 0 Mixed Gorweal roots using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Spirit, Incinerated Sapling Gorweal cortex, Sapling Gorweal roots, into 0 Mixed Sapling Gorweal roots using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Water Essence, Tin Solution, Wyn Paste, into 0 Raw Major Potion of Water Element Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine 3 Bright Essence, 2 Gold Solution, 2 Wyn Paste, into 0 Raw Major Potion of Water Crystal and Air Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine 3 Murky Essence, 2 Silver Solution, 2 Red Mangrove Paste, into 0 Raw Major Potion of Fire Dark and Earth Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine Air Essence, Quicksilver Solution, Wyn Pulp, into 0 Raw Potion of Air Element Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine Air Essence, Water Essence, Crystal Essence, into 0 Mix of air water and crystal essence using Alchemy Table (combine).
+Alchemy i 0 Combine Bright Essence, Gold Solution, Wyn Paste, into 0 Raw Minor Potion of Water Crystal and Air Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine Crystal Essence, Copper Ore Solution, Wyn Pulp, into 0 Raw Potion of Azure Sun Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine Distilled Frost Arangma Blood, Powdered Frost Arangma Feeler, Powdered Frost Arangma Quartz, into 0 Frost Arangma Essence Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Earth Essence, 2 Tloke Drone Wax, Vitriol salt, into 0 Raw Alchemist Glue using Alchemy Table (combine).
+Alchemy i 0 Combine Earth Essence, Zinc Ore Solution, Red Mangrove Pulp, into 0 Raw Potion of Earth Element Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine Fire Essence, Earth Essence, Illness Essence, into 0 Mix of fire earth and illness essence using Alchemy Table (combine).
+Alchemy i 0 Combine Fire Essence, Iron Ore Solution, Red Mangrove Pulp, into 0 Raw Potion of Fire Element Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine Fire Essence, Wragberry Oil, Powdered Coal, into 0 Raw Alchemist Fire using Alchemy Table (combine).
+Alchemy i 0 Combine Illness Essence, Silver Ore Solution, Red Mangrove Pulp, into 0 Raw Potion of Dark Crystal Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine Murky Essence, Silver Solution, Red Mangrove Paste, into 0 Raw Minor Potion of Fire Dark and Earth Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, 3 Salt spirit, Powdered Gold, into 0 Mix of Gold niter and salt spirit using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Extract of Diseased Rat Blood, into 0 Mix of Diseased Rat Blood using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Incinerated Carkarass Feather, into 0 Mix of Carkarass Feather using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Incinerated Kikiri Feather, into 0 Mix of Kikiri Feather using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Incinerated Tloke Drone Wing, into 0 Mix of Tloke Drone Wing using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Incinerated Tloke Queen Wing, into 0 Mix of Tloke Queen Wing using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Incinerated Tloke Warrior Wing, into 0 Mix of Tloke Warrior Wing using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Purified Consumer Blood, into 0 Mix of Consumer Blood using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Purified Imago Consumer Blood, into 0 Mix of Imago Consumer Blood using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Purified Neoten Consumer Blood, into 0 Mix of Neoten Consumer Blood using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Copper, 2 Oil of Vitriol, into 0 Mix of Copper and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Copper Ore, 2 Oil of Vitriol, into 0 Mix of Copper ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Iron, 2 Oil of Vitriol, into 0 Mix of Iron and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Iron Ore, 2 Oil of Vitriol, into 0 Mix of Iron ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Ruby Crystal, Powdered Emerald Crystal, 2 Nitric spirit, into 0 Mixed Ruby and Emerald Crystal using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Silver, 2 Oil of Vitriol, into 0 Mix of Silver and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Silver Ore, 2 Oil of Vitriol, into 0 Mix of Silver ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Tin, 2 Oil of Vitriol, into 0 Mix of Tin and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Tin Ore, 2 Oil of Vitriol, into 0 Mix of Tin ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Zinc Ore, 2 Oil of Vitriol, into 0 Mix of Zinc ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Purified Sand Arangma Blood, Ground Sand Arangma Talon, 2 Common Salt, into 0 Sand Arangma Essence Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Quicksilver Vial, 2 Oil of Vitriol, into 0 Mix of Quicksilver and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Salt spirit, Purified Fire Blood, into 0 Mix of Fire Blood using Alchemy Table (combine).
+Alchemy i 0 Combine Water Essence, Tin Ore Solution, Wyn Pulp, into 0 Raw Potion of Water Element Affinity using Alchemy Table (combine).
+Alchemy i 0 Combine Water Essence, Wragberry Oil, Nitric spirit, into 0 Raw Alchemist Freezer using Alchemy Table (combine).
 Alchemy I 0 Corrode Mix of Copper ore and vitriol into 2 Copper Ore Solution using Crucible with a Glass Stirrer.
 Alchemy I 0 Corrode Mix of salt and vitriol into 2 Salt spirit using Crucible with a Glass Stirrer.
 Alchemy I 0 Corrode Mix of Silver ore and vitriol into 2 Silver Ore Solution using Crucible with a Glass Stirrer.
@@ -71,25 +71,25 @@ Alchemy I 0 Pulverize Ruby Crystal into 2 Powdered Ruby Crystal using Mortar and
 Alchemy I 0 Pulverize Sapphire Crystal into 2 Powdered Sapphire Crystal using Mortar and Pestle.
 Alchemy I <22 Amalgamate Mixed Diamond and Sapphire Crystal into Crystal sludge using Melting Pot with a Glass Stirrer.
 Alchemy I <22 Amalgamate Mixed Ruby and Emerald Crystal into Crystal sludge using Melting Pot with a Glass Stirrer.
-Alchemy I <22 Combine Powdered Diamond Crystal, Powdered Sapphire Crystal, 2 Salt spirit, into 0 Mixed Diamond and Sapphire Crystal using Alchemy Table (combine).
-Alchemy I >22 Cook Mix of air water and crystal essence into 3 Bright Essence using Alchemist Stove with a Iron Stirrer.
-Alchemy I <22 Decant 2 Crystal sludge into 5 Crystal Essence using Decanter with a Strainer.
-Alchemy I <22 Decant Crystal sludge into 3 Crystal Essence using Decanter with a Strainer.
+Alchemy i <22 Combine Powdered Diamond Crystal, Powdered Sapphire Crystal, 2 Salt spirit, into 0 Mixed Diamond and Sapphire Crystal using Alchemy Table (combine).
+Alchemy P >22 Cook Mix of air water and crystal essence into 3 Bright Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy P <22 Decant 2 Crystal sludge into 5 Crystal Essence using Decanter with a Strainer.
+Alchemy P <22 Decant Crystal sludge into 3 Crystal Essence using Decanter with a Strainer.
 Alchemy I <22 Distill Diseased Rat Blood into Extract of Diseased Rat Blood using Alembic.
-Alchemy I <22 Wash 2 Mix of Kikiri Feather into Air Essence using Decanter.
-Alchemy I >22 Wash Mix of Carkarass Feather into 6 Air Essence using Decanter.
-Alchemy I <22 Wash Mix of Tloke Drone Wing into Air Essence using Decanter.
-Alchemy I <22 Wash Mix of Tloke Queen Wing into 4 Air Essence using Decanter.
-Alchemy I <22 Wash Mix of Tloke Warrior Wing into 3 Air Essence using Decanter using.
-Alchemy I >34 Alchemy 2 Mix of fire earth and illness essence into 6 Murky Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy P <22 Wash 2 Mix of Kikiri Feather into Air Essence using Decanter.
+Alchemy P >22 Wash Mix of Carkarass Feather into 6 Air Essence using Decanter.
+Alchemy P <22 Wash Mix of Tloke Drone Wing into Air Essence using Decanter.
+Alchemy P <22 Wash Mix of Tloke Queen Wing into 4 Air Essence using Decanter.
+Alchemy P <22 Wash Mix of Tloke Warrior Wing into 3 Air Essence using Decanter using.
+Alchemy P >34 Alchemy 2 Mix of fire earth and illness essence into 6 Murky Essence using Alchemist Stove with a Iron Stirrer.
 Alchemy I <34 Calcinate Carkarass Fire Carapace into Limed Carkarass Fire Carapace using Melting Pot.
-Alchemy I <34 Cerate Exalted Elder Gorweal extract into 28 Earth Essence using Alchemist Stove with a Wooden Stirrer.
-Alchemy I <34 Cerate Exalted Gorweal extract into 24 Earth Essence using Alchemist Stove with a Wooden Stirrer.
-Alchemy I <34 Cerate Exalted Sapling Gorweal extract into 20 Earth Essence using Alchemist Stove with a Wooden Stirrer.
-Alchemy I <34 Cerate Frost Arangma Essence Mix into 12 Water Essence using Alchemist Stove with a Wooden Stirrer.
-Alchemy I <34 Cerate Sand Arangma Essence Mix into 20 Earth Essence using Alchemist Stove with a Wooden Stirrer.
-Alchemy I >34 Combine 2 Mix of air water and crystal essence into 6 Bright Essence using Alchemist Stove with a Iron Stirrer.
-Alchemy I <34 Cook Mix of fire earth and illness essence into 3 Murky Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy P <34 Cerate Exalted Elder Gorweal extract into 28 Earth Essence using Alchemist Stove with a Wooden Stirrer.
+Alchemy P <34 Cerate Exalted Gorweal extract into 24 Earth Essence using Alchemist Stove with a Wooden Stirrer.
+Alchemy P <34 Cerate Exalted Sapling Gorweal extract into 20 Earth Essence using Alchemist Stove with a Wooden Stirrer.
+Alchemy P <34 Cerate Frost Arangma Essence Mix into 12 Water Essence using Alchemist Stove with a Wooden Stirrer.
+Alchemy P <34 Cerate Sand Arangma Essence Mix into 20 Earth Essence using Alchemist Stove with a Wooden Stirrer.
+Alchemy P >34 Combine 2 Mix of air water and crystal essence into 6 Bright Essence using Alchemist Stove with a Iron Stirrer.
+Alchemy P <34 Cook Mix of fire earth and illness essence into 3 Murky Essence using Alchemist Stove with a Iron Stirrer.
 Alchemy I <34 Corrode Mix of Quicksilver and vitriol into 2 Quicksilver Solution using Crucible with a Glass Stirrer.
 Alchemy I <34 Corrode Mix of Silver and vitriol into 2 Silver Solution using Crucible with a Glass Stirrer.
 Alchemy I <34 Corrode Mix of Tin and vitriol into 2 Tin Solution using Crucible with a Glass Stirrer.
@@ -103,7 +103,7 @@ Alchemy I >34 Distill Mix of Neoten Consumer Blood into 20 Illness Essence using
 Alchemy I >34 Distill Neoten Consumer Blood into Purified Neoten Consumer Blood using Alembic.
 Alchemy I <34 Distill Sand Arangma Blood into Purified Sand Arangma Blood using Alembic.
 Alchemy I <34 Distill Water Filled Bucket into 2 Distilled Water using Alembic.
-Alchemy I <34 Evaporate Carkarass Essence Mix into 28 Fire Essence using Athanor.
+Alchemy P <34 Evaporate Carkarass Essence Mix into 28 Fire Essence using Athanor.
 Alchemy I <34 Grind Riverling Skull into Ground Riverling Skull using Alchemist Table with a Wooden Mallet.
 Alchemy I <34 Grind Riverling Tooth into Ground Riverling Tooth using Alchemist Table with a Wooden Mallet.
 Alchemy I <34 Grind Sand Arangma Talon into Ground Sand Arangma Talon using Alchemist Table with a Wooden Mallet.
@@ -121,10 +121,10 @@ Alchemy I <34 Macerate Mixed Gorweal roots into Exalted Gorweal extract using Al
 Alchemy I <34 Macerate Mixed Sapling Gorweal roots into Exalted Sapling Gorweal extract using Alchemist Table.
 Alchemy I <34 Pulverize Frost Arangma Feeler into Powdered Frost Arangma Feeler using Mortar and Pestle.
 Alchemy I <34 Pulverize Frost Arangma Quartz into Powdered Frost Arangma Quartz using Mortar and Pestle.
-Alchemy I <34 Rectify Mix of Consumer Blood into 8 Illness Essence using Alembic.
-Alchemy I <34 Rectify Mix of corroded Riverling bones into 20 Water Essence using Alembic.
-Alchemy I <34 Wash Mix of Fire Blood into 25 Fire Essence using Decanter.
-Alchemy I <9 Combine Powdered Zinc, 2 Oil of Vitriol, into 0 Mix of Zinc and vitriol using Alchemy Table (combine).
+Alchemy P <34 Rectify Mix of Consumer Blood into 8 Illness Essence using Alembic.
+Alchemy P <34 Rectify Mix of corroded Riverling bones into 20 Water Essence using Alembic.
+Alchemy P <34 Wash Mix of Fire Blood into 25 Fire Essence using Decanter.
+Alchemy i <9 Combine Powdered Zinc, 2 Oil of Vitriol, into 0 Mix of Zinc and vitriol using Alchemy Table (combine).
 Alchemy I <9 Corrode Mix of Copper and vitriol into 2 Copper Solution using Crucible with a Glass Stirrer.
 Alchemy I >9 Corrode Mix of Gold niter and salt spirit into 2 Gold Solution using Crucible with a Glass Stirrer.
 Alchemy I <9 Corrode Mix of Iron and vitriol into 2 Iron Solution using Crucible with a Glass Stirrer.

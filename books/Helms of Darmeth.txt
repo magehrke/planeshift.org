@@ -1,81 +1,81 @@
-Armor Making I 200 Assemble Banded Mail Helm Kit into Banded Mail Helm Assembly using Riveter.
-Armor Making I 200 Assemble Battle Helm Kit into Battle Helm Assembly using Riveter.
-Armor Making I 200 Assemble Brigandine Helm Kit into Brigandine Helm Assembly using Riveter.
-Armor Making I 200 Assemble Bronze Serpent Helm Kit into Bronze Serpent Helm Assembly using Riveter.
-Armor Making I 200 Assemble Bronze Spangenhelm Kit into Bronze Spangenhelm Assembly using Riveter.
-Armor Making I 200 Assemble Bronze Spangen Kit into Bronze Spangen Assembly using Riveter.
-Armor Making I 200 Assemble Chain Mail Helm Kit into Chain Mail Helm Assembly using Riveter.
-Armor Making I 200 Assemble Full Spangenhelm Kit into Full Spangenhelm Assembly using Riveter.
-Armor Making I 200 Assemble Holy Helmet Kit into Holy Helmet Assembly using Riveter.
-Armor Making I 200 Assemble Horned Helm Kit into Horned Helm Assembly using Riveter.
-Armor Making I 200 Assemble Mercenary Helm Kit into Mercenary Helm Assembly using Riveter.
-Armor Making I 200 Assemble Plate Mail Helm Kit into Plate Mail Helm Assembly using Riveter.
-Armor Making I 200 Assemble Spangenhelm Kit into Spangenhelm Assembly using Riveter.
-Armor Making I 200 Assemble Spangen Kit into Spangen Assembly using Riveter.
-Armor Making I 200 Assemble Steel Plate Helm Kit into Steel Plate Helm Assembly using Riveter.
-Armor Making I 200 Combine 2 Leather Cheekplate, Leather Ridge, into 0 Mercenary Helm Kit using Smith Table (combine).
-Armor Making I 200 Combine 2 Sharpened Deadly Claw, Steel Plate Helm, into 0 Horned Helm Kit using Smith Table (combine).
-Armor Making I 200 Combine 2 Steel Cheekplate, Steel Ridge, Spangen, into 0 Steel Plate Helm Kit using Smith Table (combine).
-Armor Making I 200 Combine 3 Bronze Chain Mail Strip, into 0 Small Bronze Chain Mail Part using Smith Table (combine).
-Armor Making I 200 Combine 3 Chain Mail Strip, into 0 Small Chain Mail Part using Smith Table (combine).
-Armor Making I 200 Combine 4 Dozen Open Bronze Ring, Dozen Closed Bronze Ring, into 0 Bronze Four in One Pattern using Smith Table (combine).
-Armor Making I 200 Combine 4 Dozen Open Steel Ring, Dozen Closed Steel Ring, into 0 Four in One Pattern using Smith Table (combine).
-Armor Making I 200 Combine 4 Dozen Riveted Open Bronze Ring, Dozen Riveted Closed Bronze Ring, into 0 Riveted Bronze Four in One Pattern using Smith Table (combine).
-Armor Making I 200 Combine 4 Dozen Riveted Open Steel Ring, Dozen Riveted Closed Steel Ring, into 0 Riveted Four in One Pattern using Smith Table (combine).
-Armor Making I 200 Combine 4 Sharpened Deadly Claw, Steel Plate Helm, into 0 Battle Helm Kit using Smith Table (combine).
-Armor Making I 200 Combine 6 Dozen Open Bronze Ring, Dozen Closed Bronze Ring, into 0 Bronze Six in One Pattern using Smith Table (combine).
-Armor Making I 200 Combine 6 Dozen Open Steel Ring, Dozen Closed Steel Ring, into 0 Six in One Pattern using Smith Table (combine).
-Armor Making I 200 Combine 6 Dozen Riveted Open Bronze Ring, Dozen Riveted Closed Bronze Ring, into 0 Riveted Bronze Six in One Pattern using Smith Table (combine).
-Armor Making I 200 Combine 6 Dozen Riveted Open Steel Ring, Dozen Riveted Closed Steel Ring, into 0 Riveted Six in One Pattern using Smith Table (combine).
-Armor Making I 200 Combine Bronze Helm Headband, Bronze Helm Topband, into 0 Bronze Spangen Kit using Smith Table (combine).
-Armor Making I 200 Combine Bronze Spangen, Bronze Helm Skullcap, into 0 Bronze Spangenhelm Kit using Smith Table (combine).
-Armor Making I 200 Combine Bronze Spangen, Bronze Scale Mail Cloth, into 0 Bronze Serpent Helm Kit using Smith Table (combine).
-Armor Making I 200 Combine Bronze Spangenhelm, Bronze Helm Neck Wrap, into 0 Holy Helmet Kit using Smith Table (combine).
-Armor Making I 200 Combine Chain Mail Helm, Set of Steel Band, into 0 Banded Mail Helm Kit using Smith Table (combine).
-Armor Making I 200 Combine Chain Mail Helm, Set of Steel Plate, into 0 Plate Mail Helm Kit using Smith Table (combine).
-Armor Making I 200 Combine Helm Headband, Helm Topband, into 0 Spangen Kit using Smith Table (combine).
-Armor Making I 200 Combine Mercenary Helm, Set of Steel Plate, into 0 Brigandine Helm Kit using Smith Table (combine).
-Armor Making I 200 Combine Spangenhelm, Helm Neck Wrap, into 0 Full Spangenhelm Kit using Smith Table (combine).
-Armor Making I 200 Combine Spangen, Helm Skullcap, into 0 Spangenhelm Kit using Smith Table (combine).
-Armor Making I 200 Combine Spangen, Large Mail Cloth, into 0 Chain Mail Helm Kit using Smith Table (combine).
-Armor Making I 200 Cut Bronze Coil into 15 Dozen Open Bronze Ring using Smith Table with a Cutters.
-Armor Making I 200 Cut Steel Coil into 15 Dozen Open Steel Ring using Smith Table with a Cutters.
-Armor Making I 200 Forge Heated Helm Topband into Super Heated Helm Topband using Forge.
-Armor Making I 200 Hammer Dozen Open Bronze Ring into Dozen Closed Bronze Ring using Anvil with a Hammer.
-Armor Making I 200 Hammer Dozen Open Steel Ring into Dozen Closed Steel Ring using Anvil with a Hammer.
-Armor Making I 200 Mold Molten Bronze into Bronze Wire using Forge with a Wire mold.
-Armor Making I 200 Mold Molten Steel into Steel Wire using Forge with a Wire mold.
-Armor Making I 200 Rivet Dozen Closed Bronze Ring into Dozen Riveted Closed Bronze Ring using Riveter.
-Armor Making I 200 Rivet Dozen Closed Steel Ring into Dozen Riveted Closed Steel Ring using Riveter.
-Armor Making I 200 Rivet Dozen Open Bronze Ring into Dozen Riveted Open Bronze Ring using Riveter.
-Armor Making I 200 Rivet Dozen Open Steel Ring into Dozen Riveted Open Steel Ring using Riveter.
-Armor Making I 200 Shape 2 Heated Steel Ingot into Steel Cheekplate using Anvil with a Hammer.
-Armor Making I 200 Shape 3 Heated Steel Ingot into Set of Steel Band using Anvil with a Hammer.
-Armor Making I 200 Shape 5 Heated Bronze Ingot into Bronze Helm Topband using Anvil with a Hammer.
-Armor Making I 200 Shape 5 Heated Steel Ingot into Helm Topband using Anvil with a Hammer.
-Armor Making I 200 Shape 6 Heated Bronze Ingot into Bronze Helm Neck Wrap using Anvil with a Hammer.
-Armor Making I 200 Shape 6 Heated Steel Ingot into Helm Neck Wrap using Anvil with a Hammer.
-Armor Making I 200 Shape 7 Heated Steel Ingot into Steel Ridge using Anvil with a Hammer.
-Armor Making I 200 Shape 8 Heated Bronze Ingot into Bronze Helm Skullcap using Anvil with a Hammer.
-Armor Making I 200 Shape 8 Heated Steel Ingot into Helm Skullcap using Anvil with a Hammer.
-Armor Making I 200 Shape 9 Heated Bronze Ingot into Bronze Helm Headband using Anvil with a Hammer.
-Armor Making I 200 Shape 9 Heated Steel Ingot into Helm Headband using Anvil with a Hammer.
-Armor Making I 200 Shape Spangen Assembly into Spangen using Anvil with a Hammer.
-Armor Making I 200 Sharpen Ulbernaut Deadly Claw into Sharpened Deadly Claw using Smith Table with a Wood Plane.
-Armor Making I 200 Weave 2 Small Bronze Chain Mail Piece into Bronze Scale Mail Cloth using Smith Table.
-Armor Making I 200 Weave 2 Small Chain Mail Piece into Large Mail Cloth using Smith Table.
-Armor Making I 200 Weave 3 Bronze Four in One Pattern into Bronze Chain Mail Strip using Smith Table.
-Armor Making I 200 Weave 3 Bronze Six in One Pattern into Bronze Chain Mail Strip using Smith Table.
-Armor Making I 200 Weave 3 Four in One Pattern into Chain Mail Strip using Smith Table.
-Armor Making I 200 Weave 3 Riveted Bronze Four in One Pattern into Bronze Chain Mail Strip using Smith Table.
-Armor Making I 200 Weave 3 Riveted Bronze Six in One Pattern into Bronze Chain Mail Strip using Smith Table.
-Armor Making I 200 Weave 3 Riveted Four in One Pattern into Chain Mail Strip using Smith Table.
-Armor Making I 200 Weave 3 Riveted Six in One Pattern into Chain Mail Strip using Smith Table.
-Armor Making I 200 Weave 3 Six in One Pattern into Chain Mail Strip using Smith Table.
-Armor Making I 200 Weave Small Bronze Chain Mail Part into Small Bronze Chain Mail Piece using Smith Table.
-Armor Making I 200 Weave Small Chain Mail Part into Small Chain Mail Piece using Smith Table.
-Armor Making I 200 Wind Bronze Wire into Bronze Coil using Smith Table with a Mandrel.
-Armor Making I 200 Wind Steel Wire into Steel Coil using Smith Table with a Mandrel.
+Armor Making i 200 Assemble Banded Mail Helm Kit into Banded Mail Helm Assembly using Riveter.
+Armor Making i 200 Assemble Battle Helm Kit into Battle Helm Assembly using Riveter.
+Armor Making i 200 Assemble Brigandine Helm Kit into Brigandine Helm Assembly using Riveter.
+Armor Making i 200 Assemble Bronze Serpent Helm Kit into Bronze Serpent Helm Assembly using Riveter.
+Armor Making i 200 Assemble Bronze Spangenhelm Kit into Bronze Spangenhelm Assembly using Riveter.
+Armor Making i 200 Assemble Bronze Spangen Kit into Bronze Spangen Assembly using Riveter.
+Armor Making i 200 Assemble Chain Mail Helm Kit into Chain Mail Helm Assembly using Riveter.
+Armor Making i 200 Assemble Full Spangenhelm Kit into Full Spangenhelm Assembly using Riveter.
+Armor Making i 200 Assemble Holy Helmet Kit into Holy Helmet Assembly using Riveter.
+Armor Making i 200 Assemble Horned Helm Kit into Horned Helm Assembly using Riveter.
+Armor Making i 200 Assemble Mercenary Helm Kit into Mercenary Helm Assembly using Riveter.
+Armor Making i 200 Assemble Plate Mail Helm Kit into Plate Mail Helm Assembly using Riveter.
+Armor Making i 200 Assemble Spangenhelm Kit into Spangenhelm Assembly using Riveter.
+Armor Making i 200 Assemble Spangen Kit into Spangen Assembly using Riveter.
+Armor Making i 200 Assemble Steel Plate Helm Kit into Steel Plate Helm Assembly using Riveter.
+Armor Making i 200 Combine 2 Leather Cheekplate, Leather Ridge, into 0 Mercenary Helm Kit using Smith Table (combine).
+Armor Making i 200 Combine 2 Sharpened Deadly Claw, Steel Plate Helm, into 0 Horned Helm Kit using Smith Table (combine).
+Armor Making i 200 Combine 2 Steel Cheekplate, Steel Ridge, Spangen, into 0 Steel Plate Helm Kit using Smith Table (combine).
+Armor Making i 200 Combine 3 Bronze Chain Mail Strip, into 0 Small Bronze Chain Mail Part using Smith Table (combine).
+Armor Making i 200 Combine 3 Chain Mail Strip, into 0 Small Chain Mail Part using Smith Table (combine).
+Armor Making i 200 Combine 4 Dozen Open Bronze Ring, Dozen Closed Bronze Ring, into 0 Bronze Four in One Pattern using Smith Table (combine).
+Armor Making i 200 Combine 4 Dozen Open Steel Ring, Dozen Closed Steel Ring, into 0 Four in One Pattern using Smith Table (combine).
+Armor Making i 200 Combine 4 Dozen Riveted Open Bronze Ring, Dozen Riveted Closed Bronze Ring, into 0 Riveted Bronze Four in One Pattern using Smith Table (combine).
+Armor Making i 200 Combine 4 Dozen Riveted Open Steel Ring, Dozen Riveted Closed Steel Ring, into 0 Riveted Four in One Pattern using Smith Table (combine).
+Armor Making i 200 Combine 4 Sharpened Deadly Claw, Steel Plate Helm, into 0 Battle Helm Kit using Smith Table (combine).
+Armor Making i 200 Combine 6 Dozen Open Bronze Ring, Dozen Closed Bronze Ring, into 0 Bronze Six in One Pattern using Smith Table (combine).
+Armor Making i 200 Combine 6 Dozen Open Steel Ring, Dozen Closed Steel Ring, into 0 Six in One Pattern using Smith Table (combine).
+Armor Making i 200 Combine 6 Dozen Riveted Open Bronze Ring, Dozen Riveted Closed Bronze Ring, into 0 Riveted Bronze Six in One Pattern using Smith Table (combine).
+Armor Making i 200 Combine 6 Dozen Riveted Open Steel Ring, Dozen Riveted Closed Steel Ring, into 0 Riveted Six in One Pattern using Smith Table (combine).
+Armor Making i 200 Combine Bronze Helm Headband, Bronze Helm Topband, into 0 Bronze Spangen Kit using Smith Table (combine).
+Armor Making i 200 Combine Bronze Spangen, Bronze Helm Skullcap, into 0 Bronze Spangenhelm Kit using Smith Table (combine).
+Armor Making i 200 Combine Bronze Spangen, Bronze Scale Mail Cloth, into 0 Bronze Serpent Helm Kit using Smith Table (combine).
+Armor Making i 200 Combine Bronze Spangenhelm, Bronze Helm Neck Wrap, into 0 Holy Helmet Kit using Smith Table (combine).
+Armor Making i 200 Combine Chain Mail Helm, Set of Steel Band, into 0 Banded Mail Helm Kit using Smith Table (combine).
+Armor Making i 200 Combine Chain Mail Helm, Set of Steel Plate, into 0 Plate Mail Helm Kit using Smith Table (combine).
+Armor Making i 200 Combine Helm Headband, Helm Topband, into 0 Spangen Kit using Smith Table (combine).
+Armor Making i 200 Combine Mercenary Helm, Set of Steel Plate, into 0 Brigandine Helm Kit using Smith Table (combine).
+Armor Making i 200 Combine Spangenhelm, Helm Neck Wrap, into 0 Full Spangenhelm Kit using Smith Table (combine).
+Armor Making i 200 Combine Spangen, Helm Skullcap, into 0 Spangenhelm Kit using Smith Table (combine).
+Armor Making i 200 Combine Spangen, Large Mail Cloth, into 0 Chain Mail Helm Kit using Smith Table (combine).
+Armor Making i 200 Cut Bronze Coil into 15 Dozen Open Bronze Ring using Smith Table with a Cutters.
+Armor Making i 200 Cut Steel Coil into 15 Dozen Open Steel Ring using Smith Table with a Cutters.
+Armor Making i 200 Forge Heated Helm Topband into Super Heated Helm Topband using Forge.
+Armor Making i 200 Hammer Dozen Open Bronze Ring into Dozen Closed Bronze Ring using Anvil with a Hammer.
+Armor Making i 200 Hammer Dozen Open Steel Ring into Dozen Closed Steel Ring using Anvil with a Hammer.
+Armor Making i 200 Mold Molten Bronze into Bronze Wire using Forge with a Wire mold.
+Armor Making i 200 Mold Molten Steel into Steel Wire using Forge with a Wire mold.
+Armor Making i 200 Rivet Dozen Closed Bronze Ring into Dozen Riveted Closed Bronze Ring using Riveter.
+Armor Making i 200 Rivet Dozen Closed Steel Ring into Dozen Riveted Closed Steel Ring using Riveter.
+Armor Making i 200 Rivet Dozen Open Bronze Ring into Dozen Riveted Open Bronze Ring using Riveter.
+Armor Making i 200 Rivet Dozen Open Steel Ring into Dozen Riveted Open Steel Ring using Riveter.
+Armor Making i 200 Shape 2 Heated Steel Ingot into Steel Cheekplate using Anvil with a Hammer.
+Armor Making i 200 Shape 3 Heated Steel Ingot into Set of Steel Band using Anvil with a Hammer.
+Armor Making i 200 Shape 5 Heated Bronze Ingot into Bronze Helm Topband using Anvil with a Hammer.
+Armor Making i 200 Shape 5 Heated Steel Ingot into Helm Topband using Anvil with a Hammer.
+Armor Making i 200 Shape 6 Heated Bronze Ingot into Bronze Helm Neck Wrap using Anvil with a Hammer.
+Armor Making i 200 Shape 6 Heated Steel Ingot into Helm Neck Wrap using Anvil with a Hammer.
+Armor Making i 200 Shape 7 Heated Steel Ingot into Steel Ridge using Anvil with a Hammer.
+Armor Making i 200 Shape 8 Heated Bronze Ingot into Bronze Helm Skullcap using Anvil with a Hammer.
+Armor Making i 200 Shape 8 Heated Steel Ingot into Helm Skullcap using Anvil with a Hammer.
+Armor Making i 200 Shape 9 Heated Bronze Ingot into Bronze Helm Headband using Anvil with a Hammer.
+Armor Making i 200 Shape 9 Heated Steel Ingot into Helm Headband using Anvil with a Hammer.
+Armor Making i 200 Shape Spangen Assembly into Spangen using Anvil with a Hammer.
+Armor Making i 200 Sharpen Ulbernaut Deadly Claw into Sharpened Deadly Claw using Smith Table with a Wood Plane.
+Armor Making i 200 Weave 2 Small Bronze Chain Mail Piece into Bronze Scale Mail Cloth using Smith Table.
+Armor Making i 200 Weave 2 Small Chain Mail Piece into Large Mail Cloth using Smith Table.
+Armor Making i 200 Weave 3 Bronze Four in One Pattern into Bronze Chain Mail Strip using Smith Table.
+Armor Making i 200 Weave 3 Bronze Six in One Pattern into Bronze Chain Mail Strip using Smith Table.
+Armor Making i 200 Weave 3 Four in One Pattern into Chain Mail Strip using Smith Table.
+Armor Making i 200 Weave 3 Riveted Bronze Four in One Pattern into Bronze Chain Mail Strip using Smith Table.
+Armor Making i 200 Weave 3 Riveted Bronze Six in One Pattern into Bronze Chain Mail Strip using Smith Table.
+Armor Making i 200 Weave 3 Riveted Four in One Pattern into Chain Mail Strip using Smith Table.
+Armor Making i 200 Weave 3 Riveted Six in One Pattern into Chain Mail Strip using Smith Table.
+Armor Making i 200 Weave 3 Six in One Pattern into Chain Mail Strip using Smith Table.
+Armor Making i 200 Weave Small Bronze Chain Mail Part into Small Bronze Chain Mail Piece using Smith Table.
+Armor Making i 200 Weave Small Chain Mail Part into Small Chain Mail Piece using Smith Table.
+Armor Making i 200 Wind Bronze Wire into Bronze Coil using Smith Table with a Mandrel.
+Armor Making i 200 Wind Steel Wire into Steel Coil using Smith Table with a Mandrel.
 Armor Making O 200 Forge Bronze Helm Headband into Heated Bronze Helm Headband using Forge.
 Armor Making O 200 Forge Bronze Helm Neck Wrap into Heated Bronze Helm Neck Wrap using Forge.
 Armor Making O 200 Forge Bronze Helm Skullcap into Heated Bronze Helm Skullcap using Forge.

@@ -1,26 +1,26 @@
-Blades Making I 200 Combine Broadsword Handle, Platinum Steel Broadsword Blade, into 0 Platinum Steel Broadsword Kit using Smith Table (combine).
-Blades Making I 200 Combine Sword Handle, Platinum Steel Falchion Blade, into 0 Platinum Steel Falchion Kit using Smith Table (combine).
-Blades Making I 200 Forge Heated Platinum Steel Broadsword Alpha Blade into Super Heated Platinum Steel Broadsword Alpha Blade using Forge.
-Blades Making I 200 Forge Heated Platinum Steel Broadsword Brittle Blade into Super Heated Platinum Steel Broadsword Dull Blade using Forge.
-Blades Making I 200 Forge Heated Platinum Steel Falchion Alpha Blade into Super Heated Platinum Steel Falchion Alpha Blade using Forge.
-Blades Making I 200 Forge Heated Platinum Steel Falchion Brittle Blade into Super Heated Platinum Steel Falchion Dull Blade using Forge.
-Blades Making I 200 Forge Platinum Steel Broadsword Alpha Blade into Heated Platinum Steel Broadsword Alpha Blade using Forge.
-Blades Making I 200 Forge Platinum Steel Broadsword Brittle Blade into Heated Platinum Steel Broadsword Brittle Blade using Forge.
-Blades Making I 200 Forge Platinum Steel Falchion Alpha Blade into Heated Platinum Steel Falchion Alpha Blade using Forge.
-Blades Making I 200 Forge Platinum Steel Falchion Brittle Blade into Heated Platinum Steel Falchion Brittle Blade using Forge.
-Blades Making I 200 Forge Super Heated Platinum Steel Broadsword Alpha Blade into Red Hot Platinum Steel Broadsword Alpha Blade using Forge.
-Blades Making I 200 Forge Super Heated Platinum Steel Falchion Alpha Blade into Red Hot Platinum Steel Falchion Alpha Blade using Forge.
-Blades Making I 200 Furrow Platinum Steel Broadsword Rough Blade into Platinum Steel Broadsword Blade using Smith Table with a Furrower.
-Blades Making I 200 Quench Red Hot Platinum Steel Broadsword Alpha Blade into Platinum Steel Broadsword Brittle Blade using Quench Tank.
-Blades Making I 200 Quench Red Hot Platinum Steel Falchion Alpha Blade into Platinum Steel Falchion Brittle Blade using Quench Tank.
-Blades Making I 200 Quench Super Heated Platinum Steel Broadsword Dull Blade into Platinum Steel Broadsword Dull Blade using Quench Tank.
-Blades Making I 200 Quench Super Heated Platinum Steel Falchion Dull Blade into Platinum Steel Falchion Dull Blade using Quench Tank.
-Blades Making I 200 Shape 2 Heated Platinum Steel Stock into Platinum Steel Falchion Alpha Blade using Anvil with a Hammer.
-Blades Making I 200 Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
-Blades Making I 200 Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
-Blades Making I 200 Shape 4 Heated Platinum Steel Stock into Platinum Steel Broadsword Alpha Blade using Anvil with a Hammer.
-Blades Making I 200 Sharpen Platinum Steel Broadsword Dull Blade into Platinum Steel Broadsword Rough Blade using Sharpening Stone.
-Blades Making I 200 Sharpen Platinum Steel Falchion Dull Blade into Platinum Steel Falchion Blade using Sharpening Stone.
+Blades Making i 200 Combine Broadsword Handle, Platinum Steel Broadsword Blade, into 0 Platinum Steel Broadsword Kit using Smith Table (combine).
+Blades Making i 200 Combine Sword Handle, Platinum Steel Falchion Blade, into 0 Platinum Steel Falchion Kit using Smith Table (combine).
+Blades Making i 200 Forge Heated Platinum Steel Broadsword Alpha Blade into Super Heated Platinum Steel Broadsword Alpha Blade using Forge.
+Blades Making i 200 Forge Heated Platinum Steel Broadsword Brittle Blade into Super Heated Platinum Steel Broadsword Dull Blade using Forge.
+Blades Making i 200 Forge Heated Platinum Steel Falchion Alpha Blade into Super Heated Platinum Steel Falchion Alpha Blade using Forge.
+Blades Making i 200 Forge Heated Platinum Steel Falchion Brittle Blade into Super Heated Platinum Steel Falchion Dull Blade using Forge.
+Blades Making i 200 Forge Platinum Steel Broadsword Alpha Blade into Heated Platinum Steel Broadsword Alpha Blade using Forge.
+Blades Making i 200 Forge Platinum Steel Broadsword Brittle Blade into Heated Platinum Steel Broadsword Brittle Blade using Forge.
+Blades Making i 200 Forge Platinum Steel Falchion Alpha Blade into Heated Platinum Steel Falchion Alpha Blade using Forge.
+Blades Making i 200 Forge Platinum Steel Falchion Brittle Blade into Heated Platinum Steel Falchion Brittle Blade using Forge.
+Blades Making i 200 Forge Super Heated Platinum Steel Broadsword Alpha Blade into Red Hot Platinum Steel Broadsword Alpha Blade using Forge.
+Blades Making i 200 Forge Super Heated Platinum Steel Falchion Alpha Blade into Red Hot Platinum Steel Falchion Alpha Blade using Forge.
+Blades Making i 200 Furrow Platinum Steel Broadsword Rough Blade into Platinum Steel Broadsword Blade using Smith Table with a Furrower.
+Blades Making i 200 Quench Red Hot Platinum Steel Broadsword Alpha Blade into Platinum Steel Broadsword Brittle Blade using Quench Tank.
+Blades Making i 200 Quench Red Hot Platinum Steel Falchion Alpha Blade into Platinum Steel Falchion Brittle Blade using Quench Tank.
+Blades Making i 200 Quench Super Heated Platinum Steel Broadsword Dull Blade into Platinum Steel Broadsword Dull Blade using Quench Tank.
+Blades Making i 200 Quench Super Heated Platinum Steel Falchion Dull Blade into Platinum Steel Falchion Dull Blade using Quench Tank.
+Blades Making i 200 Shape 2 Heated Platinum Steel Stock into Platinum Steel Falchion Alpha Blade using Anvil with a Hammer.
+Blades Making i 200 Shape 2 Heated Steel Ingot into Sword Handle using Anvil with a Hammer.
+Blades Making i 200 Shape 3 Heated Steel Ingot into Broadsword Handle using Anvil with a Hammer.
+Blades Making i 200 Shape 4 Heated Platinum Steel Stock into Platinum Steel Broadsword Alpha Blade using Anvil with a Hammer.
+Blades Making i 200 Sharpen Platinum Steel Broadsword Dull Blade into Platinum Steel Broadsword Rough Blade using Sharpening Stone.
+Blades Making i 200 Sharpen Platinum Steel Falchion Dull Blade into Platinum Steel Falchion Blade using Sharpening Stone.
 Blades Making O 200 Forge Broadsword Handle into Heated Broadsword Handle using Forge.
 Blades Making O 200 Forge Heated Broadsword Handle into Super Heated Broadsword Handle using Forge.
 Blades Making O 200 Forge Heated Platinum Steel Broadsword Beta Blade into Super Heated Platinum Steel Broadsword Beta Blade using Forge.

@@ -1,40 +1,40 @@
-Alchemy I 0 Amalgamate Smith's Soup Mix into Smith's Soup using Melting Pot with a Glass Stirrer.
-Alchemy I 0 Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Small chunk of Copper Ore, Small chunk of Zinc Ore, 3 Small chunk of Coal, into 0 Brasser Steak Mix using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Small chunk of Copper Ore, Small chunk of Zinc Ore, 3 Small chunk of Coal, Silver Solution, into 0 Shiny Brasser Steak Mix using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Small chunk of Gold Ore, 2 Small chunk of Silver Ore, Gold Solution, Silver Solution, into 0 Green Gold Steak Mix using Alchemy Table (combine).
-Alchemy I 0 Combine 3 Small chunk of Coal, Powdered Tin, Powdered Copper, Stibine, into 0 Bronzed coal Mix using Alchemy Table (combine).
-Alchemy I 0 Combine 3 Small chunk of Iron, Gold Solution, Tartar, into 0 Blue Gold Floater Mix using Alchemy Table (combine).
-Alchemy I 0 Combine 3 Small chunk of Zinc Ore, Zinc Solution, into 0 Zincer's Dish Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Big chunk of Coal, 3 Small chunk of Tin Ore, Stibine, into 0 Tin Burger Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Big chunk of Copper Ore, 3 Small chunk of Coal, Gold Solution, into 0 Copper Steak Shiny Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Big chunk of Copper Ore, 3 Small chunk of Coal, into 0 Copper Steak Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Big chunk of Gold Ore, Gold Solution, Copper Solution, Stibine, into 0 Big Red Gold Steak Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Big chunk of Gold Ore, Gold Solution, Iron Solution, Tartar, into 0 Big Blue Gold Steak Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Big chunk of Iron Ore, 3 Small chunk of Coal, Gold Solution, into 0 Smith's Steak Shiny Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Big chunk of Iron Ore, 3 Small chunk of Coal, into 0 Smith's Steak Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Big chunk of Silver Ore, Silver Solution, Copper Solution, into 0 Minter's Silver Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, 3 Salt spirit, Powdered Gold, into 0 Mix of Gold niter and salt spirit using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Coal, Copper Ore Solution, Zinc Ore Solution, 2 Small chunk of Coal, into 0 Brasser Soup Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Coal, Gold Solution, Silver Ore Solution, 2 Small chunk of Coal, into 0 Electrum Soup Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Coal, Gold Solution, Silver Ore Solution, Shards of Diamond Crystal, into 0 Green Gold Soup Surprise Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Coal, Iron Ore Solution, 2 Small chunk of Coal, Stibine, into 0 Smith's Soup Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Coal, Tin Ore Solution, Copper Ore Solution, 2 Small chunk of Coal, into 0 Bronze Soup Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Copper, 2 Oil of Vitriol, into 0 Mix of Copper and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Copper Ore, 2 Oil of Vitriol, into 0 Mix of Copper ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Gold, Iron Solution, 2 Small chunk of Gold, into 0 Blue Gold Sauce Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Iron, 2 Oil of Vitriol, into 0 Mix of Iron and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Iron Ore, 2 Oil of Vitriol, into 0 Mix of Iron ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Iron, Powdered Zinc, Powdered Copper, 3 Small chunk of Coal, into 0 Smith Bronzed Brasser Steak Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Silver, 2 Oil of Vitriol, into 0 Mix of Silver and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Silver Ore, 2 Oil of Vitriol, into 0 Mix of Silver ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Tin Ore, 2 Oil of Vitriol, into 0 Mix of Tin ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Zinc, 2 Oil of Vitriol, into 0 Mix of Zinc and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Zinc Ore, 2 Oil of Vitriol, into 0 Mix of Zinc ore and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Small chunk of Gold Ore, Small chunk of Silver Ore, Small chunk of Copper Ore, Silver Solution, Copper Solution, into 0 Electrum Mixer Dish Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Small chunk of Gold Ore, Small chunk of Silver Ore, Small chunk of Copper Ore, Small chunk of Tin Ore, Powdered Iron, into 0 Forge Mixer Dish Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Small chunk of Zinc, Silver Solution, Stibine, into 0 Minter's Floater Mix using Alchemy Table (combine).
+Alchemy P 0 Amalgamate Smith's Soup Mix into Smith's Soup using Melting Pot with a Glass Stirrer.
+Alchemy i 0 Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Small chunk of Copper Ore, Small chunk of Zinc Ore, 3 Small chunk of Coal, into 0 Brasser Steak Mix using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Small chunk of Copper Ore, Small chunk of Zinc Ore, 3 Small chunk of Coal, Silver Solution, into 0 Shiny Brasser Steak Mix using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Small chunk of Gold Ore, 2 Small chunk of Silver Ore, Gold Solution, Silver Solution, into 0 Green Gold Steak Mix using Alchemy Table (combine).
+Alchemy i 0 Combine 3 Small chunk of Coal, Powdered Tin, Powdered Copper, Stibine, into 0 Bronzed coal Mix using Alchemy Table (combine).
+Alchemy i 0 Combine 3 Small chunk of Iron, Gold Solution, Tartar, into 0 Blue Gold Floater Mix using Alchemy Table (combine).
+Alchemy i 0 Combine 3 Small chunk of Zinc Ore, Zinc Solution, into 0 Zincer's Dish Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Big chunk of Coal, 3 Small chunk of Tin Ore, Stibine, into 0 Tin Burger Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Big chunk of Copper Ore, 3 Small chunk of Coal, Gold Solution, into 0 Copper Steak Shiny Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Big chunk of Copper Ore, 3 Small chunk of Coal, into 0 Copper Steak Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Big chunk of Gold Ore, Gold Solution, Copper Solution, Stibine, into 0 Big Red Gold Steak Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Big chunk of Gold Ore, Gold Solution, Iron Solution, Tartar, into 0 Big Blue Gold Steak Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Big chunk of Iron Ore, 3 Small chunk of Coal, Gold Solution, into 0 Smith's Steak Shiny Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Big chunk of Iron Ore, 3 Small chunk of Coal, into 0 Smith's Steak Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Big chunk of Silver Ore, Silver Solution, Copper Solution, into 0 Minter's Silver Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, 3 Salt spirit, Powdered Gold, into 0 Mix of Gold niter and salt spirit using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Coal, Copper Ore Solution, Zinc Ore Solution, 2 Small chunk of Coal, into 0 Brasser Soup Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Coal, Gold Solution, Silver Ore Solution, 2 Small chunk of Coal, into 0 Electrum Soup Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Coal, Gold Solution, Silver Ore Solution, Shards of Diamond Crystal, into 0 Green Gold Soup Surprise Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Coal, Iron Ore Solution, 2 Small chunk of Coal, Stibine, into 0 Smith's Soup Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Coal, Tin Ore Solution, Copper Ore Solution, 2 Small chunk of Coal, into 0 Bronze Soup Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Copper, 2 Oil of Vitriol, into 0 Mix of Copper and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Copper Ore, 2 Oil of Vitriol, into 0 Mix of Copper ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Gold, Iron Solution, 2 Small chunk of Gold, into 0 Blue Gold Sauce Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Iron, 2 Oil of Vitriol, into 0 Mix of Iron and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Iron Ore, 2 Oil of Vitriol, into 0 Mix of Iron ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Iron, Powdered Zinc, Powdered Copper, 3 Small chunk of Coal, into 0 Smith Bronzed Brasser Steak Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Silver, 2 Oil of Vitriol, into 0 Mix of Silver and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Silver Ore, 2 Oil of Vitriol, into 0 Mix of Silver ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Tin Ore, 2 Oil of Vitriol, into 0 Mix of Tin ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Zinc, 2 Oil of Vitriol, into 0 Mix of Zinc and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Zinc Ore, 2 Oil of Vitriol, into 0 Mix of Zinc ore and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Small chunk of Gold Ore, Small chunk of Silver Ore, Small chunk of Copper Ore, Silver Solution, Copper Solution, into 0 Electrum Mixer Dish Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Small chunk of Gold Ore, Small chunk of Silver Ore, Small chunk of Copper Ore, Small chunk of Tin Ore, Powdered Iron, into 0 Forge Mixer Dish Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Small chunk of Zinc, Silver Solution, Stibine, into 0 Minter's Floater Mix using Alchemy Table (combine).
 Alchemy I 0 Corrode Mix of Copper ore and vitriol into 2 Copper Ore Solution using Crucible with a Glass Stirrer.
 Alchemy I 0 Corrode Mix of Iron ore and vitriol into 2 Iron Ore Solution using Crucible with a Glass Stirrer.
 Alchemy I 0 Corrode Mix of salt and vitriol into 2 Salt spirit using Crucible with a Glass Stirrer.
@@ -71,7 +71,7 @@ Alchemy I 0 Pulverize Diamond Crystal into 2 Powdered Diamond Crystal using Mort
 Alchemy I 0 Pulverize Emerald Crystal into 2 Powdered Emerald Crystal using Mortar and Pestle.
 Alchemy I 0 Pulverize Ruby Crystal into 2 Powdered Ruby Crystal using Mortar and Pestle.
 Alchemy I 0 Pulverize Sapphire Crystal into 2 Powdered Sapphire Crystal using Mortar and Pestle.
-Alchemy I <9 Amalgamate Electrum Soup Mix into Electrum Soup using Melting Pot with a Glass Stirrer.
+Alchemy P <9 Amalgamate Electrum Soup Mix into Electrum Soup using Melting Pot with a Glass Stirrer.
 Alchemy I <9 Corrode Mix of Copper and vitriol into 2 Copper Solution using Crucible with a Glass Stirrer.
 Alchemy I >9 Corrode Mix of Gold niter and salt spirit into 2 Gold Solution using Crucible with a Glass Stirrer.
 Alchemy I <9 Corrode Mix of Iron and vitriol into 2 Iron Solution using Crucible with a Glass Stirrer.
@@ -93,7 +93,7 @@ Alchemy I <9 Grind Copper Ore into Powdered Copper Ore using Alchemist Table wit
 Alchemy I <9 Grind Gold Ingot into Powdered Gold using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Grind Iron Ingot into Powdered Iron using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Grind Tin Ingot into Powdered Tin using Alchemist Table with a Wooden Mallet.
-Alchemy O <9 Grind Zinc Ingot into Powdered Zinc using Alchemist Table with a Wooden Mallet.
+Alchemy I <9 Grind Zinc Ingot into Powdered Zinc using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Grind Zinc Ore into Powdered Zinc Ore using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Hammer Big chunk of Copper into 3 Small chunk of Copper using Alchemist Table with a Wooden Mallet.
 Alchemy I <9 Hammer Big chunk of Gold into 3 Small chunk of Gold using Alchemist Table with a Wooden Mallet.

@@ -1,81 +1,81 @@
-Brewing I 200 Brew Juiceberry Base into Brewed Juiceberry Base using Brewer's Vat.
-Brewing I 200 Brew Macca Base into Brewed Macca Base using Brewer's Vat.
-Brewing I 200 Brew Mead Base into Brewed Mead Base using Brewer's Vat.
-Brewing I 200 Brew Terevan Berry Base into Brewed Terevan Berry Base using Brewer's Vat.
-Brewing I 200 Combine 2 Black Roasted Malt, Pot of Hot Water, into 0 Black Mash using Preparation Table (combine).
-Brewing I 200 Combine 2 Brown Roasted Malt, Pot of Hot Water, into 0 Brown Mash using Preparation Table (combine).
-Brewing I 200 Combine 2 Crystal Roasted Malt, Pot of Hot Water, into 0 Crystal Mash using Preparation Table (combine).
-Brewing I 200 Combine 2 Dry Roasted Malt, Pot of Hot Water, into 0 Beer Mash using Preparation Table (combine).
-Brewing I 200 Combine 2 Golden Roasted Malt, Pot of Hot Water, into 0 Golden Mash using Preparation Table (combine).
-Brewing I 200 Combine 2 Pale Roasted Malt, Pot of Hot Water, into 0 Pale Mash using Preparation Table (combine).
-Brewing I 200 Combine 5 Dandelion Flower, Pot of Hot Water, into 0 Steeping Dandelion Flower using Preparation Table (combine).
-Brewing I 200 Combine 5 Dandelion Pulp, Mead Base, into 0 Dandelion Base using Preparation Table (combine).
-Brewing I 200 Combine 5 Joopiner Berry Pulp, Mead Base, into 0 Joopiner Berry Base using Preparation Table (combine).
-Brewing I 200 Combine 5 Juiceberry Pulp, Mead Base, into 0 Juiceberry Base using Preparation Table (combine).
-Brewing I 200 Combine 5 Macca Pulp, Mead Base, into 0 Macca Base using Preparation Table (combine).
-Brewing I 200 Combine 5 Terevan Berry Pulp, Mead Base, into 0 Terevan Berry Base using Preparation Table (combine).
-Brewing I 200 Combine 8 Honey, Pot of Boiling Water, into 0 Mead Base using Preparation Table (combine).
-Brewing I 200 Combine Brewed Mead Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Mead using Preparation Table (combine).
-Brewing I 200 Combine Cooled Beer Mash, Liquid Bread Rise, into 0 Beer Wort using Preparation Table (combine).
-Brewing I 200 Combine Cooled Bitter Mash, Liquid Bread Rise, into 0 Bitter Wort using Preparation Table (combine).
-Brewing I 200 Combine Cooled Brown Ale Mash, Liquid Bread Rise, into 0 Brown Ale Wort using Preparation Table (combine).
-Brewing I 200 Combine Cooled Lager Mash, Liquid Bread Rise, into 0 Lager Wort using Preparation Table (combine).
-Brewing I 200 Combine Cooled Pale Ale Mash, Liquid Bread Rise, into 0 Pale Ale Wort using Preparation Table (combine).
-Brewing I 200 Combine Cooled Stout Mash, Liquid Bread Rise, into 0 Stout Wort using Preparation Table (combine).
-Brewing I 200 Combine Heated Beer Mash, 8 Hops, into 0 Boiling Beer Mash using Preparation Table (combine).
-Brewing I 200 Combine Heated Black Mash, 8 Hops, 2 Pot of Boiling Water, into 0 Boiling Stout Mash using Preparation Table (combine).
-Brewing I 200 Combine Heated Brown Mash, 9 Hops, 2 Pot of Boiling Water, into 0 Boiling Brown Ale Mash using Preparation Table (combine).
-Brewing I 200 Combine Heated Crystal Mash, 9 Hops, 2 Pot of Boiling Water, into 0 Boiling Lager Mash using Preparation Table (combine).
-Brewing I 200 Combine Heated Golden Mash, 10 Hops, 2 Pot of Boiling Water, into 0 Boiling Bitter Mash using Preparation Table (combine).
-Brewing I 200 Combine Heated Pale Mash, 8 Hops, 2 Pot of Boiling Water, into 0 Boiling Pale Ale Mash using Preparation Table (combine).
-Brewing I 200 Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise using Preparation Table (combine).
-Brewing I 200 Combine Strained Dandelion Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Dandelion Melomel using Preparation Table (combine).
-Brewing I 200 Combine Strained Joopiner Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Joopiner Melomel using Preparation Table (combine).
-Brewing I 200 Combine Strained Juiceberry Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Juiceberry Melomel using Preparation Table (combine).
-Brewing I 200 Combine Strained Macca Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Macca Melomel using Preparation Table (combine).
-Brewing I 200 Combine Strained Terevan Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Terevan Melomel using Preparation Table (combine).
-Brewing I 200 Cool Boiling Beer Mash into Cooled Beer Mash using Brewer's Vat.
-Brewing I 200 Cool Boiling Bitter Mash into Cooled Bitter Mash using Brewer's Vat.
-Brewing I 200 Cool Boiling Brown Ale Mash into Cooled Brown Ale Mash using Brewer's Vat.
-Brewing I 200 Cool Boiling Lager Mash into Cooled Lager Mash using Brewer's Vat.
-Brewing I 200 Cool Boiling Pale Ale Mash into Cooled Pale Ale Mash using Brewer's Vat.
-Brewing I 200 Cool Boiling Stout Mash into Cooled Stout Mash using Brewer's Vat.
-Brewing I 200 Grind Black Roasted Barley into Black Roasted Malt using Mill Stone.
-Brewing I 200 Grind Brown Roasted Barley into Brown Roasted Malt using Mill Stone.
-Brewing I 200 Grind Crystal Roasted Barley into Crystal Roasted Malt using Mill Stone.
-Brewing I 200 Grind Dry Roasted Barley into Dry Roasted Malt using Mill Stone.
-Brewing I 200 Grind Golden Roasted Barley into Golden Roasted Malt using Mill Stone.
-Brewing I 200 Grind Pale Roasted Barley into Pale Roasted Malt using Mill Stone.
-Brewing I 200 Heat 2 Water Pouch into Mug of Hot Water using Pot.
-Brewing I 200 Heat Beer Mash into Heated Beer Mash using Pot.
-Brewing I 200 Heat Black Mash into Heated Black Mash using Pot.
-Brewing I 200 Heat Brown Mash into Heated Brown Mash using Pot.
-Brewing I 200 Heat Crystal Mash into Heated Crystal Mash using Pot.
-Brewing I 200 Heat Full Pot of Water into Pot of Hot Water using Pot.
-Brewing I 200 Heat Golden Mash into Heated Golden Mash using Pot.
-Brewing I 200 Heat Pale Mash into Heated Pale Mash using Pot.
-Brewing I 200 Heat Pot of Hot Water into Pot of Simmering Water using Pot.
-Brewing I 200 Heat Pot of Simmering Water into Pot of Boiling Water using Pot.
-Brewing I 200 Heat Water Filled Bucket into Full Pot of Water using Pot.
-Brewing I 200 Measure Sack of Powdered Bread Rise into 25 Dash of Powdered Bread Rise using Preparation Table with a Scoop.
-Brewing I 200 Measure Sack of Strimptor into 5 Scoop of Strimptor using Preparation Table with a Scoop.
-Brewing I 200 Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
-Brewing I 200 Press Bunch of Joopiner Berries into Joopiner Berry Pulp using Fruit Press.
-Brewing I 200 Press Bunch of Terevan Berries into Terevan Berry Pulp using Fruit Press.
-Brewing I 200 Press Juiceberry Fruit into Juiceberry Pulp using Fruit Press.
-Brewing I 200 Press Macca into Macca Pulp using Fruit Press.
-Brewing I 200 Press Steeping Dandelion Flower into Dandelion Pulp using Fruit Press.
-Brewing I 200 Roast Brown Roasted Barley into Black Roasted Barley using Brewer's Kiln.
-Brewing I 200 Roast Crystal Roasted Barley into Golden Roasted Barley using Brewer's Kiln.
-Brewing I 200 Roast Dry Roasted Barley into Pale Roasted Barley using Brewer's Kiln.
-Brewing I 200 Roast Golden Roasted Barley into Brown Roasted Barley using Brewer's Kiln.
-Brewing I 200 Roast Pale Roasted Barley into Crystal Roasted Barley using Brewer's Kiln.
-Brewing I 200 Roast Sack of Barley into Dry Roasted Barley using Brewer's Kiln.
-Brewing I 200 Strain Brewed Dandelion Base into Strained Dandelion Base using Brewer's Vat with a Strainer.
-Brewing I 200 Strain Brewed Joopiner Berry Base into Strained Joopiner Base using Brewer's Vat with a Strainer.
-Brewing I 200 Strain Brewed Juiceberry Base into Strained Juiceberry Base using Brewer's Vat with a Strainer.
-Brewing I 200 Strain Brewed Macca Base into Strained Macca Base using Brewer's Vat with a Strainer.
-Brewing I 200 Strain Brewed Terevan Berry Base into Strained Terevan Base using Brewer's Vat with a Strainer.
+Brewing i 200 Brew Juiceberry Base into Brewed Juiceberry Base using Brewer's Vat.
+Brewing i 200 Brew Macca Base into Brewed Macca Base using Brewer's Vat.
+Brewing i 200 Brew Mead Base into Brewed Mead Base using Brewer's Vat.
+Brewing i 200 Brew Terevan Berry Base into Brewed Terevan Berry Base using Brewer's Vat.
+Brewing i 200 Combine 2 Black Roasted Malt, Pot of Hot Water, into 0 Black Mash using Preparation Table (combine).
+Brewing i 200 Combine 2 Brown Roasted Malt, Pot of Hot Water, into 0 Brown Mash using Preparation Table (combine).
+Brewing i 200 Combine 2 Crystal Roasted Malt, Pot of Hot Water, into 0 Crystal Mash using Preparation Table (combine).
+Brewing i 200 Combine 2 Dry Roasted Malt, Pot of Hot Water, into 0 Beer Mash using Preparation Table (combine).
+Brewing i 200 Combine 2 Golden Roasted Malt, Pot of Hot Water, into 0 Golden Mash using Preparation Table (combine).
+Brewing i 200 Combine 2 Pale Roasted Malt, Pot of Hot Water, into 0 Pale Mash using Preparation Table (combine).
+Brewing i 200 Combine 5 Dandelion Flower, Pot of Hot Water, into 0 Steeping Dandelion Flower using Preparation Table (combine).
+Brewing i 200 Combine 5 Dandelion Pulp, Mead Base, into 0 Dandelion Base using Preparation Table (combine).
+Brewing i 200 Combine 5 Joopiner Berry Pulp, Mead Base, into 0 Joopiner Berry Base using Preparation Table (combine).
+Brewing i 200 Combine 5 Juiceberry Pulp, Mead Base, into 0 Juiceberry Base using Preparation Table (combine).
+Brewing i 200 Combine 5 Macca Pulp, Mead Base, into 0 Macca Base using Preparation Table (combine).
+Brewing i 200 Combine 5 Terevan Berry Pulp, Mead Base, into 0 Terevan Berry Base using Preparation Table (combine).
+Brewing i 200 Combine 8 Honey, Pot of Boiling Water, into 0 Mead Base using Preparation Table (combine).
+Brewing i 200 Combine Brewed Mead Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Mead using Preparation Table (combine).
+Brewing i 200 Combine Cooled Beer Mash, Liquid Bread Rise, into 0 Beer Wort using Preparation Table (combine).
+Brewing i 200 Combine Cooled Bitter Mash, Liquid Bread Rise, into 0 Bitter Wort using Preparation Table (combine).
+Brewing i 200 Combine Cooled Brown Ale Mash, Liquid Bread Rise, into 0 Brown Ale Wort using Preparation Table (combine).
+Brewing i 200 Combine Cooled Lager Mash, Liquid Bread Rise, into 0 Lager Wort using Preparation Table (combine).
+Brewing i 200 Combine Cooled Pale Ale Mash, Liquid Bread Rise, into 0 Pale Ale Wort using Preparation Table (combine).
+Brewing i 200 Combine Cooled Stout Mash, Liquid Bread Rise, into 0 Stout Wort using Preparation Table (combine).
+Brewing i 200 Combine Heated Beer Mash, 8 Hops, into 0 Boiling Beer Mash using Preparation Table (combine).
+Brewing i 200 Combine Heated Black Mash, 8 Hops, 2 Pot of Boiling Water, into 0 Boiling Stout Mash using Preparation Table (combine).
+Brewing i 200 Combine Heated Brown Mash, 9 Hops, 2 Pot of Boiling Water, into 0 Boiling Brown Ale Mash using Preparation Table (combine).
+Brewing i 200 Combine Heated Crystal Mash, 9 Hops, 2 Pot of Boiling Water, into 0 Boiling Lager Mash using Preparation Table (combine).
+Brewing i 200 Combine Heated Golden Mash, 10 Hops, 2 Pot of Boiling Water, into 0 Boiling Bitter Mash using Preparation Table (combine).
+Brewing i 200 Combine Heated Pale Mash, 8 Hops, 2 Pot of Boiling Water, into 0 Boiling Pale Ale Mash using Preparation Table (combine).
+Brewing i 200 Combine Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, Mug of Hot Water, Scoop of Strimptor, 4 Dash of Powdered Bread Rise, into 0 Liquid Bread Rise using Preparation Table (combine).
+Brewing i 200 Combine Strained Dandelion Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Dandelion Melomel using Preparation Table (combine).
+Brewing i 200 Combine Strained Joopiner Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Joopiner Melomel using Preparation Table (combine).
+Brewing i 200 Combine Strained Juiceberry Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Juiceberry Melomel using Preparation Table (combine).
+Brewing i 200 Combine Strained Macca Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Macca Melomel using Preparation Table (combine).
+Brewing i 200 Combine Strained Terevan Base, Water Filled Bucket, Liquid Bread Rise, into 0 Half Brewed Terevan Melomel using Preparation Table (combine).
+Brewing i 200 Cool Boiling Beer Mash into Cooled Beer Mash using Brewer's Vat.
+Brewing i 200 Cool Boiling Bitter Mash into Cooled Bitter Mash using Brewer's Vat.
+Brewing i 200 Cool Boiling Brown Ale Mash into Cooled Brown Ale Mash using Brewer's Vat.
+Brewing i 200 Cool Boiling Lager Mash into Cooled Lager Mash using Brewer's Vat.
+Brewing i 200 Cool Boiling Pale Ale Mash into Cooled Pale Ale Mash using Brewer's Vat.
+Brewing i 200 Cool Boiling Stout Mash into Cooled Stout Mash using Brewer's Vat.
+Brewing i 200 Grind Black Roasted Barley into Black Roasted Malt using Mill Stone.
+Brewing i 200 Grind Brown Roasted Barley into Brown Roasted Malt using Mill Stone.
+Brewing i 200 Grind Crystal Roasted Barley into Crystal Roasted Malt using Mill Stone.
+Brewing i 200 Grind Dry Roasted Barley into Dry Roasted Malt using Mill Stone.
+Brewing i 200 Grind Golden Roasted Barley into Golden Roasted Malt using Mill Stone.
+Brewing i 200 Grind Pale Roasted Barley into Pale Roasted Malt using Mill Stone.
+Brewing i 200 Heat 2 Water Pouch into Mug of Hot Water using Pot.
+Brewing i 200 Heat Beer Mash into Heated Beer Mash using Pot.
+Brewing i 200 Heat Black Mash into Heated Black Mash using Pot.
+Brewing i 200 Heat Brown Mash into Heated Brown Mash using Pot.
+Brewing i 200 Heat Crystal Mash into Heated Crystal Mash using Pot.
+Brewing i 200 Heat Full Pot of Water into Pot of Hot Water using Pot.
+Brewing i 200 Heat Golden Mash into Heated Golden Mash using Pot.
+Brewing i 200 Heat Pale Mash into Heated Pale Mash using Pot.
+Brewing i 200 Heat Pot of Hot Water into Pot of Simmering Water using Pot.
+Brewing i 200 Heat Pot of Simmering Water into Pot of Boiling Water using Pot.
+Brewing i 200 Heat Water Filled Bucket into Full Pot of Water using Pot.
+Brewing i 200 Measure Sack of Powdered Bread Rise into 25 Dash of Powdered Bread Rise using Preparation Table with a Scoop.
+Brewing i 200 Measure Sack of Strimptor into 5 Scoop of Strimptor using Preparation Table with a Scoop.
+Brewing i 200 Measure Water Filled Bucket into 28 Water Pouch using Preparation Table with a Scoop.
+Brewing i 200 Press Bunch of Joopiner Berries into Joopiner Berry Pulp using Fruit Press.
+Brewing i 200 Press Bunch of Terevan Berries into Terevan Berry Pulp using Fruit Press.
+Brewing i 200 Press Juiceberry Fruit into Juiceberry Pulp using Fruit Press.
+Brewing i 200 Press Macca into Macca Pulp using Fruit Press.
+Brewing i 200 Press Steeping Dandelion Flower into Dandelion Pulp using Fruit Press.
+Brewing i 200 Roast Brown Roasted Barley into Black Roasted Barley using Brewer's Kiln.
+Brewing i 200 Roast Crystal Roasted Barley into Golden Roasted Barley using Brewer's Kiln.
+Brewing i 200 Roast Dry Roasted Barley into Pale Roasted Barley using Brewer's Kiln.
+Brewing i 200 Roast Golden Roasted Barley into Brown Roasted Barley using Brewer's Kiln.
+Brewing i 200 Roast Pale Roasted Barley into Crystal Roasted Barley using Brewer's Kiln.
+Brewing i 200 Roast Sack of Barley into Dry Roasted Barley using Brewer's Kiln.
+Brewing i 200 Strain Brewed Dandelion Base into Strained Dandelion Base using Brewer's Vat with a Strainer.
+Brewing i 200 Strain Brewed Joopiner Berry Base into Strained Joopiner Base using Brewer's Vat with a Strainer.
+Brewing i 200 Strain Brewed Juiceberry Base into Strained Juiceberry Base using Brewer's Vat with a Strainer.
+Brewing i 200 Strain Brewed Macca Base into Strained Macca Base using Brewer's Vat with a Strainer.
+Brewing i 200 Strain Brewed Terevan Berry Base into Strained Terevan Base using Brewer's Vat with a Strainer.
 Brewing P 200 Brew Beer Wort into Beer Keg using Brewer's Vat.
 Brewing P 200 Brew Bitter Wort into Bitter Beer Keg using Brewer's Vat.
 Brewing P 200 Brew Brown Ale Wort into Brown Ale Keg using Brewer's Vat.

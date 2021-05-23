@@ -1,6 +1,6 @@
-Herbal I 0 Combine Gobo Oil, Blackbush Powder, into 0 Unfinished Gobo Salve using Preparation Table (combine).
-Herbal I 0 Combine Lavender Oil, Sicklepod Powder, into 0 Unfinished Lavender Salve using Preparation Table (combine).
-Herbal I 30 Grind Sicklepod Flower into Sicklepod Powder using Mortar and Pestle.
-Herbal I <34 Grind Blackbush Stem into Blackbush Powder using Mortar and Pestle.
+Herbal i 0 Combine Gobo Oil, Blackbush Powder, into 0 Unfinished Gobo Salve using Preparation Table (combine).
+Herbal i 0 Combine Lavender Oil, Sicklepod Powder, into 0 Unfinished Lavender Salve using Preparation Table (combine).
+Herbal i 30 Grind Sicklepod Flower into Sicklepod Powder using Mortar and Pestle.
+Herbal i <34 Grind Blackbush Stem into Blackbush Powder using Mortar and Pestle.
 Herbal P 30 Heat Unfinished Lavender Salve into Lavender Salve using Pot.
 Herbal P <34 Heat Unfinished Gobo Salve into Gobo Salve using Pot.

@@ -22,16 +22,16 @@ Blacksmith O 85 Hammer Super Heated Platinum Steel Ingot into Platinum Steel Ing
 Blacksmith O 95 Hammer Heated Platinum Steel Stock into Platinum Steel Stock using Anvil with a Hammer.
 Blacksmith O 95 Hammer Red Hot Platinum Steel Stock into Platinum Steel Stock using Anvil with a Hammer.
 Blacksmith O 95 Hammer Super Heated Platinum Steel Stock into Platinum Steel Stock using Anvil with a Hammer.
-Metallurgy I 10 Forge Bronze Ingot into Heated Bronze Ingot using Forge.
-Metallurgy I 120 Smelt Lumium Ore into Molten Lumium using Furnace.
-Metallurgy I 125 Combine 5 Steel Ingot, 3 Lumium Ingot, Bronze Ingot, into 5 Blue Steel Sludge using Stock Casting (combine).
-Metallurgy I 125 Smelt Blue Steel Sludge into Molten Blue Steel using Furnace.
-Metallurgy I 155 Combine 2 Lumium Ingot, 4 Gold Ingot, 2 Silver Ingot, 3 Ulbernaut Heart, into 5 Tigrain Steel Sludge using Stock Casting (combine).
-Metallurgy I 155 Smelt Tigrain Steel Sludge into Molten Tigrain Steel using Furnace.
-Metallurgy I 5 Forge Steel Ingot into Heated Steel Ingot using Forge.
-Metallurgy I 85 Combine Platinum Ingot, 4 Steel Ingot, Silver Ingot, into 5 Platinum Steel Sludge using Stock Casting (combine).
-Metallurgy I 85 Smelt Platinum Steel Sludge into Molten Platinum Steel using Furnace.
-Metallurgy I 95 Forge Platinum Steel Stock into Heated Platinum Steel Stock using Forge.
+Metallurgy i 10 Forge Bronze Ingot into Heated Bronze Ingot using Forge.
+Metallurgy i 120 Smelt Lumium Ore into Molten Lumium using Furnace.
+Metallurgy i 125 Combine 5 Steel Ingot, 3 Lumium Ingot, Bronze Ingot, into 5 Blue Steel Sludge using Stock Casting (combine).
+Metallurgy i 125 Smelt Blue Steel Sludge into Molten Blue Steel using Furnace.
+Metallurgy i 155 Combine 2 Lumium Ingot, 4 Gold Ingot, 2 Silver Ingot, 3 Ulbernaut Heart, into 5 Tigrain Steel Sludge using Stock Casting (combine).
+Metallurgy i 155 Smelt Tigrain Steel Sludge into Molten Tigrain Steel using Furnace.
+Metallurgy i 5 Forge Steel Ingot into Heated Steel Ingot using Forge.
+Metallurgy i 85 Combine Platinum Ingot, 4 Steel Ingot, Silver Ingot, into 5 Platinum Steel Sludge using Stock Casting (combine).
+Metallurgy i 85 Smelt Platinum Steel Sludge into Molten Platinum Steel using Furnace.
+Metallurgy i 95 Forge Platinum Steel Stock into Heated Platinum Steel Stock using Forge.
 Metallurgy O 10 Forge Heated Bronze Ingot into Super Heated Bronze Ingot using Forge.
 Metallurgy O 10 Forge Super Heated Bronze Ingot into Red Hot Bronze Ingot using Forge.
 Metallurgy O 10 Quench Heated Bronze Ingot into Bronze Ingot using Quench Tank.

@@ -1,28 +1,28 @@
-Alchemy I 0 Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Crystal sludge, Shards of Diamond Crystal, Powdered Diamond Crystal, into 0 Diamond Popsicle Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Crystal sludge, Shards of Emerald Crystal, Powdered Emerald Crystal, into 0 Emerald Popsicle Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Crystal sludge, Shards of Ruby Crystal, Powdered Ruby Crystal, into 0 Ruby Popsicle Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Crystal sludge, Shards of Sapphire Crystal, Powdered Sapphire Crystal, into 0 Sapphire Popsicle Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Distilled Water, Salt spirit, Vitriol salt, Nitric spirit, into 4 Kran Ale Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Gold Solution, Copper Solution, Powdered Diamond Crystal, into 0 Sweet Electrum Sauce Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, 3 Salt spirit, Powdered Gold, into 0 Mix of Gold niter and salt spirit using Alchemy Table (combine).
-Alchemy I 0 Combine Nitric spirit, Salt spirit, Small chunk of Gold Ore, into 3 Golden Sunrise Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Copper, 2 Oil of Vitriol, into 0 Mix of Copper and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Diamond Crystal, Powdered Sapphire Crystal, 2 Salt spirit, into 0 Mixed Diamond and Sapphire Crystal using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Ruby Crystal, Powdered Diamond Crystal, 4 Small chunk of Coal, into 0 Dusted Diamond and Ruby Delight Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Ruby Crystal, Powdered Emerald Crystal, 2 Nitric spirit, into 0 Mixed Ruby and Emerald Crystal using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Sapphire Crystal, Powdered Emerald Crystal, 4 Small chunk of Coal, into 0 Dusted Emerald and Sapphire Delight Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Silver, 2 Oil of Vitriol, into 0 Mix of Silver and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Tin, 2 Oil of Vitriol, into 0 Mix of Tin and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Powdered Zinc, 2 Oil of Vitriol, into 0 Mix of Zinc and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Quicksilver Solution, Nitric spirit, Distilled Water, into 3 Kran Liquor Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Quicksilver Vial, 2 Oil of Vitriol, into 0 Mix of Quicksilver and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine Shards of Sapphire Crystal, Shards of Diamond Crystal, Shards of Ruby Crystal, Shards of Emerald Crystal, into 0 Kran Sweeties Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Silver Solution, Tin Solution, Copper Solution, Powdered Sapphire Crystal, Powdered Emerald Crystal, into 0 Sweet Bronze Sauce Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Small chunk of Iron, Powdered Diamond Crystal, Powdered Ruby Crystal, into 0 Smith's Delight Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Small chunk of Silver Ore, Small chunk of Zinc, Powdered Diamond Crystal, Powdered Ruby Crystal, into 0 Minter's Delight Mix using Alchemy Table (combine).
-Alchemy I 0 Combine Zinc Solution, Copper Solution, Crystal sludge, Powdered Ruby Crystal, into 0 Brassed Delightful Sauce Mix using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Crystal sludge, Shards of Diamond Crystal, Powdered Diamond Crystal, into 0 Diamond Popsicle Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Crystal sludge, Shards of Emerald Crystal, Powdered Emerald Crystal, into 0 Emerald Popsicle Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Crystal sludge, Shards of Ruby Crystal, Powdered Ruby Crystal, into 0 Ruby Popsicle Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Crystal sludge, Shards of Sapphire Crystal, Powdered Sapphire Crystal, into 0 Sapphire Popsicle Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Distilled Water, Salt spirit, Vitriol salt, Nitric spirit, into 4 Kran Ale Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Gold Solution, Copper Solution, Powdered Diamond Crystal, into 0 Sweet Electrum Sauce Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, 3 Salt spirit, Powdered Gold, into 0 Mix of Gold niter and salt spirit using Alchemy Table (combine).
+Alchemy i 0 Combine Nitric spirit, Salt spirit, Small chunk of Gold Ore, into 3 Golden Sunrise Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Copper, 2 Oil of Vitriol, into 0 Mix of Copper and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Diamond Crystal, Powdered Sapphire Crystal, 2 Salt spirit, into 0 Mixed Diamond and Sapphire Crystal using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Ruby Crystal, Powdered Diamond Crystal, 4 Small chunk of Coal, into 0 Dusted Diamond and Ruby Delight Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Ruby Crystal, Powdered Emerald Crystal, 2 Nitric spirit, into 0 Mixed Ruby and Emerald Crystal using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Sapphire Crystal, Powdered Emerald Crystal, 4 Small chunk of Coal, into 0 Dusted Emerald and Sapphire Delight Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Silver, 2 Oil of Vitriol, into 0 Mix of Silver and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Tin, 2 Oil of Vitriol, into 0 Mix of Tin and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Powdered Zinc, 2 Oil of Vitriol, into 0 Mix of Zinc and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Quicksilver Solution, Nitric spirit, Distilled Water, into 3 Kran Liquor Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Quicksilver Vial, 2 Oil of Vitriol, into 0 Mix of Quicksilver and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine Shards of Sapphire Crystal, Shards of Diamond Crystal, Shards of Ruby Crystal, Shards of Emerald Crystal, into 0 Kran Sweeties Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Silver Solution, Tin Solution, Copper Solution, Powdered Sapphire Crystal, Powdered Emerald Crystal, into 0 Sweet Bronze Sauce Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Small chunk of Iron, Powdered Diamond Crystal, Powdered Ruby Crystal, into 0 Smith's Delight Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Small chunk of Silver Ore, Small chunk of Zinc, Powdered Diamond Crystal, Powdered Ruby Crystal, into 0 Minter's Delight Mix using Alchemy Table (combine).
+Alchemy i 0 Combine Zinc Solution, Copper Solution, Crystal sludge, Powdered Ruby Crystal, into 0 Brassed Delightful Sauce Mix using Alchemy Table (combine).
 Alchemy I 0 Corrode Mix of salt and vitriol into 2 Salt spirit using Crucible with a Glass Stirrer.
 Alchemy I 0 Evaporate Mix of niter and vitriol into 2 Vitriol salt using Athanor.
 Alchemy I 0 Evaporate Mix of salt and vitriol into 2 Vitriol salt using Athanor.
@@ -30,11 +30,11 @@ Alchemy I 0 Pulverize Diamond Crystal into 2 Powdered Diamond Crystal using Mort
 Alchemy I 0 Pulverize Emerald Crystal into 2 Powdered Emerald Crystal using Mortar and Pestle.
 Alchemy I 0 Pulverize Ruby Crystal into 2 Powdered Ruby Crystal using Mortar and Pestle.
 Alchemy I 0 Pulverize Sapphire Crystal into 2 Powdered Sapphire Crystal using Mortar and Pestle.
-Alchemy I <34 Amalgamate Diamond Popsicle Mix into 3 Diamond Popsicle using Melting Pot with a Glass Stirrer.
+Alchemy P <34 Amalgamate Diamond Popsicle Mix into 3 Diamond Popsicle using Melting Pot with a Glass Stirrer.
 Alchemy I <34 Amalgamate Mixed Diamond and Sapphire Crystal into Crystal sludge using Melting Pot with a Glass Stirrer.
 Alchemy I <34 Amalgamate Mixed Ruby and Emerald Crystal into Crystal sludge using Melting Pot with a Glass Stirrer.
-Alchemy I <34 Amalgamate Ruby Popsicle Mix into 3 Ruby Popsicle using Melting Pot with a Glass Stirrer.
-Alchemy I <34 Amalgamate Sapphire Popsicle Mix into 3 Sapphire Popsicle using Melting Pot with a Glass Stirrer.
+Alchemy P <34 Amalgamate Ruby Popsicle Mix into 3 Ruby Popsicle using Melting Pot with a Glass Stirrer.
+Alchemy P <34 Amalgamate Sapphire Popsicle Mix into 3 Sapphire Popsicle using Melting Pot with a Glass Stirrer.
 Alchemy I <34 Corrode Mix of Quicksilver and vitriol into 2 Quicksilver Solution using Crucible with a Glass Stirrer.
 Alchemy I <34 Distill Water Filled Bucket into 2 Distilled Water using Alembic.
 Alchemy I <9 Corrode Mix of Copper and vitriol into 2 Copper Solution using Crucible with a Glass Stirrer.

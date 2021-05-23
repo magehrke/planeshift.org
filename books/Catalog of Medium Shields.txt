@@ -1,51 +1,51 @@
-Shield Making I 200 Carve Small Wooden Block into Shaped Small Wooden Block using Smith Table with a Wood Chisel.
-Shield Making I 200 Carve Wooden Block into Shaped Wooden Block using Smith Table with a Wood Chisel.
-Shield Making I 200 Combine 2 Shaped Small Wooden Block, into 0 Small Wooden Shield Core using Smith Table (combine).
-Shield Making I 200 Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Core using Smith Table (combine).
-Shield Making I 200 Combine 3 Shaped Small Wooden Block, into 0 Round Wooden Shield Core using Smith Table (combine).
-Shield Making I 200 Combine 4 Bronze Spike, Spiked Bronze Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Spiked Bronze Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine 4 Iron Spike, Spiked Iron Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Spiked Iron Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine 4 Shield Spike, Spiked Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Spiked Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Bronze Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Bronze Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Iron Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Iron Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Round Bronze Shield Shape, Round Wooden Shield Core, Leather Shield Handle, into 0 Round Bronze Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Round Iron Shield Shape, Round Wooden Shield Core, Leather Shield Handle, into 0 Round Iron Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Round Shield Shape, Round Wooden Shield Core, Leather Shield Handle, into 0 Round Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Small Round Shield Shape, Shield Handle, 4 Bronze Band, Small Wicker Shield Core, 2 Bronze Half Circle, into 0 Three Rivet Shield Wicker Kit using Smith Table (combine).
-Shield Making I 200 Combine Small Round Shield Shape, Shield Handle, 4 Bronze Band, Small Wooden Shield Core, 2 Bronze Half Circle, into 0 Three Rivet Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Small Shield Shape, Shield Handle, 3 Shield Band, Small Wicker Shield Core, Shield Edgings, into 0 Banded Shield Wicker Kit using Smith Table (combine).
-Shield Making I 200 Combine Small Shield Shape, Shield Handle, 3 Shield Band, Small Wooden Shield Core, Shield Edgings, into 0 Banded Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, Wicker Shield Core, Shield Circle, into 0 Stinger Shield Wicker Kit using Smith Table (combine).
-Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, Wooden Shield Core, Shield Circle, into 0 Stinger Shield Kit using Smith Table (combine).
-Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 5 Shield Spike, Shield Band, Wicker Shield Core, Shield Circle, into 0 Five-Spiked Shield Wicker Kit using Smith Table (combine).
-Shield Making I 200 Combine Spiked Shield Shape, Shield Handle, 5 Shield Spike, Shield Band, Wooden Shield Core, Shield Circle, into 0 Five-Spiked Shield Kit using Smith Table (combine).
-Shield Making I 200 Cut Threestem Wood into 2 Wooden Block using Smith Table with a Wood Saw.
-Shield Making I 200 Cut White Oak Wood into 2 Wooden Block using Smith Table with a Wood Saw.
-Shield Making I 200 Cut Wooden Block into 2 Small Wooden Block using Smith Table with a Wood Saw.
-Shield Making I 200 Dry Wyn Reed into Dried Reed using Smith Table.
-Shield Making I 200 Shape 10 Heated Bronze Ingot into Bronze Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 10 Heated Iron Ingot into Iron Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 10 Heated Steel Ingot into Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 11 Heated Bronze Ingot into Spiked Bronze Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 11 Heated Iron Ingot into Spiked Iron Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 11 Heated Steel Ingot into Spiked Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 12 Heated Steel Ingot into 6 Shield Handle using Anvil with a Hammer.
-Shield Making I 200 Shape 14 Heated Steel Ingot into 7 Shield Edgings using Anvil with a Hammer.
-Shield Making I 200 Shape 2 Heated Bronze Ingot into 2 Bronze Half Circle using Anvil with a Hammer.
-Shield Making I 200 Shape 4 Heated Steel Ingot into Small Round Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 5 Heated Steel Ingot into Small Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 7 Heated Bronze Ingot into 3 Bronze Band using Anvil with a Hammer.
-Shield Making I 200 Shape 7 Heated Steel Ingot into 3 Shield Band using Anvil with a Hammer.
-Shield Making I 200 Shape 8 Heated Steel Ingot into 4 Shield Circle using Anvil with a Hammer.
-Shield Making I 200 Shape 9 Heated Bronze Ingot into Round Bronze Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 9 Heated Iron Ingot into Round Iron Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape 9 Heated Steel Ingot into Round Shield Shape using Anvil with a Hammer.
-Shield Making I 200 Shape Heated Iron Ingot into 2 Iron Spike using Anvil with a Hammer.
-Shield Making I 200 Weave 2 Wicker Section into Small Wicker Shield Core using Smith Table.
-Shield Making I 200 Weave 4 Leather String into Leather Shield Handle using Smith Table.
-Shield Making I 200 Weave 4 Wicker Section into Wicker Shield Core using Smith Table.
-Shield Making I 200 Weave 8 Dried Reed into Wicker Section using Smith Table.
+Shield Making i 200 Carve Small Wooden Block into Shaped Small Wooden Block using Smith Table with a Wood Chisel.
+Shield Making i 200 Carve Wooden Block into Shaped Wooden Block using Smith Table with a Wood Chisel.
+Shield Making i 200 Combine 2 Shaped Small Wooden Block, into 0 Small Wooden Shield Core using Smith Table (combine).
+Shield Making i 200 Combine 2 Shaped Small Wooden Block, Shaped Wooden Block, into 0 Wooden Shield Core using Smith Table (combine).
+Shield Making i 200 Combine 3 Shaped Small Wooden Block, into 0 Round Wooden Shield Core using Smith Table (combine).
+Shield Making i 200 Combine 4 Bronze Spike, Spiked Bronze Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Spiked Bronze Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine 4 Iron Spike, Spiked Iron Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Spiked Iron Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine 4 Shield Spike, Spiked Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Spiked Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Bronze Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Bronze Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Iron Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Iron Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Round Bronze Shield Shape, Round Wooden Shield Core, Leather Shield Handle, into 0 Round Bronze Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Round Iron Shield Shape, Round Wooden Shield Core, Leather Shield Handle, into 0 Round Iron Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Round Shield Shape, Round Wooden Shield Core, Leather Shield Handle, into 0 Round Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Shield Shape, Wooden Shield Core, Leather Shield Handle, into 0 Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Small Round Shield Shape, Shield Handle, 4 Bronze Band, Small Wicker Shield Core, 2 Bronze Half Circle, into 0 Three Rivet Shield Wicker Kit using Smith Table (combine).
+Shield Making i 200 Combine Small Round Shield Shape, Shield Handle, 4 Bronze Band, Small Wooden Shield Core, 2 Bronze Half Circle, into 0 Three Rivet Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Small Shield Shape, Shield Handle, 3 Shield Band, Small Wicker Shield Core, Shield Edgings, into 0 Banded Shield Wicker Kit using Smith Table (combine).
+Shield Making i 200 Combine Small Shield Shape, Shield Handle, 3 Shield Band, Small Wooden Shield Core, Shield Edgings, into 0 Banded Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, Wicker Shield Core, Shield Circle, into 0 Stinger Shield Wicker Kit using Smith Table (combine).
+Shield Making i 200 Combine Spiked Shield Shape, Shield Handle, 4 Shield Spike, Wooden Shield Core, Shield Circle, into 0 Stinger Shield Kit using Smith Table (combine).
+Shield Making i 200 Combine Spiked Shield Shape, Shield Handle, 5 Shield Spike, Shield Band, Wicker Shield Core, Shield Circle, into 0 Five-Spiked Shield Wicker Kit using Smith Table (combine).
+Shield Making i 200 Combine Spiked Shield Shape, Shield Handle, 5 Shield Spike, Shield Band, Wooden Shield Core, Shield Circle, into 0 Five-Spiked Shield Kit using Smith Table (combine).
+Shield Making i 200 Cut Threestem Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+Shield Making i 200 Cut White Oak Wood into 2 Wooden Block using Smith Table with a Wood Saw.
+Shield Making i 200 Cut Wooden Block into 2 Small Wooden Block using Smith Table with a Wood Saw.
+Shield Making i 200 Dry Wyn Reed into Dried Reed using Smith Table.
+Shield Making i 200 Shape 10 Heated Bronze Ingot into Bronze Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 10 Heated Iron Ingot into Iron Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 10 Heated Steel Ingot into Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 11 Heated Bronze Ingot into Spiked Bronze Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 11 Heated Iron Ingot into Spiked Iron Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 11 Heated Steel Ingot into Spiked Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 12 Heated Steel Ingot into 6 Shield Handle using Anvil with a Hammer.
+Shield Making i 200 Shape 14 Heated Steel Ingot into 7 Shield Edgings using Anvil with a Hammer.
+Shield Making i 200 Shape 2 Heated Bronze Ingot into 2 Bronze Half Circle using Anvil with a Hammer.
+Shield Making i 200 Shape 4 Heated Steel Ingot into Small Round Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 5 Heated Steel Ingot into Small Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 7 Heated Bronze Ingot into 3 Bronze Band using Anvil with a Hammer.
+Shield Making i 200 Shape 7 Heated Steel Ingot into 3 Shield Band using Anvil with a Hammer.
+Shield Making i 200 Shape 8 Heated Steel Ingot into 4 Shield Circle using Anvil with a Hammer.
+Shield Making i 200 Shape 9 Heated Bronze Ingot into Round Bronze Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 9 Heated Iron Ingot into Round Iron Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape 9 Heated Steel Ingot into Round Shield Shape using Anvil with a Hammer.
+Shield Making i 200 Shape Heated Iron Ingot into 2 Iron Spike using Anvil with a Hammer.
+Shield Making i 200 Weave 2 Wicker Section into Small Wicker Shield Core using Smith Table.
+Shield Making i 200 Weave 4 Leather String into Leather Shield Handle using Smith Table.
+Shield Making i 200 Weave 4 Wicker Section into Wicker Shield Core using Smith Table.
+Shield Making i 200 Weave 8 Dried Reed into Wicker Section using Smith Table.
 Shield Making O 200 Forge Bronze Band into Heated Bronze Band using Forge.
 Shield Making O 200 Forge Bronze Half Circle into Heated Bronze Half Circle using Forge.
 Shield Making O 200 Forge Bronze Shield Shape into Heated Bronze Shield Shape using Forge.

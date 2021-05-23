@@ -20,35 +20,35 @@ Blacksmith O 65 Hammer Red Hot Platinum Ingot into Platinum Ingot using Anvil wi
 Blacksmith O 65 Hammer Super Heated Platinum Ingot into Platinum Ingot using Anvil with a Hammer.
 Blacksmith O 75 Hammer Red Hot Platinum Stock into Platinum Stock using Anvil with a Hammer.
 Blacksmith O 75 Hammer Super Heated Platinum Stock into Platinum Stock using Anvil with a Hammer.
-Metallurgy I 0 Cast Molten Iron into Iron Ingot using Stock Casting.
+Metallurgy P 0 Cast Molten Iron into Iron Ingot using Stock Casting.
 Metallurgy I 0 Forge Iron Ingot into Heated Iron Ingot using Forge.
-Metallurgy I 0 Smelt Iron Ore into Molten Iron using Furnace.
+Metallurgy i 0 Smelt Iron Ore into Molten Iron using Furnace.
 Metallurgy O 0 Smelt Zinc Ingot into Molten Zinc using Furnace.
-Metallurgy I 0 Smelt Zinc Ore into Molten Zinc using Furnace.
+Metallurgy i 0 Smelt Zinc Ore into Molten Zinc using Furnace.
 Metallurgy O 0 Smelt Zinc Stock into 10 Molten Zinc using Furnace.
-Metallurgy I 10 Cast Molten Bronze into Bronze Ingot using Stock Casting.
-Metallurgy I 10 Combine 4 Tin Ore, 6 Copper Ore, into 10 Bronze Sludge using Stock Casting (combine).
-Metallurgy I 10 Combine 5 Tin Ore, 5 Copper Ore, into 10 Tin Sludge using Stock Casting (combine).
-Metallurgy I 10 Combine 7 Copper Ore, 3 Tin Ore, into 10 Copper Sludge using Stock Casting (combine).
+Metallurgy P 10 Cast Molten Bronze into Bronze Ingot using Stock Casting.
+Metallurgy i 10 Combine 4 Tin Ore, 6 Copper Ore, into 10 Bronze Sludge using Stock Casting (combine).
+Metallurgy i 10 Combine 5 Tin Ore, 5 Copper Ore, into 10 Tin Sludge using Stock Casting (combine).
+Metallurgy i 10 Combine 7 Copper Ore, 3 Tin Ore, into 10 Copper Sludge using Stock Casting (combine).
 Metallurgy I 10 Forge Bronze Ingot into Heated Bronze Ingot using Forge.
 Metallurgy I 10 Forge Bronze Stock into Heated Bronze Stock using Forge.
-Metallurgy I 10 Smelt Bronze Sludge into Molten Bronze using Furnace.
-Metallurgy I 10 Smelt Copper Ore into Molten Copper using Furnace.
-Metallurgy I 10 Smelt Copper Sludge into Molten Bronze using Furnace.
+Metallurgy i 10 Smelt Bronze Sludge into Molten Bronze using Furnace.
+Metallurgy i 10 Smelt Copper Ore into Molten Copper using Furnace.
+Metallurgy i 10 Smelt Copper Sludge into Molten Bronze using Furnace.
 Metallurgy O 10 Smelt Tin Ingot into Molten Tin using Furnace.
-Metallurgy I 10 Smelt Tin Ore into Molten Tin using Furnace.
-Metallurgy I 10 Smelt Tin Sludge into Molten Bronze using Furnace.
+Metallurgy i 10 Smelt Tin Ore into Molten Tin using Furnace.
+Metallurgy i 10 Smelt Tin Sludge into Molten Bronze using Furnace.
 Metallurgy O 10 Smelt Tin Stock into 10 Molten Tin using Furnace.
-Metallurgy I 25 Smelt Silver Ore into Molten Silver using Furnace.
+Metallurgy i 25 Smelt Silver Ore into Molten Silver using Furnace.
 Metallurgy O 25 Smelt Silver Stock into 5 Molten Silver using Furnace.
-Metallurgy I 35 Smelt Gold Ore into Molten Gold using Furnace.
-Metallurgy I 5 Combine 8 Iron Ore, 2 Coal Lump, into 10 Coal Sludge using Stock Casting (combine).
-Metallurgy I 5 Combine 9 Iron Ore, Coal Lump, into 10 Steel Sludge using Stock Casting (combine).
+Metallurgy i 35 Smelt Gold Ore into Molten Gold using Furnace.
+Metallurgy i 5 Combine 8 Iron Ore, 2 Coal Lump, into 10 Coal Sludge using Stock Casting (combine).
+Metallurgy i 5 Combine 9 Iron Ore, Coal Lump, into 10 Steel Sludge using Stock Casting (combine).
 Metallurgy I 5 Forge Steel Ingot into Heated Steel Ingot using Forge.
 Metallurgy I 5 Forge Steel Stock into Heated Steel Stock using Forge.
-Metallurgy I 5 Smelt Coal Sludge into Molten Steel using Furnace.
-Metallurgy I 5 Smelt Steel Sludge into Molten Steel using Furnace.
-Metallurgy I 65 Smelt Platinum Ore into Molten Platinum using Furnace.
+Metallurgy i 5 Smelt Coal Sludge into Molten Steel using Furnace.
+Metallurgy i 5 Smelt Steel Sludge into Molten Steel using Furnace.
+Metallurgy i 65 Smelt Platinum Ore into Molten Platinum using Furnace.
 Metallurgy O 0 Forge Heated Iron Ingot into Super Heated Iron Ingot using Forge.
 Metallurgy O 0 Forge Heated Iron Stock into Super Heated Iron Stock using Forge.
 Metallurgy O 0 Forge Heated Zinc Ingot into Super Heated Zinc Ingot using Forge.
@@ -76,7 +76,7 @@ Metallurgy O 0 Smelt Iron Ingot into Molten Iron using Furnace.
 Metallurgy O 0 Smelt Iron Stock into 10 Molten Iron using Furnace.
 Metallurgy O 0 Smelt Zinc Ingot into Molten Zinc using Furnace.
 Metallurgy O 0 Smelt Zinc Stock into 10 Molten Zinc using Furnace.
-Metallurgy O 10 Cast 10 Molten Bronze into Bronze Stock using Stock Casting.
+Metallurgy P 10 Cast 10 Molten Bronze into Bronze Stock using Stock Casting.
 Metallurgy O 10 Forge Copper Ingot into Heated Copper Ingot using Forge.
 Metallurgy O 10 Forge Copper Stock into Heated Copper Stock using Forge.
 Metallurgy O 10 Forge Heated Bronze Ingot into Super Heated Bronze Ingot using Forge.

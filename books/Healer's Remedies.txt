@@ -1,43 +1,43 @@
-Alchemy I 0 Combine 2 Barberry Syrup, 3 Diluted Illness Essence, into 0 Raw Greater Cure Disease Potion using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Kingsfoil Tea, 3 Healing Essence, into 0 Raw Greater Potion of Healing using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Sinaflar Paste, 3 Mana Essence, into 0 Raw Greater Potion of Mana using Alchemy Table (combine).
-Alchemy I 0 Combine 2 Wragberry Juice, 3 Restoration Essence, into 0 Raw Greater Potion of Restoration using Alchemy Table (combine).
-Alchemy I 0 Combine Barberry Extract, Diluted Illness Essence, into 0 Raw Lesser Cure Disease Potion using Alchemy Table (combine).
-Alchemy I 0 Combine Barberry Syrup, 2 Diluted Illness Essence, into 0 Raw Cure Disease Potion using Alchemy Table (combine).
-Alchemy I 0 Combine Cut Kingsfoil Leaf, Healing Essence, into 0 Raw Lesser Potion of Healing using Alchemy Table (combine).
-Alchemy I 0 Combine Distilled Water, Carkarass Venom Dust Essence, into 0 Mix of Carkarass venom essence using Alchemy Table (combine).
-Alchemy I 0 Combine Distilled Water, Grendol Venom Dust Essence, into 0 Mix of Grendol venom essence using Alchemy Table (combine).
-Alchemy I 0 Combine Distilled Water, Ground Arangma Tooth, into 0 Mix of Arangma Tooth and distilled water using Alchemy Table (combine).
-Alchemy I 0 Combine Distilled Water, Ground Gawert Stinger, into 0 Mix of Gawert Stinger and distilled water using Alchemy Table (combine).
-Alchemy I 0 Combine Distilled Water, Ground Tloke Stinger, into 0 Mix of Tloke Stinger and distilled water using Alchemy Table (combine).
-Alchemy I 0 Combine Gobo Salve, Diluted Arangma Venom Essence, into 0 Raw Arangma Poison Antidote using Alchemy Table (combine).
-Alchemy I 0 Combine Gobo Salve, Diluted Carkarass Venom Essence, into 0 Raw Carkarass Poison Antidote using Alchemy Table (combine).
-Alchemy I 0 Combine Gobo Salve, Diluted Gawert Venom Essence, into 0 Raw Gawert Poison Antidote using Alchemy Table (combine).
-Alchemy I 0 Combine Gobo Salve, Diluted Grendol Venom Essence, into 0 Raw Grendol Poison Antidote using Alchemy Table (combine).
-Alchemy I 0 Combine Gobo Salve, Diluted Tloke Venom Essence, into 0 Raw Tloke Poison Antidote using Alchemy Table (combine).
-Alchemy I 0 Combine Kingsfoil Tea, 2 Healing Essence, into 0 Raw Potion of Healing using Alchemy Table (combine).
-Alchemy I 0 Combine Marfusang Heart, Sulphur powder, Distilled Water, into 0 Mix of Marfusang Heart using Alchemy Table (combine).
-Alchemy I 0 Combine Maulberlord Ebony Heart, Sulphur powder, Distilled Water, into 0 Mix of Maulberlord Ebony Heart using Alchemy Table (combine).
-Alchemy I 0 Combine Sinaflar Paste, 2 Mana Essence, into 0 Raw Potion of Mana using Alchemy Table (combine).
-Alchemy I 0 Combine Sinaflar Pulp, Mana Essence, into 0 Raw Lesser Potion of Mana using Alchemy Table (combine).
-Alchemy I 0 Combine Spirit, Poultice of Arangma Egg Sac, into 0 Mixed poultice of Arangma Egg Sac using Alchemy Table (combine).
-Alchemy I 0 Combine Spirit, Poultice of Trepor Egg Sac, into 0 Mixed poultice of Trepor Egg Sac using Alchemy Table (combine).
-Alchemy I 0 Combine Spirit, Vitriol salt, Coamti Tongue, into 0 Mixed Coamti Tongue using Alchemy Table (combine).
-Alchemy I 0 Combine Spirit, Vitriol salt, Marfusang Tongue, into 0 Mixed Marfusang Tongue using Alchemy Table (combine).
-Alchemy I 0 Combine Trepor Heart, Sulphur powder, Distilled Water, into 0 Mix of Trepor Heart using Alchemy Table (combine).
-Alchemy I 0 Combine Trepor Queen Heart, Sulphur powder, Distilled Water, into 0 Mix of Trepor Queen Heart using Alchemy Table (combine).
-Alchemy I 0 Combine Ulbernaut Heart, Sulphur powder, Distilled Water, into 0 Mix of Ulbernaut Heart using Alchemy Table (combine).
-Alchemy I 0 Combine Wragberry Juice, 2 Restoration Essence, into 0 Raw Potion of Restoration using Alchemy Table (combine).
-Alchemy I 0 Combine Wragberry Pulp, Restoration Essence, into 0 Raw Lesser Potion of Restoration using Alchemy Table (combine).
-Alchemy I 0 Evaporate Mix of niter and vitriol into 2 Vitriol salt using Athanor.
-Alchemy I 0 Evaporate Mix of salt and vitriol into 2 Vitriol salt using Athanor.
-Alchemy I <34 Cerate Mixed poultice of Arangma Egg Sac into 2 Healing Essence using Alchemist Stove with a Wooden Stirrer.
-Alchemy I >34 Cerate Mixed poultice of Trepor Egg Sac into 10 Healing Essence using Alchemist Stove with a Wooden Stirrer.
+Alchemy i 0 Combine 2 Barberry Syrup, 3 Diluted Illness Essence, into 0 Raw Greater Cure Disease Potion using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Common Salt, Oil of Vitriol, into 0 Mix of salt and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Kingsfoil Tea, 3 Healing Essence, into 0 Raw Greater Potion of Healing using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Niter, Oil of Vitriol, into 0 Mix of niter and vitriol using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Sinaflar Paste, 3 Mana Essence, into 0 Raw Greater Potion of Mana using Alchemy Table (combine).
+Alchemy i 0 Combine 2 Wragberry Juice, 3 Restoration Essence, into 0 Raw Greater Potion of Restoration using Alchemy Table (combine).
+Alchemy i 0 Combine Barberry Extract, Diluted Illness Essence, into 0 Raw Lesser Cure Disease Potion using Alchemy Table (combine).
+Alchemy i 0 Combine Barberry Syrup, 2 Diluted Illness Essence, into 0 Raw Cure Disease Potion using Alchemy Table (combine).
+Alchemy i 0 Combine Cut Kingsfoil Leaf, Healing Essence, into 0 Raw Lesser Potion of Healing using Alchemy Table (combine).
+Alchemy i 0 Combine Distilled Water, Carkarass Venom Dust Essence, into 0 Mix of Carkarass venom essence using Alchemy Table (combine).
+Alchemy i 0 Combine Distilled Water, Grendol Venom Dust Essence, into 0 Mix of Grendol venom essence using Alchemy Table (combine).
+Alchemy i 0 Combine Distilled Water, Ground Arangma Tooth, into 0 Mix of Arangma Tooth and distilled water using Alchemy Table (combine).
+Alchemy i 0 Combine Distilled Water, Ground Gawert Stinger, into 0 Mix of Gawert Stinger and distilled water using Alchemy Table (combine).
+Alchemy i 0 Combine Distilled Water, Ground Tloke Stinger, into 0 Mix of Tloke Stinger and distilled water using Alchemy Table (combine).
+Alchemy i 0 Combine Gobo Salve, Diluted Arangma Venom Essence, into 0 Raw Arangma Poison Antidote using Alchemy Table (combine).
+Alchemy i 0 Combine Gobo Salve, Diluted Carkarass Venom Essence, into 0 Raw Carkarass Poison Antidote using Alchemy Table (combine).
+Alchemy i 0 Combine Gobo Salve, Diluted Gawert Venom Essence, into 0 Raw Gawert Poison Antidote using Alchemy Table (combine).
+Alchemy i 0 Combine Gobo Salve, Diluted Grendol Venom Essence, into 0 Raw Grendol Poison Antidote using Alchemy Table (combine).
+Alchemy i 0 Combine Gobo Salve, Diluted Tloke Venom Essence, into 0 Raw Tloke Poison Antidote using Alchemy Table (combine).
+Alchemy i 0 Combine Kingsfoil Tea, 2 Healing Essence, into 0 Raw Potion of Healing using Alchemy Table (combine).
+Alchemy i 0 Combine Marfusang Heart, Sulphur powder, Distilled Water, into 0 Mix of Marfusang Heart using Alchemy Table (combine).
+Alchemy i 0 Combine Maulberlord Ebony Heart, Sulphur powder, Distilled Water, into 0 Mix of Maulberlord Ebony Heart using Alchemy Table (combine).
+Alchemy i 0 Combine Sinaflar Paste, 2 Mana Essence, into 0 Raw Potion of Mana using Alchemy Table (combine).
+Alchemy i 0 Combine Sinaflar Pulp, Mana Essence, into 0 Raw Lesser Potion of Mana using Alchemy Table (combine).
+Alchemy i 0 Combine Spirit, Poultice of Arangma Egg Sac, into 0 Mixed poultice of Arangma Egg Sac using Alchemy Table (combine).
+Alchemy i 0 Combine Spirit, Poultice of Trepor Egg Sac, into 0 Mixed poultice of Trepor Egg Sac using Alchemy Table (combine).
+Alchemy i 0 Combine Spirit, Vitriol salt, Coamti Tongue, into 0 Mixed Coamti Tongue using Alchemy Table (combine).
+Alchemy i 0 Combine Spirit, Vitriol salt, Marfusang Tongue, into 0 Mixed Marfusang Tongue using Alchemy Table (combine).
+Alchemy i 0 Combine Trepor Heart, Sulphur powder, Distilled Water, into 0 Mix of Trepor Heart using Alchemy Table (combine).
+Alchemy i 0 Combine Trepor Queen Heart, Sulphur powder, Distilled Water, into 0 Mix of Trepor Queen Heart using Alchemy Table (combine).
+Alchemy i 0 Combine Ulbernaut Heart, Sulphur powder, Distilled Water, into 0 Mix of Ulbernaut Heart using Alchemy Table (combine).
+Alchemy i 0 Combine Wragberry Juice, 2 Restoration Essence, into 0 Raw Potion of Restoration using Alchemy Table (combine).
+Alchemy i 0 Combine Wragberry Pulp, Restoration Essence, into 0 Raw Lesser Potion of Restoration using Alchemy Table (combine).
+Alchemy i 0 Evaporate Mix of niter and vitriol into 2 Vitriol salt using Athanor.
+Alchemy i 0 Evaporate Mix of salt and vitriol into 2 Vitriol salt using Athanor.
+Alchemy P <34 Cerate Mixed poultice of Arangma Egg Sac into 2 Healing Essence using Alchemist Stove with a Wooden Stirrer.
+Alchemy P >34 Cerate Mixed poultice of Trepor Egg Sac into 10 Healing Essence using Alchemist Stove with a Wooden Stirrer.
 Alchemy I >34 Cerate Mix of Gawert Stinger and distilled water into Extract of Gawert Stinger Venom using Alchemist Stove with a Wooden Stirrer.
 Alchemy I <34 Cerate Mix of Tloke Stinger and distilled water into Extract of Tloke Stinger Venom using Alchemist Stove with a Wooden Stirrer.
-Alchemy I <34 Cerate Raw Tloke Poison Antidote into Tloke Poison Antidote using Alchemist Stove with a Wooden Stirrer.
+Alchemy P <34 Cerate Raw Tloke Poison Antidote into Tloke Poison Antidote using Alchemist Stove with a Wooden Stirrer.
 Alchemy I <34 Cook Mixed Coamti Tongue into Extract of Coamti tongue using Alchemist Stove with a Iron Stirrer.
 Alchemy I >34 Cook Mixed Marfusang Tongue into Extract of Marfusang Tongue using Alchemist Stove with a Iron Stirrer.
 Alchemy I <34 Cook Mix of Arangma Tooth and distilled water into Extract of Arangma Venom using Alchemist Stove with a Iron Stirrer.
@@ -46,29 +46,29 @@ Alchemy I >34 Cook Mix of Maulberlord Ebony Heart into Extract of Maulberlord Eb
 Alchemy I <34 Cook Mix of Trepor Heart into Extract of Trepor Heart using Alchemist Stove with a Iron Stirrer.
 Alchemy I >34 Cook Mix of Trepor Queen Heart into Extract of Trepor Queen Heart using Alchemist Stove with a Iron Stirrer.
 Alchemy I >34 Cook Mix of Ulbernaut Heart into Extract of Ulbernaut Heart using Alchemist Stove with a Iron Stirrer.
-Alchemy I <34 Decant Extract of Arangma Venom into Diluted Arangma Venom Essence using Decanter with a Strainer.
-Alchemy I <34 Decant Extract of Coamti tongue into 2 Restoration Essence using Decanter with a Strainer.
-Alchemy I >34 Decant Extract of Gawert Stinger Venom into Diluted Gawert Venom Essence using Decanter with a Strainer.
-Alchemy I >34 Decant Extract of Marfusang Heart into 10 Mana Essence using Decanter with a Strainer.
-Alchemy I >34 Decant Extract of Marfusang Tongue into 10 Restoration Essence using Decanter with a Strainer.
-Alchemy I >34 Decant Extract of Maulberlord Ebony Heart into 14 Mana Essence using Decanter with a Strainer.
-Alchemy I <34 Decant Extract of Tloke Stinger Venom into Diluted Tloke Venom Essence using Decanter with a Strainer.
-Alchemy I <34 Decant Extract of Trepor Heart into 6 Mana Essence using Decanter with a Strainer.
-Alchemy I >34 Decant Extract of Trepor Queen Heart into 10 Mana Essence using Decanter with a Strainer.
-Alchemy I >34 Decant Extract of Ulbernaut Heart into 12 Mana Essence using Decanter with a Strainer.
+Alchemy P <34 Decant Extract of Arangma Venom into Diluted Arangma Venom Essence using Decanter with a Strainer.
+Alchemy P <34 Decant Extract of Coamti tongue into 2 Restoration Essence using Decanter with a Strainer.
+Alchemy P >34 Decant Extract of Gawert Stinger Venom into Diluted Gawert Venom Essence using Decanter with a Strainer.
+Alchemy P >34 Decant Extract of Marfusang Heart into 10 Mana Essence using Decanter with a Strainer.
+Alchemy P >34 Decant Extract of Marfusang Tongue into 10 Restoration Essence using Decanter with a Strainer.
+Alchemy P >34 Decant Extract of Maulberlord Ebony Heart into 14 Mana Essence using Decanter with a Strainer.
+Alchemy P <34 Decant Extract of Tloke Stinger Venom into Diluted Tloke Venom Essence using Decanter with a Strainer.
+Alchemy P <34 Decant Extract of Trepor Heart into 6 Mana Essence using Decanter with a Strainer.
+Alchemy P >34 Decant Extract of Trepor Queen Heart into 10 Mana Essence using Decanter with a Strainer.
+Alchemy P >34 Decant Extract of Ulbernaut Heart into 12 Mana Essence using Decanter with a Strainer.
 Alchemy I >34 Distill Carkarass Poison into Purified Carkarass Poison using Alembic.
 Alchemy I >34 Distill Grendol Poison Blood into Distilled Grendol Poison Blood using Alembic.
 Alchemy I <34 Distill Water Filled Bucket into 2 Distilled Water using Alembic.
-Alchemy I >34 Evaporate Distilled Grendol Poison Blood into 6 Grendol Venom Dust Essence using Athanor.
-Alchemy I >34 Evaporate Purified Carkarass Poison into 4 Carkarass Venom Dust Essence using Athanor.
+Alchemy P >34 Evaporate Distilled Grendol Poison Blood into 6 Grendol Venom Dust Essence using Athanor.
+Alchemy P >34 Evaporate Purified Carkarass Poison into 4 Carkarass Venom Dust Essence using Athanor.
 Alchemy I <34 Grind Arangma Egg Sac into Poultice of Arangma Egg Sac using Alchemist Table with a Wooden Mallet.
 Alchemy I <34 Grind Arangma Tooth into Ground Arangma Tooth using Alchemist Table with a Wooden Mallet.
 Alchemy I >34 Grind Gawert stinger into Ground Gawert Stinger using Alchemist Table with a Wooden Mallet.
 Alchemy I <34 Grind Tloke Warrior Stinger into Ground Tloke Stinger using Alchemist Table with a Wooden Mallet.
 Alchemy I >34 Grind Trepor Egg Sac into Poultice of Trepor Egg Sac using Alchemist Table with a Wooden Mallet.
-Alchemy I <34 Wash Illness Essence into Diluted Illness Essence using Decanter.
-Alchemy I >34 Wash Mix of Carkarass venom essence into Diluted Carkarass Venom Essence using Decanter.
-Alchemy I >34 Wash Mix of Grendol venom essence into Diluted Grendol Venom Essence using Decanter.
+Alchemy P <34 Wash Illness Essence into Diluted Illness Essence using Decanter.
+Alchemy P >34 Wash Mix of Carkarass venom essence into Diluted Carkarass Venom Essence using Decanter.
+Alchemy P >34 Wash Mix of Grendol venom essence into Diluted Grendol Venom Essence using Decanter.
 Alchemy P <34 Cerate Raw Arangma Poison Antidote into Arangma Poison Antidote using Alchemist Stove with a Wooden Stirrer.
 Alchemy P >34 Cerate Raw Carkarass Poison Antidote into Carkarass Poison Antidote using Alchemist Stove with a Wooden Stirrer.
 Alchemy P >34 Cerate Raw Gawert Poison Antidote into Gawert Poison Antidote using Alchemist Stove with a Wooden Stirrer.
