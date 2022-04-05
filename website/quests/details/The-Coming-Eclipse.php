@@ -726,7 +726,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 10 Faction with Guards, 10 Faction with Cabal of Whispers, 16411 Tria, 19200 XP.</td>
+						<td>Rewards: 1 Wall Glyph, 1 Dome Glyph, 10 Faction with Guards, 10 Faction with Cabal of Whispers, 16411 Tria, 19200 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>

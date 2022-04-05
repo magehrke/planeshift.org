@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/quests.php">quests</a> quest, 5 Sword Handles, 5 Broadsword handles, 3 crafted Platinum Steel Sabres, 3 crafted Platinum Steel Shortswords, 3 crafted Platinum Steel Longswords.</td>
+						<td>Required: 5 Sword Handles, 5 Broadsword handles, 3 crafted Platinum Steel Sabres, 3 crafted Platinum Steel Shortswords, 3 crafted Platinum Steel Longswords.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>

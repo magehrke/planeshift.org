@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/quests.php">quests</a> quest, 4 crafted Battle Axes, 3 crafted Reinforced Axes, 2 crafted Small Battle Axes, 1 crafted Reinforced Battle Axe.</td>
+						<td>Required: <a href="/quests/details/Learn-how-to-make-a-Broadsword.php">Learn how to make a Broadsword</a> quest, Rank 75 Blade Making, 4 crafted Battle Axes, 3 crafted Reinforced Axes, 2 crafted Small Battle Axes, 1 crafted Reinforced Battle Axe.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>

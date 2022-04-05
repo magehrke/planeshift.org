@@ -38,7 +38,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/Working-with-Rare-Metals.php">Working with Rare Metals</a> quest, 1 Platinum Steel Stock.</td>
+						<td>Required: <a href="/quests/details/Working-with-Rare-Metals.php">Working with Rare Metals</a> quest, <a href="/quests/details/Learn-how-to-make-a-Broadsword.php">Learn how to make a Broadsword</a> quest, Rank 75 Blade Making, 1 Platinum Steel Stock.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>

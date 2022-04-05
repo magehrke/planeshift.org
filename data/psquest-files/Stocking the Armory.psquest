@@ -1,0 +1,42 @@
+[Questname] Stocking the Armory
+[NPC Name] Veja Pontor
+[Checkup] 2017-04-17
+[Authors] Haviland Tenouri
+
+[Need] Nothing
+
+[To] Veja Pontor
+
+[NPC Internal]: Veja, do you need help with something?
+[NPC Narrate] Veja Pontor looks up from her work. Her ears are slanted back and there’s some soot in her fur, making her look somewhat harried.
+[NPC] What?
+[NPC] Oh, [NPC Internal].
+[NPC] Yes, I absolutely could use your help!
+[NPC Narrate] Veja Pontor gestures around herself at the stacks of metal on the ground.
+[NPC] On top of my duties to the Arena I’ve now got additional orders from the Eagle Fortress, and I could use a hand getting it all done.
+[NPC] You’ll need to provide your own materials, but I can pay you for your work.
+[NPC] You up for helping me?
+[NPC Internal]: Sure, I’ve got some time.
+[NPC Narrate] Veja Pontor sighs with relief, her ears relaxing somewhat.
+[NPC] Glad to hear it.
+[NPC] Can’t lose business from either.
+[NPC Internal]: So what do you need me to make?
+[NPC] Well, you’re new to this so I’ll keep it simple.
+[NPC] Make me a single shortsword and that will be good for now.
+[NPC] If you have any trouble, check your book.
+[NPC] All of the instructions are in there.
+[NPC] Blades, shields, repair kits! Get them here!
+
+[To] Veja Pontor
+
+[NPC Internal]: Here are the blades you asked for.
+[NPC] You’re done?
+[NPC] Let me take a look at those.
+[NPC Narrate] Veja Pontor gives the swords a long look before nodding and setting them down behind her counter.
+[NPC] These look good.
+[NPC] You’re making progress.
+[NPC] That’s all I need for now, but come back later if you like and I might have more work for you.
+[NPC] Here, take some tria to cover your costs, and I think I can show you something new about affixing hilts to the blades.
+[NPC Narrate] Veja Pontor shows you how to ensure that the hilts fit snugly with no room to wiggle.
+
+[Reward] [Skill] 1, Blades Making; [Money] 1297; [XP] 9400

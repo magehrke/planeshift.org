@@ -161,4 +161,4 @@
 [NPC] Datal: Please accept this, and one of these, as a token of our gratitude.
 [NPC Narrate] -Datal gives you twenty coins and offers a choice of two glyphs.-
 
-[Reward] [XP] 19200; [Faction] 10, Guards; [Faction] 10, Cabal of Whispers; [Money] 16411
+[Reward] [XP] 19200; [Faction] 10, Guards; [Faction] 10, Cabal of Whispers; [Money] 16411; [Item] 1, Wall Glyph; [Item] 1, Dome Glyph
