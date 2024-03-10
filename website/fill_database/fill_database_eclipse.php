@@ -1,16 +1,15 @@
 <?php
+	/* ########### CONNECT TO DB ########### */
 
-	/* ########## Connect to DB ########## */
-    $path = $_SERVER['DOCUMENT_ROOT'];
-    $path = $path . "/includes/db_connect.php";
-    include_once $path;
+	$path = $_SERVER['DOCUMENT_ROOT'];
+	$path = $path . "/includes/db_connect.php";
+	include_once $path;
 
 	/* ########## Quest-Table ########## */
 
 	//drop quests table if exists
 	$mysqli->query("DROP TABLE IF EXISTS quests")
 		or die(mysql_error());
-
 
 	//create quests table
 	$newTable = "CREATE TABLE IF NOT EXISTS quests (
@@ -20,7 +19,7 @@
 						checkup DATE NOT NULL,
 						PRIMARY KEY (name),
 						FOREIGN KEY (npc) REFERENCES npcs(name) ON UPDATE CASCADE ON DELETE CASCADE
-						)";
+						) ENGINE=MyISAM";
 	$mysqli->query($newTable) or die($mysqli->error);
 
 	//Insert some data into quests table
@@ -464,7 +463,7 @@
 						info VARCHAR(50),
 						PRIMARY KEY (quest, way, variant, type, reward),
 						FOREIGN KEY (quest) REFERENCES quests(name) ON UPDATE CASCADE ON DELETE CASCADE
-						)";
+						) ENGINE = MyISAM";
 	$mysqli->query($newTable) or die($mysqli->error);
 
 	//Insert some data into questsRewards table
@@ -1862,76 +1861,24 @@
 		'Zhaomal Fears Raithen&apos;s Spell', 0, 0, 'XP', null, 12200, null
 	);
 
-for($i = 0; $i < count($questsRewards_to_insert); $i += 7) {
-  $questsRewards_query = "INSERT INTO questsRewards(quest, way, variant, type, reward, amount, info)
-          VALUES ('" . $questsRewards_to_insert[$i] . "', "
-          . $questsRewards_to_insert[$i+1] . ", "
-          . $questsRewards_to_insert[$i+2] . ", '"
-          . $questsRewards_to_insert[$i+3] . "', '"
-          . $questsRewards_to_insert[$i+4] . "', "
-          . $questsRewards_to_insert[$i+5] . ", '"
-          . $questsRewards_to_insert[$i+6] . "')";
-  $mysqli->query($questsRewards_query) or die($mysqli->error);
-}
+	for($i = 0; $i < count($questsRewards_to_insert); $i += 7) {
+	  $questsRewards_query = "INSERT INTO questsRewards(quest, way, variant, type, reward, amount, info)
+	          VALUES ('" . $questsRewards_to_insert[$i] . "', "
+	          . $questsRewards_to_insert[$i+1] . ", "
+	          . $questsRewards_to_insert[$i+2] . ", '"
+	          . $questsRewards_to_insert[$i+3] . "', '"
+	          . $questsRewards_to_insert[$i+4] . "', "
+	          . $questsRewards_to_insert[$i+5] . ", '"
+	          . $questsRewards_to_insert[$i+6] . "')";
+	  $mysqli->query($questsRewards_query) or die($mysqli->error);
+	}
 
-
-
-
-/* !!!!!!!!!!!!!!!!!!!!!! NEVER EVER UNCOMMEND THIS !!!!!!!!!!!!!!!!!!*/
-// The whole login tables will be overwritten!
-
-
-/* ------------------------------------------------- */
-/*
-//Inserts for Login
-
-/*
--- phpMyAdmin SQL Dump
--- version 3.4.10.1deb1
--- http://www.phpmyadmin.net
---
--- Host: localhost
--- Generation Time: Dec 03, 2013 at 03:03 PM
--- Server version: 5.5.34
--- PHP Version: 5.3.10-1ubuntu3.8
--- https://github.com/peredurabefrog/phpSecureLogin
-
-
-$setSqlMode = "SET SQL_MODE='NO_AUTO_VALUE_ON_ZERO';";
-$mysqli->query($setSqlMode) or die($mysqli->error);
-
-$setTimeZone = "SET time_zone = '+01:00';";
-$mysqli->query($setTimeZone) or die($mysqli->error);
-
-// Table structure for table `login_attempts`
-$createLoginAttempts = "CREATE TABLE IF NOT EXISTS `psl_login_attempts` (
-  `user_id` int(11) NOT NULL,
-  `time` varchar(30) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;";
-
-$mysqli->query($createLoginAttempts) or die($mysqli->error);
-
-//Table structure for table `members`
-
-$createTableMembers = "CREATE TABLE IF NOT EXISTS `psl_members` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `username` varchar(30) NOT NULL,
-  `email` varchar(50) NOT NULL,
-  `password` char(128) NOT NULL,
-  `salt` char(128) NOT NULL,
-  `authenticated` boolean DEFAULT '0' NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2;";
-
-$mysqli->query($createTableMembers) or die($mysqli->error);
-*/
-/* ------------------------------------------------- */
-
+	/* ############################################################## */
 
 	/* Create Table Quests-Prequests */
 	/* Table which collects the quests you need to have fullfilled to get a quest */
 	/* NOT USED RIGHT NOW */
-
+	/*
 	$mysqli->query("DROP TABLE IF EXISTS `questPrequests`") or die(mysql_error());
 
 	$createQuestPrequests = "CREATE TABLE IF NOT EXISTS `questPrequests` (
@@ -1941,25 +1888,28 @@ $mysqli->query($createTableMembers) or die($mysqli->error);
 		PRIMARY KEY (`quest`, `prequest`),
 		FOREIGN KEY (quest) REFERENCES quests(name) ON UPDATE CASCADE ON DELETE CASCADE,
 		FOREIGN KEY (prequest) REFERENCES quests(name) ON UPDATE CASCADE ON DELETE CASCADE
-		)";
+		) ENGINE=MyISAM";
 
 	$mysqli->query($createQuestPrequests) or die($mysqli->error);
 
 	/* Insert quests-prequests data */
+	/*
 	for($i = 0; $i < count($questsPreQuests_to_insert); $i += 3) {
 		$spellPrequest_query = "INSERT INTO questPrequests (quest, prequest, checkup)
-						VALUES ('" . $questsPreQuests_to_insert[$i] . "', '" . $questsPreQuests_to_insert[$i+1] 
-						. "', '" . $questsPreQuests_to_insert[$i+1] . "')";
+						VALUES ('" 
+						. $questsPreQuests_to_insert[$i] 
+						. "', '" 
+						. $questsPreQuests_to_insert[$i+1] 
+						. "', '" 
+						. $questsPreQuests_to_insert[$i+1] . "')";
+
 		$mysqli->query($spellPrequest_query) or die($mysqli->error);
 	}
-
-
-
 
 	/* Create Table Quests-SkillRanks */
 	/* Table which collects requirements in skills to get a quest */
 	/* NOT USED RIGHT NOW */
-
+	/*
 	$mysqli->query("DROP TABLE IF EXISTS `questSkillRanks`") or die(mysql_error());
 
 	$createQuestSkillRanks = "CREATE TABLE IF NOT EXISTS `questSkillRanks` (
@@ -1969,22 +1919,21 @@ $mysqli->query($createTableMembers) or die($mysqli->error);
 		`checkup` DATE NOT NULL,
 		PRIMARY KEY (`quest`, `skill`),
 		FOREIGN KEY (quest) REFERENCES quests(name) ON UPDATE CASCADE ON DELETE CASCADE
-		)";
+		) ENGINE=MyISAM";
 
 	$mysqli->query($createQuestSkillRanks) or die($mysqli->error);
 
 
 	/* Insert quests-SkillRanks data */
+	/*
 	for($i = 0; $i < count($questsPreSkillRanks_to_insert); $i += 4) {
 		$spellPreSkillRanks_query = "INSERT INTO questSkillRanks (quest, skill, rank, checkup)
 						VALUES ('" . $questsPreSkillRanks_to_insert[$i] . "', '" . $questsPreSkillRanks_to_insert[$i+1] . "', " 
 						. $questsPreSkillRanks_to_insert[$i+2] . ", '" . $questsPreSkillRanks_to_insert[$i+3] . "')";
 		$mysqli->query($spellPreSkillRanks_query) or die($mysqli->error);
-	}
+	} */
 
+	/* ######################################################################## */
 
-	/* ########################################################################################## */
-
-	
-	/* close connection */
-	$mysqli->close();
+  	/* close connection */
+  	$mysqli->close();
