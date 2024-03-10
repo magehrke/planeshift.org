@@ -11,34 +11,6 @@
     sec_session_start();
 ?>
 
-<!-- site counter -->
-<?php
-    # This counter counts all requests this page is getting
-    # If a page is reloaded, it is a new request, if you go to a subpage its also a new request
-    # That is also why we include it here, because this page is included in any (sub)page of
-    # the website.
-    #
-    # The table in the Database is named "counter" with a single variable "counter"
-    $mysqli->query("UPDATE counter SET counter = counter + 1") or die(mysql_error());
-
-
-    # This counter counts the different ip addresses who visit planeshift.org
-    # The Database is named pageview.
-    # Because we want to have just one counter for the whole page, our page='kov_mainpage'
-
-    # Gets the user IP Address
-    $user_ip = $_SERVER['REMOTE_ADDR'];
-
-    # Check if the user IP Address is already in the database
-    $check_ip = $mysqli->query("SELECT userip FROM pageview WHERE page='kov_mainpage'
-            AND userip='" . $user_ip . "'") or die(mysql_error());
-
-    # If the user IP Address is not yet in the database, add it, otherwise do nothing
-    if($check_ip->num_rows == 0){
-        $mysqli->query("INSERT into pageview values('','kov_mainpage', '" . $user_ip . "')");
-    }
-
-?>
 <div style="width:100%">
 
     <!-- Do NOT display the top/left guildlogo on the index page, as it has the big guildlogo -->
