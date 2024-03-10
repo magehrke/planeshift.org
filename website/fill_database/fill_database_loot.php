@@ -1,11 +1,7 @@
 <?php
-	$ini = parse_ini_file('../config_planeshift.ini');
-	$mysqli = new mysqli($ini['db_url'], $ini['db_user'], $ini['db_pass'],
-		$ini['db_name']);
-	if ($mysqli->connect_errno) {
-		printf("Connect failed: %s\n", $mysqli->connect_error);
-		exit();
-	}
+    $path = $_SERVER['DOCUMENT_ROOT'];
+    $path = $path . "/includes/db_connect.php";
+    include_once $path;
 
 	//////////////////////////////////////////////////////////////////////
 	// Loot by Mob
