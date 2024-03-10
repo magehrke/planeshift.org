@@ -27,7 +27,7 @@
 
 /* Read credentials from file outside of root */
 $conf_path = $_SERVER['DOCUMENT_ROOT'];
-$conf_path .= '/../config_planeshift.ini';
+$conf_path .= '/../../config_planeshift.ini';
 $ini = parse_ini_file($conf_path);
 
 /**
