@@ -4,7 +4,7 @@
 
     $path = $_SERVER['DOCUMENT_ROOT'];
     $path = $path . "/includes/db_connect.php";
-    include_once $path;
+    include $path;
 
 	/* ########## Trainer-Table ########## */
 
