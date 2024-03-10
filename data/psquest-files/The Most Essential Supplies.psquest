@@ -4,7 +4,7 @@
 [Authors] Haviland Tenouri
 [Repeatable] Yes
 
-[Needed] [Skill] 10?,  Brewing;
+[Need] [Skill] 10,  Brewing;
 
 [Info] you are requested to brew different drinks for different acceptors
 

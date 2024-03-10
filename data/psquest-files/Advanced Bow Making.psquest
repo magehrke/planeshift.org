@@ -4,7 +4,7 @@
 [Authors] Haviland Tenouri
 [Repeatable] No
 
-[Needed] [Quest] Learning Bow Making;
+[Need] [Quest] Learning Bow Making;
 
 [To] Jjousk Carryt
 
@@ -197,4 +197,4 @@
 [NPC] Jjousk Carryt: Bit of a snobby type if you ask me, only lets people of a certain skill or renown work for him, you might be lucky and get some work from him.
 [NPC] Jjousk Carryt: I'll keep an eye on how you do and pass on word about you if I think you're ready.
 
-[Reward]  Book "Advanced Bow Making"
+[Reward] [Item] Book "Advanced Bow Making"

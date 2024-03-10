@@ -4,7 +4,7 @@
 [Authors] Haviland Tenouri
 [Repeatable] No
 
-[Needed] [Quest] Seeking Guidance I
+[Need] [Quest] Seeking Guidance I
 
 [To] Rulayne Ogrin
 
@@ -278,5 +278,5 @@
 [NPC] -She even seems taller, her calm assurance almost palpable.-
 [NPC] Amidison Stronghand: We can be proud now.
 
-[Reward] [Item] 1, Enchanting Light Shields; [Item] 1, Enchanting Heavy Shields; [Faction] x, with Ynnwn; [XP] 15000;
+[Reward] [Item] 1, Enchanting Light Shields; [Item] 1, Enchanting Heavy Shields; [XP] 15000;
 

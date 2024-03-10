@@ -1,15 +1,17 @@
 <?php
-	/* ########### CONNECT TO DB ########### */
 
-	$path = $_SERVER['DOCUMENT_ROOT'];
-	$path = $path . "/includes/db_connect.php";
-	include $path;
+  	/* ########### CONNECT TO DB ########### */
+
+  	$path = $_SERVER['DOCUMENT_ROOT'];
+  	$path = $path . "/includes/db_connect.php";
+  	include $path;
 
 	/* ########## Quest-Table ########## */
 
 	//drop quests table if exists
 	$mysqli->query("DROP TABLE IF EXISTS quests")
 		or die(mysql_error());
+
 
 	//create quests table
 	$newTable = "CREATE TABLE IF NOT EXISTS quests (
@@ -53,6 +55,8 @@
 		'A new mace for Nevis', 'Moren Findel', 0, '2014-01-01',
 		'Abelia&apos;s Welcome', 'Abelia Aruine', 0, '2014-01-01',
 		'Access Papers', 'Percival Hawthorne', 0, '2014-01-01',
+		'Adorning the Dome', 'Beniua Busuka', 1, '2020-01-01',
+		'Advanced Bow Making', 'Jjousk Carryt', 0, '2020-01-01',
 		'Advanced mining', 'Selisar Zeinifa', 0, '2014-01-01',
 		'Aerayau Strongwill&apos;s Epic Journey', 'Aerayau Strongwill', 0, '2014-01-01',
 		'Aleena Teaches Herbalism', 'Aleena Arlavin', 0, '2014-01-01',
@@ -62,6 +66,7 @@
 		'An Expected Delivery', 'Gurgus Dahnik', 0, '2014-01-01',
 		'An Opening Move', 'Kisatol Gathoji', 0, '2014-01-01',
 		'An Unclear Message', 'Levrus Dahrenn', 0, '2014-01-01',
+		'An Undead Howling', 'Rulayne Ogrin', 0, '2020-01-01',
 		'And Thus They Learn', 'Amakeer', 0, '2014-01-01',
 		'Angry Drunks', 'Rook', 0, '2014-01-01',
 		'Apprenticeship Approval', 'Reffitia Thamal', 0, '2014-01-01',
@@ -69,10 +74,11 @@
 		'Archilaya&apos;s Daily Delivery', 'Archilaya Gurpleferd', 1, '2014-01-01',
 		'Archilaya&apos;s New Recipe', 'Archilaya Gurpleferd', 0, '2014-01-01',
 		'Artifact of Laanx', 'Sharven Xant-Areth', 0, '2014-01-01',
-		'Ask the right Question', 'Jedonek Boloss', 0, '2020-12-21',
+		'Ask the Right Question', 'Jedonek Bolossj', 0, '2020-01-01',
 		'Assisting Gardr', 'Gardr Keck', 1, '2019-01-01',
 		'Azure Way Glyph Training', 'Vorigna Tassen', 0, '2014-01-01',
 		'Azure Way Master Training', 'Menita', 0, '2014-01-01',
+		'Balms for the Battlers', 'Liera Zireti', 1, '2020-01-01',
 		'Barl&apos;s Extended Duty Contract', 'Beniua Busuka', 0, '2014-01-01',
 		'Basics of Mining', 'Fholen Medraa', 0, '2017-04-11',
 		'Bead of Sanity', 'Fordanot Helsun', 1, '2014-01-01',
@@ -129,6 +135,7 @@
 		'Deelor and the Rat Hat', 'Deelor Blackeye', 0, '2014-01-01',
 		'Deelor is Suspicious', 'Deelor Blackeye', 0, '2014-01-01',
 		'Deliver to the Hydlaa Merchants', 'Phanejor Mikana', 0, '2014-01-01',
+		'Deliveries for Seduna', 'Seduna Secut', 1, '2020-01-01',
 		'Dhalia Needs a Skin', 'Dhalia Colat', 0, '2014-01-01',
 		'Dizzy Bevon', 'Bevon Damerr', 0, '2014-01-01',
 		'Drifting for a Drifter', 'Taemian Yangnk', 0, '2014-01-01',
@@ -154,6 +161,7 @@
 		'Gardr Trust', 'Gardr Keck', 0, '2017-04-11',
 		'Gardr Writes a Book', 'Gardr Keck', 0, '2014-01-01',
 		'Gardr&apos;s Missing Plans', 'Gardr Keck', 0, '2014-01-01',
+		'Gem Necklace for Uri Djho-Maat', 'Trasok Starhammer', 0, '2020-01-01',
 		'Get Grimal Out of Retirement', 'Raerul Bloodaxe', 0, '2014-01-01',
 		'Get a Performance', 'Roya Vuntarr', 0, '2014-01-01',
 		'Getting to know Mirra', 'Mirra Houphen', 0, '2014-01-01',
@@ -186,6 +194,7 @@
 		'Hirenn&apos;s Dwindling Stock', 'Hirenn Darmeth', 0, '2014-01-01',
 		'His Brother&apos;s Riddle', 'Lerok Dilechi', 0, '2014-01-01',
 		'Humble Beginnings', 'Gregori Stevald', 0, '2017-04-07',
+		'Hydlaaic Legend', 'Allelia Symiestra', 0, '2020-01-01',
 		'Hygrnn&apos;s Other Bag', 'Hygrnn', 0, '2014-01-01',
 		'Ibhaar&apos;s Battle', 'Ibhaar Senad', 0, '2014-01-01',
 		'In Aid of the Kran', 'Petrified Kran', 0, '2014-01-01',
@@ -219,9 +228,11 @@
 		'Just Call Him Lucky', 'Rolara Hammersong', 0, '2014-01-01',
 		'Kaiman Jilatt Needs Plants Supplies', 'Kaiman Jilatt', 1, '2017-11-24',
 		'Keen Conflict and Sword-Play', 'Gregori Stevald', 0, '2017-04-04',
+		'Keiana&apos;s Supplies', 'Keiana Xoreloran', 1, '2020-01-01',
 		'Kilas wants his Abacus Back', 'Kilas Tungse', 0, '2014-01-01',
 		'Kilas&apos; Test of Education', 'Kilas Tungse', 0, '2014-01-01',
 		'Kimlorm Needs a New Prayer Book', 'Kimlorm', 0, '2014-01-01',
+		'Kireya Needs Help Filling Orders', 'Kireya Ahinit', 1, '2020-01-01',
 		'Know the Crystal Way', 'Govell Mihdren', 0, '2014-01-01',
 		'Knowledge and Practical of the Azure Way Master', 'Menita', 0, '2014-01-01',
 		'Knowledge and Practical of the Blue Way Master', 'Barrin Dhorod', 0, '2014-01-01',
@@ -333,6 +344,7 @@
 		'Search for Old Pottery', 'Menlil Toresun', 0, '2014-01-01',
 		'Search for the Old Coin', 'Menlil Toresun', 0, '2014-01-01',
 		'Seeking Guidance I', 'Kaiman Jilatt', 0, '2019-01-01',
+		'Seeking Guidance II', 'Rulayne Ogrin', 0, '2020-01-01',
 		'Sending a Letter Home', 'Pinayet Ullavin', 0, '2014-01-01',
 		'Sharpen a Saw', 'Lentanor Thunderhead', 0, '2014-01-01',
 		'Sharven Holy Script', 'Sharven Xant-Areth', 0, '2014-01-01',
@@ -388,6 +400,7 @@
 		'The Masked Mistress', 'Archilaya Gurpleferd', 0, '2019-01-01',
 		'The Mikana Merchant Syndicate', 'Jirosh Mikana', 0, '2014-01-01',
 		'The Missing Equipment', 'Baboraer Airiskel', 0, '2014-01-01',
+		'The Most Essential Supplies', 'Edrich Sultov', 1, '2020-01-01',
 		'The Mysterious Derghir Skull', 'Canyt Klannarr', 0, '2014-01-01',
 		'The Pollen of Haos', 'Vladovic Chel-Astra', 0, '2014-01-01',
 		'The Practical Azure Way Adept', 'Axomir', 0, '2014-01-01',
@@ -463,7 +476,7 @@
 						info VARCHAR(50),
 						PRIMARY KEY (quest, way, variant, type, reward),
 						FOREIGN KEY (quest) REFERENCES quests(name) ON UPDATE CASCADE ON DELETE CASCADE
-						) ENGINE = MyISAM";
+						) ENGINE=MyISAM";
 	$mysqli->query($newTable) or die($mysqli->error);
 
 	//Insert some data into questsRewards table
@@ -566,6 +579,8 @@
 		'Abelia&apos;s Welcome', 0, 0, 'Item', 'Fried Honey Dough', 1, null,
 		'Abelia&apos;s Welcome', 0, 0, 'Item', 'Sweet Cinnamon Apple Slices', 1, null,
 		'Access Papers', 0, 0, 'Special', 'Winch access', 0, null,
+		'Adorning the Dome', 0, 0, 'Skill', 'Jewelry Making', 1, null,
+		'Advanced Bow Making', 0, 0, 'Item', ' Book "Advanced Bow Making"', 1, null,
 		'Advanced mining', 0, 0, 'Association', 'Crafting Association', 10, null,
 		'Advanced mining', 0, 0, 'XP', null, 9400, null,
 		'Aerayau Strongwill&apos;s Epic Journey', 0, 0, 'Money', null, 3391, null,
@@ -597,6 +612,11 @@
 		'An Unclear Message', 0, 0, 'Association', 'Nolthrir', 30, null,
 		'An Unclear Message', 0, 0, 'Money', null, 10000, null,
 		'An Unclear Message', 0, 0, 'XP', null, 15000, null,
+		'An Undead Howling', 0, 0, 'Item', 'Illness Glyph', 1, null,
+		'An Undead Howling', 0, 0, 'Item', 'Amulet of Prevent Disease', 1, null,
+		'An Undead Howling', 0, 0, 'Association', 'with Keepers of the Veil', 1, null,
+		'An Undead Howling', 0, 0, 'Money', null, 5130, null,
+		'An Undead Howling', 0, 0, 'XP', null, 13600, null,
 		'And Thus They Learn', 0, 0, 'Item', 'Green Jasper Crystal', 1, null,
 		'And Thus They Learn', 0, 0, 'Association', 'Seeds of Wildwood', 40, null,
 		'And Thus They Learn', 0, 0, 'XP', null, 17800, null,
@@ -616,9 +636,9 @@
 		'Artifact of Laanx', 0, 0, 'Item', 'Meteor glyph', 1, null,
 		'Artifact of Laanx', 0, 0, 'Association', 'Iron Hand', 30, null,
 		'Artifact of Laanx', 0, 0, 'XP', null, 15000, null,
-		'Ask the right Question', 0, 0, 'Item', 'Door glyph', 1, null,
-		'Ask the right Question', 0, 0, 'Money', null, 5130, null,
-		'Ask the right Question', 0, 0, 'XP', null, 13600, null,
+		'Ask the Right Question', 0, 0, 'Item', 'Door Glyph', 1, null,
+		'Ask the Right Question', 0, 0, 'Money', null, 5130, null,
+		'Ask the Right Question', 0, 0, 'XP', null, 13600, null,
 		'Assisting Gardr', 0, 0, 'Skill', 'Mace Making', 1, null,
 		'Assisting Gardr', 0, 0, 'Money', null, 3000, null,
 		'Assisting Gardr', 0, 0, 'XP', null, 10800, null,
@@ -629,6 +649,9 @@
 		'Azure Way Master Training', 0, 0, 'Item', 'Master&apos;s Azure Way Staff', 1, null,
 		'Azure Way Master Training', 0, 0, 'Association', 'Azure Order', 25, null,
 		'Azure Way Master Training', 0, 0, 'XP', null, 13600, null,
+		'Balms for the Battlers', 0, 0, 'Skill', 'Alchemy', 1, null,
+		'Balms for the Battlers', 0, 0, 'Money', null, 1297, null,
+		'Balms for the Battlers', 0, 0, 'XP', null, 9400, null,
 		'Barl&apos;s Extended Duty Contract', 0, 0, 'Association', 'Guard', 35, null,
 		'Barl&apos;s Extended Duty Contract', 0, 0, 'Money', null, 9922, null,
 		'Barl&apos;s Extended Duty Contract', 0, 0, 'XP', null, 18400, null,
@@ -797,6 +820,7 @@
 		'Deelor is Suspicious', 2, 0, 'XP', null, 9400, null,
 		'Deliver to the Hydlaa Merchants', 0, 0, 'Money', null, 7310, null,
 		'Deliver to the Hydlaa Merchants', 0, 0, 'XP', null, 15000, null,
+		'Deliveries for Seduna', 0, 0, 'Skill', 'cooking', 1, null,
 		'Dhalia Needs a Skin', 0, 0, 'Money', null, 1000, null,
 		'Dhalia Needs a Skin', 0, 0, 'XP', null, 8000, null,
 		'Dizzy Bevon', 0, 0, 'Item', 'Dagger', 1, null,
@@ -877,6 +901,11 @@
 		'Gardr&apos;s Missing Plans', 0, 0, 'Money', null, 9922, null,
 		'Gardr&apos;s Missing Plans', 0, 0, 'XP', null, 16400, null,
 		'Gardr&apos;s Missing Plans', 1, 0, 'Item', 'Three Rivet Shield Diagram', 1, null,
+		'Gem Necklace for Uri Djho-Maat', 0, 0, 'Item', ' "Gemstone Jewelry"', 1, null,
+		'Gem Necklace for Uri Djho-Maat', 0, 0, 'Skill', 'Faction with Smith Association', 10, null,
+		'Gem Necklace for Uri Djho-Maat', 0, 0, 'Skill', 'Jewelry Making', 2, null,
+		'Gem Necklace for Uri Djho-Maat', 0, 0, 'Money', null, 3391, null,
+		'Gem Necklace for Uri Djho-Maat', 0, 0, 'XP', null, 10800, null,
 		'Get Grimal Out of Retirement', 0, 0, 'Money', null, 10172, null,
 		'Get Grimal Out of Retirement', 0, 0, 'XP', null, 16400, null,
 		'Get a Performance', 0, 0, 'Item', 'Stone Ring', 1, null,
@@ -1079,6 +1108,7 @@
 		'Keen Conflict and Sword-Play', 0, 0, 'Skill', 'Sword', 1, null,
 		'Keen Conflict and Sword-Play', 0, 0, 'Combat Move', 'Side Slash', 0, 'Single Handed Sword',
 		'Keen Conflict and Sword-Play', 0, 0, 'Association', 'Order of the Keen Edge', 10, null,
+		'Keiana&apos;s Supplies', 0, 0, 'Skill', '+1 herbal', 1, null,
 		'Kilas wants his Abacus Back', 0, 0, 'Association', 'Science Association', 10, null,
 		'Kilas wants his Abacus Back', 0, 0, 'Money', null, 1297, null,
 		'Kilas wants his Abacus Back', 0, 0, 'XP', null, 9400, null,
@@ -1088,6 +1118,7 @@
 		'Kimlorm Needs a New Prayer Book', 0, 0, 'Item', 'Horned Helm', 1, null,
 		'Kimlorm Needs a New Prayer Book', 0, 0, 'Association', 'Conclave of the Glyphs', 25, null,
 		'Kimlorm Needs a New Prayer Book', 0, 0, 'XP', null, 13650, null,
+		'Kireya Needs Help Filling Orders', 0, 0, 'Skill', '+1 baking', 1, null,
 		'Know the Crystal Way', 0, 0, 'Association', 'Crystal Order', 15, null,
 		'Know the Crystal Way', 0, 0, 'Money', null, 2107, null,
 		'Know the Crystal Way', 0, 0, 'XP', null, 9400, null,
@@ -1465,6 +1496,9 @@
 		'Search for the Old Coin', 0, 0, 'XP', null, 9400, null,
 		'Seeking Guidance I', 0, 0, 'Item', 'Enchanting Weapons', 1, null,
 		'Seeking Guidance I', 0, 0, 'XP', null, 12200, null,
+		'Seeking Guidance II', 0, 0, 'Item', 'Enchanting Light Shields', 1, null,
+		'Seeking Guidance II', 0, 0, 'Item', 'Enchanting Heavy Shields', 1, null,
+		'Seeking Guidance II', 0, 0, 'XP', null, 15000, null,
 		'Sending a Letter Home', 0, 0, 'Association', 'Guard', 30, null,
 		'Sending a Letter Home', 0, 0, 'Money', null, 7310, null,
 		'Sending a Letter Home', 0, 0, 'XP', null, 15000, null,
@@ -1675,6 +1709,7 @@
 		'The Missing Equipment', 0, 0, 'Item', 'Door Glyph', 1, null,
 		'The Missing Equipment', 0, 0, 'Money', null, 9922, null,
 		'The Missing Equipment', 0, 0, 'XP', null, 16400, null,
+		'The Most Essential Supplies', 0, 0, 'Skill', 'Brewing', 1, null,
 		'The Mysterious Derghir Skull', 0, 0, 'Item', 'Bulls Eye Shield Diagram', 1, null,
 		'The Mysterious Derghir Skull', 0, 0, 'Item', 'Battle Shield Diagram', 1, null,
 		'The Mysterious Derghir Skull', 0, 0, 'Money', null, 9922, null,
@@ -1861,19 +1896,71 @@
 		'Zhaomal Fears Raithen&apos;s Spell', 0, 0, 'XP', null, 12200, null
 	);
 
-	for($i = 0; $i < count($questsRewards_to_insert); $i += 7) {
-	  $questsRewards_query = "INSERT INTO questsRewards(quest, way, variant, type, reward, amount, info)
-	          VALUES ('" . $questsRewards_to_insert[$i] . "', "
-	          . $questsRewards_to_insert[$i+1] . ", "
-	          . $questsRewards_to_insert[$i+2] . ", '"
-	          . $questsRewards_to_insert[$i+3] . "', '"
-	          . $questsRewards_to_insert[$i+4] . "', "
-	          . $questsRewards_to_insert[$i+5] . ", '"
-	          . $questsRewards_to_insert[$i+6] . "')";
-	  $mysqli->query($questsRewards_query) or die($mysqli->error);
-	}
+for($i = 0; $i < count($questsRewards_to_insert); $i += 7) {
+  $questsRewards_query = "INSERT INTO questsRewards(quest, way, variant, type, reward, amount, info)
+          VALUES ('" . $questsRewards_to_insert[$i] . "', "
+          . $questsRewards_to_insert[$i+1] . ", "
+          . $questsRewards_to_insert[$i+2] . ", '"
+          . $questsRewards_to_insert[$i+3] . "', '"
+          . $questsRewards_to_insert[$i+4] . "', "
+          . $questsRewards_to_insert[$i+5] . ", '"
+          . $questsRewards_to_insert[$i+6] . "')";
+  $mysqli->query($questsRewards_query) or die($mysqli->error);
+}
 
-	/* ############################################################## */
+
+
+
+/* !!!!!!!!!!!!!!!!!!!!!! NEVER EVER UNCOMMEND THIS !!!!!!!!!!!!!!!!!!*/
+// The whole login tables will be overwritten!
+
+
+/* ------------------------------------------------- */
+/*
+//Inserts for Login
+
+/*
+-- phpMyAdmin SQL Dump
+-- version 3.4.10.1deb1
+-- http://www.phpmyadmin.net
+--
+-- Host: localhost
+-- Generation Time: Dec 03, 2013 at 03:03 PM
+-- Server version: 5.5.34
+-- PHP Version: 5.3.10-1ubuntu3.8
+-- https://github.com/peredurabefrog/phpSecureLogin
+
+
+$setSqlMode = "SET SQL_MODE='NO_AUTO_VALUE_ON_ZERO';";
+$mysqli->query($setSqlMode) or die($mysqli->error);
+
+$setTimeZone = "SET time_zone = '+01:00';";
+$mysqli->query($setTimeZone) or die($mysqli->error);
+
+// Table structure for table `login_attempts`
+$createLoginAttempts = "CREATE TABLE IF NOT EXISTS `psl_login_attempts` (
+  `user_id` int(11) NOT NULL,
+  `time` varchar(30) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;";
+
+$mysqli->query($createLoginAttempts) or die($mysqli->error);
+
+//Table structure for table `members`
+
+$createTableMembers = "CREATE TABLE IF NOT EXISTS `psl_members` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` varchar(30) NOT NULL,
+  `email` varchar(50) NOT NULL,
+  `password` char(128) NOT NULL,
+  `salt` char(128) NOT NULL,
+  `authenticated` boolean DEFAULT '0' NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2;";
+
+$mysqli->query($createTableMembers) or die($mysqli->error);
+*/
+/* ------------------------------------------------- */
+
 
 	/* Create Table Quests-Prequests */
 	/* Table which collects the quests you need to have fullfilled to get a quest */
@@ -1888,7 +1975,7 @@
 		PRIMARY KEY (`quest`, `prequest`),
 		FOREIGN KEY (quest) REFERENCES quests(name) ON UPDATE CASCADE ON DELETE CASCADE,
 		FOREIGN KEY (prequest) REFERENCES quests(name) ON UPDATE CASCADE ON DELETE CASCADE
-		) ENGINE=MyISAM";
+		) ENGINE = MyISAM";
 
 	$mysqli->query($createQuestPrequests) or die($mysqli->error);
 
@@ -1896,15 +1983,13 @@
 	/*
 	for($i = 0; $i < count($questsPreQuests_to_insert); $i += 3) {
 		$spellPrequest_query = "INSERT INTO questPrequests (quest, prequest, checkup)
-						VALUES ('" 
-						. $questsPreQuests_to_insert[$i] 
-						. "', '" 
-						. $questsPreQuests_to_insert[$i+1] 
-						. "', '" 
-						. $questsPreQuests_to_insert[$i+1] . "')";
-
+						VALUES ('" . $questsPreQuests_to_insert[$i] . "', '" . $questsPreQuests_to_insert[$i+1] 
+						. "', '" . $questsPreQuests_to_insert[$i+1] . "')";
 		$mysqli->query($spellPrequest_query) or die($mysqli->error);
 	}
+
+
+
 
 	/* Create Table Quests-SkillRanks */
 	/* Table which collects requirements in skills to get a quest */
@@ -1919,10 +2004,10 @@
 		`checkup` DATE NOT NULL,
 		PRIMARY KEY (`quest`, `skill`),
 		FOREIGN KEY (quest) REFERENCES quests(name) ON UPDATE CASCADE ON DELETE CASCADE
-		) ENGINE=MyISAM";
+		) ENGINE = MyISAM";
 
 	$mysqli->query($createQuestSkillRanks) or die($mysqli->error);
-
+	*/
 
 	/* Insert quests-SkillRanks data */
 	/*
@@ -1931,9 +2016,10 @@
 						VALUES ('" . $questsPreSkillRanks_to_insert[$i] . "', '" . $questsPreSkillRanks_to_insert[$i+1] . "', " 
 						. $questsPreSkillRanks_to_insert[$i+2] . ", '" . $questsPreSkillRanks_to_insert[$i+3] . "')";
 		$mysqli->query($spellPreSkillRanks_query) or die($mysqli->error);
-	} */
+	}
+	*/
 
 	/* ######################################################################## */
 
-  	/* close connection */
-  	$mysqli->close();
+	/* close connection */
+	$mysqli->close();
