@@ -2,6 +2,10 @@
 <!-- Can be removed if all Data is correct -->
 <?php
     $path = $_SERVER['DOCUMENT_ROOT'];
+    $path .= "/fill_database/fill_database_npcs-maps.php";
+    include($path);
+
+    $path = $_SERVER['DOCUMENT_ROOT'];
     $path .= "/fill_database/fill_database_jobs.php";
     include($path);
 
@@ -11,10 +15,6 @@
 
     $path = $_SERVER['DOCUMENT_ROOT'];
     $path .= "/fill_database/fill_database_items.php";
-    include($path);
-
-    $path = $_SERVER['DOCUMENT_ROOT'];
-    $path .= "/fill_database/fill_database_npcs-maps.php";
     include($path);
 
     $path = $_SERVER['DOCUMENT_ROOT'];
@@ -33,6 +33,7 @@
     $path .= "/fill_database/fill_database_recipes.php";
     include($path);
 
-    include ($_SERVER['DOCUMENT_ROOT']."/index.php");
+    header('Location: index.php');
+    exit();
 ?>
 
