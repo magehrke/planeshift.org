@@ -44,7 +44,7 @@ $mysqli->query($setTimeZone) or die($mysqli->error);
 $createLoginAttempts = "CREATE TABLE IF NOT EXISTS `psl_login_attempts` (
   `user_id` int(11) NOT NULL,
   `time` varchar(30) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;";
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;";
 
 $mysqli->query($createLoginAttempts) or die($mysqli->error);
 
@@ -58,7 +58,7 @@ $createTableMembers = "CREATE TABLE IF NOT EXISTS `psl_members` (
   `salt` char(128) NOT NULL,
   `authenticated` boolean DEFAULT '0' NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2;";
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2;";
 
 $mysqli->query($createTableMembers) or die($mysqli->error);
 */

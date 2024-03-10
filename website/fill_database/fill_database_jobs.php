@@ -21,7 +21,7 @@
 						checkup DATE NOT NULL,
 						PRIMARY KEY (skill, name),
 						FOREIGN KEY (name) REFERENCES npcs(name) ON UPDATE CASCADE ON DELETE CASCADE
-					  )";
+					  ) ENGINE = MyISAM";
 	$mysqli->query($trainersTable) or die($mysqli->error);
 
 	/* Create trainers array for insert */
@@ -78,7 +78,7 @@
 					checkup DATE NOT NULL,
 					PRIMARY KEY (level, itemname),
 					FOREIGN KEY (itemname) REFERENCES items(name) ON UPDATE CASCADE ON DELETE CASCADE
-					)";
+					) ENGINE = MyISAM";
 
 	$mysqli->query($lockp_sql) or die($mysqli->error);
 
@@ -154,7 +154,7 @@
 		quantity int(20) NOT NULL,
 		level int(20) NOT NULL,
 		PRIMARY KEY (material)
-		)";
+		) ENGINE = MyISAM";
 
 	$mysqli->query($createMetallurgy) or die ($mysqli->error);
 
@@ -241,7 +241,7 @@
 		resource varchar(40) NOT NULL,
 		recipe int(20) NOT NULL,
 		PRIMARY KEY (material, resource, recipe)
-		)";
+		) ENGINE = MyISAM";
 
 	$mysqli->query($createMetallurgyResources) or die ($mysqli->error);
 
@@ -280,7 +280,7 @@
 			lvlTo int(20) NOT NULL,
 			npc varchar(40) NOT NULL,
 			PRIMARY KEY (lvlFrom, lvlTo, npc)
-		)";
+		) ENGINE = MyISAM";
 
 	$mysqli->query($createDrawing) or die ($mysqli->error);
 

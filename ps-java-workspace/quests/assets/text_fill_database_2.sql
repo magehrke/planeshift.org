@@ -26,7 +26,7 @@
 						info VARCHAR(50),
 						PRIMARY KEY (quest, way, variant, type, reward),
 						FOREIGN KEY (quest) REFERENCES quests(name) ON UPDATE CASCADE ON DELETE CASCADE
-						)";
+						) ENGINE=MyISAM";
 	$mysqli->query($newTable) or die($mysqli->error);
 
 	//Insert some data into questsRewards table

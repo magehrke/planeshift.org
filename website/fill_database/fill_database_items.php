@@ -19,7 +19,7 @@
                     checkup DATE NOT NULL,
                     PRIMARY KEY (name, npc),
                     FOREIGN KEY (npc) REFERENCES npcs(name) ON UPDATE CASCADE ON DELETE CASCADE
-                    )";
+                    ) ENGINE=MyISAM";
 
     $mysqli->query($itemtable_sql) or die($mysqli->error);
 

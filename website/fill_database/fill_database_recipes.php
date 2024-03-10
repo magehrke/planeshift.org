@@ -59,7 +59,7 @@
 					name VARCHAR(50) NOT NULL,
 					quest VARCHAR(50) NOT NULL,
 					PRIMARY KEY (name)
-					)";
+					) ENGINE=MyISAM";
 	$mysqli->query($q) or die($mysqli->error);
 	foreach ($books as $name => $quest)
 	{
@@ -53808,7 +53808,7 @@
 		level VARCHAR(10) NOT NULL,
 		book VARCHAR(200) NOT NULL,
 		PRIMARY KEY (`name`,`ingredient`, `result`, `tool`)
-		)";
+		) ENGINE=MyISAM";
 	//	PRIMARY KEY (`id`)
 	$mysqli->query($q) or die($mysqli->error);
 

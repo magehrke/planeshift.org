@@ -197,8 +197,9 @@
 					mob VARCHAR(50) NOT NULL,
 					loot VARCHAR(50) NOT NULL,
 					PRIMARY KEY (mob,loot)
-					)";
+					) ENGINE=MyISAM";
 	$mysqli->query($q) or die($mysqli->error);
+
 	foreach ($loot as $id => $vals)
 	{
 		$q = "INSERT INTO loot VALUES

@@ -25,7 +25,7 @@
 						specials VARCHAR(50),
 						checkup DATE NOT NULL,
 						PRIMARY KEY (questchain, quest)
-						)";
+						) ENGINE = MyISAM";
 	$mysqli->query($newTable) or die($mysqli->error);
 
 	//create data to insert into chestchains table

@@ -23,9 +23,10 @@
                         walking VARCHAR(1000),
                         mainPos bit NOT NULL,
                         PRIMARY KEY (name, area)
-                    )";
+                ) ENGINE = MyISAM";
+
     $mysqli->query($newTable) or die($mysqli->error);
-    /* Create Array for insert NPCs into table */
+
     /* All nps in alphabetical order */
     /* Order: name, location, quantity of this npc, last checkup, positions */
     $npcs_to_insert = array(
@@ -557,7 +558,7 @@
                     position VARCHAR(700) NOT NULL,
                     checkup DATE NOT NULL,
                     PRIMARY KEY (name, area)
-                    )";
+                    ) ENGINE = MyISAM";
 
     $mysqli->query($mapsLoc_sql) or die($mysqli->error);
 
@@ -704,7 +705,7 @@
                     position VARCHAR(700) NOT NULL,
                     checkup DATE NOT NULL,
                     PRIMARY KEY (name, area)
-                    )";
+                    ) ENGINE = MyISAM";
 
     $mysqli->query($mapsItems_sql) or die($mysqli->error);
 

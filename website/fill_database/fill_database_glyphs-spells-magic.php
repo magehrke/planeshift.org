@@ -16,7 +16,7 @@
     name varchar(20) NOT NULL,
     way varchar(20) NOT NULL,
     PRIMARY KEY (name)
-    )";
+    ) ENGINE = MyISAM";
   $mysqli ->query($createGlyphs) or die ($mysqli->error);
 
   /* Glyphs Data */
@@ -114,7 +114,7 @@
     npc varchar(20) NOT NULL,
     PRIMARY KEY (glyph, npc),
     FOREIGN KEY (glyph) REFERENCES glyphs(name) ON UPDATE CASCADE ON DELETE CASCADE
-    )";
+    ) ENGINE = MyISAM";
 
   $mysqli ->query($createGlyphNpc) or die ($mysqli->error);
 
@@ -242,7 +242,7 @@
     `realm` int(11) NOT NULL,
     `checkup` DATE NOT NULL,
     PRIMARY KEY (`name`)
-    )";
+    ) ENGINE = MyISAM";
 
   $mysqli->query($createSpellbook) or die($mysqli->error);
 
@@ -375,7 +375,7 @@
     `ordering` int(11) NOT NULL,
     PRIMARY KEY (`spell`, `glyph`),
     FOREIGN KEY (spell) REFERENCES spellbook(name) ON UPDATE CASCADE ON DELETE CASCADE
-    )";
+    ) ENGINE = MyISAM";
 
   $mysqli->query($createSpellGlyphs) or die($mysqli->error);
 
@@ -699,7 +699,7 @@
     house varchar(20) NOT NULL,
     PRIMARY KEY (gem, glyph),
     FOREIGN KEY (glyph) REFERENCES glyphs(name) ON UPDATE CASCADE ON DELETE CASCADE
-    )";
+    ) ENGINE = MyISAM";
 
   $mysqli ->query($createGemEnchanting) or die ($mysqli->error);
 

@@ -27,7 +27,7 @@
 						checkup DATE NOT NULL,
 						PRIMARY KEY (name),
 						FOREIGN KEY (npc) REFERENCES npcs(name) ON UPDATE CASCADE ON DELETE CASCADE
-						)";
+						) ENGINE=MyISAM";
 	$mysqli->query($newTable) or die($mysqli->error);
 
 	//Insert some data into quests table
