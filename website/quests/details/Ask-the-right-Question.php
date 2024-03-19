@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>Ask the right Question</title>
+	<title>Ask the Right Question</title>
 
 	<?php
 		$path = $_SERVER['DOCUMENT_ROOT'];
@@ -32,13 +32,13 @@
 					<table class="quest_main_table">
 
 					<tr class="quest_title">
-						<td>Ask the right Question</td>
+						<td>Ask the Right Question</td>
 					</tr>
 					<tr class="quest_emptyRow_afterTitle">
 						<td></td>
 					</tr>
 					<tr class="quest_requirement">
-						<td>Required: <a href="/quests/details/May-Their-Words-Sound.php">May Their Words Sound</a> quest.</td>
+						<td>Required: Nothing.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterRequirement">
 						<td></td>
@@ -49,11 +49,11 @@
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
 							/* The Variable $npcName has to be set !!! */
-							$npcName = 'Jedonek Boloss';
+							$npcName = 'Jedonek Bolossj';
 							$path = $_SERVER['DOCUMENT_ROOT'];
 							$path .= "/includes/npc_link_to_map.inc.php";
 							include($path);
-							echo "' target='_blank'>Jedonek Boloss</a>";
+							echo "' target='_blank'>Jedonek Bolossj</a>";
 						?>
 						</td>
 					</tr>
@@ -79,13 +79,13 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Hello citizen.</td>
+						<td>Jedonek Bolossj: Hello citizen.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Remember to sheathe your weapon while in the Dsar.</td>
+						<td>Jedonek Bolossj: Remember to sheathe your weapon while in the Dsar.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: May I help you find something or someone?</td>
+						<td>Jedonek Bolossj: May I help you find something or someone?</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -103,10 +103,10 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Did Vetasor Knemal send you?</td>
+						<td>Jedonek Bolossj: Did Vetasor Knemal send you?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: He's always trying to get one up on me because I have the better post.</td>
+						<td>Jedonek Bolossj: He's always trying to get one up on me because I have the better post.</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -124,13 +124,13 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: I don't know.</td>
+						<td>Jedonek Bolossj: I don't know.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Funny, I see them every day, and I've never thought about it.</td>
+						<td>Jedonek Bolossj: Funny, I see them every day, and I've never thought about it.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: They've been here forever as far as I know.</td>
+						<td>Jedonek Bolossj: They've been here forever as far as I know.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -142,22 +142,22 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: You know, this is my chance to get one up on Vetasor!</td>
+						<td>Jedonek Bolossj: You know, this is my chance to get one up on Vetasor!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: That Enkidukai irks my tail, I tell you!</td>
+						<td>Jedonek Bolossj: That Enkidukai irks my tail, I tell you!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: He thinks he knows everything, but I bet he doesn't know about these gates.</td>
+						<td>Jedonek Bolossj: He thinks he knows everything, but I bet he doesn't know about these gates.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: It would be worth it to me to find out more about them, so I can be the one who knows something for a change!</td>
+						<td>Jedonek Bolossj: It would be worth it to me to find out more about them, so I can be the one who knows something for a change!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Would you be willing to find out everything you can about these gates?</td>
+						<td>Jedonek Bolossj: Would you be willing to find out everything you can about these gates?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: I'll give you a reward for your efforts, especially if Vetasor doesn't know!</td>
+						<td>Jedonek Bolossj: I'll give you a reward for your efforts, especially if Vetasor doesn't know!</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -175,84 +175,22 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: You could ask the cook in the mess hall, she's old.</td>
+						<td>Jedonek Bolossj: You could ask the cook in the mess hall, she's old.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Maybe she knows.</td>
+						<td>Jedonek Bolossj: Maybe she knows.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Just come back and tell me when you find out?</td>
+						<td>Jedonek Bolossj: Just come back and tell me when you find out?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: It gets...</td>
+						<td>Jedonek Bolossj: It gets...</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Boring.</td>
+						<td>Jedonek Bolossj: Boring.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Just standing here.</td>
-					</tr>
-					<tr class="quest_emptyRow_btwNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_you">
-						<td>YOU: Can you tell me who carved the gates in Ojaveda and when, and why?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>→ Go to 
-						<?php
-							echo "<a href='";
-							/* Printing the NPC with a link to the Map */
-							/* The Variable $npcName has to be set !!! */
-							$npcName = 'Seduna Secut';
-							$path = $_SERVER['DOCUMENT_ROOT'];
-							$path .= "/includes/npc_link_to_map.inc.php";
-							include($path);
-							echo "' target='_blank'>Seduna Secut</a>";
-						?>
-						</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>Seduna Secut is indeed old. She looks busy but kindly enough.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>-She laughs.-</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Seduna: I'm old but not that old.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Seduna: My family has been here for generations, and the gates where here long before that.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Seduna: I don't really know.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Seduna: You're going to need an historian.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Seduna: I think there is one near the library up in Hydlaa.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Seduna: I don't know their names- you may have to ask around.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Seduna: Now, mealtime is upon us.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Seduna: Unless you want to be gnawed on by a phalanx of hungry soldiers, I suggest you get going!</td>
+						<td>Jedonek Bolossj: Just standing here.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -287,10 +225,10 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Why, yes I am, Ylian.</td>
+						<td>Aliress Doomforge: Why, yes I am, Klyros.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: May I help you with something?</td>
+						<td>Aliress Doomforge: May I help you with something?</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -308,22 +246,22 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: The Ojaveda Gates!</td>
+						<td>Aliress Doomforge: The Ojaveda Gates!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: They do have amazing carving, don't they?</td>
+						<td>Aliress Doomforge: They do have amazing carving, don't they?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: This is what I know, but, like all our history, there is much more to know I am sure.</td>
+						<td>Aliress Doomforge: This is what I know, but, like all our history, there is much more to know I am sure.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: The subject matter refers to an ancient legend, a poem really.</td>
+						<td>Aliress Doomforge: The subject matter refers to an ancient legend, a poem really.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: I know Gemma Kerryk Cor wrote about that once, because he asked me for suggested resources, too.</td>
+						<td>Aliress Doomforge: I know Gemma Kerryk Cor wrote about that once, because he asked me for suggested resources, too.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Do you know the legend?</td>
+						<td>Aliress Doomforge: Do you know the legend?</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -341,25 +279,25 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Good!</td>
+						<td>Aliress Doomforge: Good!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Then you know the story.</td>
+						<td>Aliress Doomforge: Then you know the story.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Now the other questions might be more difficult.</td>
+						<td>Aliress Doomforge: Now the other questions might be more difficult.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Who, when, and why.</td>
+						<td>Aliress Doomforge: Who, when, and why.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Good questions, all!</td>
+						<td>Aliress Doomforge: Good questions, all!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Will you please let me know if you find out more about this artistic legacy of the Enkidukais?</td>
+						<td>Aliress Doomforge: Will you please let me know if you find out more about this artistic legacy of the Enkidukais?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: I would certainly make a contribution towards your research time, if you do.</td>
+						<td>Aliress Doomforge: I would certainly make a contribution towards your research time, if you do.</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -371,7 +309,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: As to who made all those gates, that is a puzzle!</td>
+						<td>Aliress Doomforge: As to who made all those gates, that is a puzzle!</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -383,10 +321,10 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Well since it's carved, you might ask a sculptor or woodworker.</td>
+						<td>Aliress Doomforge: Well since it's carved, you might ask a sculptor or woodworker.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Aliress: Go to the sculptor, but be careful what you say to her, that's my recommendation.</td>
+						<td>Aliress Doomforge: Go to the sculptor, but be careful what you say to her, that's my recommendation.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -421,13 +359,13 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: Those gates show fine workmanship on a monumental scale.</td>
+						<td>Yonda Axebow: Those gates show fine workmanship on a monumental scale.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: And there are so many of them!</td>
+						<td>Yonda Axebow: And there are so many of them!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: Imagine the commission!</td>
+						<td>Yonda Axebow: Imagine the commission!</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -439,13 +377,13 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: It had to be a StoneHammer, don't you think?</td>
+						<td>Yonda Axebow: It had to be a StoneHammer, don't you think?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: Our clans have had the best skills for generations.</td>
+						<td>Yonda Axebow: Our clans have had the best skills for generations.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: Then again, those gates are quite tall...</td>
+						<td>Yonda Axebow: Then again, those gates are quite tall...</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -457,13 +395,13 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: Surely such information would be worth something to a person like you with such a well-endowed...</td>
+						<td>Yonda Axebow: Surely such information would be worth something to a person like you with such a well-endowed...</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: pouch?</td>
+						<td>Yonda Axebow: pouch?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: One circle will get you some more information.</td>
+						<td>Yonda Axebow: One circle will get you some more information.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -487,335 +425,58 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: One circle, one question.</td>
+						<td>Yonda Axebow: One circle, one question.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Yonda: Remember to ask the right question, that's the heart of a puzzle isn't it?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>[INFO]: [3 choices, I chose #3 ]</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>[INFO]: 1. Why are the gates of the Enkidukai city based on the Serpent and Eagle legend?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>[INFO]: 2. Who carved the gates in Ojaveda?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>[INFO]: 3. Why are there serpents and eagles on the gates in the Enkidukai city?  I thought those were the naems of the gobble tribes, aren't they?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
-						<td></td>
-					</tr>
-					<tr class="quest_you">
-						<td>YOU: Why are the gates of the Enkidukai city based on the Serpent and Eagle legend?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>Yonda Axebow laughs.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Yonda: Praise the Gods!</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Yonda: For that answer, go ask the animal trainer.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Yonda: She's usually around here somewhere.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>→ Go to 
-						<?php
-							echo "<a href='";
-							/* Printing the NPC with a link to the Map */
-							/* The Variable $npcName has to be set !!! */
-							$npcName = 'Terea Lohdren';
-							$path = $_SERVER['DOCUMENT_ROOT'];
-							$path .= "/includes/npc_link_to_map.inc.php";
-							include($path);
-							echo "' target='_blank'>Terea Lohdren</a>";
-						?>
-						</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
-						<td></td>
-					</tr>
-					<tr class="quest_you">
-						<td>YOU: Are you an animal trainer?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>Terea Lohdren nods.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: That I am Sir.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: I specialize in winged creatures.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: Do you need my services?</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: My rates are affordable.</td>
+						<td>Yonda Axebow: Remember to ask the right question, that's the heart of a puzzle isn't it?</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
 					</tr>
 					<tr class="quest_you">
-						<td>YOU: Actually, I have a question. You know the Serpent and Eagle gates in Ojaveda? Do you know why a gobble legend is carved into the gates of an Enkidukai city?</td>
+						<td>YOU: Who carved the gates in Ojaveda?</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
 					<tr class="quest_storyline">
-						<td>Terea Lohdren is surprised and blinks a few times.</td>
+						<td>Yonda Axebow smiles.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterStoryline">
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Terea: Funny, I have never thought of that!</td>
+						<td>Yonda Axebow: Who gets the claim to fame, eh Klyros?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Terea: Well, let me see.</td>
+						<td>Yonda Axebow: What good is achievement if no one gets the glory?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Terea: I know the legend, of course.</td>
+						<td>Yonda Axebow: For that, you may want to talk to a woodworker, or a carpenter.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Terea: Gobbles.</td>
+						<td>Yonda Axebow: There is one in Hydlaa, but I wouldn't trust him.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Terea: But, why in Ojaveda?</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: To tell you the truth, I've never seen a serpent in the wilds.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: And eagles, eagles are hard to see in the wildlands, even though they are well known in our history.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: For the Gods sake, one of the Bronze Door Fortresses is the Eagle Fortress, after all!</td>
+						<td>Yonda Axebow: Of course, he might say the same of me!</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
 					</tr>
 					<tr class="quest_storyline">
-						<td>Terea Lohdren thinks some more.</td>
+						<td>Yonda Axebow gouges at the toy she's carving.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterStoryline">
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Terea: My great, great, great grandma trained eagles, so goes the story in my family, but I haven't seen many in the wildlands, ever.</td>
+						<td>Yonda Axebow: There is another, he lives in the Klyros city, or so I've heard.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Terea: I have one eagle now, I inherited from my grandma, but he's so old I don't bring him out to hunt.</td>
+						<td>Yonda Axebow: Though why anyone would live there is beyond me.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Terea: Now Gramma said the story was told that all around Ojaveda there were once kettles of eagles- that's what she said the people called 'em.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: Some of the snobs from the University call them convocations.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: I suppose it doesn't matter, because there isn't even one now that I have seen, much less a...convocation.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: Anyway, Gramma said the story is, long ago, they all just disappeared.</td>
-					</tr>
-					<tr class="quest_emptyRow_btwNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_you">
-						<td>YOU: Disappeared long ago? But why?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>Terea Lohdren shrugs.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: That is a good question, why?</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: I don't know much about history.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: I don't know much geography either.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: Who might know?...</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>-She thinks to herself, then snaps her finger.-</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: I know!</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: There's an old, old Lemur who works for the Octarch.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: I don't know what he does.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: He's the oldest person I've ever met!</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Terea: Maybe he would know why, long ago, there were lots of eagles and now, well, there are hardly any to be found!</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>→ Go to 
-						<?php
-							echo "<a href='";
-							/* Printing the NPC with a link to the Map */
-							/* The Variable $npcName has to be set !!! */
-							$npcName = 'Oropher Telemmaite [NOT a Lemur!]';
-							$path = $_SERVER['DOCUMENT_ROOT'];
-							$path .= "/includes/npc_link_to_map.inc.php";
-							include($path);
-							echo "' target='_blank'>Oropher Telemmaite [NOT a Lemur!]</a>";
-						?>
-						</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
-						<td></td>
-					</tr>
-					<tr class="quest_you">
-						<td>YOU: Hello. I am trying to find out why there are serpents and eagles carved on the gates of Ojaveda. And why there aren't any eagles around now. And who carved the gates? And why in Ojaveda, when the legend is a gobble legend. Can you help me, sir?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>Oropher Telemmaite smiles a slow smile and pauses for a long while.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>-Finally he speaks.-</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: It is encouraging to hear younger citizens ask questions about our lands and our histories.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: May I ask you, Ylian, a question first, please?</td>
-					</tr>
-					<tr class="quest_emptyRow_btwNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_you">
-						<td>YOU: Sure, ask away.</td>
-					</tr>
-					<tr class="quest_emptyRow_btwNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher without any hint of attitude.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: Why are you looking for these answers?</td>
-					</tr>
-					<tr class="quest_emptyRow_btwNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_you">
-						<td>YOU: Well, a Guard in Ojaveda who stands near the gates asked me to try to find out, so, well, I am!</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>Oropher Telemmaite closes his eyes for a long minute.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>-He opens them and says.-</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: These stories and histories are important to us all, citizen.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: Talk to a woodworker about who carved the gates.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: Talk to...</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: someone who might be most knowledgeable about that history, of when the legend began.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: And the why?</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: Why serpents and eagle gates in the Enkidukai Dsar?</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: Well, after you find those first answers, come back and ask me again.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: If you are careful in your inquiry and...</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_storyline">
-						<td>Oropher Telemmaite looks directly at you.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterStoryline">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: And be honest with me, then perhaps the mystery will become clear.</td>
+						<td>Yonda Axebow: Too much wood in Amdeneir and not enough stone!</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -837,12 +498,6 @@
 					<tr class="quest_emptyRow_afterAction">
 						<td></td>
 					</tr>
-					<tr class="quest_you">
-						<td>YOU: Hello. Are you a carpenter?</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
 					<tr class="quest_storyline">
 						<td>Njormik Carpenter chuckles.</td>
 					</tr>
@@ -850,19 +505,19 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: I am not only a carpenter.</td>
+						<td>Njormik Carpenter: I am not only a carpenter.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: I am THE Carpenter!</td>
+						<td>Njormik Carpenter: I am THE Carpenter!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: Njormik Carpenter, of the famous Carpenter family.</td>
+						<td>Njormik Carpenter: Njormik Carpenter, of the famous Carpenter family.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: My ancestors have been making beautiful wooden furniture for generations!</td>
+						<td>Njormik Carpenter: My ancestors have been making beautiful wooden furniture for generations!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: What heirloom can I make for your legacy, Ylian?</td>
+						<td>Njormik Carpenter: What heirloom can I make for your legacy, Klyros?</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -880,19 +535,19 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: Well now, that's an old, old tale, that's all jumbled up.</td>
+						<td>Njormik Carpenter: Well now, that's an old, old tale, that's all jumbled up.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: But I will try to remember what my family told me anyway, if I can.</td>
+						<td>Njormik Carpenter: But I will try to remember what my family told me anyway, if I can.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: Would you like a stool?</td>
+						<td>Njormik Carpenter: Would you like a stool?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: I just made some, only 130 tria, for one of the best quality you'll find.</td>
+						<td>Njormik Carpenter: I just made some, only 130 tria, for one of the best quality you'll find.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: A great deal!</td>
+						<td>Njormik Carpenter: A great deal!</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -910,31 +565,31 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: I am sure you will come to love that seat!</td>
+						<td>Njormik Carpenter: I am sure you will come to love that seat!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: All right.</td>
+						<td>Njormik Carpenter: All right.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: The truth is, I don't know much about who carved the Serpents and Eagles into the gates that are now hung in Ojaveda.</td>
+						<td>Njormik Carpenter: The truth is, I don't know much about who carved the Serpents and Eagles into the gates that are now hung in Ojaveda.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: I wish my family could claim to have carved them!</td>
+						<td>Njormik Carpenter: I wish my family could claim to have carved them!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: They are magnificent!</td>
+						<td>Njormik Carpenter: They are magnificent!</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: The tale in my family, and this is from a long, long time ago, came by way of a gobble who learned to talk the Common tongue.</td>
+						<td>Njormik Carpenter: The tale in my family, and this is from a long, long time ago, came by way of a gobble who learned to talk the Common tongue.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: A gobble told my ancestor that the gobbles carved the gates and took them to Ojaveda when it was being built by the Enkidukai.</td>
+						<td>Njormik Carpenter: A gobble told my ancestor that the gobbles carved the gates and took them to Ojaveda when it was being built by the Enkidukai.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: I have no idea why.</td>
+						<td>Njormik Carpenter: I have no idea why.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Njormik: Strange story, isn't it?</td>
+						<td>Njormik Carpenter: Strange story, isn't it?</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -1049,6 +704,108 @@
 						<td></td>
 					</tr>
 					<tr class="quest_you">
+						<td>YOU: Hello. I am trying to find out why there are serpents and eagles carved on the gates of Ojaveda. And why there aren't any eagles around now. And who carved the gates? And why in Ojaveda, when the legend is a gobble legend. Can you help me, sir?</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Oropher Telemmaite smiles a slow smile and pauses for a long while.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-Finally he speaks.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: It is encouraging to hear younger citizens ask questions about our lands and our histories.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: May I ask you, Klyros, a question first, please?</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Sure, ask away.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Oropher Telemmaite says without any hint of attitude.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: Why are you looking for these answers?</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
+						<td>YOU: Well, a Guard in Ojaveda who stands near the gates asked me to try to find out, so, well, I am!</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Oropher Telemmaite closes his eyes for a long minute.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>-He opens them and says.-</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: These stories and histories are important to us all, citizen.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: Talk to a woodworker about who carved the gates.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: Talk to...</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: someone who might be most knowledgeable about that history, of when the legend began.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: And the why?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: Why serpents and eagle gates in the Enkidukai Dsar?</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: Well, after you find those first answers, come back and ask me again.</td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: If you are careful in your inquiry and...</td>
+					</tr>
+					<tr class="quest_emptyRow_afterNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_storyline">
+						<td>Oropher Telemmaite looks directly at you.</td>
+					</tr>
+					<tr class="quest_emptyRow_afterStoryline">
+						<td></td>
+					</tr>
+					<tr class="quest_npc">
+						<td>Oropher Telemmaite: And be honest with me, then perhaps the mystery will become clear.</td>
+					</tr>
+					<tr class="quest_emptyRow_btwNpcYou">
+						<td></td>
+					</tr>
+					<tr class="quest_you">
 						<td>YOU: I think I've found some things out. Will you help me now please?</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
@@ -1061,7 +818,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: First tell me, do you know who carved the gates?</td>
+						<td>Oropher Telemmaite: First tell me, do you know who carved the gates?</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -1079,7 +836,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: And did the good gobble tell you anything else?</td>
+						<td>Oropher Telemmaite: And did the good gobble tell you anything else?</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -1097,19 +854,19 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: Well I suppose that definition fits me.</td>
+						<td>Oropher Telemmaite: Well I suppose that definition fits me.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: Yes.</td>
+						<td>Oropher Telemmaite: Yes.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: So he told you the gobbles themselves carved the gates, didn't he?</td>
+						<td>Oropher Telemmaite: So he told you the gobbles themselves carved the gates, didn't he?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: That is true.</td>
+						<td>Oropher Telemmaite: That is true.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: It was a long, long time ago.</td>
+						<td>Oropher Telemmaite: It was a long, long time ago.</td>
 					</tr>
 					<tr class="quest_emptyRow_btwNpcYou">
 						<td></td>
@@ -1121,28 +878,28 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: Yes my Ylian friend.</td>
+						<td>Oropher Telemmaite: Yes my Klyros friend.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: I could tell you why.</td>
+						<td>Oropher Telemmaite: I could tell you why.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: But it might be better to hear the story from its source, perhaps?</td>
+						<td>Oropher Telemmaite: But it might be better to hear the story from its source, perhaps?</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: From...</td>
+						<td>Oropher Telemmaite: From...</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: Those...who were there.</td>
+						<td>Oropher Telemmaite: Those...who were there.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: From those who have long memories.</td>
+						<td>Oropher Telemmaite: From those who have long memories.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: You know, Lorit, those Ojaveda Gates are as old as the hills.</td>
+						<td>Oropher Telemmaite: You know, YOU, those Ojaveda Gates are as old as the hills.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: Perhaps you might ask the hills themselves.</td>
+						<td>Oropher Telemmaite: Perhaps you might ask the hills themselves.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -1154,10 +911,10 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: You may have to be patient, and polite.</td>
+						<td>Oropher Telemmaite: You may have to be patient, and polite.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Oropher: Remember to take your bell.</td>
+						<td>Oropher Telemmaite: Remember to take your bell.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -1204,7 +961,7 @@
 						<td>Ryger: Sent.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Ryger: Ylian.</td>
+						<td>Ryger: Klyros.</td>
 					</tr>
 					<tr class="quest_npc">
 						<td>Ryger: Asking?</td>
@@ -1764,49 +1521,11 @@
 							echo "<a href='";
 							/* Printing the NPC with a link to the Map */
 							/* The Variable $npcName has to be set !!! */
-							$npcName = 'Oropher Telemmaite';
+							$npcName = 'Jedonek Bolossj';
 							$path = $_SERVER['DOCUMENT_ROOT'];
 							$path .= "/includes/npc_link_to_map.inc.php";
 							include($path);
-							echo "' target='_blank'>Oropher Telemmaite</a>";
-						?>
-						</td>
-					</tr>
-					<tr class="quest_emptyRow_afterAction">
-						<td></td>
-					</tr>
-					<tr class="quest_you">
-						<td>YOU: I have spoken with Ryger. The story was long, but interesting.</td>
-					</tr>
-					<tr class="quest_emptyRow_btwNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: Yes.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: The story is an interesting one.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: I am pleased you have learned the story to pass to others.</td>
-					</tr>
-					<tr class="quest_npc">
-						<td>Oropher: History is important.</td>
-					</tr>
-					<tr class="quest_emptyRow_afterNpcYou">
-						<td></td>
-					</tr>
-					<tr class="quest_action">
-						<td>→ Go to 
-						<?php
-							echo "<a href='";
-							/* Printing the NPC with a link to the Map */
-							/* The Variable $npcName has to be set !!! */
-							$npcName = 'Jedonek Boloss';
-							$path = $_SERVER['DOCUMENT_ROOT'];
-							$path .= "/includes/npc_link_to_map.inc.php";
-							include($path);
-							echo "' target='_blank'>Jedonek Boloss</a>";
+							echo "' target='_blank'>Jedonek Bolossj</a>";
 						?>
 						</td>
 					</tr>
@@ -1820,13 +1539,13 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: That is amazing.</td>
+						<td>Jedonek Bolossj: That is amazing.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: So much more to it than I thought.</td>
+						<td>Jedonek Bolossj: So much more to it than I thought.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Here, thank you.</td>
+						<td>Jedonek Bolossj: Here, thank you.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -1838,13 +1557,13 @@
 						<td></td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: I don't think I am going to tell Vetasor.</td>
+						<td>Jedonek Bolossj: I don't think I am going to tell Vetasor.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: I'll find something, less important, to one up him.</td>
+						<td>Jedonek Bolossj: I'll find something, less important, to one up him.</td>
 					</tr>
 					<tr class="quest_npc">
-						<td>Jedonek: Thank you, Ylian.</td>
+						<td>Jedonek Bolossj: Thank you, Klyros.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterNpcYou">
 						<td></td>
@@ -1856,7 +1575,7 @@
 						<td></td>
 					</tr>
 					<tr class="quest_reward">
-						<td>Rewards: 1 Door glyph, 5130 Tria, 13600 XP.</td>
+						<td>Rewards: 1 Door Glyph, 5130 Tria, 13600 XP.</td>
 					</tr>
 					<tr class="quest_emptyRow_afterReward">
 						<td></td>
