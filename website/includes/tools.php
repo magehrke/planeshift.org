@@ -1,5 +1,7 @@
 <?php
 
+include_once ( $_SERVER['DOCUMENT_ROOT'] . "/includes/db_config.php" );
+
 function dump ( $var, $title="" )
 {
 	if ( $title != "" )
@@ -56,7 +58,7 @@ function post2pval ($fn, &$pval)
 
 function connect_db ()
 {
-	$ini = parse_ini_file($_SERVER['DOCUMENT_ROOT'].'../config_planeshift.ini');
+	$ini = parse_ini_file($_SERVER['DOCUMENT_ROOT'].'/../../config_planeshift.ini');
 	$mysqli = new mysqli (
 		$ini['db_url'],
 		$ini['db_user'],
