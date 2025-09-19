@@ -3,18 +3,9 @@
 // simple interface to query the database
 // not linked anywhere, as it is not intented for public use
 
-$ini = parse_ini_file('../config_planeshift.ini');
-$mysqli = new mysqli (
-	$ini['db_url'],
-	$ini['db_user'],
-	$ini['db_pass'],
-	$ini['db_name']
-);
-if ( $mysqli->connect_errno )
-{
-	printf("Connect failed: %s\n", $mysqli->connect_error);
-	exit();
-}
+$path = $_SERVER['DOCUMENT_ROOT'];
+$path = $path . "/includes/db_connect.php";
+include $path;
 
 function no_table_query ( $q )
 {
@@ -33,8 +24,9 @@ function table_query ( $q )
 {
 	global $mysqli;
 	$r = $mysqli->query ( $q );
-	if ( count ( $r ) == 0 )
+    if ($r == FALSE)
 	{
+        print "ERROR:<br>\n";
 		print "<BR>".$mysqli->error."<BR>\n";
 		return;
 	}
@@ -104,9 +96,9 @@ function do_query ()
 	<fieldset>
 	<form method="post">
 		<br><br>Query:<br>
-		<? $q = stripcslashes ( $_POST['query'] ); ?>
+		<?php $q = stripcslashes ( $_POST['query'] ); ?>
 		<textarea cols="60" rows="20"
-         name="query"><? print $q; ?></textarea><br>
+         name="query"><?php print $q; ?></textarea><br>
 		<input name="go" type="submit" value="execute">
 	</form>
 	</fieldset>

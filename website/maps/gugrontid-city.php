@@ -17,7 +17,8 @@
 			swap_xz = false,
 			offsetX = 45000, 
 			offsetY = 16200, 
-			map = "/images/maps/gugrontid-1024x768.jpg", 
+			//map = "/images/maps/gugrontid-1024x768.jpg",
+            map = "/images/maps/gugrontid7.JPG",
 			rot = false,
 			layers = 1,
 			hiddenLayers = [];

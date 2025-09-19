@@ -11,7 +11,6 @@
     $mysqli->query("DROP TABLE IF EXISTS npcs")
         or die($mysqli->error);
 
-
     /* create database table for NPCs */
     $newTable = "CREATE TABLE IF NOT EXISTS npcs (
                         name VARCHAR(50) NOT NULL,
@@ -24,12 +23,11 @@
                         mainPos bit NOT NULL,
                         PRIMARY KEY (name, area)
                 ) ENGINE = MyISAM";
-
     $mysqli->query($newTable) or die($mysqli->error);
 
     /* All nps in alphabetical order */
-    /* Order: name, location, quantity of this npc, last checkup, positions */
-    $npcs_to_insert = array(
+    /* Order: name, area, profession, quantity, checkup, position, walking, mainPos */
+    $npcs_to_insert = array (
         // Amdeneir
         'Alnaxen Inzein','Amdeneir','Guard','1','2018-02-03','-49.42 24.22 -110.08', '', 1,
         'Blxzahe Rlzsda','Amdeneir','Guard','1','2018-02-03','-42.13 27.73 7.45', '', 1,
@@ -525,6 +523,54 @@
         'Intelligent Clacker', '','tbd', 1, 'none', '0 0 0', '', 1,
         'Peasant Woman', '','tbd', 1, 'none', '0 0 0', '', 1,
 
+	    /* Order: name, area, profession, quantity, checkup, position, walking, mainPos */
+        /*
+            The worldmap
+            Pos: X Y Z
+        */
+        // NPCs
+
+        // A
+        // B
+        // C
+        // D
+        'Dark Wanderer',        'World', 'tbd', 1, 'none', '13000 -703000', '', 1,
+        // E
+        'Enak Lerenal',         'World', 'tbd', 1, '', '496402 -347773', '', 1,
+        // F
+        // G
+        'Grok Idon',            'World', 'tbd', 1, 'none', '210898.71 -399534.17 11454.81', '', 1,
+        'Gundrius Ferilo',      'World', 'tbd', 1, 'none', '158353.89 -526175.52 11039.19', '', 1,
+        // H
+        // I
+        // J
+        'Jashoky Dakam',        'World', 'tbd', 1, 'none', '366969.35 -359513.81 10348.55', '', 1,
+        // K
+        'Kora Windstone',       'World', 'tbd', 1, 'none', '176894.32 -541296.17 12569.43', '', 1,
+        // L
+        'Laure Eves',		    'World', 'tbd', 1, 'none', '173571 -407621', '', 1,
+        // M
+        'Meoreor',              'World', 'tbd', 1, 'none', '196000 -747000', '', 1,
+        'Muldin',               'World', 'tbd', 1, 'none', '110000 -330000', '', 1,
+        // N
+        'Nyshyn Klannarr',	    'World', 'tbd', 1, 'none', '140500 -462388', '', 1,
+        // O
+        // P
+        // Q
+        // R
+        'Rylayne Ogrin',        'World', 'tbd', 1, 'none', '153985 -392364', '', 1,
+        // S
+        // T
+        // U
+        'Ukabnu',               'World', 'tbd', 1, 'none', '175481 -406739', '', 1,
+        // V
+        'Veieund',              'World', 'tbd', 1, 'none', '196000 -747000', '', 1,
+        // W
+        // X
+        // Y
+        // Z
+
+        //'',             'World', 'tbd', 1, 'none', '', '', 1,
     );
 
     /* Insert NPC into table */
@@ -542,6 +588,87 @@
         if ($mysqli->query($npcQuery) == FALSE)
         {
             print "q: $npcQuery<br>";
+            print $mysqli->error."<br>";
+        }
+    }
+    /* ########## MOBS Locations ########## */
+    $mysqli->query("DROP TABLE IF EXISTS mobs") or die($mysqli->error);
+
+    /* create database table for MOBs */
+    $newTable = "CREATE TABLE IF NOT EXISTS mobs (
+                        name VARCHAR(50) NOT NULL,
+                        area VARCHAR(50) NOT NULL,
+                        quantity INT NOT NULL,
+                        position VARCHAR(700) NOT NULL,
+                        PRIMARY KEY (name, area)
+                ) ENGINE = MyISAM";
+    $mysqli->query($newTable) or die($mysqli->error);
+
+    $npcs_to_insert = array (
+        // A
+        'Amored Riverling',     'World', 1, '160586 -454257',
+        // B
+        'Black Root',           'World', 1, '130000 -550000',
+        // C
+        'Coamti',               'World', 1, '197354 -395633, 59363 -464599',
+        'Consumer',             'World', 1, '157566 -394473, 314334 -376786',
+        'Cutthroat',            'World', 1, '455890 -331876, 190905 -433035',
+        // D
+        // E
+        'Eagle Gobbles',        'World', 1, '164492 -437985, 394915 -371212',
+        // F
+        // G
+        // H
+        // I
+        'Imago Consumer',  	    'World', 1, '304769 -375604, 337442 -358241, 392013 -367203 7195',
+        // J
+        'Jade Clacker',		    'World', 1, '155266 -448735, 177428 -445665, 366979 -351120, 368840 -357366',
+        // K
+        // L
+        // M
+        'Marfusang',            'World', 1, '174037 -483920, 418838 -366164',
+        'Maulbernaut',          'World', 1, '141125 -485194, 324705 -373182, 392013 -367203, 413181 -336947',
+        'Maulberlord',		    'World', 1, '328421 -371949',
+        // N
+        'Neoten Consumer',      'World', 1, '305426 -321406',
+        // O
+        'One-Claw',             'World', 1, '230000 -744000',
+        // P
+        // Q
+        // R
+        'Riverling',		    'World', 1, '160586 -454257',
+        // S
+        'Serpent Gobbles',      'World', 1, '400293 -327993, 163923 -448451',
+        'Stalg',                'World', 1, '65000 -490000',
+        // T
+        'Tefusang(ling)',       'World', 2, '174037 -483920, 215652 -452826, 241881 -454668, 227332 -424551, 418838 -366164, 495653 -374283',
+
+        'Thunder Clacker',	    'World', 1, '196741 -462894, 372683 -352653, 368840 -357366',
+
+        'Trepor',               'World', 1, '163551 -492641, 194479 -409255, 195202 -410347, 442169 -355085',
+        'Trepor Warrior',	    'World', 1, '195202 -410347, 163551 -492641',
+        'Trepor Queen',      	'World', 1, '163551 -492641',
+        // U
+        'Ulbernaut',           	'World', 1, '140339 -472075, 413181 -336947',
+        // V
+        'Vilenaut',             'World', 1, '324705 -373182, 141125 -485194, 413181 -336947',
+        // W
+        // X
+        // Y
+        // Z
+    );
+    /* Insert MOB into table */
+    for($i = 0; $i < count($npcs_to_insert); $i += 4)
+    {
+        $mobQuery = "INSERT INTO mobs (name, area, quantity, position) VALUES ("
+            ."'" . $npcs_to_insert[$i]   . "',"
+            ."'" . $npcs_to_insert[$i+1] . "',"
+            ."'" . $npcs_to_insert[$i+2] . "',"
+            ."'" . $npcs_to_insert[$i+3] . "')";
+        print "$mobQuery<br>\n";
+        if ($mysqli->query($mobQuery) == FALSE)
+        {
+            print "q: $mobQuery<br>";
             print $mysqli->error."<br>";
         }
     }
@@ -674,21 +801,103 @@
             // the howling well
             'Entry/Exit', 'Howling Well', '148 0 3', '',
             'Exit', 'Howling Well', '18 0 114', '',
+
+            /*
+                The worldmap
+                Pos: X Y Z
+                Z is ignored
+            */
+            // Places
+
+            // A
+            'Amdeneir',                         'World',    '-344967 -591112', '',
+            'Arena',                            'World',    '170000 -300000', '',
+            // B
+            // C
+            'Camp Bannished',                   'World',    '285067 -334599', '',
+            'Cutthroat Bane',                   'World',    '186656 -434671', '',
+            'Cup of Laanx',                     'World',    '650000 -660000', '',
+            // D
+            'Delving',                          'World',    '228207 -581747', '',
+            'Dhergier Village',                 'World',    '369262 -332478', '',
+            // E
+            'Eagle Bronze Doors',               'World',    '130000 -870000', '',
+            'Eagle Fortress',                   'World',    '130000 -845000', '',
+            'Emerald Lake',                     'World',    '-350000 -250000', '',
+            'Explorer Outpost',                 'World',    '160000 -540000', '',
+            // F
+            'Fortress Entry',                   'World',    '103992 -743707', '',
+            // G
+            'Gugrontid',                        'World',    '65205 -444557', '',
+            'Guild Hall of the War Smiters',    'World',    '639811 -311986', '',
+            // H
+            'Homestead',                        'World',    '-176843 -326411', '',
+            'House of Spirit',                  'World',    '243385 -454660', '',
+            'Howling Well',                     'World',    '152000 -390000', '',
+            'Hydlaa',                           'World',    '204754 -317767', '',
+            // I
+            // J
+            // K
+            // L
+            'Lake of Tears',                    'World',    '161820 -528814', '',
+            'Lavacave Entry',                   'World',    '149930 -754152', '',
+            'Lavacave Exit',                    'World',    '213433 -771992', '',
+            // M
+            'Magic Shop',                       'World',    '200897 -356680', '',
+            // N
+            'Niffa Island',                     'World',    '532973 -478949', '',
+            // O
+            'Observatory',                      'World',    '-52000 -390000', '',
+            'Observation Outpost',              'World',    '-59015 -313923', '',
+            'Ojaveda',                          'World',    '548683 -371401', '',
+            // P
+            'Pool of Stealth',                  'World',    '317942 -356740', '',
+            // Q
+            // R
+            'Raurim',                           'World',    '563396 -515385', '',
+            'Ruins',                            'World',    '440000 -575000, 26000 -380000', '',
+
+            // S
+            'Shindroks Crater',                 'World',    '470000 -350000', '',
+            'Stone Labyrinths',                 'World',    '149147 -891602', '',
+            // T
+            'Talads Touch',                     'World',    '140838 -458944', '',
+            'Tower',                            'World',    '-30000 -370000', '',
+            'Temple of The Conclave of the glyphs', 'World', '21087 -443208', '',
+            // U
+            'Underground Cave',                 'World',    '51275 -271441', '',
+            // V
+            // W
+            // X
+            'Xalpys Cave',                      'World',    '5000 -745000', '',
+            // Y
+            // Z
+
+            // Mines
+            'Coal Mine',	                    'World',    '197055 -355293, 200580 -353715, 198785 -415578', '',
+            'Copper Minea',                     'World',    '147555 -525183, 67099 -450647', '',
+            'Iron Mine',                        'World',    '199764 -405309, 200099 -405392, 219320 -449390', '',
+            'Gold Mine',	                    'World',    '156212 -512057, 424763 -345102, 424469 -335095, 79228 -452058', '',
+            'Platinum Mine',                    'World',    '366604 -343812', '',
+            'Tin Mine',		                    'World',    '392022 -367177', '',
+            'Zinc Mine',	                    'World',    '236816 -486626, 476531 -345962', '',
+
         );
 
-        for($i = 0; $i < count($mapsLoc_to_insert); $i += 4) {
+        for($i = 0; $i < count($mapsLoc_to_insert); $i += 4)
+        {
             $mapsLoc_query = "INSERT INTO mapsLocations (name, area, position, checkup)
                         VALUES ('" . $mapsLoc_to_insert[$i]
                         . "', '" . $mapsLoc_to_insert[$i+1]
                         . "', '" . $mapsLoc_to_insert[$i+2]
                         . "', '" . $mapsLoc_to_insert[$i+3]
                         .  "')";
-        if ($mysqli->query($mapsLoc_query) == FALSE)
-        {
-            print "q: $npcQuery<br>";
-            print $mysqli->error."<br>";
+            if ($mysqli->query($mapsLoc_query) == FALSE)
+            {
+                print "q: $npcQuery<br>";
+                print $mysqli->error."<br>";
+            }
         }
-    }
     /* ########################################################################################## */
     /* ########################################################################################## */
 
@@ -838,10 +1047,25 @@
         'Adorned Crate',        'Howling Well', 'Chest',        '58 0 175', '2020-06-01',
         'Ancient Ash Brother Journal',  'Howling Well', 'Book',         '143 0 204', '2020-06-01',
         'The Journal of Magister Fallox', 'Howling Well', 'Book',       '52 0 162', '2020-06-01',
-        'Nefas Dur Journal',        'Howling Well', 'Book',         '40 0 146', '2020-06-01'
+        'Nefas Dur Journal',        'Howling Well', 'Book',         '40 0 146', '2020-06-01',
+
+        //
+        // WORLD MAP
+        ///
+        'Carrot',                   'World',    'Plants',   '223397 -398466', '',
+        'Firelantern Flower',       'World',    'Plants',   '161850 -437568, 218177 -456273', '',
+        'Glaboria',                 'World',    'Plants',   '172106 -412532, 177628 -402068', '',
+        'Lake Mushroom',            'World',    'Plants',   '155445 -449973, 164564 -447402', '',
+        'Octarchfoil Leaf',         'World',    'Plants',   '291463 -375422', '',
+        'Sapphire Orilliphia Root', 'World',    'Plants',   '264007 -340794', '',
+        'Threestem Wood',           'World',    'Plants',   '297036 -334085, 264544 -337521, 404503 -337386', '',
+        'Wragberry',                'World',    'Plants',   '264007 -340794', '',
+
+
         );
 
-        for($i = 0; $i < count($mapsItems_to_insert); $i += 5) {
+        for($i = 0; $i < count($mapsItems_to_insert); $i += 5)
+        {
             $mapsItems_query = "INSERT INTO mapsItems (name, area, category, position, checkup)
                         VALUES ('" . $mapsItems_to_insert[$i]
                         . "', '" . $mapsItems_to_insert[$i+1]
@@ -849,13 +1073,12 @@
                         . "', '" . $mapsItems_to_insert[$i+3]
                         . "', '" . $mapsItems_to_insert[$i+4]
                         .  "')";
-        if ($mysqli->query($mapsItems_query) == FALSE)
-        {
-            print "q: $npcQuery<br>";
-            print $mysqli->error."<br>";
+            if ($mysqli->query($mapsItems_query) == FALSE)
+            {
+                print "q: $npcQuery<br>";
+                print $mysqli->error."<br>";
+            }
         }
-    }
     /* ########################################################################################## */
-
     /* close connection */
     $mysqli->close();

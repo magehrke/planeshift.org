@@ -93,6 +93,8 @@
             <li class="navigation_button_maps">
                 Maps
                 <ul class="navigation_dropdown_menu">
+                    <li><a href="/maps/worldmap.php">Worldmap</a></li>
+                    <li><br></li>
                     <li><a href="/maps/amdeneir.php#plain">Amdeneir</a></li>
                     <li><a href="/maps/arena.php#plain">Arena</a></li>
                     <li><a href="/maps/bronze-door-road-1.php#plain">Bronze Door Road 1</a></li>
@@ -104,7 +106,7 @@
                     <li><a href="/maps/dungeon.php#plain">Dungeon</a></li>
                     <li><a href="/maps/gugrontid-city.php#plain">Gugrontid City</a></li>
                     <li><a href="/maps/guildlaw.php#plain">Guildlaw</a></li>
-										<li><a href="/maps/howling-well.php#plain">Howling Well</a></li>
+					<li><a href="/maps/howling-well.php#plain">Howling Well</a></li>
                     <li><a href="/maps/hydlaa.php#plain">Hydlaa</a></li>
                     <li><a href="/maps/hydlaa-east.php#plain">Hydlaa East</a></li>
                     <li><a href="/maps/lava-cave.php#plain">Lava Cave</a></li>
