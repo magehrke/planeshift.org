@@ -43,7 +43,7 @@
 		'Winch Access Honest', 10, 'What&apos;s up with the Carpets', 'Brentic', '', '2018-02-23',
 		'Winch Access Honest', 11, 'Jirosh Shipment Inquiry', 'Jirosh Mikana', '', '2018-02-23',
 		'Winch Access Honest', 12, 'Jirosh&apos;s Stolen Statue', 'Jirosh Mikana', '', '2018-02-23',
-		'Winch Access Honest', 13, 'The Mikana Merchants Syndicate', 'Jirosh Mikana', '', '2018-02-23',
+		'Winch Access Honest', 13, 'The Mikana Merchant Syndicate', 'Jirosh Mikana', '', '2018-02-23',
 		'Winch Access Honest', 14, 'Use Mercantile Access Paper', 'Percival Hawthorne', '', '2018-02-21',
 		// After Quest 12 (Jiroshs Stolen Statue), you can also do the DISHONEST way:
 		// 		'Winch Access Dishonest', 9, 'Thorian&apos;s Shield', 'Thorian Gronk', '2018-02-21',

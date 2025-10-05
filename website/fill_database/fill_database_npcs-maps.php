@@ -842,6 +842,7 @@
             'Lake of Tears',                    'World',    '161820 -528814', '',
             'Lavacave Entry',                   'World',    '149930 -754152', '',
             'Lavacave Exit',                    'World',    '213433 -771992', '',
+            'Listarindel',                      'World',    '-140183 -537125', '',
             // M
             'Magic Shop',                       'World',    '200897 -356680', '',
             // N
