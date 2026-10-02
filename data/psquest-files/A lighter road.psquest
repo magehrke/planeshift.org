@@ -1,0 +1,103 @@
+[Questname] A lighter road
+[NPC Name] Jorni Yeelni
+[Checkup] 2026-03-25
+[Authors] Haviland
+[Repeatable] No
+
+[To] Jorni Yeelni
+
+[NPC Internal] Haviland Tenouri: You have a nice warehouse. I see you also have carts and wagons here.
+[NPC] Jorni Yeelni: Indeed.
+[NPC] Jorni Yeelni: Managing them is part of my work.
+[NPC] Jorni Yeelni: Hydlaa is a crossroads for many trade routes, so goods are always arriving.
+[NPC] Jorni Yeelni: Merchants travel here from all across the land, and most bring their own carts and wagons.
+[NPC Internal] Haviland Tenouri: You have a nice warehouse. I see you also have carts and wagons here.
+[NPC] Jorni Yeelni: Indeed.
+[NPC] Jorni Yeelni: Managing them is part of my work.
+[NPC] Jorni Yeelni: Hydlaa is a crossroads for many trade routes, so goods are always arriving.
+[NPC] Jorni Yeelni: Merchants travel here from all across the land, and most bring their own carts and wagons.
+[NPC Internal] Haviland Tenouri: Oh, I would like to have a cart myself! Is that possible?
+[NPC] Jorni Yeelni: It is a difficult time for this request, but we can discuss about it if you are really interested.
+[NPC Internal] Haviland Tenouri: Sure, is there something troubling you?
+[NPC] Jorni Yeelni: Let's speak about that later.
+[NPC] Jorni Yeelni: But first, let's go through the standard stuff.
+[NPC] Jorni Yeelni: I need to confirm you're a trustable trader.
+[NPC] Jorni Yeelni: There is just not enough space in my warehouse for everyone, plus the city requires a formal permit to allow you to drive a cart through the city gates.
+[NPC] Jorni Yeelni: Starting with the trusted trade, do you have any credentials or references?
+[NPC Internal] Haviland Tenouri: I helped Jirosh in Ojaveda recently, and he was happy about my work.
+[NPC] Jorni Yeelni: Oh, let me look up your name as we exchange often with Jirosh the list of trustable traders and merchants.
+[NPC] Jorni Yeelni: Yes!
+[NPC] Jorni Yeelni: Actually he mentioned your name and also your good work with him.
+[NPC Internal] Haviland Tenouri: Great, I'm humbled by the reccomendation, so only the permit is left. What do I need to do?
+[NPC] Jorni Yeelni: Normally, I could recommend you for a transport permit and the guards would approve it.
+[NPC] Jorni Yeelni: But right now, there is a problem.
+[NPC Internal] Haviland Tenouri: What kind of problem?
+[NPC] Jorni Yeelni: The Octarch have put a hold on all new transport permits.
+[NPC] Jorni Yeelni: Bandits have been attacking caravans on the road around Hydlaa, with increase frequency and brutality.
+[NPC] Jorni Yeelni: Until the roads are safer, no new permits will be issued.
+[NPC Internal] Haviland Tenouri: I could handle the bandits.
+[NPC] Jorni Yeelni: You think you can.
+[NPC] Jorni Yeelni: No offense meant, but these bandits are difficult even to spot, let alone track to their camp and deal with.
+[NPC Internal] Haviland Tenouri: I'm not just talking. I've handled danger before. I can prove it.
+[NPC] Jorni Yeelni: Hm.
+[NPC] Jorni Yeelni: Can you really?
+[NPC Internal] Haviland Tenouri: I've dealt with worse. I know how to hold my ground even when I'm outnumbered. I'm not new to danger.
+[NPC] Jorni Yeelni: Ok, I hear certainty in your voice.
+[NPC] Jorni Yeelni: Excellent.
+[NPC] Jorni Yeelni: All three major roads coming to the city are in danger, I need proof you made each road a bit safer.
+[NPC] Jorni Yeelni: The roads going to Ojaveda, Gugrontid and Homestead.
+[NPC Internal] Haviland Tenouri: Assuming I find them, do you want me to kill them?
+[NPC] Jorni Yeelni: Yes, they deserve that.
+[NPC] Jorni Yeelni: Try to find the transport logs of the missing caravans: armors, weapons, jewelry, etc...
+[NPC] Jorni Yeelni: Bring those to me and I will have my proof.
+[NPC] Nevis Revori: I failed to move, will teleport in 5 sec.
+[NPC Internal] Haviland Tenouri: Ok, tell me where I can find the bandits on the road to Ojaveda.
+[NPC] Jorni Yeelni: Travel east from Hydlaa toward Ojaveda.
+[NPC] Jorni Yeelni: The road will turn few times between the mountain and you will see a camp of rogues on your right.
+[NPC] Jorni Yeelni: The camp itself is tolerated by the guards, and they already inspected it multiple times, so its not them, but not too far from that location is where the bandits ambushed a wagon.
+[NPC] Jorni Yeelni: So investigate that area.
+[NPC Internal] Haviland Tenouri: Ok, tell me where I can find the bandits on the road to Gugrontid.
+[NPC] Jorni Yeelni: Exit from the North gate following the road to Gugrontid.
+[NPC] Jorni Yeelni: After a while you will find a junction with some local roads, and the last event happened around that location.
+[NPC Internal] Haviland Tenouri: Ok, tell me where I can find the bandits on the road to Homestead.
+[NPC] Jorni Yeelni: Head west from Hydlaa toward the mountains.
+[NPC] Jorni Yeelni: After the small fortress you pass, you'll come to a road-junction where two paths split.
+[NPC] Jorni Yeelni: The bandits have set up a temporary hide-out there, they wait for wagons and strike from cover.
+
+[Info] Now you have to find and kill the rouges. Each of them is on a mountain top and apears a few seconds after you arrive at the right spot. Sometimes it takes longer and sometimes you need to kill them more than once to get the papers. Sometimes it takes really long for them to respawn"
+
+[To] Jorni Yeelni
+
+[NPC Internal] Haviland Tenouri: I have retrieved a log of stolen armors.
+[NPC] Jorni Yeelni: Very good. Let's see...
+[NPC] Jorni Yeelni: . That's it, thanks.
+[NPC Internal] Haviland Tenouri: I have retrieved a log of stolen jewelry.
+[NPC] Jorni Yeelni: Very good. Let's see...
+[NPC] Jorni Yeelni: . That's it, thanks.
+[NPC Internal] Haviland Tenouri: I have retrieved a log of stolen weapons.
+[NPC] Jorni Yeelni: Very good. Let's see... 
+[NPC] Jorni Yeelni: . That's it, thanks.
+[NPC Internal] Haviland Tenouri: Are these three pages enough to proceed with the permit?
+[NPC] Jorni Yeelni: It will take a bit of my persuation skills, but yes, with these in hand I can vouch to the guards that you acted, gathered proof, and deserve your permit.
+[NPC] Jorni Yeelni: But there is one more thing to do.
+[NPC Internal] Haviland Tenouri: Ok, at this point, I'm all in. Tell me what is needed.
+[NPC] Jorni Yeelni: While I obtain the permit, you can use the time to gather the materials needed to build the cart.
+[NPC] Jorni Yeelni: Travel to the forest outside of the city and gather three batches of 15 White Oak Wood each  so Hamel the carpenter can build your cart.
+[NPC] Jorni Yeelni: When you have the materials go directly to him.
+
+[To] Hamel Warson
+
+[NPC Internal] Haviland Tenouri: Hello Hamel, I have collected some wood to build a cart.
+[NPC] Hamel Warson: Yes, I got a message from Jorni about your request. Splendid work on this first batch, I need two more sets of White Oak Wood.
+[NPC] Hamel Warson: Please bring those to me.
+[NPC Internal] Haviland Tenouri: Hello Hamel, I've collected another batch of wood.
+[NPC] Hamel Warson: Excellent, I just need one more and that will be enough for your cart.
+[NPC Internal] Haviland Tenouri: Hello Hamel, here is the final batch of wood.
+[NPC] Hamel Warson: Perfect, I will work on the cart immediately, you will find it in Jorni warehouse in a few.
+[NPC] Hamel Warson: Just speak with him.
+
+[Info] You have received a Small Cart. It is now in your transport storage.
+[Info] Mohonin has done a <a href="https://www.youtube.com/watch?v=EnTTU42KNQw">video</a> on this quest.
+
+[Reward] [Item] a Small Cart
+

@@ -807,7 +807,7 @@
 		array (
 			"name"		=> "Raw Major Potion of Air Element Affinity",
 			"type"		=> "i",
-			"ingredient"	=> "C 2 Air Essence, C 1 Quicksilver Solution, C 1 Wyn Paste",
+			"ingredient"	=> "C 2 Air Essence, C 1 Quicksilver Solution, C 1 Blue Orchid Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -817,7 +817,7 @@
 		array (
 			"name"		=> "Raw Potion of Water Crystal and Air Affinity",
 			"type"		=> "i",
-			"ingredient"	=> "C 2 Bright Essence, C 2 Gold Solution, C 1 Wyn Paste",
+			"ingredient"	=> "C 2 Bright Essence, C 2 Gold Solution, C 1 Blue Orchid Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -843,7 +843,7 @@
 		array (
 			"name"		=> "Raw Major Potion of Azure Sun Affinity",
 			"type"		=> "i",
-			"ingredient"	=> "C 2 Crystal Essence, C 1 Copper Solution, C 1 Wyn Paste",
+			"ingredient"	=> "C 2 Crystal Essence, C 1 Copper Solution, C 1 Blue Orchid Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -959,7 +959,7 @@
 		array (
 			"name"		=> "Raw Major Potion of Water Element Affinity",
 			"type"		=> "i",
-			"ingredient"	=> "C 2 Water Essence, C 1 Tin Solution, C 1 Wyn Paste",
+			"ingredient"	=> "C 2 Water Essence, C 1 Tin Solution, C 1 Blue Orchid Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -969,7 +969,7 @@
 		array (
 			"name"		=> "Raw Major Potion of Water Crystal and Air Affinity",
 			"type"		=> "i",
-			"ingredient"	=> "C 3 Bright Essence, C 2 Gold Solution, C 2 Wyn Paste",
+			"ingredient"	=> "C 3 Bright Essence, C 2 Gold Solution, C 2 Blue Orchid Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -989,7 +989,7 @@
 		array (
 			"name"		=> "Raw Potion of Air Element Affinity",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Air Essence, C 1 Quicksilver Solution, C 1 Wyn Pulp",
+			"ingredient"	=> "C 1 Air Essence, C 1 Quicksilver Solution, C 1 Blue Orchid Pulp",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -1009,7 +1009,7 @@
 		array (
 			"name"		=> "Raw Minor Potion of Water Crystal and Air Affinity",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Bright Essence, C 1 Gold Solution, C 1 Wyn Paste",
+			"ingredient"	=> "C 1 Bright Essence, C 1 Gold Solution, C 1 Blue Orchid Paste",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -1019,7 +1019,7 @@
 		array (
 			"name"		=> "Raw Potion of Azure Sun Affinity",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Crystal Essence, C 1 Copper Ore Solution, C 1 Wyn Pulp",
+			"ingredient"	=> "C 1 Crystal Essence, C 1 Copper Ore Solution, C 1 Blue Orchid Pulp",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -1375,7 +1375,7 @@
 		array (
 			"name"		=> "Raw Potion of Water Element Affinity",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Water Essence, C 1 Tin Ore Solution, C 1 Wyn Pulp",
+			"ingredient"	=> "C 1 Water Essence, C 1 Tin Ore Solution, C 1 Blue Orchid Pulp",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -11934,7 +11934,7 @@
 		array (
 			"name"		=> "Dried Reed",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Wyn Reed",
+			"ingredient"	=> "H 1 Blue Orchid",
 			"result"	=> "1",
 			"tool"		=> "Smith Table",
 			"skill"		=> "Shield Making",
@@ -15113,7 +15113,7 @@
 		array (
 			"name"		=> "Crayfish and Clacker Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 2 Crayfish Meat, C 1 Pile of Cubed Clacker Meat, C 1 Minced Pungent Tuber, C 1 Sliced Bogo Pepper, C 2 Dash of Ground Wyn Reed, C 1 Pinch of Barberry",
+			"ingredient"	=> "C 2 Crayfish Meat, C 1 Pile of Cubed Clacker Meat, C 1 Minced Pungent Tuber, C 1 Sliced Bogo Pepper, C 2 Dash of Ground Blue Orchid, C 1 Pinch of Sapphire Orilliphia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -15315,7 +15315,7 @@
 		array (
 			"name"		=> "Unmixed Ynnwn Fish Platter",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Dash of Ground Wyn Reed, C 1 Baked Ide, C 1 Chopped Nut, C 1 Juiceberry Juice",
+			"ingredient"	=> "C 1 Dash of Ground Blue Orchid, C 1 Baked Ide, C 1 Chopped Nut, C 1 Juiceberry Juice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -15475,7 +15475,7 @@
 		array (
 			"name"		=> "Uncooked Pepper Garnish",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Pat of Butter, C 1 Diced Bogo Pepper, C 1 Pinch of Barberry",
+			"ingredient"	=> "C 1 Pat of Butter, C 1 Diced Bogo Pepper, C 1 Pinch of Sapphire Orilliphia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -16085,9 +16085,9 @@
 		// Dishes with Fishes, Meat and Stew Recipes
 		//
 		array (
-			"name"		=> "Ground Wyn Reed",
+			"name"		=> "Ground Blue Orchid",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Wyn Reed",
+			"ingredient"	=> "H 1 Blue Orchid",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Cooking",
@@ -16108,9 +16108,9 @@
 			"book"		=> "Dishes with Fishes"
 		),
 		array (
-			"name"		=> "Pinch of Barberry",
+			"name"		=> "Pinch of Sapphire Orilliphia",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Barberry Root",
+			"ingredient"	=> "H 1 Sapphire Orilliphia Root",
 			"result"	=> "25",
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Cooking",
@@ -16524,9 +16524,9 @@
 		// Dishes with Fishes, Meat and Stew Recipes
 		//
 		array (
-			"name"		=> "Dash of Ground Wyn Reed",
+			"name"		=> "Dash of Ground Blue Orchid",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Ground Wyn Reed",
+			"ingredient"	=> "C 1 Ground Blue Orchid",
 			"result"	=> "30",
 			"tool"		=> "Preparation Table + Scoop",
 			"skill"		=> "Cooking",
@@ -17147,9 +17147,9 @@
 		// Drinks of the Dome, Secrets of the Barrel
 		//
 		array (
-			"name"		=> "Steeping Dandelion Flower",
+			"name"		=> "Steeping Firelantern Flower",
 			"type"		=> "i",
-			"ingredient"	=> "H 5 Dandelion Flower, C 1 Pot of Hot Water",
+			"ingredient"	=> "H 5 Firelantern Flower, C 1 Pot of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Brewing",
@@ -17160,9 +17160,9 @@
 		// Drinks of the Dome
 		//
 		array (
-			"name"		=> "Dandelion Base",
+			"name"		=> "Firelantern Base",
 			"type"		=> "i",
-			"ingredient"	=> "C 5 Dandelion Pulp, C 1 Mead Base",
+			"ingredient"	=> "C 5 Firelantern Pulp, C 1 Mead Base",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Brewing",
@@ -17366,9 +17366,9 @@
 		// Drinks of the Dome
 		//
 		array (
-			"name"		=> "Half Brewed Dandelion Melomel",
+			"name"		=> "Half Brewed Firelantern Melomel",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Strained Dandelion Base, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
+			"ingredient"	=> "C 1 Strained Firelantern Base, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Brewing",
@@ -17668,9 +17668,9 @@
 			"book"		=> "Drinks of the Dome, Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Dandelion Pulp",
+			"name"		=> "Firelantern Pulp",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Steeping Dandelion Flower",
+			"ingredient"	=> "C 1 Steeping Firelantern Flower",
 			"result"	=> "1",
 			"tool"		=> "Fruit Press",
 			"skill"		=> "Brewing",
@@ -17741,9 +17741,9 @@
 			"book"		=> "Drinks of the Dome"
 		),
 		array (
-			"name"		=> "Strained Dandelion Base",
+			"name"		=> "Strained Firelantern Base",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Brewed Dandelion Base",
+			"ingredient"	=> "C 1 Brewed Firelantern Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
 			"skill"		=> "Brewing",
@@ -17821,9 +17821,9 @@
 			"book"		=> "Drinks of the Dome"
 		),
 		array (
-			"name"		=> "Brewed Dandelion Base",
+			"name"		=> "Brewed Firelantern Base",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Dandelion Base",
+			"ingredient"	=> "C 1 Firelantern Base",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
 			"skill"		=> "Brewing",
@@ -17831,9 +17831,9 @@
 			"book"		=> "Drinks of the Dome"
 		),
 		array (
-			"name"		=> "Dandelion Melomel Barrel",
+			"name"		=> "Firelantern Melomel Barrel",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Half Brewed Dandelion Melomel",
+			"ingredient"	=> "C 1 Half Brewed Firelantern Melomel",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
 			"skill"		=> "Brewing",
@@ -36149,7 +36149,7 @@
 		array (
 			"name"		=> "Unfinished Gobo Salve",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Gobo Oil, C 1 Blackbush Powder",
+			"ingredient"	=> "C 1 Gobo Oil, C 1 Purple Orchid Powder",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -36157,9 +36157,9 @@
 			"book"		=> "Gifts of Xiosia"
 		),
 		array (
-			"name"		=> "Unfinished Lavender Salve",
+			"name"		=> "Unfinished Glaboria Salve",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Lavender Oil, C 1 Sicklepod Powder",
+			"ingredient"	=> "C 1 Glaboria Oil, C 1 Sicklepod Powder",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -36177,9 +36177,9 @@
 			"book"		=> "Gifts of Xiosia"
 		),
 		array (
-			"name"		=> "Blackbush Powder",
+			"name"		=> "Purple Orchid Powder",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Blackbush Stem",
+			"ingredient"	=> "H 1 Purple Orchid Stem",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Herbal",
@@ -36187,9 +36187,9 @@
 			"book"		=> "Gifts of Xiosia"
 		),
 		array (
-			"name"		=> "Lavender Salve",
+			"name"		=> "Glaboria Salve",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Unfinished Lavender Salve",
+			"ingredient"	=> "C 1 Unfinished Glaboria Salve",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -36212,7 +36212,7 @@
 		array (
 			"name"		=> "Raw Greater Cure Disease Potion",
 			"type"		=> "i",
-			"ingredient"	=> "B 2 Barberry Syrup, C 3 Diluted Illness Essence",
+			"ingredient"	=> "B 2 Sapphire Orilliphia Syrup, C 3 Diluted Illness Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -36222,7 +36222,7 @@
 		array (
 			"name"		=> "Raw Greater Potion of Healing",
 			"type"		=> "i",
-			"ingredient"	=> "C 2 Kingsfoil Tea, C 3 Healing Essence",
+			"ingredient"	=> "C 2 Octarchfoil Tea, C 3 Healing Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -36252,7 +36252,7 @@
 		array (
 			"name"		=> "Raw Lesser Cure Disease Potion",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Barberry Extract, C 1 Diluted Illness Essence",
+			"ingredient"	=> "C 1 Sapphire Orilliphia Extract, C 1 Diluted Illness Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -36262,7 +36262,7 @@
 		array (
 			"name"		=> "Raw Cure Disease Potion",
 			"type"		=> "i",
-			"ingredient"	=> "B 1 Barberry Syrup, C 2 Diluted Illness Essence",
+			"ingredient"	=> "B 1 Sapphire Orilliphia Syrup, C 2 Diluted Illness Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -36272,7 +36272,7 @@
 		array (
 			"name"		=> "Raw Lesser Potion of Healing",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Kingsfoil Leaf, C 1 Healing Essence",
+			"ingredient"	=> "C 1 Cut Octarchfoil Leaf, C 1 Healing Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -36382,7 +36382,7 @@
 		array (
 			"name"		=> "Raw Potion of Healing",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Kingsfoil Tea, C 2 Healing Essence",
+			"ingredient"	=> "C 1 Octarchfoil Tea, C 2 Healing Essence",
 			"result"	=> "1",
 			"tool"		=> "Alchemy Table (combine)",
 			"skill"		=> "Alchemy",
@@ -39048,9 +39048,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Barberry Tea Mix",
+			"name"		=> "Sapphire Orilliphia Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Barberry Root, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Sapphire Orilliphia Root, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39058,9 +39058,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Blue Cohosh Tea Mix",
+			"name"		=> "Dreamclaw Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Blue Cohosh Root, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Dreamclaw, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39078,9 +39078,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Butchers Broom Tea Mix",
+			"name"		=> "Spinedew Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Butchers Broom Root, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Spinedew, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39108,9 +39108,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Dandelion Tea Mix",
+			"name"		=> "Firelantern Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Dandelion Flower, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Firelantern Flower, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39118,9 +39118,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Devils Claw Tea Mix",
+			"name"		=> "Nicinela Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Devils Claw, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Nicinela, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39158,9 +39158,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Golden Ivy Tea Mix",
+			"name"		=> "Rubyvein Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Golden Ivy Leaf, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Rubyvein Leaf, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39178,9 +39178,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Kingsfoil Tea Mix",
+			"name"		=> "Octarchfoil Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Kingsfoil Leaf, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Octarchfoil Leaf, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39218,9 +39218,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Snowbud Tea Mix",
+			"name"		=> "Snowlily Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Snowbud, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Snowlily, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39228,9 +39228,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Wyn Tea Mix",
+			"name"		=> "Blue Orchid Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Wyn Reed, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Blue Orchid, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39238,9 +39238,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Yarrow Tea Mix",
+			"name"		=> "Lunabrosia Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Yarrow, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Lunabrosia, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39248,9 +39248,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Barberry Root",
+			"name"		=> "Cut Sapphire Orilliphia Root",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Barberry Root",
+			"ingredient"	=> "H 1 Sapphire Orilliphia Root",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39308,9 +39308,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Dandelion Flower",
+			"name"		=> "Cut Firelantern Flower",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Dandelion Flower",
+			"ingredient"	=> "H 1 Firelantern Flower",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39318,9 +39318,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Kingsfoil Leaf",
+			"name"		=> "Cut Octarchfoil Leaf",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Kingsfoil Leaf",
+			"ingredient"	=> "H 1 Octarchfoil Leaf",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39338,9 +39338,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Lavender Tea Mix",
+			"name"		=> "Glaboria Tea Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Lavender Flower, C 1 Mug of Hot Water",
+			"ingredient"	=> "C 1 Cut Glaboria Flower, C 1 Mug of Hot Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -39348,9 +39348,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Lavender Flower",
+			"name"		=> "Cut Glaboria Flower",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Lavender Flower",
+			"ingredient"	=> "H 1 Glaboria Flower",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39378,9 +39378,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Wyn Reed",
+			"name"		=> "Cut Blue Orchid",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Wyn Reed",
+			"ingredient"	=> "H 1 Blue Orchid",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39428,9 +39428,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Devils Claw",
+			"name"		=> "Cut Nicinela",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Devils Claw",
+			"ingredient"	=> "H 1 Nicinela",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39448,9 +39448,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Snowbud",
+			"name"		=> "Cut Snowlily",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Snowbud",
+			"ingredient"	=> "H 1 Snowlily",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39468,9 +39468,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Yarrow",
+			"name"		=> "Cut Lunabrosia",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Yarrow",
+			"ingredient"	=> "H 1 Lunabrosia",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39478,9 +39478,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Butchers Broom Root",
+			"name"		=> "Cut Spinedew",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Butchers Broom Root",
+			"ingredient"	=> "H 1 Spinedew",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39488,9 +39488,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Golden Ivy Leaf",
+			"name"		=> "Cut Rubyvein Leaf",
 			"type"		=> "i",
-			"ingredient"	=> "H 1 Golden Ivy Leaf",
+			"ingredient"	=> "H 1 Rubyvein Leaf",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39508,9 +39508,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Barberry Tea",
+			"name"		=> "Sapphire Orilliphia Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Barberry Tea Mix",
+			"ingredient"	=> "C 1 Sapphire Orilliphia Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39558,9 +39558,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Dandelion Tea",
+			"name"		=> "Firelantern Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Dandelion Tea Mix",
+			"ingredient"	=> "C 1 Firelantern Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39568,9 +39568,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Kingsfoil Tea",
+			"name"		=> "Octarchfoil Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Kingsfoil Tea Mix",
+			"ingredient"	=> "C 1 Octarchfoil Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39588,9 +39588,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Lavender Tea",
+			"name"		=> "Glaboria Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Lavender Tea Mix",
+			"ingredient"	=> "C 1 Glaboria Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39618,9 +39618,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Wyn Tea",
+			"name"		=> "Blue Orchid Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Wyn Tea Mix",
+			"ingredient"	=> "C 1 Blue Orchid Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39668,9 +39668,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Devils Claw Tea",
+			"name"		=> "Nicinela Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Devils Claw Tea Mix",
+			"ingredient"	=> "C 1 Nicinela Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39688,9 +39688,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Snowbud Tea",
+			"name"		=> "Snowlily Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Snowbud Tea Mix",
+			"ingredient"	=> "C 1 Snowlily Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39708,9 +39708,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Yarrow Tea",
+			"name"		=> "Lunabrosia Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Yarrow Tea Mix",
+			"ingredient"	=> "C 1 Lunabrosia Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39718,9 +39718,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Cut Blue Cohosh Root",
+			"name"		=> "Cut Dreamclaw",
 			"type"		=> "P",
-			"ingredient"	=> "H 1 Blue Cohosh Root",
+			"ingredient"	=> "H 1 Dreamclaw",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Kitchen Knife",
 			"skill"		=> "Herbal",
@@ -39728,9 +39728,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Blue Cohosh Tea",
+			"name"		=> "Dreamclaw Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Blue Cohosh Tea Mix",
+			"ingredient"	=> "C 1 Dreamclaw Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39738,9 +39738,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Butchers Broom Tea",
+			"name"		=> "Spinedew Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Butchers Broom Tea Mix",
+			"ingredient"	=> "C 1 Spinedew Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -39748,9 +39748,9 @@
 			"book"		=> "Herbal Remedies"
 		),
 		array (
-			"name"		=> "Golden Ivy Tea",
+			"name"		=> "Rubyvein Tea",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Golden Ivy Tea Mix",
+			"ingredient"	=> "C 1 Rubyvein Tea Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -41072,7 +41072,7 @@
 		array (
 			"name"		=> "Uncooked Kikiri Soup",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Boiling Salt Water, C 2 Sliced Carrot, C 2 Sliced Pungent Tuber, C 2 Dash of Ground Wyn Reed, C 1 Pile of Kikiri Meat Chunk",
+			"ingredient"	=> "C 1 Boiling Salt Water, C 2 Sliced Carrot, C 2 Sliced Pungent Tuber, C 2 Dash of Ground Blue Orchid, C 1 Pile of Kikiri Meat Chunk",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Cooking",
@@ -42168,9 +42168,9 @@
 		// Nature's Secrets
 		//
 		array (
-			"name"		=> "Barberry Syrup Mix",
+			"name"		=> "Sapphire Orilliphia Syrup Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Barberry Extract, B 1 Honey",
+			"ingredient"	=> "C 1 Sapphire Orilliphia Extract, B 1 Honey",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -42180,7 +42180,7 @@
 		array (
 			"name"		=> "Golden Syrup Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Golden Ivy Extract, B 1 Honey",
+			"ingredient"	=> "C 1 Rubyvein Extract, B 1 Honey",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -42188,9 +42188,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Kingsfoil Poultice Mix",
+			"name"		=> "Octarchfoil Poultice Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Kingsfoil Paste, B 1 Cloth for Poultice",
+			"ingredient"	=> "C 1 Octarchfoil Paste, B 1 Cloth for Poultice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -42218,9 +42218,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Wyn Poultice Mix",
+			"name"		=> "Blue Orchid Poultice Mix",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Wyn Paste, B 1 Cloth for Poultice",
+			"ingredient"	=> "C 1 Blue Orchid Paste, B 1 Cloth for Poultice",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -42228,9 +42228,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Unfinished Lavender Oil",
+			"name"		=> "Unfinished Glaboria Oil",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cut Lavender Flower, C 1 Hot Wragberry Oil",
+			"ingredient"	=> "C 1 Cut Glaboria Flower, C 1 Hot Wragberry Oil",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Herbal",
@@ -42248,9 +42248,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Kingsfoil Paste",
+			"name"		=> "Octarchfoil Paste",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Kingsfoil Pulp",
+			"ingredient"	=> "C 1 Octarchfoil Pulp",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Herbal",
@@ -42258,9 +42258,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Wyn Paste",
+			"name"		=> "Blue Orchid Paste",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Wyn Pulp",
+			"ingredient"	=> "C 1 Blue Orchid Pulp",
 			"result"	=> "1",
 			"tool"		=> "Mortar and Pestle",
 			"skill"		=> "Herbal",
@@ -42268,9 +42268,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Golden Ivy Extract",
+			"name"		=> "Rubyvein Extract",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Golden Ivy Tea",
+			"ingredient"	=> "C 1 Rubyvein Tea",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -42278,9 +42278,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Lavender Oil",
+			"name"		=> "Glaboria Oil",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Unfinished Lavender Oil",
+			"ingredient"	=> "C 1 Unfinished Glaboria Oil",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -42298,9 +42298,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Kingsfoil Pulp",
+			"name"		=> "Octarchfoil Pulp",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Cut Kingsfoil Leaf",
+			"ingredient"	=> "C 1 Cut Octarchfoil Leaf",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
 			"skill"		=> "Herbal",
@@ -42328,9 +42328,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Wyn Pulp",
+			"name"		=> "Blue Orchid Pulp",
 			"type"		=> "I",
-			"ingredient"	=> "C 1 Cut Wyn Reed",
+			"ingredient"	=> "C 1 Cut Blue Orchid",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
 			"skill"		=> "Herbal",
@@ -42338,9 +42338,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Kingsfoil Pulp",
+			"name"		=> "Octarchfoil Pulp",
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Kingsfoil Leaf",
+			"ingredient"	=> "H 1 Octarchfoil Leaf",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
 			"skill"		=> "Herbal",
@@ -42368,9 +42368,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Wyn Pulp",
+			"name"		=> "Blue Orchid Pulp",
 			"type"		=> "I",
-			"ingredient"	=> "H 1 Wyn Reed",
+			"ingredient"	=> "H 1 Blue Orchid",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table + Masher",
 			"skill"		=> "Herbal",
@@ -42408,9 +42408,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Barberry Extract",
+			"name"		=> "Sapphire Orilliphia Extract",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Barberry Tea",
+			"ingredient"	=> "C 1 Sapphire Orilliphia Tea",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -42438,9 +42438,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Kingsfoil Poultice",
+			"name"		=> "Octarchfoil Poultice",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Kingsfoil Poultice Mix",
+			"ingredient"	=> "C 1 Octarchfoil Poultice Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -42468,9 +42468,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Wyn Poultice",
+			"name"		=> "Blue Orchid Poultice",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Wyn Poultice Mix",
+			"ingredient"	=> "C 1 Blue Orchid Poultice Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -42478,9 +42478,9 @@
 			"book"		=> "Nature's Secrets"
 		),
 		array (
-			"name"		=> "Barberry Syrup",
+			"name"		=> "Sapphire Orilliphia Syrup",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Barberry Syrup Mix",
+			"ingredient"	=> "C 1 Sapphire Orilliphia Syrup Mix",
 			"result"	=> "1",
 			"tool"		=> "Pot",
 			"skill"		=> "Herbal",
@@ -45427,9 +45427,9 @@
 		// Secrets of the Barrel
 		//
 		array (
-			"name"		=> "Brewed Dandelion Must",
+			"name"		=> "Brewed Firelantern Must",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Dandelion Must",
+			"ingredient"	=> "C 1 Firelantern Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
 			"skill"		=> "Brewing",
@@ -45437,9 +45437,9 @@
 			"book"		=> "Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Dandelion Wine Barrel",
+			"name"		=> "Firelantern Wine Barrel",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Half Brewed Dandelion Wine",
+			"ingredient"	=> "C 1 Half Brewed Firelantern Wine",
 			"result"	=> "5",
 			"tool"		=> "Brewer's Vat",
 			"skill"		=> "Brewing",
@@ -45527,9 +45527,9 @@
 			"book"		=> "Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Dandelion Must",
+			"name"		=> "Firelantern Must",
 			"type"		=> "i",
-			"ingredient"	=> "C 15 Dandelion Pulp, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
+			"ingredient"	=> "C 15 Firelantern Pulp, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Brewing",
@@ -45597,9 +45597,9 @@
 			"book"		=> "Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Dandelion Cider Wort",
+			"name"		=> "Firelantern Cider Wort",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Cooled Dandelion Cider Mash, C 1 Liquid Bread Rise",
+			"ingredient"	=> "C 1 Cooled Firelantern Cider Mash, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Brewing",
@@ -45657,9 +45657,9 @@
 			"book"		=> "Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Boiling Dandelion Cider Mash",
+			"name"		=> "Boiling Firelantern Cider Mash",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Heated Cider Mash, C 4 Dandelion Pulp, C 2 Pot of Boiling Water",
+			"ingredient"	=> "C 1 Heated Cider Mash, C 4 Firelantern Pulp, C 2 Pot of Boiling Water",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Brewing",
@@ -45717,9 +45717,9 @@
 			"book"		=> "Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Half Brewed Dandelion Wine",
+			"name"		=> "Half Brewed Firelantern Wine",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Strained Dandelion Must, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
+			"ingredient"	=> "C 1 Strained Firelantern Must, B 1 Water Filled Bucket, C 1 Liquid Bread Rise",
 			"result"	=> "1",
 			"tool"		=> "Preparation Table (combine)",
 			"skill"		=> "Brewing",
@@ -45777,9 +45777,9 @@
 			"book"		=> "Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Cooled Dandelion Cider Mash",
+			"name"		=> "Cooled Firelantern Cider Mash",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Boiling Dandelion Cider Mash",
+			"ingredient"	=> "C 1 Boiling Firelantern Cider Mash",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Wat",
 			"skill"		=> "Brewing",
@@ -45847,9 +45847,9 @@
 			"book"		=> "Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Strained Dandelion Must",
+			"name"		=> "Strained Firelantern Must",
 			"type"		=> "i",
-			"ingredient"	=> "C 1 Brewed Dandelion Must",
+			"ingredient"	=> "C 1 Brewed Firelantern Must",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat + Strainer",
 			"skill"		=> "Brewing",
@@ -45907,9 +45907,9 @@
 			"book"		=> "Secrets of the Barrel"
 		),
 		array (
-			"name"		=> "Dandelion Cider Keg",
+			"name"		=> "Firelantern Cider Keg",
 			"type"		=> "P",
-			"ingredient"	=> "C 1 Dandelion Cider Wort",
+			"ingredient"	=> "C 1 Firelantern Cider Wort",
 			"result"	=> "1",
 			"tool"		=> "Brewer's Vat",
 			"skill"		=> "Brewing",

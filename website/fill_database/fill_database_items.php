@@ -625,11 +625,11 @@
     $item_category = 'Herbal Preparations';
     $items_to_insert = array(
         // verified 2020-10-21
-        'Aleena Arlavin',   'Barberry Syrup',   100,
-        'Aleena Arlavin',   'Blue Cohosh Tea',  100,
+        'Aleena Arlavin',   'Sapphire Orilliphia Syrup',   100,
+        'Aleena Arlavin',   'Dreamclaw Tea',  100,
         'Aleena Arlavin',   'Hop Tea',          100,
         'Aleena Arlavin',   'Juiceberry Juice', 100,
-        'Aleena Arlavin',   'Lavender Tea',     100,
+        'Aleena Arlavin',   'Glaboria Tea',     100,
         'Aleena Arlavin',   'Orilliphia Tea',   100,
         );
     for($i = 0; $i < count($items_to_insert); $i += 3) {

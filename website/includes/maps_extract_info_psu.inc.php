@@ -71,7 +71,7 @@
             $get_locations = "SELECT name, position FROM mapsItems WHERE area = '" . $area . "' ORDER BY name";
             $all_locations = $mysqli->query($get_locations) or die(mysql_error());
             ?>
-            Items
+            Ressouces
             <form>
                 <select id="items" size=8>
                 <?php
